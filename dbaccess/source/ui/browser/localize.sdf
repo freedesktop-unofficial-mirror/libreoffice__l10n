@@ -1,0 +1,1379 @@
+#*************************************************************************
+#
+#   $RCSfile: localize.sdf,v $
+#
+#   $Revision: 1.2 $
+#
+#   last change: $Author: hjs $ $Date: 2004-06-26 17:26:59 $
+#
+#   The Contents of this file are made available subject to the terms of
+#   either of the following licenses
+#
+#          - GNU Lesser General Public License Version 2.1
+#          - Sun Industry Standards Source License Version 1.1
+#
+#   Sun Microsystems Inc., October, 2000
+#
+#   GNU Lesser General Public License Version 2.1
+#   =============================================
+#   Copyright 2000 by Sun Microsystems, Inc.
+#   901 San Antonio Road, Palo Alto, CA 94303, USA
+#
+#   This library is free software; you can redistribute it and/or
+#   modify it under the terms of the GNU Lesser General Public
+#   License version 2.1, as published by the Free Software Foundation.
+#
+#   This library is distributed in the hope that it will be useful,
+#   but WITHOUT ANY WARRANTY; without even the implied warranty of
+#   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+#   Lesser General Public License for more details.
+#
+#   You should have received a copy of the GNU Lesser General Public
+#   License along with this library; if not, write to the Free Software
+#   Foundation, Inc., 59 Temple Place, Suite 330, Boston,
+#   MA  02111-1307  USA
+#
+#
+#   Sun Industry Standards Source License Version 1.1
+#   =================================================
+#   The contents of this file are subject to the Sun Industry Standards
+#   Source License Version 1.1 (the "License"); You may not use this file
+#   except in compliance with the License. You may obtain a copy of the
+#   License at http://www.openoffice.org/license.html.
+#
+#   Software provided under this License is provided on an "AS IS" basis,
+#   WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING,
+#   WITHOUT LIMITATION, WARRANTIES THAT THE SOFTWARE IS FREE OF DEFECTS,
+#   MERCHANTABLE, FIT FOR A PARTICULAR PURPOSE, OR NON-INFRINGING.
+#   See the License for the specific provisions governing your rights and
+#   obligations concerning the Software.
+#
+#   The Initial Developer of the Original Code is: Sun Microsystems, Inc.
+#
+#   Copyright: 2000 by Sun Microsystems, Inc.
+#
+#   All Rights Reserved.
+#
+#   Contributor(s): _______________________________________
+#
+#
+#
+#*************************************************************************
+
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_DSBROWSER_TITLE			0	fr	Vue des sources de données				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUERY_DELETE_QUERY			0	ja	クエリー '$name$' を削除しますか。				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_ROWS				0	fr	Voulez-vous supprimer les données sélectionnées ?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_BOOKMARKS_CONTAINER				0	fi	Linkit				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLATTRSET	HID_BROWSER_COLUMNFORMAT		0	pt	~Formatar colunas...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				0	cz	Nebyl nalezen žádný odpovídající název sloupce.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT	ID_TREE_RELATION_DESIGN	HID_BROWSER_RELATION_DESIGN		0	cz	Návrh relací				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLATTRSET	HID_BROWSER_COLUMNFORMAT		0	ar	تنسيق الأعمدة...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT	ID_TREE_RELATION_DESIGN	HID_BROWSER_RELATION_DESIGN		0	es	Diseño de rela~ciones				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_OPENTABLES_WARNINGS			0	et	Warnings encountered				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLATTRSET	HID_BROWSER_COLUMNFORMAT		0	cz	Formát sloupce...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_CLOSECONN		HID_BROWSER_CLOSECONN		0	ru	Отключить				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUERY_DELETE_QUERY			0	cs	Chcete smazat dotaz '$name$'?				2003-10-21 15:24:56.263
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	MENU_BROWSER_TABLECONTEXT	QUERY_CONNECTION_LOST			0	pt-BR	A conexão para o banco de dados foi perdida. Deseja reconectar?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUERY_DELETE_QUERY			0	he	Soll die Abfrage '$name$' gelöscht werden?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	MENU_BROWSER_TABLECONTEXT	QUERY_CONNECTION_LOST			0	he	Die Verbindung zur Datenbank wurde gelöscht! Soll Sie wieder aufgebaut werden?				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_ROWHEIGHT	HID_BROWSER_ROWHEIGHT		0	zh-TW	列高...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLATTRSET	HID_BROWSER_COLUMNFORMAT		0	hi-IN	~स्तंभ रचना...				20040507 14:21:28
+dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_TBL_TITLE				0	tr	Tablo #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_TITLE_CONFIRM_DELETION			0	hi-IN	हटाना दृढ़ करो				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	ca	El registre actual ha canviat.\nVoleu desar els canvis?				20040507 14:21:28
+dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_TBL_TITLE				0	ca	Taula #				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				0	nl	Geen overeenstemmende kolomnamen gevonden!				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLATTRSET	HID_BROWSER_COLUMNFORMAT		0	et	Column ~Format...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_ROWS				0	ko	선택한 데이터를 삭제하시겠습니까?				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				0	ja	選択したテーブルまたはクエリーを表示する。				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	MENU_BROWSER_TABLECONTEXT	QUERY_CONNECTION_LOST			0	ru	Соединение с базой данных потеряно. Восстановить?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_TITLE_CONFIRM_DELETION			0	el	Επιβεβαίωση διαγραφής				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_ROWS				0	ca	Voleu suprimir les dades seleccionades?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_FILTER				0	ar	حدث خطأ أثناء تعيين معايير التصفية				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_DSBROWSER_TITLE			0	nl	Beeld gegevensbronnen				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_DIRECT_SQL		HID_DSBROWSER_DIRECTSQL		0	hu	SQL...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_LOADING_QUERY			0	tr	$name$ sorgulaması yükleniyor...				20040507 14:21:28
+dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_QRY_TITLE				0	it	Ricerca #				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLUMNINFO	HID_BROWSER_COLUMNINFO		0	ru	Копировать описание столбца				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_SAVE_CURRENT_RECORD				0	ko	현재 레코드 저장				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_NO_TABLE_FORMAT_INSIDE			0	pt-BR	Não foi possível encontrar o formato da tabela.				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				0	fr	Impossible de détecter les noms de colonnes correspondants !				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_OPENTABLES_WARNINGS_DETAILS			0	pt-BR	Enquanto recuperava as tabelas, a conexão do banco de dados registrou alguns avisos.				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_OBJECT_ALREADY_EXISTS				0	zh-CN	名称 # 已经存在。				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_TABLES_CONTAINER				0	el	Πίνακες				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_QUERIES_CONTAINER				0	fr	Requêtes				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	ru	~Управление источниками данных...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_DIRECT_SQL		HID_DSBROWSER_DIRECTSQL		0	el	SQL...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT.MENU_BROWSER_VIEWCONTEXT	ID_TREE_RELATION_DESIGN	HID_BROWSER_RELATION_DESIGN		0	zh-CN	关联设计(~A)				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_CONNECTION_LOST				0	ko	연결 해제				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_COULDNOTCONNECT_DATASOURCE			0	hu	Nem hozható létre kapcsolat a következő adatforrással: "$name$"				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				0	tr	Sıralama kriteri hatası				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	es	El registro actual ha sido modificado.\n¿Desea guardar las modificaciones?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_DIRECT_SQL		HID_DSBROWSER_DIRECTSQL		0	cz	SQL...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				0	pt-BR	Erro ao definir critérios de ordenação				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT.RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	tr	Yeniden İnşa Et				20040507 14:21:28
+dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_QRY_TITLE				0	ja	クエリー #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_LOADING_QUERY			0	th	กำลังโหลดแบบสอบถาม $name$ ...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	nl	~gegevensbronnen beheren...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_OPENTABLES_WARNINGS_DETAILS			0	cs	Databázové připojení nahlásilo varování během načítání tabulek.				2003-10-21 15:24:56.263
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_BOOKMARKS_CONTAINER				0	et	Links				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_TABLES_CONTAINER				0	sk	Tabuľky				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_LOADING_DATASOURCE				0	es	Cargar datos				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_QUERIES_CONTAINER				0	da	Forespørgsler				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				0	ca	S'ha produït un error en definir els criteris d'ordenació				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT	ID_TREE_RELATION_DESIGN	HID_BROWSER_RELATION_DESIGN		0	fi	Yhteyksien ~rakenne				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_OBJECT_ALREADY_EXISTS				0	et	The name "#" already exists.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT	ID_TREE_RELATION_DESIGN	HID_BROWSER_RELATION_DESIGN		0	ru	Проектирование связей				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	es	A~dministrar fuentes de datos...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	da	Fortryd: Datainput				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				0	ar	Shows the selected table/query.				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				0	hu	Adatforrás táblanézete				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_FILTER				0	sk	Chybné nastavenie kritérií­ filtra				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	cur_item	RID_BRW_QRY_TOOLBOX	ID_BROWSER_CLOSE	ID_BROWSER_CLOSE		0	zh-TW	關閉				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_SAVE_CURRENT_RECORD				0	et	Save current record				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_TABLEATTR	HID_BROWSER_TABLEFORMAT		0	ko	테이블 서식...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	hi-IN	अनावृत्ति: ड़ॉटा इनपुट				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUERY_DELETE_TABLE			0	pt-BR	Deseja excluir a tabela "%1"?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_DATABROWSER_FILTERED				0	pt	(filtrado)				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_QUERIES_CONTAINER				0	cz	Dotazy				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_QUERIES_CONTAINER				0	el	Ερωτήματα				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_LOADING_QUERY			0	he	lade Abfrage $name$ ...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_CLOSECONN		HID_BROWSER_CLOSECONN		0	ko	연결 끊기(~N)				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_ROWS				0	he	Sollen die selektierten Daten gelöscht werden?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_DATABROWSER_FILTERED				0	sk	(filtrované)				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				0	pl	Datasource tableview				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT.MENU_BROWSER_VIEWCONTEXT	ID_TREE_RELATION_DESIGN	HID_BROWSER_RELATION_DESIGN		0	zh-TW	關聯設計(~A)				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT	ID_TREE_RELATION_DESIGN	HID_BROWSER_RELATION_DESIGN		0	zh-CN	关联设计(~A)				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	fi	Nykyistä tietuetta on muutettu.\nHaluatko tallentaa muutokset?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_TITLE_CONFIRM_DELETION			0	sv	Bekräfta radering				20040507 14:21:28
+dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_QRY_TITLE				0	ko	쿼리 #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_CONNECTION_LOST				0	ja	接続は切断されました				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_TITLE_CONFIRM_DELETION			0	et	Confirm Deletion				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUERY_DELETE_QUERY			0	et	Do you want to delete the query '$name$'?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_LOADING_TABLE			0	he	lade Tabelle $name$ ...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				0	cs	Chyba při nastavení kritérií pro řazení				2003-10-21 15:24:56.263
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REFRESHCONN		0	fr	~Rétablir la connexion				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_DATABROWSER_FILTERED				0	cs	(filtrováno)				2003-10-21 15:24:56.263
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_QUERIES_CONTAINER				0	ar	استفسارات				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	hu	A jelenlegi rekord megváltozott. \nSzeretné menteni? 				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_LOADING_TABLE			0	es	cargando tabla $name$ ...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_CONNECTION_LOST				0	he	Vebindung verloren				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_ERROR_OCCURED_WHILE_COPYING				0	et	An error occurred. Do you want to continue copying?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_COULDNOTCONNECT_DATASOURCE			0	et	The connection to the data source "$name$" could not be established.				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_ERROR_OCCURED_WHILE_COPYING				0	he	Es ist ein Fehler aufgetreten! Wollen Sie den Kopiervorgang fortsetzen?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_FILTER				0	pl	Błąd ustawiania kryteriów filtra				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_CONNECTION_LOST				0	cz	Spojení ztraceno				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_OPENTABLES_WARNINGS			0	da	Advarsler foreligger.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_TABLES_CONTAINER				0	cz	Tabulky				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLATTRSET	HID_BROWSER_COLUMNFORMAT		0	pt	~Formatar colunas...				2003-10-21 16:54:08.14
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT.MENU_BROWSER_VIEWCONTEXT	ID_TREE_RELATION_DESIGN	HID_BROWSER_RELATION_DESIGN		0	ja	リレーションデザイン(~A)				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_ROWHEIGHT	HID_BROWSER_ROWHEIGHT		0	pt	Altura da linha...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_FILTER				0	he	Fehler beim Setzen der Filter-Kriterien				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_DIRECT_SQL		HID_DSBROWSER_DIRECTSQL		0	ar	SQL...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_COULDNOTCONNECT_DATASOURCE			0	pt	Foi impossível estabelecer a ligação à fonte de dados "$name$".				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_OBJECT_ALREADY_EXISTS				0	pt-BR	O nome # já existe.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REFRESHCONN		0	fi	~Päivitä yhteys				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	MENU_BROWSER_TABLECONTEXT	QUERY_BRW_DELETE_QUERY_CONFIRM			0	he	Die Abfrage existiert bereits. Soll sie gelöscht werden?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_LOADING_TABLE			0	cz	Načítání tabulky $name$ ...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_CONNECTION_LOST				0	sk	Spojenie stratené				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_DATABROWSER_FILTERED				0	he	(gefiltert)				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				0	zh-TW	顯示已選擇的表格/查詢。				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				0	th	มุมมอง #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_CONNECTING_DATASOURCE			0	ca	S'està establint la connexió amb "$name$" ...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	MENU_BROWSER_TABLECONTEXT	QUERY_BRW_DELETE_QUERY_CONFIRM			0	tr	Sorgu halihazırda mevcut. Silmek istermisiniz?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_TABLES_CONTAINER				0	ca	Taules				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_TABLEATTR	HID_BROWSER_TABLEFORMAT		0	es	Formateado de tabla...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_CLOSECONN		HID_BROWSER_CLOSECONN		0	sl	Preki~ni povezavo				20040507 14:21:28
+dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_QRY_TITLE				0	pl	Kwerenda #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_LOADING_DATASOURCE				0	el	Φόρτωση δεδομένων				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_TABLES_CONTAINER				0	he	‮טבלאות‬				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_ROWS				0	zh-CN	您要删除选中的数据吗？				20040507 14:21:28
+dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_QRY_TITLE				0	th	แบบสอบถาม  #				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				0	pt	Foi impossível encontrar nomes de colunas correspondentes!				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	MENU_BROWSER_TABLECONTEXT	QUERY_BRW_DELETE_QUERY_CONFIRM			0	nl	De query bestaat reeds. Wilt u deze wissen?				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_ROWHEIGHT	HID_BROWSER_ROWHEIGHT		0	ru	Высота строк...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_QUERIES_CONTAINER				0	ru	Запросы				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				0	it	Non è stato trovato alcun nome di colonna corrispondente.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_QUERIES_CONTAINER				0	sl	Poizvedbe				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	cs	Aktuální záznam byl změněn.\nChcete uložit změny?				2003-10-21 15:24:56.263
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_TABLEATTR	HID_BROWSER_TABLEFORMAT		0	et	Table Format...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_LOADING_DATASOURCE				0	sk	Načítať dáta				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_OPENTABLES_WARNINGS_DETAILS			0	et	While retrieving the tables, warnings were reported by the database connection.				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_SAVE_CURRENT_RECORD				0	fr	Enregistrer l'enregistrement actif				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	MENU_BROWSER_TABLECONTEXT	QUERY_BRW_DELETE_QUERY_CONFIRM			0	cz	Tento dotaz již existuje. Chcete jej smazat?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_DIRECT_SQL		HID_DSBROWSER_DIRECTSQL		0	tr	SQL...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_OPENTABLES_WARNINGS_DETAILS			0	sk	Počas získavania tabuliek, sa vyskytli varovania pri spojení s databázou.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT	ID_TREE_RELATION_DESIGN	HID_BROWSER_RELATION_DESIGN		0	pt-BR	Es~boçar relação				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_ROWS				0	tr	Seçilen veriyi silmek istermisiniz?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_LOADING_DATASOURCE				0	fr	Charger les données				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_TBL_TITLE				0	it	Tabella #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT.RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	he	Neu aufbauen				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT.RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	ru	Перечитать				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUERY_DELETE_TABLE			0	hu	Biztosan törli a következő táblát: '%1'?  				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_CONNECTION_LOST				0	cs	Spojení ztraceno				2003-10-21 15:24:56.263
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				0	sv	Visar den markerade tabellen eller sökningen.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REFRESHCONN		0	sk	Obnoviť ~spojenie				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				0	ar	حدث خطأ أثناء تعيين معايير الفرز				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_OPENTABLES_WARNINGS_DETAILS			0	zh-CN	读取表格时发出一个数据库连接的警告。				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_DATABROWSER_FILTERED				0	es	(filtrado)				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_ROWS				0	sk	Chcete zmazať vybrané dáta?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_CONNECTION_LOST				0	th	การเชื่อมต่อขาดหาย				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_SAVE_CURRENT_RECORD				0	tr	Güncek tutanağı kaydet				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				0	pt-BR	Mostra as tabelas ou consultas selecionadas				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_BOOKMARKS_CONTAINER				0	pt	Ligações				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				0	ja	並べ替え条件の設定時のエラー				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_ROWS				0	zh-TW	您要刪除選中的資料﹖				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_OPENTABLES_WARNINGS			0	es	Han aparecido advertencias.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_DSBROWSER_TITLE			0	pl	Widok źródeł danych				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_TABLES_CONTAINER				0	da	Tabeller				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT	ID_TREE_RELATION_DESIGN	HID_BROWSER_RELATION_DESIGN		0	hi-IN	~संबन्ध डिसैन				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT.MENU_BROWSER_VIEWCONTEXT	ID_TREE_RELATION_DESIGN	HID_BROWSER_RELATION_DESIGN		0	sv	Relatio~nsutkast				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_QRY_TITLE				0	hu	# lekérdezés				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_TABLEATTR	HID_BROWSER_TABLEFORMAT		0	ru	Шрифт...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_ROWHEIGHT	HID_BROWSER_ROWHEIGHT		0	tr	Satır yüksekliği				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_ROWHEIGHT	HID_BROWSER_ROWHEIGHT		0	et	Row Height...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				0	cs	Pohled #				2003-10-21 15:24:56.263
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	MENU_BROWSER_TABLECONTEXT	QUERY_BRW_DELETE_QUERY_CONFIRM			0	fr	La requête existe déjà. Voulez-vous la supprimer ?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_DSBROWSER_TITLE			0	he	Datenquellen Ansicht				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	cur_item	RID_BRW_QRY_TOOLBOX	ID_BROWSER_CLOSE	ID_BROWSER_CLOSE		0	pt	Fechar				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_ERROR_OCCURED_WHILE_COPYING				0	sl	Nastala je napaka. Ali želite nadaljevati kopiranje?				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_ROWHEIGHT	HID_BROWSER_ROWHEIGHT		0	hu	Sormagasság...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	fr	Annuler : saisie des données				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT	ID_TREE_RELATION_DESIGN	HID_BROWSER_RELATION_DESIGN		0	sk	Návrh r~elácií				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_LOADING_DATASOURCE				0	nl	Gegevens laden				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_CONNECTING_DATASOURCE			0	da	Opretter forbindelse til "$name$" ...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				0	th	Shows the selected table or query.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT	ID_TREE_RELATION_DESIGN	HID_BROWSER_RELATION_DESIGN		0	ar	تصميم علاقات				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REFRESHCONN		0	he	Verbindung e~rneuern				20040507 14:21:28
+dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_TBL_TITLE				0	fr	Table #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUERY_DELETE_QUERY			0	da	Skal forespørgslen '$name$' slettes?				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_TBL_TITLE				0	sl	Tabela #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUERY_DELETE_QUERY			0	sk	Chcete zmazať dotaz '$name$'?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_LOADING_DATASOURCE				0	th	โหลดข้อมูล				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_DATABROWSER_FILTERED				0	ru	(отфильтровано)				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_OPENTABLES_WARNINGS			0	th	พบคำเตือน				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLATTRSET	HID_BROWSER_COLUMNFORMAT		0	pt-BR	~Formatar colunas...				20040507 14:21:28
+dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_TBL_TITLE				0	fi	Taulu #				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_TBL_TITLE				0	cz	Tabulka #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_CLOSECONN		HID_BROWSER_CLOSECONN		0	ca	Desco~nnecta				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_NO_TABLE_FORMAT_INSIDE			0	el	Δεν ήταν δυνατή η εύρεση μορφοποίησης πίνακα.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_OPENTABLES_WARNINGS			0	ru	Предупреждения				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_QUERIES_CONTAINER				0	pt-BR	Consultas				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	ar	تم تغيير السجل الحالي.\nهل تريد حفظ التغييرات‎؟				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_CONNECTING_DATASOURCE			0	zh-TW	連線到<$name$>...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_LOADING_QUERY			0	it	Carica ricerca $name$ ...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_NO_TABLE_FORMAT_INSIDE			0	ar	No table format found.				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				0	ko	일치하는 열 이름을 찾지 못했습니다.				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				0	hi-IN	Data source table view				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_DATABROWSER_FILTERED				0	pt-BR	(filtrado)				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	cur_item	RID_BRW_QRY_TOOLBOX	ID_BROWSER_CLOSE	ID_BROWSER_CLOSE		0	zh-CN	关闭				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REFRESHCONN		0	ca	~Refresca la connexió				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				0	cz	Zobrazit vybranou tabulku nebo dotaz.				20040507 14:21:28
+dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_QRY_TITLE				0	et	Query #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_LOADING_TABLE			0	hu	$name$ tábla betöltése...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_TABLEATTR	HID_BROWSER_TABLEFORMAT		0	pt	Formatar tabela...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_OBJECT_ALREADY_EXISTS				0	he	Der Name "#" existiert bereits.				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				0	th	No matching column names were found.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	ja	現在のレコードは変更されています。\n変更を保存しますか。				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_COULDNOTCONNECT_DATASOURCE			0	pl	Nie udało się nawiązać połączenia ze źródłem danych "$name$".				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_ROWHEIGHT	HID_BROWSER_ROWHEIGHT		0	hi-IN	पंक्ति ऊँचाई...				20040507 14:21:28
+dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_QRY_TITLE				0	hi-IN	जानकारी #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	MENU_BROWSER_TABLECONTEXT	QUERY_CONNECTION_LOST			0	nl	De verbinding naar de database is opgeheven! Wilt u deze weer tot stand brengen?				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_OBJECT_ALREADY_EXISTS				0	pl	Nazwa # już istnieje.				20040507 14:21:28
+dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_TBL_TITLE				0	el	Πίνακας #				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_QRY_TITLE				0	ko	쿼리 #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_LOADING_QUERY			0	nl	Bezig met laden van query $name$ ...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	pt	O registo de dados activo foi modificado.\nGuardar as modificações?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_OPENTABLES_WARNINGS_DETAILS			0	ko	테이블을 검색 중 데이터 연결에서 경고를 했습니다.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REFRESHCONN		0	ar	تحديث الاتصال				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_OPENTABLES_WARNINGS			0	ko	경고 발생				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	MENU_BROWSER_TABLECONTEXT	QUERY_BRW_DELETE_QUERY_CONFIRM			0	ko	이 쿼리는 이미 있습니다. 삭제하시겠습니까?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT.RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	th	Rebuild				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_TBL_TITLE				0	sk	Tabuľka #				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				0	zh-TW	沒有找到符合條件的欄名稱！				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_OPENTABLES_WARNINGS_DETAILS			0	pl	W trakcie pobierania tabel, połączenie z bazą danych zgłosiło ostrzeżenia.				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_QRY_TITLE				0	sv	Sökning #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT	ID_TREE_RELATION_DESIGN	HID_BROWSER_RELATION_DESIGN		0	sl	Oblikovanje rel~acij				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_DATABROWSER_FILTERED				0	sl	(filtrirano)				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_NO_TABLE_FORMAT_INSIDE			0	ko	테이블 서식을 찾지 못했습니다.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				0	fr	Erreur de définition des critères de tri				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	cur_item	RID_BRW_QRY_TOOLBOX	ID_BROWSER_CLOSE	ID_BROWSER_CLOSE		0	sl	Zapri				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_TABLEATTR	HID_BROWSER_TABLEFORMAT		0	el	Μορφοποίηση πίνακα...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_TITLE_CONFIRM_DELETION			0	cz	Potvrdit smazání				20040507 14:21:28
+dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_QRY_TITLE				0	ar	الاستفسار #				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_ERROR_OCCURED_WHILE_COPYING				0	ja	エラーが発生しました。コピー処理を続行しますか。				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_QUERIES_CONTAINER				0	sv	Sökningar				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT.MENU_BROWSER_VIEWCONTEXT	ID_TREE_RELATION_DESIGN	HID_BROWSER_RELATION_DESIGN		0	pt	Es~boçar relação				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_ROWHEIGHT	HID_BROWSER_ROWHEIGHT		0	nl	Rijhoogte...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_DATABROWSER_FILTERED				0	pl	(przefiltrowane)				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_CLOSECONN		HID_BROWSER_CLOSECONN		0	nl	~Verbinding verbreken				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_CONNECTING_DATASOURCE			0	zh-CN	连接到 "$name$" ...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				0	da	Der kunne ikke findes noget passende kolonnenavn!				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT	ID_TREE_RELATION_DESIGN	HID_BROWSER_RELATION_DESIGN		0	hu	~Reláció tervezése				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_DSBROWSER_TITLE			0	cs	Pohled na datové zdroje				2003-10-21 15:24:56.263
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_ROWS				0	da	Skal de markerede data slettes?				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_ERROR_OCCURED_WHILE_COPYING				0	es	¡Ha ocurrido un error! ¿Desea continuar el proceso de copia?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REFRESHCONN		0	sv	Fö~rnya förbindelse				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_TBL_TITLE				0	ar	الجدول #				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				0	nl	Datasource tableview				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_TABLES_CONTAINER				0	sv	Tabeller				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_QRY_TITLE				0	fr	Requête #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUERY_DELETE_TABLE			0	ar	هل تريد حذف الجدول '%1'؟				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_TBL_TITLE				0	el	Πίνακας #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_DIRECT_SQL		HID_DSBROWSER_DIRECTSQL		0	et	SQL...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_ROWHEIGHT	HID_BROWSER_ROWHEIGHT		0	fr	Hauteur de ligne...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_COULDNOTCONNECT_DATASOURCE			0	it	Impossibile stabilire il collegamento alla sorgente dati esterna "$name$".				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_NO_TABLE_FORMAT_INSIDE			0	zh-TW	無法找到表格格式。				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	MENU_BROWSER_TABLECONTEXT	QUERY_CONNECTION_LOST			0	et	The connection to the database has been lost. Do you want to reconnect?				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	nl	Ongedaan maken: gegevensinvoer				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_TABLEATTR	HID_BROWSER_TABLEFORMAT		0	zh-CN	表格格式...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUERY_DELETE_QUERY			0	sl	Ali želite izbrisati poizvedbo '$name$'?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	MENU_BROWSER_TABLECONTEXT	QUERY_BRW_DELETE_QUERY_CONFIRM			0	sk	Dotaz už existuje. Chcete ho zmazať?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT.MENU_BROWSER_VIEWCONTEXT	ID_TREE_RELATION_DESIGN	HID_BROWSER_RELATION_DESIGN		0	ca	Disseny de la rel~ació				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	MENU_BROWSER_TABLECONTEXT	QUERY_BRW_DELETE_QUERY_CONFIRM			0	hi-IN	जानकारी पहिले से ही अस्तित्व में है । आप इसको को मिटाना चाहते है ?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	MENU_BROWSER_TABLECONTEXT	QUERY_CONNECTION_LOST			0	ko	데이터베이스와의 연결이 끊어졌습니다. 다시 연결하시겠습니까?				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_OBJECT_ALREADY_EXISTS				0	hu	A következő név már létezik: "#".				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_OPENTABLES_WARNINGS_DETAILS			0	sl	Pri sprejemanju tabel je povezava z zbirko podatkov izdala opozorila.				20040507 14:21:28
+dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_QRY_TITLE				0	zh-CN	查询 #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_DATABROWSER_FILTERED				0	hi-IN	(फ़िल्टर की हुयी)				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT	ID_TREE_RELATION_DESIGN	HID_BROWSER_RELATION_DESIGN		0	th	ออกแบบความ~สัมพันธ์				20040507 14:21:28
+dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_TBL_TITLE				0	et	Table #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_LOADING_QUERY			0	ja	クエリー $name$ の読み込み中...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUERY_DELETE_TABLE			0	it	Volete eliminare la tabella '%1'?				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_ERROR_OCCURED_WHILE_COPYING				0	zh-CN	出现一个错误！还是要继续复制？				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_TABLEATTR	HID_BROWSER_TABLEFORMAT		0	th	รูปแบบตาราง...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_OBJECT_ALREADY_EXISTS				0	el	Το όνομα # υπάρχει ήδη.				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_TBL_TITLE				0	hi-IN	सारणी #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	MENU_BROWSER_TABLECONTEXT	QUERY_CONNECTION_LOST			0	hu	Az adatbázis-kapcsolat megszakadt. Újra szeretne csatlakozni?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				0	hi-IN	सोर्ट् क्रैटीरिया को सेट्ट करने के समय गलती				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REFRESHCONN		0	pl	~Odśwież połączenie				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	ja	データソースの管理(~D)...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_TABLES_CONTAINER				0	es	Tablas				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REFRESHCONN		0	pt	~Actualizar ligação				20040507 14:21:28
+dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_QRY_TITLE				0	es	Consulta #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				0	fi	Virhe lajittelujärjestyksen määrityksessä				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_COULDNOTCONNECT_DATASOURCE			0	fr	Impossible d'établir une connexion à la source de données "$name$".				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_DSBROWSER_TITLE			0	et	Data sources view				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_QRY_TITLE				0	pt-BR	Consulta #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUERY_DELETE_QUERY			0	pt	Eliminar consulta '$name$'?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_CONNECTING_DATASOURCE			0	it	Collegamento a "$name$" ...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	cs	Zpět: Vstup dat				2003-10-21 15:24:56.263
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_QRY_TITLE				0	el	Ερώτημα #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_BOOKMARKS_CONTAINER				0	ru	Ярлыки				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_TITLE_CONFIRM_DELETION			0	sk	Potvrdiť zmazanie				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_CLOSECONN		HID_BROWSER_CLOSECONN		0	cs	Odpojit				2003-10-21 15:24:56.263
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_ROWS				0	cs	Chcete vymazat vybraná data?				2003-10-21 15:24:56.263
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_ROWHEIGHT	HID_BROWSER_ROWHEIGHT		0	it	Altezza riga...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_TITLE_CONFIRM_DELETION			0	tr	confirm deletion				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	cur_item	RID_BRW_QRY_TOOLBOX	ID_BROWSER_CLOSE	ID_BROWSER_CLOSE		0	he	‮סגירה‬				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	zh-CN	管理数据源(~D)...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_FILTER				0	el	Σφάλμα κατά τον ορισμό των κριτηρίων φίλτρου				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_COULDNOTCONNECT_DATASOURCE			0	nl	De verbinding met de gegevensbron "$name$" kan niet tot stand worden gebracht.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_CONNECTING_DATASOURCE			0	fi	Yhdistetään kohteeseen $name$...				20040507 14:21:28
+dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_QRY_TITLE				0	cz	Dotaz #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUERY_DELETE_TABLE			0	da	Skal tabellen '%1' slettes?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUERY_DELETE_TABLE			0	sk	Chcete zmazať tabuľku '%1'?				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_QRY_TITLE				0	es	Consulta #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT	ID_TREE_RELATION_DESIGN	HID_BROWSER_RELATION_DESIGN		0	et	Rel~ation Design				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLATTRSET	HID_BROWSER_COLUMNFORMAT		0	th	~รูปแบบคอลัมน์...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	ko	실행 취소: 데이터 입력				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_TITLE_CONFIRM_DELETION			0	zh-TW	確認刪除				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_ROWHEIGHT	HID_BROWSER_ROWHEIGHT		0	el	Ύψος γραμμής...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_SAVE_CURRENT_RECORD				0	sv	Spara aktuell datapost				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_DIRECT_SQL		HID_DSBROWSER_DIRECTSQL		0	cs	SQL...				2003-10-21 15:24:56.263
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_OBJECT_ALREADY_EXISTS				0	sv	Namnet # finns redan.				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				0	sl	Pogled tabele vira podatkov				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REFRESHCONN		0	hu	Kapcsolat f~rissítése				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_FILTER				0	pt-BR	Erro ao definir critérios dos filtros				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				0	fr	Affiche la table ou requête sélectionnée.				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				0	ca	Shows the selected table or query.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	it	Amministra ~sorgente dati...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUERY_DELETE_TABLE			0	ko	테이블 '%1'을(를) 삭제하시겠습니까?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				0	nl	Fout bij instellen van sorteercriteria				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_ERROR_OCCURED_WHILE_COPYING				0	fr	Une erreur est survenue ! Continuer le processus de copie ?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_DATABROWSER_FILTERED				0	nl	(gefilterd)				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_TITLE_CONFIRM_DELETION			0	sl	Potrditev brisanja				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				0	ja	データソースのテーブルビュー				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_BOOKMARKS_CONTAINER				0	he	‮קישורים‬				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_NO_TABLE_FORMAT_INSIDE			0	nl	Geen tabelindeling gevonden.				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_SAVE_CURRENT_RECORD				0	cz	Uložit aktuální záznam				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_OBJECT_ALREADY_EXISTS				0	ru	Имя # уже существует.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_FILTER				0	da	Fejl ved bestemmelse af filtreringskriterierne				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	MENU_BROWSER_TABLECONTEXT	QUERY_CONNECTION_LOST			0	pl	Połączenie z bazą danych zostało przerwane. Czy połączyć ponownie?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_CONNECTION_LOST				0	el	Η σύνδεση διακόπηκε				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				0	el	Δεν βρέθηκαν ονόματα στηλών που να συμφωνούν.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT.RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	zh-TW	重建				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				0	hu	Hiba a rendezési feltételek beállításában				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	MENU_BROWSER_TABLECONTEXT	QUERY_CONNECTION_LOST			0	ca	S'ha perdut la connexió amb la base de dades. Voleu tornar a connectar?				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLATTRSET	HID_BROWSER_COLUMNFORMAT		0	da	Kolonne~format...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT	ID_TREE_RELATION_DESIGN	HID_BROWSER_RELATION_DESIGN		0	ja	リレーションデザイン(~A)				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT.MENU_BROWSER_VIEWCONTEXT	ID_TREE_RELATION_DESIGN	HID_BROWSER_RELATION_DESIGN		0	da	Relatio~nsforslag				20040507 14:21:28
+dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_TBL_TITLE				0	th	ตาราง #				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLATTRSET	HID_BROWSER_COLUMNFORMAT		0	el	Μορ~φοποίηση στήλης...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	pt-BR	O registro atual foi modificado.\n Deseja salvar as modificações?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	cur_item	RID_BRW_QRY_TOOLBOX	ID_BROWSER_CLOSE	ID_BROWSER_CLOSE		0	pt-BR	Fechar				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				0	it	Vista tabella della sorgente dati				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_CONNECTING_DATASOURCE			0	hu	Kapcsolódás a következőhöz: "$name$" ...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_TITLE_CONFIRM_DELETION			0	pt	Confirmar eliminação				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	pt-BR	A~dministrar fontes de dados...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_LOADING_QUERY			0	fi	Ladataan kyselyä $name$...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_TABLEATTR	HID_BROWSER_TABLEFORMAT		0	fr	Formatage de table...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_ERROR_OCCURED_WHILE_COPYING				0	hu	Hiba történt. Folytatja a másolást?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	cur_item	RID_BRW_QRY_TOOLBOX	ID_BROWSER_CLOSE	ID_BROWSER_CLOSE		0	cs	Zavřít				2003-10-21 15:24:56.263
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_ROWHEIGHT	HID_BROWSER_ROWHEIGHT		0	es	Altura de fila...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_COULDNOTCONNECT_DATASOURCE			0	sv	Det gick inte att skapa förbindelsen till datakällan "$name$".				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT.RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	et	Rebuild				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				0	el	Shows the selected table/query.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_CLOSECONN		HID_BROWSER_CLOSECONN		0	el	Κλείσιμο σύνδεση~ς				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_BOOKMARKS_CONTAINER				0	fr	Liens				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_ROWS				0	fi	Haluatko poistaa valitut tiedot?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	MENU_BROWSER_TABLECONTEXT	QUERY_BRW_DELETE_QUERY_CONFIRM			0	el	Το ερώτημα υπάρχει ήδη. Θέλετε να διαγραφεί;				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_LOADING_QUERY			0	el	Φόρτωση ερωτήματος $name$ ...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_QRY_TITLE				0	ja	クエリー #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT	ID_TREE_RELATION_DESIGN	HID_BROWSER_RELATION_DESIGN		0	ko	관계 디자인(~A)				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				0	ar	No matching column names found.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	MENU_BROWSER_TABLECONTEXT	QUERY_BRW_DELETE_QUERY_CONFIRM			0	ca	La consulta ja existeix. Voleu suprimir-la?				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_OBJECT_ALREADY_EXISTS				0	sk	Názov # už existuje.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	cur_item	RID_BRW_QRY_TOOLBOX	ID_BROWSER_CLOSE	ID_BROWSER_CLOSE		0	fr	Fermer				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_ERROR_OCCURED_WHILE_COPYING				0	it	Si è verificato un errore. Volete proseguire il processo di copia?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_LOADING_QUERY			0	fr	Chargement de la requête $name$ ...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_NO_TABLE_FORMAT_INSIDE			0	zh-CN	无法找到表格格式。				20040507 14:21:28
+dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_TBL_TITLE				0	sl	Tabela #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_DATABROWSER_FILTERED				0	sv	(filtrerad)				20040507 14:21:28
+dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_QRY_TITLE				0	tr	Sogrulama #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	cur_item	RID_BRW_QRY_TOOLBOX	ID_BROWSER_CLOSE	ID_BROWSER_CLOSE		0	ru	Закрыть				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_OBJECT_ALREADY_EXISTS				0	hi-IN	# नाम पहिले से ही अस्तित्व में है ।				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLUMNINFO	HID_BROWSER_COLUMNINFO		0	ar	نسخ وصف العمود				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_OPENTABLES_WARNINGS			0	ar	حدثت تحذيرات.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT.MENU_BROWSER_VIEWCONTEXT	ID_TREE_RELATION_DESIGN	HID_BROWSER_RELATION_DESIGN		0	es	Diseño de rela~ciones				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_OPENTABLES_WARNINGS_DETAILS			0	ja	テーブルの転送中に、データベースの接続から警告がありました。				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				0	it	Errore nell'impostare i criteri				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_CONNECTING_DATASOURCE			0	nl	Bezig met verbinden met "$name$" ...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	MENU_BROWSER_TABLECONTEXT	QUERY_CONNECTION_LOST			0	es	¡Se suspendió la conexión a la base de datos! ¿Desea restablecerla?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_BOOKMARKS_CONTAINER				0	cz	Odkazy				20040507 14:21:28
+dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_TBL_TITLE				0	pl	Tabela #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_COULDNOTCONNECT_DATASOURCE			0	th	The connection to the data source "$name$" could not be established.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REFRESHCONN		0	ru	~Обновить соединение				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	th	จัดการแหล่ง~ข้อมูล...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLUMNINFO	HID_BROWSER_COLUMNINFO		0	fi	Kopioi sarakkeen ~kuvaus				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_DIRECT_SQL		HID_DSBROWSER_DIRECTSQL		0	pl	SQL...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_COULDNOTCONNECT_DATASOURCE			0	tr	Veri kaynağına olan bağlantı "$name$" sağlanamdı.				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	sv	Ångra: datainmatning				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLATTRSET	HID_BROWSER_COLUMNFORMAT		0	ko	열 서식(~F)...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	MENU_BROWSER_TABLECONTEXT	QUERY_BRW_DELETE_QUERY_CONFIRM			0	et	The query already exists. Do you want to delete it?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_FILTER				0	es	Error al definir los criterios de filtro				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUERY_DELETE_QUERY			0	zh-CN	要删除这个查询 '$name$' ?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	cz	Správa zdrojů dat...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	tr	Yönetim veri kaynakalrı...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_DSBROWSER_TITLE			0	zh-TW	資料源檢視				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_NO_TABLE_FORMAT_INSIDE			0	da	Det var ikke muligt at finde noget tabelformat.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	cur_item	RID_BRW_QRY_TOOLBOX	ID_BROWSER_CLOSE	ID_BROWSER_CLOSE		0	cz	Zavřít				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT.MENU_BROWSER_VIEWCONTEXT	ID_TREE_RELATION_DESIGN	HID_BROWSER_RELATION_DESIGN		0	hu	~Reláció tervezése				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_ROWHEIGHT	HID_BROWSER_ROWHEIGHT		0	pt-BR	Altura da linha...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_LOADING_QUERY			0	hi-IN	$name$ जानकारी को लोड़ कर रहा है ...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_DSBROWSER_TITLE			0	zh-CN	数据源检视				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLUMNINFO	HID_BROWSER_COLUMNINFO		0	th	คัดลอก~คำอธิบายคอลัมน์				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	cur_item	RID_BRW_QRY_TOOLBOX	ID_BROWSER_CLOSE	ID_BROWSER_CLOSE		0	sk	Zavrieť				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_TITLE_CONFIRM_DELETION			0	zh-CN	确定删除				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_CONNECTION_LOST				0	pt	Ligação interrompida				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	el	Διαχείριση προελεύσεων των ~δεδομένων...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_CLOSECONN		HID_BROWSER_CLOSECONN		0	pt-BR	~Desconectar				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	MENU_BROWSER_TABLECONTEXT	QUERY_CONNECTION_LOST			0	fi	Tietokantayhteys katkesi. Haluatko muodostaa yhteyden uudelleen?				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				0	sv	Det gick inte att hitta några kolumnnamn som stämmer överens.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_LOADING_QUERY			0	zh-TW	載入查詢 $name$ ...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_BOOKMARKS_CONTAINER				0	ja	リンク				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				0	cs	Zobrazit vybranou tabulku nebo dotaz.				2003-10-21 15:24:56.263
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_LOADING_TABLE			0	et	Loading table $name$ ...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_COULDNOTCONNECT_DATASOURCE			0	ko	데이터 원본 "$name$"(으)로 연결하지 못했습니다.				20040507 14:21:28
+dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_QRY_TITLE				0	el	Ερώτημα #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT.MENU_BROWSER_VIEWCONTEXT	ID_TREE_RELATION_DESIGN	HID_BROWSER_RELATION_DESIGN		0	el	Σχεδιασ~μός σχέσης				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_QUERIES_CONTAINER				0	fi	Kyselyt				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_COULDNOTCONNECT_DATASOURCE			0	hi-IN	$name$ ड़ॉटा मूल को कनेक्शन् स्थापित नहीं कर सकते है ।				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_DIRECT_SQL		HID_DSBROWSER_DIRECTSQL		0	pt-BR	SQL...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_SAVE_CURRENT_RECORD				0	ru	Сохранить текущую запись				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_QUERIES_CONTAINER				0	ja	クエリー				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REFRESHCONN		0	da	O~pdater forbindelse				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUERY_DELETE_QUERY			0	ca	Voleu suprimir la consulta '$name$'?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	cur_item	RID_BRW_QRY_TOOLBOX	ID_BROWSER_CLOSE	ID_BROWSER_CLOSE		0	pl	Zamknij				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_QUERIES_CONTAINER				0	zh-TW	查詢				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_LOADING_DATASOURCE				0	ko	데이터 로드				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_OPENTABLES_WARNINGS_DETAILS			0	hu	A táblák letöltése alatt figyelmeztetéseket küldött az adatbázis-kapcsolat.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_TABLES_CONTAINER				0	ko	테이블				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_ROWS				0	nl	Wilt u de geselecteerde gegevens verwijderen?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_DSBROWSER_TITLE			0	pt-BR	Visualização das fontes de dados				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				0	sk	Tabuľkový pohľad na zdroj dát				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUERY_DELETE_TABLE			0	he	Soll die Tabelle '%1' gelöscht werden?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_TABLES_CONTAINER				0	zh-CN	表格				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_DIRECT_SQL		HID_DSBROWSER_DIRECTSQL		0	it	SQL...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	cur_item	RID_BRW_QRY_TOOLBOX	ID_BROWSER_CLOSE	ID_BROWSER_CLOSE		0	da	Luk				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_FILTER				0	zh-CN	在设定筛选条件时发生错误				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_QRY_TITLE				0	th	แบบสอบถาม #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT.RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	es	Reconstruir				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_ERROR_OCCURED_WHILE_COPYING				0	ru	Ошибка. Продолжить копирование?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_CONNECTION_LOST				0	et	Connection lost				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_LOADING_TABLE			0	th	กำลังโหลดตาราง $name$ ...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	MENU_BROWSER_TABLECONTEXT	QUERY_CONNECTION_LOST			0	zh-TW	和資料庫的連線已經關閉。要重新連線？				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_LOADING_DATASOURCE				0	da	Indlæs data				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_LOADING_QUERY			0	pt-BR	Carregando a consulta $name$ ...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUERY_DELETE_QUERY			0	it	Volete eliminare la ricerca '$name$'?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_BOOKMARKS_CONTAINER				0	ko	링크				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_TABLES_CONTAINER				0	hi-IN	सारणियाँ				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				0	he	Zeigt die ausgewählte Tabelle oder Abfrage an.				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_ERROR_OCCURED_WHILE_COPYING				0	ko	오류가 발생했습니다. 복사를 계속 진행하시겠습니다?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_DSBROWSER_TITLE			0	sk	Pohľad na zdroje dát				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REFRESHCONN		0	hi-IN	कनेक्शन ~नवीकरण				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	nl	De huidige record is gewijzigd.\nWilt u de wijzigingen opslaan?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_QUERIES_CONTAINER				0	hu	Lekérdezések				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_DATABROWSER_FILTERED				0	da	(filtreret)				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_TABLEATTR	HID_BROWSER_TABLEFORMAT		0	cz	Formát tabulky...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_ROWHEIGHT	HID_BROWSER_ROWHEIGHT		0	pl	Wysokość wierszy...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT.RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	sl	Ponovno zgradi				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUERY_DELETE_TABLE			0	tr	Tabloyu silmek istiyormusunuz '%1'?				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_TBL_TITLE				0	tr	Tablo #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	ru	Текущая запись была изменена.\n Сохранить изменения?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REFRESHCONN		0	it	Ag~giorna collegamento				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	cur_item	RID_BRW_QRY_TOOLBOX	ID_BROWSER_CLOSE	ID_BROWSER_CLOSE		0	ar	إغلاق				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUERY_DELETE_TABLE			0	cs	Chcete smazat tabulku '%1'?				2003-10-21 15:24:56.263
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLUMNINFO	HID_BROWSER_COLUMNINFO		0	zh-TW	複製列標題(~E)				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_OPENTABLES_WARNINGS			0	sk	Objavili sa upozornenia				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_TABLEATTR	HID_BROWSER_TABLEFORMAT		0	zh-TW	工作表格式...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				0	pl	Widok #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	sl	Trenutni zapis je bil spremenjen.\nAli želite shraniti spremembe?				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_TBL_TITLE				0	pt	Tabela #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_TITLE_CONFIRM_DELETION			0	nl	Wissen bevestigen				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	fi	Tietolähteiden ~hallinta...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLATTRSET	HID_BROWSER_COLUMNFORMAT		0	pl	~Formatowanie kolumn...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_DSBROWSER_TITLE			0	ko	데이터 원본 보기				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				0	cs	Nebyl nalezen žádný odpovídající název sloupce.				2003-10-21 15:24:56.263
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_CLOSECONN		HID_BROWSER_CLOSECONN		0	sk	O~dpojiť				20040507 14:21:28
+dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_TBL_TITLE				0	cs	Tabulka #				2003-10-21 15:24:56.263
+dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				0	ko	정렬 기준 설정 중 오류				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_LOADING_DATASOURCE				0	cz	Načíst data				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	fr	Gérer les sources de ~données...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				0	et	Data source table view				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	ko	현재 데이터 레코드가 변경되었습니다.\n 변경 내용을 저장하시겠습니까?				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_ERROR_OCCURED_WHILE_COPYING				0	pt-BR	Ocorreu um erro. Deseja continuar o processo de cópia?				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_TABLEATTR	HID_BROWSER_TABLEFORMAT		0	ar	تنسيق الجدول...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				0	fi	Datasource tableview				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_TABLEATTR	HID_BROWSER_TABLEFORMAT		0	sl	Oblika tabele...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLATTRSET	HID_BROWSER_COLUMNFORMAT		0	ja	列の書式(~F)...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_ROWHEIGHT	HID_BROWSER_ROWHEIGHT		0	cz	Výška sloupce...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_ERROR_OCCURED_WHILE_COPYING				0	tr	Bir hata oluştu.Kopyalamaya devam etmek istiyor musunuz?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_COULDNOTCONNECT_DATASOURCE			0	cz	Nepodařilo se připojení k datovému zdroji "$name$".				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLUMNINFO	HID_BROWSER_COLUMNINFO		0	hu	~Oszlopleírás másolása				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT.MENU_BROWSER_VIEWCONTEXT	ID_TREE_RELATION_DESIGN	HID_BROWSER_RELATION_DESIGN		0	he	Relatio~nenentwurf				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_OBJECT_ALREADY_EXISTS				0	ca	El # nom ja existeix.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	MENU_BROWSER_TABLECONTEXT	QUERY_BRW_DELETE_QUERY_CONFIRM			0	cs	Tento dotaz již existuje. Chcete jej smazat?				2003-10-21 15:24:56.263
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	sk	Administrovať zdroje ~dát...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_CONNECTION_LOST				0	hi-IN	कनेक्शन नष्ट हुआ				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_LOADING_TABLE			0	fr	Chargement de la table $name$ ...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_QRY_TITLE				0	nl	Query #				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_QRY_TITLE				0	da	Forespørgsel #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT.MENU_BROWSER_VIEWCONTEXT	ID_TREE_RELATION_DESIGN	HID_BROWSER_RELATION_DESIGN		0	ar	تصميم علاقات				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				0	ko	보기 #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUERY_DELETE_QUERY			0	ar	هل تريد حذف الاستفسار '$name$'?				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				0	cz	Tabulkový pohled na zdroj dat				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUERY_DELETE_TABLE			0	zh-CN	要删除这个表格 '%1'?				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	hu	Visszavonás: adatbevitel				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REFRESHCONN		0	cz	Obnovit spojení				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLUMNINFO	HID_BROWSER_COLUMNINFO		0	it	Copia la ~descrizione della colonna				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	sv	Den aktuella dataposten har ändrats.\nSka ändringarna sparas?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT	ID_TREE_RELATION_DESIGN	HID_BROWSER_RELATION_DESIGN		0	he	Relatio~nenentwurf				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_CONNECTION_LOST				0	zh-CN	失去连接				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_TITLE_CONFIRM_DELETION			0	th	ยืนยันการลบ				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_ROWS				0	pt-BR	Deseja excluir os dados selecionados?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_COULDNOTCONNECT_DATASOURCE			0	el	Δεν ήταν δυνατή η δημιουργία σύνδεσης με την προέλευση δεδομένων "$name$".				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	MENU_BROWSER_TABLECONTEXT	QUERY_CONNECTION_LOST			0	pt	A ligação à base de dados foi cancelada. Restabelecer?				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_QRY_TITLE				0	pt	Consulta #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT	ID_TREE_RELATION_DESIGN	HID_BROWSER_RELATION_DESIGN		0	sv	Relatio~nsutkast				20040507 14:21:28
+dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_QRY_TITLE				0	fr	Requête #				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_ERROR_OCCURED_WHILE_COPYING				0	sv	Det har uppstått ett fel. Vill du fortsätta att kopiera?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	MENU_BROWSER_TABLECONTEXT	QUERY_CONNECTION_LOST			0	zh-CN	和数据库的连接已经中断。要重新连接数据库？				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_DIRECT_SQL		HID_DSBROWSER_DIRECTSQL		0	zh-CN	SQL...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_LOADING_TABLE			0	tr	$name$ tablosu yükleniyor...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_CONNECTION_LOST				0	da	Forbindelsen blev afbrudt				20040507 14:21:28
+dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_TBL_TITLE				0	cz	Tabulka #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_OPENTABLES_WARNINGS_DETAILS			0	fi	Tietokantayhteys palautti varoituksia tauluja noudettaessa.				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				0	ca	No matching column names found.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REFRESHCONN		0	es	Actualizar cone~xión				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				0	da	Visning #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_NO_TABLE_FORMAT_INSIDE			0	it	Il formato della tabella non è stato trovato				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	MENU_BROWSER_TABLECONTEXT	QUERY_CONNECTION_LOST			0	ja	データベースへの接続は削除されました。接続しなおしますか。				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUERY_DELETE_QUERY			0	zh-TW	要刪除這個查詢<$name$>?				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	it	Annulla: Immissione dati				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_NO_TABLE_FORMAT_INSIDE			0	ja	テーブル書式は見つかりませんでした。				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_OPENTABLES_WARNINGS			0	cs	Obdržena varování				2003-10-21 15:24:56.263
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_QUERIES_CONTAINER				0	ko	쿼리				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	MENU_BROWSER_TABLECONTEXT	QUERY_BRW_DELETE_QUERY_CONFIRM			0	da	Forespørgslen findes allerede. Skal den slettes?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_LOADING_DATASOURCE				0	pl	Ładuj dane				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT.RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	zh-CN	重建				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				0	tr	Görünüm #				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_ROWHEIGHT	HID_BROWSER_ROWHEIGHT		0	sl	Višina vrstice...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT.RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	hu	Újrafordítás				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_ROWS				0	sv	Skall de markerade data raderas?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_LOADING_TABLE			0	zh-CN	正在载入表格 $name$ ...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_QRY_TITLE				0	sk	Dotaz #				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_SAVE_CURRENT_RECORD				0	cs	Uložit aktuální záznam				2003-10-21 15:24:56.263
+dbaccess	source\ui\browser\sbabrw.src	0	cur_item	RID_BRW_QRY_TOOLBOX	ID_BROWSER_CLOSE	ID_BROWSER_CLOSE		0	th	ปิด				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_DSBROWSER_TITLE			0	hi-IN	ड़ॉटा मूल दृश्य				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_DSBROWSER_TITLE			0	da	Datakildevisning				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REFRESHCONN		0	ja	接続を更新(~R)				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_ROWHEIGHT	HID_BROWSER_ROWHEIGHT		0	sk	Výška riadka...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_ROWS				0	pl	Czy chcesz usunąć zaznaczone dane?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				0	es	Error al definir los criterios de orden				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_FILTER				0	fi	Virhe suodatusehtojen määrityksessä				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	et	Administrate ~Data Sources...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_SAVE_CURRENT_RECORD				0	sl	Shrani trenutni zapis				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT	ID_TREE_RELATION_DESIGN	HID_BROWSER_RELATION_DESIGN		0	tr	İlişki Dizaynı				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_LOADING_DATASOURCE				0	fi	Lataa tiedot				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				0	it	Mostra le tabelle selezionate oppure la ricerca.				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_ERROR_OCCURED_WHILE_COPYING				0	th	An error occurred. Do you want to continue copying?				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLATTRSET	HID_BROWSER_COLUMNFORMAT		0	sk	~Formát stĺpca...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_ERROR_OCCURED_WHILE_COPYING				0	nl	Er is een fout opgetreden. Wilt u doorgaan met kopiëren?				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				0	zh-TW	資料源的表格檢視				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_CONNECTION_LOST				0	hu	A kapcsolat megszakadt				20040507 14:21:28
+dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_TBL_TITLE				0	pt	Tabela #				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_TBL_TITLE				0	sv	Tabell #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUERY_DELETE_QUERY			0	cz	Chcete smazat dotaz '$name$'?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT.MENU_BROWSER_VIEWCONTEXT	ID_TREE_RELATION_DESIGN	HID_BROWSER_RELATION_DESIGN		0	fi	Yhteyksien ~rakenne				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_SAVE_CURRENT_RECORD				0	el	Αποθήκευση τρέχουσας εγγραφής				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_OPENTABLES_WARNINGS			0	ja	警告がありました。				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_CLOSECONN		HID_BROWSER_CLOSECONN		0	cz	Odpojit				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUERY_DELETE_TABLE			0	zh-TW	要刪除表格<%1>?				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_QRY_TITLE				0	hi-IN	जानकारी #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_BOOKMARKS_CONTAINER				0	da	Referencer				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_ROWHEIGHT	HID_BROWSER_ROWHEIGHT		0	ko	행 높이...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_ROWHEIGHT	HID_BROWSER_ROWHEIGHT		0	zh-CN	行高...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				0	sk	Neboli nájdené zhodné názvy stĺpcov.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				0	pl	Błąd ustawiania kryteriów sortowania				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUERY_DELETE_TABLE			0	et	Do you want to delete the table '%1'?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_CLOSECONN		HID_BROWSER_CLOSECONN		0	sv	Stän~g förbindelse				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_CONNECTION_LOST				0	zh-TW	連線已經中斷				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLUMNINFO	HID_BROWSER_COLUMNINFO		0	ja	列の見出しをコピー(~E)				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUERY_DELETE_TABLE			0	ja	テーブル '%1' を削除しますか。				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_OPENTABLES_WARNINGS_DETAILS			0	ru	Во время определения таблиц из соединения базы данных выдавались предупреждения.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_LOADING_TABLE			0	sl	Nalaganje tabele $name& ...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_ROWS				0	es	¿Desea borrar los datos seleccionados?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_OPENTABLES_WARNINGS			0	pt	Encontradas advertências.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_TITLE_CONFIRM_DELETION			0	pl	Potwierdź usunięcie				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				0	hu	A kijelölt táblák vagy lekérdezések megjelenítése				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_QUERIES_CONTAINER				0	nl	Query's				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_CONNECTING_DATASOURCE			0	th	กำลังเชื่อมต่อ "$name$" ...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUERY_DELETE_QUERY			0	nl	Wilt u query '$naam$' wissen?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_LOADING_DATASOURCE				0	et	Load data				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_QRY_TITLE				0	ar	الاستفسار #				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_TBL_TITLE				0	fi	Taulu #				20040507 14:21:28
+dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_TBL_TITLE				0	es	Tabla #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_CONNECTING_DATASOURCE			0	et	Connecting to "$name$" ...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLATTRSET	HID_BROWSER_COLUMNFORMAT		0	it	Formattazione ~colonna...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_LOADING_DATASOURCE				0	it	Carica dati				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	MENU_BROWSER_TABLECONTEXT	QUERY_CONNECTION_LOST			0	cs	Připojení k databázi bylo ztraceno. Chcete se znovu připojit?				2003-10-21 15:24:56.263
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_OPENTABLES_WARNINGS_DETAILS			0	cz	Databázové připojení nahlásilo varování během načítání tabulek.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_OPENTABLES_WARNINGS_DETAILS			0	nl	Bij het openen van de tabellen zijn waarschuwingen gemeld door de databaseverbinding.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	et	The current record has been changed.\nDo you want to save the changes?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_QUERIES_CONTAINER				0	it	Ricerche				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT.MENU_BROWSER_VIEWCONTEXT	ID_TREE_RELATION_DESIGN	HID_BROWSER_RELATION_DESIGN		0	et	Rel~ation Design				20040507 14:21:28
+dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_TBL_TITLE				0	sv	Tabell #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_TABLES_CONTAINER				0	fi	Taulut				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUERY_DELETE_TABLE			0	hi-IN	आप सारणी '%1' को मिटाना चाहते है?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_ROWS				0	et	Do you want to delete the selected data?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_DIRECT_SQL		HID_DSBROWSER_DIRECTSQL		0	ja	SQL...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_ERROR_OCCURED_WHILE_COPYING				0	da	Der er opstået en fejl ! Vil du fortsætte kopieringen?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				0	et	Error setting the sort criteria				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_ERROR_OCCURED_WHILE_COPYING				0	pl	Wystąpił błąd. Czy chcesz kontynuować kopiowanie?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	th	ระเบียนปัจจุบันได้มีการเปลี่ยนแปลง\nคุณต้องการบันทึกการเปลี่ยนแปลงหรือไม่?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUERY_DELETE_TABLE			0	nl	Wilt u tabel '%1' wissen?				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				0	et	Shows the selected table or query.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_DIRECT_SQL		HID_DSBROWSER_DIRECTSQL		0	nl	SQL...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_CONNECTING_DATASOURCE			0	fr	Connexion à "$name$" ...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_TBL_TITLE				0	ko	테이블 #				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				0	sv	Vy #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_DIRECT_SQL		HID_DSBROWSER_DIRECTSQL		0	pt	SQL...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT	ID_TREE_RELATION_DESIGN	HID_BROWSER_RELATION_DESIGN		0	pt	Es~boçar relação				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_CLOSECONN		HID_BROWSER_CLOSECONN		0	zh-TW	結束連線(~N)				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_OBJECT_ALREADY_EXISTS				0	ko	이름 "#"가(이) 이미 있습니다.				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_QRY_TITLE				0	sl	Poizvedba #				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				0	es	No se encontraron nombres de columna idénticos.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_ROWS				0	pt	Eliminar os dados seleccionados?				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_QRY_TITLE				0	it	Ricerca #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_CONNECTING_DATASOURCE			0	ru	Соединение с "$name$" ...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	pt	A~dministrar fontes de dados...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_LOADING_QUERY			0	sl	Nalaganje poizvedbe $name$ ...				20040507 14:21:28
+dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_QRY_TITLE				0	ru	Запрос #				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				0	he	‮תצוגה #‬				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_TABLES_CONTAINER				0	cs	Tabulky				2003-10-21 15:24:56.263
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_TABLEATTR	HID_BROWSER_TABLEFORMAT		0	pt-BR	Formatar tabela...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_LOADING_TABLE			0	it	Carica tabella $name$ ...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				0	sl	Prikaže izbrano tabelo ali poizvedbo				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_CONNECTING_DATASOURCE			0	pt	A estabelecer ligação com "$name$" ...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_CONNECTING_DATASOURCE			0	cz	Připojení k "$name$" ...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_BOOKMARKS_CONTAINER				0	nl	Koppelingen				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_COULDNOTCONNECT_DATASOURCE			0	es	No se pudo realizar la conexión a la fuente de datos "$name$".				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_OBJECT_ALREADY_EXISTS				0	nl	De naam # bestaat reeds.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_COULDNOTCONNECT_DATASOURCE			0	fi	Yhteyttä tietolähteeseen $name$ ei voitu muodostaa.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUERY_DELETE_QUERY			0	ko	쿼리 '$name$'을(를) 삭제하시겠습니까?				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				0	sk	Ukáže vybranú tabuľku alebo dotaz.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_CONNECTION_LOST				0	ca	S'ha perdut la connexió				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUERY_DELETE_QUERY			0	pl	Czy chcesz usunąć kwerendę '$name$'?				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				0	pt	Datasource tableview				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_TBL_TITLE				0	nl	Tabel #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_OPENTABLES_WARNINGS			0	hi-IN	चेतावनी मिला				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_LOADING_TABLE			0	ru	Загрузка таблицы $name$ ...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_OBJECT_ALREADY_EXISTS				0	it	Il nome "#" esiste già.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_TABLES_CONTAINER				0	nl	Tabellen				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_DIRECT_SQL		HID_DSBROWSER_DIRECTSQL		0	th	SQL...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_BOOKMARKS_CONTAINER				0	el	Συνδέσεις				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_DATABROWSER_FILTERED				0	zh-TW	(已經篩選)				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				0	tr	Birbirine uyan sütun isimleri bulunamadı.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_TABLES_CONTAINER				0	zh-TW	表格				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_CONNECTING_DATASOURCE			0	es	Conexión con "$name$" ...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_DATABROWSER_FILTERED				0	et	(filtered)				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_TBL_TITLE				0	pl	Tabela #				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				0	hu	# nézet				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_SAVE_CURRENT_RECORD				0	pl	Zapisz bieżący rekord				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_FILTER				0	hi-IN	फिल्टर क्रैटीरिया को सेट्ट करने के समय गलती				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				0	th	Data source table view				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT.RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	pl	Odśwież				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	MENU_BROWSER_TABLECONTEXT	QUERY_BRW_DELETE_QUERY_CONFIRM			0	hu	A lekérdezés már létezik. Szeretné törölni?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_OPENTABLES_WARNINGS_DETAILS			0	el	Κατά την διαδικασία ανεύρεσης των πινάκων υπήρξαν προειδοποιήσεις από την σύνδεση της βάσης δεδομένων.				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_TABLEATTR	HID_BROWSER_TABLEFORMAT		0	it	Formattazione tabella...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLATTRSET	HID_BROWSER_COLUMNFORMAT		0	es	Formateado de ~columnas...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_BOOKMARKS_CONTAINER				0	th	ที่คั่น				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_FILTER				0	cz	Chyba při nastavení kritérií filtru				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_TABLES_CONTAINER				0	sl	Tabele				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	cur_item	RID_BRW_QRY_TOOLBOX	ID_BROWSER_CLOSE	ID_BROWSER_CLOSE		0	ja	閉じる				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT.RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	sk	Obnoviť				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLATTRSET	HID_BROWSER_COLUMNFORMAT		0	tr	Sütun ~Biçemi				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_OPENTABLES_WARNINGS			0	he	Warnungen aufgetreten.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUERY_DELETE_TABLE			0	ca	Voleu eliminar la taula '%1'?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_OPENTABLES_WARNINGS			0	zh-TW	發出一個警告。				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	cur_item	RID_BRW_QRY_TOOLBOX	ID_BROWSER_CLOSE	ID_BROWSER_CLOSE		0	it	Chiudi				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLATTRSET	HID_BROWSER_COLUMNFORMAT		0	fi	Sarake~muoto...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	sl	Razveljavi: Vnos podatkov				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				0	zh-TW	設定編排條件時發生一個錯誤				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_BOOKMARKS_CONTAINER				0	ar	Bookmarks				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_FILTER				0	hu	Hiba a szűrési feltételek beállításában				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT.RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	it	Ricostruisci				20040507 14:21:28
+dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_TBL_TITLE				0	da	Tabel #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_CONNECTING_DATASOURCE			0	ja	"$name$" に接続中...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT.MENU_BROWSER_VIEWCONTEXT	ID_TREE_RELATION_DESIGN	HID_BROWSER_RELATION_DESIGN		0	th	ออกแบบความ~สัมพันธ์				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	ja	元に戻す: データの入力				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_LOADING_TABLE			0	zh-TW	載入表格 $name$ ...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_QUERIES_CONTAINER				0	th	แบบสอบถาม				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLUMNINFO	HID_BROWSER_COLUMNINFO		0	sk	Kopírovať ~popisy stĺpcov				20040507 14:21:28
+dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_TBL_TITLE				0	it	Tabella #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_TABLES_CONTAINER				0	pt	Tabelas				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_TABLES_CONTAINER				0	tr	Tablolar				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_ROWS				0	hu	Biztosan törli a kijelölt adatokat?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	MENU_BROWSER_TABLECONTEXT	QUERY_BRW_DELETE_QUERY_CONFIRM			0	pt	A consulta já existe. Eliminar?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_LOADING_QUERY			0	ko	쿼리 $name$을(를) 로드 중...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	cur_item	RID_BRW_QRY_TOOLBOX	ID_BROWSER_CLOSE	ID_BROWSER_CLOSE		0	es	Cerrar				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLUMNINFO	HID_BROWSER_COLUMNINFO		0	pt	Copiar ~descrição da coluna				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_OBJECT_ALREADY_EXISTS				0	th	The name "#" already exists.				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_SAVE_CURRENT_RECORD				0	zh-CN	存盘当前的数据条目				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_NO_TABLE_FORMAT_INSIDE			0	hi-IN	कोई सारणी रचना प्राप्त नहीं कर सकते है ।				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_ROWS				0	sl	Ali želite izbrisati izbrane podatke?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_DSBROWSER_TITLE			0	ru	Вид источника данных				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	it	Il record di dati attuale è stato modificato.\nVolete salvare le modifiche?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_FILTER				0	sl	Napaka pri nastavljanju pogojev filtriranja				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUERY_DELETE_TABLE			0	sv	Ska tabellen '%1' raderas?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_OPENTABLES_WARNINGS_DETAILS			0	fr	Avertissements en provenance de la connexion (BD) durant le processus de récupération des tables.				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_ERROR_OCCURED_WHILE_COPYING				0	el	Παρουσιάστηκε σφάλμα. Θέλετε να συνεχιστεί η αντιγραφή;				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT.MENU_BROWSER_VIEWCONTEXT	ID_TREE_RELATION_DESIGN	HID_BROWSER_RELATION_DESIGN		0	pl	~Projekt relacji				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_OPENTABLES_WARNINGS_DETAILS			0	th	ขณะทำการค้นคืนตาราง, มีรายงานคำเตือนโดยการเชื่อมต่อกับฐานข้อมูล				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_ROWS				0	ru	Удалить выбранные данные?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_CONNECTION_LOST				0	fr	Connexion perdue				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLUMNINFO	HID_BROWSER_COLUMNINFO		0	et	Copy Column D~escription				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_LOADING_DATASOURCE				0	pt-BR	Carregar dados				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_ROWHEIGHT	HID_BROWSER_ROWHEIGHT		0	ar	ارتفاع الصفوف...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLUMNINFO	HID_BROWSER_COLUMNINFO		0	he	Spaltenb~eschreibung kopieren				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	cz	Zpět: Vstup dat				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_QUERIES_CONTAINER				0	es	Consultas				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_LOADING_TABLE			0	cs	Načítání tabulky $name$ ...				2003-10-21 15:24:56.263
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_CLOSECONN		HID_BROWSER_CLOSECONN		0	th	ไม่เ~ชื่อมต่อ				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUERY_DELETE_QUERY			0	es	¿Desea borrar la consulta '$name$'?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_TABLES_CONTAINER				0	it	Tabelle				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	sk	Späť: dátový vstup				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_LOADING_QUERY			0	ru	Загрузка запроса $name$ ...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_COULDNOTCONNECT_DATASOURCE			0	ja	データソース "$name$" へ接続できませんでした。				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_TITLE_CONFIRM_DELETION			0	fr	Confirmation de suppression				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REFRESHCONN		0	el	Ανανέωση σύνδεσης				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUERY_DELETE_TABLE			0	fi	Haluatko poistaa taulun '%1'?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_FILTER				0	it	Errore nell'impostare i criteri del filtro				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	MENU_BROWSER_TABLECONTEXT	QUERY_BRW_DELETE_QUERY_CONFIRM			0	zh-CN	这个查询已经存在。要删除它？				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	MENU_BROWSER_TABLECONTEXT	QUERY_CONNECTION_LOST			0	cz	Připojení k databázi bylo ztraceno. Chcete se znovu připojit?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_DATABROWSER_FILTERED				0	it	(filtrato)				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	MENU_BROWSER_TABLECONTEXT	QUERY_CONNECTION_LOST			0	sv	Förbindelsen till databasen har raderats! Ska den upprättas igen?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_COULDNOTCONNECT_DATASOURCE			0	ru	Невозможно соединиться с источником данных "$name$".				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REFRESHCONN		0	nl	~opnieuw verbinden				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_CLOSECONN		HID_BROWSER_CLOSECONN		0	et	Disco~nnect				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_DATABROWSER_FILTERED				0	fi	(suodatettu)				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_DATABROWSER_FILTERED				0	ar	(مُصفّى)				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	MENU_BROWSER_TABLECONTEXT	QUERY_CONNECTION_LOST			0	sl	Povezava z zbirko podatkov je bila prekinjena. Ali jo želite obnoviti?				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	fi	Kumoa: Tietojen syöttö				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				0	cs	Tabulkový pohled na zdroj dat				2003-10-21 15:24:56.263
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT	ID_TREE_RELATION_DESIGN	HID_BROWSER_RELATION_DESIGN		0	fr	Ébauche de relatio~n				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT.MENU_BROWSER_VIEWCONTEXT	ID_TREE_RELATION_DESIGN	HID_BROWSER_RELATION_DESIGN		0	cz	Návrh relací				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_DIRECT_SQL		HID_DSBROWSER_DIRECTSQL		0	ca	SQL...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_TBL_TITLE				0	ru	Таблица #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	cur_item	RID_BRW_QRY_TOOLBOX	ID_BROWSER_CLOSE	ID_BROWSER_CLOSE		0	ca	Tanca				20040507 14:21:28
+dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_QRY_TITLE				0	nl	Query #				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	zh-CN	撤销命令：输入数据				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_LOADING_QUERY			0	sv	Laddar sökning $name$ ...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REFRESHCONN		0	sl	O~sveži povezavo				20040507 14:21:28
+dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_QRY_TITLE				0	sk	Dotaz #				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_TBL_TITLE				0	da	Tabel #				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_SAVE_CURRENT_RECORD				0	ca	Desa el registre actual				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_BOOKMARKS_CONTAINER				0	pl	Łącza				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_SAVE_CURRENT_RECORD				0	ja	現在のレコードを保存				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_LOADING_TABLE			0	da	indlæser tabellen $name$ ...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_SAVE_CURRENT_RECORD				0	pt-BR	Salvar registro atual				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				0	pt	Vista #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_LOADING_TABLE			0	hi-IN	$name$ सारणी को लोड़ कर रहा है  ...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUERY_DELETE_QUERY			0	el	Θέλετε να διαγραφεί το ερώτημα '$name$';				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				0	fi	Vastaavia sarakkeiden nimiä ei löytynyt.				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLUMNINFO	HID_BROWSER_COLUMNINFO		0	fr	Copier la d~escription de la colonne				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	MENU_BROWSER_TABLECONTEXT	QUERY_CONNECTION_LOST			0	th	การเชื่อมต่อกับฐานข้อมูลขาดหาย คุณต้องการเชื่อมต่ออีกครั้งหรือไม่?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUERY_DELETE_QUERY			0	pt-BR	Deseja excluir a consulta "$name$"?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_LOADING_TABLE			0	sk	Načítavam tabuľku $name$ ...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_TABLES_CONTAINER				0	ar	Tables				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUERY_DELETE_QUERY			0	ru	Удалить запрос '$name$'?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT.RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	nl	opnieuw opbouwen				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_SAVE_CURRENT_RECORD				0	hi-IN	वर्तमान अभिलेख को संचित करो				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_OPENTABLES_WARNINGS_DETAILS			0	zh-TW	在存取表格時發出資料庫連線的警告。				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLUMNINFO	HID_BROWSER_COLUMNINFO		0	sl	~Kopiraj opis stolpca				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_TABLEATTR	HID_BROWSER_TABLEFORMAT		0	fi	Taulun muotoilu...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_SAVE_CURRENT_RECORD				0	nl	Huidige record opslaan				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_CONNECTION_LOST				0	sv	Bruten förbindelse				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	tr	Gerial: Veri girişi				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_CONNECTING_DATASOURCE			0	sv	Kopplar till "$name$" ...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_FILTER				0	ru	Ошибка установки условий фильтра				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	MENU_BROWSER_TABLECONTEXT	QUERY_BRW_DELETE_QUERY_CONFIRM			0	it	La ricerca esiste già. Volete eliminarla?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_QUERIES_CONTAINER				0	pl	Kwerendy				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				0	sk	Zobraziť #				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_TABLEATTR	HID_BROWSER_TABLEFORMAT		0	sk	Formát tabuľky...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_TABLES_CONTAINER				0	et	Tables				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	MENU_BROWSER_TABLECONTEXT	QUERY_BRW_DELETE_QUERY_CONFIRM			0	ar	هذا الاستفسار موجود بالفعل. هل تريد حذفه؟				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT.RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	cz	Obnovit				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_OPENTABLES_WARNINGS_DETAILS			0	ar	تم تبليغ تحذيرات من اتصال قاعدة البيانات أثناء محاولة استرداد الجداول.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_OPENTABLES_WARNINGS_DETAILS			0	ca	La connexió amb la base de dades ha generat advertiments en recuperar les taules				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_TABLES_CONTAINER				0	th	ตาราง				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_SAVE_CURRENT_RECORD				0	he	aktuellen Datensatz speichern				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	cz	Aktuální záznam byl změněn.\nChcete uložit změny?				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				0	ru	Представление #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT.MENU_BROWSER_VIEWCONTEXT	ID_TREE_RELATION_DESIGN	HID_BROWSER_RELATION_DESIGN		0	ko	관계 디자인(~A)				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_CLOSECONN		HID_BROWSER_CLOSECONN		0	he	Verbindung s~chließen				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_ROWS				0	it	Eliminare i dati selezionati?				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_OBJECT_ALREADY_EXISTS				0	ar	The name # already exists.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_CONNECTION_LOST				0	es	Se perdió la conexión				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				0	cz	Chyba při nastavení kritérií pro řazení				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_CLOSECONN		HID_BROWSER_CLOSECONN		0	it	C~hiudi collegamento				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLUMNINFO	HID_BROWSER_COLUMNINFO		0	ko	열 설명 복사(~E)				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_FILTER				0	ca	S'ha produït un error en definir els criteris de filtratge				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_ROWHEIGHT	HID_BROWSER_ROWHEIGHT		0	sv	Radhöjd...				20040507 14:21:28
+dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_TBL_TITLE				0	he	Tabelle #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_NO_TABLE_FORMAT_INSIDE			0	fi	Tauluomuotoa ei löytynyt.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_NO_TABLE_FORMAT_INSIDE			0	sl	Ni mogoče najti oblike tabele.				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_SAVE_CURRENT_RECORD				0	es	Guardar registro actual				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_LOADING_QUERY			0	pl	Ładowanie kwerendy $name$ ...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	MENU_BROWSER_TABLECONTEXT	QUERY_CONNECTION_LOST			0	hi-IN	लेखासंचय से कनेक्शन नष्ट हो गया । आप पुनः कनेक्ट करना चाहते है ।				20040507 14:21:28
+dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_QRY_TITLE				0	da	Forespørgsel #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_LOADING_TABLE			0	nl	Bezig met laden van tabel $name$ ...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_CONNECTING_DATASOURCE			0	cs	Připojení k "$name$" ...				2003-10-21 15:24:56.263
+dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	ar	تراجع: إدخال بيانات				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_DIRECT_SQL		HID_DSBROWSER_DIRECTSQL		0	he	SQL...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT.RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	pt-BR	Recompilar				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_ERROR_OCCURED_WHILE_COPYING				0	cs	Došlo k chybě. Chcete pokračovat v kopírování?				2003-10-21 15:24:56.263
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT.MENU_BROWSER_VIEWCONTEXT	ID_TREE_RELATION_DESIGN	HID_BROWSER_RELATION_DESIGN		0	it	Struttura r~elazione				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_NO_TABLE_FORMAT_INSIDE			0	cs	Nebyl nalezen žádný formát tabulky.				2003-10-21 15:24:56.263
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_QUERIES_CONTAINER				0	zh-CN	查询				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_TABLEATTR	HID_BROWSER_TABLEFORMAT		0	pl	Format tabeli...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_QRY_TITLE				0	zh-CN	查询 #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT.MENU_BROWSER_VIEWCONTEXT	ID_TREE_RELATION_DESIGN	HID_BROWSER_RELATION_DESIGN		0	sl	Oblikovanje rel~acij				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	ca	Desfés: entrada de dades				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				0	et	No matching column names were found.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	MENU_BROWSER_TABLECONTEXT	QUERY_CONNECTION_LOST			0	sk	Spojenie s databázou bolo stratené. Chcete ho obnoviť?				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_TBL_TITLE				0	zh-CN	表格 #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_TITLE_CONFIRM_DELETION			0	hu	Törlés jóváhagyása				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_NO_TABLE_FORMAT_INSIDE			0	th	ไม่พบรูปแบบตาราง				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	MENU_BROWSER_TABLECONTEXT	QUERY_BRW_DELETE_QUERY_CONFIRM			0	th	มีแบบสอบถามอยู่แล้ว คุณต้องการลบมันหรือไม่?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_CONNECTING_DATASOURCE			0	sk	Pripájam k "$name$" ...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT.RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	ca	reconstruct				20040507 14:21:28
+dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_QRY_TITLE				0	ca	Consulta #				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				0	zh-CN	视图 #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	cur_item	RID_BRW_QRY_TOOLBOX	ID_BROWSER_CLOSE	ID_BROWSER_CLOSE		0	el	Κλείσιμο				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_DSBROWSER_TITLE			0	fi	Tietolähdenäkymä				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				0	ru	Ошибка установки условий сортировки				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_DATABROWSER_FILTERED				0	th	(กรอง)				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				0	hu	Nem található megfelelő oszlopnév.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_TABLES_CONTAINER				0	hu	Táblák				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_DATABROWSER_FILTERED				0	hu	(szűrt)				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLATTRSET	HID_BROWSER_COLUMNFORMAT		0	ru	Формат столбца...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_SAVE_CURRENT_RECORD				0	it	Salva record di dati attuale				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_OPENTABLES_WARNINGS			0	el	Παρουσιάστηκαν προειδοποιήσεις.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_ROWS				0	ja	選択したデータを削除しますか。				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_CLOSECONN		HID_BROWSER_CLOSECONN		0	da	A~fbryd forbindelse				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_DSBROWSER_TITLE			0	ca	Vista de font de dades				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT.RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	sv	Återskapa				20040507 14:21:28
+dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_QRY_TITLE				0	he	Abfrage #				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_ROWHEIGHT	HID_BROWSER_ROWHEIGHT		0	he	‮גובה שורה...‬				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_OBJECT_ALREADY_EXISTS				0	tr	Bu isim # halihazırda var.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_LOADING_QUERY			0	ar	Loading query $name$ ...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_TITLE_CONFIRM_DELETION			0	da	Bekræft sletning				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				0	da	Fejl ved bestemmelse af sorteringskriterierne				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_SAVE_CURRENT_RECORD				0	ar	حفظ السجل الحالي				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	MENU_BROWSER_TABLECONTEXT	QUERY_CONNECTION_LOST			0	el	Η σύνδεση με τη βάση δεδομένων χάθηκε. Θέλετε να επανασυνδεθείτε;				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUERY_DELETE_TABLE			0	cz	Chcete smazat tabulku '%1'?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_TITLE_CONFIRM_DELETION			0	es	Confirma 'borrar'				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_CLOSECONN		HID_BROWSER_CLOSECONN		0	zh-CN	结束连接(~N)				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_CONNECTION_LOST				0	pl	Połączenie zerwane				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	sk	Aktívny záznam bol zmenený.\nChcete uložiť zmeny?				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				0	he	Tabellenansicht der Datenquelle				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_QRY_TITLE				0	pl	Kwerenda #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_LOADING_DATASOURCE				0	sl	Naloži podatke				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_LOADING_TABLE			0	sv	Laddar tabell $name$ ...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_OPENTABLES_WARNINGS			0	cz	Obdržena varování				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_TABLEATTR	HID_BROWSER_TABLEFORMAT		0	hi-IN	सारणी रचना...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				0	ar	Datasource tableview				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_OPENTABLES_WARNINGS_DETAILS			0	sv	Databasförbindelsen rapporterade varningar medan tabellerna bestämdes.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_OPENTABLES_WARNINGS_DETAILS			0	da	Ved modtagelse af tabellerne blev der modtaget advarsler fra databaseforbindelsen.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_ROWS				0	cz	Chcete vymazat vybraná data?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUERY_DELETE_QUERY			0	hi-IN	आप '$name$' जानकारी को मिटाना चाहते है?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	MENU_BROWSER_TABLECONTEXT	QUERY_CONNECTION_LOST			0	ar	فُقد الاتصال بقاعدة البيانات. هل تريد إقامة الاتصال مرة أخرى؟				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	el	Η τρέχουσα εγγραφή τροποποιήθηκε.\nΝα αποθηκευτούν οι αλλαγές;				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLUMNINFO	HID_BROWSER_COLUMNINFO		0	pt-BR	Copiar ~descrição da coluna				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_OPENTABLES_WARNINGS			0	ca	S'han trobat advertiments				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				0	pt	Erro ao definir critérios de ordem				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	MENU_BROWSER_TABLECONTEXT	QUERY_CONNECTION_LOST			0	fr	La connexion à la base de données a été annulée ! Rétablir la connexion ?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_NO_TABLE_FORMAT_INSIDE			0	pt	Foi impossível encontrar um formato de tabela.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_CLOSECONN		HID_BROWSER_CLOSECONN		0	fr	Dé~connecter				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_QRY_TITLE				0	cz	Dotaz #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_NO_TABLE_FORMAT_INSIDE			0	fr	Impossible de détecter un format de table.				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLATTRSET	HID_BROWSER_COLUMNFORMAT		0	zh-TW	欄格式(~F)...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_OBJECT_ALREADY_EXISTS				0	sl	Ime "#" že obstaja.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REFRESHCONN		0	ko	연결 새로 고침(~R)				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUERY_DELETE_TABLE			0	pl	Czy chcesz usunąć tabelę '%1'?				20040507 14:21:28
+dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_QRY_TITLE				0	cs	Dotaz #				2003-10-21 15:24:56.263
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_QRY_TITLE				0	zh-TW	查詢 #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	zh-TW	目前的資料已經變更。要儲存變更的資料條目？				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_TITLE_CONFIRM_DELETION			0	ca	Confirmeu la supressió				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	ar	إدارة مصادر البيانات...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_QUERIES_CONTAINER				0	he	‮שאילתות‬				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	tr	Yürürlükteki kayıt değiştirildi\nDeğişiklikler saklansın mı?				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_ERROR_OCCURED_WHILE_COPYING				0	ca	S'ha produït un error. Voleu continuar copiant?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_DSBROWSER_TITLE			0	it	Vista sorgente dati				20040507 14:21:28
+dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_TBL_TITLE				0	hu	# tábla 				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_TABLEATTR	HID_BROWSER_TABLEFORMAT		0	ja	テーブルの書式...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_COULDNOTCONNECT_DATASOURCE			0	sk	Spojenie so zdrojom dát "$name$" nemohlo byť vytvorené.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUERY_DELETE_TABLE			0	es	¿Desea borrar la tabla '%1'?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_TITLE_CONFIRM_DELETION			0	he	Löschen bestätigen				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLUMNINFO	HID_BROWSER_COLUMNINFO		0	es	Copiar descripción de colu~mna				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				0	el	Σφάλμα κατά τον ορισμό των κριτηρίων ταξινόμησης				20040507 14:21:28
+dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_TBL_TITLE				0	ar	الجدول #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUERY_DELETE_QUERY			0	sv	Ska sökningen '$name$' raderas?				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_OBJECT_ALREADY_EXISTS				0	cs	Název # již existuje.				2003-10-21 15:24:56.263
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_ERROR_OCCURED_WHILE_COPYING				0	ar	A error occured. Would you like to continue the copying?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_LOADING_QUERY			0	da	indlæser forespørgslen $name$ ...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REFRESHCONN		0	cs	Obnovit spojení				2003-10-21 15:24:56.263
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_DSBROWSER_TITLE			0	sv	Datakällor vy				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_BOOKMARKS_CONTAINER				0	zh-TW	捷徑				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_LOADING_TABLE			0	pt	A carregar tabela $name$ ...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	sl	Upravljanje virov pod~atkov...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_DIRECT_SQL		HID_DSBROWSER_DIRECTSQL		0	da	SQL...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_SAVE_CURRENT_RECORD				0	th	บันทึกระเบียนปัจจุบัน				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_LOADING_DATASOURCE				0	zh-TW	下載資料				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				0	da	Tabeloversigt over datakilder				20040507 14:21:28
+dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_QRY_TITLE				0	sv	Sökning #				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				0	ko	선택된 테이블 또는 쿼리를 표시합니다.				20040507 14:21:28
+dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_TBL_TITLE				0	ru	Таблица #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_DATABROWSER_FILTERED				0	fr	(filtré)				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT.MENU_BROWSER_VIEWCONTEXT	ID_TREE_RELATION_DESIGN	HID_BROWSER_RELATION_DESIGN		0	tr	İlişki Dizaynı				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_CLOSECONN		HID_BROWSER_CLOSECONN		0	es	D~esconectar				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_LOADING_TABLE			0	fi	Ladataan taulua $name$...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_DATABROWSER_FILTERED				0	el	(φιλτραρισμένα)				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_CLOSECONN		HID_BROWSER_CLOSECONN		0	pt	~Desligar				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_TABLEATTR	HID_BROWSER_TABLEFORMAT		0	ca	Format de la taula...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT.RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	fr	Reconstituer				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLATTRSET	HID_BROWSER_COLUMNFORMAT		0	ca	~Format de la columna...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_NO_TABLE_FORMAT_INSIDE			0	he	Es konnte kein Tabellenformat gefunden werden.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_FILTER				0	ja	フィルタ条件の設定時のエラー				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				0	pl	Shows the selected table/query.				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				0	ru	Datasource tableview				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_NO_TABLE_FORMAT_INSIDE			0	cz	Nebyl nalezen žádný formát tabulky.				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_TBL_TITLE				0	ja	テーブル #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	zh-TW	管理資料源(~D)...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUERY_DELETE_TABLE			0	fr	Voulez-vous supprimer la table '%1' ?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	zh-CN	数据条目已经被更改。\n您要存盘更改后的数据记录吗？				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	cur_item	RID_BRW_QRY_TOOLBOX	ID_BROWSER_CLOSE	ID_BROWSER_CLOSE		0	et	Close				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT.RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	pt	Reconstruir				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUERY_DELETE_QUERY			0	th	คุณต้องการลบแบบสอบถาม '$name$'หรือไม่?				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLUMNINFO	HID_BROWSER_COLUMNINFO		0	ca	Copia la d~escripció de la columna				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_SAVE_CURRENT_RECORD				0	zh-TW	儲存目前的資料條目				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_OPENTABLES_WARNINGS			0	pl	Wystąpiły ostrzeżenia.				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLUMNINFO	HID_BROWSER_COLUMNINFO		0	cs	Zkopírovat popis sloupce				2003-10-21 15:24:56.263
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_BOOKMARKS_CONTAINER				0	tr	Bağlantılar				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT.RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	fi	Kokoa uudestaan				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	hu	Adatforrások ~adminisztrációja...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_OPENTABLES_WARNINGS			0	hu	Kapott figyelmeztetések				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	pl	Administracja źródeł ~danych...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	ko	데이터 원본 관리(~D)...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_TITLE_CONFIRM_DELETION			0	fi	Vahvista poistaminen				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_LOADING_TABLE			0	ar	Loading table $name$ ...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_TITLE_CONFIRM_DELETION			0	ar	تأكيد الحذف				20040507 14:21:28
+dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_QRY_TITLE				0	pt	Consulta #				2003-10-21 16:54:08.14
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_LOADING_DATASOURCE				0	tr	Veriyi yükle				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_DIRECT_SQL		HID_DSBROWSER_DIRECTSQL		0	fi	SQL...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_QRY_TITLE				0	cs	Dotaz #				2003-10-21 15:24:56.263
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				0	zh-CN	显示已经选择的表格或查询。				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_LOADING_QUERY			0	sk	Načítavam dotaz $name$ ...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REFRESHCONN		0	th	~ฟื้นฟูการเชื่อมต่อ				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT.MENU_BROWSER_VIEWCONTEXT	ID_TREE_RELATION_DESIGN	HID_BROWSER_RELATION_DESIGN		0	fr	Ébauche de relatio~n				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT	ID_TREE_RELATION_DESIGN	HID_BROWSER_RELATION_DESIGN		0	pl	~Projekt relacji				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLATTRSET	HID_BROWSER_COLUMNFORMAT		0	fr	Formatage de colonne...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_BOOKMARKS_CONTAINER				0	it	Collegamenti				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REFRESHCONN		0	pt-BR	~Atualizar a conexão				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_DSBROWSER_TITLE			0	hu	Adatforrás nézet				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUERY_DELETE_QUERY			0	tr	'$name$' sorgulamasını silmek istermisiniz ?				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				0	ca	Data source table view				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	he	Rückgängig: Dateneingabe				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				0	ru	Shows the selected table/query.				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				0	et	View #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_DATABROWSER_FILTERED				0	cz	(filtrováno)				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_ERROR_OCCURED_WHILE_COPYING				0	zh-TW	已經發生一個錯誤。要繼續複製？				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_BOOKMARKS_CONTAINER				0	ca	Enllaços				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				0	ja	一致する列の名前はありません。				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_ROWHEIGHT	HID_BROWSER_ROWHEIGHT		0	fi	Rivikorkeus...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_CONNECTION_LOST				0	it	Il collegamento è stato interrotto				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_TBL_TITLE				0	ca	Taula #				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_TBL_TITLE				0	fr	Table #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_TITLE_CONFIRM_DELETION			0	cs	Potvrdit smazání				2003-10-21 15:24:56.263
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_LOADING_QUERY			0	pt	A carregar consulta $name$ ...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT	ID_TREE_RELATION_DESIGN	HID_BROWSER_RELATION_DESIGN		0	da	Relatio~nsforslag				20040507 14:21:28
+dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_TBL_TITLE				0	sk	Tabuľka #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	da	Den aktuelle datapost er blevet ændret.\nSkal ændringerne gemmes?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT.MENU_BROWSER_VIEWCONTEXT	ID_TREE_RELATION_DESIGN	HID_BROWSER_RELATION_DESIGN		0	sk	Návrh r~elácií				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_COULDNOTCONNECT_DATASOURCE			0	cs	Nepodařilo se připojení k datovému zdroji "$name$".				2003-10-21 15:24:56.263
+dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_QRY_TITLE				0	zh-TW	查詢 #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_COULDNOTCONNECT_DATASOURCE			0	da	Der kunne ikke oprettes forbindelse til datakilden "$name$"				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUERY_DELETE_QUERY			0	fi	Haluatko poistaa kyselyn '$name$'?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT.MENU_BROWSER_VIEWCONTEXT	ID_TREE_RELATION_DESIGN	HID_BROWSER_RELATION_DESIGN		0	hi-IN	~संबन्ध डिसैन				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_LOADING_TABLE			0	ca	S'està carregant la taula $name$ ...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_FILTER				0	cs	Chyba při nastavení kritérií filtru				2003-10-21 15:24:56.263
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				0	es	Vista de tabla de la fuente de datos				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				0	hi-IN	स्तंभ नामों के समान नाम प्राप्त नहीं हुआ । 				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_QUERIES_CONTAINER				0	tr	Sorgular				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	MENU_BROWSER_TABLECONTEXT	QUERY_BRW_DELETE_QUERY_CONFIRM			0	fi	Kysely on jo olemassa. Haluatko poistaa sen?				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				0	fr	Vue de table de la source de données				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_DIRECT_SQL		HID_DSBROWSER_DIRECTSQL		0	fr	SQL...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_CONNECTING_DATASOURCE			0	he	Verbindungsaufbau zu "$name$" ...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_TABLEATTR	HID_BROWSER_TABLEFORMAT		0	da	Tabelformatering...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_LOADING_DATASOURCE				0	zh-CN	下载数据				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_OBJECT_ALREADY_EXISTS				0	zh-TW	名稱 # 已經存在。				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_TABLES_CONTAINER				0	ru	Таблицы				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT.RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	ja	最新の情報に更新				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_OPENTABLES_WARNINGS			0	fi	Varoituksia havaittu				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_CONNECTION_LOST				0	fi	Yhteys menetetty				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_SAVE_CURRENT_RECORD				0	sk	Uložiť aktívny záznam				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_BOOKMARKS_CONTAINER				0	zh-CN	链接				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLATTRSET	HID_BROWSER_COLUMNFORMAT		0	nl	~Kolomopmaak...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT	ID_TREE_RELATION_DESIGN	HID_BROWSER_RELATION_DESIGN		0	nl	Relatie-~ontwerp				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				0	el	Datasource tableview				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_OBJECT_ALREADY_EXISTS				0	fi	Nimi # on jo olemassa.				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				0	he	Es konnten keine übereinstimmenden Spaltennamen gefunden werden				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_NO_TABLE_FORMAT_INSIDE			0	hu	Semmilyen táblaformátum nem található.				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_OBJECT_ALREADY_EXISTS				0	es	El nombre "#" ya existe.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_QUERIES_CONTAINER				0	et	Queries				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				0	zh-CN	在设定排序条件时发生错误				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT.MENU_BROWSER_VIEWCONTEXT	ID_TREE_RELATION_DESIGN	HID_BROWSER_RELATION_DESIGN		0	pt-BR	Es~boçar relação				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	zh-TW	復原：輸入資料				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_OPENTABLES_WARNINGS			0	tr	Alınan uyarılar				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_LOADING_DATASOURCE				0	cs	Načíst data				2003-10-21 15:24:56.263
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLUMNINFO	HID_BROWSER_COLUMNINFO		0	zh-CN	复制列标题(~E)				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_OPENTABLES_WARNINGS			0	fr	Avertissements !				20040507 14:21:28
+dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_TBL_TITLE				0	pt-BR	Tabela #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_LOADING_QUERY			0	cz	Načítání dotazu $name$ ...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUERY_DELETE_QUERY			0	hu	Törli a következő lekérdezést: '$name$'?				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				0	pt-BR	Vista #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_DIRECT_SQL		HID_DSBROWSER_DIRECTSQL		0	ru	SQL...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLUMNINFO	HID_BROWSER_COLUMNINFO		0	pl	Kopiuj ~opis kolumny				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				0	sv	Fel vid definition av sorteringskriterier				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_ROWS				0	ar	هل تريد حذف البيانات المحددة؟				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_DSBROWSER_TITLE			0	pt	Ver fontes de dados				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_OPENTABLES_WARNINGS_DETAILS			0	it	Il collegamento al database ha inviato avvertenze durante il rilevamento delle tabelle.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_BOOKMARKS_CONTAINER				0	hu	Hivatkozások				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_ROWS				0	el	Θέλετε να διαγραφούν τα επιλεγμένα δεδομένα;				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT	ID_TREE_RELATION_DESIGN	HID_BROWSER_RELATION_DESIGN		0	el	Σχεδιασ~μός σχέσης				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_DIRECT_SQL		HID_DSBROWSER_DIRECTSQL		0	sv	SQL...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_TABLES_CONTAINER				0	ja	テーブル				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_FILTER				0	fr	Erreur de définition des critères de filtre				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_QUERIES_CONTAINER				0	sk	Dotazy				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_LOADING_DATASOURCE				0	sv	Ladda data				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_DIRECT_SQL		HID_DSBROWSER_DIRECTSQL		0	sk	SQL...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				0	ko	데이터 원본의 테이블 보기				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_COULDNOTCONNECT_DATASOURCE			0	sl	Ni mogoče vzpostaviti povezave z virom podatkov "$name$".				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_DATABROWSER_FILTERED				0	ko	(필터됨)				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	th	เลิกทำ: ป้อนข้อมูล				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT.RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	da	Gendan				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_DATABROWSER_FILTERED				0	ca	(filtrat)				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_LOADING_DATASOURCE				0	he	Daten laden				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	cur_item	RID_BRW_QRY_TOOLBOX	ID_BROWSER_CLOSE	ID_BROWSER_CLOSE		0	nl	Sluiten				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_COULDNOTCONNECT_DATASOURCE			0	ca	No s'ha pogut establir la connexió amb "$name$".				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_ERROR_OCCURED_WHILE_COPYING				0	hi-IN	गलती घटित हुआ । आप प्रतिलिपि बनाने का कार्य को जारी रखना चाहते है?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	MENU_BROWSER_TABLECONTEXT	QUERY_BRW_DELETE_QUERY_CONFIRM			0	sl	Poizvedba že obstaja. Ali jo želite izbrisati?				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				0	el	Προβολή #				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				0	nl	Shows the selected table/query.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				0	th	ตั้งค่าเกณฑ์ในการเรียงลำดับผิดพลาด				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_DIRECT_SQL		HID_DSBROWSER_DIRECTSQL		0	sl	SQL...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_QUERIES_CONTAINER				0	hi-IN	जानकारी				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_QRY_TITLE				0	fi	Kysely #				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				0	tr	Veri kaynağı tablo görünümü				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_CLOSECONN		HID_BROWSER_CLOSECONN		0	tr	Bağlantıyı kopar				20040507 14:21:28
+dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_TBL_TITLE				0	ja	テーブル #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				0	sk	Chybné nastavenie kritérií­ pre zoradenie				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				0	cz	Pohled #				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLUMNINFO	HID_BROWSER_COLUMNINFO		0	hi-IN	स्तं~भ विवरण का प्रतिलिपि				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_TITLE_CONFIRM_DELETION			0	pt-BR	Confirmar exclusão				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_BOOKMARKS_CONTAINER				0	sl	Povezave				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_CONNECTION_LOST				0	pt-BR	Perda da conexão				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_ERROR_OCCURED_WHILE_COPYING				0	fi	On tapahtunut virhe. Haluatko jatkaa kopiointia?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_FILTER				0	et	Error setting the filter criteria				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				0	pt-BR	Nenhum nome de coluna correspondente foi encontrado				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_LOADING_DATASOURCE				0	hi-IN	ड़ॉटा लोड करो				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_ERROR_OCCURED_WHILE_COPYING				0	cz	Došlo k chybě. Chcete pokračovat v kopírování?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_LOADING_DATASOURCE				0	ru	Загрузить данные				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	cur_item	RID_BRW_QRY_TOOLBOX	ID_BROWSER_CLOSE	ID_BROWSER_CLOSE		0	ko	닫기				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				0	zh-CN	数据源的表格视图				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_ERROR_OCCURED_WHILE_COPYING				0	pt	Ocorreu um erro. Continuar o processo de cópia?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_CLOSECONN		HID_BROWSER_CLOSECONN		0	hu	Kapcsolat bo~ntása				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_LOADING_QUERY			0	es	cargando consulta $name$ ...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_TITLE_CONFIRM_DELETION			0	ko	삭제 확인				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_FILTER				0	th	ตั้งค่าเกณฑ์ในการกรองผิดพลาด				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	el	Αναίρεση: Εισαγωγή δεδομένων				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_DSBROWSER_TITLE			0	ar	Data source browser				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_CONNECTING_DATASOURCE			0	pl	Łączenie z "$name$"...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	cur_item	RID_BRW_QRY_TOOLBOX	ID_BROWSER_CLOSE	ID_BROWSER_CLOSE		0	sv	Stäng				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT.RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	cs	Obnovit				2003-10-21 15:24:56.263
+dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_FILTER				0	zh-TW	設定篩選條件時發生一個錯誤				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				0	pl	Nie znaleziono odpowiednich nazw kolumn!				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLATTRSET	HID_BROWSER_COLUMNFORMAT		0	he	Spalten~formatierung...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	cs	Správa zdrojů dat...				2003-10-21 15:24:56.263
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_CONNECTING_DATASOURCE			0	pt-BR	Conectando a "$name$" ...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_ROWHEIGHT	HID_BROWSER_ROWHEIGHT		0	ca	Alçada de la fila...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_DATABROWSER_FILTERED				0	ja	(フィルタ済み)				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_LOADING_DATASOURCE				0	pt	Carregar dados				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_DATABROWSER_FILTERED				0	zh-CN	(已经筛选)				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_TBL_TITLE				0	zh-TW	表格 #				20040507 14:21:28
+dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_QRY_TITLE				0	sl	Poizvedba #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_CLOSECONN		HID_BROWSER_CLOSECONN		0	ar	قطع الاتصال				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_NO_TABLE_FORMAT_INSIDE			0	sv	Det gick inte att hitta något tabellformat.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT	ID_TREE_RELATION_DESIGN	HID_BROWSER_RELATION_DESIGN		0	cs	Návrh relací				2003-10-21 15:24:56.263
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_TITLE_CONFIRM_DELETION			0	ru	Подтвердить удаление				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT.RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	ar	reconstruct				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	cur_item	RID_BRW_QRY_TOOLBOX	ID_BROWSER_CLOSE	ID_BROWSER_CLOSE		0	tr	Kapat				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_OBJECT_ALREADY_EXISTS				0	cz	Název # již existuje.				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				0	tr	Seçili tabloyu eya sorgulamayı göster				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_LOADING_QUERY			0	ca	S'està carregant la consulta $name$ ...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLUMNINFO	HID_BROWSER_COLUMNINFO		0	da	Kopier kolonneb~eskrivelse				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_NO_TABLE_FORMAT_INSIDE			0	ru	Невозможно найти формат таблицы.				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLUMNINFO	HID_BROWSER_COLUMNINFO		0	nl	~Kolomopschrift kopiëren				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_ROWHEIGHT	HID_BROWSER_ROWHEIGHT		0	ja	行の高さ...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_FILTER				0	nl	Fout bij instellen van filtercriteria				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	MENU_BROWSER_TABLECONTEXT	QUERY_BRW_DELETE_QUERY_CONFIRM			0	pl	Kwerenda już istnieje. Czy ją usunąć?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_LOADING_TABLE			0	ja	テーブル $name$ の読み込み中...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				0	nl	Beeld #				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLATTRSET	HID_BROWSER_COLUMNFORMAT		0	zh-CN	列格式(~F)...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_OBJECT_ALREADY_EXISTS				0	fr	Le nom # existe déjà.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_CONNECTION_LOST				0	nl	Verbinding verbroken				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_TITLE_CONFIRM_DELETION			0	ja	削除の確認				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_ROWS				0	hi-IN	आप चुने हुए ड़ॉटा को मिटाना चाहते है?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_CLOSECONN		HID_BROWSER_CLOSECONN		0	hi-IN	डिस~कनेक्ट				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUERY_DELETE_TABLE			0	el	Θέλετε να διαγραφεί ο πίνακας '%1';				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_COULDNOTCONNECT_DATASOURCE			0	zh-CN	无法与数据源 "$name$" 建立连接。				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_TBL_TITLE				0	et	Table #				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_TABLEATTR	HID_BROWSER_TABLEFORMAT		0	nl	Tabelopmaak...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_TABLEATTR	HID_BROWSER_TABLEFORMAT		0	tr	Tablo Biçemi...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_DSBROWSER_TITLE			0	ja	データソースの表示				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				0	sv	Datakällans tabellvisning				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_CONNECTING_DATASOURCE			0	ar	Connecting to "$name$" ...				20040507 14:21:28
+dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_TBL_TITLE				0	zh-TW	表格 #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_CONNECTION_LOST				0	tr	Bağlantı koptu				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				0	ar	View #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_LOADING_DATASOURCE				0	hu	Adatok töltése				20040507 14:21:28
+dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_TBL_TITLE				0	ko	테이블 #				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				0	ru	Не найдено соответствующих имен столбцов.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_ROWS				0	th	คุณต้องการลบข้อมูลที่เลือกหรือไม่?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_OPENTABLES_WARNINGS			0	sv	Varningar har förekommit.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	cur_item	RID_BRW_QRY_TOOLBOX	ID_BROWSER_CLOSE	ID_BROWSER_CLOSE		0	fi	Sulje				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	MENU_BROWSER_TABLECONTEXT	QUERY_CONNECTION_LOST			0	it	Il collegamento al database è stato terminato. Volete ristabilirlo?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_CLOSECONN		HID_BROWSER_CLOSECONN		0	pl	~Rozłącz				20040507 14:21:28
+dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_QRY_TITLE				0	pt-BR	Consulta #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_FILTER				0	tr	Süzme kriteri hatası				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUERY_DELETE_TABLE			0	pt	Eliminar tabela '%1'?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_OPENTABLES_WARNINGS			0	pt-BR	Foram encontrados avisos.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_NO_TABLE_FORMAT_INSIDE			0	es	No se pudo encontrar ningún formato de hoja de cálculo.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_QUERIES_CONTAINER				0	ca	Consultes				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_LOADING_TABLE			0	pt-BR	Carregando a tabela $name$ ...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUERY_DELETE_QUERY			0	fr	Voulez-vous supprimer la requête '$name$' ?				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				0	hi-IN	Shows the selected table or query.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REFRESHCONN		0	zh-CN	重新连接(~R)				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	es	Deshacer: Entrada de datos				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_COULDNOTCONNECT_DATASOURCE			0	pt-BR	Não foi possível estabelecer a conexão para a fonte de dados "$name$".				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_FILTER				0	sv	Fel vid definition av filterkriterier				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	fr	L'enregistrement actif a été modifié.\nVoulez-vous enregistrer les modifications ?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_LOADING_QUERY			0	hu	$name$ lekérdezés betöltése...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT.RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	ko	최신 정보로 업데이트				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_ROWHEIGHT	HID_BROWSER_ROWHEIGHT		0	cs	Výška sloupce...				2003-10-21 15:24:56.263
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_DSBROWSER_TITLE			0	tr	Veri kaynağı izleme				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_CONNECTION_LOST				0	ru	Обрыв связи				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT	ID_TREE_RELATION_DESIGN	HID_BROWSER_RELATION_DESIGN		0	it	Struttura r~elazione				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				0	fi	Näytä #				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_QRY_TITLE				0	ca	Consulta #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	ca	Administra les fonts de ~dades...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_QRY_TITLE				0	ru	Запрос #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_NO_TABLE_FORMAT_INSIDE			0	et	No table format could be found.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_BOOKMARKS_CONTAINER				0	pt-BR	Vínculos				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_CONNECTING_DATASOURCE			0	tr	"$name$" a Bağlanıyor 				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_TBL_TITLE				0	pt-BR	Tabela #				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				0	zh-TW	檢視 #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_DSBROWSER_TITLE			0	th	มุมมองแหล่งข้อมูล				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	MENU_BROWSER_TABLECONTEXT	QUERY_BRW_DELETE_QUERY_CONFIRM			0	pt-BR	A consulta já existe. Deseja excluí-la?				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_TBL_TITLE				0	hu	# tábla				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_LOADING_QUERY			0	zh-CN	正在载入查询 $name$ ...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLUMNINFO	HID_BROWSER_COLUMNINFO		0	sv	Kopiera kolumnb~eskrivning				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				0	sl	Napaka pri nastavljanju pogojev razvrščanja				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_DSBROWSER_TITLE			0	es	Vista de fuente de datos				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	MENU_BROWSER_TABLECONTEXT	QUERY_BRW_DELETE_QUERY_CONFIRM			0	ru	Этот запрос уже существует. Удалить его?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_DSBROWSER_TITLE			0	cz	Pohled na datové zdroje				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REFRESHCONN		0	tr	Bağlantıyı tazele				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_DIRECT_SQL		HID_DSBROWSER_DIRECTSQL		0	zh-TW	SQL...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_OBJECT_ALREADY_EXISTS				0	ja	名前 # はすでにあります。				20040507 14:21:28
+dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_TBL_TITLE				0	zh-CN	表格 #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_QUERIES_CONTAINER				0	cs	Dotazy				2003-10-21 15:24:56.263
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT.MENU_BROWSER_VIEWCONTEXT	ID_TREE_RELATION_DESIGN	HID_BROWSER_RELATION_DESIGN		0	ru	Проектирование связей				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	he	Der aktuelle Datensatz wurde geändert.\nSollen die Änderungen gespeichert werden?				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				0	ja	ビュー #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_DIRECT_SQL		HID_DSBROWSER_DIRECTSQL		0	hi-IN	SQL...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_OPENTABLES_WARNINGS			0	zh-CN	发出一个警告。				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_BOOKMARKS_CONTAINER				0	cs	Odkazy				2003-10-21 15:24:56.263
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_DSBROWSER_TITLE			0	el	Προβολή προελεύσεων δεδομένων				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				0	sl	Pogled #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUERY_DELETE_TABLE			0	th	คุณต้องการลบตาราง '%1'หรือไม่?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_TITLE_CONFIRM_DELETION			0	it	Conferma 'Elimina'				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLATTRSET	HID_BROWSER_COLUMNFORMAT		0	sv	Kolumn~formatering...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REFRESHCONN		0	et	~Refresh Connection				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT	ID_TREE_RELATION_DESIGN	HID_BROWSER_RELATION_DESIGN		0	ca	Disseny de la rel~ació				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	et	Undo: Data Input				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT.MENU_BROWSER_VIEWCONTEXT	ID_TREE_RELATION_DESIGN	HID_BROWSER_RELATION_DESIGN		0	cs	Návrh relací				2003-10-21 15:24:56.263
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUERY_DELETE_TABLE			0	sl	Ali želite izbrisati tabelo '%1'?				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	ru	Отменить: ввод данных				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_LOADING_DATASOURCE				0	ar	تحميل البيانات				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	pt	Anular: entrada de dados				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_FILTER				0	ko	필터 기준 설정 중 오류				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				0	sl	Ujemajočih imen stolpcev ni mogoče najti.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_TABLES_CONTAINER				0	fr	Tables				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLUMNINFO	HID_BROWSER_COLUMNINFO		0	el	Αντιγραφή της π~εριγραφής της στήλης				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_OPENTABLES_WARNINGS_DETAILS			0	tr	Tablolar alınırken, uyarılar veritabanı tarafından raporlanır.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_CONNECTION_LOST				0	ar	تم فقدان الاتصال				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_DIRECT_SQL		HID_DSBROWSER_DIRECTSQL		0	ko	SQL...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_TABLEATTR	HID_BROWSER_TABLEFORMAT		0	hu	Táblaformátum...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLUMNINFO	HID_BROWSER_COLUMNINFO		0	tr	Sütun açıklmalarını kopyala				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_TABLEATTR	HID_BROWSER_TABLEFORMAT		0	he	Tabellenformatierung...				20040507 14:21:28
+dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_TBL_TITLE				0	nl	Tabel #				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLATTRSET	HID_BROWSER_COLUMNFORMAT		0	hu	~Oszlopformátum...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_OPENTABLES_WARNINGS_DETAILS			0	pt	Durante a localização das tabelas, a ligação da base de dados registou algumas advertências.				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				0	es	Muestra la tabla o consulta seleccionada. 				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_COULDNOTCONNECT_DATASOURCE			0	he	Die Verbindung zur Datenquelle "$name$" konnte nicht hergstellt werden.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT.RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	el	Αναδόμηση				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_TBL_TITLE				0	he	Tabelle #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_BOOKMARKS_CONTAINER				0	hi-IN	लिंक्स				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				0	he	Fehler beim Setzen der Sortier-Kriterien				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_TABLEATTR	HID_BROWSER_TABLEFORMAT		0	cs	Formát tabulky...				2003-10-21 15:24:56.263
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_OPENTABLES_WARNINGS			0	nl	Waarschuwingen opgetreden.				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_QRY_TITLE				0	et	Query #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_CLOSECONN		HID_BROWSER_CLOSECONN		0	ja	接続を切断する(~N)				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_DSBROWSER_TITLE			0	sl	Pogled vira podatkov				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_QUERIES_CONTAINER				0	pt	Consultas				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	pl	Cofnij: wpisywanie danych				20040507 14:21:28
+dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_QRY_TITLE				0	fi	Kysely #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_OPENTABLES_WARNINGS_DETAILS			0	hi-IN	सारणियों को प्राप्त करने के समय, लेखसंचय कनेक्शन से चेतावनी मिला । 				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_LOADING_DATASOURCE				0	ja	データの読み込み				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUERY_DELETE_TABLE			0	ru	Удалить таблицу '%1'?				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_SAVE_CURRENT_RECORD				0	hu	Aktuális rekord mentése				20040507 14:21:28
+dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_TBL_TITLE				0	hi-IN	सारणी #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_TABLES_CONTAINER				0	pt-BR	Tabelas				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_CONNECTING_DATASOURCE			0	hi-IN	$name$ केलिए कनेक्ट कर रहा है ...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT	ID_TREE_RELATION_DESIGN	HID_BROWSER_RELATION_DESIGN		0	zh-TW	關聯設計(~A)				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	da	Administrer ~datakilder...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	MENU_BROWSER_TABLECONTEXT	QUERY_BRW_DELETE_QUERY_CONFIRM			0	es	La consulta ya existe. ¿Desea borrarla?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REFRESHCONN		0	zh-TW	重新連線(~R)				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_OPENTABLES_WARNINGS			0	sl	Zaznana so opozorila				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_CLOSECONN		HID_BROWSER_CLOSECONN		0	fi	Katkaise ~yhteys				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	MENU_BROWSER_TABLECONTEXT	QUERY_BRW_DELETE_QUERY_CONFIRM			0	zh-TW	這個查詢已經存在。要刪除它？				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_NO_TABLE_FORMAT_INSIDE			0	pl	Nie znaleziono żadnego formatu tabeli.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	MENU_BROWSER_TABLECONTEXT	QUERY_BRW_DELETE_QUERY_CONFIRM			0	sv	Sökningen finns redan. Ska den raderas?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_LOADING_TABLE			0	ko	테이블 $name$을(를) 로드 중 ...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	sv	Administrera ~datakällor...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_DATABROWSER_FILTERED				0	tr	(Süzülmüş)				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_CONNECTING_DATASOURCE			0	el	Σύνδεση με το "$name$" ...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_COULDNOTCONNECT_DATASOURCE			0	zh-TW	無法連線到資料源 "$name$" 。				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_CONNECTING_DATASOURCE			0	sl	Vzpostavljanje povezave z "$name$" ...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				0	zh-CN	无法找到相符的列名称！				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				0	fr	Vue #				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_OBJECT_ALREADY_EXISTS				0	pt	O nome # já existe.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	hi-IN	~ड़ॉटा मूलों का प्रशासन...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_NO_TABLE_FORMAT_INSIDE			0	sk	Nebol nájdený formát tabuľky				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_BOOKMARKS_CONTAINER				0	es	Vínculos				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_ROWHEIGHT	HID_BROWSER_ROWHEIGHT		0	da	Rækkehøjde...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_QRY_TITLE				0	tr	Sorgu#				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_ERROR_OCCURED_WHILE_COPYING				0	sk	Objavila sa chyba. Chcete pokračovať v kopírovaní?				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_SAVE_CURRENT_RECORD				0	da	Gem aktuel datapost				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLATTRSET	HID_BROWSER_COLUMNFORMAT		0	cs	Formát sloupce...				2003-10-21 15:24:56.263
+dbaccess	source\ui\browser\sbabrw.src	0	cur_item	RID_BRW_QRY_TOOLBOX	ID_BROWSER_CLOSE	ID_BROWSER_CLOSE		0	hu	Bezárás				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_FILTER				0	pt	Erro ao definir critérios dos filtros				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				0	fi	Shows the selected table/query.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_DIRECT_SQL		HID_DSBROWSER_DIRECTSQL		0	es	SQL...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_CONNECTION_LOST				0	sl	Povezava prekinjena				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				0	it	Visualizza #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	hi-IN	वर्तमान अभिलेख को बदला है ।\nआप परिवर्तनों को संचित करना चाहते है ?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_OPENTABLES_WARNINGS			0	it	Avvertimenti				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				0	pt	Shows the selected table/query.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_LOADING_QUERY			0	cs	Načítání dotazu $name$ ...				2003-10-21 15:24:56.263
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_TBL_TITLE				0	cs	Tabulka #				2003-10-21 15:24:56.263
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_OBJECT_ALREADY_EXISTS				0	da	Navnet "#" findes allerede.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_LOADING_TABLE			0	pl	Ładowanie tabeli $name$ ...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_LOADING_TABLE			0	el	Φόρτωση πίνακα $name$ ...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				0	pt-BR	Visualizar tabelas da fonte de dados				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	cur_item	RID_BRW_QRY_TOOLBOX	ID_BROWSER_CLOSE	ID_BROWSER_CLOSE		0	hi-IN	बन्द करो				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_TBL_TITLE				0	th	ตาราง #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_BOOKMARKS_CONTAINER				0	sv	Länkar				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLATTRSET	HID_BROWSER_COLUMNFORMAT		0	sl	~Oblika stolpca...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	MENU_BROWSER_TABLECONTEXT	QUERY_CONNECTION_LOST			0	da	Forbindelsen til databasen blev slettet! Skal den genoprettes?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_NO_TABLE_FORMAT_INSIDE			0	tr	Tablo biçemi bulunamıyor				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	he	~Datenquellen verwalten ...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_OPENTABLES_WARNINGS_DETAILS			0	es	La conexión a la base de datos ha enviado advertencias durante la determinación de las tablas.				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_SAVE_CURRENT_RECORD				0	pt	Guardar registo de dados activo				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_BOOKMARKS_CONTAINER				0	sk	Odkazy				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT.RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	hi-IN	पुनः निर्माण				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				0	da	Viser den markederede tabel eller forespørgsel.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_LOADING_DATASOURCE				0	ca	Carrega les dades				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_TBL_TITLE				0	es	Tabla #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_NO_TABLE_FORMAT_INSIDE			0	ca	No s'ha trobat cap format de taula.				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_SAVE_CURRENT_RECORD				0	fi	Tallenna nykyinen tietue				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	MENU_BROWSER_TABLECONTEXT	QUERY_BRW_DELETE_QUERY_CONFIRM			0	ja	クエリーはすでにあります。クエリーを削除しますか。				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				0	es	Ver #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_CONNECTING_DATASOURCE			0	ko	"$name$"에 연결하는 중...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	pt-BR	Desfazer: entrada de dados				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				0	hi-IN	दृश्य #				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				0	ca	Vista #				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	pl	Bieżący rekord został zmodyfikowany.\nCzy zapisać zmiany?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	MENU_BROWSER_TABLECONTEXT	QUERY_CONNECTION_LOST			0	tr	Veritabanına bağlantı kesildi. Yeniden bağlanmak istiyor musunuz?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT.MENU_BROWSER_VIEWCONTEXT	ID_TREE_RELATION_DESIGN	HID_BROWSER_RELATION_DESIGN		0	nl	~Relatie-ontwerp				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_OPENTABLES_WARNINGS_DETAILS			0	he	Beim Ermitteln der Tabellen wurden von der Datenbankverbindung Warnungen gemeldet.				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_TABLES_CONTAINER				0	pl	Tabele				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_LOADING_QUERY			0	et	Loading query $name$ ...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLUMNINFO	HID_BROWSER_COLUMNINFO		0	cz	Zkopírovat popis sloupce				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_TABLEATTR	HID_BROWSER_TABLEFORMAT		0	sv	Tabellformatering...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_QRY_TITLE				0	he	Abfrage #				20040507 14:21:28
+dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_QRY_TITLE				0	hu	# lekérdezés				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_ROWHEIGHT	HID_BROWSER_ROWHEIGHT		0	th	ความสูงของแถว...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_COULDNOTCONNECT_DATASOURCE			0	ar	The connection to the data source "$name$" could not be established.				20040507 14:21:28
