@@ -73,7 +73,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DS
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	nl	~gegevensbronnen beheren...				20040507 14:21:28
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	pl	Administracja źródeł ~danych...				20040507 14:21:28
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	pt	A~dministrar fontes de dados...				20040507 14:21:28
-dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	pt-BR	"Editar arquivo de banco de ~dados...!"				2004-10-06 17:56:53.217
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	pt-BR	Editar arquivo de banco de ~dados...				2004-11-23 13:17:14.733
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	ru	~Управление источниками данных...				20040507 14:21:28
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	sk	Administrovať zdroje ~dát...				20040507 14:21:28
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	sl	Upravljanje virov pod~atkov...				20040507 14:21:28
@@ -284,7 +284,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	menuitem	RID_MENU_REFRESH_DATA	ID_BROWSE
 dbaccess	source\ui\browser\sbabrw.src	0	menuitem	RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	ja	再構築				2004-10-06 17:56:53.217
 dbaccess	source\ui\browser\sbabrw.src	0	menuitem	RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	ko	다시 구성				2004-10-06 17:56:53.217
 dbaccess	source\ui\browser\sbabrw.src	0	menuitem	RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	pt-BR	Reconstruir				2004-10-06 17:56:53.217
-dbaccess	source\ui\browser\sbabrw.src	0	menuitem	RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	sv	Återskapa				2004-10-06 17:56:53.217
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	sv	Återskapa				2004-11-23 13:17:14.733
 dbaccess	source\ui\browser\sbabrw.src	0	menuitem	RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	zh-CN	重建				2004-10-06 17:56:53.217
 dbaccess	source\ui\browser\sbabrw.src	0	menuitem	RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	zh-TW	重建				2004-10-06 17:56:53.217
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	MENU_BROWSER_TABLECONTEXT	QUERY_BRW_DELETE_QUERY_CONFIRM			0	ar	هذا الاستفسار موجود بالفعل. هل تريد حذفه؟				20040507 14:21:28
@@ -345,10 +345,10 @@ dbaccess	source\ui\browser\sbabrw.src	0	querybox	MENU_BROWSER_TABLECONTEXT	QUERY
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	MENU_BROWSER_TABLECONTEXT	QUERY_CONNECTION_LOST			0	zh-TW	和資料庫的連線已經關閉。要重新連線？				2004-10-06 17:56:53.217
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_QUERY_CONFIRM				0	es	La consulta ya existe. ¿Desea eliminarla?				2004-10-06 17:56:53.217
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_QUERY_CONFIRM				0	fr	Cette requête existe déjà. Voulez-vous la supprimer ?				2004-10-06 17:56:53.217
-dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_QUERY_CONFIRM				0	it	L'interrogazione esiste già. Eliminarla?				2004-10-06 17:56:53.217
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_QUERY_CONFIRM				0	it	La ricerca esiste già. Eliminarla?				2004-11-23 13:17:14.733
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_QUERY_CONFIRM				0	ja	このクエリは既に存在します。削除しますか。				2004-10-06 17:56:53.217
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_QUERY_CONFIRM				0	ko	쿼리가 이미 있습니다. 삭제하시겠습니까?				2004-10-06 17:56:53.217
-dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_QUERY_CONFIRM				0	pt-BR	"A consulta já existe. Deseja excluí-la?!"				2004-10-06 17:56:53.217
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_QUERY_CONFIRM				0	pt-BR	A consulta já existe. Deseja excluí-la?				2004-11-23 13:17:14.733
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_QUERY_CONFIRM				0	sv	Sökningen finns redan. Ska den raderas?				2004-10-06 17:56:53.217
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_QUERY_CONFIRM				0	zh-CN	查询已存在。是否要删除它？				2004-10-06 17:56:53.217
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_QUERY_CONFIRM				0	zh-TW	查詢已經存在。您是否要刪除？				2004-10-06 17:56:53.217
@@ -409,7 +409,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	tr	
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	zh-CN	数据条目已经被更改。\n您要存盘更改后的数据记录吗？				2004-10-06 17:56:53.217
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	zh-TW	目前的資料已經變更。要儲存變更的資料條目？				2004-10-06 17:56:53.217
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_CONNECTION_LOST				0	ja	データベースへの接続が切断されました。再接続しますか。				2004-10-06 17:56:53.217
-dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_CONNECTION_LOST				0	pt-BR	"A conexão com o banco de dados foi perdida. Deseja reconectar-se?!"				2004-10-06 17:56:53.217
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_CONNECTION_LOST				0	pt-BR	A conexão com o banco de dados foi perdida. Deseja reconectar-se?				2004-11-23 13:17:14.733
 dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_CONNECTING_DATASOURCE			0	ar	Connecting to "$name$" ...				20040507 14:21:28
 dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_CONNECTING_DATASOURCE			0	ca	S'està establint la connexió amb "$name$" ...				20040507 14:21:28
 dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_CONNECTING_DATASOURCE			0	cs	Připojení k "$name$" ...				2003-10-21 15:24:56.263
@@ -944,13 +944,13 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				0	zh
 dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				0	zh-TW	設定編排條件時發生一個錯誤				2004-10-06 17:56:53.217
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_CONNECTING_DATASOURCE				0	ja	"$name$"に接続しています ...				2004-10-06 17:56:53.217
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_CONNECTING_DATASOURCE				0	ko	"$name$"에 연결 중...				2004-10-06 17:56:53.217
-dbaccess	source\ui\browser\sbabrw.src	0	string	STR_CONNECTING_DATASOURCE				0	pt-BR	"Conectando com ""$name$"" ...!"				2004-10-06 17:56:53.217
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_CONNECTING_DATASOURCE				0	pt-BR	Conectando com "$name$" ...				2004-11-23 13:17:14.733
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_COULDNOTCONNECT_DATASOURCE				0	es	No se ha podido establecer la conexión al origen de datos "$name$".				2004-10-06 17:56:53.217
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_COULDNOTCONNECT_DATASOURCE				0	fr	Impossible d'établir une connexion avec la source de données $name$.				2004-10-06 17:56:53.217
-dbaccess	source\ui\browser\sbabrw.src	0	string	STR_COULDNOTCONNECT_DATASOURCE				0	it	Impossibile stabilire la connessione con la sorgente dati "$nome$".				2004-10-06 17:56:53.217
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_COULDNOTCONNECT_DATASOURCE				0	it	Impossibile creare il collegamento alla sorgente dati "$name$".				2004-11-23 13:17:14.733
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_COULDNOTCONNECT_DATASOURCE				0	ja	データソース "$name$" への接続が確立できませんでした。				2004-10-06 17:56:53.217
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_COULDNOTCONNECT_DATASOURCE				0	ko	데이터 원본 "$name$"에 연결하지 못했습니다.				2004-10-06 17:56:53.217
-dbaccess	source\ui\browser\sbabrw.src	0	string	STR_COULDNOTCONNECT_DATASOURCE				0	pt-BR	"Não foi possível estabelecer a conexão com a fonte de dados ""$name$"".!"				2004-10-06 17:56:53.217
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_COULDNOTCONNECT_DATASOURCE				0	pt-BR	Não foi possível estabelecer a conexão com a fonte de dados "$name$".				2004-11-23 13:17:14.733
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_COULDNOTCONNECT_DATASOURCE				0	sv	Det gick inte att ansluta till datakällan "$name$".				2004-10-06 17:56:53.217
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_COULDNOTCONNECT_DATASOURCE				0	zh-CN	无法建立指向数据源 "$name$" 的连接。				2004-10-06 17:56:53.217
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_COULDNOTCONNECT_DATASOURCE				0	zh-TW	無法建立與資料來源 "$name$" 的連線。				2004-10-06 17:56:53.217
@@ -959,22 +959,22 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	STR_DSBROWSER_TITLE				0	fr	Vue d
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_DSBROWSER_TITLE				0	it	Vista delle sorgenti dati				2004-10-06 17:56:53.217
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_DSBROWSER_TITLE				0	ja	データソースビュー				2004-10-06 17:56:53.217
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_DSBROWSER_TITLE				0	ko	데이터 원본 보기				2004-10-06 17:56:53.217
-dbaccess	source\ui\browser\sbabrw.src	0	string	STR_DSBROWSER_TITLE				0	pt-BR	Exibição de fontes de dados				2004-10-06 17:56:53.217
-dbaccess	source\ui\browser\sbabrw.src	0	string	STR_DSBROWSER_TITLE				0	sv	Datakällor vy				2004-10-06 17:56:53.217
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_DSBROWSER_TITLE				0	pt-BR	Exibição de fontes de dados				2004-11-23 13:17:14.733
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_DSBROWSER_TITLE				0	sv	Datakällsvy				2004-11-23 13:17:14.733
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_DSBROWSER_TITLE				0	zh-CN	数据源视图				2004-10-06 17:56:53.217
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_DSBROWSER_TITLE				0	zh-TW	資料來源檢視				2004-10-06 17:56:53.217
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_QUERY				0	ja	クエリ$name$を読み込んでいます...				2004-10-06 17:56:53.217
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_QUERY				0	ko	$name$ 쿼리 로드 중...				2004-10-06 17:56:53.217
-dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_QUERY				0	pt-BR	"Carregando a consulta $name$ ...!"				2004-10-06 17:56:53.217
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_QUERY				0	pt-BR	Carregando a consulta $name$ ...				2004-11-23 13:17:14.733
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_TABLE				0	ja	テーブル$name$を読み込んでいます...				2004-10-06 17:56:53.217
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_TABLE				0	ko	$name$ 테이블 로드 중...				2004-10-06 17:56:53.217
-dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_TABLE				0	pt-BR	"Carregando a tabela $name$ ...!"				2004-10-06 17:56:53.217
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_TABLE				0	pt-BR	Carregando a tabela $name$ ...				2004-11-23 13:17:14.733
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_NO_TABLE_FORMAT_INSIDE				0	es	No se ha podido encontrar ningún formato de hoja de cálculo.				2004-10-06 17:56:53.217
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_NO_TABLE_FORMAT_INSIDE				0	fr	Aucun format de table n'a été trouvé.				2004-10-06 17:56:53.217
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_NO_TABLE_FORMAT_INSIDE				0	it	Non è stato trovato nessun formato per tabella.				2004-10-06 17:56:53.217
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_NO_TABLE_FORMAT_INSIDE				0	ja	テーブルフォーマットが見つかりません。				2004-10-06 17:56:53.217
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_NO_TABLE_FORMAT_INSIDE				0	ko	테이블 형식을 찾을 수 없습니다.				2004-10-06 17:56:53.217
-dbaccess	source\ui\browser\sbabrw.src	0	string	STR_NO_TABLE_FORMAT_INSIDE				0	pt-BR	"Não foi possível encontrar um formato de tabela.!"				2004-10-06 17:56:53.217
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_NO_TABLE_FORMAT_INSIDE				0	pt-BR	Não foi possível encontrar um formato de tabela.				2004-11-23 13:17:14.733
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_NO_TABLE_FORMAT_INSIDE				0	sv	Det gick inte att hitta något tabellformat.				2004-10-06 17:56:53.217
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_NO_TABLE_FORMAT_INSIDE				0	zh-CN	未找到任何表格格式。				2004-10-06 17:56:53.217
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_NO_TABLE_FORMAT_INSIDE				0	zh-TW	找不到表格格式。				2004-10-06 17:56:53.217
@@ -988,20 +988,20 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS				0	sv	V
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS				0	zh-CN	遇到警告				2004-10-06 17:56:53.217
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS				0	zh-TW	遇到警告訊息				2004-10-06 17:56:53.217
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS_DETAILS				0	ja	テーブルの取得中にデータベース接続により警告がレポートされました。				2004-10-06 17:56:53.217
-dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS_DETAILS				0	pt-BR	"Durante a recuperação das tabelas, a conexão com o banco de dados relatou avisos.!"				2004-10-06 17:56:53.217
-dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_QUERY				0	es	¿Desea eliminar la consulta &apos;%1&apos;?				2004-10-06 17:56:53.217
-dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_QUERY				0	fr	Voulez-vous supprimer la requête %1 ?				2004-10-06 17:56:53.217
-dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_QUERY				0	it	Eliminare l'interrogazione &apos;%1&apos;?				2004-10-06 17:56:53.217
-dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_QUERY				0	ja	クエリ&apos;%1&apos;を削除しますか。				2004-10-06 17:56:53.217
-dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_QUERY				0	ko	&apos;%1&apos; 쿼리를 삭제하시겠습니까?				2004-10-06 17:56:53.217
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS_DETAILS				0	pt-BR	Durante a recuperação das tabelas, a conexão com o banco de dados relatou avisos.				2004-11-23 13:17:14.733
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_QUERY				0	es	¿Desea eliminar la consulta '%1'?				2004-11-23 13:17:14.733
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_QUERY				0	fr	Voulez-vous supprimer la requête %1 ?				2004-11-23 13:17:14.733
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_QUERY				0	it	Eliminare la ricerca '%1'?				2004-11-23 13:17:14.733
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_QUERY				0	ja	クエリー '%1' を削除しますか。				2004-11-23 13:17:14.733
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_QUERY				0	ko	'%1' 쿼리를 삭제하시겠습니까?				2004-11-23 13:17:14.733
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_QUERY				0	pt-BR	Deseja excluir a consulta '%1'?				2004-10-06 17:56:53.217
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_QUERY				0	sv	Ska sökningen '%1' raderas?				2004-10-06 17:56:53.217
-dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_QUERY				0	zh-CN	是否要删除查询 '%1'？				2004-10-06 17:56:53.217
-dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_QUERY				0	zh-TW	您是否要刪除查詢「%1」？				2004-10-06 17:56:53.217
-dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_TABLE				0	ja	テーブル&apos;%1&apos;を削除しますか。				2004-10-06 17:56:53.217
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_QUERY				0	zh-CN	是否要删除查询 '%1'？				2004-11-23 13:17:14.733
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_QUERY				0	zh-TW	您是否要刪除查詢 '%1'？				2004-11-23 13:17:14.733
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_TABLE				0	ja	表 '%1' を削除しますか。				2004-11-23 13:17:14.733
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_TABLE				0	pt-BR	Deseja excluir a tabela '%1'?				2004-10-06 17:56:53.217
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_TITLE_CONFIRM_DELETION				0	ja	削除の確認				2004-10-06 17:56:53.217
-dbaccess	source\ui\browser\sbabrw.src	0	string	STR_TITLE_CONFIRM_DELETION				0	pt-BR	Confirmar exclusão				2004-10-06 17:56:53.217
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_TITLE_CONFIRM_DELETION				0	pt-BR	Confirmar exclusão				2004-11-23 13:17:14.733
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLATTRSET	HID_BROWSER_COLUMNFORMAT		0	ar	تنسيق الأعمدة...				20040507 14:21:28
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLATTRSET	HID_BROWSER_COLUMNFORMAT		0	ca	~Format de la columna...				20040507 14:21:28
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLATTRSET	HID_BROWSER_COLUMNFORMAT		0	cs	Formát sloupce...				2003-10-21 15:24:56.263
@@ -1155,13 +1155,13 @@ dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	he	Rückgängig: Dateneingabe				20040507 14:21:28
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	hi-IN	अनावृत्ति: ड़ॉटा इनपुट				20040507 14:21:28
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	hu	Visszavonás: adatbevitel				20040507 14:21:28
-dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	it	Annulla: Immissione dati				2004-10-06 17:56:53.797
+dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	it	Annulla: Immissione dati				2004-11-23 13:17:14.903
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	ja	元に戻す:データ入力				2004-10-06 17:56:53.797
-dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	ko	실행 취소: 데이터 입력				2004-10-06 17:56:53.797
+dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	ko	실행 취소: 데이터 입력				2004-11-23 13:17:14.903
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	nl	Ongedaan maken: gegevensinvoer				20040507 14:21:28
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	pl	Cofnij: wpisywanie danych				20040507 14:21:28
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	pt	Anular: entrada de dados				20040507 14:21:28
-dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	pt-BR	Desfazer: entrada de dados				2004-10-06 17:56:53.797
+dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	pt-BR	Desfazer: Entrada de dados				2004-11-23 13:17:14.903
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	ru	Отменить: ввод данных				20040507 14:21:28
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	sk	Späť: dátový vstup				20040507 14:21:28
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	sl	Razveljavi: Vnos podatkov				20040507 14:21:28
@@ -1301,7 +1301,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	string	STR_OBJECT_ALREADY_EXISTS				0	k
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_OBJECT_ALREADY_EXISTS				0	nl	De naam # bestaat reeds.				20040507 14:21:28
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_OBJECT_ALREADY_EXISTS				0	pl	Nazwa # już istnieje.				20040507 14:21:28
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_OBJECT_ALREADY_EXISTS				0	pt	O nome # já existe.				20040507 14:21:28
-dbaccess	source\ui\browser\sbagrid.src	0	string	STR_OBJECT_ALREADY_EXISTS				0	pt-BR	"O nome ""#"" já existe.!"				2004-10-06 17:56:53.797
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_OBJECT_ALREADY_EXISTS				0	pt-BR	O nome "#" já existe.				2004-11-23 13:17:14.903
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_OBJECT_ALREADY_EXISTS				0	ru	Имя # уже существует.				20040507 14:21:28
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_OBJECT_ALREADY_EXISTS				0	sk	Názov # už existuje.				20040507 14:21:28
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_OBJECT_ALREADY_EXISTS				0	sl	Ime "#" že obstaja.				20040507 14:21:28
