@@ -1,63 +1,566 @@
-#*************************************************************************
-#
-#   $RCSfile: localize.sdf,v $
-#
-#   $Revision: 1.2 $
-#
-#   last change: $Author: rt $ $Date: 2004-07-13 08:56:49 $
-#
-#   The Contents of this file are made available subject to the terms of
-#   either of the following licenses
-#
-#          - GNU Lesser General Public License Version 2.1
-#          - Sun Industry Standards Source License Version 1.1
-#
-#   Sun Microsystems Inc., October, 2000
-#
-#   GNU Lesser General Public License Version 2.1
-#   =============================================
-#   Copyright 2000 by Sun Microsystems, Inc.
-#   901 San Antonio Road, Palo Alto, CA 94303, USA
-#
-#   This library is free software; you can redistribute it and/or
-#   modify it under the terms of the GNU Lesser General Public
-#   License version 2.1, as published by the Free Software Foundation.
-#
-#   This library is distributed in the hope that it will be useful,
-#   but WITHOUT ANY WARRANTY; without even the implied warranty of
-#   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
-#   Lesser General Public License for more details.
-#
-#   You should have received a copy of the GNU Lesser General Public
-#   License along with this library; if not, write to the Free Software
-#   Foundation, Inc., 59 Temple Place, Suite 330, Boston,
-#   MA  02111-1307  USA
-#
-#
-#   Sun Industry Standards Source License Version 1.1
-#   =================================================
-#   The contents of this file are subject to the Sun Industry Standards
-#   Source License Version 1.1 (the "License"); You may not use this file
-#   except in compliance with the License. You may obtain a copy of the
-#   License at http://www.openoffice.org/license.html.
-#
-#   Software provided under this License is provided on an "AS IS" basis,
-#   WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING,
-#   WITHOUT LIMITATION, WARRANTIES THAT THE SOFTWARE IS FREE OF DEFECTS,
-#   MERCHANTABLE, FIT FOR A PARTICULAR PURPOSE, OR NON-INFRINGING.
-#   See the License for the specific provisions governing your rights and
-#   obligations concerning the Software.
-#
-#   The Initial Developer of the Original Code is: Sun Microsystems, Inc.
-#
-#   Copyright: 2000 by Sun Microsystems, Inc.
-#
-#   All Rights Reserved.
-#
-#   Contributor(s): _______________________________________
-#
-#
-#
-#*************************************************************************
-
-
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_66				0	zh-CN	{&Tahoma8}将不安装。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\UIText.ulf	0	LngText	OOO_UITEXT_19				0	zh-CN	此功能将不可用。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_155				0	zh-CN	{&MSSansBold8}硬盘空间不足				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_114				0	zh-CN	{&Tahoma8}浏览目的地文件夹。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_26				0	zh-CN	下一步(&N) >				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\UIText.ulf	0	LngText	OOO_UITEXT_27				0	zh-CN	此功能原为从光盘运行，但将被安装在本地硬盘上。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\UIText.ulf	0	LngText	OOO_UITEXT_33				0	zh-CN	此功能将从本地硬盘中删除，但仍可从光盘运行。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_27				0	zh-CN	文件: [1]，目录: [9]，大小: [6]				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_113				0	zh-CN	正在取消注册 MIME 信息				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_101				0	zh-CN	组件 ID: [1]，识别符: [2]				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_12				0	zh-CN	{&Tahoma8}文件夹名称(&F)：				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_43				0	zh-CN	正在更新组件注册				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_88				0	zh-CN	文件: [1]				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\UIText.ulf	0	LngText	OOO_UITEXT_46				0	zh-CN	差异				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_128				0	zh-CN	Windows 安装程序服务无法更新受保护的 Windows 文件 [2]。{{软件包版本: [3]，操作系统保护版本: [4]，SFP 错误: [5]}}				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_199				0	zh-CN	{&Tahoma8}Installation Wizard 成功地安装了 [ProductName] 。 单击“完成”退出向导。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_90				0	zh-CN	文件: [1]，文件夹: [2]				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_274				0	zh-CN	选择将用 [ProductName] 打开的文件类型。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_74				0	zh-CN	继续安装前应关闭下列应用程序:				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_113				0	zh-CN	{&Tahoma8}搜索范围(&L)：				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_107				0	zh-CN	正在取消注册 COM+ 应用程序和组件				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_110				0	zh-CN	无法安排在重新启动时用文件 [2] 取代文件 [3]。请确认您拥有文件 [3] 的写权限。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_64				0	zh-CN	{&Tahoma8}“自定义安装”允许有选择地安装程序功能。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\UIText.ulf	0	LngText	OOO_UITEXT_22				0	zh-CN	此功能将被安装到您的本地硬盘上。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_15				0	zh-CN	正在创建快捷方式				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_44				0	zh-CN	试图打开源文件包 [2] 时发生网络错误。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\UIText.ulf	0	LngText	OOO_UITEXT_24				0	zh-CN	此功能将被完全卸载，因而您将无法从光盘运行。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_39				0	zh-CN	正在移动文件				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_123				0	zh-CN	此计算机上未安装"组件服务"(COM+ 1.0)。需要"组件服务"才能成功完成此安装。"组件服务"于 Windows 2000 中提供。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_78				0	zh-CN	更改(&C)...				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_210				0	zh-CN	{&Tahoma8}重试(&R)				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\UIText.ulf	0	LngText	OOO_UITEXT_18				0	zh-CN	此功能将被安装为从网络运行。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_54				0	zh-CN	扩展: [1]				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_122				0	zh-CN	无法为文件 [3] 设置安全权限。错误: [2]。请确认您有修改此文件的安全权限所需的足够权限。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_105				0	zh-CN	{&MSSansBold8}正在使用的文件				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_7				0	zh-CN	{&MSSansBold8}更改当前目的地文件夹				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_218				0	zh-CN	{&Tahoma8}安装程序正在准备 Installation Wizard，Installation Wizard 将引导您完成程序安装过程，请稍候。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_95				0	zh-CN	服务: [1]				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_62				0	zh-CN	ProgId: [1]				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_55				0	zh-CN	正在注册字体				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Property.ulf	0	LngText	OOO_STR_MS_WORD_TEMPLATE				0	zh-CN	Microsoft Word 模板				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_16				0	zh-CN	快捷方式: [1]				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_126				0	zh-CN	{&TahomaBold10}欢迎使用 [ProductName] 安装向导				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_134				0	zh-CN	下一步(&N) >				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Property.ulf	0	LngText	OOO_STR_MS_POWERPOINT_TEMPLATE				0	zh-CN	Microsoft PowerPoint 模板				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_33				0	zh-CN	安装系统目录				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_149				0	zh-CN	{&TahomaBold10}欢迎使用 [ProductName] 安装向导				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_116				0	zh-CN	程序 ID: [1]				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_80				0	zh-CN	本产品的前一次安装正在进行。必须先撤消该安装过程进行的更改，然后才能继续操作。是否要撤消这些更改？				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\SIS.ulf	0	LngText	OOO_SIS_SUBJECT				0	zh-CN	主题				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_243				0	zh-CN	{&Tahoma8}（现在隐藏）				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_156				0	zh-CN	{120}{70}{70}{70}{70}				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_208				0	zh-CN	{&Tahoma8}否(&N)				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_158				0	zh-CN	< 上一步(&B)				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_98				0	zh-CN	正在安排重启操作: 将文件 [2] 重命名为 [3]。只有重启才能完成操作。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_36				0	zh-CN	没有找到源文件{{(包)}}: [2]。请确认文件存在，并且您能够访问该文件。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_206				0	zh-CN	{&Tahoma8}<此处为错误文字><此处为错误文字><此处为错误文字><此处为错误文字><此处为错误文字><此处为错误文字><此处为错误文字><此处为错误文字><此处为错误文字><此处为错误文字><此处为错误文字>				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_76				0	zh-CN	文件夹: [1]				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_123				0	zh-CN	正在写入系统注册表值				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_205				0	zh-CN	{&Tahoma8}取消(&C)				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_163				0	zh-CN	< 上一步(&B)				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_94				0	zh-CN	文件夹 [2] 不存在。请输入某个现有文件夹的路径。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_20				0	zh-CN	正在收集所需信息...				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_250				0	zh-CN	{&TahomaBold10}继续执行 [ProductName] Installation Wizard				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_178				0	zh-CN	您已经选择从系统中删除该程序。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_80				0	zh-CN	{&MSSansBold8}数据库文件夹				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\UIText.ulf	0	LngText	OOO_UITEXT_26				0	zh-CN	此功能将继续从光盘上运行				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_200				0	zh-CN	{&Tahoma8}Installation Wizard成功地卸载了 [ProductName] 。 单击“完成”退出向导。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Property.ulf	0	LngText	OOO_STR_MS_EXCEL_WORKSHEET				0	zh-CN	Micorsoft Excel 工作簿				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_26				0	zh-CN	正在复制网络安装文件				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_34				0	zh-CN	读取文件 [3] 时出错。{{ 系统错误 [2]。}} 请确认文件存在，并且您能够访问该文件。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_219				0	zh-CN	< 上一步(&B)				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\UIText.ulf	0	LngText	OOO_UITEXT_8				0	zh-CN	此功能及所有子功能将安装在本地硬盘上。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_143				0	zh-CN	更改安装哪些程序功能。此选项会显示"自定义选择"对话框，在该对话框中可更改功能的安装方式。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_21				0	zh-CN	正在计算空间需求				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_188				0	zh-CN	{&Tahoma8}可以保留系统中现存的已安装内容，以后再继续此安装过程，也可以将系统恢复到安装前的原始状态。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_106				0	zh-CN	类别 ID: [1]				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_125				0	zh-CN	取消注册 COM+ 应用程序时出错。有关详细信息，请联系技术支持人员。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_93				0	zh-CN	驱动器 [2] 中没有磁盘。请先插入磁盘，然后单击"重试"；或者单击"取消"，返回浏览对话框并选择其他卷。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_81				0	zh-CN	键值: [1]，名称: [2]				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_39				0	zh-CN	无法使用指定的路径 [2]。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_58				0	zh-CN	无法读取值 [2]（从键 [3] 中）。{{ 系统错误 [4]。}}  请验证您对该键拥有足够的访问权限，或者与您的技术支持人员联系。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Property.ulf	0	LngText	OOO_STR_MS_WORD_DOCUMENT				0	zh-CN	Microsoft Word 文档				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_194				0	zh-CN	是(&Y)，安装完成后检查程序更新（建议）。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_246				0	zh-CN	取消				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\RadioBut.ulf	0	LngText	OOO_RADIOBUTTON_5				0	zh-CN	{&MSSansBold8}自定义(&S)				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\UIText.ulf	0	LngText	OOO_UITEXT_28				0	zh-CN	此功能释放硬盘上的 [1]。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_224				0	zh-CN	{&Tahoma8}可以保留系统中现存的已安装内容，以后再继续此安装过程，也可以将系统恢复到安装前的原始状态。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\RadioBut.ulf	0	LngText	OOO_RADIOBUTTON_1				0	zh-CN	{&TahomaBold10}修改(&M)				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_15				0	zh-CN	剩余时间: {[1] 分}{[2] 秒}				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_195				0	zh-CN	启动程序				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_85				0	zh-CN	您可以将计算机恢复至其先前状态，也可在以后继续安装。是否要恢复？				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\UIText.ulf	0	LngText	OOO_UITEXT_32				0	zh-CN	此功能将从本地硬盘中删除，但将设置为在需要时安装。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_131				0	zh-CN	取消				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_222				0	zh-CN	{&Tahoma8}系统未被修改。 以后要再完成安装过程，请重新运行安装程序。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_93				0	zh-CN	下一步(&N) >				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_273				0	zh-CN	&[ProductName] Writer/Web				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_62				0	zh-CN	无法读取项 [2] 的安全信息。{{ 系统错误 [3]。}}  请确认您有足够的权限访问该项，或者与技术支持人员联系。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_116				0	zh-CN	启动服务 [2] ([3]) 失败。请确认您有启动系统服务所需的足够权限。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_79				0	zh-CN	目前有处于暂停状态的 [2] 安装过程。必须先撤消该安装过程进行的更改，然后才能继续操作。是否要撤消这些更改？				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_72				0	zh-CN	应用程序: [1]，命令行: [2]				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_121				0	zh-CN	您没有足够的权限为该计算机的所有用户完成此安装。请以管理员身份登录，然后重新尝试此安装。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_10				0	zh-CN	正在搜索符合资格的产品				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\UIText.ulf	0	LngText	OOO_UITEXT_48				0	zh-CN	磁盘空间				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_69				0	zh-CN	正在更新环境字符串				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_166				0	zh-CN	取消				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_14				0	zh-CN	操作结束 [Time]: [1]。返回值 [2]。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_36				0	zh-CN	正在计算启动条件				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_7				0	zh-CN	操作 [Time]: [1]. [2]				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_227				0	zh-CN	{&Tahoma8}在 [ProductName] 完整安装之前向导已中断。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_24				0	zh-CN	{[ProductName] } 安装失败。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_77				0	zh-CN	安装程序必须先重新启动系统，然后才能继续配置 [2]。单击"是"可立即重新启动；单击"否"则可在以后启动。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_3				0	zh-CN	警告 [1]。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_108				0	zh-CN	{&Tahoma8}重试(&R)				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_91				0	zh-CN	正在撤消模块的注册				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_81				0	zh-CN	[DATABASEDIR]				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_23				0	zh-CN	找到应用程序: [1]				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_32				0	zh-CN	服务: [2]				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_30				0	zh-CN	正在安装 ODBC 组件				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_69				0	zh-CN	确实要取消？				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_54				0	zh-CN	{&MSSansBold8}自定义安装				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_1				0	zh-CN	{{致命错误: }}				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_12				0	zh-CN	正在计算空间需求				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_144				0	zh-CN	修复程序中的安装错误。此选项可修复丢失或损坏的文件、快捷方式和注册表条目。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_87				0	zh-CN	找不到将计算机恢复至先前状态所需的一个或多个文件。无法进行恢复。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_94				0	zh-CN	正在启动服务				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_89				0	zh-CN	正在注册模块				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_228				0	zh-CN	已完成进度				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_96				0	zh-CN	正在停止服务				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_276				0	zh-CN	文件类型				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_277				0	zh-CN	默认 HTML 编辑器				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_71				0	zh-CN	{&Tahoma8}将安装从网络中运行。 （只有在该功能支持此选项时有效）。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_LANG_1033				0	zh-CN	英语				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_4				0	zh-CN	正在搜索已安装的应用程序				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_124				0	zh-CN	注册 COM+ 应用程序时出错。有关详细信息，请联系技术支持人员。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\UIText.ulf	0	LngText	OOO_UITEXT_49				0	zh-CN	音量				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\RadioBut.ulf	0	LngText	OOO_RADIOBUTTON_4				0	zh-CN	{&MSSansBold8}完整安装(&O)				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\RadioBut.ulf	0	LngText	OOO_RADIOBUTTON_9				0	zh-CN	{&Tahoma8}仅限本人(&M) ([USERNAME])				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_56				0	zh-CN	字体: [1]				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_58				0	zh-CN	{&Tahoma8}当前选定项目的多行说明				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_60				0	zh-CN	[1]				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_37				0	zh-CN	无法创建目录 [2]。同名文件已经存在。请重命名或删除文件，然后单击“重试”按钮，或者单击“取消”按钮退出。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_2				0	zh-CN	正在分配注册表空间				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_244				0	zh-CN	{&Tahoma8}（现在隐藏）估计剩余时间：				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_170				0	zh-CN	{&MSSansBold8}修改程序已准备就绪				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_67				0	zh-CN	正在删除重复的文件				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_17				0	zh-CN	更改(&C)...				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_214				0	zh-CN	< 上一步(&B)				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_126				0	zh-CN	服务"[2]"([3]) 的说明无法更改。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\UIText.ulf	0	LngText	OOO_UITEXT_12				0	zh-CN	此功能将被安装为从网络运行。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_11				0	zh-CN	=== 记录开始时间: [Date]  [Time] ===				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_254				0	zh-CN	取消				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\UIText.ulf	0	LngText	OOO_UITEXT_11				0	zh-CN	此功能将安装在本地硬盘上。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_111				0	zh-CN	取消				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_72				0	zh-CN	磁盘空间不足 - 卷: [2]；所需空间: [3] KB；可用空间: [4] KB。如果禁用回滚，则可有充足空间。单击"取消"可退出；单击"重试"可再次检查可用空间；单击"忽略"则可不回滚而继续安装。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_278				0	zh-CN	{&MSSansBold8}文件类型				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_71				0	zh-CN	已经安装产品 [2]，故无法安装本产品。这两种产品不兼容。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_262				0	zh-CN	< 上一步(&B)				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\UIText.ulf	0	LngText	OOO_UITEXT_21				0	zh-CN	这项功能将可从光盘运行。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_167				0	zh-CN	向导已准备好开始安装。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_66				0	zh-CN	[1]				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_150				0	zh-CN	使用"安装向导"可修改、修复或删除 [ProductName]。单击"下一步"继续。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_52				0	zh-CN	无效驱动器: [2]				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Property.ulf	0	LngText	OOO_STR_MS_EXCEL_TEMPLATE				0	zh-CN	Microsoft Excel 模板				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_104				0	zh-CN	无法取消注册字体 [2]。请确认您有删除字体所需的足够权限。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_216				0	zh-CN	下一步(&N) >				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_68				0	zh-CN	{&Tahoma8}此安装状态意味着该功能...				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\UIText.ulf	0	LngText	OOO_UITEXT_36				0	zh-CN	此功能将被完全卸载，因而无法从网络运行。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_82				0	zh-CN	安装操作已成功完成。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_43				0	zh-CN	下一步(&N) >				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_185				0	zh-CN	{&Tahoma8}完成(&F)				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_73				0	zh-CN	无法访问网络位置 [2]。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_20				0	zh-CN	文件: [1]，目录: [9]，大小: [6]				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_39				0	zh-CN	{&Tahoma8}此应用程序的使用者：				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_120				0	zh-CN	无法更新环境变量 [2]。请确认您有修改环境变量所需的足够权限。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_125				0	zh-CN	下一步(&N) >				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_148				0	zh-CN	下一步(&N) >				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_37				0	zh-CN	{&Tahoma8}单位(&O)：				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_74				0	zh-CN	文件: [1]，目录: [9]				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\UIText.ulf	0	LngText	OOO_UITEXT_39				0	zh-CN	此功能将继续从网络运行				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_207				0	zh-CN	{&Tahoma8}忽略(&I)				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_184				0	zh-CN	取消				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_19				0	zh-CN	Windows 正在配置 [ProductName]，请稍候				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_157				0	zh-CN	确定				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\UIText.ulf	0	LngText	OOO_UITEXT_37				0	zh-CN	此功能原为从网络运行，但以后将在需要时安装。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_245				0	zh-CN	< 上一步(&B)				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_265				0	zh-CN	取消				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_100				0	zh-CN	模块 [2] 注册失败。HRESULT [3]。请与技术支持人员联系。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\UIText.ulf	0	LngText	OOO_UITEXT_13				0	zh-CN	Fldr|新文件夹				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_102				0	zh-CN	正在取消产品功能的发布				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_5				0	zh-CN	{&Tahoma8}搜索范围(&L)：				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_43				0	zh-CN	试图创建目录 [2] 时发生网络错误。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_211				0	zh-CN	{&Tahoma8}是(&Y)				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_267				0	zh-CN	请选择 [ProductName] 的产品语言。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_11				0	zh-CN	正在计算空间需求				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_84				0	zh-CN	产品: [2] -- [3]				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_64				0	zh-CN	LibID: [1]				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_90				0	zh-CN	路径 [2] 无效。请指定有效路径。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\UIText.ulf	0	LngText	OOO_UITEXT_25				0	zh-CN	此功能原为从光盘运行，但将被设置为在需要时安装。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_120				0	zh-CN	名称: [1]，值: [2]，操作 [3]				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\UIText.ulf	0	LngText	OOO_UITEXT_45				0	zh-CN	可供使用				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_168				0	zh-CN	单击"安装"，开始安装。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_21				0	zh-CN	{&MSSansBold8}网络位置				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_84				0	zh-CN	正在搜索符合资格的产品				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_160				0	zh-CN	更新(&U) >				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_275				0	zh-CN	[ProductName] 将自动打开下列文件类型:				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_63				0	zh-CN	正在注册类型库				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_251				0	zh-CN	< 上一步(&B)				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Property.ulf	0	LngText	OOO_ARPCOMMENTSTEMPLATE				0	zh-CN	"添加-删除-程序"小程序中的注释				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_99				0	zh-CN	正在安排重启操作: 正在删除文件 [2]。只有重启才能完成操作。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_77				0	zh-CN	正在删除 INI 文件条目				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\UIText.ulf	0	LngText	OOO_UITEXT_6				0	zh-CN	此功能将在需要时安装。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_38				0	zh-CN	应用程序: [1]				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_147				0	zh-CN	取消				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_106				0	zh-CN	无法删除快捷方式 [2]。请确认快捷方式文件存在，并且您有权访问此文件。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_40				0	zh-CN	无法写入指定的文件夹 [2]。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_28				0	zh-CN	安装程序没有访问目录 [2] 的足够权限。无法继续安装。请以管理员身份登录或与系统管理员联系。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_5				0	zh-CN	属性: [1]，签名: [2]				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_18				0	zh-CN	取消				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_29				0	zh-CN	{&Tahoma8}否(&N)				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_127				0	zh-CN	系统文件 [2] 受 Windows 保护，Windows 安装程序服务无法更新该文件。可能需要更新操作系统，此程序才能正常工作。{{软件包版本: [3]，操作系统保护版本: [4]}}				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_117				0	zh-CN	无法停止服务 [2] ([3])。请确认您有停止系统服务所需的足够权限。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_97				0	zh-CN	服务: [1]				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_268				0	zh-CN	{&MSSansBold8}语言选择				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\UIText.ulf	0	LngText	OOO_UITEXT_1				0	zh-CN	字节				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_98				0	zh-CN	{&MSSansBold8}磁盘空间需求				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_50				0	zh-CN	类别 ID: [1]				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_42				0	zh-CN	{&Tahoma8}用户姓名(&U)：				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_13				0	zh-CN	正在创建文件夹				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_153				0	zh-CN	安装所需的磁盘空间超出了可用的磁盘空间。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\SIS.ulf	0	LngText	OOO_SIS_KEYWORDS				0	zh-CN	安装，MSI				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_140				0	zh-CN	{MSSansBold8}程序维护				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_239				0	zh-CN	{&MSSansBold8}正在卸载 [ProductName]				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_96				0	zh-CN	{&Tahoma8}安装选定功能所需的磁盘空间。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_80				0	zh-CN	正在删除系统注册表值				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_196				0	zh-CN	显示自述文件				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_9				0	zh-CN	{[2]}{, [3]}{, [4]}				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_33				0	zh-CN	未找到源文件: [2]。请确认文件存在，并且您有权访问此文件。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_71				0	zh-CN	正在删除应用程序				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_74				0	zh-CN	< 上一步(&B)				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_247				0	zh-CN	下一步(&N) >				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_4				0	zh-CN	信息 [1]。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_46				0	zh-CN	< 上一步(&B)				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_132				0	zh-CN	请认真阅读以下许可协议。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_24				0	zh-CN	正在生成脚本操作，用于：				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_193				0	zh-CN	取消				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_104				0	zh-CN	正在取消产品信息的发布				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\RadioBut.ulf	0	LngText	OOO_RADIOBUTTON_2				0	zh-CN	{&TahomaBold10}修复(&P)				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_6				0	zh-CN	绑定可执行文件				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\SIS.ulf	0	LngText	OOO_SIS_APPNAME				0	zh-CN	Windows 安装程序				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_190				0	zh-CN	{&TahomaBold10} Installation Wizard完成				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\UIText.ulf	0	LngText	OOO_UITEXT_29				0	zh-CN	此功能要求硬盘上的 [1]。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_30				0	zh-CN	{&Tahoma8}要取消 [ProductName] 安装吗？				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_27				0	zh-CN	请插入磁盘: [2]				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_10				0	zh-CN	消息类型: [1]，参数: [2]				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_32				0	zh-CN	< 上一步(&B)				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_258				0	zh-CN	请选择安装类型。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_242				0	zh-CN	下一步(&N) >				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_139				0	zh-CN	修改、修复或删除程序。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_118				0	zh-CN	无法删除服务 [2] ([3])。请确认您有删除系统服务所需的足够权限。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_56				0	zh-CN	无法删除值 [2]（从键 [3] 中）。{{ 系统错误 [4]。}}  请验证您对该键拥有足够的访问权限，或者与您的技术支持人员联系。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_109				0	zh-CN	无法更新 INI 文件 [2][3]。请确认文件存在，并且您有权访问此文件。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_119				0	zh-CN	无法安装服务 [2] ([3])。请确认您有安装系统服务所需的足够权限。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_60				0	zh-CN	无法获取键 [2] 的数值名称。{{ 系统错误 [3]。}} 请验证您对该键拥有足够的访问权限，或者与您的技术支持人员联系。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_202				0	zh-CN	在您购买 [ProductName] 后，有些程序文件可能已经更新。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_257				0	zh-CN	选择最适合您需要的安装类型。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Property.ulf	0	LngText	OOO_STR_MS_POWERPOINT_PRESENTATION				0	zh-CN	Microsoft PowerPoint 演示文稿				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_8				0	zh-CN	[ProductName]				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_203				0	zh-CN	只要与因特网相连就可以确保得到最新的更新。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_121				0	zh-CN	上一级|				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_47				0	zh-CN	功能: [1]				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_LANG_1031				0	zh-CN	德语				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_25				0	zh-CN	读取文件: [2] 时出错。{{ 系统错误 [3]。}}  请确认文件存在，并且您有权访问此文件。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_46				0	zh-CN	安装程序没有修改文件 [2] 的权限。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_92				0	zh-CN	文件: [1]，文件夹: [2]				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_111				0	zh-CN	删除 ODBC 驱动程序管理程序时出错，ODBC 错误 [2]: [3]。请与技术支持人员联系。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_65				0	zh-CN	访问受保护的数据时出错。请确保 Windows 安装程序的设置正确，然后重新安装。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_204				0	zh-CN	{&Tahoma8}放弃(&A)				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_53				0	zh-CN	对文件 [2] 应用修补程序时出错。该文件可能被更新过，所以本修补程序不能修改它。详细信息，请与您的修补程序供应商联系。 {{系统错误: [3]}}				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\RadioBut.ulf	0	LngText	OOO_RADIOBUTTON_7				0	zh-CN	{&Tahoma8}我接受该许可证协议中的条款(&A)				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_41				0	zh-CN	试图读取文件 [2] 时发生网络错误。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_57				0	zh-CN	无法删除键 [2]。{{ 系统错误 [3]。}}  请验证您对该键拥有足够的访问权限，或者与您的技术支持人员联系。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_19				0	zh-CN	{&Tahoma8}为产品的服务器映象指定网络位置。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_59				0	zh-CN	无法将数值 [2] 写入键 [3]。{{ 系统错误 [4]。}} 请验证您对该键拥有足够的访问权限，或者与您的技术支持人员联系。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_16				0	zh-CN	内存不足。请先关闭其他应用程序，然后重试。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_182				0	zh-CN	删除(&R)				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_83				0	zh-CN	快捷方式: [1]				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_99				0	zh-CN	文件: [1]，目录: [9]				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_135				0	zh-CN	< 上一步(&B)				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\UIText.ulf	0	LngText	OOO_UITEXT_42				0	zh-CN	此功能要求硬盘上的 [1]。已选定 [3] 项子功能中的 [2] 项。此子功能释放硬盘上的 [4]。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_42				0	zh-CN	试图创建目录 [2] 时发生错误。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_241				0	zh-CN	{&Tahoma8}状态：				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Property.ulf	0	LngText	OOO_STR_EDIT				0	zh-CN	编辑(~E)				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_129				0	zh-CN	此安装程序需要 Internet Information Server 4.0 或更高版本来配置 IIS Virtual Roots。请确保已安装 IIS 4.0 或更高版本。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_127				0	zh-CN	安装向导将在您的计算机上安装 [ProductName]。单击"下一步"继续。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_14				0	zh-CN	文件夹: [1]				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_45				0	zh-CN	指定的路径过长: [2]				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_97				0	zh-CN	试图读取源安装数据库: [2] 时出错。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\RadioBut.ulf	0	LngText	OOO_RADIOBUTTON_8				0	zh-CN	{&Tahoma8}使用本机的任何人(&A)（所有用户）				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_69				0	zh-CN	{&Tahoma8}将全部安装到本地硬盘驱动器上。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_17				0	zh-CN	安装程序已不再有响应。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_35				0	zh-CN	正在验证安装				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_30				0	zh-CN	读取文件 [2] 时出错。请确认文件存在，并且您有权访问此文件。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_41				0	zh-CN	正在修补文件				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_26				0	zh-CN	无法创建文件 [3]。已有同名目录存在。请取消安装并尝试安装到其他位置。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_59				0	zh-CN	正在注册产品				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_198				0	zh-CN	{&TahomaBold10} Installation Wizard完成				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_171				0	zh-CN	{&MSSansBold8}修复程序已准备就绪				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_97				0	zh-CN	所选卷没有足够的空间用于安装当前所选功能。可以从所选卷中删除文件，然后选择在本地驱动器上安装更少功能，或者选择其他目标驱动器。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_107				0	zh-CN	无法将文件 [2] 注册到类型库中。请与技术支持人员联系。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_236				0	zh-CN	{&Tahoma8}Installation Wizard 正在安装 [ProductName] ，请稍候。 这需要几分钟的时间。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_45				0	zh-CN	组件 ID: [1]，识别符: [2]				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_46				0	zh-CN	正在发布产品功能				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_58				0	zh-CN	MIME 内容类型: [1]，扩展: [2]				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_87				0	zh-CN	正在删除备份文件				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_66				0	zh-CN	用户 [2] 曾经发起过产品 [3] 安装。此用户需要再次运行该安装才能使用该产品。现在将继续执行您当前进行的安装。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_103				0	zh-CN	{&Tahoma8}某些需要更新的文件当前正在使用。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_90				0	zh-CN	{&MSSansBold8}目的地文件夹				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_101				0	zh-CN	模块 [2] 取消注册失败。HRESULT [3]。请与技术支持人员联系。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_87				0	zh-CN	取消				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_53				0	zh-CN	正在注册扩展服务器				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\UIText.ulf	0	LngText	OOO_UITEXT_3				0	zh-CN	KB				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_110				0	zh-CN	扩展名: [1]				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_29				0	zh-CN	文件: [1]，目录: [9]，大小: [6]				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\UIText.ulf	0	LngText	OOO_UITEXT_34				0	zh-CN	此功能将保留在本地硬盘中。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_75				0	zh-CN	在计算机上无法为安装本产品找到以前安装的兼容产品。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_271				0	zh-CN	Microsoft Excel 电子表格(&E)				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_23				0	zh-CN	{[ProductName] } 安装已成功完成。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\UIText.ulf	0	LngText	OOO_UITEXT_14				0	zh-CN	此功能将保持未安装状态。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_88				0	zh-CN	更改(&C)...				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_38				0	zh-CN	目前无法使用卷 [2]，请另选其他卷。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_36				0	zh-CN	{80}				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_34				0	zh-CN	文件：[1],  依存： [2]				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_22				0	zh-CN	正在搜索相关产品				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_13				0	zh-CN	上一级|				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_89				0	zh-CN	无法删除 [2] 的旧版本。请联系技术支持小组。{{系统错误 [3]。}}				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\UIText.ulf	0	LngText	OOO_UITEXT_15				0	zh-CN	此功能将被设置为在需要时安装。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_105				0	zh-CN	无法创建快捷方式 [2]。请确认目标文件夹存在，并且您有权访问此文件夹。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_112				0	zh-CN	字体: [1]				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_63				0	zh-CN	无法增加可用注册表空间。安装此应用程序需要 [2] KB 的可用注册表空间。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\UIText.ulf	0	LngText	OOO_UITEXT_2				0	zh-CN	GB				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_159				0	zh-CN	取消				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_83				0	zh-CN	安装操作失败。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_197				0	zh-CN	{&Tahoma8}完成(&F)				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_91				0	zh-CN	内存不足。请先关闭其他应用程序，然后重试。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_9				0	zh-CN	正在删除 IIS 虚拟根目录...				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_8				0	zh-CN	正在创建 IIS 虚拟根目录...				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_233				0	zh-CN	取消				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_230				0	zh-CN	< 上一步(&B)				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_100				0	zh-CN	{&Tahoma8}确定				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_64				0	zh-CN	另一安装过程正在进行中。必须先完成该安装过程，然后才能继续本安装。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_18				0	zh-CN	安装程序已提前结束。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_124				0	zh-CN	警告： 本程序受著作权法和国际公约的保护。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_181				0	zh-CN	{&MSSansBold8}删除程序				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_172				0	zh-CN	{&MSSansBold8}安装程序已准备就绪				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_70				0	zh-CN	名称: [1]，数值: [2]，动作 [3]				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_9				0	zh-CN	创建新文件夹|				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_186				0	zh-CN	{&Tahoma8}系统未被修改。 要再次完成安装过程，请重新运行安装程序。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\UIText.ulf	0	LngText	OOO_UITEXT_41				0	zh-CN	此功能释放硬盘上的 [1]。已选定 [3] 项子功能中的 [2] 项。此子功能要求硬盘上的 [4]。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_73				0	zh-CN	{&Tahoma8}将把一些子功能安装到本地硬盘驱动器上。 （只有在该功能带有子功能时有效）。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_20				0	zh-CN	{&Tahoma8}输入网络位置或单击“更改”以浏览网络位置。  单击“安装”在指定的网络位置创建 [ProductName] 的服务器映象，或单击“取消”退出向导。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_35				0	zh-CN	写至文件 [3] 时出错。{{ 系统错误 [2]。}} 请确认您有权访问该目录。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_57				0	zh-CN	正在注册 MIME 信息				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Property.ulf	0	LngText	OOO_ARPURLUPDATEINFOTEMPLATE				0	zh-CN	http://www.openoffice.org				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_180				0	zh-CN	如果要查看或更改任何设置，请单击"上一步"。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_41				0	zh-CN	{50}				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Property.ulf	0	LngText	OOO_ARPHELPLINKTEMPLATE				0	zh-CN	http://www.openoffice.org				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_179				0	zh-CN	单击"删除"可从计算机中删除 [ProductName]。删除后，此程序将不再可用。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_117				0	zh-CN	创建新文件夹|				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_67				0	zh-CN	{&Tahoma8}将在第一次使用时安装。 （只有在该功能支持此选项时有效）。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_256				0	zh-CN	选择要安装哪些程序功能以及安装位置。向高级用户推荐。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_237				0	zh-CN	{&Tahoma8}Installation Wizard 正在卸载 [ProductName] ，请稍候。 这需要几分钟的时间。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_115				0	zh-CN	配置 ODBC 数据源 [4] 时出错，ODBC 错误 [2]:[3]。请确认文件 [4] 存在，并且您有权访问此文件。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_133				0	zh-CN	{MSSansBold8}许可协议				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_49				0	zh-CN	文件夹路径 [2] 中含有无效的字符。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_6				0	zh-CN	{{磁盘已满: }}				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_49				0	zh-CN	取消				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_51				0	zh-CN	正在注册 COM+ 应用程序和组件				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_65				0	zh-CN	{&MSSansBold8}自定义安装提示				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Property.ulf	0	LngText	OOO_STR_NEW_DISPLAY_NAME				0	zh-CN	新建(~N)				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_93				0	zh-CN	正在初始化 ODBC 目录				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_118				0	zh-CN	{&Tahoma8}确定				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_220				0	zh-CN	取消				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\UIText.ulf	0	LngText	OOO_UITEXT_38				0	zh-CN	此功能原为从网络运行，但将安装在本地硬盘上。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_130				0	zh-CN	此安装程序要求管理员权限，才能配置 IIS 虚拟根目录。IDS_ERROR_13  操作结束 [Time]: [1]。返回值 [2]。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_70				0	zh-CN	文件 [2][3] 正被占用{由以下进程: 名称: [4]，ID: [5]，窗口标题: [6]}。请关闭该应用程序，然后重试。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_77				0	zh-CN	取消				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_28				0	zh-CN	{&Tahoma8}Installation Wizard 将在指定的网络位置创建 [ProductName] 的服务器映象。 要继续，请单击“下一步”。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_25				0	zh-CN	[1]				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_40				0	zh-CN	{&MSSansBold8}用户信息				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_21				0	zh-CN	正在删除此应用程序的旧版本				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_78				0	zh-CN	文件: [1]，节: [2]，键: [3]，数值: [4]				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_84				0	zh-CN	< 上一步(&B)				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_145				0	zh-CN	从计算机中删除 [ProductName]。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_3				0	zh-CN	取消				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_76				0	zh-CN	密钥 [2] 无效。请确认输入的密钥正确。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_61				0	zh-CN	无法获取键 [2] 的子键。{{ 系统错误 [3]。}} 请验证您对该键拥有足够的访问权限，或者与您的技术支持人员联系。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_70				0	zh-CN	{&Tahoma8}紧邻该功能名称的图标显示该功能的安装状态。 单击该图标可下拉每个功能的安装状态菜单。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_53				0	zh-CN	{&Tahoma8}单击下面列表内的图标以更改功能的安装方式。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_122				0	zh-CN	< 上一步(&B)				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_169				0	zh-CN	如果想检查或更改您的安装设置，请单击"上一步"。单击"取消"可退出向导。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_68				0	zh-CN	文件: [1]，目录: [9]				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_89				0	zh-CN	单击“下一步”安装到此文件夹，或单击“更改”安装到不同的文件夹。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_248				0	zh-CN	{&Tahoma8}Installation Wizard 将在计算机上完成 [ProductName] 的安装过程。 要继续，请单击“下一步”。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_234				0	zh-CN	{&Tahoma8}正在安装您选择的程序功能。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_100				0	zh-CN	正在取消合格组件的发布				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_25				0	zh-CN	取消				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_108				0	zh-CN	无法取消文件 [2] 在类型库中的注册。请与技术支持人员联系。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_221				0	zh-CN	{&Tahoma8}完成(&F)				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\UIText.ulf	0	LngText	OOO_UITEXT_47				0	zh-CN	需要				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_1				0	zh-CN	通知应用程序				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_118				0	zh-CN	LibID: [1]				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_91				0	zh-CN	{&Tahoma8}[INSTALLDIR]				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_29				0	zh-CN	写入文件 [2] 时出错。请确认您有权访问该目录。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_112				0	zh-CN	安装 ODBC 驱动程序管理程序时出错，ODBC 错误 [2]:[3]。请与技术支持人员联系。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_31				0	zh-CN	另一个应用程序拥有对文件 [2] 的独占访问权限。请关闭所有其他应用程序，然后单击"重试"。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\SIS.ulf	0	LngText	OOO_SIS_AUTHOR				0	zh-CN	作者				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_115				0	zh-CN	{&MSSansBold8}更改当前目的地文件夹				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_37				0	zh-CN	从相关应用程序迁移功能状态				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_115				0	zh-CN	正在取消注册程序标识符				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_217				0	zh-CN	{&TahomaBold10}欢迎使用 [ProductName] Installation Wizard				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_209				0	zh-CN	{&Tahoma8}确定(&O)				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_59				0	zh-CN	{&Tahoma8}<所选功能路径>				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_72				0	zh-CN	{&Tahoma8}确定				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_154				0	zh-CN	所选卷没有足够的空间用于安装当前所选功能。可以从所选卷中删除文件，然后选择在本地驱动器上安装更少功能，或者选择其他目标驱动器。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_187				0	zh-CN	{&Tahoma8}单击“完成”退出向导。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_23				0	zh-CN	{&Tahoma8}网络位置(&N)：				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_92				0	zh-CN	驱动器 [2] 中没有磁盘。请插入磁盘，然后单击"重试"，或者单击"取消"，返回先前选择的卷。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_105				0	zh-CN	取消注册类别服务器				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_121				0	zh-CN	正在写入 INI 文件值				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_3				0	zh-CN	自由空间: [1]				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_27				0	zh-CN	{&TahomaBold10}欢迎使用 [ProductName] Installation Wizard				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_95				0	zh-CN	您没有读取此文件夹的充足权限。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_117				0	zh-CN	正在取消注册类型库				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_266				0	zh-CN	下一步(&N) >				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_123				0	zh-CN	取消				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_128				0	zh-CN	< 上一步(&B)				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Property.ulf	0	LngText	OOO_ARPCONTACTTEMPLATE				0	zh-CN	技术支持部门				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_85				0	zh-CN	回滚操作:				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_86				0	zh-CN	将安装信息写入磁盘时出错。请进行检查以确保有足够的可用磁盘空间，然后单击"重试"，或者单击"取消"以结束安装。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_65				0	zh-CN	正在注册用户				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_55				0	zh-CN	无法打开键: [2]。{{ 系统错误 [3]。}}  请验证您对该键拥有足够的访问权限，或者与您的技术支持人员联系。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_18				0	zh-CN	服务: [1]				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\UIText.ulf	0	LngText	OOO_UITEXT_7				0	zh-CN	此功能以及所有子功能将被安装为从光盘运行。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_269				0	zh-CN	修复或删除程序。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\SIS.ulf	0	LngText	OOO_SIS_TITLE				0	zh-CN	安装数据库				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\UIText.ulf	0	LngText	OOO_UITEXT_4				0	zh-CN	MB				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\UIText.ulf	0	LngText	OOO_UITEXT_43				0	zh-CN	此功能要求硬盘上的 [1]。已选定 [3] 项子功能中的 [2] 项。此子功能要求硬盘上的 [4]。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_12				0	zh-CN	=== 记录停止时间: [Date]  [Time] ===				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\RadioBut.ulf	0	LngText	OOO_RADIOBUTTON_3				0	zh-CN	{&TahomaBold10}删除(&R)				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Property.ulf	0	LngText	OOO_ARPURLINFOABOUTTEMPLATE				0	zh-CN	http://www.openoffice.org				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_68				0	zh-CN	磁盘空间不足 - 卷: "[2]"；所需空间: [3] KB；可用空间: [4] KB。请释放磁盘空间再重试。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_183				0	zh-CN	< 上一步(&B)				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_10				0	zh-CN	{&Tahoma8}确定				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_52				0	zh-CN	{&Tahoma8}选择要安装的程序功能。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_102				0	zh-CN	无法缓存程序包 [2]。错误: [3]。请与技术支持人员联系。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\UIText.ulf	0	LngText	OOO_UITEXT_31				0	zh-CN	此功能将被完全删除。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_114				0	zh-CN	MIME 内容类型: [1]，扩展名: [2]				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\UIText.ulf	0	LngText	OOO_UITEXT_30				0	zh-CN	正在估算此功能的开销...				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_88				0	zh-CN	[2] 无法安装其必需产品之一。请联系技术支持小组。{{系统错误: [3]。}}				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_173				0	zh-CN	安装(&I)				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_50				0	zh-CN	更改(&C)...				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_55				0	zh-CN	功能说明：				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_5				0	zh-CN	内部错误 [1]。[2]{, [3]}{, [4]}				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_14				0	zh-CN	< 上一步(&B)				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_225				0	zh-CN	{&Tahoma8}单击“恢复”或“以后继续”退出向导。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_24				0	zh-CN	< 上一步(&B)				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_48				0	zh-CN	文件夹路径 [2] 中含有无效单词。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_272				0	zh-CN	Microsoft PowerPoint 演示文稿(&W)				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_226				0	zh-CN	{&TahomaBold10} Installation Wizard完成				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_42				0	zh-CN	文件: [1]，目录: [2]，大小: [3]				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_106				0	zh-CN	{&Tahoma8}退出(&E)				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\UIText.ulf	0	LngText	OOO_UITEXT_23				0	zh-CN	此功能将可从网络运行。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\UIText.ulf	0	LngText	OOO_UITEXT_44				0	zh-CN	剩余时间: {[1] 分 }[2] 秒				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_56				0	zh-CN	{&Tahoma8}帮助(&H)				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_138				0	zh-CN	取消				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_270				0	zh-CN	Microsoft Word 文档(&M)				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_73				0	zh-CN	正在删除文件				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_44				0	zh-CN	正在发布合格的组件				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_223				0	zh-CN	{&Tahoma8}单击“完成”退出向导。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_75				0	zh-CN	正在删除文件夹				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_119				0	zh-CN	正在更新环境字符串				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_108				0	zh-CN	AppId: [1]{{, AppType: [2]}}				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_13				0	zh-CN	操作开始 [Time]: [1]。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\UIText.ulf	0	LngText	OOO_UITEXT_16				0	zh-CN	此功能将被安装为从光盘运行。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_52				0	zh-CN	AppId: [1]{{, AppType: [2]，用户: [3]，RSN: [4]}}				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_98				0	zh-CN	正在删除移动过的文件				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_47				0	zh-CN	文件夹路径 [2] 的一部分无效。或者为空，或者超出了系统允许的长度。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_238				0	zh-CN	{&MSSansBold8}正在安装 [ProductName]				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_161				0	zh-CN	{&TahomaBold10}欢迎使用 [ProductName] 修补程序				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_51				0	zh-CN	{&Tahoma8}空间(&S)				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_162				0	zh-CN	使用"安装向导"可将 [ProductName] 修补程序安装到您的计算机上。单击"更新"继续。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_35				0	zh-CN	取消				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_6				0	zh-CN	{&Tahoma8}浏览目的地文件夹。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_49				0	zh-CN	正在注册类服务器				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Property.ulf	0	LngText	OOO_ARPHELPTELEPHONETEMPLATE				0	zh-CN	x-xxx-xxx-xxx				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_107				0	zh-CN	{&Tahoma8}忽略(&I)				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\UIText.ulf	0	LngText	OOO_UITEXT_40				0	zh-CN	此功能释放硬盘上的 [1]。已选定 [3] 项子功能中的 [2] 项。此子功能释放硬盘上的 [4]。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_61				0	zh-CN	正在撤消程序标识符的注册				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_22				0	zh-CN	{&Tahoma8}安装(&I)				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Property.ulf	0	LngText	OOO_STR_MS_POWERPOINT_SHOW				0	zh-CN	Microsoft PowerPoint 放映				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_61				0	zh-CN	{&Tahoma8}功能大小				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_92				0	zh-CN	{&Tahoma8}将 [ProductName] 安装到：				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_82				0	zh-CN	正在删除快捷方式				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\RadioBut.ulf	0	LngText	OOO_RADIOBUTTON_6				0	zh-CN	{&Tahoma8}我不接受该许可证协议中的条款(&D)				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_103				0	zh-CN	功能: [1]				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\SIS.ulf	0	LngText	OOO_SIS_COMMENT				0	zh-CN	注释				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\UIText.ulf	0	LngText	OOO_UITEXT_35				0	zh-CN	此功能将从本地硬盘中删除，但仍可从网络运行。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_235				0	zh-CN	{&Tahoma8}正在卸载您选择的程序功能。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_86				0	zh-CN	[1]				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_124				0	zh-CN	键: [1]，名称: [2]，数值: [3]				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_45				0	zh-CN	序列号(&S)：				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_83				0	zh-CN	下一步(&N) >				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_240				0	zh-CN	{&Tahoma8}（现在隐藏）秒				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_32				0	zh-CN	磁盘空间不足，不能安装文件 [2]。请释放部分磁盘空间并单击"重试"，或单击"取消"退出安装。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_17				0	zh-CN	正在删除服务				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_57				0	zh-CN	{&Tahoma8}安装到：				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_109				0	zh-CN	正在取消注册扩展名服务器				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_122				0	zh-CN	文件: [1]，节: [2]，键: [3]，值: [4]				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_19				0	zh-CN	正在创建重复文件				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_201				0	zh-CN	安装程序已完成对 [ProductName] 的安装。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_249				0	zh-CN	{&Tahoma8}Installation Wizard 将完成计算机上挂起的 [ProductName] 安装过程。 要继续，请单击“下一步”。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\UIText.ulf	0	LngText	OOO_UITEXT_17				0	zh-CN	此功能将安装在本地硬盘上。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_40				0	zh-CN	文件: [1]，目录: [9]，大小: [6]				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_28				0	zh-CN	正在复制新文件				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_113				0	zh-CN	删除 ODBC 驱动程序 [4] 时出错，ODBC 错误 [2]: [3]。请确认您有删除 ODBC 驱动程序所需的足够权限。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_260				0	zh-CN	下一步(&N) >				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_174				0	zh-CN	< 上一步(&B)				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_51				0	zh-CN	获取文件 [3] 安全权限时发生错误 GetLastError: [2]				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_120				0	zh-CN	{&Tahoma8}文件夹名称(&F)：				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_67				0	zh-CN	用户 [2] 曾经发起过产品 [3] 安装。此用户需要再次运行该安装才能使用该产品。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_141				0	zh-CN	下一步(&N) >				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\UIText.ulf	0	LngText	OOO_UITEXT_20				0	zh-CN	将在需要时安装。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_114				0	zh-CN	安装 ODBC 驱动程序 [4] 时出错，ODBC 错误 [2]: [3]。请确认文件 [4] 存在，并且您有权访问此文件。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_146				0	zh-CN	< 上一步(&B)				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_96				0	zh-CN	无法确定安装的有效目标文件夹。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_79				0	zh-CN	单击“下一步”安装到此文件夹，或单击“更改”安装到不同的文件夹。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_103				0	zh-CN	无法注册字体 [2]。请确认您有安装字体所需的足够权限，以及系统支持此字体。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_LANG_1034				0	zh-CN	西班牙语				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_104				0	zh-CN	{&Tahoma8}下列应用程序正在使用此安装程序需要更新的文件。 关闭这些应用程序并单击“重试”继续。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_79				0	zh-CN	正在删除 ODBC 组件				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_48				0	zh-CN	正在发布产品信息				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_38				0	zh-CN	{&Tahoma8}请输入您的信息。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\UIText.ulf	0	LngText	OOO_UITEXT_10				0	zh-CN	此功能将被安装为从光盘运行。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_31				0	zh-CN	{&Tahoma8}是(&Y)				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_189				0	zh-CN	{&Tahoma8}单击“恢复”或“以后继续”退出向导。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_22				0	zh-CN	正在准备删除此应用程序的旧版本				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_81				0	zh-CN	找不到产品 [2] 的有效源。Windows 安装程序不能继续。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_7				0	zh-CN	文件: [1]				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_177				0	zh-CN	取消				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_54				0	zh-CN	无法创建键: [2]。{{ 系统错误 [3]。}} 请验证您对该键拥有足够的访问权限，或者与您的技术支持人员联系。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_82				0	zh-CN	将 [ProductName] 数据库安装到：				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_78				0	zh-CN	重新启动系统后，对 [2] 所做的配置更改才能生效。单击"是"可立即重新启动；单击"否"则可在以后启动。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_60				0	zh-CN	下一步(&N) >				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\UIText.ulf	0	LngText	OOO_UITEXT_5				0	zh-CN	此功能将不可用。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\UIText.ulf	0	LngText	OOO_UITEXT_9				0	zh-CN	此功能以及所有子功能将被安装为从网络运行。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_191				0	zh-CN	{&Tahoma8}在 [ProductName] 完整安装之前向导已中断。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_111				0	zh-CN	正在取消注册字体				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_2				0	zh-CN	错误 [1]。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\ActionTe.ulf	0	LngText	OOO_ACTIONTEXT_31				0	zh-CN	正在安装新服务				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_259				0	zh-CN	{&MSSansBold8}安装类型				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_255				0	zh-CN	{&Tahoma8}将安装所有的程序功能。 （需要的磁盘空间最大）。				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\SIS.ulf	0	LngText	OOO_SIS_TEMPLATE				0	zh-CN	Intel				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_192				0	zh-CN	< 上一步(&B)				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_215				0	zh-CN	取消				2004-08-09 13:56:06.513
+instsetoo_native	inc_openoffice\windows\msi_languages\Error.ulf	0	LngText	OOO_ERROR_50				0	zh-CN	[2] 不是一个有效的短文件名。				2004-08-09 13:56:06.513
