@@ -2,8 +2,8 @@
 ##
 ##   $RCSfile: localize.sdf,v $
 ##
-##   $Revision: 1.8 $
-##   last change: $Author: hr $ $Date: 2005-04-06 13:24:26 $
+##   $Revision: 1.9 $
+##   last change: $Author: obo $ $Date: 2005-04-18 12:17:46 $
 ##
 ##   The Contents of this file are made available subject to the terms of
 ##   either of the following licenses
@@ -129,7 +129,7 @@ officecfg	registry\data\org\openoffice\Office\Common.xcu	0	value	..Common.Menus.
 officecfg	registry\data\org\openoffice\Office\Common.xcu	0	value	..Common.Menus.New.m2	Title			0	ko	프레젠테이션(~P)				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\Common.xcu	0	value	..Common.Menus.New.m2	Title			0	pt-BR	~Apresentação				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\Common.xcu	0	value	..Common.Menus.New.m2	Title			0	sv	~Presentation				2002-02-02 02:02:02
-officecfg	registry\data\org\openoffice\Office\Common.xcu	0	value	..Common.Menus.New.m2	Title			0	zh-CN	満示稿(~P)				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\Common.xcu	0	value	..Common.Menus.New.m2	Title			0	zh-CN	演示文稿(~P)				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\Common.xcu	0	value	..Common.Menus.New.m2	Title			0	zh-TW	簡報(~P)				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\Common.xcu	0	value	..Common.Menus.New.m3	Title			0	es	~Dibujo				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\Common.xcu	0	value	..Common.Menus.New.m3	Title			0	fr	~Dessin				2002-02-02 02:02:02
@@ -1445,7 +1445,7 @@ officecfg	registry\data\org\openoffice\Office\DataAccess.xcu	0	value	..DataAcces
 officecfg	registry\data\org\openoffice\Office\Embedding.xcu	0	value	..Embedding.ObjectNames.Calc	ObjectUIName			0	es	%PRODUCTNAME %PRODUCTVERSION Hoja de cálculo				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\Embedding.xcu	0	value	..Embedding.ObjectNames.Calc	ObjectUIName			0	fr	Classeur %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\Embedding.xcu	0	value	..Embedding.ObjectNames.Calc	ObjectUIName			0	it	%PRODUCTNAME %PRODUCTVERSION - Foglio elettronico				2002-02-02 02:02:02
-officecfg	registry\data\org\openoffice\Office\Embedding.xcu	0	value	..Embedding.ObjectNames.Calc	ObjectUIName			0	ja	%PRODUCTNAME %PRODUCTVERSION Spreadsheet				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\Embedding.xcu	0	value	..Embedding.ObjectNames.Calc	ObjectUIName			0	ja	%PRODUCTNAME %PRODUCTVERSION の表計算ドキュメント				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\Embedding.xcu	0	value	..Embedding.ObjectNames.Calc	ObjectUIName			0	ko	%PRODUCTNAME %PRODUCTVERSION 스프레드시트				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\Embedding.xcu	0	value	..Embedding.ObjectNames.Calc	ObjectUIName			0	pt-BR	Planilha do %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\Embedding.xcu	0	value	..Embedding.ObjectNames.Calc	ObjectUIName			0	sv	%PRODUCTNAME %PRODUCTVERSION-tabelldokument				2002-02-02 02:02:02
@@ -1463,7 +1463,7 @@ officecfg	registry\data\org\openoffice\Office\Embedding.xcu	0	value	..Embedding.
 officecfg	registry\data\org\openoffice\Office\Embedding.xcu	0	value	..Embedding.ObjectNames.Draw	ObjectUIName			0	es	%PRODUCTNAME %PRODUCTVERSION Dibujo				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\Embedding.xcu	0	value	..Embedding.ObjectNames.Draw	ObjectUIName			0	fr	Dessin %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\Embedding.xcu	0	value	..Embedding.ObjectNames.Draw	ObjectUIName			0	it	%PRODUCTNAME %PRODUCTVERSION - Disegno				2002-02-02 02:02:02
-officecfg	registry\data\org\openoffice\Office\Embedding.xcu	0	value	..Embedding.ObjectNames.Draw	ObjectUIName			0	ja	%PRODUCTNAME %PRODUCTVERSION Drawing				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\Embedding.xcu	0	value	..Embedding.ObjectNames.Draw	ObjectUIName			0	ja	%PRODUCTNAME %PRODUCTVERSION の図形描画				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\Embedding.xcu	0	value	..Embedding.ObjectNames.Draw	ObjectUIName			0	ko	%PRODUCTNAME %PRODUCTVERSION 그리기				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\Embedding.xcu	0	value	..Embedding.ObjectNames.Draw	ObjectUIName			0	pt-BR	Desenho do %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\Embedding.xcu	0	value	..Embedding.ObjectNames.Draw	ObjectUIName			0	sv	%PRODUCTNAME %PRODUCTVERSION-teckning				2002-02-02 02:02:02
@@ -1472,7 +1472,7 @@ officecfg	registry\data\org\openoffice\Office\Embedding.xcu	0	value	..Embedding.
 officecfg	registry\data\org\openoffice\Office\Embedding.xcu	0	value	..Embedding.ObjectNames.Impress	ObjectUIName			0	es	%PRODUCTNAME %PRODUCTVERSION Presentación				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\Embedding.xcu	0	value	..Embedding.ObjectNames.Impress	ObjectUIName			0	fr	Présentation %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\Embedding.xcu	0	value	..Embedding.ObjectNames.Impress	ObjectUIName			0	it	%PRODUCTNAME %PRODUCTVERSION - Presentazione				2002-02-02 02:02:02
-officecfg	registry\data\org\openoffice\Office\Embedding.xcu	0	value	..Embedding.ObjectNames.Impress	ObjectUIName			0	ja	%PRODUCTNAME %PRODUCTVERSION Presentation				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\Embedding.xcu	0	value	..Embedding.ObjectNames.Impress	ObjectUIName			0	ja	%PRODUCTNAME %PRODUCTVERSION のプレゼンテーション				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\Embedding.xcu	0	value	..Embedding.ObjectNames.Impress	ObjectUIName			0	ko	%PRODUCTNAME %PRODUCTVERSION 프레젠테이션				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\Embedding.xcu	0	value	..Embedding.ObjectNames.Impress	ObjectUIName			0	pt-BR	Apresentação do %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\Embedding.xcu	0	value	..Embedding.ObjectNames.Impress	ObjectUIName			0	sv	%PRODUCTNAME %PRODUCTVERSION-presentation				2002-02-02 02:02:02
@@ -1481,7 +1481,7 @@ officecfg	registry\data\org\openoffice\Office\Embedding.xcu	0	value	..Embedding.
 officecfg	registry\data\org\openoffice\Office\Embedding.xcu	0	value	..Embedding.ObjectNames.Math	ObjectUIName			0	es	%PRODUCTNAME %PRODUCTVERSION Fórmula				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\Embedding.xcu	0	value	..Embedding.ObjectNames.Math	ObjectUIName			0	fr	Formule %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\Embedding.xcu	0	value	..Embedding.ObjectNames.Math	ObjectUIName			0	it	%PRODUCTNAME %PRODUCTVERSION - Formula				2002-02-02 02:02:02
-officecfg	registry\data\org\openoffice\Office\Embedding.xcu	0	value	..Embedding.ObjectNames.Math	ObjectUIName			0	ja	%PRODUCTNAME %PRODUCTVERSION Formula				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\Embedding.xcu	0	value	..Embedding.ObjectNames.Math	ObjectUIName			0	ja	%PRODUCTNAME %PRODUCTVERSION の数式				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\Embedding.xcu	0	value	..Embedding.ObjectNames.Math	ObjectUIName			0	ko	%PRODUCTNAME %PRODUCTVERSION 수식				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\Embedding.xcu	0	value	..Embedding.ObjectNames.Math	ObjectUIName			0	pt-BR	Fórmula do %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\Embedding.xcu	0	value	..Embedding.ObjectNames.Math	ObjectUIName			0	sv	%PRODUCTNAME %PRODUCTVERSION-formel				2002-02-02 02:02:02
@@ -1517,7 +1517,7 @@ officecfg	registry\data\org\openoffice\Office\Embedding.xcu	0	value	..Embedding.
 officecfg	registry\data\org\openoffice\Office\Embedding.xcu	0	value	..Embedding.Verbs.SAVECOPYAS	VerbUIName			0	es	Guardar copia ~como...				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\Embedding.xcu	0	value	..Embedding.Verbs.SAVECOPYAS	VerbUIName			0	fr	Enregistrer l~a copie sous...				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\Embedding.xcu	0	value	..Embedding.Verbs.SAVECOPYAS	VerbUIName			0	it	Salva copia con ~nome...				2002-02-02 02:02:02
-officecfg	registry\data\org\openoffice\Office\Embedding.xcu	0	value	..Embedding.Verbs.SAVECOPYAS	VerbUIName			0	ja	Save Copy ~as...				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\Embedding.xcu	0	value	..Embedding.Verbs.SAVECOPYAS	VerbUIName			0	ja	名前をつけてコピーを保存(~A)...				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\Embedding.xcu	0	value	..Embedding.Verbs.SAVECOPYAS	VerbUIName			0	ko	복사를 다른 이름으로 저장(~A)...				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\Embedding.xcu	0	value	..Embedding.Verbs.SAVECOPYAS	VerbUIName			0	pt-BR	Salvar cópia ~como...				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\Embedding.xcu	0	value	..Embedding.Verbs.SAVECOPYAS	VerbUIName			0	sv	Sp~ara kopia som...				2002-02-02 02:02:02
@@ -1526,12 +1526,21 @@ officecfg	registry\data\org\openoffice\Office\Embedding.xcu	0	value	..Embedding.
 officecfg	registry\data\org\openoffice\Office\Embedding.xcu	0	value	..Embedding.Verbs.SHOW	VerbUIName			0	es	~Editar				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\Embedding.xcu	0	value	..Embedding.Verbs.SHOW	VerbUIName			0	fr	~Éditer				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\Embedding.xcu	0	value	..Embedding.Verbs.SHOW	VerbUIName			0	it	~Modifica				2002-02-02 02:02:02
-officecfg	registry\data\org\openoffice\Office\Embedding.xcu	0	value	..Embedding.Verbs.SHOW	VerbUIName			0	ja	~Edit				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\Embedding.xcu	0	value	..Embedding.Verbs.SHOW	VerbUIName			0	ja	編集(~E)				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\Embedding.xcu	0	value	..Embedding.Verbs.SHOW	VerbUIName			0	ko	편집(~E)				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\Embedding.xcu	0	value	..Embedding.Verbs.SHOW	VerbUIName			0	pt-BR	~Editar				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\Embedding.xcu	0	value	..Embedding.Verbs.SHOW	VerbUIName			0	sv	R~edigera				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\Embedding.xcu	0	value	..Embedding.Verbs.SHOW	VerbUIName			0	zh-CN	编辑(~E)				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\Embedding.xcu	0	value	..Embedding.Verbs.SHOW	VerbUIName			0	zh-TW	編輯(~E)				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business	Name			0	es	Negocios				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business	Name			0	fr	Professionnel				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business	Name			0	it	Business				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business	Name			0	ja	ビジネス				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business	Name			0	ko	업무				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business	Name			0	pt-BR	Comercial				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business	Name			0	sv	Arbete				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business	Name			0	zh-CN	企业				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business	Name			0	zh-TW	企業				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.assets	Name			0	es	Activos				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.assets	Name			0	fr	Biens				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.assets	Name			0	it	Attrezzature				2002-02-02 02:02:02
@@ -1883,6 +1892,24 @@ officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWiz
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.assets.Fields.serialnumber	ShortName			0	sv	Serienr				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.assets.Fields.serialnumber	ShortName			0	zh-CN	序列号				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.assets.Fields.serialnumber	ShortName			0	zh-TW	序號				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.assets.Fields.statusID	Name			0	es	IdSituación				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.assets.Fields.statusID	Name			0	fr	RéfStatut				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.assets.Fields.statusID	Name			0	it	IDStato				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.assets.Fields.statusID	Name			0	ja	ステータス ID				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.assets.Fields.statusID	Name			0	ko	상태ID				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.assets.Fields.statusID	Name			0	pt-BR	IDStatus				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.assets.Fields.statusID	Name			0	sv	Statusnr				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.assets.Fields.statusID	Name			0	zh-CN	状态 ID				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.assets.Fields.statusID	Name			0	zh-TW	狀態 ID				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.assets.Fields.statusID	ShortName			0	es	IdSituación				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.assets.Fields.statusID	ShortName			0	fr	RéfStatut				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.assets.Fields.statusID	ShortName			0	it	IDStato				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.assets.Fields.statusID	ShortName			0	ja	ステータス ID				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.assets.Fields.statusID	ShortName			0	ko	상태ID				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.assets.Fields.statusID	ShortName			0	pt-BR	IDStatus				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.assets.Fields.statusID	ShortName			0	sv	Statusnr				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.assets.Fields.statusID	ShortName			0	zh-CN	状态 ID				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.assets.Fields.statusID	ShortName			0	zh-TW	狀態 ID				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.assets.Fields.vendorID	Name			0	es	IDVendedor				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.assets.Fields.vendorID	Name			0	fr	RéfFournisseur				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.assets.Fields.vendorID	Name			0	it	IDProduttore				2002-02-02 02:02:02
@@ -2234,6 +2261,15 @@ officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWiz
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.contacts.Fields.phonenumber	Name			0	sv	Telefonnummer				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.contacts.Fields.phonenumber	Name			0	zh-CN	电话号码				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.contacts.Fields.phonenumber	Name			0	zh-TW	電話號碼				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.contacts.Fields.phonenumber	ShortName			0	es	NúmTeléfono				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.contacts.Fields.phonenumber	ShortName			0	fr	NoTél				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.contacts.Fields.phonenumber	ShortName			0	it	NumTel				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.contacts.Fields.phonenumber	ShortName			0	ja	電話番号				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.contacts.Fields.phonenumber	ShortName			0	ko	전화번호				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.contacts.Fields.phonenumber	ShortName			0	pt-BR	NoTelefone				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.contacts.Fields.phonenumber	ShortName			0	sv	Telnr				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.contacts.Fields.phonenumber	ShortName			0	zh-CN	电话号码				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.contacts.Fields.phonenumber	ShortName			0	zh-TW	電話號碼				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.contacts.Fields.photo	Name			0	es	Foto				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.contacts.Fields.photo	Name			0	fr	Photo				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.contacts.Fields.photo	Name			0	it	Foto				2002-02-02 02:02:02
@@ -3215,6 +3251,24 @@ officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWiz
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.employees.Fields.countryorregion	ShortName			0	sv	LandReg				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.employees.Fields.countryorregion	ShortName			0	zh-CN	国家或地区				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.employees.Fields.countryorregion	ShortName			0	zh-TW	國家或地區				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.employees.Fields.datehired	Name			0	es	FechaContratación				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.employees.Fields.datehired	Name			0	fr	DateLocation				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.employees.Fields.datehired	Name			0	it	DataAssunz				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.employees.Fields.datehired	Name			0	ja	採用日				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.employees.Fields.datehired	Name			0	ko	입사일				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.employees.Fields.datehired	Name			0	pt-BR	DataAdm				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.employees.Fields.datehired	Name			0	sv	Anställningsdag				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.employees.Fields.datehired	Name			0	zh-CN	雇佣日期				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.employees.Fields.datehired	Name			0	zh-TW	雇用日期				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.employees.Fields.datehired	ShortName			0	es	FechaContratación				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.employees.Fields.datehired	ShortName			0	fr	DateLocat				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.employees.Fields.datehired	ShortName			0	it	DataAssunz				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.employees.Fields.datehired	ShortName			0	ja	採用日				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.employees.Fields.datehired	ShortName			0	ko	입사일				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.employees.Fields.datehired	ShortName			0	pt-BR	DataAdm				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.employees.Fields.datehired	ShortName			0	sv	Anställningsdag				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.employees.Fields.datehired	ShortName			0	zh-CN	雇佣日期				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.employees.Fields.datehired	ShortName			0	zh-TW	雇用日期				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.employees.Fields.deductions	Name			0	es	Deducciones				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.employees.Fields.deductions	Name			0	fr	Retenues				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.employees.Fields.deductions	Name			0	it	Deduzioni				2002-02-02 02:02:02
@@ -3251,6 +3305,24 @@ officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWiz
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.employees.Fields.department	ShortName			0	sv	Avdelning				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.employees.Fields.department	ShortName			0	zh-CN	部门				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.employees.Fields.department	ShortName			0	zh-TW	部門				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.employees.Fields.departmentID	Name			0	es	IdDepartamento				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.employees.Fields.departmentID	Name			0	fr	RéfService				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.employees.Fields.departmentID	Name			0	it	IDReparto				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.employees.Fields.departmentID	Name			0	ja	部署 ID				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.employees.Fields.departmentID	Name			0	ko	부서ID				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.employees.Fields.departmentID	Name			0	pt-BR	IDDepartamento				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.employees.Fields.departmentID	Name			0	sv	Avdelningsnr				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.employees.Fields.departmentID	Name			0	zh-CN	部门 ID				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.employees.Fields.departmentID	Name			0	zh-TW	部門 ID				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.employees.Fields.departmentID	ShortName			0	es	IdDepartam				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.employees.Fields.departmentID	ShortName			0	fr	RéfServ				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.employees.Fields.departmentID	ShortName			0	it	IDReparto				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.employees.Fields.departmentID	ShortName			0	ja	部署 ID				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.employees.Fields.departmentID	ShortName			0	ko	부서ID				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.employees.Fields.departmentID	ShortName			0	pt-BR	IDDepto				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.employees.Fields.departmentID	ShortName			0	sv	AvdelnNr				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.employees.Fields.departmentID	ShortName			0	zh-CN	部门 ID				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.employees.Fields.departmentID	ShortName			0	zh-TW	部門 ID				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.employees.Fields.emailaddress	Name			0	es	DirCorreoElectrónico				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.employees.Fields.emailaddress	Name			0	fr	AdresseE-mail				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.employees.Fields.emailaddress	Name			0	it	IndirizzoeMail				2002-02-02 02:02:02
@@ -5843,6 +5915,24 @@ officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWiz
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.payments.Fields.paymentmethodID	ShortName			0	sv	BetMetNr				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.payments.Fields.paymentmethodID	ShortName			0	zh-CN	付款方式ID				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.payments.Fields.paymentmethodID	ShortName			0	zh-TW	付款方法ID				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.payments.Fields.paymentterms	Name			0	es	TérminosPago				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.payments.Fields.paymentterms	Name			0	fr	ConditionsPaiement				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.payments.Fields.paymentterms	Name			0	it	TerminiPagamento				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.payments.Fields.paymentterms	Name			0	ja	支払条件				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.payments.Fields.paymentterms	Name			0	ko	지불 기간				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.payments.Fields.paymentterms	Name			0	pt-BR	TermosPagamento				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.payments.Fields.paymentterms	Name			0	sv	Betalningsvillkor				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.payments.Fields.paymentterms	Name			0	zh-CN	付款条件				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.payments.Fields.paymentterms	Name			0	zh-TW	付款條件				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.payments.Fields.paymentterms	ShortName			0	es	TermPago				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.payments.Fields.paymentterms	ShortName			0	fr	CondPaiemt				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.payments.Fields.paymentterms	ShortName			0	it	TerminiPag				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.payments.Fields.paymentterms	ShortName			0	ja	支払条件				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.payments.Fields.paymentterms	ShortName			0	ko	지불 기간				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.payments.Fields.paymentterms	ShortName			0	pt-BR	TermoPgto				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.payments.Fields.paymentterms	ShortName			0	sv	BetVillkor				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.payments.Fields.paymentterms	ShortName			0	zh-CN	付款条件				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.payments.Fields.paymentterms	ShortName			0	zh-TW	付款條件				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.payments.Fields.projectID	Name			0	es	IDProyecto				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.payments.Fields.projectID	Name			0	fr	RéfProjet				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.payments.Fields.projectID	Name			0	it	IDProgetto				2002-02-02 02:02:02
@@ -6143,7 +6233,7 @@ officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWiz
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.projects	Name			0	es	Proyectos				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.projects	Name			0	fr	Projets				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.projects	Name			0	it	Progetti				2002-02-02 02:02:02
-officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.projects	Name			0	ja	Projects				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.projects	Name			0	ja	プロジェクト				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.projects	Name			0	ko	프로젝트				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.projects	Name			0	pt-BR	Projetos				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.projects	Name			0	sv	Projekt				2002-02-02 02:02:02
@@ -6539,7 +6629,7 @@ officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWiz
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.suppliers	Name			0	es	Proveedores				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.suppliers	Name			0	fr	Fournisseurs				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.suppliers	Name			0	it	Fornitori				2002-02-02 02:02:02
-officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.suppliers	Name			0	ja	Suppliers				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.suppliers	Name			0	ja	供給会社				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.suppliers	Name			0	ko	공급자				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.suppliers	Name			0	pt-BR	Fornecedores				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.suppliers	Name			0	sv	Leverantörer				2002-02-02 02:02:02
@@ -6689,6 +6779,24 @@ officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWiz
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.suppliers.Fields.notes	ShortName			0	sv	Kommentarer				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.suppliers.Fields.notes	ShortName			0	zh-CN	备注				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.suppliers.Fields.notes	ShortName			0	zh-TW	備註				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.suppliers.Fields.paymentterms	Name			0	es	TérminosPago				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.suppliers.Fields.paymentterms	Name			0	fr	ConditionsPaiement				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.suppliers.Fields.paymentterms	Name			0	it	TerminiPagamento				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.suppliers.Fields.paymentterms	Name			0	ja	支払条件				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.suppliers.Fields.paymentterms	Name			0	ko	지불 기간				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.suppliers.Fields.paymentterms	Name			0	pt-BR	TermosPagamento				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.suppliers.Fields.paymentterms	Name			0	sv	Betalningsvillkor				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.suppliers.Fields.paymentterms	Name			0	zh-CN	付款条件				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.suppliers.Fields.paymentterms	Name			0	zh-TW	付款條件				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.suppliers.Fields.paymentterms	ShortName			0	es	TermPago				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.suppliers.Fields.paymentterms	ShortName			0	fr	CondPaiemt				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.suppliers.Fields.paymentterms	ShortName			0	it	TerminiPag				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.suppliers.Fields.paymentterms	ShortName			0	ja	支払条件				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.suppliers.Fields.paymentterms	ShortName			0	ko	지불 기간				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.suppliers.Fields.paymentterms	ShortName			0	pt-BR	TermoPgto				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.suppliers.Fields.paymentterms	ShortName			0	sv	BetVillkor				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.suppliers.Fields.paymentterms	ShortName			0	zh-CN	付款条件				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.suppliers.Fields.paymentterms	ShortName			0	zh-TW	付款條件				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.suppliers.Fields.phonenumber	Name			0	es	NúmTeléfono				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.suppliers.Fields.phonenumber	Name			0	fr	NuméroTéléphone				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.business.Tables.suppliers.Fields.phonenumber	Name			0	it	NumeroTelefono				2002-02-02 02:02:02
@@ -8258,7 +8366,7 @@ officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWiz
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.private.Tables.cdcollection.Fields.datepurchased	ShortName			0	es	FchaCompra				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.private.Tables.cdcollection.Fields.datepurchased	ShortName			0	fr	DateAch				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.private.Tables.cdcollection.Fields.datepurchased	ShortName			0	it	DataAcq				2002-02-02 02:02:02
-officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.private.Tables.cdcollection.Fields.datepurchased	ShortName			0	ja	DatePurch				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.private.Tables.cdcollection.Fields.datepurchased	ShortName			0	ja	購入日				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.private.Tables.cdcollection.Fields.datepurchased	ShortName			0	ko	구매일				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.private.Tables.cdcollection.Fields.datepurchased	ShortName			0	pt-BR	DataCompra				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.private.Tables.cdcollection.Fields.datepurchased	ShortName			0	sv	InkDatum				2002-02-02 02:02:02
@@ -8717,7 +8825,7 @@ officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWiz
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.private.Tables.dvdcollection.Fields.actress	Name			0	es	Género				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.private.Tables.dvdcollection.Fields.actress	Name			0	fr	Genre				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.private.Tables.dvdcollection.Fields.actress	Name			0	it	Genere				2002-02-02 02:02:02
-officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.private.Tables.dvdcollection.Fields.actress	Name			0	ja	女優				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.private.Tables.dvdcollection.Fields.actress	Name			0	ja	ジャンル				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.private.Tables.dvdcollection.Fields.actress	Name			0	ko	장르				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.private.Tables.dvdcollection.Fields.actress	Name			0	pt-BR	Sexo				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.private.Tables.dvdcollection.Fields.actress	Name			0	sv	Genre				2002-02-02 02:02:02
@@ -8726,7 +8834,7 @@ officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWiz
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.private.Tables.dvdcollection.Fields.actress	ShortName			0	es	Género				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.private.Tables.dvdcollection.Fields.actress	ShortName			0	fr	Genre				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.private.Tables.dvdcollection.Fields.actress	ShortName			0	it	Genere				2002-02-02 02:02:02
-officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.private.Tables.dvdcollection.Fields.actress	ShortName			0	ja	女優				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.private.Tables.dvdcollection.Fields.actress	ShortName			0	ja	ジャンル				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.private.Tables.dvdcollection.Fields.actress	ShortName			0	ko	장르				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.private.Tables.dvdcollection.Fields.actress	ShortName			0	pt-BR	Sexo				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.private.Tables.dvdcollection.Fields.actress	ShortName			0	sv	Genre				2002-02-02 02:02:02
@@ -9887,7 +9995,7 @@ officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWiz
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.private.Tables.library.Fields.topic	Name			0	es	Género				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.private.Tables.library.Fields.topic	Name			0	fr	Genre				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.private.Tables.library.Fields.topic	Name			0	it	Genere				2002-02-02 02:02:02
-officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.private.Tables.library.Fields.topic	Name			0	ja	トピック				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.private.Tables.library.Fields.topic	Name			0	ja	ジャンル				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.private.Tables.library.Fields.topic	Name			0	ko	장르				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.private.Tables.library.Fields.topic	Name			0	pt-BR	Sexo				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.private.Tables.library.Fields.topic	Name			0	sv	Genre				2002-02-02 02:02:02
@@ -9896,7 +10004,7 @@ officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWiz
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.private.Tables.library.Fields.topic	ShortName			0	es	Género				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.private.Tables.library.Fields.topic	ShortName			0	fr	Genre				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.private.Tables.library.Fields.topic	ShortName			0	it	Genere				2002-02-02 02:02:02
-officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.private.Tables.library.Fields.topic	ShortName			0	ja	トピック				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.private.Tables.library.Fields.topic	ShortName			0	ja	ジャンル				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.private.Tables.library.Fields.topic	ShortName			0	ko	장르				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.private.Tables.library.Fields.topic	ShortName			0	pt-BR	Sexo				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.private.Tables.library.Fields.topic	ShortName			0	sv	Genre				2002-02-02 02:02:02
@@ -10154,6 +10262,24 @@ officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWiz
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.private.Tables.photographs.Fields.datetaken	ShortName			0	sv	Fotodatum				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.private.Tables.photographs.Fields.datetaken	ShortName			0	zh-CN	拍摄日期				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.private.Tables.photographs.Fields.datetaken	ShortName			0	zh-TW	拍照日期				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.private.Tables.photographs.Fields.filmID	Name			0	es	IdPelícula				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.private.Tables.photographs.Fields.filmID	Name			0	fr	RéfPelli				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.private.Tables.photographs.Fields.filmID	Name			0	it	IDPell				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.private.Tables.photographs.Fields.filmID	Name			0	ja	フィルム ID				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.private.Tables.photographs.Fields.filmID	Name			0	ko	FilmID				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.private.Tables.photographs.Fields.filmID	Name			0	pt-BR	IDFilme				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.private.Tables.photographs.Fields.filmID	Name			0	sv	Filmnr				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.private.Tables.photographs.Fields.filmID	Name			0	zh-CN	胶片 ID				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.private.Tables.photographs.Fields.filmID	Name			0	zh-TW	膠片 ID				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.private.Tables.photographs.Fields.filmID	ShortName			0	es	IdPelícula				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.private.Tables.photographs.Fields.filmID	ShortName			0	fr	RéfPelli				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.private.Tables.photographs.Fields.filmID	ShortName			0	it	IDPell				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.private.Tables.photographs.Fields.filmID	ShortName			0	ja	フィルム ID				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.private.Tables.photographs.Fields.filmID	ShortName			0	ko	FilmID				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.private.Tables.photographs.Fields.filmID	ShortName			0	pt-BR	IDFilme				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.private.Tables.photographs.Fields.filmID	ShortName			0	sv	Filmnr				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.private.Tables.photographs.Fields.filmID	ShortName			0	zh-CN	胶片 ID				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.private.Tables.photographs.Fields.filmID	ShortName			0	zh-TW	膠片 ID				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.private.Tables.photographs.Fields.filterused	Name			0	es	FiltroUtilizado				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.private.Tables.photographs.Fields.filterused	Name			0	fr	FiltreUtilisé				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\TableWizard.xcu	0	value	..TableWizard.TableWizard.private.Tables.photographs.Fields.filterused	Name			0	it	FiltroUsato				2002-02-02 02:02:02
@@ -12569,7 +12695,7 @@ officecfg	registry\data\org\openoffice\Office\UI.xcu	0	value	..UI.FilterClassifi
 officecfg	registry\data\org\openoffice\Office\UI.xcu	0	value	..UI.FilterClassification.GlobalFilters.Classes.com.sun.star.sdb.OfficeDatabaseDocument	DisplayName			0	es	Documentos de la base de datos				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI.xcu	0	value	..UI.FilterClassification.GlobalFilters.Classes.com.sun.star.sdb.OfficeDatabaseDocument	DisplayName			0	fr	Documents de base de données				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI.xcu	0	value	..UI.FilterClassification.GlobalFilters.Classes.com.sun.star.sdb.OfficeDatabaseDocument	DisplayName			0	it	Documenti database				2002-02-02 02:02:02
-officecfg	registry\data\org\openoffice\Office\UI.xcu	0	value	..UI.FilterClassification.GlobalFilters.Classes.com.sun.star.sdb.OfficeDatabaseDocument	DisplayName			0	ja	Database documents				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\UI.xcu	0	value	..UI.FilterClassification.GlobalFilters.Classes.com.sun.star.sdb.OfficeDatabaseDocument	DisplayName			0	ja	データベースドキュメント				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI.xcu	0	value	..UI.FilterClassification.GlobalFilters.Classes.com.sun.star.sdb.OfficeDatabaseDocument	DisplayName			0	ko	데이터베이스 문서				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI.xcu	0	value	..UI.FilterClassification.GlobalFilters.Classes.com.sun.star.sdb.OfficeDatabaseDocument	DisplayName			0	pt-BR	Documentos de banco de dados				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI.xcu	0	value	..UI.FilterClassification.GlobalFilters.Classes.com.sun.star.sdb.OfficeDatabaseDocument	DisplayName			0	sv	Databasdokument				2002-02-02 02:02:02
@@ -13236,7 +13362,7 @@ officecfg	registry\data\org\openoffice\Office\WebWizard.xcu	0	value	..WebWizard.
 officecfg	registry\data\org\openoffice\Office\WebWizard.xcu	0	value	..WebWizard.WebWizard.Exporters.copy-exporter	Name			0	hi-IN	Original file formal				20040713 14:38:58
 officecfg	registry\data\org\openoffice\Office\WebWizard.xcu	0	value	..WebWizard.WebWizard.Exporters.copy-exporter	Name			0	hu	Original file formal				20040713 14:38:58
 officecfg	registry\data\org\openoffice\Office\WebWizard.xcu	0	value	..WebWizard.WebWizard.Exporters.copy-exporter	Name			0	it	Formato del file originale				2002-02-02 02:02:02
-officecfg	registry\data\org\openoffice\Office\WebWizard.xcu	0	value	..WebWizard.WebWizard.Exporters.copy-exporter	Name			0	ja	元のファイルフォーマット				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\WebWizard.xcu	0	value	..WebWizard.WebWizard.Exporters.copy-exporter	Name			0	ja	元のファイル形式				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\WebWizard.xcu	0	value	..WebWizard.WebWizard.Exporters.copy-exporter	Name			0	ko	원래 파일 형식				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\WebWizard.xcu	0	value	..WebWizard.WebWizard.Exporters.copy-exporter	Name			0	nl	Original file formal				20040713 14:38:58
 officecfg	registry\data\org\openoffice\Office\WebWizard.xcu	0	value	..WebWizard.WebWizard.Exporters.copy-exporter	Name			0	pl	Original file formal				20040713 14:38:58
