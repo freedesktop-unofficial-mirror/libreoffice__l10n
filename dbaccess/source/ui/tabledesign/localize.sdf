@@ -2,8 +2,8 @@
 ##
 ##   $RCSfile: localize.sdf,v $
 ##
-##   $Revision: 1.7 $
-##   last change: $Author: hr $ $Date: 2005-04-06 14:23:39 $
+##   $Revision: 1.8 $
+##   last change: $Author: obo $ $Date: 2005-04-18 12:35:55 $
 ##
 ##   The Contents of this file are made available subject to the terms of
 ##   either of the following licenses
@@ -1320,7 +1320,7 @@ dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_DBFIELDTYPES		
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_DBFIELDTYPES				0	he	Unbekannt;Text;Zahl;Datum/Zeit;Datum;Zeit;Ja/Nein;Währung;Memo;Zähler;Bild;Text (fix);Dezimal;Binärfeld (fix);Binärfeld;BigInt;Double;Float;Real;Integer;Small Integer;Tiny Integer;SQL Null;Objekt;Distinct;Struktur;Feld;BLOB;CLOB;REF;OTHER				20040507 14:21:37
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_DBFIELDTYPES				0	hi-IN	अज्ञात;टेक्स्ट्;संख्या;दिनांक/समय;दिनांक;समय;हाँ/नहीं;मुद्रा;स्मृतिपत्र;गिनती;चित्र;टेक्स्ट् (स्थिर);दशांश;बैनरी (स्थिर);बैनरी;BigInt;डबल;फ्लोट;रियल;पूर्णांक;छोटा पूर्णांक;बहुत छोटा पूर्णांक;SQL Null;वस्तु;अनोखा;बनावट;क्षेत्र;BLOB;CLOB;REF;OTHER				20040507 14:21:37
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_DBFIELDTYPES				0	hu	 Unknown;Text;Number;Date/Time;Date;Time;Yes/No;Currency;Memo;Counter;Image;Text (fix);Decimal;Binary (fix);Binary;BigInt;Double;Float;Real;Integer;Small Integer;Tiny Integer;SQL Null;Object;Distinct;Structure;Field;BLOB;CLOB;REF;OTHER				20040507 14:21:37
-dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_DBFIELDTYPES				0	it	Sconosciuto;Testo;Numero;Data/Ora;Data;Ora;Sì/No;Valuta;Memo;Contatore;Immagine;Testo(fisso);Decimale;Campo binario (fisso);Campo binario;BigInt;Doppio;Fluttuante;Reale;Integrale;Piccolo integrale;Tiny Integrale;SQL nullo;Oggetto;Distinto;Struttura;Campo;BLOB;CLOB;REF;OTHER				2002-02-02 02:02:02
+dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_DBFIELDTYPES				0	it	Sconosciuto;Testo;Numero;Data/Ora;Data;Ora;Sì/No;Valuta;Memo;Contatore;Immagine;Testo(fisso);Decimale;Campo binario (fisso);Campo binario;BigInt;Double;(Numero in )Virgola mobile;Reale;Integrale;Intero piccolo;Intero molto piccolo;SQL nullo;Oggetto;Distinto;Struttura;Campo;BLOB;CLOB;REF;Altro				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_DBFIELDTYPES				0	ja	不明;テキスト;数詞;日付/時刻;日付;時刻;はい/いいえ;通貨単位;メモ;カウンタ;イメージ;テキスト(固定);十進法;二進法フィールド(固定);二進法フィールド;BigInt;Double;Float;Real;Integer;Small Integer;Tiny Integer;SQL ゼロ;オブジェクト;Distinct;構造;フィールド;BLOB;CLOB;REF				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_DBFIELDTYPES				0	ko	알 수 없는;텍스트;수;날짜/시간;날짜;시간;예/아니오;화폐;메모;카운터;이미지;텍스트 (고정);10진;2진 (고정);2진;BigInt;더블;부동;Real;정수;작은 정수;작은 정수;SQL 널;개체;Distinct;Struct;필드;BLOB;CLOB;REF;OTHER				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_DBFIELDTYPES				0	nl	Onbekend;Tekst;Nummer;Datum/Tijd;Datum;Tijd;Ja/Nee;Valuta;Memo;Teller;Afbeelding;Tekst (vast);Decimaal;Binair (vast);Binair;BigInt;Double;Float;Real;Integer;Small Integer;Tiny Integer;SQL Null;Object;Distinct;Structuur;Veld;BLOB;CLOB;REF;OTHER				20040507 14:21:37
@@ -1740,27 +1740,27 @@ dbaccess	source\ui\tabledesign\table.src	0	string	STR_TBL_COLUMN_IS_KEYCOLUMN_TI
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TBL_COLUMN_IS_KEYCOLUMN_TITLE				0	cs	Primární klíč uplatněn				2003-10-21 15:24:56.263
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TBL_COLUMN_IS_KEYCOLUMN_TITLE				0	da	Primærnøgle berørt				20040507 14:21:38
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TBL_COLUMN_IS_KEYCOLUMN_TITLE				0	el	Επίδραση στο πρωτεύον κλειδί				20040507 14:21:38
-dbaccess	source\ui\tabledesign\table.src	0	string	STR_TBL_COLUMN_IS_KEYCOLUMN_TITLE				0	es	Relativo a la llave primaria				2002-02-02 02:02:02
+dbaccess	source\ui\tabledesign\table.src	0	string	STR_TBL_COLUMN_IS_KEYCOLUMN_TITLE				0	es	Clave principal afectada				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TBL_COLUMN_IS_KEYCOLUMN_TITLE				0	et	Primary Key Effected				20040507 14:21:38
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TBL_COLUMN_IS_KEYCOLUMN_TITLE				0	fi	Vaikutus kohdistunut perusavaimeen				20040507 14:21:38
-dbaccess	source\ui\tabledesign\table.src	0	string	STR_TBL_COLUMN_IS_KEYCOLUMN_TITLE				0	fr	Clé primaire concernée				2002-02-02 02:02:02
+dbaccess	source\ui\tabledesign\table.src	0	string	STR_TBL_COLUMN_IS_KEYCOLUMN_TITLE				0	fr	Clé primaire affectée				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TBL_COLUMN_IS_KEYCOLUMN_TITLE				0	he	Primärschlüssel betroffen				20040507 14:21:38
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TBL_COLUMN_IS_KEYCOLUMN_TITLE				0	hi-IN	प्रैमरी की प्रभावित				20040507 14:21:38
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TBL_COLUMN_IS_KEYCOLUMN_TITLE				0	hu	Az elsődleges kulcs megváltozott.				20040507 14:21:38
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TBL_COLUMN_IS_KEYCOLUMN_TITLE				0	it	Relativo alla chiave primaria				2002-02-02 02:02:02
-dbaccess	source\ui\tabledesign\table.src	0	string	STR_TBL_COLUMN_IS_KEYCOLUMN_TITLE				0	ja	プライマリキーに関連				2002-02-02 02:02:02
+dbaccess	source\ui\tabledesign\table.src	0	string	STR_TBL_COLUMN_IS_KEYCOLUMN_TITLE				0	ja	プライマリキーに影響				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TBL_COLUMN_IS_KEYCOLUMN_TITLE				0	ko	영향을 받는 기본 키				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TBL_COLUMN_IS_KEYCOLUMN_TITLE				0	nl	primaire sleutel betroffen				20040507 14:21:38
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TBL_COLUMN_IS_KEYCOLUMN_TITLE				0	pt	Chave primária relacionada				20040507 14:21:38
-dbaccess	source\ui\tabledesign\table.src	0	string	STR_TBL_COLUMN_IS_KEYCOLUMN_TITLE				0	pt-BR	Chave Primária Afetada				2002-02-02 02:02:02
+dbaccess	source\ui\tabledesign\table.src	0	string	STR_TBL_COLUMN_IS_KEYCOLUMN_TITLE				0	pt-BR	Chave primária afetada				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TBL_COLUMN_IS_KEYCOLUMN_TITLE				0	ru	Относится к первичному ключу				20040507 14:21:38
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TBL_COLUMN_IS_KEYCOLUMN_TITLE				0	sk	Primárny kľúč zasiahnutý				20040507 14:21:38
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TBL_COLUMN_IS_KEYCOLUMN_TITLE				0	sl	Primarni ključ je bil spremenjen				20040507 14:21:38
-dbaccess	source\ui\tabledesign\table.src	0	string	STR_TBL_COLUMN_IS_KEYCOLUMN_TITLE				0	sv	Primärnyckelrelaterad				2002-02-02 02:02:02
+dbaccess	source\ui\tabledesign\table.src	0	string	STR_TBL_COLUMN_IS_KEYCOLUMN_TITLE				0	sv	Påverkad primärnyckel				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TBL_COLUMN_IS_KEYCOLUMN_TITLE				0	th	คีย์หลักมีผล				20040507 14:21:38
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TBL_COLUMN_IS_KEYCOLUMN_TITLE				0	tr	Birinci anahtar etkilendi.				20040507 14:21:38
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TBL_COLUMN_IS_KEYCOLUMN_TITLE				0	zh-CN	和主关键字关联				2002-02-02 02:02:02
-dbaccess	source\ui\tabledesign\table.src	0	string	STR_TBL_COLUMN_IS_KEYCOLUMN_TITLE				0	zh-TW	和主關鍵字關聯				2002-02-02 02:02:02
+dbaccess	source\ui\tabledesign\table.src	0	string	STR_TBL_COLUMN_IS_KEYCOLUMN_TITLE				0	zh-TW	受影響的主關鍵字				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TEXT_LENGTH				0	ar	الطول				20040507 14:21:38
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TEXT_LENGTH				0	ca	~Longitud				20040507 14:21:38
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TEXT_LENGTH				0	cs	Délka				2003-10-21 15:24:56.263
