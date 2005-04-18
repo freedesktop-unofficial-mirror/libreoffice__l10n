@@ -2,8 +2,8 @@
 ##
 ##   $RCSfile: localize.sdf,v $
 ##
-##   $Revision: 1.7 $
-##   last change: $Author: hr $ $Date: 2005-04-06 15:37:42 $
+##   $Revision: 1.8 $
+##   last change: $Author: obo $ $Date: 2005-04-18 14:05:47 $
 ##
 ##   The Contents of this file are made available subject to the terms of
 ##   either of the following licenses
@@ -1689,8 +1689,8 @@ sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_CONTINUE_SIGNING				0	pt-BR	Dese
 sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_CONTINUE_SIGNING				0	sv	Vill du fortsätta att signera dokumentet?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_CONTINUE_SIGNING				0	zh-CN	是否要继续签署此文档？				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_CONTINUE_SIGNING				0	zh-TW	您要繼續於該文件簽名嗎？				2002-02-02 02:02:02
-sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_DOCVERSIONS				0	es	Versiones del documento				2002-02-02 02:02:02
-sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_DOCVERSIONS				0	fr	VersionsDocument				2002-02-02 02:02:02
+sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_DOCVERSIONS				0	es	Versiones de documentos				2002-02-02 02:02:02
+sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_DOCVERSIONS				0	fr	Versions du document				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_DOCVERSIONS				0	it	Versioni del documento				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_DOCVERSIONS				0	ja	ドキュメントのバージョン				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_DOCVERSIONS				0	ko	문서 버전				2002-02-02 02:02:02
@@ -2044,7 +2044,7 @@ sfx2	source\doc\doc.src	0	string	STR_QUERY_SAVEOWNFORMAT				0	he	‮יתכן ש�
 sfx2	source\doc\doc.src	0	string	STR_QUERY_SAVEOWNFORMAT				0	hi-IN	$(FORMAT)\nके नीचे संचित न किये जानेवाला ऐट्रिब्यूट्स और जानकारी शायद इस लेखपत्र में सम्मिलित है । $(OWNFORMAT) रचना\n को उपयोग करके आप परिवर्तनों को संचित करना चाहते है ?				20040507 14:25:1
 sfx2	source\doc\doc.src	0	string	STR_QUERY_SAVEOWNFORMAT				0	hu	Ez a dokumentum olyan tulajdonságokat tartalmazhat, amelyek\nnem menthetőek el $(FORMAT) formátumban.\nKívánja inkább $(OWNFORMAT) formátumban menteni a változtatásokat?				20040507 14:25:1
 sfx2	source\doc\doc.src	0	string	STR_QUERY_SAVEOWNFORMAT				0	it	Questo documento può contenere contenuti o formattazione che non possono essere salvati nel formato di file %FORMATNAME attuale.\n\nVolete salvare ugualmente il documento in questo formato?\n\n- Scegliete 'Sì' per mantenere il formato attuale.\n- Scegliete 'No' per usare il formato di file %PRODUCTNAME più recente e verificate che il contenuto e la formattazione vengano salvati correttamente.				2002-02-02 02:02:02
-sfx2	source\doc\doc.src	0	string	STR_QUERY_SAVEOWNFORMAT				0	ja	$(FILENAME) には、$(FORMAT) 書式と互換性のない書式が含まれている可能性があります。この書式でドキュメントを保存しますか。\n\n- $(FORMAT) 書式で保存する場合は「はい」をクリックしてください。\n- 現在の書式を維持する場合は「いいえ」をクリックしてください。その後、最新の %PRODUCTNAME 書式でドキュメントを保存してください。				2002-02-02 02:02:02
+sfx2	source\doc\doc.src	0	string	STR_QUERY_SAVEOWNFORMAT				0	ja	このドキュメントには、現在の %FORMATNAME ファイル書式では保存できないと書式やコンテンツが含まれている可能性があります。\n\nこの書式でドキュメントを保存しますか。\n\n- 現在のファイル書式を保持する場合は「はい」をクリックしてください。\n- 最新の %PRODUCTNAME ファイル書式を使用する場合は「いいえ」をクリックしてください。その後、すべての書式設定とコンテンツが正しく保存されていることを確認してください。				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_QUERY_SAVEOWNFORMAT				0	ko	이 문서에는 현재 %FORMATNAME 파일 형식으로 저장할 수 없는 서식 또는 내용이 포함되어 있을 수 있습니다./n/n문서를 이 형식으로 저장하시겠습니까?/n/n- 현재 파일 형식을 유지하려면 [예]를 클릭하십시오./n- 최신 %PRODUCTNAME 파일 형식을 사용하여 모든 서식과 내용이 올바로 저장되게 하려면 [아니오]를 클릭하십시오.				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_QUERY_SAVEOWNFORMAT				0	nl	Dit document kan opmaakattributen en gegevens \nbevatten die niet in $(FORMAT)-indeling opgeslagen\nkunnen worden. Wilt u deze wijzigingen in\n$(OWNFORMAT)-indeling opslaan?				20040507 14:25:1
 sfx2	source\doc\doc.src	0	string	STR_QUERY_SAVEOWNFORMAT				0	pl	Dokument ten może zawierać atrybuty\ni informacje, których nie będzie można zapisać\nw formacie $(FORMAT). Czy chcesz zapisać\nzmiany w formacie $(OWNFORMAT)?				20040507 14:25:1
