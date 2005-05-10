@@ -2,8 +2,8 @@
 ##
 ##   $RCSfile: localize.sdf,v $
 ##
-##   $Revision: 1.8 $
-##   last change: $Author: obo $ $Date: 2005-04-18 12:35:55 $
+##   $Revision: 1.9 $
+##   last change: $Author: rt $ $Date: 2005-05-10 09:29:44 $
 ##
 ##   The Contents of this file are made available subject to the terms of
 ##   either of the following licenses
@@ -1374,7 +1374,7 @@ dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_NO_PRIM_KEY			
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_NO_PRIM_KEY				0	hi-IN	लेखासंचय में ड़ॉटा अभिलेख को पहचानने केलिए एक अनोखा अनुक्रमणी अथवा प्रैमरी चाभी की आवश्यकता है ।\nजब किसी एक बनावटी शर्त समान है तबी आप इस सारणी में ड़ॉटा को प्रविष्ट कर सकते है ।\n\nअभी प्रैमरी चाभी को उत्पन्न करना चाहते है ?				20040507 14:21:38
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_NO_PRIM_KEY				0	hu	Egyedi indexre vagy elsődleges kulcsra mindenképpen szükség van a rekordok azonosításához; ellenkező esetben nem vehető\nfel adat a táblába. \n\nKíván létrehozni egy elsődleges kulcsot?				20040507 14:21:38
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_NO_PRIM_KEY				0	it	Per l'identificazione del record di dati nel database attuale è necessario un indice univoco o una chiave primaria.\nSolo dopo aver soddisfatto una di queste condizioni sarà possibile introdurre dati nella tabella.\n\nVolete creare adesso una chiave primaria?				2002-02-02 02:02:02
-dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_NO_PRIM_KEY				0	ja	このデータベースでは、レコード識別に明確なインデックスあるいはプライマリキーが必要です。\nこの構造条件のうちどちらかひとつが満たされると、テーブルにデータ入力できます。\n\nプライマリキーを作成しますか。				2002-02-02 02:02:02
+dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_NO_PRIM_KEY				0	ja	このデータベースでは、レコード識別に一意なインデックスあるいはプライマリキーが必要です。\nこの構造条件のうちどちらかひとつが満たされると、テーブルにデータ入力できます。\n\nプライマリキーを作成しますか。				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_NO_PRIM_KEY				0	ko	이 데이터베이스에서 데이터 레코드를 식별하려면 단일 색인이나 기본 키가 있어야 합니다.\n이 두 가지 구조 조건 중에서 하나가 충족되어야만 데이터를 테이블에 입력할 수 있습니다.\n\n지금 기본 키를 생성하겠습니까?				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_NO_PRIM_KEY				0	nl	In deze database is een index of een primaire sleutel vereist ter identificatie van records.\nU kunt alleen gegevens invoeren in de tabel als u voldoet aan een van deze beide criteria.\nWilt u nu een primaire sleutel definiëren?				20040507 14:21:38
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_NO_PRIM_KEY				0	pt	Esta base de dados precisa de um índice único ou de uma chave primária para identificação do registo de dados.\nSó poderá introduzir os dados na tabela depois de esta preencher uma destas condições de estrutura.\n\nCriar agora uma chave primária				20040507 14:21:38
