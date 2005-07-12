@@ -11,8 +11,8 @@
 ##
 ##   $RCSfile: localize.sdf,v $
 ##
-##   $Revision: 1.8 $
-##   last change: $Author: rt $ $Date: 2005-06-24 11:28:24 $
+##   $Revision: 1.9 $
+##   last change: $Author: kz $ $Date: 2005-07-12 11:29:57 $
 ##
 ##   The Contents of this file are made available subject to the terms of
 ##   either of the following licenses
@@ -286,7 +286,7 @@ sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_HANDOUTVIEW_
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_HANDOUTVIEW_N				0	km	ទិដ្ឋភាព​ប្លង់​បោះ​ពុម្ព				2002-02-02 02:02:02
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_HANDOUTVIEW_N				0	ko	유인물 보기				2002-02-02 02:02:02
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_HANDOUTVIEW_N				0	nb	Støttearkvisning				2002-02-02 02:02:02
-sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_HANDOUTVIEW_N				0	nl	Modus Folder				2002-02-02 02:02:02
+sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_HANDOUTVIEW_N				0	nl	Handout-modus				2002-02-02 02:02:02
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_HANDOUTVIEW_N				0	nn	Støttearkvising				2002-02-02 02:02:02
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_HANDOUTVIEW_N				0	pa-IN	ਹੈਂਡਆਉਟ ਝਾਤੀ				2002-02-02 02:02:02
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_HANDOUTVIEW_N				0	pl	Tryb prospektu				2002-02-02 02:02:02
@@ -325,7 +325,7 @@ sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_NOTESVIEW_D	
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_NOTESVIEW_D				0	km	នេះ​​ជា​​កន្លែង​ដែល​អ្នក​បញ្ចូល​ និង ​មើល​ចំណាំ​ ។				2002-02-02 02:02:02
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_NOTESVIEW_D				0	ko	여기에서 메모를 입력하고 편집하실 수 있습니다.				2002-02-02 02:02:02
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_NOTESVIEW_D				0	nb	Her kan du skrive og endre notater.				2002-02-02 02:02:02
-sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_NOTESVIEW_D				0	nl	Hier voert u aantekeningen in en bewerkt ze.				2002-02-02 02:02:02
+sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_NOTESVIEW_D				0	nl	Hier voert u notities in en bewerkt ze.				2002-02-02 02:02:02
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_NOTESVIEW_D				0	nn	Her kan du skriva og endra notat.				2002-02-02 02:02:02
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_NOTESVIEW_D				0	pa-IN	ਇੱਥੇ ਤੁਸੀਂ ਸੂਚਨਾ ਦੇ ਅਤੇ ਵੇਖ ਸਕਦੇ ਹੋ।				2002-02-02 02:02:02
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_NOTESVIEW_D				0	pl	Tutaj możesz wprowadzać i przeglądać notatki				2002-02-02 02:02:02
@@ -364,7 +364,7 @@ sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_NOTESVIEW_N	
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_NOTESVIEW_N				0	km	ទិដ្ឋភាព​ចំណាំ				2002-02-02 02:02:02
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_NOTESVIEW_N				0	ko	메모 보기				2002-02-02 02:02:02
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_NOTESVIEW_N				0	nb	Notatvisning				2002-02-02 02:02:02
-sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_NOTESVIEW_N				0	nl	Aantekeningenmodus				2002-02-02 02:02:02
+sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_NOTESVIEW_N				0	nl	Notitiemodus				2002-02-02 02:02:02
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_NOTESVIEW_N				0	nn	Notatvising				2002-02-02 02:02:02
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_NOTESVIEW_N				0	pa-IN	ਸੂਚਨਾ ਦਰਿਸ਼				2002-02-02 02:02:02
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_NOTESVIEW_N				0	pl	Tryb notatek				2002-02-02 02:02:02
@@ -403,7 +403,7 @@ sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_OUTLINEVIEW_
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_OUTLINEVIEW_D				0	km	នេះ​ជា​កន្លែង​ដែល​អ្នក​បញ្ចូល ឬ កែសម្រួល​អត្ថបទ​ក្នុង​សំណុំ​បែបបទ​បញ្ជី ។				2002-02-02 02:02:02
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_OUTLINEVIEW_D				0	ko	여기에서 텍스트를 개요 보기로 입력하거나 편집할 수 있습니다.				2002-02-02 02:02:02
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_OUTLINEVIEW_D				0	nb	Her kan du lage og endre tekst i form av lister				2002-02-02 02:02:02
-sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_OUTLINEVIEW_D				0	nl	Hier voert u tekst in lijstvorm in of of bewerkt deze tekst.				2002-02-02 02:02:02
+sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_OUTLINEVIEW_D				0	nl	Hier voert u tekst in lijstvorm in of bewerkt u deze tekst.				2002-02-02 02:02:02
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_OUTLINEVIEW_D				0	nn	Her kan du laga og endra tekst i form av lister.				2002-02-02 02:02:02
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_OUTLINEVIEW_D				0	pa-IN	ਇੱਥੇ ਤੁਸੀਂ ਸੂਚੀ ਫਾਰਮ ਵਿੱਚ ਪਾਠ ਸ਼ਾਮਲ ਜਾਂ ਸੋਧ ਸਕਦੇ ਹੋ।				2002-02-02 02:02:02
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_OUTLINEVIEW_D				0	pl	Tutaj możesz wprowadzać lub edytować tekst w formie listy.				2002-02-02 02:02:02
