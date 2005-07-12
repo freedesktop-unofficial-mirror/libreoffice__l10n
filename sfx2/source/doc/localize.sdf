@@ -11,8 +11,8 @@
 ##
 ##   $RCSfile: localize.sdf,v $
 ##
-##   $Revision: 1.10 $
-##   last change: $Author: rt $ $Date: 2005-06-24 13:11:58 $
+##   $Revision: 1.11 $
+##   last change: $Author: kz $ $Date: 2005-07-12 12:47:06 $
 ##
 ##   The Contents of this file are made available subject to the terms of
 ##   either of the following licenses
@@ -172,7 +172,7 @@ sfx2	source\doc\doc.src	0	errorbox	MSG_ERROR_RENAME_TEMPLATE_REGION				0	ja	範�
 sfx2	source\doc\doc.src	0	errorbox	MSG_ERROR_RENAME_TEMPLATE_REGION				0	km	កំហុស​ពេល​ប្តូរ​ឈ្មោះ​ប្រភេទ​ពុម្ព ។				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	errorbox	MSG_ERROR_RENAME_TEMPLATE_REGION				0	ko	서식 파일 범주 이름 변경 오류.				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	errorbox	MSG_ERROR_RENAME_TEMPLATE_REGION				0	nb	Det oppstod en feil da navnet på malkategorien ble endret.				2002-02-02 02:02:02
-sfx2	source\doc\doc.src	0	errorbox	MSG_ERROR_RENAME_TEMPLATE_REGION				0	nl	Fout bij naamswijziging van bereik.				2002-02-02 02:02:02
+sfx2	source\doc\doc.src	0	errorbox	MSG_ERROR_RENAME_TEMPLATE_REGION				0	nl	Fout bij naamswijziging van categorie.				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	errorbox	MSG_ERROR_RENAME_TEMPLATE_REGION				0	nn	Det oppstod ein feil då namnet på malkategorien blei endra.				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	errorbox	MSG_ERROR_RENAME_TEMPLATE_REGION				0	pa-IN	ਨਮੂਨਾ ਵਰਗ ਨਾਂ-ਤਬਦੀਲੀ ਦੌਰਾਨ ਗਲਤੀ ਹੈ।				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	errorbox	MSG_ERROR_RENAME_TEMPLATE_REGION				0	pl	Błąd zmiany nazwy kategorii szablonu.				2002-02-02 02:02:02
@@ -212,7 +212,7 @@ sfx2	source\doc\doc.src	0	errorbox	MSG_ERROR_RESCAN				0	ja	更新を保存で�
 sfx2	source\doc\doc.src	0	errorbox	MSG_ERROR_RESCAN				0	km	មិន​អាច​រក្សាទុក​ភាព​ទាន់សម័យ ។				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	errorbox	MSG_ERROR_RESCAN				0	ko	업데이트 내용이 저장되지 않았습니다.				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	errorbox	MSG_ERROR_RESCAN				0	nb	Oppdateringene kan ikke lagres.				2002-02-02 02:02:02
-sfx2	source\doc\doc.src	0	errorbox	MSG_ERROR_RESCAN				0	nl	De wijzigingen kunnen niet worden opgeslagen.				2002-02-02 02:02:02
+sfx2	source\doc\doc.src	0	errorbox	MSG_ERROR_RESCAN				0	nl	De update kan niet worden opgeslagen.				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	errorbox	MSG_ERROR_RESCAN				0	nn	Oppdateringane kan ikkje lagrast.				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	errorbox	MSG_ERROR_RESCAN				0	pa-IN	ਨਵੀਨੀਕਰਨ ਸੰਭਾਲਿਆ ਨਹੀਂ ਜਾ ਸਕਿਆ ਹੈ।				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	errorbox	MSG_ERROR_RESCAN				0	pl	Aktualizacje nie mogły zostać zapisane.				2002-02-02 02:02:02
@@ -652,7 +652,7 @@ sfx2	source\doc\doc.src	0	querybox	MSG_QUERY_LOAD_TEMPLATE		MSG_QUERY_LOAD_TEMPL
 sfx2	source\doc\doc.src	0	querybox	MSG_QUERY_LOAD_TEMPLATE		MSG_QUERY_LOAD_TEMPLATE		0	km	រចនាប័ទ្ម​ក្នុង​ឯកសារ​នេះ​ មិន​ត្រូវ​នឹង​រចនាប័ទ្ម​បច្ចុប្បន្ន​របស់​អ្នក ។ តើ​គួរ​អនុវត្ត​រចនាប័ទ្ម​បច្ចុប្បន្ន​របស់​អ្នក​ជាមួយ​ឯកសារ​នេះ​ឬ​ទេ ?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	querybox	MSG_QUERY_LOAD_TEMPLATE		MSG_QUERY_LOAD_TEMPLATE		0	ko	이 문서의 스타일은 현재 스타일과 일치하지 않습니다. 현재 스타일을 이 문서에 적용하겠습니까?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	querybox	MSG_QUERY_LOAD_TEMPLATE		MSG_QUERY_LOAD_TEMPLATE		0	nb	Malen som dokumentet er basert på er endret. Vil du at denne endringen også skal gjelde for dette dokumentet?				2002-02-02 02:02:02
-sfx2	source\doc\doc.src	0	querybox	MSG_QUERY_LOAD_TEMPLATE		MSG_QUERY_LOAD_TEMPLATE		0	nl	De sjablonen bij dit document komen niet overeen met uw huidige sjablonen. Wilt u uw huidige sjablonen op dit document toepassen?				2002-02-02 02:02:02
+sfx2	source\doc\doc.src	0	querybox	MSG_QUERY_LOAD_TEMPLATE		MSG_QUERY_LOAD_TEMPLATE		0	nl	De opmaakprofielen in dit document komen niet overeen met uw huidige profielen. Wilt u uw huidige opmaakprofielen op dit document toepassen?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	querybox	MSG_QUERY_LOAD_TEMPLATE		MSG_QUERY_LOAD_TEMPLATE		0	nn	Malen som dokumentet er basert på er endra. Vil du at denne endringa òg skal gjelda for dette dokumentet?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	querybox	MSG_QUERY_LOAD_TEMPLATE		MSG_QUERY_LOAD_TEMPLATE		0	pa-IN	ਇਸ ਦਸਤਾਵੇਜ਼ ਵਿੱਚ ਸ਼ੈਲੀ ਤੁਹਾਡੀ ਮੌਜੂਦਾ ਸ਼ੈਲੀ ਨਾਲ ਮੇਲ ਨਹੀਂ ਖਾਂਦੀ ਹੈ। ਕੀ ਤੁਸੀਂ ਮੌਜੂਦਾ ਸ਼ੈਲੀ ਨੂੰ ਇਸ ਦਸਤਾਵੇਜ਼ ਤੇ ਲਾਗੂ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	querybox	MSG_QUERY_LOAD_TEMPLATE		MSG_QUERY_LOAD_TEMPLATE		0	pl	Style użyte w tym dokumencie nie są zgodne z bieżącymi stylami.\nCzy zastosować w dokumencie bieżące style?				2002-02-02 02:02:02
@@ -692,7 +692,7 @@ sfx2	source\doc\doc.src	0	querybox	MSG_QUERY_RESET_DEFAULT_TEMPLATE				0	ja	標�
 sfx2	source\doc\doc.src	0	querybox	MSG_QUERY_RESET_DEFAULT_TEMPLATE				0	km	តើ​អ្នក​ចង់​កំណត់​ពុម្ព​លំនាំដើម​ឡើង​វិញ​ឬ​ទេ ?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	querybox	MSG_QUERY_RESET_DEFAULT_TEMPLATE				0	ko	기본 서식 파일을 원래대로 되돌리겠습니까?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	querybox	MSG_QUERY_RESET_DEFAULT_TEMPLATE				0	nb	Vil du tilbakestille til standardmalen?				2002-02-02 02:02:02
-sfx2	source\doc\doc.src	0	querybox	MSG_QUERY_RESET_DEFAULT_TEMPLATE				0	nl	Wilt u de wijzigingen in de standaardsjabloon ongedaan maken?				2002-02-02 02:02:02
+sfx2	source\doc\doc.src	0	querybox	MSG_QUERY_RESET_DEFAULT_TEMPLATE				0	nl	Wilt u de standaardsjabloon herstellen?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	querybox	MSG_QUERY_RESET_DEFAULT_TEMPLATE				0	nn	Vil du tilbakestilla til standardmalen?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	querybox	MSG_QUERY_RESET_DEFAULT_TEMPLATE				0	pa-IN	ਕੀ ਤੁਸੀਂ ਮੂਲ ਨਮੂਨਾ ਮੁੜ-ਨਿਰਧਾਰਤ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	querybox	MSG_QUERY_RESET_DEFAULT_TEMPLATE				0	pl	Czy chcesz przywrócić szablon domyślny?				2002-02-02 02:02:02
@@ -852,7 +852,7 @@ sfx2	source\doc\doc.src	0	string	FT_CANCEL				0	ja	セキュリティ設定に�
 sfx2	source\doc\doc.src	0	string	FT_CANCEL				0	km	ដោយ​យោង​តាម​ការ​កំណត់​សុវត្ថិភាព ម៉ាក្រូ​ក្នុង​​ឯកសារ​នេះ មិន​គួរ​ត្រូវ​បាន​រត់​ទេ ។ យ៉ាង​ណា​ក៏​ដោយ តើ​អ្នក​ចង់​រត់​ពួកវា​ឬ​ទេ ?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	FT_CANCEL				0	ko	보안 설정에 따라 이 문서의 매크로는 실행될 수 없습니다. 이 매크로를 실행하시겠습니까?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	FT_CANCEL				0	nb	I følge sikkerhetsinnstillingene, bør ikke makroene i dette dokumenet kjøres. Vil du kjøre dem likevel?				2002-02-02 02:02:02
-sfx2	source\doc\doc.src	0	string	FT_CANCEL				0	nl	Volgens de beveiligingsopties mogen de macro's in dit document niet worden uitgevoerd. Wilt u de macro's toch uitvoeren?				2002-02-02 02:02:02
+sfx2	source\doc\doc.src	0	string	FT_CANCEL				0	nl	Volgens de beveiligingsinstellingen mogen de macro's in dit document niet worden uitgevoerd. Wilt u de macro's toch uitvoeren?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	FT_CANCEL				0	nn	I følge tryggleiksinnstillingane bør ikkje makroane i dette dokumentet køyrast. Vil du køyra dei likevel?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	FT_CANCEL				0	pa-IN	ਸੁਰੱਖਿਆ ਵਿਵਸਥਾ ਦੇ ਮੁਤਾਬਕ, ਇਸ ਦਸਤਾਵੇਜ਼ ਦੇ ਮਾਇਕਰੋ ਚਲਾਉਣੇ ਨਹੀਂ ਚਾਹੀਦੇ ਹਨ। ਕੀ ਤੁਸੀਂ ਇਹਨਾਂ ਨੂੰ ਕਿਸੇ ਤਰਾਂ ਵੀ ਚਲਾਉਣੇ ਚਾਹੁੰਦੇ ਹੋ?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	FT_CANCEL				0	pl	Zgodnie z ustawieniami zabezpieczeń nie należy uruchamiać makr z tego dokumentu. Czy mimo to chcesz je uruchomić?				2002-02-02 02:02:02
@@ -1092,7 +1092,7 @@ sfx2	source\doc\doc.src	0	string	RID_OFFICEFILTER				0	ja	%PRODUCTNAMEドキュ�
 sfx2	source\doc\doc.src	0	string	RID_OFFICEFILTER				0	km	ឯកសារ %PRODUCTNAME				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	RID_OFFICEFILTER				0	ko	%PRODUCTNAME 문서				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	RID_OFFICEFILTER				0	nb	%PRODUCTNAME-dokumenter				2002-02-02 02:02:02
-sfx2	source\doc\doc.src	0	string	RID_OFFICEFILTER				0	nl	%PRODUCTNAME Documenten				2002-02-02 02:02:02
+sfx2	source\doc\doc.src	0	string	RID_OFFICEFILTER				0	nl	%PRODUCTNAME-documenten				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	RID_OFFICEFILTER				0	nn	%PRODUCTNAME-dokument				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	RID_OFFICEFILTER				0	pa-IN	%PRODUCTNAME ਦਸਤਾਵੇਜ਼				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	RID_OFFICEFILTER				0	pl	%PRODUCTNAME - Dokumenty				2002-02-02 02:02:02
@@ -1252,7 +1252,7 @@ sfx2	source\doc\doc.src	0	string	RID_SVXSTR_SECURITY_ADDPATH				0	ja	このデ�
 sfx2	source\doc\doc.src	0	string	RID_SVXSTR_SECURITY_ADDPATH				0	km	បន្ថែម​ថត​នេះ​ទៅ​កាន់​បញ្ជី​នៃ​ផ្លូវ​សុវត្ថិភាព ៖				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	RID_SVXSTR_SECURITY_ADDPATH				0	ko	이 디렉토리를 안전 경로 목록에 추가: 				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	RID_SVXSTR_SECURITY_ADDPATH				0	nb	Legg denne katalogen til lista over sikre stier: 				2002-02-02 02:02:02
-sfx2	source\doc\doc.src	0	string	RID_SVXSTR_SECURITY_ADDPATH				0	nl	Voeg deze directory toe aan de lijst van veilige paden: 				2002-02-02 02:02:02
+sfx2	source\doc\doc.src	0	string	RID_SVXSTR_SECURITY_ADDPATH				0	nl	Voeg deze map toe aan de lijst met veilige paden: 				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	RID_SVXSTR_SECURITY_ADDPATH				0	nn	Legg denne katalogen til lista over trygge stigar: 				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	RID_SVXSTR_SECURITY_ADDPATH				0	pa-IN	ਇਸ ਡਾਇਰੈਕਟਰੀ ਨੂੰ ਸੁਰੱਖਿਅਤ ਮਾਰਗਾਂ ਦੀ ਸੂਚੀ ਵਿੱਚ ਸ਼ਾਮਿਲ: 				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	RID_SVXSTR_SECURITY_ADDPATH				0	pl	Add this directory  to the list of secure paths: 				2002-02-02 02:02:02
@@ -1492,7 +1492,7 @@ sfx2	source\doc\doc.src	0	string	STR_DELETE_REGION				0	ja	範囲"$1"を削除�
 sfx2	source\doc\doc.src	0	string	STR_DELETE_REGION				0	km	តើ​អ្នក​ពិត​ជា​ចង់​លុប​តំបន់ "$1" ឬ​ទេ ?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_DELETE_REGION				0	ko	영역"$1"을(를）삭제하겠습니까?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_DELETE_REGION				0	nb	Er sikker på at du vil slette området «$1»?				2002-02-02 02:02:02
-sfx2	source\doc\doc.src	0	string	STR_DELETE_REGION				0	nl	Wilt u bereik "$1" wissen?				2002-02-02 02:02:02
+sfx2	source\doc\doc.src	0	string	STR_DELETE_REGION				0	nl	Wilt u bereik "$1" verwijderen?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_DELETE_REGION				0	nn	Er sikker på at du vil sletta området «$1»?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_DELETE_REGION				0	pa-IN	ਕੀ ਤੁਸੀ ਖੇਤਰ"$1" ਨੂੰ ਹਟਾਉਣ ਦੀ ਪੁਸ਼ਟੀ ਕਰਦੇ ਹੋ?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_DELETE_REGION				0	pl	Czy na pewno chcesz usunąć obszar „$1”?				2002-02-02 02:02:02
@@ -1772,7 +1772,7 @@ sfx2	source\doc\doc.src	0	string	STR_DOCTYPENAME_SWGLOB				0	ja	マスタード�
 sfx2	source\doc\doc.src	0	string	STR_DOCTYPENAME_SWGLOB				0	km	ឯកសារ​មេ				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_DOCTYPENAME_SWGLOB				0	ko	마스터 문서				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_DOCTYPENAME_SWGLOB				0	nb	Hoveddokument				2002-02-02 02:02:02
-sfx2	source\doc\doc.src	0	string	STR_DOCTYPENAME_SWGLOB				0	nl	Masterdocument				2002-02-02 02:02:02
+sfx2	source\doc\doc.src	0	string	STR_DOCTYPENAME_SWGLOB				0	nl	Hoofddocument				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_DOCTYPENAME_SWGLOB				0	nn	Hovuddokument				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_DOCTYPENAME_SWGLOB				0	pa-IN	ਮਾਸਟਰ ਦਸਤਾਵੇਜ਼				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_DOCTYPENAME_SWGLOB				0	pl	Dokument główny				2002-02-02 02:02:02
@@ -2012,7 +2012,7 @@ sfx2	source\doc\doc.src	0	string	STR_ERROR_DELETE_TEMPLATE				0	ja	テンプレ�
 sfx2	source\doc\doc.src	0	string	STR_ERROR_DELETE_TEMPLATE				0	km	មិន​អាច​លុប​ពុម្ព "$1" ។				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_ERROR_DELETE_TEMPLATE				0	ko	서식 파일 "$1"을(를) 삭제할 수 없습니다.				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_ERROR_DELETE_TEMPLATE				0	nb	Malen «$1» kan ikke slettes.				2002-02-02 02:02:02
-sfx2	source\doc\doc.src	0	string	STR_ERROR_DELETE_TEMPLATE				0	nl	Het sjabloon "$1" kan niet worden gewist.				2002-02-02 02:02:02
+sfx2	source\doc\doc.src	0	string	STR_ERROR_DELETE_TEMPLATE				0	nl	De sjabloon "$1" kan niet worden verwijderd.				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_ERROR_DELETE_TEMPLATE				0	nn	Malen «$1» kan ikkje slettast.				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_ERROR_DELETE_TEMPLATE				0	pa-IN	ਨਮੂਨਾ "$1" ਹਟਾਇਆ ਨਹੀਂ ਜਾ ਸਕਦਾ ਹੈ।				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_ERROR_DELETE_TEMPLATE				0	pl	Szablonu „$1” nie można usunąć.				2002-02-02 02:02:02
@@ -2132,7 +2132,7 @@ sfx2	source\doc\doc.src	0	string	STR_ERROR_SAVE				0	ja	ドキュメントの移
 sfx2	source\doc\doc.src	0	string	STR_ERROR_SAVE				0	km	កំហុស​ពេល​ថត​ឯកសារ 				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_ERROR_SAVE				0	ko	문서 쓰기에서 오류 발생. 				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_ERROR_SAVE				0	nb	Feil ved lagring av dokumentet 				2002-02-02 02:02:02
-sfx2	source\doc\doc.src	0	string	STR_ERROR_SAVE				0	nl	Fout bij schrijven van document				2002-02-02 02:02:02
+sfx2	source\doc\doc.src	0	string	STR_ERROR_SAVE				0	nl	Fout bij vastleggen van document				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_ERROR_SAVE				0	nn	Feil ved lagring av dokumentet 				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_ERROR_SAVE				0	pa-IN	ਦਸਤਾਵੇਜ਼ ਰਿਕਾਰਡਿੰਗ ਵਿੱਚ ਗਲਤੀ				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_ERROR_SAVE				0	pl	Błąd zapisu dokumentu				2002-02-02 02:02:02
@@ -2172,7 +2172,7 @@ sfx2	source\doc\doc.src	0	string	STR_ERROR_SAVE_TEMPLATE				0	ja	テンプレー
 sfx2	source\doc\doc.src	0	string	STR_ERROR_SAVE_TEMPLATE				0	km	កំហុស​រក្សាទុក​ពុម្ព				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_ERROR_SAVE_TEMPLATE				0	ko	서식 파일 저장 오류 				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_ERROR_SAVE_TEMPLATE				0	nb	Feil ved lagring av mal 				2002-02-02 02:02:02
-sfx2	source\doc\doc.src	0	string	STR_ERROR_SAVE_TEMPLATE				0	nl	Fout bij schrijven van sjabloon				2002-02-02 02:02:02
+sfx2	source\doc\doc.src	0	string	STR_ERROR_SAVE_TEMPLATE				0	nl	Fout bij opslaan van sjabloon				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_ERROR_SAVE_TEMPLATE				0	nn	Feil ved lagring av mal 				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_ERROR_SAVE_TEMPLATE				0	pa-IN	ਨਮੂਨਾ ਸੰਭਾਲਣ ਦੌਰਾਨ ਗਲਤੀ				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_ERROR_SAVE_TEMPLATE				0	pl	Błąd zapisu szablonu				2002-02-02 02:02:02
@@ -2332,7 +2332,7 @@ sfx2	source\doc\doc.src	0	string	STR_FRAMEOBJECT_PROPERTIES				0	ja	プロパテ
 sfx2	source\doc\doc.src	0	string	STR_FRAMEOBJECT_PROPERTIES				0	km	លក្ខណៈ​សម្បត្តិ... 				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_FRAMEOBJECT_PROPERTIES				0	ko	등록 정보(~I)...				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_FRAMEOBJECT_PROPERTIES				0	nb	Egenska~per...				2002-02-02 02:02:02
-sfx2	source\doc\doc.src	0	string	STR_FRAMEOBJECT_PROPERTIES				0	nl	~Eigenschappen ...				2002-02-02 02:02:02
+sfx2	source\doc\doc.src	0	string	STR_FRAMEOBJECT_PROPERTIES				0	nl	E~igenschappen...				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_FRAMEOBJECT_PROPERTIES				0	nn	~Eigenskapar ...				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_FRAMEOBJECT_PROPERTIES				0	pa-IN	ਵਿਸ਼ੇਸ਼ਤਾ(~i)...				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_FRAMEOBJECT_PROPERTIES				0	pl	~Właściwości...				2002-02-02 02:02:02
@@ -2447,7 +2447,7 @@ sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_CONTAINS				0	ja	このドキュ
 sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_CONTAINS				0	km	ឯកសារ​នេះ​មាន ៖​\n\n				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_CONTAINS				0	ko	문서가 포함하는 내용:\n\n				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_CONTAINS				0	nb	Dette dokumentet inneholder:\n\n				2002-02-02 02:02:02
-sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_CONTAINS				0	nl	This document contains:\n\n				2002-02-02 02:02:02
+sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_CONTAINS				0	nl	Dit document bevat:\n\n				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_CONTAINS				0	nn	Dette dokumentet inneheld:\n\n				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_CONTAINS				0	pa-IN	ਇਸ ਦਸਤਾਵੇਜ਼ ਵਿੱਚ ਹਨ:\n\n				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_CONTAINS				0	pl	Ten dokument zawiera:\n\n				2002-02-02 02:02:02
@@ -2479,7 +2479,7 @@ sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_CONTINUE_CREATEPDF				0	ja	PDF �
 sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_CONTINUE_CREATEPDF				0	km	តើ​អ្នក​ចង់​បន្ត​បង្កើត​ឯកសារ PDF ឬ​ទេ ?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_CONTINUE_CREATEPDF				0	ko	PDF 파일을 만드시겠습니까?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_CONTINUE_CREATEPDF				0	nb	Vil du fortsette med å lage en PDF-fil?				2002-02-02 02:02:02
-sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_CONTINUE_CREATEPDF				0	nl	Do you want to continue creating a PDF file?				2002-02-02 02:02:02
+sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_CONTINUE_CREATEPDF				0	nl	Doorgaan met maken van een PDF-bestand?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_CONTINUE_CREATEPDF				0	nn	Vil du halda fram med å laga ei PDF-fil?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_CONTINUE_CREATEPDF				0	pa-IN	ਕੀ ਤੁਸੀਂ PDF ਫਾਇਲ ਬਣਾਉਣ ਨਾਲ ਜਾਰੀ ਰਹਿਣਾ ਚਾਹੁੰਦੇ ਹੋ?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_CONTINUE_CREATEPDF				0	pl	Chcesz kontynuować tworzenie pliku PDF?				2002-02-02 02:02:02
@@ -2511,7 +2511,7 @@ sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_CONTINUE_PRINTING				0	ja	ドキ
 sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_CONTINUE_PRINTING				0	km	តើ​អ្នក​ចង់​បន្ត​បោះពុម្ព​ឯកសារ​ឬ​ទេ ?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_CONTINUE_PRINTING				0	ko	문서를 인쇄하시겠습니까?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_CONTINUE_PRINTING				0	nb	Vil du fortsette med å skrive ut dokumentet?				2002-02-02 02:02:02
-sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_CONTINUE_PRINTING				0	nl	Do you want to continue printing the document?				2002-02-02 02:02:02
+sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_CONTINUE_PRINTING				0	nl	Doorgaan met afdrukken van het document?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_CONTINUE_PRINTING				0	nn	Vil du halda fram med å skriva ut dokumentet?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_CONTINUE_PRINTING				0	pa-IN	ਕੀ ਤੁਸੀਂ ਦਸਤਾਵੇਜ਼ ਨੂੰ ਛਪਾਈ ਲਈ ਜਾਰੀ ਰੱਖਣਾ ਚਾਹੁੰਦੇ ਹੋ?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_CONTINUE_PRINTING				0	pl	Chcesz kontynuować drukowanie tego dokumentu?				2002-02-02 02:02:02
@@ -2543,7 +2543,7 @@ sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_CONTINUE_SAVING				0	ja	ドキ�
 sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_CONTINUE_SAVING				0	km	តើ​អ្នក​ចង់​បន្ត​រក្សាទុក​ឯកសារ​ឬ​ទេ ?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_CONTINUE_SAVING				0	ko	문서를 저장하시겠습니까?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_CONTINUE_SAVING				0	nb	Vil du fortsette med å lagre dokumentet?				2002-02-02 02:02:02
-sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_CONTINUE_SAVING				0	nl	Do you want to continue saving the document?				2002-02-02 02:02:02
+sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_CONTINUE_SAVING				0	nl	Doorgaan met opslaan van het document?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_CONTINUE_SAVING				0	nn	Vil du halda fram med å lagra dokumentet?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_CONTINUE_SAVING				0	pa-IN	ਕੀ ਤੁਸੀਂ ਦਸਤਾਵੇਜ਼ ਨੂੰ ਸੰਭਾਲਣਾ ਜਾਰੀ ਰੱਖਣਾ ਚਾਹੁੰਦੇ ਹੋ?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_CONTINUE_SAVING				0	pl	Chcesz kontynuować zapisywanie tego dokumentu?				2002-02-02 02:02:02
@@ -2575,7 +2575,7 @@ sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_CONTINUE_SIGNING				0	ja	ドキ�
 sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_CONTINUE_SIGNING				0	km	តើ​អ្នក​ចង់​បន្ត​ចុះ​ហត្ថលេខា​ឯកសារ​ឬ​ទេ ?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_CONTINUE_SIGNING				0	ko	문서를 서명하시겠습니까?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_CONTINUE_SIGNING				0	nb	Vil du fortsette med å signere dokumentet?				2002-02-02 02:02:02
-sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_CONTINUE_SIGNING				0	nl	Do you want to continue signing the document?				2002-02-02 02:02:02
+sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_CONTINUE_SIGNING				0	nl	Doorgaan met ondertekenen van het document?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_CONTINUE_SIGNING				0	nn	Vil du halda fram med å signera dokumentet?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_CONTINUE_SIGNING				0	pa-IN	ਕੀ ਤੁਸੀਂ ਦਸਤਾਵੇਜ਼ ਦਸਤਾਖਤਾਂ ਨਾਲ ਜਾਰੀ ਰਹਿਣਾ ਚਾਹੁੰਦੇ ਹੋ?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_CONTINUE_SIGNING				0	pl	Chcesz kontynuować podpisywanie tego dokumentu?				2002-02-02 02:02:02
@@ -2607,7 +2607,7 @@ sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_DOCVERSIONS				0	ja	ドキュメ
 sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_DOCVERSIONS				0	km	កំណែ​ឯកសារ​				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_DOCVERSIONS				0	ko	문서 버전				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_DOCVERSIONS				0	nb	Dokumentversjoner				2002-02-02 02:02:02
-sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_DOCVERSIONS				0	nl	Documentversions				2002-02-02 02:02:02
+sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_DOCVERSIONS				0	nl	Documentversies				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_DOCVERSIONS				0	nn	Dokumentversjonar				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_DOCVERSIONS				0	pa-IN	ਦਸਤਾਵੇਜ਼- ਵਰਜਨ				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_DOCVERSIONS				0	pl	Wersje dokumentu				2002-02-02 02:02:02
@@ -2639,7 +2639,7 @@ sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_FIELDS				0	ja	フィールド		
 sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_FIELDS				0	km	វាល​				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_FIELDS				0	ko	필드				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_FIELDS				0	nb	Felter				2002-02-02 02:02:02
-sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_FIELDS				0	nl	Velden<|>Veldopdrachten				2002-02-02 02:02:02
+sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_FIELDS				0	nl	Velden				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_FIELDS				0	nn	Felt				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_FIELDS				0	pa-IN	ਖੇਤਰ				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_FIELDS				0	pl	Pola				2002-02-02 02:02:02
@@ -2671,7 +2671,7 @@ sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_LINKDATA				0	ja	リンクされ
 sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_LINKDATA				0	km	ទិន្នន័យ​ដែល​បាន​តភ្ជាប់​...				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_LINKDATA				0	ko	연결된 데이터...				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_LINKDATA				0	nb	Lenkede data ...				2002-02-02 02:02:02
-sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_LINKDATA				0	nl	Linked data...				2002-02-02 02:02:02
+sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_LINKDATA				0	nl	Gekoppelde gegevens...				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_LINKDATA				0	nn	Lenkja data ...				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_LINKDATA				0	pa-IN	ਸੰਬੰਧਿਤ ਡਾਟਾ...				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_LINKDATA				0	pl	Dane połączone...				2002-02-02 02:02:02
@@ -2703,7 +2703,7 @@ sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_NOTES				0	ja	コメント				20
 sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_NOTES				0	km	ចំណាំ				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_NOTES				0	ko	메모				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_NOTES				0	nb	Merknader				2002-02-02 02:02:02
-sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_NOTES				0	nl	Aantekeningen				2002-02-02 02:02:02
+sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_NOTES				0	nl	Notities				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_NOTES				0	nn	Merknader				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_NOTES				0	pa-IN	ਸੂਚਨਾ				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_NOTES				0	pl	Notatki				2002-02-02 02:02:02
@@ -2735,7 +2735,7 @@ sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_RECORDCHANGES				0	ja	記録さ�
 sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_RECORDCHANGES				0	km	ភាព​ផ្លាស់​ប្តូរ​ដែល​បាន​កត់​ត្រា				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_RECORDCHANGES				0	ko	기록된 변경 내용				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_RECORDCHANGES				0	nb	Registrerte endringer				2002-02-02 02:02:02
-sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_RECORDCHANGES				0	nl	Recorded changes				2002-02-02 02:02:02
+sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_RECORDCHANGES				0	nl	Vastgelegde wijzigingen				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_RECORDCHANGES				0	nn	Registrerte endringar				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_RECORDCHANGES				0	pa-IN	ਤਬਦੀਲੀਆਂ ਰਿਕਾਰਡ				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_HIDDENINFO_RECORDCHANGES				0	pl	Zarejestrowane zmiany				2002-02-02 02:02:02
@@ -2772,7 +2772,7 @@ sfx2	source\doc\doc.src	0	string	STR_LABEL_FILEFORMAT				0	ja	ファイル書式
 sfx2	source\doc\doc.src	0	string	STR_LABEL_FILEFORMAT				0	km	ទ្រង់ទ្រាយ​ឯកសារ ៖				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_LABEL_FILEFORMAT				0	ko	파일 형식:				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_LABEL_FILEFORMAT				0	nb	Filformat:				2002-02-02 02:02:02
-sfx2	source\doc\doc.src	0	string	STR_LABEL_FILEFORMAT				0	nl	Bestandsformaat:				2002-02-02 02:02:02
+sfx2	source\doc\doc.src	0	string	STR_LABEL_FILEFORMAT				0	nl	Bestandsindeling:				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_LABEL_FILEFORMAT				0	nn	Filformat:				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_LABEL_FILEFORMAT				0	pa-IN	ਫਾਇਲ ਫਾਰਮਿਟ:				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_LABEL_FILEFORMAT				0	pl	Format pliku:				2002-02-02 02:02:02
@@ -3199,7 +3199,7 @@ sfx2	source\doc\doc.src	0	string	STR_QUERY_SAVEOWNFORMAT				0	ja	このドキュ
 sfx2	source\doc\doc.src	0	string	STR_QUERY_SAVEOWNFORMAT				0	km	ឯកសារ​នេះ​អាច​មាន​ទ្រង់​ទ្រាយ ឬ មាតិកា​ដែល​មិន​អាច​ត្រូវ​បាន​រក្សា​ទុក​ក្នុង​ទ្រង់​ទ្រាយ​ឯកសារ %FORMATNAME បច្ចុប្បន្ន ។ /n/n យ៉ាង​ណា​ក៏​ដោយ តើ​អ្នក​ចង់​រក្សា​ទុក​ឯកសារ​នេះ​ក្នុង​ទ្រង់​ទ្រាយ​នេះ​ឬ​ ?/n/n -​ចុច 'បាទ' រក្សា​ទ្រង់ទ្រាយ​ឯកសារ​បច្ចុប្បន្ន ។ /n ចុច 'ទេ' ដើម្បី​ប្រើ​ទ្រង់​ទ្រាយ​ឯកសារ %PRODUCTNAME ថ្មី​បំផុត និង ប្រាកដ​ថា​ទ្រង់​ទ្រាយ​ និង មាតិកា​ទាំង​អស់ គឺ​ត្រូវ​បាន​រក្សា​ទុក​យ៉ាង​ត្រឹមត្រូវ ។				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_QUERY_SAVEOWNFORMAT				0	ko	이 문서에는 현재 %FORMATNAME 파일 형식으로 저장할 수 없는 서식 또는 내용이 포함되어 있을 수 있습니다./n/n문서를 이 형식으로 저장하시겠습니까?/n/n- 현재 파일 형식을 유지하려면 [예]를 클릭하십시오./n- 최신 %PRODUCTNAME 파일 형식을 사용하여 모든 서식과 내용이 올바로 저장되게 하려면 [아니오]를 클릭하십시오.				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_QUERY_SAVEOWNFORMAT				0	nb	Dette dokumentet kan inneholde data som ikke kan lagres i filformatet %FORMATNAME. Vil du likevel lagre dokumentet i dette formatet?\n\n- Trykk «Ja» for å beholde filformatet.\n- Trykk «Nei» for å bruke det nye OpenDocument-filformatet, slik at du kan være sikker på at alt blir lagret riktig.				2002-02-02 02:02:02
-sfx2	source\doc\doc.src	0	string	STR_QUERY_SAVEOWNFORMAT				0	nl	Dit document kan opmaakattributen en gegevens \nbevatten die niet in $(FORMAT)-indeling opgeslagen\nkunnen worden. Wilt u deze wijzigingen in\n$(OWNFORMAT)-indeling opslaan?				2002-02-02 02:02:02
+sfx2	source\doc\doc.src	0	string	STR_QUERY_SAVEOWNFORMAT				0	nl	Dit document kan opmaakattributen en gegevens \nbevatten die niet in $(FORMAT)-indeling opgeslagen\nkunnen worden. Wilt u het document in deze indeling opslaan?\n\nKlik op 'Ja' om in $(FORMAT)-indeling op te slaan\n- Wilt u de opmaakattributen en gegevens behouden, dan klikt u op 'Nee'. Met 'Volgende' slaat u het document in de nieuwste %PRODUCTNAME-indeling op.?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_QUERY_SAVEOWNFORMAT				0	nn	Dette dokumentet kan innehalda formatering eller innhald som ikkje kan lagrast i filformatet %FORMATNAME. Vil du lagra dokumentet i dette formatet likevel?/n/n- Vel «Ja» om du vil lagra i det same formatet./n- Vel «Nei» om du heller vil lagra i det nyaste %PRODUCTNAME-formatet, slik at all formatering og innhald garantert vert lagra på rett måte.				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_QUERY_SAVEOWNFORMAT				0	pa-IN	ਇਹ ਦਸਤਾਵੇਜ਼ ਵਿੱਚ ਫਾਰਮਿਟ ਜਾਂ ਭਾਗ ਹੋ ਸਕਦੇ ਹਨ, ਜੋ ਕਿ %FORMATNAME ਫਾਇਲ ਫਾਰਮਿਟ ਦੇ ਰੂਪ ਵਿੱਚ ਸੰਭਾਲੇ ਨਹੀਂ ਜਾ ਸਕਦੇ ਹਨ। ਕੀ ਤੁਸੀਂ ਦਸਤਾਵੇਜ਼ ਨੂੰ ਇਸ ਫਾਰਮਿਟ ਵਿੱਚ ਸੰਭਾਲਣਾ ਚਾਹੁੰਦੇ ਹੋ?\n\n- ਜੇਕਰ ਤੁਸੀਂ ਦਸਤਾਵੇਜ਼ ਨੂੰ ਇਸੇ ਫਾਰਮਿਟ ਵਿੱਚ ਸੰਭਾਲਣਾ ਚਾਹੁੰਦੇ ਹੋ, ਤਾਂ 'ਹਾਂ' ਨੂੰ ਦਬਾਓ\n - ਫਾਰਮਿਟ ਰੱਖਣ ਲਈ, 'ਨਹੀਂ'। ਅੱਗੇ ਜਾਣ ਨਾਲ ਦਸਤਾਵੇਜ਼ ਨਵੀਨਤਮ %PRODUCTNAME ਫਾਰਮਿਟ ਵਿੱਚ ਸੰਭਾਲਿਆ ਜਾਵੇਗਾ।				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_QUERY_SAVEOWNFORMAT				0	pl	Ten dokument może zawierać elementy formatowania lub treści które nie mogą zostać zapisane w formacie %FORMATNAME. Czy chcesz zapisać dokument w tym formacie mimo to?/n/n- Kliknij 'Tak' aby zapisać plik w formacie %FORMATNAME/n- Kliknij 'Nie' aby użyć formatu OpenDocument i mieć pewność że elementy formatowania i treści zostaną zapisane poprawnie.				2002-02-02 02:02:02
@@ -3479,7 +3479,7 @@ sfx2	source\doc\doc.src	0	string	STR_TEMPL_MOVED				0	ja	テンプレート "$(T
 sfx2	source\doc\doc.src	0	string	STR_TEMPL_MOVED				0	km	រក​មិន​ឃើញ​ពុម្ព "$(TEMPLATE)" នៅ​ទីតាំង​ដើម ។ ពុម្ព​ដែល​មាន​ឈ្មោះ​ដូច​គ្នា​មួយ មាន​រួច​ហើយ​នៅ "$(FOUND)" ។ តើ​គួរ​ប្រើ​ពុម្ព​នេះ​ពេល​ប្រៀប​ធៀប​ក្នុង​អនាគត​ឬ​ទេ ?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_TEMPL_MOVED				0	ko	서식 파일 $(TEMPLATE)을 원래 위치에서 찾지 못했습니다. 이름이 같은 서식 파일이 $(FOUND)에 있습니다. 비교 시 앞으로 이 서식 파일을 사용하시겠습니까?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_TEMPL_MOVED				0	nb	Fant ikke malen «$(TEMPLATE)» der den skulle være. En mal med det samme navnet finnes på «$(FOUND)». Vil du bruke denne malen for sammenligning fra nå av?				2002-02-02 02:02:02
-sfx2	source\doc\doc.src	0	string	STR_TEMPL_MOVED				0	nl	Sjabloon "$(TEMPLATE)" is niet op de oorspronkelijke plaats gevonden. Een sjabloon met dezelfde naam bevindt zich op "$(FOUND)". Wilt u dit sjabloon in de toekomst voor het synchroniseren gebruiken?				2002-02-02 02:02:02
+sfx2	source\doc\doc.src	0	string	STR_TEMPL_MOVED				0	nl	Sjabloon "$(TEMPLATE)" is niet op de oorspronkelijke plaats gevonden. Een sjabloon met dezelfde naam bevindt zich op "$(FOUND)". Wilt u deze sjabloon in de toekomst voor het synchroniseren gebruiken?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_TEMPL_MOVED				0	nn	Fann ikkje malen «$(TEMPLATE)» der han skulle vera. Ein mal med det same namnet finst på «$(FOUND)». Vil du bruka denne malen for samanlikning frå no av?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_TEMPL_MOVED				0	pa-IN	ਨਮੂਨਾ "$(TEMPLATE)" ਇਸ ਦੇ ਅਸਲੀ ਟਿਕਾਣੇ ਤੇ ਨਹੀਂ ਲੱਭਿਆ ਹੈ। ਇਸ ਨਾਂ ਨਾਲ ਨਮੂਨਾ "$(FOUND)" ਤੇ ਲੱਭਿਆ ਹੈ। ਕੀ ਇਸ ਨਮੂਨੇ ਨੂੰ ਭਵਿੱਖ ਵਿੱਚ ਤੁਲਨਾ ਕਰਨ ਦੌਰਾਨ ਵਰਤਿਆ ਜਾਵੇ?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_TEMPL_MOVED				0	pl	Nie znaleziono szablonu „$(TEMPLATE)” w jego pierwotnym miejscu. Szablon o tej samej nazwie istnieje w „$(FOUND)”. Czy w przyszłości użyć tego szablonu przy porównywaniu?				2002-02-02 02:02:02
@@ -3519,7 +3519,7 @@ sfx2	source\doc\doc.src	0	string	STR_TEMPL_RESET				0	ja	テンプレート"$(TE
 sfx2	source\doc\doc.src	0	string	STR_TEMPL_RESET				0	km	ពុម្ព "$(TEMPLATE)" មិន​ត្រូវ​បាន​រកឃើញ ។ តើ​គួរ​ស្វែងរក​ពុម្ព នៅ​ពេល​បើក​ឯកសារ​លើក​ក្រោយ​ឬ​ទេ ?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_TEMPL_RESET				0	ko	서식 파일 $(TEMPLATE)을 찾지 못했습니다. 다음 번에 문서가 열렸을 때 이 서식 파일을 계속 찾으시겠습니까?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_TEMPL_RESET				0	nb	Fant ikke malen «$(TEMPLATE)». Vil du at malen skal søkes etter neste gang dokumentet åpnes?				2002-02-02 02:02:02
-sfx2	source\doc\doc.src	0	string	STR_TEMPL_RESET				0	nl	Het sjabloon "$(TEMPLATE)" is niet gevonden. Wilt u dat er ook in de toekomst naar wordt gezocht?				2002-02-02 02:02:02
+sfx2	source\doc\doc.src	0	string	STR_TEMPL_RESET				0	nl	De sjabloon "$(TEMPLATE)" is niet gevonden. Wilt u dat er ook in de toekomst naar wordt gezocht?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_TEMPL_RESET				0	nn	Fann ikkje malen «$(TEMPLATE)». Vil du at malen skal søkjast etter neste gong dokumentet blir opna?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_TEMPL_RESET				0	pa-IN	ਨਮੂਨਾ "$(TEMPLATE)" ਲੱਭਿਆ ਨਹੀਂ ਜਾ ਸਕਿਆ ਹੈ। ਕੀ ਨਮੂਨੇ ਨੂੰ ਦਸਤਾਵੇਜ਼ ਦੇ ਅਗਲੀ ਵਾਰ ਖੋਲਣ ਤੇ ਖੋਜਿਆ ਜਾਵੇ?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_TEMPL_RESET				0	pl	Nie znaleziono szablonu „$(TEMPLATE)”. Czy szukać go przy następnym otwieraniu dokumentu?				2002-02-02 02:02:02
@@ -3599,7 +3599,7 @@ sfx2	source\doc\doc.src	0	string	STR_WIZARD				0	ja	ウィザード				2002-02-0
 sfx2	source\doc\doc.src	0	string	STR_WIZARD				0	km	 អ្នក​ជំនួយការ				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_WIZARD				0	ko	자동 파일럿				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_WIZARD				0	nb	 Veiviser				2002-02-02 02:02:02
-sfx2	source\doc\doc.src	0	string	STR_WIZARD				0	nl	AutoPiloot				2002-02-02 02:02:02
+sfx2	source\doc\doc.src	0	string	STR_WIZARD				0	nl	Assistent				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_WIZARD				0	nn	Vegvisar				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_WIZARD				0	pa-IN	 ਸਵੈ-ਪਾਇਲਟ				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_WIZARD				0	pl	AutoPilot				2002-02-02 02:02:02
@@ -3639,7 +3639,7 @@ sfx2	source\doc\doc.src	0	warningbox	MSG_WARNING_BACKUP				0	ja	バックアッ�
 sfx2	source\doc\doc.src	0	warningbox	MSG_WARNING_BACKUP				0	km	មិន​អាច​​​បង្កើត​​​ច្បាប់​​ចម្លង​ព័ត៌មាន​បម្រុង ។				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	warningbox	MSG_WARNING_BACKUP				0	ko	백업 복사를 하지 못했습니다.				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	warningbox	MSG_WARNING_BACKUP				0	nb	Klarte ikke lage sikkerhetskopi.				2002-02-02 02:02:02
-sfx2	source\doc\doc.src	0	warningbox	MSG_WARNING_BACKUP				0	nl	Reservekopie kan niet worden aangemaakt.				2002-02-02 02:02:02
+sfx2	source\doc\doc.src	0	warningbox	MSG_WARNING_BACKUP				0	nl	Reservekopie kan niet worden gemaakt.				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	warningbox	MSG_WARNING_BACKUP				0	nn	Klarte ikkje laga sikringskopi.				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	warningbox	MSG_WARNING_BACKUP				0	pa-IN	ਬੈਕਅੱਪ ਨਕਲ ਨਹੀਂ ਬਣਾਈ ਜਾ ਸਕੀ।				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	warningbox	MSG_WARNING_BACKUP				0	pl	Nie można wykonać kopii zapasowej.				2002-02-02 02:02:02
@@ -3959,7 +3959,7 @@ sfx2	source\doc\doctempl.src	0	itemlist	TEMPLATE_LONG_NAMES_ARY	1			0	ja	自分�
 sfx2	source\doc\doctempl.src	0	itemlist	TEMPLATE_LONG_NAMES_ARY	1			0	km	ពុម្ព​របស់​ខ្ញុំ				2002-02-02 02:02:02
 sfx2	source\doc\doctempl.src	0	itemlist	TEMPLATE_LONG_NAMES_ARY	1			0	ko	내 서식 파일				2002-02-02 02:02:02
 sfx2	source\doc\doctempl.src	0	itemlist	TEMPLATE_LONG_NAMES_ARY	1			0	nb	Mine maler				2002-02-02 02:02:02
-sfx2	source\doc\doctempl.src	0	itemlist	TEMPLATE_LONG_NAMES_ARY	1			0	nl	Standaard				2002-02-02 02:02:02
+sfx2	source\doc\doctempl.src	0	itemlist	TEMPLATE_LONG_NAMES_ARY	1			0	nl	Mijn sjablonen				2002-02-02 02:02:02
 sfx2	source\doc\doctempl.src	0	itemlist	TEMPLATE_LONG_NAMES_ARY	1			0	nn	Mine malar				2002-02-02 02:02:02
 sfx2	source\doc\doctempl.src	0	itemlist	TEMPLATE_LONG_NAMES_ARY	1			0	pa-IN	ਮੇਰੇ ਨਮੂਨੇ				2002-02-02 02:02:02
 sfx2	source\doc\doctempl.src	0	itemlist	TEMPLATE_LONG_NAMES_ARY	1			0	pl	Domyślnie				2002-02-02 02:02:02
@@ -4759,7 +4759,7 @@ sfx2	source\doc\docvor.src	0	menuitem	DLG_ORGANIZE.BTN_EDIT	ID_RESCAN	HID_ORGANI
 sfx2	source\doc\docvor.src	0	menuitem	DLG_ORGANIZE.BTN_EDIT	ID_RESCAN	HID_ORGANIZE_RESCAN		0	km	ធ្វើ​​ឲ្យ​​ទាន់សម័យ				2002-02-02 02:02:02
 sfx2	source\doc\docvor.src	0	menuitem	DLG_ORGANIZE.BTN_EDIT	ID_RESCAN	HID_ORGANIZE_RESCAN		0	ko	업데이트				2002-02-02 02:02:02
 sfx2	source\doc\docvor.src	0	menuitem	DLG_ORGANIZE.BTN_EDIT	ID_RESCAN	HID_ORGANIZE_RESCAN		0	nb	Oppdater				2002-02-02 02:02:02
-sfx2	source\doc\docvor.src	0	menuitem	DLG_ORGANIZE.BTN_EDIT	ID_RESCAN	HID_ORGANIZE_RESCAN		0	nl	~Bijwerken				2002-02-02 02:02:02
+sfx2	source\doc\docvor.src	0	menuitem	DLG_ORGANIZE.BTN_EDIT	ID_RESCAN	HID_ORGANIZE_RESCAN		0	nl	Bijwerken				2002-02-02 02:02:02
 sfx2	source\doc\docvor.src	0	menuitem	DLG_ORGANIZE.BTN_EDIT	ID_RESCAN	HID_ORGANIZE_RESCAN		0	nn	Oppdater				2002-02-02 02:02:02
 sfx2	source\doc\docvor.src	0	menuitem	DLG_ORGANIZE.BTN_EDIT	ID_RESCAN	HID_ORGANIZE_RESCAN		0	pa-IN	ਨਵੀਨੀਕਰਨ				2002-02-02 02:02:02
 sfx2	source\doc\docvor.src	0	menuitem	DLG_ORGANIZE.BTN_EDIT	ID_RESCAN	HID_ORGANIZE_RESCAN		0	pl	Aktualizuj				2002-02-02 02:02:02
@@ -5834,7 +5834,7 @@ sfx2	source\doc\secmacrowarnings.src	0	cancelbutton	RID_XMLSECDLG_MACROWARN	PB_D
 sfx2	source\doc\secmacrowarnings.src	0	cancelbutton	RID_XMLSECDLG_MACROWARN	PB_DISABLE			0	km	ធ្វើ​ឲ្យ​ម៉ាក្រូ​ប្រើ​លែង​បាន				2002-02-02 02:02:02
 sfx2	source\doc\secmacrowarnings.src	0	cancelbutton	RID_XMLSECDLG_MACROWARN	PB_DISABLE			0	ko	매크로 비활성화				2002-02-02 02:02:02
 sfx2	source\doc\secmacrowarnings.src	0	cancelbutton	RID_XMLSECDLG_MACROWARN	PB_DISABLE			0	nb	Slå av makroer				2002-02-02 02:02:02
-sfx2	source\doc\secmacrowarnings.src	0	cancelbutton	RID_XMLSECDLG_MACROWARN	PB_DISABLE			0	nl	Disable Macros				2002-02-02 02:02:02
+sfx2	source\doc\secmacrowarnings.src	0	cancelbutton	RID_XMLSECDLG_MACROWARN	PB_DISABLE			0	nl	Macro's uitschakelen				2002-02-02 02:02:02
 sfx2	source\doc\secmacrowarnings.src	0	cancelbutton	RID_XMLSECDLG_MACROWARN	PB_DISABLE			0	nn	Slå av makroar				2002-02-02 02:02:02
 sfx2	source\doc\secmacrowarnings.src	0	cancelbutton	RID_XMLSECDLG_MACROWARN	PB_DISABLE			0	pa-IN	ਮਾਇਕਰੋ ਆਯੋਗ				2002-02-02 02:02:02
 sfx2	source\doc\secmacrowarnings.src	0	cancelbutton	RID_XMLSECDLG_MACROWARN	PB_DISABLE			0	pl	Wyłącz makra				2002-02-02 02:02:02
@@ -5866,7 +5866,7 @@ sfx2	source\doc\secmacrowarnings.src	0	checkbox	RID_XMLSECDLG_MACROWARN	CB_ALWAY
 sfx2	source\doc\secmacrowarnings.src	0	checkbox	RID_XMLSECDLG_MACROWARN	CB_ALWAYSTRUST			0	km	តែងតែ​ទុក​ចិត្ត​ម៉ាក្រូ ពី​ប្រភព​នេះ				2002-02-02 02:02:02
 sfx2	source\doc\secmacrowarnings.src	0	checkbox	RID_XMLSECDLG_MACROWARN	CB_ALWAYSTRUST			0	ko	이 원본의 매크로는 항상 신뢰				2002-02-02 02:02:02
 sfx2	source\doc\secmacrowarnings.src	0	checkbox	RID_XMLSECDLG_MACROWARN	CB_ALWAYSTRUST			0	nb	Stol alltid på makroer fra denne kilden				2002-02-02 02:02:02
-sfx2	source\doc\secmacrowarnings.src	0	checkbox	RID_XMLSECDLG_MACROWARN	CB_ALWAYSTRUST			0	nl	Always trust macros from this source				2002-02-02 02:02:02
+sfx2	source\doc\secmacrowarnings.src	0	checkbox	RID_XMLSECDLG_MACROWARN	CB_ALWAYSTRUST			0	nl	Macro's die afkomstig zijn van deze bron, altijd vertrouwen				2002-02-02 02:02:02
 sfx2	source\doc\secmacrowarnings.src	0	checkbox	RID_XMLSECDLG_MACROWARN	CB_ALWAYSTRUST			0	nn	Stol alltid på makroar frå denne kjelda				2002-02-02 02:02:02
 sfx2	source\doc\secmacrowarnings.src	0	checkbox	RID_XMLSECDLG_MACROWARN	CB_ALWAYSTRUST			0	pa-IN	ਇਸ ਸਰੋਤ ਤੋਂ ਮਾਇਕਰੋ ਲਈ ਹਮੇਸ਼ਾ ਭਰੋਸੇ ਰੱਖੋ				2002-02-02 02:02:02
 sfx2	source\doc\secmacrowarnings.src	0	checkbox	RID_XMLSECDLG_MACROWARN	CB_ALWAYSTRUST			0	pl	Zawsze uruchamiaj makra z tego źródła				2002-02-02 02:02:02
@@ -5898,7 +5898,7 @@ sfx2	source\doc\secmacrowarnings.src	0	fixedtext	RID_XMLSECDLG_MACROWARN	FI_DESC
 sfx2	source\doc\secmacrowarnings.src	0	fixedtext	RID_XMLSECDLG_MACROWARN	FI_DESCR1A			0	km	ឯកសារ​នេះ​មាន​ម៉ាក្រូ​ឯកសារ ដែល​បាន​ចុះ​ហត្ថលេខា​ដោយ ៖				2002-02-02 02:02:02
 sfx2	source\doc\secmacrowarnings.src	0	fixedtext	RID_XMLSECDLG_MACROWARN	FI_DESCR1A			0	ko	문서에 다음 서명자가 서명한 문서 매크로가 포함되어 있습니다.				2002-02-02 02:02:02
 sfx2	source\doc\secmacrowarnings.src	0	fixedtext	RID_XMLSECDLG_MACROWARN	FI_DESCR1A			0	nb	Dokumentet inneholder dokumentmakroer som er signerte av:				2002-02-02 02:02:02
-sfx2	source\doc\secmacrowarnings.src	0	fixedtext	RID_XMLSECDLG_MACROWARN	FI_DESCR1A			0	nl	The document contains document macros signed by:				2002-02-02 02:02:02
+sfx2	source\doc\secmacrowarnings.src	0	fixedtext	RID_XMLSECDLG_MACROWARN	FI_DESCR1A			0	nl	Het document bevat documentmacro's ondertekend door:				2002-02-02 02:02:02
 sfx2	source\doc\secmacrowarnings.src	0	fixedtext	RID_XMLSECDLG_MACROWARN	FI_DESCR1A			0	nn	Dokumentet inneheld dokumentmakroar som er signerte av:				2002-02-02 02:02:02
 sfx2	source\doc\secmacrowarnings.src	0	fixedtext	RID_XMLSECDLG_MACROWARN	FI_DESCR1A			0	pa-IN	ਦਸਤਾਵੇਜ਼ ਵਿੱਚ ਸ਼ਾਮਿਲ ਮਾਇਕਰੋ ਦਸਤਖਤੀ ਹਨ:				2002-02-02 02:02:02
 sfx2	source\doc\secmacrowarnings.src	0	fixedtext	RID_XMLSECDLG_MACROWARN	FI_DESCR1A			0	pl	Dokument zawiera makro podpisane przez:				2002-02-02 02:02:02
@@ -5930,7 +5930,7 @@ sfx2	source\doc\secmacrowarnings.src	0	fixedtext	RID_XMLSECDLG_MACROWARN	FI_DESC
 sfx2	source\doc\secmacrowarnings.src	0	fixedtext	RID_XMLSECDLG_MACROWARN	FI_DESCR1B			0	km	ឯកសារ​មាន​ម៉ាក្រូ​ឯកសារ ។				2002-02-02 02:02:02
 sfx2	source\doc\secmacrowarnings.src	0	fixedtext	RID_XMLSECDLG_MACROWARN	FI_DESCR1B			0	ko	문서에 문서 매크로가 포함되어 있습니다.				2002-02-02 02:02:02
 sfx2	source\doc\secmacrowarnings.src	0	fixedtext	RID_XMLSECDLG_MACROWARN	FI_DESCR1B			0	nb	Dokumentet inneholder dokumentmakroer.				2002-02-02 02:02:02
-sfx2	source\doc\secmacrowarnings.src	0	fixedtext	RID_XMLSECDLG_MACROWARN	FI_DESCR1B			0	nl	The document contains document macros.				2002-02-02 02:02:02
+sfx2	source\doc\secmacrowarnings.src	0	fixedtext	RID_XMLSECDLG_MACROWARN	FI_DESCR1B			0	nl	Het document bevat documentmacro's.				2002-02-02 02:02:02
 sfx2	source\doc\secmacrowarnings.src	0	fixedtext	RID_XMLSECDLG_MACROWARN	FI_DESCR1B			0	nn	Dokumentet inneheld dokumentmakroar.				2002-02-02 02:02:02
 sfx2	source\doc\secmacrowarnings.src	0	fixedtext	RID_XMLSECDLG_MACROWARN	FI_DESCR1B			0	pa-IN	ਦਸਤਾਵੇਜ਼ ਵਿੱਚ ਦਸਤਾਵੇਜ਼ੀ ਮਾਇਕਰੋ ਹਨ।				2002-02-02 02:02:02
 sfx2	source\doc\secmacrowarnings.src	0	fixedtext	RID_XMLSECDLG_MACROWARN	FI_DESCR1B			0	pl	Dokument zawiera makra.				2002-02-02 02:02:02
@@ -5962,7 +5962,7 @@ sfx2	source\doc\secmacrowarnings.src	0	fixedtext	RID_XMLSECDLG_MACROWARN	FI_DESC
 sfx2	source\doc\secmacrowarnings.src	0	fixedtext	RID_XMLSECDLG_MACROWARN	FI_DESCR2			0	km	ម៉ាក្រូ​អាច​មាន​វីរុស ។ ធ្វើ​ឲ្យ​ម៉ាក្រូ​ប្រើ​លែង​បាន​ ចំពោះ​ឯកសារ​មួយ គឺ​តែង​តែ​មាន​សុវត្ថិភាព ។ ប្រសិន​បើ​អ្នក​ធ្វើ​ឲ្យ​ម៉ាក្រូ​ប្រើ​លែង​បាន អ្នក​អាច​បាត់​បង់​មុខងារ​ ដែល​បាន​ផ្តល់​ដោយ​ម៉ាក្រូ​របស់​ឯកសារ ។				2002-02-02 02:02:02
 sfx2	source\doc\secmacrowarnings.src	0	fixedtext	RID_XMLSECDLG_MACROWARN	FI_DESCR2			0	ko	매크로에 바이러스가 있을 수 있습니다. 문서 매크로를 비활성화하면 바이러스에 대해 염려할 필요가 없습니다. 그러나 매크로를 비활성화하면 문서 매크로에서 제공하는 기능을 사용할 수 없습니다.				2002-02-02 02:02:02
 sfx2	source\doc\secmacrowarnings.src	0	fixedtext	RID_XMLSECDLG_MACROWARN	FI_DESCR2			0	nb	Makroer kan inneholde virus. Det er alltid trygt å slå av makroer i et dokument. Dersom du slår av makroer, kan du dog miste enkelte funksjoner som makroene tilbyr.				2002-02-02 02:02:02
-sfx2	source\doc\secmacrowarnings.src	0	fixedtext	RID_XMLSECDLG_MACROWARN	FI_DESCR2			0	nl	Macros may contain viruses. Disabling macros for a document is always safe. If you disable macros you may lose functionality provided by the document macros.				2002-02-02 02:02:02
+sfx2	source\doc\secmacrowarnings.src	0	fixedtext	RID_XMLSECDLG_MACROWARN	FI_DESCR2			0	nl	Macro's kunnen virussen bevatten. Het is altijd veilig macro's voor een document uit te schakelen. Als u macro's uitschakelt, kunt u functionaliteit verliezen die door de documentmacro's geleverd wordt.				2002-02-02 02:02:02
 sfx2	source\doc\secmacrowarnings.src	0	fixedtext	RID_XMLSECDLG_MACROWARN	FI_DESCR2			0	nn	Makroar kan innehalda virus. Det er alltid trygt å slå av makroar i eit dokument. Dersom du slår av makroar, kan du mista enkelte funksjonar som makroane tilbyr.				2002-02-02 02:02:02
 sfx2	source\doc\secmacrowarnings.src	0	fixedtext	RID_XMLSECDLG_MACROWARN	FI_DESCR2			0	pa-IN	ਮਾਇਕਰੋ ਵਿੱਚ ਵਾਇਰਸ ਵੀ ਹੋ ਸਕਦਾ ਹੈ। ਇੱਕ ਦਸਤਾਵੇਜ਼ ਲਈ ਮਾਇਕਰੋ ਆਯੋਗ ਕਰਨਾ ਹਮੇਸ਼ਾ ਸੁਰੱਖਿਅਤ ਹੈ। ਜੇਕਰ ਤੁਸੀਂ ਮਾਇਕਰੋ ਆਯੋਗ ਕੀਤਾ ਤਾਂ ਤੁਸੀਂ ਦਸਤਾਵੇਜ਼ ਮਾਇਕਰੋ ਰਾਹੀਂ ਦਿੱਤੇ ਫੰਕਸ਼ਨ ਤੋਂ ਵਾਂਝੇ ਹੋ ਜਾਵੋਗੇ।				2002-02-02 02:02:02
 sfx2	source\doc\secmacrowarnings.src	0	fixedtext	RID_XMLSECDLG_MACROWARN	FI_DESCR2			0	pl	Makra mogą zawierać wirusy. Dokumenty z wyłączonymi makrami są bezpieczne. Dokument z wyłączonymi makrami może utracić część swojej użyteczności zapewnianej przez makra.				2002-02-02 02:02:02
@@ -5994,7 +5994,7 @@ sfx2	source\doc\secmacrowarnings.src	0	modaldialog	RID_XMLSECDLG_MACROWARN		HID_
 sfx2	source\doc\secmacrowarnings.src	0	modaldialog	RID_XMLSECDLG_MACROWARN		HID_XMLSECDLG_MACROWARN		0	km	%PRODUCTNAME - ការ​ព្រមាន​អំពី​សុវត្ថិភាព				2002-02-02 02:02:02
 sfx2	source\doc\secmacrowarnings.src	0	modaldialog	RID_XMLSECDLG_MACROWARN		HID_XMLSECDLG_MACROWARN		0	ko	%PRODUCTNAME - 보안 경고				2002-02-02 02:02:02
 sfx2	source\doc\secmacrowarnings.src	0	modaldialog	RID_XMLSECDLG_MACROWARN		HID_XMLSECDLG_MACROWARN		0	nb	%PRODUCTNAME - Sikkerhetsadvarsel				2002-02-02 02:02:02
-sfx2	source\doc\secmacrowarnings.src	0	modaldialog	RID_XMLSECDLG_MACROWARN		HID_XMLSECDLG_MACROWARN		0	nl	%PRODUCTNAME - Security Warning				2002-02-02 02:02:02
+sfx2	source\doc\secmacrowarnings.src	0	modaldialog	RID_XMLSECDLG_MACROWARN		HID_XMLSECDLG_MACROWARN		0	nl	%PRODUCTNAME - Beveiligingswaarschuwing				2002-02-02 02:02:02
 sfx2	source\doc\secmacrowarnings.src	0	modaldialog	RID_XMLSECDLG_MACROWARN		HID_XMLSECDLG_MACROWARN		0	nn	%PRODUCTNAME - Tryggleiksåtvaring				2002-02-02 02:02:02
 sfx2	source\doc\secmacrowarnings.src	0	modaldialog	RID_XMLSECDLG_MACROWARN		HID_XMLSECDLG_MACROWARN		0	pa-IN	%PRODUCTNAME - ਸੁਰੱਖਿਆ ਚੇਤਾਵਨੀ				2002-02-02 02:02:02
 sfx2	source\doc\secmacrowarnings.src	0	modaldialog	RID_XMLSECDLG_MACROWARN		HID_XMLSECDLG_MACROWARN		0	pl	Ostrzeżenie dotyczące bezpieczeństwa				2002-02-02 02:02:02
@@ -6026,7 +6026,7 @@ sfx2	source\doc\secmacrowarnings.src	0	okbutton	RID_XMLSECDLG_MACROWARN	PB_ENABL
 sfx2	source\doc\secmacrowarnings.src	0	okbutton	RID_XMLSECDLG_MACROWARN	PB_ENABLE			0	km	ធ្វើ​ឲ្យ​ម៉ាក្រូ​ប្រើ​បាន				2002-02-02 02:02:02
 sfx2	source\doc\secmacrowarnings.src	0	okbutton	RID_XMLSECDLG_MACROWARN	PB_ENABLE			0	ko	매크로 활성화				2002-02-02 02:02:02
 sfx2	source\doc\secmacrowarnings.src	0	okbutton	RID_XMLSECDLG_MACROWARN	PB_ENABLE			0	nb	Slå på makroer				2002-02-02 02:02:02
-sfx2	source\doc\secmacrowarnings.src	0	okbutton	RID_XMLSECDLG_MACROWARN	PB_ENABLE			0	nl	Enable Macros				2002-02-02 02:02:02
+sfx2	source\doc\secmacrowarnings.src	0	okbutton	RID_XMLSECDLG_MACROWARN	PB_ENABLE			0	nl	Macro's inschakelen				2002-02-02 02:02:02
 sfx2	source\doc\secmacrowarnings.src	0	okbutton	RID_XMLSECDLG_MACROWARN	PB_ENABLE			0	nn	Slå på makroar				2002-02-02 02:02:02
 sfx2	source\doc\secmacrowarnings.src	0	okbutton	RID_XMLSECDLG_MACROWARN	PB_ENABLE			0	pa-IN	ਮਾਇਕਰੋ ਯੋਗ				2002-02-02 02:02:02
 sfx2	source\doc\secmacrowarnings.src	0	okbutton	RID_XMLSECDLG_MACROWARN	PB_ENABLE			0	pl	Włącz makra				2002-02-02 02:02:02
@@ -6076,7 +6076,7 @@ sfx2	source\doc\secmacrowarnings.src	0	pushbutton	RID_XMLSECDLG_MACROWARN	PB_VIE
 sfx2	source\doc\secmacrowarnings.src	0	pushbutton	RID_XMLSECDLG_MACROWARN	PB_VIEWSIGNS			0	km	មើល​ហត្ថលេខា​...​				2002-02-02 02:02:02
 sfx2	source\doc\secmacrowarnings.src	0	pushbutton	RID_XMLSECDLG_MACROWARN	PB_VIEWSIGNS			0	ko	서명 보기...				2002-02-02 02:02:02
 sfx2	source\doc\secmacrowarnings.src	0	pushbutton	RID_XMLSECDLG_MACROWARN	PB_VIEWSIGNS			0	nb	Vis signaturer ...				2002-02-02 02:02:02
-sfx2	source\doc\secmacrowarnings.src	0	pushbutton	RID_XMLSECDLG_MACROWARN	PB_VIEWSIGNS			0	nl	View Signatures...				2002-02-02 02:02:02
+sfx2	source\doc\secmacrowarnings.src	0	pushbutton	RID_XMLSECDLG_MACROWARN	PB_VIEWSIGNS			0	nl	Handtekeningen bekijken...				2002-02-02 02:02:02
 sfx2	source\doc\secmacrowarnings.src	0	pushbutton	RID_XMLSECDLG_MACROWARN	PB_VIEWSIGNS			0	nn	Vis signaturar ...				2002-02-02 02:02:02
 sfx2	source\doc\secmacrowarnings.src	0	pushbutton	RID_XMLSECDLG_MACROWARN	PB_VIEWSIGNS			0	pa-IN	ਦਸਤਖਤ ਵੇਖੋ...				2002-02-02 02:02:02
 sfx2	source\doc\secmacrowarnings.src	0	pushbutton	RID_XMLSECDLG_MACROWARN	PB_VIEWSIGNS			0	pl	Pokaż podpisy...				2002-02-02 02:02:02
@@ -6108,7 +6108,7 @@ sfx2	source\doc\secmacrowarnings.src	0	warningbox	MSG_WARNING_MACRO_ISDISABLED		
 sfx2	source\doc\secmacrowarnings.src	0	warningbox	MSG_WARNING_MACRO_ISDISABLED				0	km	ឯកសារ​នេះ​មាន​ម៉ាក្រូ ។​\nការ​ប្រតិបត្តិ​ម៉ាក្រូ​នេះ ត្រូវ​បាន​ធ្វើ​ឲ្យ​ប្រើ​លែង​បាន ដោយ​សារ​តែ​ការ​កំណត់​សុវត្ថិភាព​ម៉ាក្រូ​បច្ចុប្បន្ន ។ ដូច្នេះ​មុខងារ​ខ្លះប្រហែល​ជា​មិន​មាន​ឡើយ ។				2002-02-02 02:02:02
 sfx2	source\doc\secmacrowarnings.src	0	warningbox	MSG_WARNING_MACRO_ISDISABLED				0	ko	이 문서에는 매크로가 포함되어 있습니다.\n현재 매크로 보안 설정 때문에 이 매크로를 사용할 수 없습니다. 이로 인해 일부 기능을 사용하지 못할 수 있습니다.			%PRODUCTNAME	2002-02-02 02:02:02
 sfx2	source\doc\secmacrowarnings.src	0	warningbox	MSG_WARNING_MACRO_ISDISABLED				0	nb	Dette dokumentet inneholder makroer.\nMakroene blir ikke kjørt på grunn av sikkerhetsinnstillingene. Derfor kan det hende at enkelte funksjoner ikke er tilgjengelige i dokumentet.				2002-02-02 02:02:02
-sfx2	source\doc\secmacrowarnings.src	0	warningbox	MSG_WARNING_MACRO_ISDISABLED				0	nl	This document contains macros.\nExecution of this macros is disabled due to the current macro security setting. Therefore, some functionality may not be available.			%PRODUCTNAME	2002-02-02 02:02:02
+sfx2	source\doc\secmacrowarnings.src	0	warningbox	MSG_WARNING_MACRO_ISDISABLED				0	nl	Dit document bevat macro's.\nDeze macro's worden niet uitgevoerd vanwege de huidige beveiligingsinstelling voor macro's. Het kan zijn dat bepaalde functies hierdoor niet beschikbaar zijn.			%PRODUCTNAME	2002-02-02 02:02:02
 sfx2	source\doc\secmacrowarnings.src	0	warningbox	MSG_WARNING_MACRO_ISDISABLED				0	nn	Dette dokumentet inneheld makroar.\nMakroane vert ikkje køyrde på grunn av tryggleiksinnstillingane. Difor kan det henda at enkelte funksjonar manglar.				2002-02-02 02:02:02
 sfx2	source\doc\secmacrowarnings.src	0	warningbox	MSG_WARNING_MACRO_ISDISABLED				0	pa-IN	ਇਸ ਦਸਤਾਵੇਜ਼ ਵਿੱਚ ਮਾਈਕਰੋ ਹਨ।\nਇਹਨਾਂ ਮਾਈਕਰੋ ਤੇ ਮੌਜੂਦਾ ਸੁਰੱਖਿਆ ਨੀਤੀ ਕਰਕੇ ਪਾਬੰਦੀ ਹੈ। ਇਸਕਰਕੇ, ਕੁਝ ਉਪਲੱਬਧ ਫੰਕਸ਼ਨ ਸ਼ਾਇਦ ਕੰਮ ਨਾ ਕਰਨ।				2002-02-02 02:02:02
 sfx2	source\doc\secmacrowarnings.src	0	warningbox	MSG_WARNING_MACRO_ISDISABLED				0	pl	Ten dokument zawiera makra.\nAktualne ustawienia bezpieczeństwa uniemożliwiają uruchamianie makr tego dokumentu. Dokument z wyłączonymi makrami może utracić część swojej użyteczności.				2002-02-02 02:02:02
