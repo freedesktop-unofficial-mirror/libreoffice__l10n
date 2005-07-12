@@ -11,8 +11,8 @@
 ##
 ##   $RCSfile: localize.sdf,v $
 ##
-##   $Revision: 1.7 $
-##   last change: $Author: rt $ $Date: 2005-06-24 12:51:39 $
+##   $Revision: 1.8 $
+##   last change: $Author: kz $ $Date: 2005-07-12 12:32:28 $
 ##
 ##   The Contents of this file are made available subject to the terms of
 ##   either of the following licenses
@@ -327,7 +327,7 @@ svtools	source\filter.vcl\filter\dlgepng.src	0	checkbox	DLG_EXPORT_EPNG	CBX_INTE
 svtools	source\filter.vcl\filter\dlgepng.src	0	checkbox	DLG_EXPORT_EPNG	CBX_INTERLACED			80	km	ត្របាញ់ 				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgepng.src	0	checkbox	DLG_EXPORT_EPNG	CBX_INTERLACED			80	ko	인터레이스(~I)				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgepng.src	0	checkbox	DLG_EXPORT_EPNG	CBX_INTERLACED			80	nb	~Flettet				2002-02-02 02:02:02
-svtools	source\filter.vcl\filter\dlgepng.src	0	checkbox	DLG_EXPORT_EPNG	CBX_INTERLACED			80	nl	~Geïnterlinieerd				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\dlgepng.src	0	checkbox	DLG_EXPORT_EPNG	CBX_INTERLACED			80	nl	~Interlaced				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgepng.src	0	checkbox	DLG_EXPORT_EPNG	CBX_INTERLACED			80	nn	~Fletta				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgepng.src	0	checkbox	DLG_EXPORT_EPNG	CBX_INTERLACED			80	pa-IN	ਇੰਟਰਲੇਸਡ(~I)				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgepng.src	0	checkbox	DLG_EXPORT_EPNG	CBX_INTERLACED			80	pl	~Z przeplotem				2002-02-02 02:02:02
@@ -391,7 +391,7 @@ svtools	source\filter.vcl\filter\dlgepng.src	0	fixedtext	DLG_EXPORT_EPNG	FI_COMP
 svtools	source\filter.vcl\filter\dlgepng.src	0	fixedtext	DLG_EXPORT_EPNG	FI_COMPRESSION			80	km	បង្ហាប់ ០..៩ 				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgepng.src	0	fixedtext	DLG_EXPORT_EPNG	FI_COMPRESSION			80	ko	압축 0..9(~C)				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgepng.src	0	fixedtext	DLG_EXPORT_EPNG	FI_COMPRESSION			80	nb	~Komprimering 0..9				2002-02-02 02:02:02
-svtools	source\filter.vcl\filter\dlgepng.src	0	fixedtext	DLG_EXPORT_EPNG	FI_COMPRESSION			80	nl	~Compression 0..9				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\dlgepng.src	0	fixedtext	DLG_EXPORT_EPNG	FI_COMPRESSION			80	nl	~Compressie 0..9				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgepng.src	0	fixedtext	DLG_EXPORT_EPNG	FI_COMPRESSION			80	nn	~Komprimering 0..9				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgepng.src	0	fixedtext	DLG_EXPORT_EPNG	FI_COMPRESSION			80	pa-IN	ਨਪੀੜਨ 0..9 (~c)				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgepng.src	0	fixedtext	DLG_EXPORT_EPNG	FI_COMPRESSION			80	pl	~Kompresja 0..9				2002-02-02 02:02:02
@@ -423,7 +423,7 @@ svtools	source\filter.vcl\filter\dlgepng.src	0	modaldialog	DLG_EXPORT_EPNG				16
 svtools	source\filter.vcl\filter\dlgepng.src	0	modaldialog	DLG_EXPORT_EPNG				169	km	ជម្រើស PNG				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgepng.src	0	modaldialog	DLG_EXPORT_EPNG				169	ko	PNG 옵션				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgepng.src	0	modaldialog	DLG_EXPORT_EPNG				169	nb	PNG-valg				2002-02-02 02:02:02
-svtools	source\filter.vcl\filter\dlgepng.src	0	modaldialog	DLG_EXPORT_EPNG				169	nl	PNG Options				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\dlgepng.src	0	modaldialog	DLG_EXPORT_EPNG				169	nl	PNG-opties				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgepng.src	0	modaldialog	DLG_EXPORT_EPNG				169	nn	PNG-val				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgepng.src	0	modaldialog	DLG_EXPORT_EPNG				169	pa-IN	PNG ਚੋਣ				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgepng.src	0	modaldialog	DLG_EXPORT_EPNG				169	pl	Opcje PNG				2002-02-02 02:02:02
@@ -1117,7 +1117,7 @@ svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COL
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	2			0	km	កម្រិត​ពន្លឺ - ១ ប៊ីត				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	2			0	ko	1 비트 임계값				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	2			0	nb	1 bit - grenseverdi				2002-02-02 02:02:02
-svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	2			0	nl	1-bits-drempelwaarde				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	2			0	nl	1-bits drempelwaarde				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	2			0	nn	1 bit - grenseverdi				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	2			0	pa-IN	1 ਬਿੱਟ - ਥਰਿਸ਼ਹੋਲਡ ਮੁੱਲ				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	2			0	pl	Wartość progowa 1-bitowa				2002-02-02 02:02:02
@@ -1157,7 +1157,7 @@ svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COL
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	3			0	km	ច្របល់ - ១ ប៊ីត				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	3			0	ko	1비트 디더링				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	3			0	nb	1 bit - rastrering				2002-02-02 02:02:02
-svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	3			0	nl	1-bits-gedithered				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	3			0	nl	1-bits gerasterd				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	3			0	nn	1 bit - rastrering				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	3			0	pa-IN	1 ਬਿੱਟ - ਡੀਥਰਿੰਗ				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	3			0	pl	Rozsiewanie 1-bitowe				2002-02-02 02:02:02
@@ -1197,7 +1197,7 @@ svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COL
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	4			0	km	មាត្រដ្ឋាន​ប្រផេះ - ៤ ប៊ីត				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	4			0	ko	4비트 회색조				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	4			0	nb	4 bit - gråtoner				2002-02-02 02:02:02
-svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	4			0	nl	4-bits-grijswaardenpalet				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	4			0	nl	4-bits grijswaardenpalet				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	4			0	nn	4 bit - gråtonar				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	4			0	pa-IN	4 ਬਿੱਟ - ਸਲੇਟੀ-ਪੈਮਾਨਾ				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	4			0	pl	4-bitowa paleta odcieni szarości				2002-02-02 02:02:02
@@ -1237,7 +1237,7 @@ svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COL
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	5			0	km	ក្តារ​លាយ​ពណ៌ - ៤ ប៊ីត				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	5			0	ko	4비트 색상표				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	5			0	nb	4 bit - fargepalett				2002-02-02 02:02:02
-svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	5			0	nl	4-bits-kleurenpalet				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	5			0	nl	4-bits kleurenpalet				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	5			0	nn	4 bit - fargepalett				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	5			0	pa-IN	4 ਬਿੱਟ - ਰੰਗ ਪੱਟੀ				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	5			0	pl	4-bitowa paleta kolorów				2002-02-02 02:02:02
@@ -1277,7 +1277,7 @@ svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COL
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	6			0	km	មាត្រដ្ឋាន​ប្រផេះ - ៨ ប៊ីត				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	6			0	ko	8비트 회색조				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	6			0	nb	8 bit - gråtoner				2002-02-02 02:02:02
-svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	6			0	nl	8-bits-grijswaardenpalet				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	6			0	nl	8-bits grijswaardenpalet				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	6			0	nn	8 bit - gråtonar				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	6			0	pa-IN	8 ਬਿੱਟ - ਸਲੇਟੀ ਪੈਮਾਨਾ				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	6			0	pl	8-bitowa paleta odcieni szarości				2002-02-02 02:02:02
@@ -1317,7 +1317,7 @@ svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COL
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	7			0	km	ក្តារ​លាយ​ពណ៌ - ៨ ប៊ីត				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	7			0	ko	8비트 색상표				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	7			0	nb	8 bit - fargepalett				2002-02-02 02:02:02
-svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	7			0	nl	8-bits-kleurenpalet				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	7			0	nl	8-bits kleurenpalet				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	7			0	nn	8 bit - fargepalett				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	7			0	pa-IN	8 ਬਿੱਟ - ਰੰਗ ਪੱਟੀ				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	7			0	pl	8-bitowa paleta kolorów				2002-02-02 02:02:02
@@ -1357,7 +1357,7 @@ svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COL
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	8			0	km	ពណ៌​​ធម្មជាតិ - ២៤ ប៊ីត				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	8			0	ko	24비트 트루 컬러				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	8			0	nb	24 bit - sanne farger				2002-02-02 02:02:02
-svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	8			0	nl	24-bits-ware kleuren				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	8			0	nl	24-bits ware kleuren				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	8			0	nn	24 bit - sanne fargar				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	8			0	pa-IN	24 ਬਿੱਟ - ਪੂਰੇ ਰੰਗ				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	8			0	pl	True Colors 24 bity				2002-02-02 02:02:02
