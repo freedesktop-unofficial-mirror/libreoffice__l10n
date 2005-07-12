@@ -11,8 +11,8 @@
 ##
 ##   $RCSfile: localize.sdf,v $
 ##
-##   $Revision: 1.8 $
-##   last change: $Author: rt $ $Date: 2005-06-24 11:29:44 $
+##   $Revision: 1.9 $
+##   last change: $Author: kz $ $Date: 2005-07-12 12:04:22 $
 ##
 ##   The Contents of this file are made available subject to the terms of
 ##   either of the following licenses
@@ -159,7 +159,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DS
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	km	កែ​សម្រួល​ឯកសារ​មូល​ដ្ឋាន​ទិន្នន័យ... 				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	ko	데이터베이스 파일 편집(~D)...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	nb	Rediger ~databasefil ...				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	nl	~gegevensbronnen beheren...				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	nl	~Databasebestand bewerken...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	nn	Rediger ~databasefil ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	pa-IN	ਡਾਟਾਬੇਸ ਫਾਇਲ ਸੋਧ(~D)...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	pl	Edytuj plik bazy ~danych...				2002-02-02 02:02:02
@@ -409,7 +409,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	menuitem	RID_MENU_REFRESH_DATA	ID_BROWSE
 dbaccess	source\ui\browser\sbabrw.src	0	menuitem	RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	km	ស្ថាបនា​​​ឡើងវិញ				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	menuitem	RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	ko	다시 구성				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	menuitem	RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	nb	Bygg på nytt				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbabrw.src	0	menuitem	RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	nl	Opnieuw bouwen_				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	nl	Opnieuw opbouwen				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	menuitem	RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	nn	Bygg opp igjen				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	menuitem	RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	pa-IN	ਮੁੜ ਬਣਾਉ				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	menuitem	RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	pl	Odbuduj				2002-02-02 02:02:02
@@ -495,7 +495,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_QUERY_CONFIRM	
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_QUERY_CONFIRM				0	km	សំណួរ​នេះ​មាន​រួច​ហើយ ។ តើ​អ្នក​ចង់​លុប​វា​ឬ​ទេ ?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_QUERY_CONFIRM				0	ko	쿼리가 이미 있습니다. 삭제하시겠습니까?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_QUERY_CONFIRM				0	nb	Denne spørringen finnes allerede. Vil du slette den?				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_QUERY_CONFIRM				0	nl	De query bestaat al. Wilt u deze wissen?				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_QUERY_CONFIRM				0	nl	De query bestaat al. Wilt u deze verwijderen?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_QUERY_CONFIRM				0	nn	Denne spørjinga finst frå før. Vil du sletta ho?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_QUERY_CONFIRM				0	pa-IN	ਕਿਊਰੀ ਪਹਿਲਾਂ ਹੀ ਮੌਜੂਦ ਹੈ। ਕੀ ਤੁਸੀਂ ਇਸ ਨੂੰ ਹਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_QUERY_CONFIRM				0	pl	Kwerenda już istnieje. Czy ją usunąć?				2002-02-02 02:02:02
@@ -689,7 +689,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_DSB
 dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_DSBROWSER_TITLE			0	it	Vista sorgente dati				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_DSBROWSER_TITLE			0	ja	データソースの表示				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_DSBROWSER_TITLE			0	ko	데이터 원본 보기				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_DSBROWSER_TITLE			0	nl	Beeld gegevensbronnen				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_DSBROWSER_TITLE			0	nl	Weergave gegevensbronnen				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_DSBROWSER_TITLE			0	pl	Widok źródeł danych				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_DSBROWSER_TITLE			0	pt	Ver fontes de dados				20040507 14:21:28
 dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_DSBROWSER_TITLE			0	pt-BR	Exibição das fontes de dados				2002-02-02 02:02:02
@@ -770,7 +770,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_NO_
 dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_NO_TABLE_FORMAT_INSIDE			0	it	Il formato della tabella non è stato trovato				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_NO_TABLE_FORMAT_INSIDE			0	ja	テーブル書式は見つかりませんでした。				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_NO_TABLE_FORMAT_INSIDE			0	ko	테이블 서식을 찾지 못했습니다.				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_NO_TABLE_FORMAT_INSIDE			0	nl	Geen tabelindeling gevonden.				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_NO_TABLE_FORMAT_INSIDE			0	nl	Geen tabelopmaak gevonden.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_NO_TABLE_FORMAT_INSIDE			0	pl	Nie znaleziono żadnego formatu tabeli.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_NO_TABLE_FORMAT_INSIDE			0	pt	Foi impossível encontrar um formato de tabela.				20040507 14:21:28
 dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_NO_TABLE_FORMAT_INSIDE			0	pt-BR	Não foi possível localizar nenhum formato de tabela.				2002-02-02 02:02:02
@@ -1275,7 +1275,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	STR_COULDNOTCONNECT_DATASOURCE			
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_COULDNOTCONNECT_DATASOURCE				0	km	មិន​អាច​បង្កើត​ការ​​ត​ភ្ចាប់​​ទៅ​​ប្រភព​​ទិន្នន័យ "$name$" ។				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_COULDNOTCONNECT_DATASOURCE				0	ko	데이터 원본 "$name$"에 연결하지 못했습니다.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_COULDNOTCONNECT_DATASOURCE				0	nb	Klarte ikke opprette forbindelse til datakilden «$name$».				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbabrw.src	0	string	STR_COULDNOTCONNECT_DATASOURCE				0	nl	De verbinding met de gegevensbron "$name$" kon niet tot stand worden gebracht.				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_COULDNOTCONNECT_DATASOURCE				0	nl	De verbinding met de gegevensbron $name$ kan niet tot stand worden gebracht.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_COULDNOTCONNECT_DATASOURCE				0	nn	Klarte ikkje oppretta samband til datakjelda «$name$».				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_COULDNOTCONNECT_DATASOURCE				0	pa-IN	ਡਾਟਾ ਸਰੋਤ "$name$" ਨਾਲ ਸੰਬੰਧ ਸਥਾਪਿਤ ਨਹੀਂ ਹੋ ਸਕਿਆ।				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_COULDNOTCONNECT_DATASOURCE				0	pl	Nie udało się nawiązać połączenia ze źródłem danych "$name$".				2002-02-02 02:02:02
@@ -1403,7 +1403,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	STR_NO_TABLE_FORMAT_INSIDE				0	j
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_NO_TABLE_FORMAT_INSIDE				0	km	គ្មាន​​ទ្រង់​ទ្រាយរបស់​​​តារាង ​​អាច​​ត្រូវ​បាន​​រក​​ឃើញ ។				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_NO_TABLE_FORMAT_INSIDE				0	ko	테이블 서식을 찾을 수 없습니다.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_NO_TABLE_FORMAT_INSIDE				0	nb	Fant ingen tabellformat.				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbabrw.src	0	string	STR_NO_TABLE_FORMAT_INSIDE				0	nl	Geen tabelformaat gevonden.				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_NO_TABLE_FORMAT_INSIDE				0	nl	Geen tabelopmaak gevonden.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_NO_TABLE_FORMAT_INSIDE				0	nn	Fann ingen tabellformat.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_NO_TABLE_FORMAT_INSIDE				0	pa-IN	ਕੋਈ ਸਾਰਣੀ ਫਾਰਮਿਟ ਨਹੀਂ ਲੱਭਿਆ।				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_NO_TABLE_FORMAT_INSIDE				0	pl	Nie znaleziono żadnego formatu tabeli.				2002-02-02 02:02:02
@@ -1467,7 +1467,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS_DETAILS		
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS_DETAILS				0	km	ការ​ព្រមាន​ត្រូវ​បាន​រាយការណ៍​ ដោយ​ការ​តភ្ជាប់ទៅ​​មូលដ្ឋានទិន្នន័យ ខណៈ​ពេល​កំពុង​យក​តារាង ។				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS_DETAILS				0	ko	테이블 검색 시, 데이터베이스 연결에서 경고가 보고되었습니다.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS_DETAILS				0	nb	Databaseforbindelsen ga advarsler ved henting av tabellene.				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS_DETAILS				0	nl	Bij het ophalen van de tabellen, zijn waarschuwingen gemeld door de databaseverbinding.				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS_DETAILS				0	nl	Bij het ophalen van de tabellen zijn waarschuwingen gemeld door de databaseverbinding.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS_DETAILS				0	nn	Databasesambandet rapporterte om åtvaringar ved henting av tabellane.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS_DETAILS				0	pa-IN	ਸਾਰਣੀਆਂ ਲਿਆਉਣ ਸਮੇਂ, ਚੇਤਾਵਨੀਆਂ ਡਾਟਾਬੇਸ ਸੰਬੰਧ ਰਾਹੀਂ ਭੇਜੀਆਂ ਗਈਆਂ।				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS_DETAILS				0	pl	W trakcie pobierania tabel, połączenie z bazą danych zgłosiło ostrzeżenia.				2002-02-02 02:02:02
@@ -1511,7 +1511,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_TABLE				0	ja	�
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_TABLE				0	km	តើ​អ្នក​ចង់​លុប​តារាង '%1' ឬទេ?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_TABLE				0	ko	'%1' 테이블을 삭제하시겠습니까?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_TABLE				0	nb	Vil du slette tabellen «%1»?				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_TABLE				0	nl	Wilt u de tabel '%1' wissen?				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_TABLE				0	nl	Wilt u de tabel '%1' verwijderen?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_TABLE				0	nn	Vil du sletta tabellen «%1»?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_TABLE				0	pa-IN	ਕੀ ਤੁਸੀ ਸਾਰਣੀ '%1' ਨੂੰ ਹਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_TABLE				0	pl	Czy chcesz usunąć tabelę „%1”?				2002-02-02 02:02:02
@@ -1820,7 +1820,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC	
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				0	km	បង្ហាញ​​តារាង​​ ឬ ​សំណួរ​​​ដែល​បាន​​ជ្រើស ។				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				0	ko	선택된 테이블 또는 쿼리를 표시합니다.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				0	nb	Viser den valgte tabellen eller spørringen.				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				0	nl	Shows the selected table/query.				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				0	nl	Toont de geselecteerde tabel of query.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				0	nn	Vis den valde tabellen eller spørjinga.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				0	pa-IN	ਚੁਣੀ ਸਾਰਣੀ ਜਾਂ ਕਿਊਰੀ ਵੇਖਾਉ।				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				0	pl	Pokazuje wybraną tabelę lub kwerendę.				2002-02-02 02:02:02
@@ -1860,7 +1860,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME	
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				0	km	ទិដ្ឋភាព​​តារាងរបស់​​​ប្រភព​​​ទិន្នន័យ				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				0	ko	데이터 원본의 테이블 보기				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				0	nb	Vis datakildetabell				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				0	nl	Datasource tableview				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				0	nl	Weergave gegevensbronnentabel				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				0	nn	Vis datakildetabell				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				0	pa-IN	ਡਾਟਾ ਸਰੋਤ ਸਾਰਣੀ ਵਿਊ				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				0	pl	Widok tabel źródła danych.				2002-02-02 02:02:02
