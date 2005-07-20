@@ -11,8 +11,8 @@
 ##
 ##   $RCSfile: localize.sdf,v $
 ##
-##   $Revision: 1.10 $
-##   last change: $Author: kz $ $Date: 2005-07-12 11:23:15 $
+##   $Revision: 1.11 $
+##   last change: $Author: obo $ $Date: 2005-07-20 11:10:23 $
 ##
 ##   The Contents of this file are made available subject to the terms of
 ##   either of the following licenses
@@ -386,8 +386,8 @@ uui	source\cookiedg.src	0	string	STR_COOKIES_RECV_START				0	sv	Servern '${HOST}
 uui	source\cookiedg.src	0	string	STR_COOKIES_RECV_START				0	th	เซิร์ฟเวอร์ '${HOST}' ต้องการให้กำหนดคุกกี้หนึ่งหรือมากกว่า\nคุกกี้บรรจุข้อมูลอ้างอิงไปที่คลาส URL ที่แน่นอน ถ้าต่อมา %PRODUCTNAME ร้องขอเอกสารด้วย  URL ที่ตรงกับคลาสของการกำหนดคุกกี้ก่อน %PRODUCTNAME จะส่งข้อมูลนี้ไปที่เซิร์ฟเวอร์ นี้อนุญาตให้เซิร์ฟเวอร์จดจำสถานะของโปรแกรมประยุกต์ WWW เช่น เมื่อซื้อของออนไลน์\n\nคุกกี้นี้จะถูกกำหนด:\n\n				20040507 14:27:11
 uui	source\cookiedg.src	0	string	STR_COOKIES_RECV_START				0	tr	Sunucu '${HOST}' bir ya da birden çok Cookie göndermek istiyor.\nCookie'ler, belirli URL sınıflara ilişkin bilgilerdir. %PRODUCTNAME ileride daha önceden alınmış bir Cookie sınıfının URL'si ile örtüşen bir belge talep ettiğinde, bu bilgi %PRODUCTNAME tarafından ilgili sunucuya gönderilir. Böylece sunucu, bir WWW uygulamasının son durumunu (örn. bir alışveriş sisteminde, sepete konulan ürünleri) kaydedebilir.\n\nŞu aşağıdaki Cookie'ler belirlenmiş olmalıdır.\n\n				2002-02-02 02:02:02
 uui	source\cookiedg.src	0	string	STR_COOKIES_RECV_START				0	vi	Máy chủ '${HOST}' muốn thiết lập một hoặc nhiều cookies.\nCookies chứa thông tin tham khảo tới một vài lớp URL. Nếu sau này %PRODUCTNAME cần một tài liệu với URL phù hợp với lớp cookie đã thiết lập, %PRODUCTNAME sẽ gửi thông tin đó tới máy chủ. Điều này cho phép máy chủ nhận ra trạng thái của một ứng dụng WWW, ví dụ như khi mua hàng qua mạng.\n\nCác cookies sau sẽ được thiết lập:\n\n				2002-02-02 02:02:02
-uui	source\cookiedg.src	0	string	STR_COOKIES_RECV_START				0	zh-CN	������ '${HOST}' Ҫ���һ�����Cookies��\nCookies���й��ض�URLs�����Ϣ�����%PRODUCTNAME�Ժ���Ҫһ������һ�ν��ܵ�cookie���URL�ĵ�����ô%PRODUCTNAME�ͻὫ�����Ϣ���ݸ�����������������ܹ��ϳ���ά��Ӧ�ó����״̬(�����ϵͳ�ɹ���ڵ���Ʒ)��\n\n����Ҫ������µ�Cookies:\n\n				2002-02-02 02:02:02
-uui	source\cookiedg.src	0	string	STR_COOKIES_RECV_START				0	zh-TW	��A��'${HOST}' �n�ǰe�@�өΦh�� cookie �C\ncookie �t������URL�{���w���T���C%PRODUCTNAME �b�U�@���ШD�˸�ۦP����ƮɴN�|��ӵ{���w�ˬdURL�۲Ū�cookie�}�N����T���ǰe������A���C�o�ˡA����A���N���D�z�ϥΪ��s�������(�p�u�W�P��t�Ϊ������x�t�������~�W��)�C\n\n�{�b�n�إߦp�U�� cookie:\n\n				2002-02-02 02:02:02
+uui	source\cookiedg.src	0	string	STR_COOKIES_RECV_START				0	zh-CN	${HOST} 服务器想要设置一个或多个Cookie。\nCookie 包含引用特定 URL 类的信息。如果 %PRODUCTNAME 以后请求一个 URL 类对应以前设置的 Cookie 的文档，则 %PRODUCTNAME 将向服务器发送此信息。这样服务器就能够识别 WWW 应用程序的状态（如在线购物）。\n\n应设置以下 Cookie：\n\n				2002-02-02 02:02:02
+uui	source\cookiedg.src	0	string	STR_COOKIES_RECV_START				0	zh-TW	'${HOST}' 伺服器希望設定一或多個 cookies。\nCookies 會包含參照特定 URL 類別的資訊。如果 %PRODUCTNAME 稍後要求包含 URL 的文件，且此 URL 須與先前設定的 Cookie 類別相對應，則 %PRODUCTNAME 會將此資訊傳送到伺服器。這可以讓伺服器辨識 WWW 應用程式的狀態，例如當您在線上購物時。\n\n應該要設定下列Cookie：\n\n				2002-02-02 02:02:02
 uui	source\cookiedg.src	0	string	STR_COOKIES_RECV_TITLE				0	af	Koekieontvangs				2002-02-02 02:02:02
 uui	source\cookiedg.src	0	string	STR_COOKIES_RECV_TITLE				0	ar	استقبال كوكي				20040507 14:27:11
 uui	source\cookiedg.src	0	string	STR_COOKIES_RECV_TITLE				0	be-BY	Прыйманне квітка				2002-02-02 02:02:02
