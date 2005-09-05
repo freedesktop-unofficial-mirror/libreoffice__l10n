@@ -11,8 +11,8 @@
 ##
 ##   $RCSfile: localize.sdf,v $
 ##
-##   $Revision: 1.8 $
-##   last change: $Author: kz $ $Date: 2005-07-12 12:33:08 $
+##   $Revision: 1.9 $
+##   last change: $Author: rt $ $Date: 2005-09-05 13:41:30 $
 ##
 ##   The Contents of this file are made available subject to the terms of
 ##   either of the following licenses
@@ -72,11 +72,11 @@ svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_ADD_BOOKMARK	HID_
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_ADD_BOOKMARK	HID_TEXTCPNT_ADD_BOOKMARK		0	ar	إضافة ارتباط				20040507 14:25:26
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_ADD_BOOKMARK	HID_TEXTCPNT_ADD_BOOKMARK		0	be-BY	Дадаць луч				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_ADD_BOOKMARK	HID_TEXTCPNT_ADD_BOOKMARK		0	bg	~Добавяне на връзка				2002-02-02 02:02:02
-svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_ADD_BOOKMARK	HID_TEXTCPNT_ADD_BOOKMARK		0	ca	~Afegeix un enllaç				20040507 14:25:26
+svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_ADD_BOOKMARK	HID_TEXTCPNT_ADD_BOOKMARK		0	ca	~Afegeix un enllaç				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_ADD_BOOKMARK	HID_TEXTCPNT_ADD_BOOKMARK		0	cs	Přidat odkaz				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_ADD_BOOKMARK	HID_TEXTCPNT_ADD_BOOKMARK		0	cy	Ychwanegu ~Cyswllt				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_ADD_BOOKMARK	HID_TEXTCPNT_ADD_BOOKMARK		0	da	Tilføj ~kæde				2002-02-02 02:02:02
-svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_ADD_BOOKMARK	HID_TEXTCPNT_ADD_BOOKMARK		0	el	Προσθήκ~η σύνδεσης				20040507 14:25:26
+svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_ADD_BOOKMARK	HID_TEXTCPNT_ADD_BOOKMARK		0	el	Προσθήκ~η σύνδεσης				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_ADD_BOOKMARK	HID_TEXTCPNT_ADD_BOOKMARK		0	en-GB	Add ~Link				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_ADD_BOOKMARK	HID_TEXTCPNT_ADD_BOOKMARK		0	es	~Añadir vínculo				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_ADD_BOOKMARK	HID_TEXTCPNT_ADD_BOOKMARK		0	et	Lisa ~link				2002-02-02 02:02:02
@@ -94,29 +94,37 @@ svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_ADD_BOOKMARK	HID_
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_ADD_BOOKMARK	HID_TEXTCPNT_ADD_BOOKMARK		0	nb	Legg til ~lenke				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_ADD_BOOKMARK	HID_TEXTCPNT_ADD_BOOKMARK		0	nl	Koppeling ~toevoegen				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_ADD_BOOKMARK	HID_TEXTCPNT_ADD_BOOKMARK		0	nn	Legg til ~lenkje				2002-02-02 02:02:02
+svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_ADD_BOOKMARK	HID_TEXTCPNT_ADD_BOOKMARK		0	ns	Oketša ~Lomaganyo				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_ADD_BOOKMARK	HID_TEXTCPNT_ADD_BOOKMARK		0	pa-IN	ਸੰਬੰਧ ਸ਼ਾਮਿਲ(~l)				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_ADD_BOOKMARK	HID_TEXTCPNT_ADD_BOOKMARK		0	pl	~Dodaj łącze				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_ADD_BOOKMARK	HID_TEXTCPNT_ADD_BOOKMARK		0	pt	Adicionar ~ligação				20040507 14:25:26
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_ADD_BOOKMARK	HID_TEXTCPNT_ADD_BOOKMARK		0	pt-BR	Adicionar ~Link				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_ADD_BOOKMARK	HID_TEXTCPNT_ADD_BOOKMARK		0	ru	Добавить ссылку				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_ADD_BOOKMARK	HID_TEXTCPNT_ADD_BOOKMARK		0	rw	Kongeraho ihuriro				2002-02-02 02:02:02
+svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_ADD_BOOKMARK	HID_TEXTCPNT_ADD_BOOKMARK		0	sh-YU	Dodaj ~vezu				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_ADD_BOOKMARK	HID_TEXTCPNT_ADD_BOOKMARK		0	sk	P~ridať odkaz				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_ADD_BOOKMARK	HID_TEXTCPNT_ADD_BOOKMARK		0	sl	Dodaj ~povezavo				20040507 14:25:26
+svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_ADD_BOOKMARK	HID_TEXTCPNT_ADD_BOOKMARK		0	sr-CS	Додај ~везу				2002-02-02 02:02:02
+svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_ADD_BOOKMARK	HID_TEXTCPNT_ADD_BOOKMARK		0	st	Eketsa ~Tsela				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_ADD_BOOKMARK	HID_TEXTCPNT_ADD_BOOKMARK		0	sv	Lägg till l~änk				2002-02-02 02:02:02
+svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_ADD_BOOKMARK	HID_TEXTCPNT_ADD_BOOKMARK		0	sw-TZ	Ongeza Kiungo				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_ADD_BOOKMARK	HID_TEXTCPNT_ADD_BOOKMARK		0	th	เพิ่มการเ~ชื่อมโยง				20040507 14:25:26
+svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_ADD_BOOKMARK	HID_TEXTCPNT_ADD_BOOKMARK		0	tn	Tlhakanya ~Tshwargano				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_ADD_BOOKMARK	HID_TEXTCPNT_ADD_BOOKMARK		0	tr	Bağlantıyı ekle				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_ADD_BOOKMARK	HID_TEXTCPNT_ADD_BOOKMARK		0	vi	~Thêm liên kết				2002-02-02 02:02:02
+svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_ADD_BOOKMARK	HID_TEXTCPNT_ADD_BOOKMARK		0	xh	Fakela ~Unxulumaniso				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_ADD_BOOKMARK	HID_TEXTCPNT_ADD_BOOKMARK		0	zh-CN	新增链接(~L)				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_ADD_BOOKMARK	HID_TEXTCPNT_ADD_BOOKMARK		0	zh-TW	加入捷徑(~L)				2002-02-02 02:02:02
+svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_ADD_BOOKMARK	HID_TEXTCPNT_ADD_BOOKMARK		0	zu	Yongeza ~Isixhumanisi				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_COPY_LINK	HID_TEXTCPNT_COPY_LINK		0	af	Kop~ieer skakel				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_COPY_LINK	HID_TEXTCPNT_COPY_LINK		0	ar	نسخ الارتباط				20040507 14:25:27
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_COPY_LINK	HID_TEXTCPNT_COPY_LINK		0	be-BY	Капіраваць луч				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_COPY_LINK	HID_TEXTCPNT_COPY_LINK		0	bg	~Копиране на връзка				2002-02-02 02:02:02
-svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_COPY_LINK	HID_TEXTCPNT_COPY_LINK		0	ca	Copia l'~enllaç				20040507 14:25:27
+svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_COPY_LINK	HID_TEXTCPNT_COPY_LINK		0	ca	Copia l'~enllaç				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_COPY_LINK	HID_TEXTCPNT_COPY_LINK		0	cs	Kopírovat odkaz				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_COPY_LINK	HID_TEXTCPNT_COPY_LINK		0	cy	~Copïo Cyswllt				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_COPY_LINK	HID_TEXTCPNT_COPY_LINK		0	da	Kopier kæde				2002-02-02 02:02:02
-svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_COPY_LINK	HID_TEXTCPNT_COPY_LINK		0	el	Αντιγραφή ~σύνδεσης				20040507 14:25:27
+svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_COPY_LINK	HID_TEXTCPNT_COPY_LINK		0	el	Αντιγραφή ~σύνδεσης				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_COPY_LINK	HID_TEXTCPNT_COPY_LINK		0	en-GB	Cop~y Link				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_COPY_LINK	HID_TEXTCPNT_COPY_LINK		0	es	Copiar ~vínculo				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_COPY_LINK	HID_TEXTCPNT_COPY_LINK		0	et	Kopeeri li~nk				2002-02-02 02:02:02
@@ -134,29 +142,37 @@ svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_COPY_LINK	HID_TEX
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_COPY_LINK	HID_TEXTCPNT_COPY_LINK		0	nb	~Kopier lenke				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_COPY_LINK	HID_TEXTCPNT_COPY_LINK		0	nl	Koppe~ling kopiëren				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_COPY_LINK	HID_TEXTCPNT_COPY_LINK		0	nn	~Kopier lenkje				2002-02-02 02:02:02
+svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_COPY_LINK	HID_TEXTCPNT_COPY_LINK		0	ns	Kopiš~a Lomaganyo				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_COPY_LINK	HID_TEXTCPNT_COPY_LINK		0	pa-IN	ਸੰਬੰਧ ਨਕਲ(~y)				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_COPY_LINK	HID_TEXTCPNT_COPY_LINK		0	pl	~Kopiuj łącze				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_COPY_LINK	HID_TEXTCPNT_COPY_LINK		0	pt	~Copiar ligação				20040507 14:25:27
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_COPY_LINK	HID_TEXTCPNT_COPY_LINK		0	pt-BR	Cop~iar Link				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_COPY_LINK	HID_TEXTCPNT_COPY_LINK		0	ru	Копировать ссылку				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_COPY_LINK	HID_TEXTCPNT_COPY_LINK		0	rw	Gukoporora ihuriro				2002-02-02 02:02:02
+svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_COPY_LINK	HID_TEXTCPNT_COPY_LINK		0	sh-YU	Kop~iraj vezu				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_COPY_LINK	HID_TEXTCPNT_COPY_LINK		0	sk	Ko~pírovať odkaz				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_COPY_LINK	HID_TEXTCPNT_COPY_LINK		0	sl	Kopira~j povezavo				20040507 14:25:27
+svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_COPY_LINK	HID_TEXTCPNT_COPY_LINK		0	sr-CS	Коп~ирај везу				2002-02-02 02:02:02
+svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_COPY_LINK	HID_TEXTCPNT_COPY_LINK		0	st	Kopis~a Tsela				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_COPY_LINK	HID_TEXTCPNT_COPY_LINK		0	sv	~Kopiera länk				2002-02-02 02:02:02
+svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_COPY_LINK	HID_TEXTCPNT_COPY_LINK		0	sw-TZ	Nakili Kiungo				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_COPY_LINK	HID_TEXTCPNT_COPY_LINK		0	th	คัดลอ~กการเชื่อมโยง				20040507 14:25:27
+svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_COPY_LINK	HID_TEXTCPNT_COPY_LINK		0	tn	Gati~sa Tshwaragano				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_COPY_LINK	HID_TEXTCPNT_COPY_LINK		0	tr	Bağlantıyı kopyala				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_COPY_LINK	HID_TEXTCPNT_COPY_LINK		0	vi	~Sao chép liên kết				2002-02-02 02:02:02
+svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_COPY_LINK	HID_TEXTCPNT_COPY_LINK		0	xh	Ko~pa Unxulumaniso				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_COPY_LINK	HID_TEXTCPNT_COPY_LINK		0	zh-CN	复制链接(~Y)				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_COPY_LINK	HID_TEXTCPNT_COPY_LINK		0	zh-TW	複製捷徑(~Y)				2002-02-02 02:02:02
+svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_COPY_LINK	HID_TEXTCPNT_COPY_LINK		0	zu	Khipha ~Isixhumanisi				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_DOWNLOAD	HID_TEXTCPNT_DOWNLOAD		0	af	~Aflaai...				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_DOWNLOAD	HID_TEXTCPNT_DOWNLOAD		0	ar	تنزيل...				20040507 14:25:26
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_DOWNLOAD	HID_TEXTCPNT_DOWNLOAD		0	be-BY	Атрымаць...				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_DOWNLOAD	HID_TEXTCPNT_DOWNLOAD		0	bg	~Сваляне...				2002-02-02 02:02:02
-svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_DOWNLOAD	HID_TEXTCPNT_DOWNLOAD		0	ca	~Descarregar...				20040507 14:25:26
+svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_DOWNLOAD	HID_TEXTCPNT_DOWNLOAD		0	ca	~Descarrega...				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_DOWNLOAD	HID_TEXTCPNT_DOWNLOAD		0	cs	Stáhnout...				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_DOWNLOAD	HID_TEXTCPNT_DOWNLOAD		0	cy	Llwytho i Lawr...				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_DOWNLOAD	HID_TEXTCPNT_DOWNLOAD		0	da	~Overfør...				2002-02-02 02:02:02
-svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_DOWNLOAD	HID_TEXTCPNT_DOWNLOAD		0	el	~Λήψη αρχείων...				20040507 14:25:26
+svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_DOWNLOAD	HID_TEXTCPNT_DOWNLOAD		0	el	~Λήψη αρχείων...				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_DOWNLOAD	HID_TEXTCPNT_DOWNLOAD		0	en-GB	~Download...				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_DOWNLOAD	HID_TEXTCPNT_DOWNLOAD		0	es	~Descargar...				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_DOWNLOAD	HID_TEXTCPNT_DOWNLOAD		0	et	Laa~di alla...				2002-02-02 02:02:02
@@ -174,29 +190,37 @@ svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_DOWNLOAD	HID_TEXT
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_DOWNLOAD	HID_TEXTCPNT_DOWNLOAD		0	nb	~Last ned ...				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_DOWNLOAD	HID_TEXTCPNT_DOWNLOAD		0	nl	~Downloaden...				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_DOWNLOAD	HID_TEXTCPNT_DOWNLOAD		0	nn	~Last ned ...				2002-02-02 02:02:02
+svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_DOWNLOAD	HID_TEXTCPNT_DOWNLOAD		0	ns	~Tsentšha...				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_DOWNLOAD	HID_TEXTCPNT_DOWNLOAD		0	pa-IN	ਡਾਊਨਲੋਡ(~d)...				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_DOWNLOAD	HID_TEXTCPNT_DOWNLOAD		0	pl	~Pobieranie...				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_DOWNLOAD	HID_TEXTCPNT_DOWNLOAD		0	pt	~Download...				20040507 14:25:26
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_DOWNLOAD	HID_TEXTCPNT_DOWNLOAD		0	pt-BR	~Baixar...				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_DOWNLOAD	HID_TEXTCPNT_DOWNLOAD		0	ru	Загрузить...				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_DOWNLOAD	HID_TEXTCPNT_DOWNLOAD		0	rw	Gutangiza...				2002-02-02 02:02:02
+svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_DOWNLOAD	HID_TEXTCPNT_DOWNLOAD		0	sh-YU	~Preuzmi				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_DOWNLOAD	HID_TEXTCPNT_DOWNLOAD		0	sk	Stia~hnuť...				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_DOWNLOAD	HID_TEXTCPNT_DOWNLOAD		0	sl	Pr~enesi...				20040507 14:25:26
+svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_DOWNLOAD	HID_TEXTCPNT_DOWNLOAD		0	sr-CS	~Преузми				2002-02-02 02:02:02
+svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_DOWNLOAD	HID_TEXTCPNT_DOWNLOAD		0	st	~Laisolla...				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_DOWNLOAD	HID_TEXTCPNT_DOWNLOAD		0	sv	~Ladda ned...				2002-02-02 02:02:02
+svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_DOWNLOAD	HID_TEXTCPNT_DOWNLOAD		0	sw-TZ	Pakua...				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_DOWNLOAD	HID_TEXTCPNT_DOWNLOAD		0	th	~ดาวน์โหลด...				20040507 14:25:26
+svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_DOWNLOAD	HID_TEXTCPNT_DOWNLOAD		0	tn	~Laisatlase...				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_DOWNLOAD	HID_TEXTCPNT_DOWNLOAD		0	tr	İndir...				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_DOWNLOAD	HID_TEXTCPNT_DOWNLOAD		0	vi	~Tải xuống...				2002-02-02 02:02:02
+svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_DOWNLOAD	HID_TEXTCPNT_DOWNLOAD		0	xh	~Thoba umthwalo...				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_DOWNLOAD	HID_TEXTCPNT_DOWNLOAD		0	zh-CN	下载(~D)...				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_DOWNLOAD	HID_TEXTCPNT_DOWNLOAD		0	zh-TW	下載(~D)...				2002-02-02 02:02:02
+svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_DOWNLOAD	HID_TEXTCPNT_DOWNLOAD		0	zu	~Layisha phansi...				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK	HID_TEXTCPNT_OPEN_LINK		0	af	~Open				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK	HID_TEXTCPNT_OPEN_LINK		0	ar	فتح				20040507 14:25:26
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK	HID_TEXTCPNT_OPEN_LINK		0	be-BY	Адкрыць				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK	HID_TEXTCPNT_OPEN_LINK		0	bg	~Отваряне				2002-02-02 02:02:02
-svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK	HID_TEXTCPNT_OPEN_LINK		0	ca	~Obre				20040507 14:25:26
+svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK	HID_TEXTCPNT_OPEN_LINK		0	ca	~Obre				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK	HID_TEXTCPNT_OPEN_LINK		0	cs	Otevřít				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK	HID_TEXTCPNT_OPEN_LINK		0	cy	~Agor				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK	HID_TEXTCPNT_OPEN_LINK		0	da	Å~bn				2002-02-02 02:02:02
-svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK	HID_TEXTCPNT_OPEN_LINK		0	el	Ά~νοιγμα				20040507 14:25:26
+svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK	HID_TEXTCPNT_OPEN_LINK		0	el	Ά~νοιγμα				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK	HID_TEXTCPNT_OPEN_LINK		0	en-GB	~Open				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK	HID_TEXTCPNT_OPEN_LINK		0	es	~Abrir				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK	HID_TEXTCPNT_OPEN_LINK		0	et	~Ava				2002-02-02 02:02:02
@@ -214,29 +238,40 @@ svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK	HID_TEX
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK	HID_TEXTCPNT_OPEN_LINK		0	nb	Å~pne				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK	HID_TEXTCPNT_OPEN_LINK		0	nl	Ope~nen				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK	HID_TEXTCPNT_OPEN_LINK		0	nn	~Opna				2002-02-02 02:02:02
+svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK	HID_TEXTCPNT_OPEN_LINK		0	ns	~Bula				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK	HID_TEXTCPNT_OPEN_LINK		0	pa-IN	ਖੋਲੋ(~o)				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK	HID_TEXTCPNT_OPEN_LINK		0	pl	~Otwórz				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK	HID_TEXTCPNT_OPEN_LINK		0	pt	~Abrir				2003-10-21 16:54:08.14
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK	HID_TEXTCPNT_OPEN_LINK		0	pt-BR	~Abrir				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK	HID_TEXTCPNT_OPEN_LINK		0	ru	Открыть				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK	HID_TEXTCPNT_OPEN_LINK		0	rw	Gufungura				2002-02-02 02:02:02
+svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK	HID_TEXTCPNT_OPEN_LINK		0	sh-YU	~Otvori				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK	HID_TEXTCPNT_OPEN_LINK		0	sk	~Otvoriť				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK	HID_TEXTCPNT_OPEN_LINK		0	sl	~Odpri				20040507 14:25:26
+svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK	HID_TEXTCPNT_OPEN_LINK		0	sr-CS	~Отвори				2002-02-02 02:02:02
+svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK	HID_TEXTCPNT_OPEN_LINK		0	ss	~Vula				2002-02-02 02:02:02
+svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK	HID_TEXTCPNT_OPEN_LINK		0	st	~Bula				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK	HID_TEXTCPNT_OPEN_LINK		0	sv	Öpp~na				2002-02-02 02:02:02
+svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK	HID_TEXTCPNT_OPEN_LINK		0	sw-TZ	Fungua				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK	HID_TEXTCPNT_OPEN_LINK		0	th	เ~ปิด				20040507 14:25:26
+svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK	HID_TEXTCPNT_OPEN_LINK		0	tn	~Bula				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK	HID_TEXTCPNT_OPEN_LINK		0	tr	Aç				2002-02-02 02:02:02
+svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK	HID_TEXTCPNT_OPEN_LINK		0	ts	~Pfula				2002-02-02 02:02:02
+svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK	HID_TEXTCPNT_OPEN_LINK		0	ve	~Vula				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK	HID_TEXTCPNT_OPEN_LINK		0	vi	~Mở				2002-02-02 02:02:02
+svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK	HID_TEXTCPNT_OPEN_LINK		0	xh	~Vula				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK	HID_TEXTCPNT_OPEN_LINK		0	zh-CN	打开(~O)				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK	HID_TEXTCPNT_OPEN_LINK		0	zh-TW	開啟舊檔(~O)				2002-02-02 02:02:02
+svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK	HID_TEXTCPNT_OPEN_LINK		0	zu	~Vula				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK_NEW	HID_TEXTCPNT_OPEN_LINK_NEW		0	af	Open in nuwe ~venster				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK_NEW	HID_TEXTCPNT_OPEN_LINK_NEW		0	ar	فتح في نافذة جديدة				20040507 14:25:26
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK_NEW	HID_TEXTCPNT_OPEN_LINK_NEW		0	be-BY	Адкрыць у новым ваконцы				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK_NEW	HID_TEXTCPNT_OPEN_LINK_NEW		0	bg	Отваряне в нов ~прозорец				2002-02-02 02:02:02
-svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK_NEW	HID_TEXTCPNT_OPEN_LINK_NEW		0	ca	Obre en una ~finestra nova				20040507 14:25:26
+svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK_NEW	HID_TEXTCPNT_OPEN_LINK_NEW		0	ca	Obre en una ~finestra nova				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK_NEW	HID_TEXTCPNT_OPEN_LINK_NEW		0	cs	Otevřít v novém okně				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK_NEW	HID_TEXTCPNT_OPEN_LINK_NEW		0	cy	Agor mewn Ffenestr ~Newydd				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK_NEW	HID_TEXTCPNT_OPEN_LINK_NEW		0	da	Åbn i nyt ~vindue				2002-02-02 02:02:02
-svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK_NEW	HID_TEXTCPNT_OPEN_LINK_NEW		0	el	Άνοιγμα σε νέο ~παράθυρο				20040507 14:25:26
+svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK_NEW	HID_TEXTCPNT_OPEN_LINK_NEW		0	el	Άνοιγμα σε νέο ~παράθυρο				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK_NEW	HID_TEXTCPNT_OPEN_LINK_NEW		0	en-GB	Open in New ~Window				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK_NEW	HID_TEXTCPNT_OPEN_LINK_NEW		0	es	Abrir en ~ventana nueva				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK_NEW	HID_TEXTCPNT_OPEN_LINK_NEW		0	et	Ava ~uues aknas				2002-02-02 02:02:02
@@ -254,17 +289,25 @@ svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK_NEW	HID
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK_NEW	HID_TEXTCPNT_OPEN_LINK_NEW		0	nb	Åpne i ~nytt vindu				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK_NEW	HID_TEXTCPNT_OPEN_LINK_NEW		0	nl	Openen in nieuw ~venster				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK_NEW	HID_TEXTCPNT_OPEN_LINK_NEW		0	nn	Opna i ~nytt vindauge				2002-02-02 02:02:02
+svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK_NEW	HID_TEXTCPNT_OPEN_LINK_NEW		0	ns	Bula Letlakaleng le ~Leswa				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK_NEW	HID_TEXTCPNT_OPEN_LINK_NEW		0	pa-IN	ਨਵੇਂ ਝਰੋਖੇ ਵਿੱਚ ਖੋਲੋ(~w)				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK_NEW	HID_TEXTCPNT_OPEN_LINK_NEW		0	pl	Otwórz ~w nowym oknie				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK_NEW	HID_TEXTCPNT_OPEN_LINK_NEW		0	pt	Abrir em ~nova janela				20040507 14:25:26
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK_NEW	HID_TEXTCPNT_OPEN_LINK_NEW		0	pt-BR	Abrir em Nova ~Janela				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK_NEW	HID_TEXTCPNT_OPEN_LINK_NEW		0	ru	Открыть в новом окне				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK_NEW	HID_TEXTCPNT_OPEN_LINK_NEW		0	rw	Gufungurira muri New Window				2002-02-02 02:02:02
+svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK_NEW	HID_TEXTCPNT_OPEN_LINK_NEW		0	sh-YU	Otvori u novom ~prozoru				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK_NEW	HID_TEXTCPNT_OPEN_LINK_NEW		0	sk	~Otvoriť v novom okne				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK_NEW	HID_TEXTCPNT_OPEN_LINK_NEW		0	sl	Odpri v novem ~oknu				20040507 14:25:26
+svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK_NEW	HID_TEXTCPNT_OPEN_LINK_NEW		0	sr-CS	Отвори у новом ~прозору				2002-02-02 02:02:02
+svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK_NEW	HID_TEXTCPNT_OPEN_LINK_NEW		0	st	Bula ka Fenstere e ~Ntjha				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK_NEW	HID_TEXTCPNT_OPEN_LINK_NEW		0	sv	Öppna i ett nytt ~fönster				2002-02-02 02:02:02
+svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK_NEW	HID_TEXTCPNT_OPEN_LINK_NEW		0	sw-TZ	Fungua katika Dirisha Jipya				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK_NEW	HID_TEXTCPNT_OPEN_LINK_NEW		0	th	เปิดใน~หน้าต่างใหม่				20040507 14:25:26
+svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK_NEW	HID_TEXTCPNT_OPEN_LINK_NEW		0	tn	Bula mo ~letlhabaphefong le lentsha				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK_NEW	HID_TEXTCPNT_OPEN_LINK_NEW		0	tr	Yeni bir pencerede aç				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK_NEW	HID_TEXTCPNT_OPEN_LINK_NEW		0	vi	Mở trên cửa sổ mới				2002-02-02 02:02:02
+svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK_NEW	HID_TEXTCPNT_OPEN_LINK_NEW		0	xh	Vula ~Kwifestile Entsha				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK_NEW	HID_TEXTCPNT_OPEN_LINK_NEW		0	zh-CN	使用一个新视窗打开(~W)				2002-02-02 02:02:02
 svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK_NEW	HID_TEXTCPNT_OPEN_LINK_NEW		0	zh-TW	用一個新視窗開啟(~W)				2002-02-02 02:02:02
+svtools	source\uno\unoifac2.src	0	menuitem	RID_CONTEXTMENU	RID_OPEN_LINK_NEW	HID_TEXTCPNT_OPEN_LINK_NEW		0	zu	Vula Kiw-window ~Entsha				2002-02-02 02:02:02
