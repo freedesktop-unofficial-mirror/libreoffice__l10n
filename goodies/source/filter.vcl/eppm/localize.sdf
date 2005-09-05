@@ -11,8 +11,8 @@
 ##
 ##   $RCSfile: localize.sdf,v $
 ##
-##   $Revision: 1.7 $
-##   last change: $Author: rt $ $Date: 2005-06-24 13:03:53 $
+##   $Revision: 1.8 $
+##   last change: $Author: rt $ $Date: 2005-09-05 13:54:48 $
 ##
 ##   The Contents of this file are made available subject to the terms of
 ##   either of the following licenses
@@ -68,14 +68,15 @@
 ##
 ##*************************************************************************
 #
+goodies	source\filter.vcl\eppm\dlgeppm.src	0	fixedline	DLG_EXPORT_EPPM	GRP_FORMAT			60	af	Lêerformaat				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	fixedline	DLG_EXPORT_EPPM	GRP_FORMAT			60	ar	تنسيق الملف				20040507 14:22:20
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	fixedline	DLG_EXPORT_EPPM	GRP_FORMAT			60	be-BY	Фармат файла				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	fixedline	DLG_EXPORT_EPPM	GRP_FORMAT			60	bg	Формат на файла				2002-02-02 02:02:02
-goodies	source\filter.vcl\eppm\dlgeppm.src	0	fixedline	DLG_EXPORT_EPPM	GRP_FORMAT			60	ca	Format del fitxer				20040507 14:22:20
+goodies	source\filter.vcl\eppm\dlgeppm.src	0	fixedline	DLG_EXPORT_EPPM	GRP_FORMAT			60	ca	Format del fitxer				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	fixedline	DLG_EXPORT_EPPM	GRP_FORMAT			60	cs	Formát souboru				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	fixedline	DLG_EXPORT_EPPM	GRP_FORMAT			60	cy	Fformat ffeil				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	fixedline	DLG_EXPORT_EPPM	GRP_FORMAT			60	da	Filformat				2002-02-02 02:02:02
-goodies	source\filter.vcl\eppm\dlgeppm.src	0	fixedline	DLG_EXPORT_EPPM	GRP_FORMAT			60	el	Μορφή αρχείου				20040507 14:22:20
+goodies	source\filter.vcl\eppm\dlgeppm.src	0	fixedline	DLG_EXPORT_EPPM	GRP_FORMAT			60	el	Μορφή αρχείου				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	fixedline	DLG_EXPORT_EPPM	GRP_FORMAT			60	en-GB	File format				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	fixedline	DLG_EXPORT_EPPM	GRP_FORMAT			60	es	Formato de archivo				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	fixedline	DLG_EXPORT_EPPM	GRP_FORMAT			60	et	Failivorming				2002-02-02 02:02:02
@@ -93,28 +94,35 @@ goodies	source\filter.vcl\eppm\dlgeppm.src	0	fixedline	DLG_EXPORT_EPPM	GRP_FORMA
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	fixedline	DLG_EXPORT_EPPM	GRP_FORMAT			60	nb	Filformat				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	fixedline	DLG_EXPORT_EPPM	GRP_FORMAT			60	nl	Bestandsindeling				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	fixedline	DLG_EXPORT_EPPM	GRP_FORMAT			60	nn	Filformat				2002-02-02 02:02:02
+goodies	source\filter.vcl\eppm\dlgeppm.src	0	fixedline	DLG_EXPORT_EPPM	GRP_FORMAT			60	ns	Fomete ya faele				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	fixedline	DLG_EXPORT_EPPM	GRP_FORMAT			60	pa-IN	ਫਾਇਲ ਫਾਰਮਿਟ				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	fixedline	DLG_EXPORT_EPPM	GRP_FORMAT			60	pl	Format pliku				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	fixedline	DLG_EXPORT_EPPM	GRP_FORMAT			60	pt	Formato do ficheiro				20040507 14:22:20
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	fixedline	DLG_EXPORT_EPPM	GRP_FORMAT			60	pt-BR	Formato de arquivo				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	fixedline	DLG_EXPORT_EPPM	GRP_FORMAT			60	ru	Формат файла				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	fixedline	DLG_EXPORT_EPPM	GRP_FORMAT			60	rw	Imiterere y'idosiye				2002-02-02 02:02:02
+goodies	source\filter.vcl\eppm\dlgeppm.src	0	fixedline	DLG_EXPORT_EPPM	GRP_FORMAT			60	sh-YU	Format datoteke				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	fixedline	DLG_EXPORT_EPPM	GRP_FORMAT			60	sk	Formát súboru				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	fixedline	DLG_EXPORT_EPPM	GRP_FORMAT			60	sl	Oblika zapisa datoteke				20040507 14:22:20
+goodies	source\filter.vcl\eppm\dlgeppm.src	0	fixedline	DLG_EXPORT_EPPM	GRP_FORMAT			60	sr-CS	Формат датотеке				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	fixedline	DLG_EXPORT_EPPM	GRP_FORMAT			60	sv	Filformat				2002-02-02 02:02:02
+goodies	source\filter.vcl\eppm\dlgeppm.src	0	fixedline	DLG_EXPORT_EPPM	GRP_FORMAT			60	sw-TZ	Fomati ya faili				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	fixedline	DLG_EXPORT_EPPM	GRP_FORMAT			60	th	รูปแบบแฟ้ม				20040507 14:22:20
+goodies	source\filter.vcl\eppm\dlgeppm.src	0	fixedline	DLG_EXPORT_EPPM	GRP_FORMAT			60	tn	Faele kago				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	fixedline	DLG_EXPORT_EPPM	GRP_FORMAT			60	tr	Dosya biçimi				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	fixedline	DLG_EXPORT_EPPM	GRP_FORMAT			60	vi	Định dạng tập tin				2002-02-02 02:02:02
+goodies	source\filter.vcl\eppm\dlgeppm.src	0	fixedline	DLG_EXPORT_EPPM	GRP_FORMAT			60	xh	Ulungiselelo lwefayili				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	fixedline	DLG_EXPORT_EPPM	GRP_FORMAT			60	zh-CN	文件格式				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	fixedline	DLG_EXPORT_EPPM	GRP_FORMAT			60	zh-TW	檔案格式				2002-02-02 02:02:02
+goodies	source\filter.vcl\eppm\dlgeppm.src	0	fixedline	DLG_EXPORT_EPPM	GRP_FORMAT			60	zu	Isakhiwo sefayela				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	modaldialog	DLG_EXPORT_EPPM				133	ar	PPM خيارات				20040507 14:22:20
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	modaldialog	DLG_EXPORT_EPPM				133	be-BY	Магчымасці PPM				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	modaldialog	DLG_EXPORT_EPPM				133	bg	Настройки за PPM				2002-02-02 02:02:02
-goodies	source\filter.vcl\eppm\dlgeppm.src	0	modaldialog	DLG_EXPORT_EPPM				133	ca	Opcions PPM				20040507 14:22:20
+goodies	source\filter.vcl\eppm\dlgeppm.src	0	modaldialog	DLG_EXPORT_EPPM				133	ca	Opcions PPM				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	modaldialog	DLG_EXPORT_EPPM				133	cs	Volby pro PPM formát				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	modaldialog	DLG_EXPORT_EPPM				133	cy	Dewisiadau PPM				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	modaldialog	DLG_EXPORT_EPPM				133	da	PPM indstillinger				2002-02-02 02:02:02
-goodies	source\filter.vcl\eppm\dlgeppm.src	0	modaldialog	DLG_EXPORT_EPPM				133	el	Επιλογές PPM				20040507 14:22:20
+goodies	source\filter.vcl\eppm\dlgeppm.src	0	modaldialog	DLG_EXPORT_EPPM				133	el	Επιλογές PPM				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	modaldialog	DLG_EXPORT_EPPM				133	en-GB	PPM Options				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	modaldialog	DLG_EXPORT_EPPM				133	es	Opciones PPM 				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	modaldialog	DLG_EXPORT_EPPM				133	et	PPM-i sätted				2002-02-02 02:02:02
@@ -132,28 +140,36 @@ goodies	source\filter.vcl\eppm\dlgeppm.src	0	modaldialog	DLG_EXPORT_EPPM				133	
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	modaldialog	DLG_EXPORT_EPPM				133	nb	PPM-valg				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	modaldialog	DLG_EXPORT_EPPM				133	nl	PPM-opties				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	modaldialog	DLG_EXPORT_EPPM				133	nn	PPM-val				2002-02-02 02:02:02
+goodies	source\filter.vcl\eppm\dlgeppm.src	0	modaldialog	DLG_EXPORT_EPPM				133	ns	PPM Dikgetho				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	modaldialog	DLG_EXPORT_EPPM				133	pa-IN	PPM ਚੋਣ				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	modaldialog	DLG_EXPORT_EPPM				133	pl	Opcje PPM				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	modaldialog	DLG_EXPORT_EPPM				133	pt	Opções PPM				20040507 14:22:20
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	modaldialog	DLG_EXPORT_EPPM				133	pt-BR	Opções PPM				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	modaldialog	DLG_EXPORT_EPPM				133	ru	Параметры PPM				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	modaldialog	DLG_EXPORT_EPPM				133	rw	Amahitamo ya PPM				2002-02-02 02:02:02
+goodies	source\filter.vcl\eppm\dlgeppm.src	0	modaldialog	DLG_EXPORT_EPPM				133	sh-YU	Opcije za PPM				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	modaldialog	DLG_EXPORT_EPPM				133	sk	Možnosti pre formát PPM				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	modaldialog	DLG_EXPORT_EPPM				133	sl	Možnosti za PPM				20040507 14:22:20
+goodies	source\filter.vcl\eppm\dlgeppm.src	0	modaldialog	DLG_EXPORT_EPPM				133	sr-CS	Опције за PPM				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	modaldialog	DLG_EXPORT_EPPM				133	sv	PPM-alternativ				2002-02-02 02:02:02
+goodies	source\filter.vcl\eppm\dlgeppm.src	0	modaldialog	DLG_EXPORT_EPPM				133	sw-TZ	Chaguzi PPM				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	modaldialog	DLG_EXPORT_EPPM				133	th	ตัวเลือก PPM 				20040507 14:22:20
+goodies	source\filter.vcl\eppm\dlgeppm.src	0	modaldialog	DLG_EXPORT_EPPM				133	tn	PPM Dikgtho				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	modaldialog	DLG_EXPORT_EPPM				133	tr	PPM seçenekleri				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	modaldialog	DLG_EXPORT_EPPM				133	vi	Lựa chọn PPM				2002-02-02 02:02:02
+goodies	source\filter.vcl\eppm\dlgeppm.src	0	modaldialog	DLG_EXPORT_EPPM				133	xh	Ekukhethwa kuko kwe-PPM				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	modaldialog	DLG_EXPORT_EPPM				133	zh-CN	PPM 选项				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	modaldialog	DLG_EXPORT_EPPM				133	zh-TW	PPM選項				2002-02-02 02:02:02
+goodies	source\filter.vcl\eppm\dlgeppm.src	0	modaldialog	DLG_EXPORT_EPPM				133	zu	Izinketho ze-PPM				2002-02-02 02:02:02
+goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_ASCII			45	af	~Teks				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_ASCII			45	ar	النص				20040507 14:22:20
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_ASCII			45	be-BY	Тэкст				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_ASCII			45	bg	~Текстов				2002-02-02 02:02:02
-goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_ASCII			45	ca	~Text				20040507 14:22:20
+goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_ASCII			45	ca	~Text				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_ASCII			45	cs	Textový				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_ASCII			45	cy	~Testun				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_ASCII			45	da	~Tekst				2002-02-02 02:02:02
-goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_ASCII			45	el	Κείμενο				20040507 14:22:20
+goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_ASCII			45	el	~Κείμενο				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_ASCII			45	en-GB	~Text				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_ASCII			45	es	~Texto				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_ASCII			45	et	~Tekst				2002-02-02 02:02:02
@@ -171,28 +187,36 @@ goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_ASCI
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_ASCII			45	nb	~Tekst				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_ASCII			45	nl	~Tekst				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_ASCII			45	nn	~Tekst				2002-02-02 02:02:02
+goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_ASCII			45	ns	~Sengwalwa				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_ASCII			45	pa-IN	ਪਾਠ(~T)				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_ASCII			45	pl	~Tekstowy				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_ASCII			45	pt	~Texto				20040507 14:22:20
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_ASCII			45	pt-BR	~Texto				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_ASCII			45	ru	Текст				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_ASCII			45	rw	Inyandiko				2002-02-02 02:02:02
+goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_ASCII			45	sh-YU	~Tekst				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_ASCII			45	sk	~Text				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_ASCII			45	sl	~Besedilo				20040507 14:22:20
+goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_ASCII			45	sr-CS	~Текст				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_ASCII			45	sv	~Text				2002-02-02 02:02:02
+goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_ASCII			45	sw-TZ	Matini				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_ASCII			45	th	~ข้อความ				20040507 14:22:20
+goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_ASCII			45	tn	~Kago				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_ASCII			45	tr	~Metin				2002-02-02 02:02:02
+goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_ASCII			45	ts	~Xitsariwa				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_ASCII			45	vi	~Văn bản				2002-02-02 02:02:02
+goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_ASCII			45	xh	~Isiqendu				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_ASCII			45	zh-CN	文字(~T)				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_ASCII			45	zh-TW	文字(~T)				2002-02-02 02:02:02
+goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_ASCII			45	zu	~Umbhalo				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_RAW			45	ar	ثنائي				20040507 14:22:20
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_RAW			45	be-BY	Двайковы				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_RAW			45	bg	~Двоичен				2002-02-02 02:02:02
-goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_RAW			45	ca	~Binari				20040507 14:22:20
+goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_RAW			45	ca	~Binari				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_RAW			45	cs	Binární				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_RAW			45	cy	~Deuaidd				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_RAW			45	da	~Binær				2002-02-02 02:02:02
-goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_RAW			45	el	Δυαδικό				20040507 14:22:20
+goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_RAW			45	el	~Δυαδικό				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_RAW			45	en-GB	~Binary				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_RAW			45	es	~Binario				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_RAW			45	et	~Binaarne				2002-02-02 02:02:02
@@ -210,17 +234,24 @@ goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_RAW	
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_RAW			45	nb	~Binær				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_RAW			45	nl	~Binair				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_RAW			45	nn	~Binær				2002-02-02 02:02:02
+goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_RAW			45	ns	~Binary				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_RAW			45	pa-IN	ਬਾਇਨਰੀ(~B)				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_RAW			45	pl	~Binarny				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_RAW			45	pt	~Binário				20040507 14:22:20
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_RAW			45	pt-BR	~Binário				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_RAW			45	ru	Бинарный				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_RAW			45	rw	Nyabibiri				2002-02-02 02:02:02
+goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_RAW			45	sh-YU	~Binarno				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_RAW			45	sk	~Binárny				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_RAW			45	sl	~Dvojiško				20040507 14:22:20
+goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_RAW			45	sr-CS	~Бинарно				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_RAW			45	sv	~Binär				2002-02-02 02:02:02
+goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_RAW			45	sw-TZ	Jozi				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_RAW			45	th	เ~ลขฐานสอง				20040507 14:22:20
+goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_RAW			45	tn	~Bobedi				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_RAW			45	tr	~İkili				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_RAW			45	vi	~Nhị phân				2002-02-02 02:02:02
+goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_RAW			45	xh	~Isiseko sezibini				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_RAW			45	zh-CN	二元(~B)				2002-02-02 02:02:02
 goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_RAW			45	zh-TW	二元(~B)				2002-02-02 02:02:02
+goodies	source\filter.vcl\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_RAW			45	zu	~Okuhambisana ngambili				2002-02-02 02:02:02
