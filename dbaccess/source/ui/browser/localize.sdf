@@ -13,9 +13,9 @@
 #
 #   $RCSfile: localize.sdf,v $
 #
-#   $Revision: 1.12 $
+#   $Revision: 1.13 $
 #
-#   last change: $Author: rt $ $Date: 2005-09-08 14:29:36 $
+#   last change: $Author: hr $ $Date: 2005-10-28 09:52:37 $
 #
 #   The Contents of this file are made available subject to
 #   the terms of GNU Lesser General Public License Version 2.1.
@@ -41,7 +41,6 @@
 #     MA  02111-1307  USA
 #
 #*************************************************************************
-#
 dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_QRY_TITLE				0	ar	الاستفسار #				20040507 14:21:28
 dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_QRY_TITLE				0	ca	Consulta #				20040507 14:21:28
 dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_QRY_TITLE				0	cs	Dotaz #				2002-02-02 02:02:02
@@ -255,7 +254,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REF
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REFRESHCONN		0	km	ធ្វើ​ឲ្យ​ការ​តភ្ជាប់​ស្រស់ 				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REFRESHCONN		0	ko	연결 새로 고침(~R)				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REFRESHCONN		0	nb	Opp~dater tilkobling				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REFRESHCONN		0	nl	~opnieuw verbinden				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REFRESHCONN		0	nl	~Opnieuw verbinden				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REFRESHCONN		0	nn	Opp~dater tilkopling				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REFRESHCONN		0	ns	~Lapološa kopanyo				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REFRESHCONN		0	pa-IN	ਸੰਬੰਧ ਤਾਜ਼ਾ(~R)				2002-02-02 02:02:02
@@ -374,7 +373,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT.RID_M
 dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT.RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	it	Ricostruisci				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT.RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	ja	最新の情報に更新				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT.RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	ko	다시 구성				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT.RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	nl	opnieuw opbouwen				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT.RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	nl	Opnieuw opbouwen				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT.RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	pl	Odśwież				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT.RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	pt	Reconstruir				20040507 14:21:28
 dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT.RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	pt-BR	Reconstruir				2002-02-02 02:02:02
@@ -442,7 +441,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	querybox	MENU_BROWSER_TABLECONTEXT	QUERY
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	MENU_BROWSER_TABLECONTEXT	QUERY_BRW_DELETE_QUERY_CONFIRM			0	it	La ricerca esiste già. Volete eliminarla?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	MENU_BROWSER_TABLECONTEXT	QUERY_BRW_DELETE_QUERY_CONFIRM			0	ja	クエリーはすでにあります。クエリーを削除しますか。				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	MENU_BROWSER_TABLECONTEXT	QUERY_BRW_DELETE_QUERY_CONFIRM			0	ko	이 쿼리가 이미 존재합니다. 삭제하겠습니까?				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbabrw.src	0	querybox	MENU_BROWSER_TABLECONTEXT	QUERY_BRW_DELETE_QUERY_CONFIRM			0	nl	De query bestaat reeds. Wilt u deze wissen?				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	MENU_BROWSER_TABLECONTEXT	QUERY_BRW_DELETE_QUERY_CONFIRM			0	nl	De query bestaat reeds. Wilt u deze verwijderen?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	MENU_BROWSER_TABLECONTEXT	QUERY_BRW_DELETE_QUERY_CONFIRM			0	pl	Kwerenda już istnieje. Czy ją usunąć?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	MENU_BROWSER_TABLECONTEXT	QUERY_BRW_DELETE_QUERY_CONFIRM			0	pt	A consulta já existe. Eliminar?				20040507 14:21:28
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	MENU_BROWSER_TABLECONTEXT	QUERY_BRW_DELETE_QUERY_CONFIRM			0	pt-BR	A consulta já existe. Deseja excluí-la?				2002-02-02 02:02:02
@@ -885,7 +884,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUE
 dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUERY_DELETE_QUERY			0	it	Volete eliminare la ricerca '$name$'?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUERY_DELETE_QUERY			0	ja	クエリー '$name$' を削除しますか。				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUERY_DELETE_QUERY			0	ko	쿼리 '$name$'을(를) 삭제하겠습니까?				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUERY_DELETE_QUERY			0	nl	Wilt u query '$naam$' wissen?				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUERY_DELETE_QUERY			0	nl	Wilt u query '$naam$' verwijderen?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUERY_DELETE_QUERY			0	pl	Czy chcesz usunąć kwerendę '$name$'?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUERY_DELETE_QUERY			0	pt	Eliminar consulta '$name$'?				20040507 14:21:28
 dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUERY_DELETE_QUERY			0	pt-BR	Deseja excluir a consulta '$name$'?				2002-02-02 02:02:02
@@ -912,7 +911,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUE
 dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUERY_DELETE_TABLE			0	it	Volete eliminare la tabella '%1'?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUERY_DELETE_TABLE			0	ja	テーブル '%1' を削除しますか。				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUERY_DELETE_TABLE			0	ko	테이블 '%1'을(를) 삭제하겠습니까?				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUERY_DELETE_TABLE			0	nl	Wilt u tabel '%1' wissen?				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUERY_DELETE_TABLE			0	nl	Wilt u tabel '%1' verwijderen?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUERY_DELETE_TABLE			0	pl	Czy chcesz usunąć tabelę '%1'?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUERY_DELETE_TABLE			0	pt	Eliminar tabela '%1'?				20040507 14:21:28
 dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_QUERY_DELETE_TABLE			0	pt-BR	Deseja excluir a tabela '%1'?				2002-02-02 02:02:02
@@ -939,7 +938,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_TIT
 dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_TITLE_CONFIRM_DELETION			0	it	Conferma 'Elimina'				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_TITLE_CONFIRM_DELETION			0	ja	削除の確認				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_TITLE_CONFIRM_DELETION			0	ko	삭제 확인				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_TITLE_CONFIRM_DELETION			0	nl	Wissen bevestigen				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_TITLE_CONFIRM_DELETION			0	nl	Verwijderen bevestigen				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_TITLE_CONFIRM_DELETION			0	pl	Potwierdź usunięcie				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_TITLE_CONFIRM_DELETION			0	pt	Confirmar eliminação				20040507 14:21:28
 dbaccess	source\ui\browser\sbabrw.src	0	string	MENU_BROWSER_TABLECONTEXT	STR_TITLE_CONFIRM_DELETION			0	pt-BR	Confirmar exclusão				2002-02-02 02:02:02
@@ -1648,6 +1647,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS_DETAILS		
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS_DETAILS				0	zu	Ngenkathi uvundulula amatafula, izexwayiso zibikiwe nguxhumano lwesiqu solwazi.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_QUERY				0	es	¿Desea eliminar la consulta '%1'?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_QUERY				0	fr	Voulez-vous supprimer la requête %1 ?				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_QUERY				0	hu	Biztosan törli a következő lekérdezést: '%1'?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_QUERY				0	it	Eliminare la ricerca '%1'?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_QUERY				0	ja	クエリー '%1' を削除しますか。				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_QUERY				0	ko	'%1' 쿼리를 삭제하시겠습니까?				2002-02-02 02:02:02
@@ -1815,7 +1815,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BRO
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLUMNINFO	HID_BROWSER_COLUMNINFO		0	km	ចម្លង​ពិពណ៌នា​ជួរឈរ 				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLUMNINFO	HID_BROWSER_COLUMNINFO		0	ko	열 설명 복사(~E)				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLUMNINFO	HID_BROWSER_COLUMNINFO		0	nb	Kopier kolonne~beskrivelse				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLUMNINFO	HID_BROWSER_COLUMNINFO		0	nl	~Kolomopschrift kopiëren				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLUMNINFO	HID_BROWSER_COLUMNINFO		0	nl	~Kolombeschrijving kopiëren				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLUMNINFO	HID_BROWSER_COLUMNINFO		0	nn	Kopier kolonne~skildring				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLUMNINFO	HID_BROWSER_COLUMNINFO		0	ns	Tlh~alošo ya Kholomo Kgatišo				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLUMNINFO	HID_BROWSER_COLUMNINFO		0	pa-IN	ਕਾਲਮ ਵਰਣਨ ਨਕਲ(~e)				2002-02-02 02:02:02
@@ -2000,7 +2000,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	he	Rückgängig: Dateneingabe				20040507 14:21:28
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	hi-IN	अनावृत्ति: ड़ॉटा इनपुट				20040507 14:21:28
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	hr	Vrati: unos podataka				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	hu	Visszavonás: Adatbevitel				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	hu	Visszavonás: adatbevitel				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	it	Annulla: Immissione dati				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	ja	元に戻す:データ入力				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	km	មិន​​ធ្វើ​វិញ ៖ ការ​បញ្ចូល​​ទិន្នន័យ				2002-02-02 02:02:02
@@ -2376,7 +2376,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				0	ja	ビュー
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				0	km	ទិដ្ឋភាព #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				0	ko	전면 #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				0	nb	Visning #				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				0	nl	Beeld #				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				0	nl	Weergave #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				0	nn	Vising #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				0	ns	Tebelelo #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				0	pa-IN	ਵਿਊ #				2002-02-02 02:02:02
