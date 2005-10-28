@@ -13,9 +13,9 @@
 #
 #   $RCSfile: localize.sdf,v $
 #
-#   $Revision: 1.7 $
+#   $Revision: 1.8 $
 #
-#   last change: $Author: rt $ $Date: 2005-09-09 00:58:50 $
+#   last change: $Author: hr $ $Date: 2005-10-28 09:49:24 $
 #
 #   The Contents of this file are made available subject to
 #   the terms of GNU Lesser General Public License Version 2.1.
@@ -41,7 +41,6 @@
 #     MA  02111-1307  USA
 #
 #*************************************************************************
-#
 svx	source\unodialogs\textconversiondlgs\chinese_dictionarydialog.src	0	checkbox	DLG_CHINESEDICTIONARY	CB_REVERSE			0	af	Omgekeerde passing				2002-02-02 02:02:02
 svx	source\unodialogs\textconversiondlgs\chinese_dictionarydialog.src	0	checkbox	DLG_CHINESEDICTIONARY	CB_REVERSE			0	be-BY	Адваротная адпаведнасць				2002-02-02 02:02:02
 svx	source\unodialogs\textconversiondlgs\chinese_dictionarydialog.src	0	checkbox	DLG_CHINESEDICTIONARY	CB_REVERSE			0	bg	Обратна таблица за съответствие				2002-02-02 02:02:02
@@ -1015,6 +1014,7 @@ svx	source\unodialogs\textconversiondlgs\chinese_direction_tmpl.hrc	0	radiobutto
 svx	source\unodialogs\textconversiondlgs\chinese_direction_tmpl.hrc	0	radiobutton	DIRECTION_RADIOBUTTONS( D_XPOS, D_YPOS, D_FULLWIDTH )	RB_TO_SIMPLIFIED			0	km	ភាសា​ចិន​បុរាណ ទៅ​ចិន​សាមញ្ញ				2002-02-02 02:02:02
 svx	source\unodialogs\textconversiondlgs\chinese_direction_tmpl.hrc	0	radiobutton	DIRECTION_RADIOBUTTONS( D_XPOS, D_YPOS, D_FULLWIDTH )	RB_TO_SIMPLIFIED			0	ko	번체를 간체로(~T)				2002-02-02 02:02:02
 svx	source\unodialogs\textconversiondlgs\chinese_direction_tmpl.hrc	0	radiobutton	DIRECTION_RADIOBUTTONS( D_XPOS, D_YPOS, D_FULLWIDTH )	RB_TO_SIMPLIFIED			0	nb	~Tradisjonell kinesisk til forenklet kinesisk				2002-02-02 02:02:02
+svx	source\unodialogs\textconversiondlgs\chinese_direction_tmpl.hrc	0	radiobutton	DIRECTION_RADIOBUTTONS( D_XPOS, D_YPOS, D_FULLWIDTH )	RB_TO_SIMPLIFIED			0	nl	~Traditioneel Chinees naar vereenvoudigd Chinees				2002-02-02 02:02:02
 svx	source\unodialogs\textconversiondlgs\chinese_direction_tmpl.hrc	0	radiobutton	DIRECTION_RADIOBUTTONS( D_XPOS, D_YPOS, D_FULLWIDTH )	RB_TO_SIMPLIFIED			0	nn	~Tradisjonell kinesisk til forenkla kinesisk				2002-02-02 02:02:02
 svx	source\unodialogs\textconversiondlgs\chinese_direction_tmpl.hrc	0	radiobutton	DIRECTION_RADIOBUTTONS( D_XPOS, D_YPOS, D_FULLWIDTH )	RB_TO_SIMPLIFIED			0	pa-IN	ਮੂਲ ਚੀਨੀ ਤੋਂ ਸਧਾਰਨ ਚੀਨੀ(~T)				2002-02-02 02:02:02
 svx	source\unodialogs\textconversiondlgs\chinese_direction_tmpl.hrc	0	radiobutton	DIRECTION_RADIOBUTTONS( D_XPOS, D_YPOS, D_FULLWIDTH )	RB_TO_SIMPLIFIED			0	pl	~Tradycyjny chiński na chiński uproszczony				2002-02-02 02:02:02
@@ -1054,6 +1054,7 @@ svx	source\unodialogs\textconversiondlgs\chinese_direction_tmpl.hrc	0	radiobutto
 svx	source\unodialogs\textconversiondlgs\chinese_direction_tmpl.hrc	0	radiobutton	DIRECTION_RADIOBUTTONS( D_XPOS, D_YPOS, D_FULLWIDTH )	RB_TO_TRADITIONAL			0	km	ភាសា​ចិន​សាមញ្ញ ទៅ​ចិន​បុរាណ				2002-02-02 02:02:02
 svx	source\unodialogs\textconversiondlgs\chinese_direction_tmpl.hrc	0	radiobutton	DIRECTION_RADIOBUTTONS( D_XPOS, D_YPOS, D_FULLWIDTH )	RB_TO_TRADITIONAL			0	ko	간체를 번체로(~S)				2002-02-02 02:02:02
 svx	source\unodialogs\textconversiondlgs\chinese_direction_tmpl.hrc	0	radiobutton	DIRECTION_RADIOBUTTONS( D_XPOS, D_YPOS, D_FULLWIDTH )	RB_TO_TRADITIONAL			0	nb	~Forenklet kinesisk til tradisjonell kinesisk				2002-02-02 02:02:02
+svx	source\unodialogs\textconversiondlgs\chinese_direction_tmpl.hrc	0	radiobutton	DIRECTION_RADIOBUTTONS( D_XPOS, D_YPOS, D_FULLWIDTH )	RB_TO_TRADITIONAL			0	nl	~Vereenvoudigd Chinees naar traditioneel Chinees				2002-02-02 02:02:02
 svx	source\unodialogs\textconversiondlgs\chinese_direction_tmpl.hrc	0	radiobutton	DIRECTION_RADIOBUTTONS( D_XPOS, D_YPOS, D_FULLWIDTH )	RB_TO_TRADITIONAL			0	nn	~Forenkla kinesisk til tradisjonell kinesisk				2002-02-02 02:02:02
 svx	source\unodialogs\textconversiondlgs\chinese_direction_tmpl.hrc	0	radiobutton	DIRECTION_RADIOBUTTONS( D_XPOS, D_YPOS, D_FULLWIDTH )	RB_TO_TRADITIONAL			0	pa-IN	ਸਧਾਰਨ ਚੀਨੀ ਤੋਂ ਮੂਲ ਚੀਨੀ(~S)				2002-02-02 02:02:02
 svx	source\unodialogs\textconversiondlgs\chinese_direction_tmpl.hrc	0	radiobutton	DIRECTION_RADIOBUTTONS( D_XPOS, D_YPOS, D_FULLWIDTH )	RB_TO_TRADITIONAL			0	pl	Chiński upro~szczony na tradycyjny chiński				2002-02-02 02:02:02
