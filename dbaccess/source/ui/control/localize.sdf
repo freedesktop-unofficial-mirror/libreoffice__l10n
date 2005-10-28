@@ -13,9 +13,9 @@
 #
 #   $RCSfile: localize.sdf,v $
 #
-#   $Revision: 1.11 $
+#   $Revision: 1.12 $
 #
-#   last change: $Author: rt $ $Date: 2005-09-08 14:34:39 $
+#   last change: $Author: hr $ $Date: 2005-10-28 09:52:52 $
 #
 #   The Contents of this file are made available subject to
 #   the terms of GNU Lesser General Public License Version 2.1.
@@ -41,7 +41,6 @@
 #     MA  02111-1307  USA
 #
 #*************************************************************************
-#
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_ALTER				0	af	Verander struktuur				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_ALTER				0	ar	تعديل البنية				20040507 14:21:28
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_ALTER				0	be-BY	Змяніць структуру				2002-02-02 02:02:02
@@ -113,7 +112,7 @@ dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DELETE				
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DELETE				0	km	លុប​ទិន្នន័យ				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DELETE				0	ko	데이터 삭제				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DELETE				0	nb	Slett data				2002-02-02 02:02:02
-dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DELETE				0	nl	Gegevens wissen				2002-02-02 02:02:02
+dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DELETE				0	nl	Gegevens verwijderen				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DELETE				0	nn	Slett data				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DELETE				0	ns	Phumula difiwa				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DELETE				0	pa-IN	ਡਾਟਾ ਹਟਾਓ				2002-02-02 02:02:02
@@ -304,7 +303,7 @@ dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_REFERENCE	
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_REFERENCE				0	km	កែប្រែ​​សេចក្តី​​យោង				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_REFERENCE				0	ko	참조 수정				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_REFERENCE				0	nb	Endre referanser				2002-02-02 02:02:02
-dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_REFERENCE				0	nl	Referenties wijzigen				2002-02-02 02:02:02
+dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_REFERENCE				0	nl	Verwijzingen wijzigen				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_REFERENCE				0	nn	Endra referansar				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_REFERENCE				0	ns	Fetola ditšhupetšo				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_REFERENCE				0	pa-IN	ਹਵਾਲਾ ਸੋਧ				2002-02-02 02:02:02
@@ -827,7 +826,7 @@ dbaccess	source\ui\control\tabletree.src	0	string	STR_NOREGISTEREDDRIVER				0	ja
 dbaccess	source\ui\control\tabletree.src	0	string	STR_NOREGISTEREDDRIVER				0	km	មិន​បាន​ចុះ​ឈ្មោះ​កម្មវិធី​បញ្ជា​​ សម្រាប់​ URL #connurl# ។				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_NOREGISTEREDDRIVER				0	ko	URL #connurl#에 대해 등록된 드라이버가 없습니다.				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_NOREGISTEREDDRIVER				0	nb	Ingen driver er registrert for URL-en #connurl#.				2002-02-02 02:02:02
-dbaccess	source\ui\control\tabletree.src	0	string	STR_NOREGISTEREDDRIVER				0	nl	Geen driver voor URL #connurl# geregistreerd.				2002-02-02 02:02:02
+dbaccess	source\ui\control\tabletree.src	0	string	STR_NOREGISTEREDDRIVER				0	nl	Geen stuurprogramma voor URL #connurl# geregistreerd.				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_NOREGISTEREDDRIVER				0	nn	Ingen drivar er registrert for URL-en #connurl#.				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_NOREGISTEREDDRIVER				0	ns	Mootledi ga se a ingwadiši go URL #connurl#.				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_NOREGISTEREDDRIVER				0	pa-IN	URL #connurl# ਲਈ ਡਰਾਈਵਰ ਰਜਿਸਟਰ ਨਹੀਂ ਕੀਤਾ।				2002-02-02 02:02:02
@@ -921,7 +920,7 @@ dbaccess	source\ui\control\undosqledit.src	0	string	STR_QUERY_UNDO_MODIFYSQLEDIT
 dbaccess	source\ui\control\undosqledit.src	0	string	STR_QUERY_UNDO_MODIFYSQLEDIT				0	km	កែប្រែ​សេចក្តី​ថ្លែងការណ៍ SQL				2002-02-02 02:02:02
 dbaccess	source\ui\control\undosqledit.src	0	string	STR_QUERY_UNDO_MODIFYSQLEDIT				0	ko	SQL 문 수정				2002-02-02 02:02:02
 dbaccess	source\ui\control\undosqledit.src	0	string	STR_QUERY_UNDO_MODIFYSQLEDIT				0	nb	Endre SQL-setning(er)				2002-02-02 02:02:02
-dbaccess	source\ui\control\undosqledit.src	0	string	STR_QUERY_UNDO_MODIFYSQLEDIT				0	nl	SQL modificeren				2002-02-02 02:02:02
+dbaccess	source\ui\control\undosqledit.src	0	string	STR_QUERY_UNDO_MODIFYSQLEDIT				0	nl	SQL-instructie(s) wijzigen				2002-02-02 02:02:02
 dbaccess	source\ui\control\undosqledit.src	0	string	STR_QUERY_UNDO_MODIFYSQLEDIT				0	nn	Endra SQL-setning(ar)				2002-02-02 02:02:02
 dbaccess	source\ui\control\undosqledit.src	0	string	STR_QUERY_UNDO_MODIFYSQLEDIT				0	ns	Fetola SQL (di)setatamente				2002-02-02 02:02:02
 dbaccess	source\ui\control\undosqledit.src	0	string	STR_QUERY_UNDO_MODIFYSQLEDIT				0	pa-IN	SQL ਬਿਆਨ ਸੋਧ				2002-02-02 02:02:02
