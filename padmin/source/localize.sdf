@@ -13,9 +13,9 @@
 #
 #   $RCSfile: localize.sdf,v $
 #
-#   $Revision: 1.12 $
+#   $Revision: 1.13 $
 #
-#   last change: $Author: rt $ $Date: 2005-09-08 16:25:14 $
+#   last change: $Author: hr $ $Date: 2005-10-28 09:59:55 $
 #
 #   The Contents of this file are made available subject to
 #   the terms of GNU Lesser General Public License Version 2.1.
@@ -41,7 +41,6 @@
 #     MA  02111-1307  USA
 #
 #*************************************************************************
-#
 padmin	source\padialog.src	0	cancelbutton	RID_PADIALOG	RID_PA_BTN_CANCEL			60	af	Sluit				2002-02-02 02:02:02
 padmin	source\padialog.src	0	cancelbutton	RID_PADIALOG	RID_PA_BTN_CANCEL			60	ar	إغلاق				20040507 14:22:40
 padmin	source\padialog.src	0	cancelbutton	RID_PADIALOG	RID_PA_BTN_CANCEL			60	be-BY	Закрыць				2002-02-02 02:02:02
@@ -370,7 +369,7 @@ padmin	source\padialog.src	0	edit	RID_ADDP_PAGE_NAME	RID_ADDP_NAME_EDT_PDFNAME		
 padmin	source\padialog.src	0	edit	RID_ADDP_PAGE_NAME	RID_ADDP_NAME_EDT_PDFNAME			160	km	កម្មវិធី​បម្លែង​ជា PDF				2002-02-02 02:02:02
 padmin	source\padialog.src	0	edit	RID_ADDP_PAGE_NAME	RID_ADDP_NAME_EDT_PDFNAME			160	ko	PDF 변환기				2002-02-02 02:02:02
 padmin	source\padialog.src	0	edit	RID_ADDP_PAGE_NAME	RID_ADDP_NAME_EDT_PDFNAME			160	nb	PDF-konvertering				2002-02-02 02:02:02
-padmin	source\padialog.src	0	edit	RID_ADDP_PAGE_NAME	RID_ADDP_NAME_EDT_PDFNAME			160	nl	PDF-converter				2002-02-02 02:02:02
+padmin	source\padialog.src	0	edit	RID_ADDP_PAGE_NAME	RID_ADDP_NAME_EDT_PDFNAME			160	nl	PDF-conversieprogramma				2002-02-02 02:02:02
 padmin	source\padialog.src	0	edit	RID_ADDP_PAGE_NAME	RID_ADDP_NAME_EDT_PDFNAME			160	nn	PDF-konvertering				2002-02-02 02:02:02
 padmin	source\padialog.src	0	edit	RID_ADDP_PAGE_NAME	RID_ADDP_NAME_EDT_PDFNAME			160	nr	Isitjhugululi se-PDF				2002-02-02 02:02:02
 padmin	source\padialog.src	0	edit	RID_ADDP_PAGE_NAME	RID_ADDP_NAME_EDT_PDFNAME			160	pa-IN	PDF ਤਬਦੀਲੀਕਾਰ				2002-02-02 02:02:02
@@ -418,7 +417,7 @@ padmin	source\padialog.src	0	fixedline	RID_FONTIMPORT_DIALOG	RID_FIMP_FL_FROM			
 padmin	source\padialog.src	0	fixedline	RID_FONTIMPORT_DIALOG	RID_FIMP_FL_FROM			160	km	ថត​ប្រភព				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedline	RID_FONTIMPORT_DIALOG	RID_FIMP_FL_FROM			160	ko	원본 디렉토리				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedline	RID_FONTIMPORT_DIALOG	RID_FIMP_FL_FROM			160	nb	Kildemappe				2002-02-02 02:02:02
-padmin	source\padialog.src	0	fixedline	RID_FONTIMPORT_DIALOG	RID_FIMP_FL_FROM			160	nl	Brondirectory				2002-02-02 02:02:02
+padmin	source\padialog.src	0	fixedline	RID_FONTIMPORT_DIALOG	RID_FIMP_FL_FROM			160	nl	Bronmap				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedline	RID_FONTIMPORT_DIALOG	RID_FIMP_FL_FROM			160	nn	Kjeldemappe				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedline	RID_FONTIMPORT_DIALOG	RID_FIMP_FL_FROM			160	nr	Irhemo lomsuka				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedline	RID_FONTIMPORT_DIALOG	RID_FIMP_FL_FROM			160	ns	Tšhupetšo ya mothopo				2002-02-02 02:02:02
@@ -568,7 +567,7 @@ padmin	source\padialog.src	0	fixedline	RID_PPDIMPORT_DLG	RID_PPDIMP_GROUP_DRIVER
 padmin	source\padialog.src	0	fixedline	RID_PPDIMPORT_DLG	RID_PPDIMP_GROUP_DRIVER			200	km	ជម្រើស​​​​របស់​​​​កម្ម​វិធី​​​បញ្ជា 				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedline	RID_PPDIMPORT_DLG	RID_PPDIMP_GROUP_DRIVER			200	ko	드라이버 선택(~S)				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedline	RID_PPDIMPORT_DLG	RID_PPDIMP_GROUP_DRIVER			200	nb	~Utvalg av drivere				2002-02-02 02:02:02
-padmin	source\padialog.src	0	fixedline	RID_PPDIMPORT_DLG	RID_PPDIMP_GROUP_DRIVER			200	nl	~Beschikbare drivers				2002-02-02 02:02:02
+padmin	source\padialog.src	0	fixedline	RID_PPDIMPORT_DLG	RID_PPDIMP_GROUP_DRIVER			200	nl	~Beschikbare stuurprogramma's				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedline	RID_PPDIMPORT_DLG	RID_PPDIMP_GROUP_DRIVER			200	nn	~Utval av drivarar				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedline	RID_PPDIMPORT_DLG	RID_PPDIMP_GROUP_DRIVER			200	nr	~Ukukhethwa kwabatjhayeli				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedline	RID_PPDIMPORT_DLG	RID_PPDIMP_GROUP_DRIVER			200	ns	~Kgetho ya baotledi				2002-02-02 02:02:02
@@ -721,7 +720,7 @@ padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_CHOOSEDRIVER	RID_ADDP_CHDRV
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_CHOOSEDRIVER	RID_ADDP_CHDRV_TXT_DRIVER			230	km	សូម​​​ជ្រើស​​​កម្មវិធី​​​បញ្ជា​​​​ដែល​​​សម​រម្យ​​មួយ ។​ 				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_CHOOSEDRIVER	RID_ADDP_CHDRV_TXT_DRIVER			230	ko	적합한 드라이버를 선택하십시오(~U).				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_CHOOSEDRIVER	RID_ADDP_CHDRV_TXT_DRIVER			230	nb	Velg en pa~ssende driver.				2002-02-02 02:02:02
-padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_CHOOSEDRIVER	RID_ADDP_CHDRV_TXT_DRIVER			230	nl	Kies een passende ~driver				2002-02-02 02:02:02
+padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_CHOOSEDRIVER	RID_ADDP_CHDRV_TXT_DRIVER			230	nl	Kies een passend ~stuurprogramma				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_CHOOSEDRIVER	RID_ADDP_CHDRV_TXT_DRIVER			230	nn	Vel ein pa~ssande drivar.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_CHOOSEDRIVER	RID_ADDP_CHDRV_TXT_DRIVER			230	nr	Khetha isitjhayeli esi~faneleko				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_CHOOSEDRIVER	RID_ADDP_CHDRV_TXT_DRIVER			230	ns	Hle kgetha mootledi yo s~wanelegilego.				2002-02-02 02:02:02
@@ -874,7 +873,7 @@ padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_FAXDRIVER	RID_ADDP_FAXDRV_T
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_FAXDRIVER	RID_ADDP_FAXDRV_TXT_DRIVER			160	km	ប្រើ​​កម្មវិធី​​បញ្ជា​​ខាង​ក្រោម​​ សម្រាប់​​ការ​​តភ្ជាប់​​ទូរសារ​​​នេះ​				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_FAXDRIVER	RID_ADDP_FAXDRV_TXT_DRIVER			160	ko	이 팩스에 연결하려면 다음 드라이버를 사용하십시오.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_FAXDRIVER	RID_ADDP_FAXDRV_TXT_DRIVER			160	nb	Bruk følgende driver for denne fakstilkoblingen				2002-02-02 02:02:02
-padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_FAXDRIVER	RID_ADDP_FAXDRV_TXT_DRIVER			160	nl	Voor deze faxaansluiting moet u de volgende driver gebruiken				2002-02-02 02:02:02
+padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_FAXDRIVER	RID_ADDP_FAXDRV_TXT_DRIVER			160	nl	Voor deze faxaansluiting moet u het volgende stuurprogramma gebruiken				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_FAXDRIVER	RID_ADDP_FAXDRV_TXT_DRIVER			160	nn	Bruk følgjande drivar for denne fakstilkoplinga				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_FAXDRIVER	RID_ADDP_FAXDRV_TXT_DRIVER			160	nr	Sibawa usebenzise isitjhayeli esilandelako ekuthintaneni ngefeksi				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_FAXDRIVER	RID_ADDP_FAXDRV_TXT_DRIVER			160	ns	Diriša mootledi yo a latelago bakeng sa kgokagano ye ya fax				2002-02-02 02:02:02
@@ -1129,7 +1128,7 @@ padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_PDFDRIVER	RID_ADDP_PDFDRV_T
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_PDFDRIVER	RID_ADDP_PDFDRV_TXT_DRIVER			160	km	ប្រើ​​​​កម្មវិធី​​​​បញ្ជា​​​ដូច​ខាង​​ក្រោម ​សម្រាប់​​​កម្មវិធី​​​បម្លែង​​ ​PDF ​នេះ​​				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_PDFDRIVER	RID_ADDP_PDFDRV_TXT_DRIVER			160	ko	이 PDF 변환기를 위해서는 다음과 같은 드라이버를 사용해야 합니다:				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_PDFDRIVER	RID_ADDP_PDFDRV_TXT_DRIVER			160	nb	Bruk følgende driver for denne PDF-konverteringen				2002-02-02 02:02:02
-padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_PDFDRIVER	RID_ADDP_PDFDRV_TXT_DRIVER			160	nl	Voor deze PDF-converter moet u de volgende driver gebruiken				2002-02-02 02:02:02
+padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_PDFDRIVER	RID_ADDP_PDFDRV_TXT_DRIVER			160	nl	Voor dit PDF-conversieprogramma moet u het volgende stuurprogramma gebruiken				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_PDFDRIVER	RID_ADDP_PDFDRV_TXT_DRIVER			160	nn	Bruk følgjande drivar for denne PDF-konverteringa				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_PDFDRIVER	RID_ADDP_PDFDRV_TXT_DRIVER			160	nr	Sebenzisa isitjhayeli esilandelako esitjhugululini se-PDF				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_PDFDRIVER	RID_ADDP_PDFDRV_TXT_DRIVER			160	ns	Diriša mootledi yo a latelago bakeng sa sefetoledi se sa PDF				2002-02-02 02:02:02
@@ -1282,7 +1281,7 @@ padmin	source\padialog.src	0	fixedtext	RID_PADIALOG	RID_PA_TXT_COMMAND			40	ja	�
 padmin	source\padialog.src	0	fixedtext	RID_PADIALOG	RID_PA_TXT_COMMAND			40	km	ពាក្យ​​បញ្ជា ៖				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_PADIALOG	RID_PA_TXT_COMMAND			40	ko	명령 :				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_PADIALOG	RID_PA_TXT_COMMAND			40	nb	Kommando:				2002-02-02 02:02:02
-padmin	source\padialog.src	0	fixedtext	RID_PADIALOG	RID_PA_TXT_COMMAND			40	nl	Commando:				2002-02-02 02:02:02
+padmin	source\padialog.src	0	fixedtext	RID_PADIALOG	RID_PA_TXT_COMMAND			40	nl	Opdracht:				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_PADIALOG	RID_PA_TXT_COMMAND			40	nn	Kommando:				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_PADIALOG	RID_PA_TXT_COMMAND			40	nr	Laya:				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_PADIALOG	RID_PA_TXT_COMMAND			40	ns	Taelo:				2002-02-02 02:02:02
@@ -1435,7 +1434,7 @@ padmin	source\padialog.src	0	fixedtext	RID_PADIALOG	RID_PA_TXT_LOCATION			40	ja	
 padmin	source\padialog.src	0	fixedtext	RID_PADIALOG	RID_PA_TXT_LOCATION			40	km	ទីតាំង ៖​				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_PADIALOG	RID_PA_TXT_LOCATION			40	ko	위치 :				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_PADIALOG	RID_PA_TXT_LOCATION			40	nb	Plassering:				2002-02-02 02:02:02
-padmin	source\padialog.src	0	fixedtext	RID_PADIALOG	RID_PA_TXT_LOCATION			40	nl	Locatie:				2002-02-02 02:02:02
+padmin	source\padialog.src	0	fixedtext	RID_PADIALOG	RID_PA_TXT_LOCATION			40	nl	Lokatie:				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_PADIALOG	RID_PA_TXT_LOCATION			40	nn	Plassering:				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_PADIALOG	RID_PA_TXT_LOCATION			40	nr	Indawo:				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_PADIALOG	RID_PA_TXT_LOCATION			40	ns	Lefelo:				2002-02-02 02:02:02
@@ -1486,7 +1485,7 @@ padmin	source\padialog.src	0	fixedtext	RID_PPDIMPORT_DLG	RID_PPDIMP_TXT_DRIVER		
 padmin	source\padialog.src	0	fixedtext	RID_PPDIMPORT_DLG	RID_PPDIMP_TXT_DRIVER			190	km	សូម​​​ជ្រើស​​​កម្មវិធី​​​បញ្ជា​​ ​ដើម្បី​​​ដំឡើង​​ និង ​ចុច ​"%s" ។				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_PPDIMPORT_DLG	RID_PPDIMP_TXT_DRIVER			190	ko	원하는 드라이버를 선택한 다음，"%s" 버튼을 클릭하여 확인하십시오.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_PPDIMPORT_DLG	RID_PPDIMP_TXT_DRIVER			190	nb	Velg driverne som skal installeres og trykk «%s».				2002-02-02 02:02:02
-padmin	source\padialog.src	0	fixedtext	RID_PPDIMPORT_DLG	RID_PPDIMP_TXT_DRIVER			190	nl	Selecteer de gewenste drivers en druk op de knop "%s".				2002-02-02 02:02:02
+padmin	source\padialog.src	0	fixedtext	RID_PPDIMPORT_DLG	RID_PPDIMP_TXT_DRIVER			190	nl	Selecteer de gewenste stuurprogramma's en druk op de knop "%s".				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_PPDIMPORT_DLG	RID_PPDIMP_TXT_DRIVER			190	nn	Vel drivarane som skal installerast og trykk «%s».				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_PPDIMPORT_DLG	RID_PPDIMP_TXT_DRIVER			190	nr	Sibawa ukhethe abatjhayeli ukufaka bewugandelele i-"%s".				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_PPDIMPORT_DLG	RID_PPDIMP_TXT_DRIVER			190	ns	Hle kgetha baotledi bao o nyakago go ba tsenya gomme o kgotle "%s".				2002-02-02 02:02:02
@@ -1894,7 +1893,7 @@ padmin	source\padialog.src	0	modelessdialog	RID_PROGRESS_DLG				150	ja	しばら
 padmin	source\padialog.src	0	modelessdialog	RID_PROGRESS_DLG				150	km	សូម​​រង់​ចាំ				2002-02-02 02:02:02
 padmin	source\padialog.src	0	modelessdialog	RID_PROGRESS_DLG				150	ko	기다리십시오.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	modelessdialog	RID_PROGRESS_DLG				150	nb	Vent litt				2002-02-02 02:02:02
-padmin	source\padialog.src	0	modelessdialog	RID_PROGRESS_DLG				150	nl	Even geduld a.u.b.				2002-02-02 02:02:02
+padmin	source\padialog.src	0	modelessdialog	RID_PROGRESS_DLG				150	nl	Een ogenblik geduld				2002-02-02 02:02:02
 padmin	source\padialog.src	0	modelessdialog	RID_PROGRESS_DLG				150	nn	Vent litt				2002-02-02 02:02:02
 padmin	source\padialog.src	0	modelessdialog	RID_PROGRESS_DLG				150	nr	Sibawa ulinde				2002-02-02 02:02:02
 padmin	source\padialog.src	0	modelessdialog	RID_PROGRESS_DLG				150	ns	Hle ema				2002-02-02 02:02:02
@@ -2099,7 +2098,7 @@ padmin	source\padialog.src	0	pushbutton	RID_ADDP_PAGE_CHOOSEDRIVER	RID_ADDP_CHDR
 padmin	source\padialog.src	0	pushbutton	RID_ADDP_PAGE_CHOOSEDRIVER	RID_ADDP_CHDRV_BTN_REMOVE			50	km	លុប​ 				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_ADDP_PAGE_CHOOSEDRIVER	RID_ADDP_CHDRV_BTN_REMOVE			50	ko	삭제(~D)				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_ADDP_PAGE_CHOOSEDRIVER	RID_ADDP_CHDRV_BTN_REMOVE			50	nb	~Slett				2002-02-02 02:02:02
-padmin	source\padialog.src	0	pushbutton	RID_ADDP_PAGE_CHOOSEDRIVER	RID_ADDP_CHDRV_BTN_REMOVE			50	nl	~Wissen				2002-02-02 02:02:02
+padmin	source\padialog.src	0	pushbutton	RID_ADDP_PAGE_CHOOSEDRIVER	RID_ADDP_CHDRV_BTN_REMOVE			50	nl	~Verwijderen				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_ADDP_PAGE_CHOOSEDRIVER	RID_ADDP_CHDRV_BTN_REMOVE			50	nn	~Slett				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_ADDP_PAGE_CHOOSEDRIVER	RID_ADDP_CHDRV_BTN_REMOVE			50	nr	~Sula				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_ADDP_PAGE_CHOOSEDRIVER	RID_ADDP_CHDRV_BTN_REMOVE			50	pa-IN	ਹਟਾਓ(~d)				2002-02-02 02:02:02
@@ -2187,7 +2186,7 @@ padmin	source\padialog.src	0	pushbutton	RID_ADDP_PAGE_OLDPRINTERS	RID_ADDP_OLD_B
 padmin	source\padialog.src	0	pushbutton	RID_ADDP_PAGE_OLDPRINTERS	RID_ADDP_OLD_BTN_SELECTALL			50	es	~Seleccionar todas				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_ADDP_PAGE_OLDPRINTERS	RID_ADDP_OLD_BTN_SELECTALL			50	et	~Vali kõik				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_ADDP_PAGE_OLDPRINTERS	RID_ADDP_OLD_BTN_SELECTALL			50	fi	~Valitse kaikki				2002-02-02 02:02:02
-padmin	source\padialog.src	0	pushbutton	RID_ADDP_PAGE_OLDPRINTERS	RID_ADDP_OLD_BTN_SELECTALL			50	fr	Sélectionner tout				2002-02-02 02:02:02
+padmin	source\padialog.src	0	pushbutton	RID_ADDP_PAGE_OLDPRINTERS	RID_ADDP_OLD_BTN_SELECTALL			50	fr	Tout sélectionner				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_ADDP_PAGE_OLDPRINTERS	RID_ADDP_OLD_BTN_SELECTALL			50	gu-IN	બધું પસંદ કરો (~S)				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_ADDP_PAGE_OLDPRINTERS	RID_ADDP_OLD_BTN_SELECTALL			50	he	‮בחירת הכל‬				20040507 14:22:41
 padmin	source\padialog.src	0	pushbutton	RID_ADDP_PAGE_OLDPRINTERS	RID_ADDP_OLD_BTN_SELECTALL			50	hi-IN	~सब चुनो				20040507 14:22:41
@@ -2198,7 +2197,7 @@ padmin	source\padialog.src	0	pushbutton	RID_ADDP_PAGE_OLDPRINTERS	RID_ADDP_OLD_B
 padmin	source\padialog.src	0	pushbutton	RID_ADDP_PAGE_OLDPRINTERS	RID_ADDP_OLD_BTN_SELECTALL			50	km	ជ្រើស​​​ទាំង​អស់ 				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_ADDP_PAGE_OLDPRINTERS	RID_ADDP_OLD_BTN_SELECTALL			50	ko	모두 선택(~S)				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_ADDP_PAGE_OLDPRINTERS	RID_ADDP_OLD_BTN_SELECTALL			50	nb	~Merk alt				2002-02-02 02:02:02
-padmin	source\padialog.src	0	pushbutton	RID_ADDP_PAGE_OLDPRINTERS	RID_ADDP_OLD_BTN_SELECTALL			50	nl	~Alle selecteren				2002-02-02 02:02:02
+padmin	source\padialog.src	0	pushbutton	RID_ADDP_PAGE_OLDPRINTERS	RID_ADDP_OLD_BTN_SELECTALL			50	nl	~Alles selecteren				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_ADDP_PAGE_OLDPRINTERS	RID_ADDP_OLD_BTN_SELECTALL			50	nn	~Merk alt				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_ADDP_PAGE_OLDPRINTERS	RID_ADDP_OLD_BTN_SELECTALL			50	nr	~Khetha Koke				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_ADDP_PAGE_OLDPRINTERS	RID_ADDP_OLD_BTN_SELECTALL			50	pa-IN	ਸਾਰਾ ਚੁਣੋ(~S)				2002-02-02 02:02:02
@@ -2600,7 +2599,7 @@ padmin	source\padialog.src	0	pushbutton	RID_PADIALOG	RID_PA_BTN_CONF			60	ja	プ
 padmin	source\padialog.src	0	pushbutton	RID_PADIALOG	RID_PA_BTN_CONF			60	km	លក្ខណៈ​​សម្បត្តិ​...				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_PADIALOG	RID_PA_BTN_CONF			60	ko	등록 정보...				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_PADIALOG	RID_PA_BTN_CONF			60	nb	Egenskaper ...				2002-02-02 02:02:02
-padmin	source\padialog.src	0	pushbutton	RID_PADIALOG	RID_PA_BTN_CONF			60	nl	Co~nfigureren...				2002-02-02 02:02:02
+padmin	source\padialog.src	0	pushbutton	RID_PADIALOG	RID_PA_BTN_CONF			60	nl	Eigenschappen...				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_PADIALOG	RID_PA_BTN_CONF			60	nn	Eigenskapar ...				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_PADIALOG	RID_PA_BTN_CONF			60	nr	Izinto				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_PADIALOG	RID_PA_BTN_CONF			60	ns	Dithoto...				2002-02-02 02:02:02
@@ -2696,7 +2695,7 @@ padmin	source\padialog.src	0	pushbutton	RID_PADIALOG	RID_PA_BTN_FONTS			50	gu-IN
 padmin	source\padialog.src	0	pushbutton	RID_PADIALOG	RID_PA_BTN_FONTS			70	he	‮גופנים...‬				20040507 14:22:41
 padmin	source\padialog.src	0	pushbutton	RID_PADIALOG	RID_PA_BTN_FONTS			70	hi-IN	फ़ॉ~न्ट्स...				20040507 14:22:41
 padmin	source\padialog.src	0	pushbutton	RID_PADIALOG	RID_PA_BTN_FONTS			50	hr	Pisma...				2002-02-02 02:02:02
-padmin	source\padialog.src	0	pushbutton	RID_PADIALOG	RID_PA_BTN_FONTS			70	hu	~Betűkészletek...				2002-02-02 02:02:02
+padmin	source\padialog.src	0	pushbutton	RID_PADIALOG	RID_PA_BTN_FONTS			50	hu	~Betűkészletek...				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_PADIALOG	RID_PA_BTN_FONTS			50	it	Font...				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_PADIALOG	RID_PA_BTN_FONTS			50	ja	フォント(~T)...				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_PADIALOG	RID_PA_BTN_FONTS			70	km	ពុម្ព​អក្សរ...​ 				2002-02-02 02:02:02
@@ -3059,7 +3058,7 @@ padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_CHOOSEDEV	RID_ADDP_CHDEV_
 padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_CHOOSEDEV	RID_ADDP_CHDEV_BTN_PDF			180	km	តភ្ជាប់​​កម្មវិធី​​បម្លែង ​P~DF​ មួយ​				2002-02-02 02:02:02
 padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_CHOOSEDEV	RID_ADDP_CHDEV_BTN_PDF			180	ko	PDF 컨버터 추가(~D)				2002-02-02 02:02:02
 padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_CHOOSEDEV	RID_ADDP_CHDEV_BTN_PDF			180	nb	Koble til ~PDF-konvertering				2002-02-02 02:02:02
-padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_CHOOSEDEV	RID_ADDP_CHDEV_BTN_PDF			180	nl	een P~DF-converter aansluiten				2002-02-02 02:02:02
+padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_CHOOSEDEV	RID_ADDP_CHDEV_BTN_PDF			180	nl	een P~DF-conversieprogramma aansluiten				2002-02-02 02:02:02
 padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_CHOOSEDEV	RID_ADDP_CHDEV_BTN_PDF			180	nn	Kopla til ~PDF-konvertering				2002-02-02 02:02:02
 padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_CHOOSEDEV	RID_ADDP_CHDEV_BTN_PDF			180	nr	Faka isitjhugululi se-P~DF				2002-02-02 02:02:02
 padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_CHOOSEDEV	RID_ADDP_CHDEV_BTN_PDF			180	ns	Kgokaganya sefetoši sa P~DF				2002-02-02 02:02:02
@@ -3110,7 +3109,7 @@ padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_CHOOSEDEV	RID_ADDP_CHDEV_
 padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_CHOOSEDEV	RID_ADDP_CHDEV_BTN_PRINTER			180	km	បន្ថែម​​​ម៉ាស៊ីន​​​បោះពុម្ព​​​មួយ​ 				2002-02-02 02:02:02
 padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_CHOOSEDEV	RID_ADDP_CHDEV_BTN_PRINTER			180	ko	프린터 추가(~P)				2002-02-02 02:02:02
 padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_CHOOSEDEV	RID_ADDP_CHDEV_BTN_PRINTER			180	nb	Legge til en ~skriver				2002-02-02 02:02:02
-padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_CHOOSEDEV	RID_ADDP_CHDEV_BTN_PRINTER			180	nl	een ~printer definiëren				2002-02-02 02:02:02
+padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_CHOOSEDEV	RID_ADDP_CHDEV_BTN_PRINTER			180	nl	een ~printer toevoegen				2002-02-02 02:02:02
 padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_CHOOSEDEV	RID_ADDP_CHDEV_BTN_PRINTER			180	nn	Leggja til ein ~skrivar				2002-02-02 02:02:02
 padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_CHOOSEDEV	RID_ADDP_CHDEV_BTN_PRINTER			180	nr	Ngezelela ~isigadangisi				2002-02-02 02:02:02
 padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_CHOOSEDEV	RID_ADDP_CHDEV_BTN_PRINTER			180	ns	Oketša ~segatiši				2002-02-02 02:02:02
@@ -3161,7 +3160,7 @@ padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_FAXDRIVER	RID_ADDP_FAXDRV
 padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_FAXDRIVER	RID_ADDP_FAXDRV_BTN_DEFAULT			160	km	កម្មវិធី​​បញ្ជា​​​លំនាំ​​ដើម 				2002-02-02 02:02:02
 padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_FAXDRIVER	RID_ADDP_FAXDRV_BTN_DEFAULT			160	ko	기본 드라이버(~H)				2002-02-02 02:02:02
 padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_FAXDRIVER	RID_ADDP_FAXDRV_BTN_DEFAULT			160	nb	~Standarddriveren				2002-02-02 02:02:02
-padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_FAXDRIVER	RID_ADDP_FAXDRV_BTN_DEFAULT			160	nl	de ~standaarddriver				2002-02-02 02:02:02
+padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_FAXDRIVER	RID_ADDP_FAXDRV_BTN_DEFAULT			160	nl	het ~standaardstuurprogramma				2002-02-02 02:02:02
 padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_FAXDRIVER	RID_ADDP_FAXDRV_BTN_DEFAULT			160	nn	~Standarddrivaren				2002-02-02 02:02:02
 padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_FAXDRIVER	RID_ADDP_FAXDRV_BTN_DEFAULT			160	nr	I~sitjhayeli esikhethwe yikhompyutha				2002-02-02 02:02:02
 padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_FAXDRIVER	RID_ADDP_FAXDRV_BTN_DEFAULT			160	pa-IN	ਮੂਲ ਡਰਾਈਵਰ(~h)				2002-02-02 02:02:02
@@ -3260,7 +3259,7 @@ padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_PDFDRIVER	RID_ADDP_PDFDRV
 padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_PDFDRIVER	RID_ADDP_PDFDRV_BTN_DEFAULT			160	km	កម្មវិធី​​បញ្ជា​​​លំនាំ​​ដើម 				2002-02-02 02:02:02
 padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_PDFDRIVER	RID_ADDP_PDFDRV_BTN_DEFAULT			160	ko	기본 드라이버(~H)				2002-02-02 02:02:02
 padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_PDFDRIVER	RID_ADDP_PDFDRV_BTN_DEFAULT			160	nb	~Standarddriveren				2002-02-02 02:02:02
-padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_PDFDRIVER	RID_ADDP_PDFDRV_BTN_DEFAULT			160	nl	De ~standaarddriver				2002-02-02 02:02:02
+padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_PDFDRIVER	RID_ADDP_PDFDRV_BTN_DEFAULT			160	nl	Het ~standaardstuurprogramma				2002-02-02 02:02:02
 padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_PDFDRIVER	RID_ADDP_PDFDRV_BTN_DEFAULT			160	nn	~Standarddrivaren				2002-02-02 02:02:02
 padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_PDFDRIVER	RID_ADDP_PDFDRV_BTN_DEFAULT			160	nr	I~sitjhayeli esikhethwe yikhompyutha				2002-02-02 02:02:02
 padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_PDFDRIVER	RID_ADDP_PDFDRV_BTN_DEFAULT			160	pa-IN	ਮੂਲ ਡਰਾਈਵਰ(~h)				2002-02-02 02:02:02
@@ -3409,7 +3408,7 @@ padmin	source\padialog.src	0	string	RID_ADDP_PAGE_CHOOSEDEV	RID_ADDP_STR_TITLE		
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_CHOOSEDEV	RID_ADDP_STR_TITLE			0	km	ជ្រើស​​​ប្រភេទ​​ឧបករណ៍				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_CHOOSEDEV	RID_ADDP_STR_TITLE			0	ko	장치 유형 선택				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_CHOOSEDEV	RID_ADDP_STR_TITLE			0	nb	Velg en enhetstype				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_ADDP_PAGE_CHOOSEDEV	RID_ADDP_STR_TITLE			0	nl	Kies een apparaattype				2002-02-02 02:02:02
+padmin	source\padialog.src	0	string	RID_ADDP_PAGE_CHOOSEDEV	RID_ADDP_STR_TITLE			0	nl	Een apparaattype kiezen				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_CHOOSEDEV	RID_ADDP_STR_TITLE			0	nn	Vel ein einingstype				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_CHOOSEDEV	RID_ADDP_STR_TITLE			0	nr	Khetha umhlobo wesisetjenziswa				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_CHOOSEDEV	RID_ADDP_STR_TITLE			0	ns	Kgetha mohuta wa sethuši				2002-02-02 02:02:02
@@ -3460,7 +3459,7 @@ padmin	source\padialog.src	0	string	RID_ADDP_PAGE_CHOOSEDRIVER	RID_ADDP_CHDRV_ST
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_CHOOSEDRIVER	RID_ADDP_CHDRV_STR_REMOVE			0	km	លុប​​​កម្មវិធី​​បញ្ជា				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_CHOOSEDRIVER	RID_ADDP_CHDRV_STR_REMOVE			0	ko	드라이버 삭제				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_CHOOSEDRIVER	RID_ADDP_CHDRV_STR_REMOVE			0	nb	Slett driver				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_ADDP_PAGE_CHOOSEDRIVER	RID_ADDP_CHDRV_STR_REMOVE			0	nl	Driver wissen				2002-02-02 02:02:02
+padmin	source\padialog.src	0	string	RID_ADDP_PAGE_CHOOSEDRIVER	RID_ADDP_CHDRV_STR_REMOVE			0	nl	Stuurprogramma verwijderen				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_CHOOSEDRIVER	RID_ADDP_CHDRV_STR_REMOVE			0	nn	Slett drivar				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_CHOOSEDRIVER	RID_ADDP_CHDRV_STR_REMOVE			0	nr	Sula isitjhayeli				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_CHOOSEDRIVER	RID_ADDP_CHDRV_STR_REMOVE			0	ns	Tloša mootledi				2002-02-02 02:02:02
@@ -3511,7 +3510,7 @@ padmin	source\padialog.src	0	string	RID_ADDP_PAGE_CHOOSEDRIVER	RID_ADDP_STR_TITL
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_CHOOSEDRIVER	RID_ADDP_STR_TITLE			0	km	ជ្រើស​​​កម្មវិធី​​​បញ្ជា​​​មួយ				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_CHOOSEDRIVER	RID_ADDP_STR_TITLE			0	ko	드라이버 선택				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_CHOOSEDRIVER	RID_ADDP_STR_TITLE			0	nb	Velg en driver				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_ADDP_PAGE_CHOOSEDRIVER	RID_ADDP_STR_TITLE			0	nl	Kies een driver				2002-02-02 02:02:02
+padmin	source\padialog.src	0	string	RID_ADDP_PAGE_CHOOSEDRIVER	RID_ADDP_STR_TITLE			0	nl	Kies een stuurprogramma				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_CHOOSEDRIVER	RID_ADDP_STR_TITLE			0	nn	Vel ein drivar				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_CHOOSEDRIVER	RID_ADDP_STR_TITLE			0	nr	Khetha isitjhayeli				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_CHOOSEDRIVER	RID_ADDP_STR_TITLE			0	pa-IN	ਡਰਾਈਵਰ ਚੁਣੋ				2002-02-02 02:02:02
@@ -3658,7 +3657,7 @@ padmin	source\padialog.src	0	string	RID_ADDP_PAGE_COMMAND	RID_ADDP_STR_TITLE			0
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_COMMAND	RID_ADDP_STR_TITLE			0	km	ជ្រើស​​បន្ទាត់​ពាក្យ​បញ្ជា​មួយ				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_COMMAND	RID_ADDP_STR_TITLE			0	ko	명령줄 선택				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_COMMAND	RID_ADDP_STR_TITLE			0	nb	Velg en kommandolinje				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_ADDP_PAGE_COMMAND	RID_ADDP_STR_TITLE			0	nl	Kies een commandoregel				2002-02-02 02:02:02
+padmin	source\padialog.src	0	string	RID_ADDP_PAGE_COMMAND	RID_ADDP_STR_TITLE			0	nl	Een opdrachtregel kiezen				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_COMMAND	RID_ADDP_STR_TITLE			0	nn	Vel ei kommandolinje				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_COMMAND	RID_ADDP_STR_TITLE			0	nr	Khetha ilayini y~omlayo okhambelana nesisetjenziswa				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_COMMAND	RID_ADDP_STR_TITLE			0	ns	Kgetha mothaladi wa taelo				2002-02-02 02:02:02
@@ -3709,7 +3708,7 @@ padmin	source\padialog.src	0	string	RID_ADDP_PAGE_FAXDRIVER	RID_ADDP_STR_TITLE		
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_FAXDRIVER	RID_ADDP_STR_TITLE			0	km	ជ្រើស​​​កម្មវិធី​​​បញ្ជា​​​មួយ				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_FAXDRIVER	RID_ADDP_STR_TITLE			0	ko	드라이버 선택				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_FAXDRIVER	RID_ADDP_STR_TITLE			0	nb	Velg en driver				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_ADDP_PAGE_FAXDRIVER	RID_ADDP_STR_TITLE			0	nl	Kies een driver				2002-02-02 02:02:02
+padmin	source\padialog.src	0	string	RID_ADDP_PAGE_FAXDRIVER	RID_ADDP_STR_TITLE			0	nl	Een stuurprogramma kiezen				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_FAXDRIVER	RID_ADDP_STR_TITLE			0	nn	Vel ein drivar				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_FAXDRIVER	RID_ADDP_STR_TITLE			0	nr	Khetha isitjhayeli				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_FAXDRIVER	RID_ADDP_STR_TITLE			0	pa-IN	ਡਰਾਈਵਰ ਚੁਣੋ				2002-02-02 02:02:02
@@ -3757,7 +3756,7 @@ padmin	source\padialog.src	0	string	RID_ADDP_PAGE_NAME	RID_ADDP_STR_TITLE			0	ja
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_NAME	RID_ADDP_STR_TITLE			0	km	ជ្រើស​​ឈ្មោះ​​មួយ				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_NAME	RID_ADDP_STR_TITLE			0	ko	이름 선택				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_NAME	RID_ADDP_STR_TITLE			0	nb	Velg et navn				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_ADDP_PAGE_NAME	RID_ADDP_STR_TITLE			0	nl	Kies een naam				2002-02-02 02:02:02
+padmin	source\padialog.src	0	string	RID_ADDP_PAGE_NAME	RID_ADDP_STR_TITLE			0	nl	Een naam kiezen				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_NAME	RID_ADDP_STR_TITLE			0	nn	Vel eit namn				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_NAME	RID_ADDP_STR_TITLE			0	nr	Khetha igama				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_NAME	RID_ADDP_STR_TITLE			0	ns	Kgetha leina				2002-02-02 02:02:02
@@ -3859,7 +3858,7 @@ padmin	source\padialog.src	0	string	RID_ADDP_PAGE_PDFDRIVER	RID_ADDP_STR_TITLE		
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_PDFDRIVER	RID_ADDP_STR_TITLE			0	km	ជ្រើស​​​កម្មវិធី​​​បញ្ជា​​​មួយ				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_PDFDRIVER	RID_ADDP_STR_TITLE			0	ko	드라이버 선택				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_PDFDRIVER	RID_ADDP_STR_TITLE			0	nb	Velg en driver				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_ADDP_PAGE_PDFDRIVER	RID_ADDP_STR_TITLE			0	nl	Kies een driver				2002-02-02 02:02:02
+padmin	source\padialog.src	0	string	RID_ADDP_PAGE_PDFDRIVER	RID_ADDP_STR_TITLE			0	nl	Een stuurprogramma kiezen				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_PDFDRIVER	RID_ADDP_STR_TITLE			0	nn	Vel ein drivar				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_PDFDRIVER	RID_ADDP_STR_TITLE			0	nr	Khetha isitjhayeli				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_PDFDRIVER	RID_ADDP_STR_TITLE			0	pa-IN	ਡਰਾਈਵਰ ਚੁਣੋ				2002-02-02 02:02:02
@@ -4717,7 +4716,7 @@ padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_AFMCOPYFA
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_AFMCOPYFAILED			0	km	ឯកសារ​​ប្រព័ន្ធ​​ម៉ែត្រ​​ សម្រាប់​​ឯកសារ​​ពុម្ព​អក្សរ\n%s\n​មិន​អាច​​​​​ចម្លង​បាន​​ ។ ពុម្ព​អក្សរ​​នឹង​​មិន​​ត្រូវ​​បាន​​ដំឡើង​ឡើយ ។​				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_AFMCOPYFAILED			0	ko	글꼴파일\n  %s\n의 메트릭파일을 복사하지 못했습니다. 글꼴이 설치되지 않습니다.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_AFMCOPYFAILED			0	nb	Klarte ikke kopiere fila med skriftmetrikk\n   %s\nSkrifta vil ikke bli installert.				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_AFMCOPYFAILED			0	nl	Het lettertype is niet geÃ¯nstalleerd omdat het metrische bestand voor lettertypenbestand\n %s\nniet kan worden gekopieerd.				2002-02-02 02:02:02
+padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_AFMCOPYFAILED			0	nl	Het lettertype is niet geïnstalleerd omdat het metrische bestand voor lettertypenbestand\n %s\nniet kan worden gekopieerd.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_AFMCOPYFAILED			0	nn	Klarte ikkje kopiera metrikkfila til skriftfila\n   %s\nSkrifta vil ikkje bli installert.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_AFMCOPYFAILED			0	nr	Ifayili yerherho yefayili yefonti //n// akhenge ikopeke. Ifonti angeze ifakwe.  				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_AFMCOPYFAILED			0	pa-IN	ਫੋਂਟ ਫਾਇਲ ਲਈ ਮੈਟਰਿਕ ਫਾਇਲ\n   %s\nਨਕਲ ਨਹੀਂ ਹੋ ਸਕਦੀ। ਫੋਂਟ ਇੰਸਟਾਲ ਨਹੀਂ ਹੋਣਗੇ।				2002-02-02 02:02:02
@@ -4765,7 +4764,7 @@ padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_FONTCOPYF
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_FONTCOPYFAILED			0	km	ឯកសារ​​ពុម្ព​អក្សរ​ \n   %s\nមិន​​អាច​​​ចម្លង​​បាន​ ។ ពុម្ព​អក្សរ​​នឹង​​មិន​​​ត្រូវ​​បាន​​ដំឡើង​​ឡើយ ។​				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_FONTCOPYFAILED			0	ko	글꼴파일\n  %s\n을 복사하지 못했습니다. 글꼴은 설치되지 않습니다.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_FONTCOPYFAILED			0	nb	Klarte ikke kopiere skriftfila\n   %s\nSkrifta vil ikke bli installert.				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_FONTCOPYFAILED			0	nl	Het lettertype wordt niet geÃ¯nstalleerd omdat het lettertypenbestand \n %s\n niet kan worden gekopieerd.				2002-02-02 02:02:02
+padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_FONTCOPYFAILED			0	nl	Het lettertype wordt niet geïnstalleerd omdat het lettertypenbestand \n %s\n niet kan worden gekopieerd.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_FONTCOPYFAILED			0	nn	Klarte ikkje kopiera skriftfila\n   %s\nSkrifta vil ikkje bli installert.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_FONTCOPYFAILED			0	nr	Ifayili yefonti ayikopeki. Ifonti angeze ifakwe.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_FONTCOPYFAILED			0	pa-IN	ਫੋਂਟ ਫਾਇਲ \n   %s\nਦੀ ਨਕਲ ਨਹੀਂ ਹੋਈ। ਫੋਂਟ ਇੰਸਟਾਲ ਨਹੀਂ ਹੋਣਗੇ।				2002-02-02 02:02:02
@@ -4864,7 +4863,7 @@ padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_NOAFM			0
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_NOAFM			0	km	ឯកសារ​​ទ្រង់​ទ្រាយ​មួយ​​ (ដែល​មាន​​កន្ទុយ​ .afm ) ​​​រក​មិន​​ឃើញ​សម្រាប់​​ពុម្ព​អក្សរ ​\n%s\nដូច្នេះ​ ពុម្ព​អក្សរ​មិន​អាច​ត្រូវ​បាន​ដំឡើង ។ ឧទាហរណ៍ ឯកសារ​ទ្រង់​ទ្រាយ​អាច​ត្រូវ​បាន​បង្កើត​ដោយ​ ghostscript  និង​ត្រូវ​បាន​ផ្ទុក​ក្នុង​ថតតែ​មួយ ​ដូចទៅ​នឹង​ឯកសារ​ពុម្ព​អក្សរ​ ឬ ថត​រង afm របស់​វា ។				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_NOAFM			0	ko	글꼴\n%s\n에 대한 서식 파일(확장자 .afm)을 찾지 못했으므로 글꼴을 설치할 수 없습니다. 예를 들어, 서식 파일은 고스트스크립트로 만들 수 있으며 글꼴 파일과 동일한 디렉토리나 afm 하위 디렉토리에 있어야 합니다..				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_NOAFM			0	nb	Fant ingen formatfil (med filetternavnet .afm) for skrifta\n%s\nSkrifta kan derfor ikke installeres. Du kan lage en formatfil selv med Ghostscript, og den må legges i samme mappe som skriftfilene, eller i undermappa for afm-filene.				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_NOAFM			0	nl	Lettertypenbestand\n%s\n kan niet worden geÃ¯nstalleerd omdat er geen bijbehorend formaatbestand (met extensie .afm) is gevonden. Formaatbestanden kunnen worden gemaakt met bijvoorbeeld ghostscript en moeten worden opgeslagen in de map waarin de lettertypenbestanden staan of in de afm-submap daarvan.				2002-02-02 02:02:02
+padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_NOAFM			0	nl	Lettertypenbestand\n%s\n kan niet worden geïnstalleerd omdat er geen bijbehorend formaatbestand (met extensie .afm) is gevonden. Formaatbestanden kunnen worden gemaakt met bijvoorbeeld ghostscript en moeten worden opgeslagen in de map waarin de lettertypenbestanden staan of in de afm-submap daarvan.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_NOAFM			0	nn	Fann ikkje formatfil (med filetternamnet .afm) for skrifta\n%s\nSkrifta kan difor ikkje installerast. Du kan laga ei formatfil sjølv med Ghostscript, og den må leggjast i same mappe som skriftfilene eller undermappa for afm-filer.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_NOAFM			0	nr	Indlela yefayili (enesikhulisi se.afm) ayikatholakali efontini //n%s// ngakho-ke ifonti akhenge ifakwe. Indlela yamafayili ingenziwa ye-gostskripti, isibonelo, begodu itholakale erhemeni elifanako njengefonti namkha erhemeni elincani le-afm. 				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_NOAFM			0	pa-IN	ਫੋਂਟ ਲਈ ਇੱਕ ਫਾਰਮੈਟ ਫਾਇਲ (.afm ਐਕਸਟੈਂਸ਼ਨ ਨਾਲ) ਮਿਲੀ ਹੈ\n%s\nਇਸ ਲਈ, ਫੋਂਟ ਇੰਸਟਾਲ ਨਹੀਂ ਕੀਤੇ ਜਾ ਸਕਦੇ। ਫਾਰਮੈਟ ਫਾਇਲ ਗੋਸਟਸਕਰਿਪਟ ਨਾਲ ਬਣਾਈ ਜਾ ਸਕਦੀ ਹੈ, ਉਦਾਹਰਨ ਵਜੋਂ, ਅਤੇ ਉਸੇ ਡਾਇਰੈਕਟਰੀ ਵਿੱਚ ਫੋਂਟ ਫਾਇਲ ਜਾਂ ਇਸ ਦੀ afm ਉਪ-ਡਾਇਰੈਕਟਰੀ ਤੌਰ ਤੇ ਸਥਿਤ ਹੋਣੀ ਚਾਹੀਦੀ ਹੈ।				2002-02-02 02:02:02
@@ -4912,7 +4911,7 @@ padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_NOWRITEAB
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_NOWRITEABLEFONTSDIR			0	km	ថត​​​មួយ​មាន​ឯកសារ​​​​ពុម្ព​អក្សរ​​​​ដែល​​អាច​​សរសេរ​​ចូល​​បាន​ មិន​ត្រូវ​បាន​ផ្ទុក​ក្នុង​ផ្លូវ​ពុម្ព​អក្សរ ។ ដូច្នេះ​ពុម្ព​អក្សរ​មិន​អាច​ត្រូវ​បាន​ដំឡើង ។ 				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_NOWRITEABLEFONTSDIR			0	ko	글꼴경로에서 쓸 수 있는 fonts.dir 파일을 포함하고 있는 디렉토리를 찾지 못했습니다．글꼴은 설치될 수 없습니다.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_NOWRITEABLEFONTSDIR			0	nb	Det ligger ikke en mappe som inneholder en skrivbar fonts.dir-fil i stien for skrifta. Skriftene kan derfor ikke installeres.				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_NOWRITEABLEFONTSDIR			0	nl	Er kunnen geen lettertypen worden geÃ¯nstalleerd omdat er in het pad voor de lettertypen geen map is aangetroffen met een beschrijfbaar bestand fonts.dir.				2002-02-02 02:02:02
+padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_NOWRITEABLEFONTSDIR			0	nl	Er kunnen geen lettertypen worden geïnstalleerd omdat er in het pad voor de lettertypen geen map is aangetroffen met een beschrijfbaar bestand fonts.dir.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_NOWRITEABLEFONTSDIR			0	nn	Det ligg ikkje noko mappe som inneheld ei skrivbar fonts.dir-fil i stigen for skrifta. Skriftene kan difor ikkje installerast.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_NOWRITEABLEFONTSDIR			0	nr	Irhemo elinamafoniti ongatlola phezu kwawo alitholakali endledlaneni yefonti. Ngakho-ke amafonti awafakeki.  				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_NOWRITEABLEFONTSDIR			0	ns	Tšhupetšo yeo e nago le difonto tšeo di ngwalegago.faele ya dir ga ya bewa Tsejaneng ya Fonto. Ka gona, difonto di ka se tsenywe.				2002-02-02 02:02:02
@@ -5014,7 +5013,7 @@ padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_OVERWRITE
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_OVERWRITEALL			0	km	ទាំង​អស់				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_OVERWRITEALL			0	ko	모두				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_OVERWRITEALL			0	nb	Alle				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_OVERWRITEALL			0	nl	Alle				2002-02-02 02:02:02
+padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_OVERWRITEALL			0	nl	Alles				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_OVERWRITEALL			0	nn	Alle				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_OVERWRITEALL			0	nr	Koke				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_OVERWRITEALL			0	ns	Ka moka				2002-02-02 02:02:02
@@ -5523,7 +5522,7 @@ padmin	source\padialog.src	0	string	RID_PPDIMPORT_DLG	RID_PPDIMP_STR_LOADINGPPD	
 padmin	source\padialog.src	0	string	RID_PPDIMPORT_DLG	RID_PPDIMP_STR_LOADINGPPD			0	km	កំពុង​​ស្វែង​រក​​កម្ម​វិធី​​បញ្ជា				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_PPDIMPORT_DLG	RID_PPDIMP_STR_LOADINGPPD			0	ko	드라이버 검색				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_PPDIMPORT_DLG	RID_PPDIMP_STR_LOADINGPPD			0	nb	Søker etter drivere				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_PPDIMPORT_DLG	RID_PPDIMP_STR_LOADINGPPD			0	nl	Bezig met zoeken naar drivers				2002-02-02 02:02:02
+padmin	source\padialog.src	0	string	RID_PPDIMPORT_DLG	RID_PPDIMP_STR_LOADINGPPD			0	nl	Bezig met zoeken naar stuurprogramma's				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_PPDIMPORT_DLG	RID_PPDIMP_STR_LOADINGPPD			0	nn	Søkjer etter drivarar				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_PPDIMPORT_DLG	RID_PPDIMP_STR_LOADINGPPD			0	nr	Zuma abatjhayeli				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_PPDIMPORT_DLG	RID_PPDIMP_STR_LOADINGPPD			0	ns	Go nyakwa ga baotledi				2002-02-02 02:02:02
@@ -5829,7 +5828,7 @@ padmin	source\padialog.src	0	string	RID_TXT_DRIVERDOESNOTEXIST				0	ja	プリン
 padmin	source\padialog.src	0	string	RID_TXT_DRIVERDOESNOTEXIST				0	km	កម្មវិធី​​​បញ្ជា​​សម្រាប់​​ម៉ាស៊ីន​​​បោះពុម្ព "%s1" (%s2) មិន​​​ត្រូវ​​បាន​​ដំឡើ​ង​ទេ​ ។ ដូច្នេះ​ម៉ាស៊ីន​​​បោះពុម្ព​​​​មិន​​អាច​ត្រូវ​​បាន​​​​នាំ​​ចូល​ឡើយ ។				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_TXT_DRIVERDOESNOTEXIST				0	ko	＂%s1"(%s2) 프린터의 드라이버는 설치되지 않았습니다．따라서 프린터는 가져올 수 없습니다.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_TXT_DRIVERDOESNOTEXIST				0	nb	Driveren for skriveren «%s1», (%s2) er ikke installert. Skriveren kan derfor ikke bli importert.				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_TXT_DRIVERDOESNOTEXIST				0	nl	Printer %s1 (%s2) kan niet worden geÃ¯mporteerd omdat er geen stuurprogramma voor deze printer is geÃ¯nstalleerd.				2002-02-02 02:02:02
+padmin	source\padialog.src	0	string	RID_TXT_DRIVERDOESNOTEXIST				0	nl	Printer %s1 (%s2) kan niet worden geïmporteerd omdat er geen stuurprogramma voor deze printer is geïnstalleerd.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_TXT_DRIVERDOESNOTEXIST				0	nn	Drivaren for skrivaren «%s1», (%s2) er ikkje installert. Skrivaren kan difor ikkje importerast.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_TXT_DRIVERDOESNOTEXIST				0	nr	Isitjhayeli "%s1" (%s2) asikafakwa. Ngakho-ke isigadangisi angeze safakwa.      				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_TXT_DRIVERDOESNOTEXIST				0	ns	Mootledi wa segatiši "%s1" (%s2) ga se a tsenywa. Ka gona segatiši se ka se amogelwe.				2002-02-02 02:02:02
@@ -6841,7 +6840,7 @@ padmin	source\padialog.src	0	string	RID_TXT_PRINTERALREADYEXISTS				0	ja	「%s�
 padmin	source\padialog.src	0	string	RID_TXT_PRINTERALREADYEXISTS				0	km	ម៉ាស៊ីន​​បោះ​ពុម្ព​​ដែល​​មាន​​ឈ្មោះ "%s" មាន​​រួច​​ហើយ ។ ម៉ាស៊ីន​​​បោះពុម្ព​​​នេះ នឹង​​​មិន​​​ត្រូវ​​​បាន​​​នាំ​​ចូល​​​ឡើយ​ ។				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_TXT_PRINTERALREADYEXISTS				0	ko	이미 "%s" 이름의 프린터가 있습니다. 이 프린터를 가져올 수 없습니다.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_TXT_PRINTERALREADYEXISTS				0	nb	Det finnes allerede en skriver som heter «%s». Denne skriveren vil ikke bli importert.				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_TXT_PRINTERALREADYEXISTS				0	nl	Deze printer wordt niet geÃ¯mporteerd omdat er reeds een printer met de naam "%s" voorkomt op uw systeem.				2002-02-02 02:02:02
+padmin	source\padialog.src	0	string	RID_TXT_PRINTERALREADYEXISTS				0	nl	Deze printer wordt niet geïmporteerd omdat er reeds een printer met de naam "%s" voorkomt op uw systeem.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_TXT_PRINTERALREADYEXISTS				0	nn	Ein skrivar med namnet «%s» finst frå før. Denne skrivaren vil ikkje bli importert.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_TXT_PRINTERALREADYEXISTS				0	nr	Isigadangisi esibizwa nge"%s" sele sikhona. Isigadangisi angeze silethwe.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_TXT_PRINTERALREADYEXISTS				0	ns	Segatiši seo se bitšwago "%s" se šetše se le gona. Segatiši se se ka se amogelwe.				2002-02-02 02:02:02
@@ -6892,7 +6891,7 @@ padmin	source\padialog.src	0	string	RID_TXT_PRINTERWITHOUTCOMMAND				0	ja	プリ
 padmin	source\padialog.src	0	string	RID_TXT_PRINTERWITHOUTCOMMAND				0	km	ម៉ាស៊ីន​​បោះពុម្ព​ "%s" គ្មាន​​ការ​​​កំណត់​​​រចនា​​​សម្ព័ន្ធ​​​​ត្រឹមត្រូវ​​ទេ​  ដូច្នេះ​​​វា​មិន​​អាច​​​ត្រូវ​​​បាន​​​នាំ​​ចូល​​​បាន​ឡើយ ។				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_TXT_PRINTERWITHOUTCOMMAND				0	ko	"%s" 프린터는 완벽하게 구성되지 않았습니다. 따라서 가져올 수 없습니다.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_TXT_PRINTERWITHOUTCOMMAND				0	nb	Skriveren «%s» har ikke noe gyldig oppsett og kan derfor ikke importeres.				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_TXT_PRINTERWITHOUTCOMMAND				0	nl	Printer "%s" kan niet worden geÃ¯mporteerd omdat deze geen geldige configuratie heeft.				2002-02-02 02:02:02
+padmin	source\padialog.src	0	string	RID_TXT_PRINTERWITHOUTCOMMAND				0	nl	Printer "%s" kan niet worden geïmporteerd omdat deze geen geldige configuratie heeft.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_TXT_PRINTERWITHOUTCOMMAND				0	nn	Skrivaren «%s» har ikkje noko gyldig oppsett og kan difor ikkje importerast.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_TXT_PRINTERWITHOUTCOMMAND				0	nr	Isigadangisi "%s" asinahlelo elisebenzako begodu ngalokho angeze salethwa. 				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_TXT_PRINTERWITHOUTCOMMAND				0	ns	Segatiši "%s" ga se na sebopego sa kgonthe, ka gona, se ka se amogelwe.				2002-02-02 02:02:02
@@ -7455,7 +7454,7 @@ padmin	source\rtsetup.src	0	fixedline	RID_RTS_COMMANDPAGE	RID_RTS_CMD_FL_INSTALL
 padmin	source\rtsetup.src	0	fixedline	RID_RTS_COMMANDPAGE	RID_RTS_CMD_FL_INSTALL			220	km	ជ្រើស​​​ពាក្យ​បញ្ជា				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedline	RID_RTS_COMMANDPAGE	RID_RTS_CMD_FL_INSTALL			220	ko	명령 선택				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedline	RID_RTS_COMMANDPAGE	RID_RTS_CMD_FL_INSTALL			220	nb	Velg kommando				2002-02-02 02:02:02
-padmin	source\rtsetup.src	0	fixedline	RID_RTS_COMMANDPAGE	RID_RTS_CMD_FL_INSTALL			220	nl	Commando selecteren				2002-02-02 02:02:02
+padmin	source\rtsetup.src	0	fixedline	RID_RTS_COMMANDPAGE	RID_RTS_CMD_FL_INSTALL			220	nl	Opdracht selecteren				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedline	RID_RTS_COMMANDPAGE	RID_RTS_CMD_FL_INSTALL			220	nn	Vel kommando				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedline	RID_RTS_COMMANDPAGE	RID_RTS_CMD_FL_INSTALL			220	nr	Khetha umlayo				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedline	RID_RTS_COMMANDPAGE	RID_RTS_CMD_FL_INSTALL			220	ns	Kgetha taelo				2002-02-02 02:02:02
@@ -7506,7 +7505,7 @@ padmin	source\rtsetup.src	0	fixedtext	RID_RTS_COMMANDPAGE	RID_RTS_CMD_TXT_CONFIG
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_COMMANDPAGE	RID_RTS_CMD_TXT_CONFIGURE			85	km	កំណត់​​​​រចនា​​សម្ព័ន្ធ​​​ជា 				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_COMMANDPAGE	RID_RTS_CMD_TXT_CONFIGURE			85	ko	구성(~C)				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_COMMANDPAGE	RID_RTS_CMD_TXT_CONFIGURE			85	nb	S~ett opp som				2002-02-02 02:02:02
-padmin	source\rtsetup.src	0	fixedtext	RID_RTS_COMMANDPAGE	RID_RTS_CMD_TXT_CONFIGURE			85	nl	~Configureren als				2002-02-02 02:02:02
+padmin	source\rtsetup.src	0	fixedtext	RID_RTS_COMMANDPAGE	RID_RTS_CMD_TXT_CONFIGURE			85	nl	~Instellen als				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_COMMANDPAGE	RID_RTS_CMD_TXT_CONFIGURE			85	nn	S~et opp som				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_COMMANDPAGE	RID_RTS_CMD_TXT_CONFIGURE			85	nr	~Hlanganisa njenge				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_COMMANDPAGE	RID_RTS_CMD_TXT_CONFIGURE			85	ns	~Bopa bjalo ka				2002-02-02 02:02:02
@@ -7557,7 +7556,7 @@ padmin	source\rtsetup.src	0	fixedtext	RID_RTS_COMMANDPAGE	RID_RTS_CMD_TXT_CONNEC
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_COMMANDPAGE	RID_RTS_CMD_TXT_CONNECT			210	km	ពាក្យ​​បញ្ជា ៖				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_COMMANDPAGE	RID_RTS_CMD_TXT_CONNECT			210	ko	명령: 				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_COMMANDPAGE	RID_RTS_CMD_TXT_CONNECT			210	nb	Kommando: 				2002-02-02 02:02:02
-padmin	source\rtsetup.src	0	fixedtext	RID_RTS_COMMANDPAGE	RID_RTS_CMD_TXT_CONNECT			210	nl	Commando: 				2002-02-02 02:02:02
+padmin	source\rtsetup.src	0	fixedtext	RID_RTS_COMMANDPAGE	RID_RTS_CMD_TXT_CONNECT			210	nl	Opdracht: 				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_COMMANDPAGE	RID_RTS_CMD_TXT_CONNECT			210	nn	Kommando: 				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_COMMANDPAGE	RID_RTS_CMD_TXT_CONNECT			210	nr	Umlayo				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_COMMANDPAGE	RID_RTS_CMD_TXT_CONNECT			210	ns	Taelo: 				2002-02-02 02:02:02
@@ -8773,7 +8772,7 @@ padmin	source\rtsetup.src	0	pageitem	RID_RTS_RTSDIALOG.RID_RTS_RTSDIALOG_TABCONT
 padmin	source\rtsetup.src	0	pageitem	RID_RTS_RTSDIALOG.RID_RTS_RTSDIALOG_TABCONTROL	RID_RTS_COMMANDPAGE			0	km	ពាក្យ​​​បញ្ជា​				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	pageitem	RID_RTS_RTSDIALOG.RID_RTS_RTSDIALOG_TABCONTROL	RID_RTS_COMMANDPAGE			0	ko	명령				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	pageitem	RID_RTS_RTSDIALOG.RID_RTS_RTSDIALOG_TABCONTROL	RID_RTS_COMMANDPAGE			0	nb	Kommando				2002-02-02 02:02:02
-padmin	source\rtsetup.src	0	pageitem	RID_RTS_RTSDIALOG.RID_RTS_RTSDIALOG_TABCONTROL	RID_RTS_COMMANDPAGE			0	nl	Commando				2002-02-02 02:02:02
+padmin	source\rtsetup.src	0	pageitem	RID_RTS_RTSDIALOG.RID_RTS_RTSDIALOG_TABCONTROL	RID_RTS_COMMANDPAGE			0	nl	Opdracht				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	pageitem	RID_RTS_RTSDIALOG.RID_RTS_RTSDIALOG_TABCONTROL	RID_RTS_COMMANDPAGE			0	nn	Kommando				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	pageitem	RID_RTS_RTSDIALOG.RID_RTS_RTSDIALOG_TABCONTROL	RID_RTS_COMMANDPAGE			0	nr	Laya				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	pageitem	RID_RTS_RTSDIALOG.RID_RTS_RTSDIALOG_TABCONTROL	RID_RTS_COMMANDPAGE			0	ns	Taelo				2002-02-02 02:02:02
@@ -9531,7 +9530,7 @@ padmin	source\rtsetup.src	0	string	RID_RTS_COMMANDPAGE	RID_RTS_CMD_STR_PRINTERHE
 padmin	source\rtsetup.src	0	string	RID_RTS_COMMANDPAGE	RID_RTS_CMD_STR_PRINTERHELP			0	km	បន្ទាត់​ពាក្យ​​​បញ្ជា​ ​​សម្រាប់​​​​ឧបករណ៍​​​​ម៉ាស៊ីន​​បោះ​ពុម្ព​​​ ត្រូវ​​​បាន​​​ប្រតិបត្តិ​​​ដូច​​ត​ទៅ​​នេះ​ ​៖ ​​រហស្សលិខ​​​ PostScript ដែល​​​បាន​បង្កើត​ ត្រូវ​បាន​ផ្គត់​ផ្គង់​​ជា​​ការ​​បញ្ចូល​ខ្នាត​គំរូ​ (​ឧទាហរណ៍​ ជា​បំពង់​មួយ)​ ទៅ​កាន់​បន្ទាត់​ពាក្យ​បញ្ជា​ ។				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	string	RID_RTS_COMMANDPAGE	RID_RTS_CMD_STR_PRINTERHELP			0	ko	프린터 기기의 명령행은 다음과 같이 실행됩니다: 생성된 PostScript 코드는 기본 입력 (파이프로서)으로서 명령행에 제공됩니다.				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	string	RID_RTS_COMMANDPAGE	RID_RTS_CMD_STR_PRINTERHELP			0	nb	Kommandolinja for skriverenheter utføres som følger: PostScript-koden som lages sendes som standard inn (altså som et rør) til kommandolinja.				2002-02-02 02:02:02
-padmin	source\rtsetup.src	0	string	RID_RTS_COMMANDPAGE	RID_RTS_CMD_STR_PRINTERHELP			0	nl	De commandoregel bij printers wordt als PostScript-code (standaardinvoer ofwel Pipe) verwerkt.				2002-02-02 02:02:02
+padmin	source\rtsetup.src	0	string	RID_RTS_COMMANDPAGE	RID_RTS_CMD_STR_PRINTERHELP			0	nl	De opdrachtregel bij printers wordt als PostScript-code (standaardinvoer ofwel Pipe) verwerkt.				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	string	RID_RTS_COMMANDPAGE	RID_RTS_CMD_STR_PRINTERHELP			0	nn	Kommandolinja for skrivareiningar blir utfør slik: PostScriptkoden som blir laga blir send som standard inn (altså som eit røyr) til kommandolinja.				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	string	RID_RTS_COMMANDPAGE	RID_RTS_CMD_STR_PRINTERHELP			0	nr	Ilayini lomlayo  lesisetjenziswa sokugadangisa lisetjenziswa ngendlela elandelako: ikhodi ye-Postscript eyenziweko inikelwa njengokufakwako okujayelekileko (njengephayiphi) elayinini yomlayo.  				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	string	RID_RTS_COMMANDPAGE	RID_RTS_CMD_STR_PRINTERHELP			0	ns	Mothaladi wa taelo bakeng sa didirišwa tša kgatišo di phethilwe ka tsela e latelago: khoutu yeo e hlagišitšwego ya PostScript e abjwa bjalo ka go tsenya letsogo ga motheo (e lego, bjalo ka pompi) go ya mothalading wa taelo.				2002-02-02 02:02:02
@@ -9685,7 +9684,7 @@ padmin	source\rtsetup.src	0	string	RID_RTS_RTSDIALOG	RID_RTS_RTSDIALOG_FROMDRIVE
 padmin	source\rtsetup.src	0	string	RID_RTS_RTSDIALOG	RID_RTS_RTSDIALOG_FROMDRIVER_TXT			0	km	ពី​កម្មវិធី​បញ្ជា				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	string	RID_RTS_RTSDIALOG	RID_RTS_RTSDIALOG_FROMDRIVER_TXT			0	ko	드라이버로부터				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	string	RID_RTS_RTSDIALOG	RID_RTS_RTSDIALOG_FROMDRIVER_TXT			0	nb	fra driver				2002-02-02 02:02:02
-padmin	source\rtsetup.src	0	string	RID_RTS_RTSDIALOG	RID_RTS_RTSDIALOG_FROMDRIVER_TXT			0	nl	van driver				2002-02-02 02:02:02
+padmin	source\rtsetup.src	0	string	RID_RTS_RTSDIALOG	RID_RTS_RTSDIALOG_FROMDRIVER_TXT			0	nl	van stuurprogramma				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	string	RID_RTS_RTSDIALOG	RID_RTS_RTSDIALOG_FROMDRIVER_TXT			0	nn	frå drivar				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	string	RID_RTS_RTSDIALOG	RID_RTS_RTSDIALOG_FROMDRIVER_TXT			0	nr	Ibuya kumtjhayeli				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	string	RID_RTS_RTSDIALOG	RID_RTS_RTSDIALOG_FROMDRIVER_TXT			0	ns	go tšwa mootleding				2002-02-02 02:02:02
