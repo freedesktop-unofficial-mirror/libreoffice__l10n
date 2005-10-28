@@ -13,9 +13,9 @@
 #
 #   $RCSfile: localize.sdf,v $
 #
-#   $Revision: 1.16 $
+#   $Revision: 1.17 $
 #
-#   last change: $Author: rt $ $Date: 2005-09-08 16:43:53 $
+#   last change: $Author: hr $ $Date: 2005-10-28 09:55:44 $
 #
 #   The Contents of this file are made available subject to
 #   the terms of GNU Lesser General Public License Version 2.1.
@@ -41,7 +41,6 @@
 #     MA  02111-1307  USA
 #
 #*************************************************************************
-#
 dbaccess	source\ui\tabledesign\table.src	0	#define	MID_INDEXDESIGN		SID_INDEXDESIGN		0	ar	تصميم الفهرس				20040507 14:21:37
 dbaccess	source\ui\tabledesign\table.src	0	#define	MID_INDEXDESIGN		SID_INDEXDESIGN		0	ca	Disseny de l'índex				20040507 14:21:37
 dbaccess	source\ui\tabledesign\table.src	0	#define	MID_INDEXDESIGN		SID_INDEXDESIGN		0	cs	Návrh rejstříku...				2002-02-02 02:02:02
@@ -57,7 +56,7 @@ dbaccess	source\ui\tabledesign\table.src	0	#define	MID_INDEXDESIGN		SID_INDEXDES
 dbaccess	source\ui\tabledesign\table.src	0	#define	MID_INDEXDESIGN		SID_INDEXDESIGN		0	it	~Struttura indice...				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	#define	MID_INDEXDESIGN		SID_INDEXDESIGN		0	ja	インデックスデザイン(~I)...				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	#define	MID_INDEXDESIGN		SID_INDEXDESIGN		0	ko	색인 디자인(~I)				2002-02-02 02:02:02
-dbaccess	source\ui\tabledesign\table.src	0	#define	MID_INDEXDESIGN		SID_INDEXDESIGN		0	nl	~Ontwerp-index...				2002-02-02 02:02:02
+dbaccess	source\ui\tabledesign\table.src	0	#define	MID_INDEXDESIGN		SID_INDEXDESIGN		0	nl	~Indexontwerp...				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	#define	MID_INDEXDESIGN		SID_INDEXDESIGN		0	pl	Projekt ~indeksu...				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	#define	MID_INDEXDESIGN		SID_INDEXDESIGN		0	pt	E~sboçar índice...				2003-10-21 16:54:08.14
 dbaccess	source\ui\tabledesign\table.src	0	#define	MID_INDEXDESIGN		SID_INDEXDESIGN		0	pt-BR	Design do ~Índice...				2002-02-02 02:02:02
@@ -129,7 +128,7 @@ dbaccess	source\ui\tabledesign\table.src	0	fixedtext	FIXED_NO_CONNECTION				120	
 dbaccess	source\ui\tabledesign\table.src	0	fixedtext	FIXED_NO_CONNECTION				120	it	nessun collegamento				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	fixedtext	FIXED_NO_CONNECTION				120	ja	接続なし				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	fixedtext	FIXED_NO_CONNECTION				120	ko	연결되지 않음				2002-02-02 02:02:02
-dbaccess	source\ui\tabledesign\table.src	0	fixedtext	FIXED_NO_CONNECTION				120	nl	geen verbinding				2002-02-02 02:02:02
+dbaccess	source\ui\tabledesign\table.src	0	fixedtext	FIXED_NO_CONNECTION				120	nl	Geen verbinding				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	fixedtext	FIXED_NO_CONNECTION				120	pl	Brak połączenia				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	fixedtext	FIXED_NO_CONNECTION				120	pt	Sem ligação				2003-10-21 16:54:08.14
 dbaccess	source\ui\tabledesign\table.src	0	fixedtext	FIXED_NO_CONNECTION				120	pt-BR	Sem conexão				2002-02-02 02:02:02
@@ -296,7 +295,7 @@ dbaccess	source\ui\tabledesign\table.src	0	menuitem	RID_TABLE_DESIGN_MAIN_MENU.M
 dbaccess	source\ui\tabledesign\table.src	0	menuitem	RID_TABLE_DESIGN_MAIN_MENU.MN_EDIT	SID_REDO	SID_REDO		0	it	Ripristina				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	menuitem	RID_TABLE_DESIGN_MAIN_MENU.MN_EDIT	SID_REDO	SID_REDO		0	ja	やり直し				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	menuitem	RID_TABLE_DESIGN_MAIN_MENU.MN_EDIT	SID_REDO	SID_REDO		0	ko	다시 실행				2002-02-02 02:02:02
-dbaccess	source\ui\tabledesign\table.src	0	menuitem	RID_TABLE_DESIGN_MAIN_MENU.MN_EDIT	SID_REDO	SID_REDO		0	nl	Herstellen				2002-02-02 02:02:02
+dbaccess	source\ui\tabledesign\table.src	0	menuitem	RID_TABLE_DESIGN_MAIN_MENU.MN_EDIT	SID_REDO	SID_REDO		0	nl	Opnieuw				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	menuitem	RID_TABLE_DESIGN_MAIN_MENU.MN_EDIT	SID_REDO	SID_REDO		0	pl	Ponów				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	menuitem	RID_TABLE_DESIGN_MAIN_MENU.MN_EDIT	SID_REDO	SID_REDO		0	pt	Restaurar				2003-10-21 16:54:08.14
 dbaccess	source\ui\tabledesign\table.src	0	menuitem	RID_TABLE_DESIGN_MAIN_MENU.MN_EDIT	SID_REDO	SID_REDO		0	pt-BR	Refazer				2002-02-02 02:02:02
@@ -1140,7 +1139,7 @@ dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_DEFAULT_VALUE				0	ja
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_DEFAULT_VALUE				0	km	បញ្ចូល​តម្លៃ​លំនាំដើម​មួយ សម្រាប់​វាល​​នេះ ។\n\nលើក​ក្រោយ ពេល​អ្នក​បញ្ចូល​ទិន្នន័យ​ក្នុង​តារាង ខ្សែ​អក្សរ​នេះនឹង​ត្រូវ​បាន​ប្រើក្នុង​កំណត់​ត្រា​ថ្មីនិមួយៗ សម្រាប់​វាល​​ដែល​បាន​ជ្រើស ។ ដូច្នេះ វា​គួរ​តែ​ត្រូវ​គ្នា​ទៅ​នឹង​ទ្រង់​ទ្រាយ​ក្រឡា​ ​ដែល​ត្រូវ​បញ្ចូល​ខាង​ក្រោម ។				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_DEFAULT_VALUE				0	ko	이 필드를 위한 기본 값을 입력하십시오.\n\n나중에 시트에 데이터를 입력하게 되면 모든 새 레코드에서 활성화된 필드에 이 문자열이 사용될 것입니다. 따라서 이 문자열은 아래에 입력할 셀 서식에 적합해야 합니다.				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_DEFAULT_VALUE				0	nb	Skriv inn en standardverdi for dette feltet. \n\nNår du senere skriver inn data i tabellen, vil denne strengen bli brukt i hver nye post i det utvalgte feltet. Det bør derfor tilsvare celleformatet som du må skrive inn nedenfor.				2002-02-02 02:02:02
-dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_DEFAULT_VALUE				0	nl	Geef hier een standaardwaarde voor dit veld op.\n\nAls u later gegevens invoert in de tabel, wordt deze tekenreeks in elke nieuwe record gebruikt voor het geselecteerde veld. De tekenreeks moet daarom corresponderen met de hierna te definiÃ«ren celopmaak.				2002-02-02 02:02:02
+dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_DEFAULT_VALUE				0	nl	Geef hier een standaardwaarde voor dit veld op.\n\nAls u later gegevens invoert in de tabel, wordt deze tekenreeks in elke nieuwe record gebruikt voor het geselecteerde veld. De tekenreeks moet daarom corresponderen met de hierna te definiëren celopmaak.				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_DEFAULT_VALUE				0	nn	Skriv inn ein standardverdi for dette feltet. \n\nNår du seinare skriv inn data i tabellen, vil denne strengen bli brukt i kvar nye post i det valde feltet. Det bør difor tilsvara celleformatet som du må skriva inn nedanfor.				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_DEFAULT_VALUE				0	pa-IN	ਇਸ ਕਾਲਮ ਲਈ ਮੂਲ ਮੁੱਲ ਭਰੋ।\n\nਬਾਅਦ ਵਿੱਚ ਜਦੋਂ ਤੁਸੀਂ ਸਾਰਣੀ ਵਿੱਚ ਡਾਟਾ ਭਰਦੇ ਹੋ, ਇਹ ਸਤਰ ਚੁਣੇ ਕਾਲਮ ਲਈ ਹਰ ਨਵੇਂ ਰਿਕਾਰਡ ਵਿੱਚ ਵਰਤੀ ਜਾਵੇਗੀ। ਇਹ ਲਈ ਇਹ, ਸੈੱਲ ਜੋ ਹੇਠਾਂ ਭਰਨਾ ਹੋਵੇਗਾ ਦੇ ਅਨੁਸਾਰੀ ਹੋਣੀ ਚਾਹੀਦੀ ਹੈ।				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_DEFAULT_VALUE				0	pl	Należy podać wartość domyślną tego pola.\n\nPóźniej podczas wpisywania danych do tabeli ciąg ten zostanie użyty w zaznaczonym polu każdego nowego rekordu. Format ciągu znaków powinien zgadzać się z podanym niżej formatem komórek.				2002-02-02 02:02:02
@@ -1183,7 +1182,7 @@ dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_FIELD_REQUIRED				0	j
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_FIELD_REQUIRED				0	km	ធ្វើ​ឲ្យ​ជម្រើស​នេះ​សកម្ម ប្រសិន​បើ​វាល​នេះ​ មិន​អាច​មាន​តម្លៃ NULL, ឧទាហរណ៍ អ្នក​ប្រើ​​ត្រូវ​តែ​បញ្ចូល​ទិន្នន័យ​ជានិច្ច ។				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_FIELD_REQUIRED				0	ko	이 필드에 NULL 값이 허용되어 있지 않아 사용자가 항상 데이터를 입력해야 할 경우 이 옵션을 활성화하십시오.				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_FIELD_REQUIRED				0	nb	Slå på dette alternativet hvis dette feltet ikke kan inneholde NULL-verdier. Det vil si at brukeren alltid må skrive inn data.				2002-02-02 02:02:02
-dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_FIELD_REQUIRED				0	nl	Activeer deze optie als in dit veld geen NUL-waarde is toegestaan, d.w.z. dat de gebruiker hier altijd iets moet invullen.				2002-02-02 02:02:02
+dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_FIELD_REQUIRED				0	nl	Activeer deze optie als in dit veld geen NULL-waarde is toegestaan, d.w.z. dat de gebruiker hier altijd iets moet invullen.				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_FIELD_REQUIRED				0	nn	Slå på dette alternativet dersom dette feltet ikkje kan innehalda NULL-verdier, det vil seia at brukaren alltid må skriva inn data.				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_FIELD_REQUIRED				0	ns	Diriša sekgetho sa fila ge eba fila ye ga e na mehola ya LEFEELA, bjalo ka modiriši o swanetše go tsenya difiwa ka mehla.				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_FIELD_REQUIRED				0	pa-IN	ਜੇ ਖੇਤਰ ਵਿੱਚ NULL ਮੁੱਲ ਨਹੀਂ ਤਾਂ ਇਹ ਚੋਣ ਸਰਗਰਮ ਕਰੋ, ਮਤਲਬ ਕਿ ਉਪਭੋਗੀ ਨੂੰ ਹਮੇਸ਼ਾ ਡਾਟਾ ਭਰਨਾ ਹੋਵੇਗਾ।				2002-02-02 02:02:02
@@ -1918,7 +1917,7 @@ dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABED_UNDO_ROWDELETED				0
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABED_UNDO_ROWDELETED				0	km	លុប​ជួរដេក				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABED_UNDO_ROWDELETED				0	ko	행 삭제				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABED_UNDO_ROWDELETED				0	nb	Slett rad				2002-02-02 02:02:02
-dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABED_UNDO_ROWDELETED				0	nl	Rij wissen				2002-02-02 02:02:02
+dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABED_UNDO_ROWDELETED				0	nl	Rij verwijderen				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABED_UNDO_ROWDELETED				0	nn	Slett rad				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABED_UNDO_ROWDELETED				0	ns	Phumula mothaladi				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABED_UNDO_ROWDELETED				0	pa-IN	ਕਤਾਰ ਹਟਾਓ				2002-02-02 02:02:02
@@ -2191,13 +2190,13 @@ dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_DBFIELDTYPES		
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_DBFIELDTYPES				0	he	Unbekannt;Text;Zahl;Datum/Zeit;Datum;Zeit;Ja/Nein;Währung;Memo;Zähler;Bild;Text (fix);Dezimal;Binärfeld (fix);Binärfeld;BigInt;Double;Float;Real;Integer;Small Integer;Tiny Integer;SQL Null;Objekt;Distinct;Struktur;Feld;BLOB;CLOB;REF;OTHER				20040507 14:21:37
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_DBFIELDTYPES				0	hi-IN	अज्ञात;टेक्स्ट्;संख्या;दिनांक/समय;दिनांक;समय;हाँ/नहीं;मुद्रा;स्मृतिपत्र;गिनती;चित्र;टेक्स्ट् (स्थिर);दशांश;बैनरी (स्थिर);बैनरी;BigInt;डबल;फ्लोट;रियल;पूर्णांक;छोटा पूर्णांक;बहुत छोटा पूर्णांक;SQL Null;वस्तु;अनोखा;बनावट;क्षेत्र;BLOB;CLOB;REF;OTHER				20040507 14:21:37
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_DBFIELDTYPES				0	hr	Unknown;Text;Number;Date/Time;Date;Time;Yes/No;Currency;Memo;Counter;Image;Text (fix);Decimal;Binary (fix);Binary;BigInt;Double;Float;Real;Integer;Small Integer;Tiny Integer;SQL Null;Object;Distinct;Structure;Field;BLOB;CLOB;REF;OTHER				2002-02-02 02:02:02
-dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_DBFIELDTYPES				0	hu	Unknown;Text;Number;Date/Time;Date;Time;Yes/No;Currency;Memo;Counter;Image;Text (fix);Decimal;Binary (fix);Binary;BigInt;Double;Float;Real;Integer;Small Integer;Tiny Integer;SQL Null;Object;Distinct;Structure;Field;BLOB;CLOB;REF;OTHER				2002-02-02 02:02:02
+dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_DBFIELDTYPES				0	hu	Ismeretlen;Szöveg;Szám;Dátum/Idő;Dátum;Idő;Igen/Nem;Pénznem;Memo;Számláló;Kép;Szöveg (fix);Decimális;Bináris (fix);Bináris;NagyEgész;Duplapontos;Lebegőpontos;Valós;Egész;Kis egész;Apró egész;SQL Null;Objektum;Különálló;Struktúra;Mező;BLOB;CLOB;REF;EGYÉB				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_DBFIELDTYPES				0	it	Sconosciuto;Testo;Numero;Data/Ora;Data;Ora;Sì/No;Valuta;Memo;Contatore;Immagine;Testo(fisso);Decimale;Campo binario (fisso);Campo binario;BigInt;Double;(Numero in )Virgola mobile;Reale;Intero;Intero piccolo;Intero molto piccolo;SQL nullo;Oggetto;Distinto;Struttura;Campo;BLOB;CLOB;REF;Altro				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_DBFIELDTYPES				0	ja	不明;テキスト;数値;日付/時刻;日付;時刻;はい/いいえ;通貨単位;メモ;カウンタ;イメージ;テキスト(固定);十進数;二進数(固定);二進数;長整数;倍精度浮動小数点;浮動小数点;実数;整数;短整数;最短整数;SQL ヌル;オブジェクト;Distinct;構造;フィールド;BLOB;CLOB;REF;その他				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_DBFIELDTYPES				0	km	Unknown;Text;Number;Date/Time;Date;Time;Yes/No;Currency;Memo;Counter;Image;Text (fix);Decimal;Binary (fix);Binary;BigInt;Double;Float;Real;Integer;Small Integer;Tiny Integer;SQL Null;Object;Distinct;Structure;Field;BLOB;CLOB;REF;OTHER				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_DBFIELDTYPES				0	ko	알 수 없는;텍스트;수;날짜/시간;날짜;시간;예/아니오;화폐;메모;카운터;이미지;텍스트 (고정);10진;2진 (고정);2진;BigInt;더블;부동;Real;정수;작은 정수;작은 정수;SQL 널;개체;Distinct;Struct;필드;BLOB;CLOB;REF;OTHER				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_DBFIELDTYPES				0	nb	Ukjent;Tekst;Tall;Dato/klokkeslett;Dato;Klokkeslett;Ja/nei;Valuta;Notat;Teller;Bilde;Tekst (fast);Desimal;Binær (fast);Binær;Stort heltall;Dobbel;Flyttall;Reell;Heltall;Lite heltall;Ekstra lite heltall;SQL Null;Objekt;Distinkt;Struktur;Felt;BLOB;CLOB;REF;ANNET				2002-02-02 02:02:02
-dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_DBFIELDTYPES				0	nl	Onbekend;Tekst;Nummer;Datum/Tijd;Datum;Tijd;Ja/Nee;Valuta;Memo;Teller;Afbeelding;Tekst (vast);Decimaal;Binair (vast);Binair;BigInt;Double;Float;Real;Integer;Small Integer;Tiny Integer;SQL Null;Object;Distinct;Structuur;Veld;BLOB;CLOB;REF;OTHER				2002-02-02 02:02:02
+dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_DBFIELDTYPES				0	nl	Onbekend;Tekst;Nummer;Datum/Tijd;Datum;Tijd;Ja/Nee;Valuta;Memo;Teller;Afbeelding;Tekst (vast);Decimaal;Binair (vast);Binair;BigInt;Double;Float;Real;Geheel getal;Klein geheel getal;Zeer klein geheel getal;SQL Null;Object;Distinct;Structuur;Veld;BLOB;CLOB;REF;OTHER				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_DBFIELDTYPES				0	nn	Ukjent;Tekst;Tal;Dato/klokkeslett;Dato;Klokkeslett;Ja/nei;Valuta;Notat;Teljar;Bilete;Tekst (fast);Desimal;Binær (fast);Binær;Stort heiltal;Dobbel;Flyttal;Reell;Heiltal;Lite heiltal;Ekstra lite heiltal;SQL Null;Objekt;Distinkt;Struktur;Felt;BLOB;CLOB;REF;ANNA				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_DBFIELDTYPES				0	ns	Ya go se tsebiwe;Diteng;Palo;Letšatši/Nako;Latšatši;Nako;Eng/Aowa;Tšhelete;Kgopotšo;Khaontara;Seswantšho;Diteng (lokiša);Tesimale;Baenari (lokiša);Baenari;BigInt;Bedi;Phaphamala;Nnetel;Palopatlo;Palopatlo e Nnyane;Palopatlo e Tshese;SQL Leefela;Sedirišwa;Fapanago;Leago;Fila;BLOB;CLOB;REF;TšE DINGWE				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_DBFIELDTYPES				0	pa-IN	ਅਣਪਛਾਤੀ;ਪਾਠ;ਅੰਕ;ਮਿਤੀ/ਸਮਾਂ;ਮਿਤੀ;ਸਮਾਂ;ਹਾਂ/ਨਹੀਂ;ਮੁਦਰਾ;ਮੀਮੋ;ਕਾਊਂਟਰ;ਚਿਤਰ; ਪਾਠ (ਪੱਕਾ);ਦਸ਼ਮਲਵ;ਬਾਇਨਰੀ (ਪੱਕਾ);ਬਾਇਨਰੀ;ਵੱਡਾ-ਪੂਰਨਅੰਕ;ਡਬਲ;ਫਲੋਟ;ਅਸਲੀ;ਪੂਰਨਅੰਕ; ਛੋਟਾ ਪੂਰਨਅੰਕ;ਬਹੁਤ ਛੋਟਾ ਪੂਰਨਅੰਕ;SQL Null; ਇਕਾਈ;ਵੱਖਰਾ;ਢਾਂਚਾ;ਕਾਲਮ;;BLOB;CLOB;REF;OTHER				2002-02-02 02:02:02
@@ -2289,7 +2288,7 @@ dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_NO_PRIM_KEY			
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_NO_PRIM_KEY				0	km	ទាម​ទារ​លិបិក្រម​តែ​មួយ​គត់ ឬ កូនសោ​សំខាន់​​មួយ ដើម្បី​ចង្អុល​បង្ហាញ​កំណត់​ត្រា​របស់​ទិន្នន័យ​ ក្នុង​មូលដ្ឋាន​ទិន្នន័យ​នេះ ​។\nអ្នក​អាច​បញ្ចូល​ទិន្នន័យ​ចូល​ក្នុង​តារាង​នេះ តែ​ក្នុង​ករណី​អ្នក​បាន​បំពេញ​លក្ខខណ្ឌ​មួយ ក្នុង​ចំណោម​លក្ខខណ្ឌ​រចនាសម្ព័ន្ធ​ទាំង​ពីរ​ខាង​លើ​ប៉ុណ្ណោះ ។\n\nតើ​គួរ​បង្កើត​កូន​សោ​សំខាន់​ឥឡូវ​នេះ​ឬ​ទេ ?				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_NO_PRIM_KEY				0	ko	이 데이터베이스에서 데이터 레코드를 식별하려면 단일 색인이나 기본 키가 있어야 합니다.\n이 두 가지 구조 조건 중에서 하나가 충족되어야만 데이터를 테이블에 입력할 수 있습니다.\n\n지금 기본 키를 생성하겠습니까?				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_NO_PRIM_KEY				0	nb	En entydig indeks eller en primærnøkkel er nødvendig for å identifisere dataposter i denne databasen. \nDu kan ikke skrive inn data i denne tabellen hvis ikke ett av disse to strukturelle vilkårene er møtt. \n\nVil du lage en primærnøkkel nå?				2002-02-02 02:02:02
-dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_NO_PRIM_KEY				0	nl	In deze database is een 'unique index', ofwel een primaire sleutel, vereist ter identificatie van records.\nU kunt alleen gegevens invoeren in de tabel als u voldoet aan een van deze beide criteria.\nWilt u nu een primaire sleutel definiÃ«ren?				2002-02-02 02:02:02
+dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_NO_PRIM_KEY				0	nl	In deze database is een 'unique index', ofwel een primaire sleutel, vereist ter identificatie van records.\nU kunt alleen gegevens invoeren in de tabel als u voldoet aan een van deze beide criteria.\nWilt u nu een primaire sleutel definiëren?				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_NO_PRIM_KEY				0	nn	Ein eintydig indeks eller ein primærnøkkel trengst for å identifisera datapostar i denne databasen.\nDu kan ikkje skriva inn data i denne tabellen dersom ikkje eitt av desse to strukturelle vilkåra er møtte.\n\nVil du laga ein primærnøkkel no?				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_NO_PRIM_KEY				0	pa-IN	ਇਸ ਡਾਟਾਬੇਸ ਵਿੱਚ ਰਿਕਾਰਡ ਦੀ ਪਹਿਚਾਣ ਲਈ ਇੱਕ ਇਕੱਲਾ ਤਤਕਰਾ ਜਾਂ ਪ੍ਰਾਇਮਰੀ ਕੁੰਜੀ ਦੀ ਜਰੂਰਤ ਹੈ।\nਤੁਸੀਂ ਸਾਰਣੀ ਵਿੱਚ ਡਾਟਾ ਸਿਰਫ ਉਦੋਂ ਭਰ ਸਕਦੇ ਹੋ, ਜਦੋਂ ਇਹ ਦੋ ਢਾਂਚਾ ਹਾਲਤਾ ਵਿੱਚੋਂ ਇੱਕ ਮੌਜੂਦ ਹੋਵੇ।\n\nਕੀ ਹੁਣ ਪ੍ਰਾਇਮਰੀ ਕੁੰਜੀ ਬਣਾਈ ਜਾਵੇ?				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_NO_PRIM_KEY				0	pl	Dla identyfikacji rekordów w tej bazie danych wymagany jest unikatowy indeks lub klucz główny.\nDane będzie można wprowadzać do tabeli dopiero wtedy, gdy jedno z tych dwóch kryteriów zostanie spełnione.\n\nCzy utworzyć teraz klucz główny?				2002-02-02 02:02:02
