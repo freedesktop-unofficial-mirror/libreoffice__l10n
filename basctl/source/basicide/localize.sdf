@@ -13,9 +13,9 @@
 #
 #   $RCSfile: localize.sdf,v $
 #
-#   $Revision: 1.13 $
+#   $Revision: 1.14 $
 #
-#   last change: $Author: rt $ $Date: 2005-09-07 20:05:08 $
+#   last change: $Author: hr $ $Date: 2005-10-28 10:31:45 $
 #
 #   The Contents of this file are made available subject to
 #   the terms of GNU Lesser General Public License Version 2.1.
@@ -41,7 +41,6 @@
 #     MA  02111-1307  USA
 #
 #*************************************************************************
-#
 basctl	source\basicide\basidesh.src	0	imagebutton	RID_IMGBTN_REMOVEWATCH		HID_BASICIDE_REMOVEWATCH		0	af	-		Verwyder horlosie		2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	imagebutton	RID_IMGBTN_REMOVEWATCH		HID_BASICIDE_REMOVEWATCH		0	ar	-		إزالة المراقب		20040507 14:21:2
 basctl	source\basicide\basidesh.src	0	imagebutton	RID_IMGBTN_REMOVEWATCH		HID_BASICIDE_REMOVEWATCH		0	be-BY	-		Выдаліць назіральніка		2002-02-02 02:02:02
@@ -66,7 +65,7 @@ basctl	source\basicide\basidesh.src	0	imagebutton	RID_IMGBTN_REMOVEWATCH		HID_BA
 basctl	source\basicide\basidesh.src	0	imagebutton	RID_IMGBTN_REMOVEWATCH		HID_BASICIDE_REMOVEWATCH		0	km	-		យក​​ការ​​ឃ្លាំ​​មើល​​ចេញ		2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	imagebutton	RID_IMGBTN_REMOVEWATCH		HID_BASICIDE_REMOVEWATCH		0	ko	-		조사식 제거		2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	imagebutton	RID_IMGBTN_REMOVEWATCH		HID_BASICIDE_REMOVEWATCH		0	nb	-		Fjern overvåkning		2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	imagebutton	RID_IMGBTN_REMOVEWATCH		HID_BASICIDE_REMOVEWATCH		0	nl	-		Bewaker verwijderen		2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	imagebutton	RID_IMGBTN_REMOVEWATCH		HID_BASICIDE_REMOVEWATCH		0	nl	-		Controle verwijderen		2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	imagebutton	RID_IMGBTN_REMOVEWATCH		HID_BASICIDE_REMOVEWATCH		0	nn	-		Fjern overvaking		2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	imagebutton	RID_IMGBTN_REMOVEWATCH		HID_BASICIDE_REMOVEWATCH		0	nr	-		Remove Watch		2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	imagebutton	RID_IMGBTN_REMOVEWATCH		HID_BASICIDE_REMOVEWATCH		0	ns	-		Tloša Sešupanako		2002-02-02 02:02:02
@@ -1712,7 +1711,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_ENTERPASSWORD				0	gu-IN	'X
 basctl	source\basicide\basidesh.src	0	string	RID_STR_ENTERPASSWORD				0	he	Kennwort eingeben für 'XX'				20040507 14:21:1
 basctl	source\basicide\basidesh.src	0	string	RID_STR_ENTERPASSWORD				0	hi-IN	Enter password for 'XX'				20040507 14:21:1
 basctl	source\basicide\basidesh.src	0	string	RID_STR_ENTERPASSWORD				0	hr	Unesite lozinku za 'XX'				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_ENTERPASSWORD				0	hu	Írja be 'XX' jelszavát!				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_ENTERPASSWORD				0	hu	Írja be 'XX' jelszavát				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_ENTERPASSWORD				0	it	Digita password per 'XX'				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_ENTERPASSWORD				0	ja	'XX' のパスワードを入力します				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_ENTERPASSWORD				0	km	បញ្ចូល​​​​ពាក្យ​​​​សម្ងាត់​​​​សម្រាប់​ ​​'XX'				2002-02-02 02:02:02
@@ -1906,7 +1905,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_FILEEXISTS				0	ja	「XX」
 basctl	source\basicide\basidesh.src	0	string	RID_STR_FILEEXISTS				0	km	ឯកសារ​​ 'XX' ​មាន​​​រួច​​​ហើយ​​				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_FILEEXISTS				0	ko	파일'XX' 은 (는) 이미 존재합니다.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_FILEEXISTS				0	nb	Fila «XX» finnes allerede				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_FILEEXISTS				0	nl	Bestand ''XX' bestaat reeds				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_FILEEXISTS				0	nl	Bestand XX bestaat reeds				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_FILEEXISTS				0	nn	Fila «XX» finst frå før				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_FILEEXISTS				0	ns	Faele ya 'XX' e šetše e le gona				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_FILEEXISTS				0	pa-IN	'XX' ਫਾਇਲ ਪਹਿਲਾਂ ਹੀ ਮੌਜੂਦ ਹੈ				2002-02-02 02:02:02
@@ -2843,7 +2842,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELLIB				0	ja	ライ�
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELLIB				0	km	តើ​អ្នក​ចង់​លុប​បណ្ណាល័យ​ XX ឬទេ​ ?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELLIB				0	ko	라이브러리 XX을(를) 삭제하시겠습니까 ?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELLIB				0	nb	Vil du slette biblioteket XX?				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELLIB				0	nl	Wilt u de bibliotheek XX wissen?				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELLIB				0	nl	Wilt u de bibliotheek XX verwijderen?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELLIB				0	nn	Vil du sletta biblioteket XX?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELLIB				0	ns	Na o nyaka go tloša bokgobapuku XX?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELLIB				0	pa-IN	ਤੁਸੀਂ XX ਲਾਇਬ੍ਰੇਰੀ ਨੂੰ ਹਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?				2002-02-02 02:02:02
@@ -2889,7 +2888,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELLIBREF				0	ja	ラ�
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELLIBREF				0	km	តើ​​អ្នក​​​ចង់​​លុប​​សេចក្តី​​​យោង​​ទៅ​​នឹង​​បណ្ណា​ល័យ​​ XX ​ឬទេ ?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELLIBREF				0	ko	라이브러리 XX에 있는 참조를 삭제하시겠습니까?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELLIBREF				0	nb	Vil du slette referansen til biblioteket XX?				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELLIBREF				0	nl	Wilt u de verwijzing naar de bibliotheek XX wissen?				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELLIBREF				0	nl	Wilt u de verwijzing naar de bibliotheek XX verwijderen?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELLIBREF				0	nn	Vil du sletta referansen til biblioteket XX?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELLIBREF				0	ns	Na o nyaka go tloša tšhupetšo go bokgobapuku XX?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELLIBREF				0	pa-IN	ਕੀ ਤੁਸੀਂ XX ਲਾਇਬ੍ਰੇਰੀ ਲਈ ਹਵਾਲਾ ਹਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?				2002-02-02 02:02:02
@@ -2935,7 +2934,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELMACRO				0	ja	マ�
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELMACRO				0	km	តើ​​​អ្នក​​​ចង់​​​លុប​​​ម៉ា​ក្រូ​ ​XX ​ឬទេ​ ?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELMACRO				0	ko	매크로 XX을(를）삭제하시겠습니까?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELMACRO				0	nb	Vil du slette makroen XX?				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELMACRO				0	nl	Wilt u de macro XX wissen?				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELMACRO				0	nl	Wilt u de macro XX verwijderen?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELMACRO				0	nn	Vil du sletta makroen XX?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELMACRO				0	ns	Na o nyaka go tloša makro XX ?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELMACRO				0	pa-IN	ਕੀ ਤੁਸੀਂ XX ਮਾਇਕਰੋ ਨੂੰ ਹਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ ?				2002-02-02 02:02:02
@@ -2981,7 +2980,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELMODULE				0	ja	モ�
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELMODULE				0	km	តើ​អ្នក​ចង់​លុប​ម៉ូ​ឌុល​ XX ឬទេ​ ?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELMODULE				0	ko	모듈 XX을(를) 삭제하시겠습니까 ?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELMODULE				0	nb	Vil du slette modulen XX?				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELMODULE				0	nl	Wilt u de module XX wissen?				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELMODULE				0	nl	Wilt u de module XX verwijderen?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELMODULE				0	nn	Vil du sletta modulen XX?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELMODULE				0	ns	Na o nyaka go tloša motšule XX?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELMODULE				0	pa-IN	ਕੀ ਤੁਸੀਂ XX ਮੈਡੀਊਲ ਨੂੰ ਹਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?				2002-02-02 02:02:02
@@ -3258,7 +3257,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_RUNTIMEERROR				0	ja	ラン
 basctl	source\basicide\basidesh.src	0	string	RID_STR_RUNTIMEERROR				0	km	កំហុស​​​​ពេល​​​​រត់​ ៖ #				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_RUNTIMEERROR				0	ko	런타임 오류: #				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_RUNTIMEERROR				0	nb	Kjørefeil: #				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_RUNTIMEERROR				0	nl	Runtime error: #				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_RUNTIMEERROR				0	nl	Runtime-fout: #				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_RUNTIMEERROR				0	nn	Køyrefeil: #				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_RUNTIMEERROR				0	ns	Phošo ya Nakotshepedišo: #				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_RUNTIMEERROR				0	pa-IN	ਚੱਲਣਸਮੇਂ ਗਲਤੀ: #				2002-02-02 02:02:02
@@ -4100,7 +4099,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_USERMACROS				0	ja	マイ�
 basctl	source\basicide\basidesh.src	0	string	RID_STR_USERMACROS				0	km	ម៉ាក្រូ​​របស់​​ខ្ញុំ​				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_USERMACROS				0	ko	내 매크로				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_USERMACROS				0	nb	Mine makroer				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_USERMACROS				0	nl	Mijn Macro's				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_USERMACROS				0	nl	Mijn macro's				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_USERMACROS				0	nn	Mine makroar				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_USERMACROS				0	pa-IN	ਮੇਰਾ ਮਾਇਕਰੋ				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_USERMACROS				0	pl	Moja makra				2002-02-02 02:02:02
@@ -4141,7 +4140,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_USERMACROSDIALOGS				0	ja	�
 basctl	source\basicide\basidesh.src	0	string	RID_STR_USERMACROSDIALOGS				0	km	ប្រអប់​​ និង​ ​ម៉ាក្រូ​​របស់​​ខ្ញុំ​				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_USERMACROSDIALOGS				0	ko	내 매크로 및 대화 상자				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_USERMACROSDIALOGS				0	nb	Mine makroer og dialogvinduer				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_USERMACROSDIALOGS				0	nl	Mijn Macro's en dialoogvensters				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_USERMACROSDIALOGS				0	nl	Mijn macro's en dialoogvensters				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_USERMACROSDIALOGS				0	nn	Mine makroar og dialogvindauge				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_USERMACROSDIALOGS				0	pa-IN	ਮੇਰਾ ਮਾਇਕਰੋ ਤੇ ਵਾਰਤਾਲਾਪ				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_USERMACROSDIALOGS				0	pl	Moje okna dialogowe i makra				2002-02-02 02:02:02
@@ -4487,7 +4486,7 @@ basctl	source\basicide\basidesh.src	0	toolboxitem	RID_BASICIDE_OBJECTBAR	SID_BAS
 basctl	source\basicide\basidesh.src	0	toolboxitem	RID_BASICIDE_OBJECTBAR	SID_BASICIDE_ADDWATCH			0	it	Mostra controllo				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	toolboxitem	RID_BASICIDE_OBJECTBAR	SID_BASICIDE_ADDWATCH			0	ja	オブザーバの表示				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	toolboxitem	RID_BASICIDE_OBJECTBAR	SID_BASICIDE_ADDWATCH			0	ko	조사식 추가				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	toolboxitem	RID_BASICIDE_OBJECTBAR	SID_BASICIDE_ADDWATCH			0	nl	Controle weergeven				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	toolboxitem	RID_BASICIDE_OBJECTBAR	SID_BASICIDE_ADDWATCH			0	nl	Controle toevoegen				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	toolboxitem	RID_BASICIDE_OBJECTBAR	SID_BASICIDE_ADDWATCH			0	pl	Dodaj czujkę				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	toolboxitem	RID_BASICIDE_OBJECTBAR	SID_BASICIDE_ADDWATCH			0	pt	Mostrar Observador				20040507 14:21:2
 basctl	source\basicide\basidesh.src	0	toolboxitem	RID_BASICIDE_OBJECTBAR	SID_BASICIDE_ADDWATCH			0	pt-BR	Adicionar Relógio				2002-02-02 02:02:02
@@ -5117,7 +5116,7 @@ basctl	source\basicide\brkdlg.src	0	pushbutton	RID_BASICIDE_BREAKPOINTDLG	RID_PB
 basctl	source\basicide\brkdlg.src	0	pushbutton	RID_BASICIDE_BREAKPOINTDLG	RID_PB_DEL			50	km	លុប​				2002-02-02 02:02:02
 basctl	source\basicide\brkdlg.src	0	pushbutton	RID_BASICIDE_BREAKPOINTDLG	RID_PB_DEL			50	ko	삭제				2002-02-02 02:02:02
 basctl	source\basicide\brkdlg.src	0	pushbutton	RID_BASICIDE_BREAKPOINTDLG	RID_PB_DEL			50	nb	Slett				2002-02-02 02:02:02
-basctl	source\basicide\brkdlg.src	0	pushbutton	RID_BASICIDE_BREAKPOINTDLG	RID_PB_DEL			50	nl	Wissen				2002-02-02 02:02:02
+basctl	source\basicide\brkdlg.src	0	pushbutton	RID_BASICIDE_BREAKPOINTDLG	RID_PB_DEL			50	nl	Verwijderen				2002-02-02 02:02:02
 basctl	source\basicide\brkdlg.src	0	pushbutton	RID_BASICIDE_BREAKPOINTDLG	RID_PB_DEL			50	nn	Slett				2002-02-02 02:02:02
 basctl	source\basicide\brkdlg.src	0	pushbutton	RID_BASICIDE_BREAKPOINTDLG	RID_PB_DEL			50	ns	Tloša				2002-02-02 02:02:02
 basctl	source\basicide\brkdlg.src	0	pushbutton	RID_BASICIDE_BREAKPOINTDLG	RID_PB_DEL			50	pa-IN	ਹਟਾਓ				2002-02-02 02:02:02
@@ -5406,7 +5405,7 @@ basctl	source\basicide\macrodlg.src	0	fixedtext	RID_MACROCHOOSER	RID_TXT_MACROSI
 basctl	source\basicide\macrodlg.src	0	fixedtext	RID_MACROCHOOSER	RID_TXT_MACROSIN			100	km	ម៉ាក្រូ​​​ដែល​មាន​ក្នុង​ ៖ 				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	fixedtext	RID_MACROCHOOSER	RID_TXT_MACROSIN			100	ko	기존 매크로 위치(~I):				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	fixedtext	RID_MACROCHOOSER	RID_TXT_MACROSIN			100	nb	Makroer som allerede eksisterer ~i:				2002-02-02 02:02:02
-basctl	source\basicide\macrodlg.src	0	fixedtext	RID_MACROCHOOSER	RID_TXT_MACROSIN			100	nl	Macro's ~in 				2002-02-02 02:02:02
+basctl	source\basicide\macrodlg.src	0	fixedtext	RID_MACROCHOOSER	RID_TXT_MACROSIN			100	nl	Bestaande macro's ~in 				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	fixedtext	RID_MACROCHOOSER	RID_TXT_MACROSIN			100	nn	Eksisterande makroar ~i:				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	fixedtext	RID_MACROCHOOSER	RID_TXT_MACROSIN			100	ns	Ditaelo tše di lego gona ~ka gare:				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	fixedtext	RID_MACROCHOOSER	RID_TXT_MACROSIN			100	pa-IN	ਮੌਜੂਦ ਮਾਇਕਰੋ(~i):				2002-02-02 02:02:02
@@ -5587,7 +5586,7 @@ basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_DEL			5
 basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_DEL			50	km	លុប​ 				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_DEL			50	ko	삭제(~D)...				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_DEL			50	nb	~Slett				2002-02-02 02:02:02
-basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_DEL			50	nl	~Wissen				2002-02-02 02:02:02
+basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_DEL			50	nl	~Verwijderen				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_DEL			50	nn	~Slett				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_DEL			50	nr	~Sula				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_DEL			50	pa-IN	ਹਟਾਓ(~D)				2002-02-02 02:02:02
@@ -5870,7 +5869,7 @@ basctl	source\basicide\macrodlg.src	0	string	RID_STR_BTNDEL				0	ja	削除(~D)		
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_BTNDEL				0	km	លុប​ 				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_BTNDEL				0	ko	제거(~D)...				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_BTNDEL				0	nb	~Slett				2002-02-02 02:02:02
-basctl	source\basicide\macrodlg.src	0	string	RID_STR_BTNDEL				0	nl	~Wissen				2002-02-02 02:02:02
+basctl	source\basicide\macrodlg.src	0	string	RID_STR_BTNDEL				0	nl	~Verwijderen				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_BTNDEL				0	nn	~Slett				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_BTNDEL				0	nr	~Sula				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_BTNDEL				0	pa-IN	ਹਟਾਓ(~D)				2002-02-02 02:02:02
@@ -5963,7 +5962,7 @@ basctl	source\basicide\macrodlg.src	0	string	RID_STR_CHOOSE				0	ja	選択				20
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_CHOOSE				0	km	ជ្រើស​				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_CHOOSE				0	ko	선택				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_CHOOSE				0	nb	Velg				2002-02-02 02:02:02
-basctl	source\basicide\macrodlg.src	0	string	RID_STR_CHOOSE				0	nl	Selecteren				2002-02-02 02:02:02
+basctl	source\basicide\macrodlg.src	0	string	RID_STR_CHOOSE				0	nl	Kiezen				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_CHOOSE				0	nn	Vel				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_CHOOSE				0	ns	Kgetha				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_CHOOSE				0	pa-IN	ਚੁਣੋ				2002-02-02 02:02:02
@@ -7044,7 +7043,7 @@ basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_DELETE			60	
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_DELETE			60	km	លុប​ 				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_DELETE			60	ko	삭제(~D)...				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_DELETE			60	nb	~Slett				2002-02-02 02:02:02
-basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_DELETE			60	nl	~Wissen				2002-02-02 02:02:02
+basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_DELETE			60	nl	~Verwijderen				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_DELETE			60	nn	~Slett				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_DELETE			60	nr	~Sula				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_DELETE			60	pa-IN	ਹਟਾਓ(~D)				2002-02-02 02:02:02
@@ -7229,7 +7228,7 @@ basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_MODULS	RID_PB_DELETE			6
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_MODULS	RID_PB_DELETE			60	km	លុប​ 				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_MODULS	RID_PB_DELETE			60	ko	제거(~D)...				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_MODULS	RID_PB_DELETE			60	nb	~Slett				2002-02-02 02:02:02
-basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_MODULS	RID_PB_DELETE			60	nl	~Wissen				2002-02-02 02:02:02
+basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_MODULS	RID_PB_DELETE			60	nl	~Verwijderen				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_MODULS	RID_PB_DELETE			60	nn	~Slett				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_MODULS	RID_PB_DELETE			60	nr	~Sula				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_MODULS	RID_PB_DELETE			60	pa-IN	ਹਟਾਓ(~D)				2002-02-02 02:02:02
@@ -7929,7 +7928,7 @@ basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_CHECKBOX	
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_CHECKBOX	SID_INSERT_CHECKBOX		0	km	ប្រអប់ធីក​				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_CHECKBOX	SID_INSERT_CHECKBOX		0	ko	확인란				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_CHECKBOX	SID_INSERT_CHECKBOX		0	nb	Avkryssingsboks				2002-02-02 02:02:02
-basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_CHECKBOX	SID_INSERT_CHECKBOX		0	nl	Markeerveld				2002-02-02 02:02:02
+basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_CHECKBOX	SID_INSERT_CHECKBOX		0	nl	Keuzevak				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_CHECKBOX	SID_INSERT_CHECKBOX		0	nn	Avkryssingsboks				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_CHECKBOX	SID_INSERT_CHECKBOX		0	ns	Lepokisi la tekolo				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_CHECKBOX	SID_INSERT_CHECKBOX		0	pa-IN	ਚੋਣ ਬਕਸਾ				2002-02-02 02:02:02
@@ -7977,7 +7976,7 @@ basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_COMBOBOX	
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_COMBOBOX	SID_INSERT_COMBOBOX		0	km	ប្រអប់​​បន្សំ				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_COMBOBOX	SID_INSERT_COMBOBOX		0	ko	콤보 상자				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_COMBOBOX	SID_INSERT_COMBOBOX		0	nb	Kombinasjonsboks				2002-02-02 02:02:02
-basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_COMBOBOX	SID_INSERT_COMBOBOX		0	nl	Combinatieveld				2002-02-02 02:02:02
+basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_COMBOBOX	SID_INSERT_COMBOBOX		0	nl	Keuzelijst met invoervak				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_COMBOBOX	SID_INSERT_COMBOBOX		0	nn	Kombinasjonsboks				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_COMBOBOX	SID_INSERT_COMBOBOX		0	ns	Lepokisi la Khombo				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_COMBOBOX	SID_INSERT_COMBOBOX		0	pa-IN	ਲਟਕਦਾ ਬਕਸਾ				2002-02-02 02:02:02
@@ -8118,7 +8117,7 @@ basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_EDIT	SID_
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_EDIT	SID_INSERT_EDIT		0	km	ប្រអប់​​អត្ថបទ				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_EDIT	SID_INSERT_EDIT		0	ko	텍스트 필드				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_EDIT	SID_INSERT_EDIT		0	nb	Tekstfelt				2002-02-02 02:02:02
-basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_EDIT	SID_INSERT_EDIT		0	nl	Tekstveld				2002-02-02 02:02:02
+basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_EDIT	SID_INSERT_EDIT		0	nl	Tekstvak				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_EDIT	SID_INSERT_EDIT		0	nn	Tekstfelt				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_EDIT	SID_INSERT_EDIT		0	ns	Lepokisi la Sengwalwa				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_EDIT	SID_INSERT_EDIT		0	pa-IN	ਪਾਠ ਬਕਸਾ				2002-02-02 02:02:02
@@ -8167,7 +8166,7 @@ basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_FILECONTR
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_FILECONTROL	SID_INSERT_FILECONTROL		0	km	ជម្រើស​​​ឯកសារ​				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_FILECONTROL	SID_INSERT_FILECONTROL		0	ko	파일 선택				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_FILECONTROL	SID_INSERT_FILECONTROL		0	nb	Filvalg				2002-02-02 02:02:02
-basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_FILECONTROL	SID_INSERT_FILECONTROL		0	nl	Bestandselectie				2002-02-02 02:02:02
+basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_FILECONTROL	SID_INSERT_FILECONTROL		0	nl	Bestandsselectie				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_FILECONTROL	SID_INSERT_FILECONTROL		0	nn	Filval				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_FILECONTROL	SID_INSERT_FILECONTROL		0	ns	Kgetho ya Faele				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_FILECONTROL	SID_INSERT_FILECONTROL		0	pa-IN	ਫਾਇਲ ਚੋਣ				2002-02-02 02:02:02
@@ -8309,7 +8308,7 @@ basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_GROUPBOX	
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_GROUPBOX	SID_INSERT_GROUPBOX		0	km	​ប្រអប់​​ក្រុម​				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_GROUPBOX	SID_INSERT_GROUPBOX		0	ko	그룹 상자				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_GROUPBOX	SID_INSERT_GROUPBOX		0	nb	Grupperingsramme				2002-02-02 02:02:02
-basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_GROUPBOX	SID_INSERT_GROUPBOX		0	nl	Groepskader				2002-02-02 02:02:02
+basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_GROUPBOX	SID_INSERT_GROUPBOX		0	nl	Groepsvak				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_GROUPBOX	SID_INSERT_GROUPBOX		0	nn	Grupperamme				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_GROUPBOX	SID_INSERT_GROUPBOX		0	ns	Lepokisi la Sehlopha				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_GROUPBOX	SID_INSERT_GROUPBOX		0	pa-IN	ਸਮੂਹ ਬਕਸਾ				2002-02-02 02:02:02
@@ -8405,7 +8404,7 @@ basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_HSCROLLBA
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_HSCROLLBAR	SID_INSERT_HSCROLLBAR		0	km	របារ​​រមូ​​រ​ផ្តេក​				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_HSCROLLBAR	SID_INSERT_HSCROLLBAR		0	ko	수평 스크롤 막대				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_HSCROLLBAR	SID_INSERT_HSCROLLBAR		0	nb	Vannrett rullefelt				2002-02-02 02:02:02
-basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_HSCROLLBAR	SID_INSERT_HSCROLLBAR		0	nl	Horizontale beeldschuifbalk				2002-02-02 02:02:02
+basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_HSCROLLBAR	SID_INSERT_HSCROLLBAR		0	nl	Horizontale schuifbalk				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_HSCROLLBAR	SID_INSERT_HSCROLLBAR		0	nn	Vassrett rullefelt				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_HSCROLLBAR	SID_INSERT_HSCROLLBAR		0	ns	Bara ya Nyakišišo ye Rapamego				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_HSCROLLBAR	SID_INSERT_HSCROLLBAR		0	pa-IN	ਖਿਤਿਜੀ ਸਕ੍ਰੋਲ ਪੱਟੀ				2002-02-02 02:02:02
@@ -8646,7 +8645,7 @@ basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_PROGRESSB
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_PROGRESSBAR	SID_INSERT_PROGRESSBAR		0	km	របារ​​​វឌ្ឍន​​ភាព​				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_PROGRESSBAR	SID_INSERT_PROGRESSBAR		0	ko	진행표시줄				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_PROGRESSBAR	SID_INSERT_PROGRESSBAR		0	nb	Framdriftsviser				2002-02-02 02:02:02
-basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_PROGRESSBAR	SID_INSERT_PROGRESSBAR		0	nl	Voortgangsindicator				2002-02-02 02:02:02
+basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_PROGRESSBAR	SID_INSERT_PROGRESSBAR		0	nl	Voortgangsbalk				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_PROGRESSBAR	SID_INSERT_PROGRESSBAR		0	nn	Framdriftslinje				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_PROGRESSBAR	SID_INSERT_PROGRESSBAR		0	ns	Bara ya Kgatelopele				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_PROGRESSBAR	SID_INSERT_PROGRESSBAR		0	pa-IN	ਤਰੱਕੀ ਪੱਟੀ				2002-02-02 02:02:02
@@ -8940,7 +8939,7 @@ basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_VSCROLLBA
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_VSCROLLBAR	SID_INSERT_VSCROLLBAR		0	km	របារ​​រមូរ​​បញ្ឈរ​				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_VSCROLLBAR	SID_INSERT_VSCROLLBAR		0	ko	수직 스크롤 막대				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_VSCROLLBAR	SID_INSERT_VSCROLLBAR		0	nb	Loddrett rullefelt				2002-02-02 02:02:02
-basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_VSCROLLBAR	SID_INSERT_VSCROLLBAR		0	nl	Verticale beeldschuifbalk				2002-02-02 02:02:02
+basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_VSCROLLBAR	SID_INSERT_VSCROLLBAR		0	nl	Verticale schuifbalk				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_VSCROLLBAR	SID_INSERT_VSCROLLBAR		0	nn	Loddrett rullefelt				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_VSCROLLBAR	SID_INSERT_VSCROLLBAR		0	nr	Iskrol Bha ejame Rwe				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_VSCROLLBAR	SID_INSERT_VSCROLLBAR		0	ns	Bara ya go Nyakišiša ye e Tsepamego				2002-02-02 02:02:02
