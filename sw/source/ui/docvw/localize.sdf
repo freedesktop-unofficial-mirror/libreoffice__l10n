@@ -13,9 +13,9 @@
 #
 #   $RCSfile: localize.sdf,v $
 #
-#   $Revision: 1.11 $
+#   $Revision: 1.12 $
 #
-#   last change: $Author: rt $ $Date: 2005-09-09 07:22:39 $
+#   last change: $Author: hr $ $Date: 2005-10-28 10:23:21 $
 #
 #   The Contents of this file are made available subject to
 #   the terms of GNU Lesser General Public License Version 2.1.
@@ -41,7 +41,6 @@
 #     MA  02111-1307  USA
 #
 #*************************************************************************
-#
 sw	source\ui\docvw\access.src	0	string	STR_ACCESS_DOC_DESC				0	af	Dokumentaansig				2002-02-02 02:02:02
 sw	source\ui\docvw\access.src	0	string	STR_ACCESS_DOC_DESC				0	ar	Document view				20040507 14:26:28
 sw	source\ui\docvw\access.src	0	string	STR_ACCESS_DOC_DESC				0	be-BY	Від на дакумент				2002-02-02 02:02:02
@@ -850,7 +849,7 @@ sw	source\ui\docvw\docvw.src	0	infobox	MSG_READONLY_CONTENT				0	ja	この範囲
 sw	source\ui\docvw\docvw.src	0	infobox	MSG_READONLY_CONTENT				0	km	​មិន​អាច​ផ្លាស់ប្តូរ​មាតិកា​បាន​តែ​អាន ។\nគ្មាន​ការ​កែប្រែ​នឹង​ត្រូវ​បាន​ទទួល​យក				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	infobox	MSG_READONLY_CONTENT				0	ko	읽기 전용 내용은 변경할 수 없습니다.\n어떠한 수정도 허용되지 않습니다.				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	infobox	MSG_READONLY_CONTENT				0	nb	Skrivebeskyttet innhold kan ikke endres.\nIngen endringer vil bli godtatt.				2002-02-02 02:02:02
-sw	source\ui\docvw\docvw.src	0	infobox	MSG_READONLY_CONTENT				0	nl	De cursor of de selectie bevindt zich op een schrijfbeveiligde positie.\nDe inhoud kan daarom niet worden gewijzigd.				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	infobox	MSG_READONLY_CONTENT				0	nl	Alleen-lezen kan niet gewijzigd worden.\nWijzigingen worden niet worden geaccepteerd.				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	infobox	MSG_READONLY_CONTENT				0	nn	Skriveverna innhald kan ikkje endrast.\nIngen endringar vil bli godtekne.				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	infobox	MSG_READONLY_CONTENT				0	pa-IN	ਪੜਨਯੋਗ ਪ੍ਰਸੰਗ ਤਬਦੀਲ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ।\nਕਈ ਤਬਦੀਲੀ ਸਵੀਕਾਰ ਨਹੀਂ ਕੀਤੀ ਜਾਵੇਗੀ				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	infobox	MSG_READONLY_CONTENT				0	pl	Zawartości "tylko do odczytu" nie można zmienić.\nŻadne zmiany nie zostaną zaakceptowane.				2002-02-02 02:02:02
@@ -945,7 +944,7 @@ sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_BROWSE_BAC
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_BROWSE_BACKWARD	SID_BROWSE_BACKWARD		0	km	ថយ​ក្រោយ				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_BROWSE_BACKWARD	SID_BROWSE_BACKWARD		0	ko	뒤로				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_BROWSE_BACKWARD	SID_BROWSE_BACKWARD		0	nb	Bakover				2002-02-02 02:02:02
-sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_BROWSE_BACKWARD	SID_BROWSE_BACKWARD		0	nl	~Achteruit				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_BROWSE_BACKWARD	SID_BROWSE_BACKWARD		0	nl	Naar achteren				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_BROWSE_BACKWARD	SID_BROWSE_BACKWARD		0	nn	Bakover				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_BROWSE_BACKWARD	SID_BROWSE_BACKWARD		0	ns	Ka samorago				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_BROWSE_BACKWARD	SID_BROWSE_BACKWARD		0	pa-IN	ਪਿੱਛੇ ਵੱਲ				2002-02-02 02:02:02
@@ -1135,7 +1134,7 @@ sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_COPYGRAPHI
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_COPYGRAPHIC	HID_MN_READONLY_COPYGRAPHIC		0	km	ចម្លង​ក្រាហ្វិក 				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_COPYGRAPHIC	HID_MN_READONLY_COPYGRAPHIC		0	ko	그래픽 복사(~G)				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_COPYGRAPHIC	HID_MN_READONLY_COPYGRAPHIC		0	nb	Kopier ~bilder				2002-02-02 02:02:02
-sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_COPYGRAPHIC	HID_MN_READONLY_COPYGRAPHIC		0	nl	Afbeelding ko~piëren				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_COPYGRAPHIC	HID_MN_READONLY_COPYGRAPHIC		0	nl	Afbeeldingen ko~piëren				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_COPYGRAPHIC	HID_MN_READONLY_COPYGRAPHIC		0	nn	Kopier ~bilete				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_COPYGRAPHIC	HID_MN_READONLY_COPYGRAPHIC		0	ns	Kopiša ~dikerafiki				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_COPYGRAPHIC	HID_MN_READONLY_COPYGRAPHIC		0	pa-IN	ਗਰਾਫਿਕਸ ਦੀ ਨਕਲ(~G)				2002-02-02 02:02:02
@@ -1331,7 +1330,7 @@ sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_GRAPHICTOG
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_GRAPHICTOGALLERY	HID_MN_READONLY_GRAPHICTOGALLERY		0	km	បន្ថែម​ក្រាហ្វិក				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_GRAPHICTOGALLERY	HID_MN_READONLY_GRAPHICTOGALLERY		0	ko	그래픽 추가				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_GRAPHICTOGALLERY	HID_MN_READONLY_GRAPHICTOGALLERY		0	nb	Legg til bilder				2002-02-02 02:02:02
-sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_GRAPHICTOGALLERY	HID_MN_READONLY_GRAPHICTOGALLERY		0	nl	Afbeelding t~oevoegen				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_GRAPHICTOGALLERY	HID_MN_READONLY_GRAPHICTOGALLERY		0	nl	Afbeeldingen toevoegen				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_GRAPHICTOGALLERY	HID_MN_READONLY_GRAPHICTOGALLERY		0	nn	Legg til bilete				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_GRAPHICTOGALLERY	HID_MN_READONLY_GRAPHICTOGALLERY		0	ns	Oketša dikerafiki				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_GRAPHICTOGALLERY	HID_MN_READONLY_GRAPHICTOGALLERY		0	pa-IN	ਗਰਾਫਿਕਸ ਸ਼ਾਮਿਲ				2002-02-02 02:02:02
@@ -1529,7 +1528,7 @@ sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_PLUGINOFF	
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_PLUGINOFF	HID_MN_READONLY_PLUGINOFF	defined WNT	0	km	បិទ កម្មវិធី​ជំនួយ​ខាង​ក្នុង				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_PLUGINOFF	HID_MN_READONLY_PLUGINOFF	defined WNT	0	ko	플러그인 적용 해제				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_PLUGINOFF	HID_MN_READONLY_PLUGINOFF	defined WNT	0	nb	Slå av programtillegg				2002-02-02 02:02:02
-sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_PLUGINOFF	HID_MN_READONLY_PLUGINOFF	defined WNT	0	nl	~PlugIns uitschakelen				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_PLUGINOFF	HID_MN_READONLY_PLUGINOFF	defined WNT	0	nl	~Invoegtoepassingen uitschakelen				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_PLUGINOFF	HID_MN_READONLY_PLUGINOFF	defined WNT	0	nn	Slå av programtillegg				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_PLUGINOFF	HID_MN_READONLY_PLUGINOFF	defined WNT	0	ns	Ditsenywa dipolakeng di timilwe				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_PLUGINOFF	HID_MN_READONLY_PLUGINOFF	defined WNT	0	pa-IN	ਪਲੱਗਿੰਨ ਬੰਦ				2002-02-02 02:02:02
@@ -1676,7 +1675,7 @@ sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_SAVEBACKGR
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_SAVEBACKGROUND	HID_MN_READONLY_SAVEBACKGROUND		0	km	រក្សាទុក​ផ្ទៃ​ខាង​ក្រោយ... 				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_SAVEBACKGROUND	HID_MN_READONLY_SAVEBACKGROUND		0	ko	배경 저장...				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_SAVEBACKGROUND	HID_MN_READONLY_SAVEBACKGROUND		0	nb	Lagre bakgrunn ...				2002-02-02 02:02:02
-sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_SAVEBACKGROUND	HID_MN_READONLY_SAVEBACKGROUND		0	nl	Achte~rgrond opslaan...				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_SAVEBACKGROUND	HID_MN_READONLY_SAVEBACKGROUND		0	nl	Achtergrond opslaan...				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_SAVEBACKGROUND	HID_MN_READONLY_SAVEBACKGROUND		0	nn	Lagra bakgrunn ...				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_SAVEBACKGROUND	HID_MN_READONLY_SAVEBACKGROUND		0	ns	Boloka Boithekgo...				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_SAVEBACKGROUND	HID_MN_READONLY_SAVEBACKGROUND		0	pa-IN	ਪਿੱਠਭੂਮੀ ਸੰਭਾਲੋ...				2002-02-02 02:02:02
@@ -1725,7 +1724,7 @@ sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_SAVEGRAPHI
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_SAVEGRAPHIC	HID_MN_READONLY_SAVEGRAPHIC		0	km	រក្សាទុក​ក្រាហ្វិក... 				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_SAVEGRAPHIC	HID_MN_READONLY_SAVEGRAPHIC		0	ko	그래픽 저장...				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_SAVEGRAPHIC	HID_MN_READONLY_SAVEGRAPHIC		0	nb	Lagre bilder ...				2002-02-02 02:02:02
-sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_SAVEGRAPHIC	HID_MN_READONLY_SAVEGRAPHIC		0	nl	Afbeelding ops~laan...				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_SAVEGRAPHIC	HID_MN_READONLY_SAVEGRAPHIC		0	nl	Afbeeldingen ops~laan...				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_SAVEGRAPHIC	HID_MN_READONLY_SAVEGRAPHIC		0	nn	Lagra bilete ...				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_SAVEGRAPHIC	HID_MN_READONLY_SAVEGRAPHIC		0	ns	Boloka dikerafiki...				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_SAVEGRAPHIC	HID_MN_READONLY_SAVEGRAPHIC		0	pa-IN	ਗਰਾਫਿਕਸ ਸੰਭਾਲੋ...				2002-02-02 02:02:02
@@ -2112,7 +2111,7 @@ sw	source\ui\docvw\docvw.src	0	string	STR_CHAIN_IS_IN_CHAIN				0	ja	目標のテ
 sw	source\ui\docvw\docvw.src	0	string	STR_CHAIN_IS_IN_CHAIN				0	km	ស៊ុម​គោលដៅ​ត្រូវ​បាន​ត​ភ្ជាប់​រួច​ហើយ ។				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_CHAIN_IS_IN_CHAIN				0	ko	대상 프레임은 이미 연결되어 있습니다.				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_CHAIN_IS_IN_CHAIN				0	nb	Målramma er allerede koblet.				2002-02-02 02:02:02
-sw	source\ui\docvw\docvw.src	0	string	STR_CHAIN_IS_IN_CHAIN				0	nl	Het doelkader is reeds gekoppeld.				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	string	STR_CHAIN_IS_IN_CHAIN				0	nl	Het doelframe is reeds gekoppeld.				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_CHAIN_IS_IN_CHAIN				0	nn	Målramma er kopla frå før.				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_CHAIN_IS_IN_CHAIN				0	ns	Foreimetebanywa e šetše e kgokagantšwe.				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_CHAIN_IS_IN_CHAIN				0	pa-IN	ਸਬੰਧ ਫਰੇਮ ਪਹਿਲਾਂ ਹੀ ਸੰਬੰਧਤ ਹੈ।				2002-02-02 02:02:02
@@ -2161,7 +2160,7 @@ sw	source\ui\docvw\docvw.src	0	string	STR_CHAIN_NOT_EMPTY				0	ja	目標のテ�
 sw	source\ui\docvw\docvw.src	0	string	STR_CHAIN_NOT_EMPTY				0	km	ស៊ុម​គោលដៅ​មិន​ទទេ ។				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_CHAIN_NOT_EMPTY				0	ko	대상 프레임이 비어 있지 않습니다.				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_CHAIN_NOT_EMPTY				0	nb	Målramma er ikke tom.				2002-02-02 02:02:02
-sw	source\ui\docvw\docvw.src	0	string	STR_CHAIN_NOT_EMPTY				0	nl	Het doelkader is niet leeg.				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	string	STR_CHAIN_NOT_EMPTY				0	nl	Het doelframe is niet leeg.				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_CHAIN_NOT_EMPTY				0	nn	Målramma er ikkje tom.				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_CHAIN_NOT_EMPTY				0	ns	Foreimetebanywa e sa na le selo.				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_CHAIN_NOT_EMPTY				0	pa-IN	ਨਿਸ਼ਚਿਤ ਫਰੇਮ ਖਾਲੀ ਨਹੀਂ ਹੈ।				2002-02-02 02:02:02
@@ -2357,7 +2356,7 @@ sw	source\ui\docvw\docvw.src	0	string	STR_CHAIN_SOURCE_CHAINED				0	ja	このテ
 sw	source\ui\docvw\docvw.src	0	string	STR_CHAIN_SOURCE_CHAINED				0	km	ស៊ុម​ប្រភព​គឺ​ជា​ប្រភព​តំណ​រួច​ហើយ ។				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_CHAIN_SOURCE_CHAINED				0	ko	원본 프레임은 이미 링크의 원본입니다.				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_CHAIN_SOURCE_CHAINED				0	nb	Kilderamma er allerede kilde for en lenke.				2002-02-02 02:02:02
-sw	source\ui\docvw\docvw.src	0	string	STR_CHAIN_SOURCE_CHAINED				0	nl	Het bronkader is reeds basis van een koppeling.				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	string	STR_CHAIN_SOURCE_CHAINED				0	nl	Het bronframe is reeds basis van een koppeling.				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_CHAIN_SOURCE_CHAINED				0	nn	Kjelderamma er alt kjelde for ei lenkje.				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_CHAIN_SOURCE_CHAINED				0	ns	Foreime ya mothopo e šetše e le mothopo wa kgokaganyo.				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_CHAIN_SOURCE_CHAINED				0	pa-IN	ਸਰੋਤ ਫਰੇਮ ਪਹਿਲਾਂ ਹੀ ਸੰਬੰਧ ਦਾ ਸਰੋਤ ਹੈ।				2002-02-02 02:02:02
@@ -2406,7 +2405,7 @@ sw	source\ui\docvw\docvw.src	0	string	STR_CHAIN_WRONG_AREA				0	ja	目標のテ�
 sw	source\ui\docvw\docvw.src	0	string	STR_CHAIN_WRONG_AREA				0	km	ស៊ុម​គោលដៅ​សម្រាប់​តំណ​ គឺ​ស្ថិត​​ក្នុង​តំបន់​មិន​ត្រឹមត្រូវ​មួយ ។				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_CHAIN_WRONG_AREA				0	ko	대상 프레임은　연결이 불가능한　영역에 있습니다.				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_CHAIN_WRONG_AREA				0	nb	Målramma for lenken er i et ugyldig område.				2002-02-02 02:02:02
-sw	source\ui\docvw\docvw.src	0	string	STR_CHAIN_WRONG_AREA				0	nl	Het bronkader staat in een bereik waarin geen koppeling mogelijk is.				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	string	STR_CHAIN_WRONG_AREA				0	nl	Het doelframe staat in een gebied waarin geen koppeling mogelijk is.				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_CHAIN_WRONG_AREA				0	nn	Målramma for lenkjen er i eit ugyldig område.				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_CHAIN_WRONG_AREA				0	ns	Foreimetebanywa ya kgokaganyo e lefelong leo le sa šomego.				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_CHAIN_WRONG_AREA				0	pa-IN	ਸੰਬੰਧ ਲਈ ਨਿਸ਼ਚਿਤ ਫਰੇਮ ਠੀਕ ਖੇਤਰ ਨਹੀਂ ਹੈ।				2002-02-02 02:02:02
@@ -2504,7 +2503,7 @@ sw	source\ui\docvw\docvw.src	0	string	STR_EXPORT_GRAFIK_TITLE				0	ja	図のエ�
 sw	source\ui\docvw\docvw.src	0	string	STR_EXPORT_GRAFIK_TITLE				0	km	នាំ​ចេញ​ក្រាហ្វិក				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_EXPORT_GRAFIK_TITLE				0	ko	그래픽 내보내기				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_EXPORT_GRAFIK_TITLE				0	nb	Bildeeksport				2002-02-02 02:02:02
-sw	source\ui\docvw\docvw.src	0	string	STR_EXPORT_GRAFIK_TITLE				0	nl	Afbeelding exporteren				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	string	STR_EXPORT_GRAFIK_TITLE				0	nl	Afbeeldingen exporteren				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_EXPORT_GRAFIK_TITLE				0	nn	Bileteksport				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_EXPORT_GRAFIK_TITLE				0	ns	Thomelontle ya Dikerafiki				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_EXPORT_GRAFIK_TITLE				0	pa-IN	ਗਰਾਫਿਕਸ ਨਿਰਯਾਤ				2002-02-02 02:02:02
@@ -2602,7 +2601,7 @@ sw	source\ui\docvw\docvw.src	0	string	STR_REDLINE_DELETE				0	ja	削除済み			
 sw	source\ui\docvw\docvw.src	0	string	STR_REDLINE_DELETE				0	km	ត្រូវ​បាន​លុប				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_REDLINE_DELETE				0	ko	삭제됨				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_REDLINE_DELETE				0	nb	Slettet				2002-02-02 02:02:02
-sw	source\ui\docvw\docvw.src	0	string	STR_REDLINE_DELETE				0	nl	Gewist				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	string	STR_REDLINE_DELETE				0	nl	Verwijderd				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_REDLINE_DELETE				0	nn	Sletta				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_REDLINE_DELETE				0	ns	Tlošitšwe				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_REDLINE_DELETE				0	pa-IN	ਹਟਾਇਆ				2002-02-02 02:02:02
@@ -2651,7 +2650,7 @@ sw	source\ui\docvw\docvw.src	0	string	STR_REDLINE_FMTCOLL				0	ja	段落スタ�
 sw	source\ui\docvw\docvw.src	0	string	STR_REDLINE_FMTCOLL				0	km	បាន​​អនុវត្ត​រចនាប័ទ្ម​កថាខណ្ឌ				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_REDLINE_FMTCOLL				0	ko	적용된 단락 스타일				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_REDLINE_FMTCOLL				0	nb	Brukte avsnittsstiler				2002-02-02 02:02:02
-sw	source\ui\docvw\docvw.src	0	string	STR_REDLINE_FMTCOLL				0	nl	Alinea-opmaakprofiel gedefinieerd				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	string	STR_REDLINE_FMTCOLL				0	nl	Gebruikte alinea-opmaakprofielen				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_REDLINE_FMTCOLL				0	nn	Brukte avsnittsstilar				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_REDLINE_FMTCOLL				0	nr	Iindlela ezisebenzako ezisetjenzisiweko				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_REDLINE_FMTCOLL				0	ns	Ditaele tša Serapa tšeo di Dirišitšwego				2002-02-02 02:02:02
