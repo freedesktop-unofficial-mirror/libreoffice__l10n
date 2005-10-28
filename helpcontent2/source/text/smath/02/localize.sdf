@@ -13,9 +13,9 @@
 #
 #   $RCSfile: localize.sdf,v $
 #
-#   $Revision: 1.9 $
+#   $Revision: 1.10 $
 #
-#   last change: $Author: rt $ $Date: 2005-09-08 01:05:46 $
+#   last change: $Author: hr $ $Date: 2005-10-28 11:10:34 $
 #
 #   The Contents of this file are made available subject to
 #   the terms of GNU Lesser General Public License Version 2.1.
@@ -41,7 +41,6 @@
 #     MA  02111-1307  USA
 #
 #*************************************************************************
-#
 helpcontent2	source\text\smath\02\03010000.xhp	0	help	bm_id3149500				0	bg	\<bookmark_value\>формули, курсор в $[officename] Math\</bookmark_value\>\<bookmark_value\>курсор; в $[officename] Math\</bookmark_value\>				2002-02-02 02:02:02
 helpcontent2	source\text\smath\02\03010000.xhp	0	help	bm_id3149500				0	cs	\<bookmark_value\>kurzor vzorce v $[officename] Math\</bookmark_value\>\<bookmark_value\>kurzor; v $[officename] Math\</bookmark_value\>				2002-02-02 02:02:02
 helpcontent2	source\text\smath\02\03010000.xhp	0	help	bm_id3149500				0	cy	\<bookmark_value\>formula cursor in $[officename] Math\</bookmark_value\>\<bookmark_value\>cursor; in $[officename] Math\</bookmark_value\>				2002-02-02 02:02:02
@@ -54,6 +53,7 @@ helpcontent2	source\text\smath\02\03010000.xhp	0	help	bm_id3149500				0	et	\<boo
 helpcontent2	source\text\smath\02\03010000.xhp	0	help	bm_id3149500				0	fi	\<bookmark_value\>formula cursor in $[officename] Math\</bookmark_value\>\<bookmark_value\>cursor; in $[officename] Math\</bookmark_value\>				2002-02-02 02:02:02
 helpcontent2	source\text\smath\02\03010000.xhp	0	help	bm_id3149500				0	fr	\<bookmark_value\>Curseur de formule dans $[officename] Math\</bookmark_value\>\<bookmark_value\>Curseur;$[officename] Math\</bookmark_value\>				2002-02-02 02:02:02
 helpcontent2	source\text\smath\02\03010000.xhp	0	help	bm_id3149500				0	hr	\<bookmark_value\>formula cursor in $[officename] Math\</bookmark_value\>\<bookmark_value\>cursor; in $[officename] Math\</bookmark_value\>				2002-02-02 02:02:02
+helpcontent2	source\text\smath\02\03010000.xhp	0	help	bm_id3149500				0	hu	\<bookmark_value\>képletkurzor a $[officename] Math-ban\</bookmark_value\>\<bookmark_value\>kurzor a $[officename] Math-ban\</bookmark_value\>				2002-02-02 02:02:02
 helpcontent2	source\text\smath\02\03010000.xhp	0	help	bm_id3149500				0	it	\<bookmark_value\>Formula;cursore in $[officename] Math\</bookmark_value\>\<bookmark_value\>Cursore;in $[officename] Math\</bookmark_value\>				2002-02-02 02:02:02
 helpcontent2	source\text\smath\02\03010000.xhp	0	help	bm_id3149500				0	ja	\<bookmark_value\>$[officename] Math の数式カーソル\</bookmark_value\>\<bookmark_value\>カーソル; $[officename] Math の\</bookmark_value\>				2002-02-02 02:02:02
 helpcontent2	source\text\smath\02\03010000.xhp	0	help	bm_id3149500				0	km	\<bookmark_value\>ទស្សន៍​ទ្រនិច​រូបមន្ត​ក្នុង $[officename] Math\</bookmark_value\>\<bookmark_value\>ទស្សន៍​ទ្រនិច; ក្នុង $[officename] Math\</bookmark_value\>				2002-02-02 02:02:02
@@ -83,6 +83,7 @@ helpcontent2	source\text\smath\02\03010000.xhp	0	help	hd_id3149500	1			0	et	Vale
 helpcontent2	source\text\smath\02\03010000.xhp	0	help	hd_id3149500	1			0	fi	Formula Cursor				2002-02-02 02:02:02
 helpcontent2	source\text\smath\02\03010000.xhp	0	help	hd_id3149500	1			0	fr	Curseur de formule				2002-02-02 02:02:02
 helpcontent2	source\text\smath\02\03010000.xhp	0	help	hd_id3149500	1			0	hr	Pokazivač formula				2002-02-02 02:02:02
+helpcontent2	source\text\smath\02\03010000.xhp	0	help	hd_id3149500	1			0	hu	Képletkurzor				2002-02-02 02:02:02
 helpcontent2	source\text\smath\02\03010000.xhp	0	help	hd_id3149500	1			0	it	Cursore-formula				2002-02-02 02:02:02
 helpcontent2	source\text\smath\02\03010000.xhp	0	help	hd_id3149500	1			0	ja	数式カーソル				2002-02-02 02:02:02
 helpcontent2	source\text\smath\02\03010000.xhp	0	help	hd_id3149500	1			0	km	ទស្សន៍​ទ្រនិច​រូបមន្ត				2002-02-02 02:02:02
@@ -112,6 +113,7 @@ helpcontent2	source\text\smath\02\03010000.xhp	0	help	par_id3146966	15			0	et	To
 helpcontent2	source\text\smath\02\03010000.xhp	0	help	par_id3146966	15			0	fi	Double-clicking a character or symbol in the document moves the focus of the cursor to the \<emph\>Commands\</emph\> window and highlights its respective position. 				2002-02-02 02:02:02
 helpcontent2	source\text\smath\02\03010000.xhp	0	help	par_id3146966	15			0	fr	Lorsque vous double-cliquez sur un caractère ou un symbole dans le document, le focus du curseur se déplace dans la fenêtre \<emph\>Commandes\</emph\> et met en évidence l'emplacement correspondant. 				2002-02-02 02:02:02
 helpcontent2	source\text\smath\02\03010000.xhp	0	help	par_id3146966	15			0	hr	Double-clicking a character or symbol in the document moves the focus of the cursor to the \<emph\>Commands\</emph\> window and highlights its respective position. 				2002-02-02 02:02:02
+helpcontent2	source\text\smath\02\03010000.xhp	0	help	par_id3146966	15			0	hu	Ha duplán kattint a képlet egy karakterén vagy szimbólumán, akkor a \<emph\>Parancsok\</emph\> ablakban a kurzor a megjelölt elemre ugrik, és kijelöli azt. 				2002-02-02 02:02:02
 helpcontent2	source\text\smath\02\03010000.xhp	0	help	par_id3146966	15			0	it	Facendo doppio clic su un carattere o un simbolo nel documento, il punto focale del cursore viene spostato nella finestra \<emph\>Comandi\</emph\> e la posizione corrispondente appare evidenziata. 				2002-02-02 02:02:02
 helpcontent2	source\text\smath\02\03010000.xhp	0	help	par_id3146966	15			0	ja	ドキュメント内で文字か記号をダブルクリックすると、\<emph\>コマンド\</emph\> ウィンドウ内の該当部分にカーソルがジャンプして、選択されます。				2002-02-02 02:02:02
 helpcontent2	source\text\smath\02\03010000.xhp	0	help	par_id3146966	15			0	km	ចុច​តួ​អក្សរ ឬ និមិត្ត​សញ្ញា​ទ្វេ​ដង​ក្នុង​ឯកសារ ផ្លាស់ទី​ការ​ផ្តោត​អារម្មណ៍​នៃ​ទស្សន៍​ទ្រនិច​ទៅ​បង្អួច \<emph\>ពាក្យ​បញ្ជា\</emph\> រួច​បន្លិច​ទីតាំង​រៀង​ៗ​ខ្លួន ។				2002-02-02 02:02:02
@@ -141,6 +143,7 @@ helpcontent2	source\text\smath\02\03010000.xhp	0	help	par_id3150048	14			0	et	Ku
 helpcontent2	source\text\smath\02\03010000.xhp	0	help	par_id3150048	14			0	fi	You can also click a position in the document to move the cursor to its corresponding position in the \<emph\>Commands\</emph\> window.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\02\03010000.xhp	0	help	par_id3150048	14			0	fr	Vous pouvez également cliquer sur un emplacement dans le document pour déplacer le curseur à l'emplacement correspondant dans la fenêtre \<emph\>Commandes\</emph\>.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\02\03010000.xhp	0	help	par_id3150048	14			0	hr	You can also click a position in the document to move the cursor to its corresponding position in the \<emph\>Commands\</emph\> window.				2002-02-02 02:02:02
+helpcontent2	source\text\smath\02\03010000.xhp	0	help	par_id3150048	14			0	hu	Ugyanakkor a képletre kattintva a \<emph\>Parancsok\</emph\> ablakban, a kurzor a képletben megjelölt pozíciónak megfelelő helyen jelenik meg.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\02\03010000.xhp	0	help	par_id3150048	14			0	it	Facendo clic in un punto del documento potete spostare il cursore nella posizione corrispondente nella finestra \<emph\>Comandi\</emph\>.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\02\03010000.xhp	0	help	par_id3150048	14			0	ja	ドキュメント内で数式の部分をクリックしても、ウィンドウ \<emph\>コマンド\</emph\> 内の該当部分にカーソルがジャンプします。				2002-02-02 02:02:02
 helpcontent2	source\text\smath\02\03010000.xhp	0	help	par_id3150048	14			0	km	អ្នក​ក៏​អាច​ចុច​ទីតាំង​ក្នុង​ឯកសារ ដើម្បី​ផ្លាស់ទី​ទស្សន៍​ទ្រនិច​ទៅ​ទីតាំង​ត្រូវ​គ្នា​របស់​វា​ក្នុង​បង្អួច \<emph\>ពាក្យ​បញ្ជា​\</emph\> ។				2002-02-02 02:02:02
@@ -170,6 +173,7 @@ helpcontent2	source\text\smath\02\03010000.xhp	0	help	par_id3153916	2			0	et	\<v
 helpcontent2	source\text\smath\02\03010000.xhp	0	help	par_id3153916	2			0	fi	\<variable id=\"cursor\"\>\<ahelp hid=\"SID_FORMULACURSOR\"\>Use this icon on the Tools bar to turn the Formula Cursor on or off.\</ahelp\> The part of the formula where the cursor is positioned in the \<emph\>Commands\</emph\> window is marked with a thin border when the formula cursor is active. \</variable\>				2002-02-02 02:02:02
 helpcontent2	source\text\smath\02\03010000.xhp	0	help	par_id3153916	2			0	fr	\<variable id=\"cursor\"\>\<ahelp hid=\"SID_FORMULACURSOR\"\>Pour activer ou désactiver le curseur de formule, utilisez cette icône de la barre d'instruments.\</ahelp\> La partie de la formule où le curseur est placé dans la fenêtre \<emph\>Commandes\</emph\> est marquée d'une bordure fine lorsque le curseur de formule est actif. \</variable\>				2002-02-02 02:02:02
 helpcontent2	source\text\smath\02\03010000.xhp	0	help	par_id3153916	2			0	hr	\<variable id=\"cursor\"\>\<ahelp hid=\"SID_FORMULACURSOR\"\>Use this icon on the Tools bar to turn the Formula Cursor on or off.\</ahelp\> The part of the formula where the cursor is positioned in the \<emph\>Commands\</emph\> window is marked with a thin border when the formula cursor is active. \</variable\>				2002-02-02 02:02:02
+helpcontent2	source\text\smath\02\03010000.xhp	0	help	par_id3153916	2			0	hu	\<variable id=\"cursor\"\>\<ahelp hid=\"SID_FORMULACURSOR\"\>Ezzel a fő eszköztáron található ikonnal lehet a képletkurzort ki- vagy bekapcsolni.\</ahelp\> Ha a képletkurzor aktív, akkor a képlet azon eleme körül vékony keret jelenik meg, amelyiken a \<emph\>Parancsok\</emph\> ablakban a kurzor áll. \</variable\>				2002-02-02 02:02:02
 helpcontent2	source\text\smath\02\03010000.xhp	0	help	par_id3153916	2			0	it	\<variable id=\"cursor\"\>\<ahelp hid=\"SID_FORMULACURSOR\"\>Questo simbolo della barra degli strumenti permette di attivare o disattivare il cursore di formula.\</ahelp\> La parte della formula in cui è posizionato il cursore nella finestra \<emph\>Comandi\</emph\> appare riquadrata da un bordo sottile quando il cursore di formula è attivo. \</variable\>				2002-02-02 02:02:02
 helpcontent2	source\text\smath\02\03010000.xhp	0	help	par_id3153916	2			0	ja	\<variable id=\"cursor\"\>\<ahelp hid=\"SID_FORMULACURSOR\"\>ツールバーでこのアイコンを使用して、数式カーソルをオンまたはオフにできます。\</ahelp\>数式カーソルをオンにすると、\<emph\>コマンド\</emph\> ウィンドウ内のカーソル位置にある数式要素が細い枠で囲まれます。 \</variable\>				2002-02-02 02:02:02
 helpcontent2	source\text\smath\02\03010000.xhp	0	help	par_id3153916	2			0	km	\<variable id=\"cursor\"\>\<ahelp hid=\"SID_FORMULACURSOR\"\>ប្រើ​រូបតំណាង​នេះ​លើ​របារ​ឧបករណ៍ ដើម្បី​បិទ/បើក ទស្សន៍​ទ្រនិច​រូបមន្ត ។\</ahelp\> ផ្នែក​នៃ​រូបមន្ត​ដែល​ទស្សន៍​ទ្រនិច​ស្ថិត​ក្នុង​បង្អួច \<emph\>ពាក្យ​បញ្ជា\</emph\> ត្រូវ​បាន​សម្គាល់​ដោយ​ស៊ុម​ស្តើង នៅ​ពេល​ទស្សន៍​ទ្រនិច​រូបមន្ត​សកម្ម ។\</variable\>				2002-02-02 02:02:02
@@ -199,6 +203,7 @@ helpcontent2	source\text\smath\02\03010000.xhp	0	help	tit				0	et	Valemikursor		
 helpcontent2	source\text\smath\02\03010000.xhp	0	help	tit				0	fi	Formula Cursor				2002-02-02 02:02:02
 helpcontent2	source\text\smath\02\03010000.xhp	0	help	tit				0	fr	Curseur de formule				2002-02-02 02:02:02
 helpcontent2	source\text\smath\02\03010000.xhp	0	help	tit				0	hr	Pokazivač formula				2002-02-02 02:02:02
+helpcontent2	source\text\smath\02\03010000.xhp	0	help	tit				0	hu	Képletkurzor				2002-02-02 02:02:02
 helpcontent2	source\text\smath\02\03010000.xhp	0	help	tit				0	it	Cursore Formula				2002-02-02 02:02:02
 helpcontent2	source\text\smath\02\03010000.xhp	0	help	tit				0	ja	数式カーソル				2002-02-02 02:02:02
 helpcontent2	source\text\smath\02\03010000.xhp	0	help	tit				0	km	ទស្សន៍​ទ្រនិច​រូបមន្ត				2002-02-02 02:02:02
