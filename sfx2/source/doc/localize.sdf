@@ -13,9 +13,9 @@
 #
 #   $RCSfile: localize.sdf,v $
 #
-#   $Revision: 1.16 $
+#   $Revision: 1.17 $
 #
-#   last change: $Author: rt $ $Date: 2005-09-07 18:44:53 $
+#   last change: $Author: hr $ $Date: 2005-10-28 11:56:15 $
 #
 #   The Contents of this file are made available subject to
 #   the terms of GNU Lesser General Public License Version 2.1.
@@ -41,7 +41,6 @@
 #     MA  02111-1307  USA
 #
 #*************************************************************************
-#
 sfx2	source\doc\doc.src	0	errorbox	MSG_ERROR_EMPTY_NAME				0	af	Spesifiseer asb. 'n naam.				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	errorbox	MSG_ERROR_EMPTY_NAME				0	ar	يجب إدخال اسم.				20040507 14:25:1
 sfx2	source\doc\doc.src	0	errorbox	MSG_ERROR_EMPTY_NAME				0	be-BY	Вызначце назву.				2002-02-02 02:02:02
@@ -510,7 +509,7 @@ sfx2	source\doc\doc.src	0	infobox	MSG_VIEW_OPEN_CANT_SAVE				0	ja	ドキュメ�
 sfx2	source\doc\doc.src	0	infobox	MSG_VIEW_OPEN_CANT_SAVE				0	km	ឯកសារ​​បាន​បើក​រួច​ហើយ សម្រាប់​កែសម្រួល ។				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	infobox	MSG_VIEW_OPEN_CANT_SAVE				0	ko	문서가 편집을 위해 이미 열려 있습니다.				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	infobox	MSG_VIEW_OPEN_CANT_SAVE				0	nb	Dokumentet er allerede åpent for redigering.				2002-02-02 02:02:02
-sfx2	source\doc\doc.src	0	infobox	MSG_VIEW_OPEN_CANT_SAVE				0	nl	Dit document is reeds geopend.				2002-02-02 02:02:02
+sfx2	source\doc\doc.src	0	infobox	MSG_VIEW_OPEN_CANT_SAVE				0	nl	Dit document is al voor bewerking geopend.				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	infobox	MSG_VIEW_OPEN_CANT_SAVE				0	nn	Dokumentet er alt ope for redigering.				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	infobox	MSG_VIEW_OPEN_CANT_SAVE				0	nr	umtlolo sele uvulelwe ukuhlelwa				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	infobox	MSG_VIEW_OPEN_CANT_SAVE				0	ns	Tokomane e šetše e butšwe go lokišwa.				2002-02-02 02:02:02
@@ -657,7 +656,7 @@ sfx2	source\doc\doc.src	0	querybox	MSG_CONFIRM_OVERWRITE_TEMPLATE				0	ja	すで
 sfx2	source\doc\doc.src	0	querybox	MSG_CONFIRM_OVERWRITE_TEMPLATE				0	km	ឈ្មោះ​ត្រូវ​បាន​ប្រើ​រួច​ហើយ ។​\nតើ​អ្នក​ចង់​សរសេរ​ជាន់​លើ​ពុម្ព​ឯកសារ​ឬ​ទេ ?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	querybox	MSG_CONFIRM_OVERWRITE_TEMPLATE				0	ko	이 이름을 가진 서식 파일이 이미 존재합니다.\n덮어쓰겠습니까?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	querybox	MSG_CONFIRM_OVERWRITE_TEMPLATE				0	nb	Dette navnet er allerede i bruk.\nVil du skrive over dokumentmalen?				2002-02-02 02:02:02
-sfx2	source\doc\doc.src	0	querybox	MSG_CONFIRM_OVERWRITE_TEMPLATE				0	nl	Er bestaat reeds een sjabloon met deze naam.\nOverschrijven?				2002-02-02 02:02:02
+sfx2	source\doc\doc.src	0	querybox	MSG_CONFIRM_OVERWRITE_TEMPLATE				0	nl	Deze naam wordt al gebruikt.\nOverschrijven?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	querybox	MSG_CONFIRM_OVERWRITE_TEMPLATE				0	nn	Dette namnet er brukt frå før.\nVil du skriva over dokumentmalen?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	querybox	MSG_CONFIRM_OVERWRITE_TEMPLATE				0	nr	Igama esele lisebenza.\nUfuna ukutlolela phezu kwethempleyithi yomtlolo kwayo?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	querybox	MSG_CONFIRM_OVERWRITE_TEMPLATE				0	pa-IN	ਨਾਂ ਪਹਿਲਾਂ ਹੀ ਵਰਤਿਆ ਜਾ ਰਿਹਾ ਹੈ।\n ਕੀ ਤੁਸੀਂ ਦਸਤਾਵੇਜ਼ ਦੇ ਉੱਪਰ ਹੀ ਲਿਖਣਾ ਚਾਹੁੰਦੇ ਹੋ?				2002-02-02 02:02:02
@@ -851,7 +850,7 @@ sfx2	source\doc\doc.src	0	querybox	MSG_REGION_NOTEMPTY				0	ja	範囲は空で�
 sfx2	source\doc\doc.src	0	querybox	MSG_REGION_NOTEMPTY				0	km	ប្រភេទ​​មិន​មែ​ន​ទទេ ។​\nយ៉ាង​ណា​ក៏​ដោយ លុប​ឬ ?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	querybox	MSG_REGION_NOTEMPTY				0	ko	범주가 비어 있지 않습니다.\n그래도 삭제하겠습니까?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	querybox	MSG_REGION_NOTEMPTY				0	nb	Denne kategorien er ikke tom.\nVil du slette den likevel?				2002-02-02 02:02:02
-sfx2	source\doc\doc.src	0	querybox	MSG_REGION_NOTEMPTY				0	nl	Het bereik is niet leeg.\nToch verwijderen?				2002-02-02 02:02:02
+sfx2	source\doc\doc.src	0	querybox	MSG_REGION_NOTEMPTY				0	nl	De categorie is niet leeg.\nToch verwijderen?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	querybox	MSG_REGION_NOTEMPTY				0	nn	Denne kategorien er ikkje tom.\nVil du sletta han likevel?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	querybox	MSG_REGION_NOTEMPTY				0	nr	Ihlangotheli linento\nSula nanyana kunjalo?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	querybox	MSG_REGION_NOTEMPTY				0	pa-IN	ਵਰਗ ਖਾਲੀ ਨਹੀਂ ਹੈ।\nਕਿਸੇ ਤਰਾਂ ਵੀ ਹਟਾਉਣਾ ਹੈ?				2002-02-02 02:02:02
@@ -1349,7 +1348,7 @@ sfx2	source\doc\doc.src	0	string	RID_STR_FILTBASIC				0	ja	%PRODUCTNAME Basic �
 sfx2	source\doc\doc.src	0	string	RID_STR_FILTBASIC				0	km	បណ្ណាល័យ %PRODUCTNAME Basic				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	RID_STR_FILTBASIC				0	ko	%PRODUCTNAME Basic 라이브러리				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	RID_STR_FILTBASIC				0	nb	%PRODUCTNAME Basic-biblioteker				2002-02-02 02:02:02
-sfx2	source\doc\doc.src	0	string	RID_STR_FILTBASIC				0	nl	%PRODUCTNAME Basic Bibliotheken				2002-02-02 02:02:02
+sfx2	source\doc\doc.src	0	string	RID_STR_FILTBASIC				0	nl	%PRODUCTNAME Basic-bibliotheken				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	RID_STR_FILTBASIC				0	nn	%PRODUCTNAME Basic-bibliotek				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	RID_STR_FILTBASIC				0	nr	%IGAMALOMKHIQIZO amaBulungelo weencwadi asisekelo				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	RID_STR_FILTBASIC				0	ns	%PRODUCTNAME Dilaeborari tša Motheo				2002-02-02 02:02:02
@@ -1449,7 +1448,7 @@ sfx2	source\doc\doc.src	0	string	RID_STR_WARNSTYLEOVERWRITE				0	ja	スタイル
 sfx2	source\doc\doc.src	0	string	RID_STR_WARNSTYLEOVERWRITE				0	km	តើ​គួរ​ជំនួស​រចនាប័ទ្ម "$(ARG1)" ឬ​ទេ ?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	RID_STR_WARNSTYLEOVERWRITE				0	ko	유형 $(ARG1)을(를) 변경하겠습니까?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	RID_STR_WARNSTYLEOVERWRITE				0	nb	Vil du erstatte stilen «$(ARG1)»?				2002-02-02 02:02:02
-sfx2	source\doc\doc.src	0	string	RID_STR_WARNSTYLEOVERWRITE				0	nl	Wilt u opmaakprofiel "$(ARG1)" vervangen?				2002-02-02 02:02:02
+sfx2	source\doc\doc.src	0	string	RID_STR_WARNSTYLEOVERWRITE				0	nl	Wilt u opmaakprofiel $(ARG1) vervangen?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	RID_STR_WARNSTYLEOVERWRITE				0	nn	Vil du byta ut stilen «$(ARG1)»?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	RID_STR_WARNSTYLEOVERWRITE				0	nr	Ufuna iNdlela ye-"$(ARG1)" ijanyiselelwe ngokhunye?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	RID_STR_WARNSTYLEOVERWRITE				0	ns	A "$(ARG1)" Setaele se fetolwe?				2002-02-02 02:02:02
@@ -1852,7 +1851,7 @@ sfx2	source\doc\doc.src	0	string	STR_DELETE_TEMPLATE				0	ja	入力項目"$1"を
 sfx2	source\doc\doc.src	0	string	STR_DELETE_TEMPLATE				0	km	តើ​អ្នក​ពិត​ជា​ចង់​លុប​ធាតុ "$1" ឬ​ទេ ?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_DELETE_TEMPLATE				0	ko	항목"$1"을(를）삭제하겠습니까?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_DELETE_TEMPLATE				0	nb	Er du sikker på at du vil slette posten «$1»?				2002-02-02 02:02:02
-sfx2	source\doc\doc.src	0	string	STR_DELETE_TEMPLATE				0	nl	Wilt u item "$1" wissen?				2002-02-02 02:02:02
+sfx2	source\doc\doc.src	0	string	STR_DELETE_TEMPLATE				0	nl	Wilt u item "$1" verwijderen?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_DELETE_TEMPLATE				0	nn	Er du sikker på at du vil sletta posten «$1»?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_DELETE_TEMPLATE				0	nr	Uqinisile ufuna ukusula umfakwa "$1"?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_DELETE_TEMPLATE				0	ns	A o kgonthiša gore o nyaka go phumula tseno "$1"?				2002-02-02 02:02:02
@@ -1952,7 +1951,7 @@ sfx2	source\doc\doc.src	0	string	STR_DOCTYPENAME_SC				0	ja	表計算ドキュ�
 sfx2	source\doc\doc.src	0	string	STR_DOCTYPENAME_SC				0	km	សៀវភៅ​បញ្ជី				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_DOCTYPENAME_SC				0	ko	스프레드시트 문서				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_DOCTYPENAME_SC				0	nb	Regneark				2002-02-02 02:02:02
-sfx2	source\doc\doc.src	0	string	STR_DOCTYPENAME_SC				0	nl	Werkbladdocument				2002-02-02 02:02:02
+sfx2	source\doc\doc.src	0	string	STR_DOCTYPENAME_SC				0	nl	Werkblad				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_DOCTYPENAME_SC				0	nn	Rekneark				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_DOCTYPENAME_SC				0	nr	Ispreditjhiti				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_DOCTYPENAME_SC				0	ns	Letlakala la go Hlakantšha				2002-02-02 02:02:02
@@ -2949,7 +2948,7 @@ sfx2	source\doc\doc.src	0	string	STR_FSET_FILTERNAME1				0	ja	%PRODUCTNAME Frame
 sfx2	source\doc\doc.src	0	string	STR_FSET_FILTERNAME1				0	km	ឯកសារ​ស៊ុម ​%PRODUCTNAME				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_FSET_FILTERNAME1				0	ko	%PRODUCTNAME Frame 문서				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_FSET_FILTERNAME1				0	nb	%PRODUCTNAME-rammedokument				2002-02-02 02:02:02
-sfx2	source\doc\doc.src	0	string	STR_FSET_FILTERNAME1				0	nl	%PRODUCTNAME Frame-document				2002-02-02 02:02:02
+sfx2	source\doc\doc.src	0	string	STR_FSET_FILTERNAME1				0	nl	%PRODUCTNAME-framedocument				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_FSET_FILTERNAME1				0	nn	%PRODUCTNAME-rammedokument				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_FSET_FILTERNAME1				0	nr	I-%GAMALOMKHIQIZO isakhiwo somtlolo				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_FSET_FILTERNAME1				0	ns	%PRODUCTNAME Foreimi ya Tokomane				2002-02-02 02:02:02
@@ -4635,7 +4634,7 @@ sfx2	source\doc\doctdlg.src	0	fixedtext	DLG_DOC_TEMPLATE	FT_SECTION			97	ja	範�
 sfx2	source\doc\doctdlg.src	0	fixedtext	DLG_DOC_TEMPLATE	FT_SECTION			97	km	ប្រភេទ 				2002-02-02 02:02:02
 sfx2	source\doc\doctdlg.src	0	fixedtext	DLG_DOC_TEMPLATE	FT_SECTION			97	ko	영역(~C)				2002-02-02 02:02:02
 sfx2	source\doc\doctdlg.src	0	fixedtext	DLG_DOC_TEMPLATE	FT_SECTION			97	nb	~Kategorier				2002-02-02 02:02:02
-sfx2	source\doc\doctdlg.src	0	fixedtext	DLG_DOC_TEMPLATE	FT_SECTION			97	nl	~Bereiken				2002-02-02 02:02:02
+sfx2	source\doc\doctdlg.src	0	fixedtext	DLG_DOC_TEMPLATE	FT_SECTION			97	nl	~Categorieën				2002-02-02 02:02:02
 sfx2	source\doc\doctdlg.src	0	fixedtext	DLG_DOC_TEMPLATE	FT_SECTION			97	nn	~Kategoriar				2002-02-02 02:02:02
 sfx2	source\doc\doctdlg.src	0	fixedtext	DLG_DOC_TEMPLATE	FT_SECTION			97	nr	~Izinto				2002-02-02 02:02:02
 sfx2	source\doc\doctdlg.src	0	fixedtext	DLG_DOC_TEMPLATE	FT_SECTION			97	pa-IN	ਵਰਗ(~c)				2002-02-02 02:02:02
@@ -5178,7 +5177,7 @@ sfx2	source\doc\doctempl.src	0	itemlist	TEMPLATE_LONG_NAMES_ARY	6			0	ja	財政	
 sfx2	source\doc\doctempl.src	0	itemlist	TEMPLATE_LONG_NAMES_ARY	6			0	km	ហិរញ្ញវត្ថុ				2002-02-02 02:02:02
 sfx2	source\doc\doctempl.src	0	itemlist	TEMPLATE_LONG_NAMES_ARY	6			0	ko	회계				2002-02-02 02:02:02
 sfx2	source\doc\doctempl.src	0	itemlist	TEMPLATE_LONG_NAMES_ARY	6			0	nb	Finanser				2002-02-02 02:02:02
-sfx2	source\doc\doctempl.src	0	itemlist	TEMPLATE_LONG_NAMES_ARY	6			0	nl	Financieel				2002-02-02 02:02:02
+sfx2	source\doc\doctempl.src	0	itemlist	TEMPLATE_LONG_NAMES_ARY	6			0	nl	Financiën				2002-02-02 02:02:02
 sfx2	source\doc\doctempl.src	0	itemlist	TEMPLATE_LONG_NAMES_ARY	6			0	nn	Finansar				2002-02-02 02:02:02
 sfx2	source\doc\doctempl.src	0	itemlist	TEMPLATE_LONG_NAMES_ARY	6			0	nr	Iimali				2002-02-02 02:02:02
 sfx2	source\doc\doctempl.src	0	itemlist	TEMPLATE_LONG_NAMES_ARY	6			0	ns	Matlotlo				2002-02-02 02:02:02
@@ -5429,7 +5428,7 @@ sfx2	source\doc\docvor.src	0	menubutton	DLG_ORGANIZE	BTN_EDIT			60	ja	コマン�
 sfx2	source\doc\docvor.src	0	menubutton	DLG_ORGANIZE	BTN_EDIT			60	km	ពាក្យ​បញ្ជា				2002-02-02 02:02:02
 sfx2	source\doc\docvor.src	0	menubutton	DLG_ORGANIZE	BTN_EDIT			60	ko	명령				2002-02-02 02:02:02
 sfx2	source\doc\docvor.src	0	menubutton	DLG_ORGANIZE	BTN_EDIT			60	nb	Kommandoer				2002-02-02 02:02:02
-sfx2	source\doc\docvor.src	0	menubutton	DLG_ORGANIZE	BTN_EDIT			60	nl	~Opdrachten				2002-02-02 02:02:02
+sfx2	source\doc\docvor.src	0	menubutton	DLG_ORGANIZE	BTN_EDIT			60	nl	Opdrachten				2002-02-02 02:02:02
 sfx2	source\doc\docvor.src	0	menubutton	DLG_ORGANIZE	BTN_EDIT			60	nn	Kommandoar				2002-02-02 02:02:02
 sfx2	source\doc\docvor.src	0	menubutton	DLG_ORGANIZE	BTN_EDIT			60	nr	Imilayo				2002-02-02 02:02:02
 sfx2	source\doc\docvor.src	0	menubutton	DLG_ORGANIZE	BTN_EDIT			60	ns	Ditaelo				2002-02-02 02:02:02
@@ -5580,7 +5579,7 @@ sfx2	source\doc\docvor.src	0	menuitem	DLG_ORGANIZE.BTN_EDIT	ID_DEFAULT_TEMPLATE	
 sfx2	source\doc\docvor.src	0	menuitem	DLG_ORGANIZE.BTN_EDIT	ID_DEFAULT_TEMPLATE	HID_ORGANIZE_STDTEMPLATE_ADD		0	km	កំណត់​ជា​ពុម្ព​លំនាំដើម				2002-02-02 02:02:02
 sfx2	source\doc\docvor.src	0	menuitem	DLG_ORGANIZE.BTN_EDIT	ID_DEFAULT_TEMPLATE	HID_ORGANIZE_STDTEMPLATE_ADD		0	ko	기본 서식 파일로 설정				2002-02-02 02:02:02
 sfx2	source\doc\docvor.src	0	menuitem	DLG_ORGANIZE.BTN_EDIT	ID_DEFAULT_TEMPLATE	HID_ORGANIZE_STDTEMPLATE_ADD		0	nb	Velg som standardmal				2002-02-02 02:02:02
-sfx2	source\doc\docvor.src	0	menuitem	DLG_ORGANIZE.BTN_EDIT	ID_DEFAULT_TEMPLATE	HID_ORGANIZE_STDTEMPLATE_ADD		0	nl	Als s~tandaardsjabloon				2002-02-02 02:02:02
+sfx2	source\doc\docvor.src	0	menuitem	DLG_ORGANIZE.BTN_EDIT	ID_DEFAULT_TEMPLATE	HID_ORGANIZE_STDTEMPLATE_ADD		0	nl	Als standaardsjabloon instellen				2002-02-02 02:02:02
 sfx2	source\doc\docvor.src	0	menuitem	DLG_ORGANIZE.BTN_EDIT	ID_DEFAULT_TEMPLATE	HID_ORGANIZE_STDTEMPLATE_ADD		0	nn	Vel som standardmal				2002-02-02 02:02:02
 sfx2	source\doc\docvor.src	0	menuitem	DLG_ORGANIZE.BTN_EDIT	ID_DEFAULT_TEMPLATE	HID_ORGANIZE_STDTEMPLATE_ADD		0	nr	Beka njengethempleyiti ekhethwe lihlelo  				2002-02-02 02:02:02
 sfx2	source\doc\docvor.src	0	menuitem	DLG_ORGANIZE.BTN_EDIT	ID_DEFAULT_TEMPLATE	HID_ORGANIZE_STDTEMPLATE_ADD		0	ns	Beakanya Bjalo ka Thempoleiti ya Tlhaelo				2002-02-02 02:02:02
@@ -5630,7 +5629,7 @@ sfx2	source\doc\docvor.src	0	menuitem	DLG_ORGANIZE.BTN_EDIT	ID_DELETE	HID_ORGANI
 sfx2	source\doc\docvor.src	0	menuitem	DLG_ORGANIZE.BTN_EDIT	ID_DELETE	HID_ORGANIZE_DELETE		0	km	លុប​ 				2002-02-02 02:02:02
 sfx2	source\doc\docvor.src	0	menuitem	DLG_ORGANIZE.BTN_EDIT	ID_DELETE	HID_ORGANIZE_DELETE		0	ko	삭제(~D)				2002-02-02 02:02:02
 sfx2	source\doc\docvor.src	0	menuitem	DLG_ORGANIZE.BTN_EDIT	ID_DELETE	HID_ORGANIZE_DELETE		0	nb	~Slett				2002-02-02 02:02:02
-sfx2	source\doc\docvor.src	0	menuitem	DLG_ORGANIZE.BTN_EDIT	ID_DELETE	HID_ORGANIZE_DELETE		0	nl	~Wissen				2002-02-02 02:02:02
+sfx2	source\doc\docvor.src	0	menuitem	DLG_ORGANIZE.BTN_EDIT	ID_DELETE	HID_ORGANIZE_DELETE		0	nl	~Verwijderen				2002-02-02 02:02:02
 sfx2	source\doc\docvor.src	0	menuitem	DLG_ORGANIZE.BTN_EDIT	ID_DELETE	HID_ORGANIZE_DELETE		0	nn	~Slett				2002-02-02 02:02:02
 sfx2	source\doc\docvor.src	0	menuitem	DLG_ORGANIZE.BTN_EDIT	ID_DELETE	HID_ORGANIZE_DELETE		0	nr	~Sula				2002-02-02 02:02:02
 sfx2	source\doc\docvor.src	0	menuitem	DLG_ORGANIZE.BTN_EDIT	ID_DELETE	HID_ORGANIZE_DELETE		0	ns	~Tloša				2002-02-02 02:02:02
@@ -5832,7 +5831,7 @@ sfx2	source\doc\docvor.src	0	menuitem	DLG_ORGANIZE.BTN_EDIT	ID_PRINTER_SETUP	HID
 sfx2	source\doc\docvor.src	0	menuitem	DLG_ORGANIZE.BTN_EDIT	ID_PRINTER_SETUP	HID_ORGANIZE_PRINTER_SETUP		0	km	កំណត់​ម៉ាស៊ីន​បោះពុម្ព​...				2002-02-02 02:02:02
 sfx2	source\doc\docvor.src	0	menuitem	DLG_ORGANIZE.BTN_EDIT	ID_PRINTER_SETUP	HID_ORGANIZE_PRINTER_SETUP		0	ko	프린터 설정...				2002-02-02 02:02:02
 sfx2	source\doc\docvor.src	0	menuitem	DLG_ORGANIZE.BTN_EDIT	ID_PRINTER_SETUP	HID_ORGANIZE_PRINTER_SETUP		0	nb	Skriveroppsett ...				2002-02-02 02:02:02
-sfx2	source\doc\docvor.src	0	menuitem	DLG_ORGANIZE.BTN_EDIT	ID_PRINTER_SETUP	HID_ORGANIZE_PRINTER_SETUP		0	nl	Printerinstellin~gen...				2002-02-02 02:02:02
+sfx2	source\doc\docvor.src	0	menuitem	DLG_ORGANIZE.BTN_EDIT	ID_PRINTER_SETUP	HID_ORGANIZE_PRINTER_SETUP		0	nl	Printerinstellingen...				2002-02-02 02:02:02
 sfx2	source\doc\docvor.src	0	menuitem	DLG_ORGANIZE.BTN_EDIT	ID_PRINTER_SETUP	HID_ORGANIZE_PRINTER_SETUP		0	nn	Skrivaroppsett ...				2002-02-02 02:02:02
 sfx2	source\doc\docvor.src	0	menuitem	DLG_ORGANIZE.BTN_EDIT	ID_PRINTER_SETUP	HID_ORGANIZE_PRINTER_SETUP		0	nr	Izinga lokusebenza kokugadangisa				2002-02-02 02:02:02
 sfx2	source\doc\docvor.src	0	menuitem	DLG_ORGANIZE.BTN_EDIT	ID_PRINTER_SETUP	HID_ORGANIZE_PRINTER_SETUP		0	ns	Dipeakanyo tša Segatiši...				2002-02-02 02:02:02
@@ -5932,7 +5931,7 @@ sfx2	source\doc\docvor.src	0	menuitem	DLG_ORGANIZE.BTN_EDIT	ID_RESET_DEFAULT_TEM
 sfx2	source\doc\docvor.src	0	menuitem	DLG_ORGANIZE.BTN_EDIT	ID_RESET_DEFAULT_TEMPLATE	HID_ORGANIZE_STDTEMPLATE_DEL		0	km	កំណត់​ពុម្ព​លំនាំដើម​ឡើង​វិញ				2002-02-02 02:02:02
 sfx2	source\doc\docvor.src	0	menuitem	DLG_ORGANIZE.BTN_EDIT	ID_RESET_DEFAULT_TEMPLATE	HID_ORGANIZE_STDTEMPLATE_DEL		0	ko	기본 서식 파일 원래대로				2002-02-02 02:02:02
 sfx2	source\doc\docvor.src	0	menuitem	DLG_ORGANIZE.BTN_EDIT	ID_RESET_DEFAULT_TEMPLATE	HID_ORGANIZE_STDTEMPLATE_DEL		0	nb	Nullstill standardmal				2002-02-02 02:02:02
-sfx2	source\doc\docvor.src	0	menuitem	DLG_ORGANIZE.BTN_EDIT	ID_RESET_DEFAULT_TEMPLATE	HID_ORGANIZE_STDTEMPLATE_DEL		0	nl	~Standaardsjabloon				2002-02-02 02:02:02
+sfx2	source\doc\docvor.src	0	menuitem	DLG_ORGANIZE.BTN_EDIT	ID_RESET_DEFAULT_TEMPLATE	HID_ORGANIZE_STDTEMPLATE_DEL		0	nl	Standaardsjabloon herstellen				2002-02-02 02:02:02
 sfx2	source\doc\docvor.src	0	menuitem	DLG_ORGANIZE.BTN_EDIT	ID_RESET_DEFAULT_TEMPLATE	HID_ORGANIZE_STDTEMPLATE_DEL		0	nn	Nullstill standardmal				2002-02-02 02:02:02
 sfx2	source\doc\docvor.src	0	menuitem	DLG_ORGANIZE.BTN_EDIT	ID_RESET_DEFAULT_TEMPLATE	HID_ORGANIZE_STDTEMPLATE_DEL		0	nr	Beka butjha ithempleyiti esele likhethwe lihlelo				2002-02-02 02:02:02
 sfx2	source\doc\docvor.src	0	menuitem	DLG_ORGANIZE.BTN_EDIT	ID_RESET_DEFAULT_TEMPLATE	HID_ORGANIZE_STDTEMPLATE_DEL		0	ns	Beakanya gape Thempoleiti ya Tlhaelo				2002-02-02 02:02:02
@@ -6434,7 +6433,7 @@ sfx2	source\doc\new.src	0	checkbox	DLG_NEW_FILE	CB_FRAME_STYLE			50	ja	枠(~F)		
 sfx2	source\doc\new.src	0	checkbox	DLG_NEW_FILE	CB_FRAME_STYLE			50	km	ស៊ុម 				2002-02-02 02:02:02
 sfx2	source\doc\new.src	0	checkbox	DLG_NEW_FILE	CB_FRAME_STYLE			50	ko	프레임(~F)				2002-02-02 02:02:02
 sfx2	source\doc\new.src	0	checkbox	DLG_NEW_FILE	CB_FRAME_STYLE			50	nb	~Ramme				2002-02-02 02:02:02
-sfx2	source\doc\new.src	0	checkbox	DLG_NEW_FILE	CB_FRAME_STYLE			50	nl	~Kader				2002-02-02 02:02:02
+sfx2	source\doc\new.src	0	checkbox	DLG_NEW_FILE	CB_FRAME_STYLE			50	nl	~Frame				2002-02-02 02:02:02
 sfx2	source\doc\new.src	0	checkbox	DLG_NEW_FILE	CB_FRAME_STYLE			50	nn	~Ramme				2002-02-02 02:02:02
 sfx2	source\doc\new.src	0	checkbox	DLG_NEW_FILE	CB_FRAME_STYLE			50	nr	~Isakhiwo				2002-02-02 02:02:02
 sfx2	source\doc\new.src	0	checkbox	DLG_NEW_FILE	CB_FRAME_STYLE			50	ns	~Foreimi				2002-02-02 02:02:02
@@ -7086,7 +7085,7 @@ sfx2	source\doc\new.src	0	morebutton	DLG_NEW_FILE	BT_MORE			50	ja	詳細(~M)				
 sfx2	source\doc\new.src	0	morebutton	DLG_NEW_FILE	BT_MORE			50	km	ច្រើន​ជាង 				2002-02-02 02:02:02
 sfx2	source\doc\new.src	0	morebutton	DLG_NEW_FILE	BT_MORE			50	ko	옵션(~M)				2002-02-02 02:02:02
 sfx2	source\doc\new.src	0	morebutton	DLG_NEW_FILE	BT_MORE			50	nb	~Mer				2002-02-02 02:02:02
-sfx2	source\doc\new.src	0	morebutton	DLG_NEW_FILE	BT_MORE			50	nl	~Overige				2002-02-02 02:02:02
+sfx2	source\doc\new.src	0	morebutton	DLG_NEW_FILE	BT_MORE			50	nl	~Meer				2002-02-02 02:02:02
 sfx2	source\doc\new.src	0	morebutton	DLG_NEW_FILE	BT_MORE			50	nn	~Meir				2002-02-02 02:02:02
 sfx2	source\doc\new.src	0	morebutton	DLG_NEW_FILE	BT_MORE			50	nr	~Kunengi				2002-02-02 02:02:02
 sfx2	source\doc\new.src	0	morebutton	DLG_NEW_FILE	BT_MORE			50	ns	~Gape				2002-02-02 02:02:02
@@ -7501,6 +7500,7 @@ sfx2	source\doc\secmacrowarnings.src	0	okbutton	RID_XMLSECDLG_MACROWARN	PB_ENABL
 sfx2	source\doc\secmacrowarnings.src	0	okbutton	RID_XMLSECDLG_MACROWARN	PB_ENABLE			0	zh-TW	啟用巨集				2002-02-02 02:02:02
 sfx2	source\doc\secmacrowarnings.src	0	pushbutton	RID_XMLSECDLG_MACROWARN	PB_DISABLE			0	es	Inhabilitar macros				2002-02-02 02:02:02
 sfx2	source\doc\secmacrowarnings.src	0	pushbutton	RID_XMLSECDLG_MACROWARN	PB_DISABLE			0	fr	Désactiver les macros				2002-02-02 02:02:02
+sfx2	source\doc\secmacrowarnings.src	0	pushbutton	RID_XMLSECDLG_MACROWARN	PB_DISABLE			0	hu	Makrók tiltása				2002-02-02 02:02:02
 sfx2	source\doc\secmacrowarnings.src	0	pushbutton	RID_XMLSECDLG_MACROWARN	PB_DISABLE			0	it	Disabilita macro				2002-02-02 02:02:02
 sfx2	source\doc\secmacrowarnings.src	0	pushbutton	RID_XMLSECDLG_MACROWARN	PB_DISABLE			0	ja	マクロを無効にする				2002-02-02 02:02:02
 sfx2	source\doc\secmacrowarnings.src	0	pushbutton	RID_XMLSECDLG_MACROWARN	PB_DISABLE			0	ko	매크로 비활성화				2002-02-02 02:02:02
@@ -7510,6 +7510,7 @@ sfx2	source\doc\secmacrowarnings.src	0	pushbutton	RID_XMLSECDLG_MACROWARN	PB_DIS
 sfx2	source\doc\secmacrowarnings.src	0	pushbutton	RID_XMLSECDLG_MACROWARN	PB_DISABLE			0	zh-TW	停用巨集				2002-02-02 02:02:02
 sfx2	source\doc\secmacrowarnings.src	0	pushbutton	RID_XMLSECDLG_MACROWARN	PB_ENABLE			0	es	Habilitar macros				2002-02-02 02:02:02
 sfx2	source\doc\secmacrowarnings.src	0	pushbutton	RID_XMLSECDLG_MACROWARN	PB_ENABLE			0	fr	Activer les macros				2002-02-02 02:02:02
+sfx2	source\doc\secmacrowarnings.src	0	pushbutton	RID_XMLSECDLG_MACROWARN	PB_ENABLE			0	hu	Makrók engedélyezése				2002-02-02 02:02:02
 sfx2	source\doc\secmacrowarnings.src	0	pushbutton	RID_XMLSECDLG_MACROWARN	PB_ENABLE			0	it	Abilita macro				2002-02-02 02:02:02
 sfx2	source\doc\secmacrowarnings.src	0	pushbutton	RID_XMLSECDLG_MACROWARN	PB_ENABLE			0	ja	マクロを有効にする				2002-02-02 02:02:02
 sfx2	source\doc\secmacrowarnings.src	0	pushbutton	RID_XMLSECDLG_MACROWARN	PB_ENABLE			0	ko	매크로 활성화				2002-02-02 02:02:02
