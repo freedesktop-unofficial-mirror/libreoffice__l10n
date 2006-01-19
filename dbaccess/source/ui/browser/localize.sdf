@@ -13,9 +13,9 @@
 #
 #   $RCSfile: localize.sdf,v $
 #
-#   $Revision: 1.14 $
+#   $Revision: 1.15 $
 #
-#   last change: $Author: obo $ $Date: 2005-11-15 19:06:42 $
+#   last change: $Author: obo $ $Date: 2006-01-19 14:06:43 $
 #
 #   The Contents of this file are made available subject to
 #   the terms of GNU Lesser General Public License Version 2.1.
@@ -94,6 +94,7 @@ dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_TBL_TITLE				0	ja	テー
 dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_TBL_TITLE				0	km	តារាង #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_TBL_TITLE				0	ko	테이블 #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_TBL_TITLE				0	lt	Lentelė #				2002-02-02 02:02:02
+dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_TBL_TITLE				0	mk	Табела #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_TBL_TITLE				0	nb	Tabell #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_TBL_TITLE				0	nl	Tabel #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_TBL_TITLE				0	nn	Tabell #				2002-02-02 02:02:02
@@ -116,6 +117,7 @@ dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_TBL_TITLE				0	tr	Tablo 
 dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_TBL_TITLE				0	ts	Tafula #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_TBL_TITLE				0	ve	Thebulu #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_TBL_TITLE				0	vi	Bảng #				2002-02-02 02:02:02
+dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_TBL_TITLE				0	xh	Itheyibhile #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_TBL_TITLE				0	zh-CN	表格 #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_TBL_TITLE				0	zh-TW	表格 #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_TBL_TITLE				0	zu	Ithebula #				2002-02-02 02:02:02
@@ -145,6 +147,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DS
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	km	កែ​សម្រួល​ឯកសារ​មូល​ដ្ឋាន​ទិន្នន័យ... 				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	ko	데이터베이스 파일 편집(~D)...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	lt	Taisyti ~duomenų bazės failą				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	mk	Уреди ~датотека за база на податоци...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	nb	Rediger ~databasefil ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	nl	~Databasebestand bewerken...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	nn	Rediger ~databasefil ...				2002-02-02 02:02:02
@@ -167,6 +170,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DS
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	ts	Tsala ~Fayili ya Vuhlayisela-rungula...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	ve	Editha ~Faila ya Databeisi...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	vi	Chỉnh sửa tập tin CSDL...				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	xh	Hlela Ifayili ~Yesiseko Seenkcukacha...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	zh-CN	编辑数据库文件(~D)...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	zh-TW	編輯資料庫檔案(~D)...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	zu	Lungisa ~Ifayela Ledatabheysi...				2002-02-02 02:02:02
@@ -196,6 +200,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_CLOSECONN		HID_BROWSER_CLOSE
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_CLOSECONN		HID_BROWSER_CLOSECONN		0	km	ផ្តាច់ 				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_CLOSECONN		HID_BROWSER_CLOSECONN		0	ko	연결 끊기(~N)				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_CLOSECONN		HID_BROWSER_CLOSECONN		0	lt	Atju~ngti				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_CLOSECONN		HID_BROWSER_CLOSECONN		0	mk	О~дврзи се				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_CLOSECONN		HID_BROWSER_CLOSECONN		0	nb	Koble ~fra				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_CLOSECONN		HID_BROWSER_CLOSECONN		0	nl	~Verbinding verbreken				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_CLOSECONN		HID_BROWSER_CLOSECONN		0	nn	Kopla ~frå				2002-02-02 02:02:02
@@ -219,6 +224,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_CLOSECONN		HID_BROWSER_CLOSE
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_CLOSECONN		HID_BROWSER_CLOSECONN		0	ts	Tshika vuhla~nganisi				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_CLOSECONN		HID_BROWSER_CLOSECONN		0	ve	Ṱu-manyulula				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_CLOSECONN		HID_BROWSER_CLOSECONN		0	vi	Ngưng kết ~nối				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_CLOSECONN		HID_BROWSER_CLOSECONN		0	xh	Qhaqha Um~dibaniso				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_CLOSECONN		HID_BROWSER_CLOSECONN		0	zh-CN	结束连接(~N)				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_CLOSECONN		HID_BROWSER_CLOSECONN		0	zh-TW	結束連線(~N)				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_CLOSECONN		HID_BROWSER_CLOSECONN		0	zu	Unga~xhumanisi				2002-02-02 02:02:02
@@ -275,6 +281,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REF
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REFRESHCONN		0	km	ធ្វើ​ឲ្យ​ការ​តភ្ជាប់​ស្រស់ 				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REFRESHCONN		0	ko	연결 새로 고침(~R)				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REFRESHCONN		0	lt	~Atnaujinti ryšį				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REFRESHCONN		0	mk	~Освежи поврзување				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REFRESHCONN		0	nb	Opp~dater tilkobling				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REFRESHCONN		0	nl	~Opnieuw verbinden				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REFRESHCONN		0	nn	Opp~dater tilkopling				2002-02-02 02:02:02
@@ -298,6 +305,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REF
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REFRESHCONN		0	ts	~Pfuxeta Vuhlanganisi				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REFRESHCONN		0	ve	~Vusuludza Ṱhumanyo				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REFRESHCONN		0	vi	~Làm tươi kết nối				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REFRESHCONN		0	xh	~Hlaziya Umdibaniso				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REFRESHCONN		0	zh-CN	重新连接(~R)				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REFRESHCONN		0	zh-TW	重新連線(~R)				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REFRESHCONN		0	zu	~Vuselela Uxhumano				2002-02-02 02:02:02
@@ -433,6 +441,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	menuitem	RID_MENU_REFRESH_DATA	ID_BROWSE
 dbaccess	source\ui\browser\sbabrw.src	0	menuitem	RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	km	ស្ថាបនា​​​ឡើងវិញ				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	menuitem	RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	ko	다시 구성				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	menuitem	RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	lt	Atstatyti				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	mk	Изгради повторно				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	menuitem	RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	nb	Bygg på nytt				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	menuitem	RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	nl	Opnieuw opbouwen				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	menuitem	RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	nn	Bygg opp igjen				2002-02-02 02:02:02
@@ -455,6 +464,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	menuitem	RID_MENU_REFRESH_DATA	ID_BROWSE
 dbaccess	source\ui\browser\sbabrw.src	0	menuitem	RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	ts	Aka nakamba				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	menuitem	RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	ve	Fhaṱulula				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	menuitem	RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	vi	Biên dịch lại				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	xh	Phinda wakhe				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	menuitem	RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	zh-CN	重建				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	menuitem	RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	zh-TW	重建				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	menuitem	RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	zu	Yakha kabusha				2002-02-02 02:02:02
@@ -536,6 +546,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_QUERY_CONFIRM	
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_QUERY_CONFIRM				0	km	សំណួរ​នេះ​មាន​រួច​ហើយ ។ តើ​អ្នក​ចង់​លុប​វា​ឬ​ទេ ?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_QUERY_CONFIRM				0	ko	쿼리가 이미 있습니다. 삭제하시겠습니까?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_QUERY_CONFIRM				0	lt	Užklausa jau yra. Ar ją pašalinti?				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_QUERY_CONFIRM				0	mk	Барањето веќе постои. Дали сакате да го избришете?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_QUERY_CONFIRM				0	nb	Denne spørringen finnes allerede. Vil du slette den?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_QUERY_CONFIRM				0	nl	De query bestaat al. Wilt u deze verwijderen?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_QUERY_CONFIRM				0	nn	Denne spørjinga finst frå før. Vil du sletta ho?				2002-02-02 02:02:02
@@ -558,6 +569,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_QUERY_CONFIRM	
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_QUERY_CONFIRM				0	ts	Ndzavisiso ana se wu kona. Xana u lava ku wi tima?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_QUERY_CONFIRM				0	ve	Khwiri yo no vha hone. Ni khou ṱoḓa u i phumula?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_QUERY_CONFIRM				0	vi	Truy vấn đã có. Bạn có muốn xoá nó không?				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_QUERY_CONFIRM				0	xh	Le ntandabuzo seyikhona. Ingaba uyafuna ukuyicima?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_QUERY_CONFIRM				0	zh-CN	查询已存在。是否要删除它？				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_QUERY_CONFIRM				0	zh-TW	查詢已經存在。您是否要刪除？				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_QUERY_CONFIRM				0	zu	Umbuzo usukhona. Ufuna ukuwucisha?				2002-02-02 02:02:02
@@ -587,6 +599,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_ROWS				0	ja	�
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_ROWS				0	km	តើ​អ្នក​ចង់​លុប​ទិន្នន័យ​ដែល​បាន​ជ្រើសឬទេ ?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_ROWS				0	ko	선택된 데이터를 삭제하겠습니까?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_ROWS				0	lt	Ar pašalinti pažymėtus duomenis?				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_ROWS				0	mk	Дали сакате да ги ибришете избраните податоци?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_ROWS				0	nb	Vil du slette de merkede dataene?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_ROWS				0	nl	Wilt u de geselecteerde gegevens verwijderen?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_ROWS				0	nn	Vil du sletta de merkte dataa?				2002-02-02 02:02:02
@@ -610,12 +623,13 @@ dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_ROWS				0	tr	S
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_ROWS				0	ts	Xana u lava ku tima rungula leri hlawuriweke?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_ROWS				0	ve	Ni khou ṱoḓa u phumula tata yo nangiwaho?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_ROWS				0	vi	Bạn có muốn xoá dữ liệu đang chọn không?				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_ROWS				0	xh	Ingaba ufuna ukucima iinkcukacha ezikhethiweyo?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_ROWS				0	zh-CN	您要删除选中的数据吗？				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_ROWS				0	zh-TW	您要刪除選中的資料﹖				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_ROWS				0	zu	Ufuna ukucisha ulwazi olukhethiwe?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	af	Die huidige rekord is gewysig.\nWil u die veranderinge stoor?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	ar	تم تغيير السجل الحالي.\nهل تريد حفظ التغييرات‎؟				20040507 14:21:28
-dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	be-BY	Гэты запіс быў зменены.\nЦі хочаце замацаваць гэтыя змены?				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	be-BY	Актыўны запіс быў зменены.\nЦі жадаеце замацаваць змены?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	bg	Текущият запис е бил променен.\nЖелаете ли промените да бъдат запазени?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	bs	The current record has been changed.\nDo you want to save the changes?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	ca	El registre actual ha canviat.\nVoleu desar els canvis?				2002-02-02 02:02:02
@@ -639,6 +653,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	ja	
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	km	កំណត់ត្រា​បច្ចុប្បន្ន​ ត្រូ​វ​បាន​ប្តូរ ។\nតើ​អ្នក​ចង់​រក្សាទុក​ការ​ផ្លាស់ប្តូរ​ឬទេ ?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	ko	현재 레코드가 변경되었습니다.\n 변경 사항을 저장하겠습니까?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	lt	Dabartinis įrašas pakeistas.\nAr įrašyti pakeitimus?				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	mk	Тековниот запис е изменет.\nДали сакате да ги зачувате промените?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	nb	Denne posten er endret.\nVil du lagre endringene?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	nl	De huidige record is gewijzigd.\nWilt u de wijzigingen opslaan?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	nn	Denne posten er endra.\nVil du lagra endringane?				2002-02-02 02:02:02
@@ -661,6 +676,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	tr	
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	ts	Rhekhodo leyi yi cinciwile.\nXana u lava ku hlayisa ku cinca?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	ve	Rikhodo i re hone yo shandulwa.\nNi khou ṱoḓa u seiva dzitshanduko?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	vi	Mẫu ghi hiện tại đã bị thay đổi.\nBạn có muốn lưu các thay đổi không?				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	xh	Ingxelo yangoku itshintshiwe.\nIngaba uyafuna ukuzigcina iinguquko?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	zh-CN	数据条目已经被更改。\n您要存盘更改后的数据记录吗？				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	zh-TW	目前的資料已經變更。要儲存變更的資料條目？				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	zu	Irekhodi lamanje lishintshiwe.\nUfuna ukuseyva izinguquko?				2002-02-02 02:02:02
@@ -688,6 +704,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_CONNECTION_LOST				0	ja	�
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_CONNECTION_LOST				0	km	បាត់​បង់​ការ​​ត​ភ្ចាប់​​ទៅ​​​​មូល​ដ្ឋាន​​ទិន្នន័យ ។ តើ​អ្នក​​ចង់​​ត​ភ្ជាប់​​ឡើ​ង​​វិញ​ឬ​ទេ ?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_CONNECTION_LOST				0	ko	데이터베이스로의 연결이 끊어졌습니다. 다시 연결하시겠습니까?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_CONNECTION_LOST				0	lt	Ryšys su duomenų baze nutrūko. Ar vėl prisijungti?				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_CONNECTION_LOST				0	mk	Врската со базата на податоци е прекината. Дали сакате да се поврзете повторно?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_CONNECTION_LOST				0	nb	Mistet tilkoblingen til databasen. Vil du koble til igjen?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_CONNECTION_LOST				0	nl	De verbinding met de database is verbroken. Wilt u opnieuw verbinden?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_CONNECTION_LOST				0	nn	Mista sambandet til databasen. Vil du kopla til igjen?				2002-02-02 02:02:02
@@ -710,6 +727,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_CONNECTION_LOST				0	tr	V
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_CONNECTION_LOST				0	ts	Vuhlanganisi bya vuhlayise-rungula byi lahlekile. Xana u lava ku endla vuhlanganisi nakambe?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_CONNECTION_LOST				0	ve	Ṱhumanyo na databeisi yo lozwea. Ni khou ṱoḓa u ṱumanya hafhu?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_CONNECTION_LOST				0	vi	Kết nối đến dữ liệu bị mất. Bạn có muốn kết nối lại?				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_CONNECTION_LOST				0	xh	Umdibaniso oya kwisiseko seenkcukacha sowulahlekile. Ingaba uyafuna ukuphinda uwudibanise?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_CONNECTION_LOST				0	zh-CN	和数据库的连接已经中断。要重新和数据库连接？				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_CONNECTION_LOST				0	zh-TW	和資料庫的連線已經關閉。要重新連線？				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_CONNECTION_LOST				0	zu	Uxhumano esiqwini solwazi lulahlekile. Ufuna ukuxhuma kabusha?				2002-02-02 02:02:02
@@ -1063,6 +1081,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_CONNECTION_LOST				0	ja	�
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_CONNECTION_LOST				0	km	បាត់បង់​ការ​តភ្ជាប់				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_CONNECTION_LOST				0	ko	연결 끊김				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_CONNECTION_LOST				0	lt	Ryšys nutrūko				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_CONNECTION_LOST				0	mk	Врската е изгубена				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_CONNECTION_LOST				0	nb	Tilkoblingen ble brutt				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_CONNECTION_LOST				0	nl	Verbinding verbroken				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_CONNECTION_LOST				0	nn	Samband brote				2002-02-02 02:02:02
@@ -1086,6 +1105,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_CONNECTION_LOST				0	tr	B
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_CONNECTION_LOST				0	ts	Vuhlanganisi byi lahlekile				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_CONNECTION_LOST				0	ve	Ṱhumanyo yo ngalangala				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_CONNECTION_LOST				0	vi	Mất kết nối				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_CONNECTION_LOST				0	xh	Umdibaniso ulahlekile				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_CONNECTION_LOST				0	zh-CN	失去连接				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_CONNECTION_LOST				0	zh-TW	連線已經中斷				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_CONNECTION_LOST				0	zu	Uxhumano lulahlekile				2002-02-02 02:02:02
@@ -1115,6 +1135,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_DATABROWSER_FILTERED				0
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_DATABROWSER_FILTERED				0	km	(បាន​ត្រង)				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_DATABROWSER_FILTERED				0	ko	(필터링됨)				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_DATABROWSER_FILTERED				0	lt	(filtruota)				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_DATABROWSER_FILTERED				0	mk	(филтрирано)				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_DATABROWSER_FILTERED				0	nb	(filtrert)				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_DATABROWSER_FILTERED				0	nl	(gefilterd)				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_DATABROWSER_FILTERED				0	nn	(filtrert)				2002-02-02 02:02:02
@@ -1138,6 +1159,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_DATABROWSER_FILTERED				0
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_DATABROWSER_FILTERED				0	ts	(sefiwile)				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_DATABROWSER_FILTERED				0	ve	(filithariwa)				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_DATABROWSER_FILTERED				0	vi	(lọc)				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_DATABROWSER_FILTERED				0	xh	(kuhluziwe)				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_DATABROWSER_FILTERED				0	zh-CN	(已经筛选)				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_DATABROWSER_FILTERED				0	zh-TW	(已經篩選)				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_DATABROWSER_FILTERED				0	zu	(kuhluziwe)				2002-02-02 02:02:02
@@ -1167,6 +1189,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_LOADING_DATASOURCE				0	j
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_LOADING_DATASOURCE				0	km	ផ្ទុក​ទិន្នន័យ				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_LOADING_DATASOURCE				0	ko	데이터 로드				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_LOADING_DATASOURCE				0	lt	Įkelti duomenis				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_LOADING_DATASOURCE				0	mk	Вчитај податоци				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_LOADING_DATASOURCE				0	nb	Last inn data				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_LOADING_DATASOURCE				0	nl	Gegevens laden				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_LOADING_DATASOURCE				0	nn	Last inn data				2002-02-02 02:02:02
@@ -1190,6 +1213,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_LOADING_DATASOURCE				0	t
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_LOADING_DATASOURCE				0	ts	Nghenisa rungula				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_LOADING_DATASOURCE				0	ve	Louda data				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_LOADING_DATASOURCE				0	vi	Nạp dữ liệu				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_LOADING_DATASOURCE				0	xh	Layisha iinkcukacha				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_LOADING_DATASOURCE				0	zh-CN	下载数据				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_LOADING_DATASOURCE				0	zh-TW	下載資料				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_LOADING_DATASOURCE				0	zu	Layisha ulwazi				2002-02-02 02:02:02
@@ -1219,6 +1243,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_QUERIES_CONTAINER				0	ja
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_QUERIES_CONTAINER				0	km	សំណួរ				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_QUERIES_CONTAINER				0	ko	쿼리				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_QUERIES_CONTAINER				0	lt	Užklausos				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_QUERIES_CONTAINER				0	mk	Барања				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_QUERIES_CONTAINER				0	nb	Spørringer				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_QUERIES_CONTAINER				0	nl	Query's				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_QUERIES_CONTAINER				0	nn	Spørjingar				2002-02-02 02:02:02
@@ -1243,7 +1268,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_QUERIES_CONTAINER				0	tr
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_QUERIES_CONTAINER				0	ts	Mindzavisiso				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_QUERIES_CONTAINER				0	ve	Dzikhwiri				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_QUERIES_CONTAINER				0	vi	Truy vấn				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_QUERIES_CONTAINER				0	xh	Imibuzo				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_QUERIES_CONTAINER				0	xh	Iintandabuzo				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_QUERIES_CONTAINER				0	zh-CN	查询				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_QUERIES_CONTAINER				0	zh-TW	查詢				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_QUERIES_CONTAINER				0	zu	Imibuzo				2002-02-02 02:02:02
@@ -1273,6 +1298,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_TABLES_CONTAINER				0	ja	
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_TABLES_CONTAINER				0	km	តារាង				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_TABLES_CONTAINER				0	ko	테이블				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_TABLES_CONTAINER				0	lt	Lentelės				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_TABLES_CONTAINER				0	mk	Табели				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_TABLES_CONTAINER				0	nb	Tabeller				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_TABLES_CONTAINER				0	nl	Tabellen				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_TABLES_CONTAINER				0	nn	Tabellar				2002-02-02 02:02:02
@@ -1326,6 +1352,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_FILTER				0	j
 dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_FILTER				0	km	កំហុស​​កំណត់​​លក្ខណៈ​វិនិច្ឆ័យ​តម្រង				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_FILTER				0	ko	필터 기준 설정 시 오류				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_FILTER				0	lt	Klaida nustatant filtro kriterijus				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_FILTER				0	mk	Грешка при поставувањето на критериумот за филтрирање				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_FILTER				0	nb	Feil ved innstilling av filterkriteriene				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_FILTER				0	nl	Fout bij instellen van filtercriteria				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_FILTER				0	nn	Feil ved setjing av filterkriteria				2002-02-02 02:02:02
@@ -1350,7 +1377,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_FILTER				0	t
 dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_FILTER				0	ts	Xihoxo eku lunghiseni ka xitirhisiwa xo sefa				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_FILTER				0	ve	Vhukhakhi hu tshi khou filithariwa khiraitheria.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_FILTER				0	vi	Lỗi thiết lập điều kiện lọc				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_FILTER				0	xh	Ummiselo onemposiso wemiqathango yokuhluza				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_FILTER				0	xh	Imposiso imisela imiqathango yokuhluza				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_FILTER				0	zh-CN	在设定筛选条件时发生错误				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_FILTER				0	zh-TW	設定篩選條件時發生一個錯誤				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_FILTER				0	zu	Iphutha ekumiseni uhlu lokuhluza				2002-02-02 02:02:02
@@ -1380,6 +1407,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				0	ja
 dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				0	km	កំហុស​កំណត់​លក្ខណៈ​វិនិច្ឆ័យ​តម្រៀប				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				0	ko	정렬 기준 설정 시 오류				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				0	lt	Klaida nustatant rikiavimo kriterijus				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				0	mk	Грешка при поставувањето на критериумот за подредување				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				0	nb	Feil ved innstilling av sorteringskriteriene				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				0	nl	Fout bij instellen van sorteercriteria				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				0	nn	Feil ved setjing av sorteringskriteria				2002-02-02 02:02:02
@@ -1404,7 +1432,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				0	tr
 dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				0	ts	Xihoxo eku lunghiseni ka xitirhisiwa xo hlela				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				0	ve	Vhukhakhi hu tshi khou sotiwa khiraitheria				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				0	vi	Lỗi thiết lập điều kiện sắp xếp				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				0	xh	Ummiselo onemposiso wemiqathango yokuhlelahlela				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				0	xh	Imposiso imisela imiqathango yokuhlelahlela				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				0	zh-CN	在设定排序条件时发生错误				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				0	zh-TW	設定編排條件時發生一個錯誤				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				0	zu	Iphutha ekumiseni uhlelo lokuhlaziya				2002-02-02 02:02:02
@@ -1432,6 +1460,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	STR_CONNECTING_DATASOURCE				0	ja
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_CONNECTING_DATASOURCE				0	km	កំពុង​​ត​​ភ្ជាប់​​ទៅ​ "$name$"...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_CONNECTING_DATASOURCE				0	ko	"$name$"에 연결 중...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_CONNECTING_DATASOURCE				0	lt	Jungiamasi prie „$name$“ ...				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_CONNECTING_DATASOURCE				0	mk	Поврзување со "$name$" ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_CONNECTING_DATASOURCE				0	nb	Kobler til «$name$» ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_CONNECTING_DATASOURCE				0	nl	Verbinden met "$name$" ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_CONNECTING_DATASOURCE				0	nn	Koplar til «$name$» ...				2002-02-02 02:02:02
@@ -1454,6 +1483,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	STR_CONNECTING_DATASOURCE				0	tr
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_CONNECTING_DATASOURCE				0	ts	Vuhlanganisi bya "$name$" ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_CONNECTING_DATASOURCE				0	ve	Ṱumanya na "$name$" ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_CONNECTING_DATASOURCE				0	vi	Đang kết nối tới "$name$" ...				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_CONNECTING_DATASOURCE				0	xh	Kudityaniswa kwi-"$name$" ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_CONNECTING_DATASOURCE				0	zh-CN	和 "$name$" 连接...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_CONNECTING_DATASOURCE				0	zh-TW	連線到 "$name$" ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_CONNECTING_DATASOURCE				0	zu	Ixhumanisa kwi-"$name$" ...				2002-02-02 02:02:02
@@ -1481,6 +1511,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	STR_COULDNOTCONNECT_DATASOURCE			
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_COULDNOTCONNECT_DATASOURCE				0	km	មិន​អាច​បង្កើត​ការ​​ត​ភ្ចាប់​​ទៅ​​ប្រភព​​ទិន្នន័យ "$name$" ។				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_COULDNOTCONNECT_DATASOURCE				0	ko	데이터 원본 "$name$"에 연결하지 못했습니다.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_COULDNOTCONNECT_DATASOURCE				0	lt	Ryšio su duomenų šaltiniu „$name$“ nepavyko užmegzti.				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_COULDNOTCONNECT_DATASOURCE				0	mk	Поврзувањето соизворот на податоци "$name$" не може да се оствари.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_COULDNOTCONNECT_DATASOURCE				0	nb	Klarte ikke opprette forbindelse til datakilden «$name$».				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_COULDNOTCONNECT_DATASOURCE				0	nl	De verbinding met de gegevensbron $name$ kan niet tot stand worden gebracht.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_COULDNOTCONNECT_DATASOURCE				0	nn	Klarte ikkje oppretta samband til datakjelda «$name$».				2002-02-02 02:02:02
@@ -1503,7 +1534,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	STR_COULDNOTCONNECT_DATASOURCE			
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_COULDNOTCONNECT_DATASOURCE				0	ts	Vuhlanganisi bya xihlovo xa rungula "$name$" a byi kumisiseki.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_COULDNOTCONNECT_DATASOURCE				0	ve	Ṱhumanyo na tshiko tsha data "$name$" a i wanali.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_COULDNOTCONNECT_DATASOURCE				0	vi	Không thể thiết lập két nối tới dữ liệu nguồn "$name$".				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbabrw.src	0	string	STR_COULDNOTCONNECT_DATASOURCE				0	xh	Umdibaniso womthombo weenkcukacha "$name$" awukwazanga kuqinisekiswa.				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_COULDNOTCONNECT_DATASOURCE				0	xh	Umdibaniso oya kumthombo weenkcukacha "$name$" awukwazanga kuqinisekiswa.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_COULDNOTCONNECT_DATASOURCE				0	zh-CN	无法建立指向数据源 $name$ 的连接。				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_COULDNOTCONNECT_DATASOURCE				0	zh-TW	無法建立與資料來源「$name$」的連接。				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_COULDNOTCONNECT_DATASOURCE				0	zu	Uxhumano lwemvelaphi yolwazi lwe-"$name$" alusungulwanga.				2002-02-02 02:02:02
@@ -1531,6 +1562,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	STR_DSBROWSER_TITLE				0	ja	デ�
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_DSBROWSER_TITLE				0	km	ទិដ្ឋភាព​​របស់​​ប្រភព​​ទិន្នន័យ				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_DSBROWSER_TITLE				0	ko	데이터 원본 보기				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_DSBROWSER_TITLE				0	lt	Duomenų šaltinio rodymas				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_DSBROWSER_TITLE				0	mk	Преглед на извори на податоци				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_DSBROWSER_TITLE				0	nb	Visning av datakilder				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_DSBROWSER_TITLE				0	nl	Weergave gegevensbronnen				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_DSBROWSER_TITLE				0	nn	Vising av datakjelder				2002-02-02 02:02:02
@@ -1553,6 +1585,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	STR_DSBROWSER_TITLE				0	tr	Veri 
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_DSBROWSER_TITLE				0	ts	Xikombo xa swihlovo swa rungula				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_DSBROWSER_TITLE				0	ve	Viwu ya zwiko zwa data				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_DSBROWSER_TITLE				0	vi	Xem dữ liệu nguồn				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_DSBROWSER_TITLE				0	xh	Ukujongwa kwemithombo yeenkcukacha				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_DSBROWSER_TITLE				0	zh-CN	数据源视图				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_DSBROWSER_TITLE				0	zh-TW	資料來源檢視				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_DSBROWSER_TITLE				0	zu	Umbukiso wezimvelaphi zolwazi				2002-02-02 02:02:02
@@ -1580,6 +1613,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_QUERY				0	ja	クエ�
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_QUERY				0	km	កំពុង​​ផ្ទុក​​សំណួរ​​ $name$...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_QUERY				0	ko	$name$ 쿼리 로드 중...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_QUERY				0	lt	Įkeliama užklausa „$name$“ ...				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_QUERY				0	mk	Вчитување на барање $name$ ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_QUERY				0	nb	Henter spørringen «$name$» ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_QUERY				0	nl	Laden query $name$ ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_QUERY				0	nn	Hentar spørjinga $name$ ...				2002-02-02 02:02:02
@@ -1602,6 +1636,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_QUERY				0	tr	$name$ 
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_QUERY				0	ts	Ku nghenisa ndzavisiso $name$ ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_QUERY				0	ve	Louda khwiri $name$ ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_QUERY				0	vi	Nạp truy vấn $name$ ...				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_QUERY				0	xh	Kulayishwa intandabuzo $name$ ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_QUERY				0	zh-CN	正在载入查询 $name$ ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_QUERY				0	zh-TW	載入查詢 $name$ ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_QUERY				0	zu	Ilayisha umbuzo we-$name$ ...				2002-02-02 02:02:02
@@ -1629,6 +1664,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_TABLE				0	ja	テー�
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_TABLE				0	km	កំពុង​ផ្ទុក​តារាង $name$...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_TABLE				0	ko	$name$ 테이블 로드 중...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_TABLE				0	lt	Įkeliama lentelė „$name$“ ...				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_TABLE				0	mk	Вчитување табела $name$ ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_TABLE				0	nb	Henter tabellen «$name$» ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_TABLE				0	nl	Laden tabel $name$ ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_TABLE				0	nn	Hentar tabellen $name$ ...				2002-02-02 02:02:02
@@ -1651,6 +1687,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_TABLE				0	tr	$name$ 
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_TABLE				0	ts	Ku nghenisa tafula $name$ ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_TABLE				0	ve	Louda thebulu  $name$ ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_TABLE				0	vi	Nạp bảng $name$ ...				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_TABLE				0	xh	Kulayishwa itheyibhile $name$ ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_TABLE				0	zh-CN	正在载入表格 $name$ ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_TABLE				0	zh-TW	載入表格 $name$ ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_TABLE				0	zu	Ilayisha itafula le-$name$ ...				2002-02-02 02:02:02
@@ -1678,6 +1715,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	STR_NO_TABLE_FORMAT_INSIDE				0	j
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_NO_TABLE_FORMAT_INSIDE				0	km	គ្មាន​​ទ្រង់​ទ្រាយរបស់​​​តារាង ​​អាច​​ត្រូវ​បាន​​រក​​ឃើញ ។				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_NO_TABLE_FORMAT_INSIDE				0	ko	테이블 서식을 찾을 수 없습니다.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_NO_TABLE_FORMAT_INSIDE				0	lt	Lentelės formatas nerastas.				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_NO_TABLE_FORMAT_INSIDE				0	mk	Не може да се пронајде формат на табела.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_NO_TABLE_FORMAT_INSIDE				0	nb	Fant ingen tabellformat.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_NO_TABLE_FORMAT_INSIDE				0	nl	Geen tabelopmaak gevonden.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_NO_TABLE_FORMAT_INSIDE				0	nn	Fann ingen tabellformat.				2002-02-02 02:02:02
@@ -1700,6 +1738,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	STR_NO_TABLE_FORMAT_INSIDE				0	t
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_NO_TABLE_FORMAT_INSIDE				0	ts	Ku hava matshamelo ya tafula lama kumekaka.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_NO_TABLE_FORMAT_INSIDE				0	ve	A huna fomethe ya thebulu yo wanalaho				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_NO_TABLE_FORMAT_INSIDE				0	vi	Không kiếm thấy định dạng bảng.				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_NO_TABLE_FORMAT_INSIDE				0	xh	Akukho lulungiselelo lwetheyibhile oluthe lwafunyanwa.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_NO_TABLE_FORMAT_INSIDE				0	zh-CN	未找到任何表格格式。				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_NO_TABLE_FORMAT_INSIDE				0	zh-TW	找不到表格格式。				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_NO_TABLE_FORMAT_INSIDE				0	zu	Asikho isakhiwo esitholakele.				2002-02-02 02:02:02
@@ -1707,7 +1746,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS				0	af	D
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS				0	be-BY	Папярэджанні				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS				0	bg	Срещнати са предупреждения				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS				0	bs	Prijavljena su upozorenja				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS				0	ca	S'han trobat advertències				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS				0	ca	S'han trobat advertiments				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS				0	cs	Obdržena varování				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS				0	cy	Canfod rhybuddion				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS				0	da	Advarsler foreligger				2002-02-02 02:02:02
@@ -1727,6 +1766,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS				0	ja	�
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS				0	km	បាន​ជួប​ប្រទះ​ការ​ព្រមាន				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS				0	ko	표시된 경고				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS				0	lt	Yra įspėjimų				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS				0	mk	Забележани се предупредувања				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS				0	nb	Påtrufne advarsler				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS				0	nl	Waarschuwingen opgetreden				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS				0	nn	Møtte åtvaringar				2002-02-02 02:02:02
@@ -1749,6 +1789,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS				0	tr	U
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS				0	ts	Ku kumiwe switsundzuxo				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS				0	ve	Ho ṱanganiwa na tsivhudzo				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS				0	vi	Có cảnh báo				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS				0	xh	Kukho izilumkiso ekudityanwa nazo				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS				0	zh-CN	遇到警告				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS				0	zh-TW	遇到警告訊息				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS				0	zu	Kutholakale izxwayiso				2002-02-02 02:02:02
@@ -1756,7 +1797,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS_DETAILS		
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS_DETAILS				0	be-BY	Пры чытанні табліц, былі атрыманыя папярэджанні з боку далучэння да базы дадзеных.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS_DETAILS				0	bg	При извличане на таблиците са получени предупреждения от връзката с базата от данни.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS_DETAILS				0	bs	Prilikom prijema tabela, veza sa bazom podataka je prijavila određena upozorenja.				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS_DETAILS				0	ca	La connexió a la base de dades ha informat d'advertències durant la recuperació de les taules.				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS_DETAILS				0	ca	La connexió amb la base de dades ha generat advertiments en recuperar les taules				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS_DETAILS				0	cs	Databázové připojení nahlásilo varování během načítání tabulek.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS_DETAILS				0	cy	Wrth adfer y tablau, cafwyd rhybuddion gan gysylltiad y gronfa ddata..				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS_DETAILS				0	da	Ved modtagelse af tabellerne blev der modtaget advarsler fra databaseforbindelsen.				2002-02-02 02:02:02
@@ -1776,6 +1817,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS_DETAILS		
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS_DETAILS				0	km	ការ​ព្រមាន​ត្រូវ​បាន​រាយការណ៍​ ដោយ​ការ​តភ្ជាប់ទៅ​​មូលដ្ឋានទិន្នន័យ ខណៈ​ពេល​កំពុង​យក​តារាង ។				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS_DETAILS				0	ko	테이블 검색 시, 데이터베이스 연결에서 경고가 보고되었습니다.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS_DETAILS				0	lt	Gaunant lentelių duomenis, gauta duomenų bazės ryšio įspėjimų.				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS_DETAILS				0	mk	Забележани се предупредувања од поврзувањето со базата на податоци при преземање на табелите.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS_DETAILS				0	nb	Databaseforbindelsen ga advarsler ved henting av tabellene.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS_DETAILS				0	nl	Bij het ophalen van de tabellen zijn waarschuwingen gemeld door de databaseverbinding.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS_DETAILS				0	nn	Databasesambandet rapporterte om åtvaringar ved henting av tabellane.				2002-02-02 02:02:02
@@ -1798,6 +1840,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS_DETAILS		
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS_DETAILS				0	ts	Loko ku kumiwa matafula, ku vikiwe switsundzuxo hi vuhlanganisi bya vuhlayisela-rungula.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS_DETAILS				0	ve	Musi hu tshi khou vhuedzedzwa dzityhebulu, ho vhigwa dzitsivhudzo nga ṱhumanyo ya databeisi.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS_DETAILS				0	vi	Kết nối đến dữ liệu đưa ra cảnh báo trong lúc truy cập bảng				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS_DETAILS				0	xh	Xa bekubuyiselwa iitheyibhile, kuxelwe izilumkiso ngumdibaniso wesiseko seenkcukacha.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS_DETAILS				0	zh-CN	在读取表格时发出一个数据库连接的警告。				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS_DETAILS				0	zh-TW	在存取表格時發出一個資料庫連接的警告。				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS_DETAILS				0	zu	Ngenkathi uvundulula amatafula, izexwayiso zibikiwe nguxhumano lwesiqu solwazi.				2002-02-02 02:02:02
@@ -1838,6 +1881,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_TABLE				0	ja	�
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_TABLE				0	km	តើ​អ្នក​ចង់​លុប​តារាង '%1' ឬទេ?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_TABLE				0	ko	'%1' 테이블을 삭제하시겠습니까?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_TABLE				0	lt	Ar tikrai pašalinti lentelę „%1“?				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_TABLE				0	mk	Дали сакате да ја избришете табелата „%1“?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_TABLE				0	nb	Vil du slette tabellen «%1»?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_TABLE				0	nl	Wilt u de tabel '%1' verwijderen?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_TABLE				0	nn	Vil du sletta tabellen «%1»?				2002-02-02 02:02:02
@@ -1860,6 +1904,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_TABLE				0	tr	'%
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_TABLE				0	ts	Xana u lava ku tima tafula '%1'?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_TABLE				0	ve	Ni khou ṱoḓä u phumula thebulu '%1'?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_TABLE				0	vi	Bạn có muốn xoá bảng '%1'?				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_TABLE				0	xh	Ingaba uyafuna ukucima itheyibhile '%1'?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_TABLE				0	zh-CN	要删除这个表格 '%1'?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_TABLE				0	zh-TW	要刪除表格 '%1'?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_TABLE				0	zu	Ufuna ukucisha itafula '%1'?				2002-02-02 02:02:02
@@ -1887,6 +1932,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	STR_TITLE_CONFIRM_DELETION				0	j
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_TITLE_CONFIRM_DELETION				0	km	អះអាង​​ការលុប				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_TITLE_CONFIRM_DELETION				0	ko	삭제 확인				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_TITLE_CONFIRM_DELETION				0	lt	Patvirtinti šalinimą				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_TITLE_CONFIRM_DELETION				0	mk	Потврди бришење				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_TITLE_CONFIRM_DELETION				0	nb	Bekreft sletting				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_TITLE_CONFIRM_DELETION				0	nl	Verwijdering Bevestigen				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_TITLE_CONFIRM_DELETION				0	nn	Stadfest sletting				2002-02-02 02:02:02
@@ -1940,6 +1986,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BRO
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLATTRSET	HID_BROWSER_COLUMNFORMAT		0	km	ទ្រង់​ទ្រាយ​​​របស់​ជួរឈរ... 				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLATTRSET	HID_BROWSER_COLUMNFORMAT		0	ko	열 서식(~F)...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLATTRSET	HID_BROWSER_COLUMNFORMAT		0	lt	Stulpelio ~formatavimas...				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLATTRSET	HID_BROWSER_COLUMNFORMAT		0	mk	Формат на~колона...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLATTRSET	HID_BROWSER_COLUMNFORMAT		0	nb	~Kolonneformat ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLATTRSET	HID_BROWSER_COLUMNFORMAT		0	nl	~Kolomopmaak...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLATTRSET	HID_BROWSER_COLUMNFORMAT		0	nn	~Kolonneformat ...				2002-02-02 02:02:02
@@ -1963,6 +2010,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BRO
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLATTRSET	HID_BROWSER_COLUMNFORMAT		0	ts	Kholomu ~Matshamelo...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLATTRSET	HID_BROWSER_COLUMNFORMAT		0	ve	Kholumu ~Fomethe...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLATTRSET	HID_BROWSER_COLUMNFORMAT		0	vi	Định ~dạng cột				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLATTRSET	HID_BROWSER_COLUMNFORMAT		0	xh	~Ulungiselelo Loluhlu...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLATTRSET	HID_BROWSER_COLUMNFORMAT		0	zh-CN	列格式(~F)...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLATTRSET	HID_BROWSER_COLUMNFORMAT		0	zh-TW	欄格式(~F)...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLATTRSET	HID_BROWSER_COLUMNFORMAT		0	zu	Isakhiwo ~Somqathango...				2002-02-02 02:02:02
@@ -1992,6 +2040,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BRO
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLUMNINFO	HID_BROWSER_COLUMNINFO		0	km	ចម្លង​ពិពណ៌នា​ជួរឈរ 				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLUMNINFO	HID_BROWSER_COLUMNINFO		0	ko	열 설명 복사(~E)				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLUMNINFO	HID_BROWSER_COLUMNINFO		0	lt	Kopijuoti stulpelio a~prašą				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLUMNINFO	HID_BROWSER_COLUMNINFO		0	mk	Копирај ~опис на колона				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLUMNINFO	HID_BROWSER_COLUMNINFO		0	nb	Kopier kolonne~beskrivelse				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLUMNINFO	HID_BROWSER_COLUMNINFO		0	nl	~Kolombeschrijving kopiëren				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLUMNINFO	HID_BROWSER_COLUMNINFO		0	nn	Kopier kolonne~skildring				2002-02-02 02:02:02
@@ -2015,6 +2064,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BRO
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLUMNINFO	HID_BROWSER_COLUMNINFO		0	ts	Kopa N~hlamuselo ya Kholomu				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLUMNINFO	HID_BROWSER_COLUMNINFO		0	ve	Kopa Ṱh-alutshedzo ya Kholumu				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLUMNINFO	HID_BROWSER_COLUMNINFO		0	vi	Sao chép phần ~mô tả cột				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLUMNINFO	HID_BROWSER_COLUMNINFO		0	xh	Kopa Inkc~azelo Yoluhlu Olwehlayo				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLUMNINFO	HID_BROWSER_COLUMNINFO		0	zh-CN	复制列标题(~E)				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLUMNINFO	HID_BROWSER_COLUMNINFO		0	zh-TW	複製列標題(~E)				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLUMNINFO	HID_BROWSER_COLUMNINFO		0	zu	Khipha ~Incazelo Yomqathango				2002-02-02 02:02:02
@@ -2044,6 +2094,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BRO
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_ROWHEIGHT	HID_BROWSER_ROWHEIGHT		0	km	កម្ពស់​​ជួរដេក...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_ROWHEIGHT	HID_BROWSER_ROWHEIGHT		0	ko	행 높이...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_ROWHEIGHT	HID_BROWSER_ROWHEIGHT		0	lt	Eilutės aukštis...				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_ROWHEIGHT	HID_BROWSER_ROWHEIGHT		0	mk	Висина на ред...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_ROWHEIGHT	HID_BROWSER_ROWHEIGHT		0	nb	Radhøyde ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_ROWHEIGHT	HID_BROWSER_ROWHEIGHT		0	nl	Rijhoogte...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_ROWHEIGHT	HID_BROWSER_ROWHEIGHT		0	nn	Radhøgd ...				2002-02-02 02:02:02
@@ -2068,7 +2119,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BRO
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_ROWHEIGHT	HID_BROWSER_ROWHEIGHT		0	ts	Vuhenhla bya Rhowu...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_ROWHEIGHT	HID_BROWSER_ROWHEIGHT		0	ve	Vhunṱha ha Rou...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_ROWHEIGHT	HID_BROWSER_ROWHEIGHT		0	vi	Chiều cao dòng...				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_ROWHEIGHT	HID_BROWSER_ROWHEIGHT		0	xh	Ukuphakama Koluhlu Oluxwesileyo...				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_ROWHEIGHT	HID_BROWSER_ROWHEIGHT		0	xh	Ukuphakama Koluhlu Oluxwesayo...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_ROWHEIGHT	HID_BROWSER_ROWHEIGHT		0	zh-CN	行高...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_ROWHEIGHT	HID_BROWSER_ROWHEIGHT		0	zh-TW	列高...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_ROWHEIGHT	HID_BROWSER_ROWHEIGHT		0	zu	Ubude bomugqa...				2002-02-02 02:02:02
@@ -2098,6 +2149,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BRO
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_TABLEATTR	HID_BROWSER_TABLEFORMAT		0	km	ទ្រង់ទ្រាយ​របស់​​​តារាង...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_TABLEATTR	HID_BROWSER_TABLEFORMAT		0	ko	테이블 서식...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_TABLEATTR	HID_BROWSER_TABLEFORMAT		0	lt	Lentelės formatavimas...				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_TABLEATTR	HID_BROWSER_TABLEFORMAT		0	mk	Формат на табела...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_TABLEATTR	HID_BROWSER_TABLEFORMAT		0	nb	Tabellformat ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_TABLEATTR	HID_BROWSER_TABLEFORMAT		0	nl	Tabelopmaak...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_TABLEATTR	HID_BROWSER_TABLEFORMAT		0	nn	Tabellformat ...				2002-02-02 02:02:02
@@ -2121,6 +2173,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BRO
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_TABLEATTR	HID_BROWSER_TABLEFORMAT		0	ts	Matshamelo ya Tafula...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_TABLEATTR	HID_BROWSER_TABLEFORMAT		0	ve	Fomethe ya Thebulu...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_TABLEATTR	HID_BROWSER_TABLEFORMAT		0	vi	Định dạng bảng...				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_TABLEATTR	HID_BROWSER_TABLEFORMAT		0	xh	Ulungiselelo Lwetheyibhile...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_TABLEATTR	HID_BROWSER_TABLEFORMAT		0	zh-CN	表格格式...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_TABLEATTR	HID_BROWSER_TABLEFORMAT		0	zh-TW	工作表格式...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_TABLEATTR	HID_BROWSER_TABLEFORMAT		0	zu	Isakhiwo Setafula...				2002-02-02 02:02:02
@@ -2150,6 +2203,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_SAVE_CURRENT_RECORD				0
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_SAVE_CURRENT_RECORD				0	km	រក្សា​​ទុក​កំណត់ត្រា​​បច្ចុប្បន្ន				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_SAVE_CURRENT_RECORD				0	ko	현재 레코드 저장				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_SAVE_CURRENT_RECORD				0	lt	Įrašyti dabartinį įrašą				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_SAVE_CURRENT_RECORD				0	mk	Зачувај го тековниот запис				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_SAVE_CURRENT_RECORD				0	nb	Lagre denne posten				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_SAVE_CURRENT_RECORD				0	nl	Huidige record opslaan				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_SAVE_CURRENT_RECORD				0	nn	Lagra denne posten				2002-02-02 02:02:02
@@ -2173,6 +2227,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_SAVE_CURRENT_RECORD				0
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_SAVE_CURRENT_RECORD				0	ts	Hlayisa rhekhodo ya sweswi				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_SAVE_CURRENT_RECORD				0	ve	Seiva rikhode i re hone				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_SAVE_CURRENT_RECORD				0	vi	Lưu bản ghi hiện hành				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_SAVE_CURRENT_RECORD				0	xh	Gcina ingxelo yangoku				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_SAVE_CURRENT_RECORD				0	zh-CN	存盘当前的数据条目				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_SAVE_CURRENT_RECORD				0	zh-TW	儲存目前的資料條目				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_SAVE_CURRENT_RECORD				0	zu	Gcina irekhodi lamanje				2002-02-02 02:02:02
@@ -2202,6 +2257,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	km	មិន​​ធ្វើ​វិញ ៖ ការ​បញ្ចូល​​ទិន្នន័យ				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	ko	실행 취소: 데이터 입력				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	lt	Atšaukti: duomenų įvedimą				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	mk	Отповикај: Внес на податоци				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	nb	Angre: Inndata				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	nl	Ongedaan maken: gegevensinvoer				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	nn	Angra: Inndata				2002-02-02 02:02:02
@@ -2225,6 +2281,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	ts	Tlherisela Endzhaku: Vunghenisa bya Rungula				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	ve	Itulula: Tshidzheniswa tsha Data				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	vi	Hoàn tác: Nhập dữ liệu				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	xh	Qhaqha okwenzileyo: Igalelo Leenkcukacha				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	zh-CN	撤消: 输入数据				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	zh-TW	還原：資料輸入				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	zu	Qaqa: Umphumela Wangaphakathi				2002-02-02 02:02:02
@@ -2254,6 +2311,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC	
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				0	km	បង្ហាញ​​តារាង​​ ឬ ​សំណួរ​​​ដែល​បាន​​ជ្រើស ។				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				0	ko	선택된 테이블 또는 쿼리를 표시합니다.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				0	lt	Rodoma pasirinkta lentelė arba užklausa.				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				0	mk	Прикажи ја избраната табела или барање.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				0	nb	Viser den valgte tabellen eller spørringen.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				0	nl	Toont de geselecteerde tabel of query.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				0	nn	Vis den valde tabellen eller spørjinga.				2002-02-02 02:02:02
@@ -2277,6 +2335,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC	
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				0	ts	Kombisa tafula kumbe ndzavisiso lowu hlawuriweke.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				0	ve	Sumbedza thebulu kana khwiri yo nangiwaho.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				0	vi	Hiện bảng hoặc truy vấn được chọn				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				0	xh	Ibonisa itheyibhile okanye intandabuzo ekhethiweyo.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				0	zh-CN	显示已经选择的表格或查询。				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				0	zh-TW	顯示已選擇的表格/查詢。				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				0	zu	Khombisa ifatula elikhethiwe noma umbuzo.				2002-02-02 02:02:02
@@ -2306,6 +2365,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME	
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				0	km	ទិដ្ឋភាព​​តារាងរបស់​​​ប្រភព​​​ទិន្នន័យ				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				0	ko	데이터 원본의 테이블 보기				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				0	lt	Duomenų šaltinio lentelės peržiūra				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				0	mk	Преглед на извор на податоци				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				0	nb	Vis datakildetabell				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				0	nl	Weergave gegevensbronnentabel				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				0	nn	Vis datakildetabell				2002-02-02 02:02:02
@@ -2329,6 +2389,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME	
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				0	ts	Xikombo xa tafula xa xihlovo xa rungula				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				0	ve	Viwu ya tshiko tsha data ya thebulu				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				0	vi	Xem bảng dữ liệu nguồn				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				0	xh	Ukujonga itheyibhile yomthombo weenkcukacha				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				0	zh-CN	数据源的表格视图				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				0	zh-TW	資料源的表格檢視				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				0	zu	Umbukiso wetafula lemvelaphi yolwazi				2002-02-02 02:02:02
@@ -2358,6 +2419,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	string	STR_ERROR_OCCURED_WHILE_COPYING	
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_ERROR_OCCURED_WHILE_COPYING				0	km	កំហុស​មួយ​​បាន​កើត​ឡើង ។ តើ​អ្នក​ចង់​បន្ត​ការចម្លង​ដែរ​ឬ​ទេ ?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_ERROR_OCCURED_WHILE_COPYING				0	ko	오류 발생! 복사를 계속하시겠습니까?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_ERROR_OCCURED_WHILE_COPYING				0	lt	Įvyko klaida. Ar tęsti kopijavimą?				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_ERROR_OCCURED_WHILE_COPYING				0	mk	Се појави грешка. Дали сакате да продолжите со копирањето?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_ERROR_OCCURED_WHILE_COPYING				0	nb	Det oppstod en feil. Vil du fortsette kopieringen?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_ERROR_OCCURED_WHILE_COPYING				0	nl	Er is een fout opgetreden. Wilt u doorgaan met kopiëren?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_ERROR_OCCURED_WHILE_COPYING				0	nn	Det oppstod ein feil. Vil du halda fram med kopieringa?				2002-02-02 02:02:02
@@ -2381,6 +2443,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	string	STR_ERROR_OCCURED_WHILE_COPYING	
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_ERROR_OCCURED_WHILE_COPYING				0	ts	Ku ve ni xihoxo. Xana u lava ku ya emahlweni ni ku kopa?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_ERROR_OCCURED_WHILE_COPYING				0	ve	Vhukhakhi ho bvelela. Ni khou ṱoḓa u bvela phanḓa na u kopa?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_ERROR_OCCURED_WHILE_COPYING				0	vi	Lỗi xảy ra. Bạn có muốn tiếp tục sao chép?				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_ERROR_OCCURED_WHILE_COPYING				0	xh	Kwenzeke imposiso. Ingaba uyafuna ukuqhuba ngokukopa?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_ERROR_OCCURED_WHILE_COPYING				0	zh-CN	出现一个错误！还是要继续复制？				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_ERROR_OCCURED_WHILE_COPYING				0	zh-TW	已經發生一個錯誤。要繼續複製？				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_ERROR_OCCURED_WHILE_COPYING				0	zu	Iphutha lenzekile. Ufuna ukuqhubeka nokukhipha?				2002-02-02 02:02:02
@@ -2410,6 +2473,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				0	
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				0	km	គ្មាន​​ឈ្មោះ​​ជួរ​ឈរ​​ដែល​​ដូច​គ្នា ​​ត្រូវ​បាន​​រក​ឃើញ ។				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				0	ko	일치하는 열 이름을 찾지 못했습니다.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				0	lt	Atitinkamų stulpelių pavadinimų nerasta.				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				0	mk	Не се пронајдени имиња на колони што се совпаѓаат.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				0	nb	Fant ingen kolonnenavn som passet.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				0	nl	Geen overeenstemmende kolomnamen gevonden!				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				0	nn	Fann ingen kolonnenamn som passa.				2002-02-02 02:02:02
@@ -2433,6 +2497,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				0	
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				0	ts	Kholomu leyi fanaka a yi kumekanga.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				0	ve	A huna dzina ḽa kholumu ḽi metshaho na iḽï ḽo wanalaho.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				0	vi	Không kiếm thấy tên cột tương ứng				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				0	xh	Akukho magama oluhlu olwehlayo angqinelanayo afunyenweyo.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				0	zh-CN	无法找到相符的列名称！				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				0	zh-TW	沒有找到符合條件的欄名稱！				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				0	zu	Awekho amagama omqathango afanayo atholakele.				2002-02-02 02:02:02
@@ -2462,6 +2527,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	string	STR_OBJECT_ALREADY_EXISTS				0	j
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_OBJECT_ALREADY_EXISTS				0	km	ឈ្មោះ "#" មានរួចហើយ ។				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_OBJECT_ALREADY_EXISTS				0	ko	"#"(이)라는 이름이 이미 있습니다.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_OBJECT_ALREADY_EXISTS				0	lt	Pavadinimas „#“ jau yra.				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_OBJECT_ALREADY_EXISTS				0	mk	Името "#" веќе постои.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_OBJECT_ALREADY_EXISTS				0	nb	Navnet «#» finnes allerede.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_OBJECT_ALREADY_EXISTS				0	nl	De naam # bestaat reeds.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_OBJECT_ALREADY_EXISTS				0	nn	Namnet «#» finst frå før.				2002-02-02 02:02:02
@@ -2485,6 +2551,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	string	STR_OBJECT_ALREADY_EXISTS				0	t
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_OBJECT_ALREADY_EXISTS				0	ts	Vito "#" ana se ri kona.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_OBJECT_ALREADY_EXISTS				0	ve	Dzina "#" ḽo no vha hone.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_OBJECT_ALREADY_EXISTS				0	vi	Tên "#" đã tồn tại				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_OBJECT_ALREADY_EXISTS				0	xh	Igama "#" selikhona.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_OBJECT_ALREADY_EXISTS				0	zh-CN	名称 # 已经存在。				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_OBJECT_ALREADY_EXISTS				0	zh-TW	名稱「#」已經存在。				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_OBJECT_ALREADY_EXISTS				0	zu	Igama "#" selivele likhona.				2002-02-02 02:02:02
@@ -2514,6 +2581,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	string	STR_QRY_TITLE				0	ja	クエリ�
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_QRY_TITLE				0	km	សំណួរ #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_QRY_TITLE				0	ko	쿼리 #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_QRY_TITLE				0	lt	Užklausa #				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_QRY_TITLE				0	mk	Барање #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_QRY_TITLE				0	nb	Spørring #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_QRY_TITLE				0	nl	Query #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_QRY_TITLE				0	nn	Spørjing #				2002-02-02 02:02:02
@@ -2536,6 +2604,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	string	STR_QRY_TITLE				0	tr	Sorgu #			
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_QRY_TITLE				0	ts	Ndzavisiso #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_QRY_TITLE				0	ve	Khwiri #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_QRY_TITLE				0	vi	Truy vấn #				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_QRY_TITLE				0	xh	Intandabuzo #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_QRY_TITLE				0	zh-CN	查询 #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_QRY_TITLE				0	zh-TW	查詢 #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_QRY_TITLE				0	zu	Umbuzo #				2002-02-02 02:02:02
@@ -2565,6 +2634,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	string	STR_TBL_TITLE				0	ja	テーブ�
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_TBL_TITLE				0	km	តារាង #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_TBL_TITLE				0	ko	테이블 #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_TBL_TITLE				0	lt	Lentelė #				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_TBL_TITLE				0	mk	Табела #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_TBL_TITLE				0	nb	Tabell #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_TBL_TITLE				0	nl	Tabel #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_TBL_TITLE				0	nn	Tabell #				2002-02-02 02:02:02
@@ -2587,6 +2657,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	string	STR_TBL_TITLE				0	tr	Tablo #			
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_TBL_TITLE				0	ts	Tafula #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_TBL_TITLE				0	ve	Thebulu #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_TBL_TITLE				0	vi	Bảng #				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_TBL_TITLE				0	xh	Itheyibhile #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_TBL_TITLE				0	zh-CN	表格 #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_TBL_TITLE				0	zh-TW	表格 #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_TBL_TITLE				0	zu	Ithebula #				2002-02-02 02:02:02
@@ -2616,6 +2687,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				0	ja	ビュー
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				0	km	ទិដ្ឋភាព #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				0	ko	전면 #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				0	lt	Rodinys #				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				0	mk	Преглед #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				0	nb	Visning #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				0	nl	Weergave #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				0	nn	Vising #				2002-02-02 02:02:02
@@ -2639,6 +2711,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				0	tr	Görünü
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				0	ts	Xikombo #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				0	ve	Viwu #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				0	vi	Xem #				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				0	xh	Ukujonga #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				0	zh-CN	视图 #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				0	zh-TW	檢視 #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				0	zu	Buka #				2002-02-02 02:02:02
