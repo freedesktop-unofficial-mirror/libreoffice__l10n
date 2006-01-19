@@ -13,9 +13,9 @@
 #
 #   $RCSfile: localize.sdf,v $
 #
-#   $Revision: 1.17 $
+#   $Revision: 1.18 $
 #
-#   last change: $Author: obo $ $Date: 2005-11-15 18:12:28 $
+#   last change: $Author: obo $ $Date: 2006-01-19 13:13:43 $
 #
 #   The Contents of this file are made available subject to
 #   the terms of GNU Lesser General Public License Version 2.1.
@@ -67,6 +67,7 @@ sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , E
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_FILE_ROWCOL )			0	km	បាន​រក​ឃើញ​កំហុស​ទ្រង់​ទ្រាយ​នៃ​ឯកសារ​ក្នុង​ឯកសារ​រង​ $(ARG1) នៅ​ទី​តាំង $(ARG2) (row,col)				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_FILE_ROWCOL )			0	ko	파일에서 하위 문서 $(ARG1)의 서식 오류가 $(ARG2)(행, 열) 위치에서 발견되었습니다				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_FILE_ROWCOL )			0	lt	Failo podokumentyje $(ARG1), $(ARG2)(eil.,stlp.) vietoje rasta formato klaida				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_FILE_ROWCOL )			0	mk	Грешка во форматирање откриена во датотеката во поддокументот $(ARG1) на позиција $(ARG2) (ред, кол.)				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_FILE_ROWCOL )			0	nb	Formatfeil oppdaget i fila i underdokumentet $(ARG1) ved $(ARG2)(row,col)				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_FILE_ROWCOL )			0	nl	Fout in indeling in subdocument $(ARG1) op positie $(ARG2)(rij,kolom)				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_FILE_ROWCOL )			0	nn	Formatfeil oppdaga i fila i underdokumentet $(ARG1) ved $(ARG2)(row,col)				2002-02-02 02:02:02
@@ -119,6 +120,7 @@ sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , E
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_ROWCOL )			0	km	រក​ឃើញ​កំហុស​ទ្រង់​ទ្រាយ​ឯកសារ​នៅ $(ARG1)(row,col)				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_ROWCOL )			0	ko	파일 형식 오류가 $(ARG1)(행,열)에서 발견되었습니다.				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_ROWCOL )			0	lt	Failo formato klaida $(ARG1)(eil., stlp.) vietoje				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_ROWCOL )			0	mk	Грешка на $(ARG1)(ред, кол.) во форматот на датотеката				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_ROWCOL )			0	nb	Fant feil ved filformat ved $(ARG1)(row,col)				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_ROWCOL )			0	nl	Indelingsfout ontdekt op positie $(ARG1)(rij,kolom) in het bestand				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_ROWCOL )			0	nn	Fann feil ved filformat ved $(ARG1)(row,col)				2002-02-02 02:02:02
@@ -174,6 +176,7 @@ sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , W
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , WARN_FORMAT_FILE_ROWCOL )			0	km	បាន​រក​ឃើញ​កំហុស​ទ្រង់​ទ្រាយ​នៃ​ឯកសារ​ក្នុង​ឯកសារ​រង​ $(ARG1) នៅ​ទី​តាំង $(ARG2) (row,col)				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , WARN_FORMAT_FILE_ROWCOL )			0	ko	파일에서 하위 문서 $(ARG1)의 서식 오류가 $(ARG2)(행, 열) 위치에서 발견되었습니다				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , WARN_FORMAT_FILE_ROWCOL )			0	lt	Failo podokumentyje $(ARG1), $(ARG2)(eil.,stlp.) vietoje rasta formato klaida				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , WARN_FORMAT_FILE_ROWCOL )			0	mk	Грешка во форматирање откриена во датотеката во поддокументот $(ARG1) на позиција $(ARG2) (ред, кол.)				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , WARN_FORMAT_FILE_ROWCOL )			0	nb	Formatfeil oppdaget i fila i underdokumentet $(ARG1) ved $(ARG2)(row,col)				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , WARN_FORMAT_FILE_ROWCOL )			0	nl	Fout in indeling in subdocument $(ARG1) op positie $(ARG2)(rij,kolom)				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , WARN_FORMAT_FILE_ROWCOL )			0	nn	Formatfeil oppdaga i fila i underdokumentet $(ARG1) ved $(ARG2)(row,col)				2002-02-02 02:02:02
@@ -226,6 +229,7 @@ sd	source\core\glob.src	0	string	STR_3DOBJECTBARSHELL				0	ja	3-D 設定				2002
 sd	source\core\glob.src	0	string	STR_3DOBJECTBARSHELL				0	km	កំណត់ 3-D				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_3DOBJECTBARSHELL				0	ko	3D 설정				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_3DOBJECTBARSHELL				0	lt	Trimačio vaizdo nuostatos				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_3DOBJECTBARSHELL				0	mk	3-Д-поставувања				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_3DOBJECTBARSHELL				0	nb	3-D-innstillinger				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_3DOBJECTBARSHELL				0	nl	3D-instellingen				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_3DOBJECTBARSHELL				0	nn	3-D-innstillingar				2002-02-02 02:02:02
@@ -278,6 +282,7 @@ sd	source\core\glob.src	0	string	STR_APPLICATIONOBJECTBAR				0	ja	StarImpress 4.
 sd	source\core\glob.src	0	string	STR_APPLICATIONOBJECTBAR				0	km	StarImpress 4.0				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_APPLICATIONOBJECTBAR				0	ko	StarImpress 4.0				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_APPLICATIONOBJECTBAR				0	lt	„StarImpress 4.0“				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_APPLICATIONOBJECTBAR				0	mk	StarImpress 4.0				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_APPLICATIONOBJECTBAR				0	nb	StarImpress 4.0				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_APPLICATIONOBJECTBAR				0	nl	Star Impress 4.0				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_APPLICATIONOBJECTBAR				0	nn	StarImpress 4.0				2002-02-02 02:02:02
@@ -310,7 +315,7 @@ sd	source\core\glob.src	0	string	STR_BAD_PASSWORD_OR_FILE_CORRUPTED				0	ar	كل
 sd	source\core\glob.src	0	string	STR_BAD_PASSWORD_OR_FILE_CORRUPTED				0	be-BY	Несапраўдны пароль або пашкоджаны файл.				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_BAD_PASSWORD_OR_FILE_CORRUPTED				0	bg	Паролата е неправилна или файлът е повреден.				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_BAD_PASSWORD_OR_FILE_CORRUPTED				0	bs	Šifra je neispravna ili je datoteka oštećena.				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_BAD_PASSWORD_OR_FILE_CORRUPTED				0	ca	La contrasenya no és vàlida o el fitxer està corrupte.				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_BAD_PASSWORD_OR_FILE_CORRUPTED				0	ca	La contrasenya no és vàlida o el fitxer està danyat.				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_BAD_PASSWORD_OR_FILE_CORRUPTED				0	cs	Heslo je nesprávné nebo je soubor poškozen.				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_BAD_PASSWORD_OR_FILE_CORRUPTED				0	cy	Nid yw'r cyfrinair yn gywir neu mae'r ffeil wedi ei difrodi.				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_BAD_PASSWORD_OR_FILE_CORRUPTED				0	da	Adgangskoden er forkert eller filen er beskadiget.				2002-02-02 02:02:02
@@ -331,6 +336,7 @@ sd	source\core\glob.src	0	string	STR_BAD_PASSWORD_OR_FILE_CORRUPTED				0	ja	パ�
 sd	source\core\glob.src	0	string	STR_BAD_PASSWORD_OR_FILE_CORRUPTED				0	km	ពាក្យ​សម្ងាត់​មិន​ត្រឹម​ត្រូវ ឬ ឯកសារ​​​ខូច ។				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_BAD_PASSWORD_OR_FILE_CORRUPTED				0	ko	암호가 잘못되었거나 파일이 손상되었습니다.				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_BAD_PASSWORD_OR_FILE_CORRUPTED				0	lt	Neteisingas slaptažodis arba sugadintas failas.				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_BAD_PASSWORD_OR_FILE_CORRUPTED				0	mk	Лозинката е неточна или датотеката е оштетена.				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_BAD_PASSWORD_OR_FILE_CORRUPTED				0	nb	Passordet er feil eller fila er ødelagt.				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_BAD_PASSWORD_OR_FILE_CORRUPTED				0	nl	Het wachtwoord is niet correct of het bestand is beschadigd				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_BAD_PASSWORD_OR_FILE_CORRUPTED				0	nn	Passordet er feil eller fila er øydelagd.				2002-02-02 02:02:02
@@ -384,6 +390,7 @@ sd	source\core\glob.src	0	string	STR_BEZIEROBJECTBARSHELL				0	ja	ベジェ曲�
 sd	source\core\glob.src	0	string	STR_BEZIEROBJECTBARSHELL				0	km	របៀប Bézier				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_BEZIEROBJECTBARSHELL				0	ko	베지에 모드				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_BEZIEROBJECTBARSHELL				0	lt	Bézier veiksena				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_BEZIEROBJECTBARSHELL				0	mk	Безиеров режим				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_BEZIEROBJECTBARSHELL				0	nb	Béziermodus				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_BEZIEROBJECTBARSHELL				0	nl	Béziermodus				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_BEZIEROBJECTBARSHELL				0	nn	Béziermodus				2002-02-02 02:02:02
@@ -416,7 +423,7 @@ sd	source\core\glob.src	0	string	STR_DRAWVIEWSHELL				0	ar	وضع الرسم				
 sd	source\core\glob.src	0	string	STR_DRAWVIEWSHELL				0	be-BY	Від на рысунак				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_DRAWVIEWSHELL				0	bg	Изглед Рисуване				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_DRAWVIEWSHELL				0	bs	Pogled crtanja				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_DRAWVIEWSHELL				0	ca	Vista Dibuix				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_DRAWVIEWSHELL				0	ca	Vista dibuix				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_DRAWVIEWSHELL				0	cs	Pohled na kreslení				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_DRAWVIEWSHELL				0	cy	Golwg Lluniadu				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_DRAWVIEWSHELL				0	da	Tegningsvisning				2002-02-02 02:02:02
@@ -437,6 +444,7 @@ sd	source\core\glob.src	0	string	STR_DRAWVIEWSHELL				0	ja	図形描画モード
 sd	source\core\glob.src	0	string	STR_DRAWVIEWSHELL				0	km	ទិដ្ឋភាព​គំនូរ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_DRAWVIEWSHELL				0	ko	그리기 보기				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_DRAWVIEWSHELL				0	lt	Skaidrės eskizas				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_DRAWVIEWSHELL				0	mk	Преглед на цртежот				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_DRAWVIEWSHELL				0	nb	Tegnevisning				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_DRAWVIEWSHELL				0	nl	Tekenmodus				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_DRAWVIEWSHELL				0	nn	Teiknevising				2002-02-02 02:02:02
@@ -490,6 +498,7 @@ sd	source\core\glob.src	0	string	STR_EMPTY_STYLESHEET_NAME				0	ja	白紙のテ�
 sd	source\core\glob.src	0	string	STR_EMPTY_STYLESHEET_NAME				0	km	ពុម្ព​ទទេ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_EMPTY_STYLESHEET_NAME				0	ko	빈 서식 파일				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_EMPTY_STYLESHEET_NAME				0	lt	Tuščias šablonas				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_EMPTY_STYLESHEET_NAME				0	mk	Празен шаблон				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_EMPTY_STYLESHEET_NAME				0	nb	Tom mal				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_EMPTY_STYLESHEET_NAME				0	nl	Lege sjabloon				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_EMPTY_STYLESHEET_NAME				0	nn	Tom mal				2002-02-02 02:02:02
@@ -526,8 +535,8 @@ sd	source\core\glob.src	0	string	STR_FONTWORKOBJECTBARSHELL				0	ca	FontWork				
 sd	source\core\glob.src	0	string	STR_FONTWORKOBJECTBARSHELL				0	cs	Písmomalba				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_FONTWORKOBJECTBARSHELL				0	cy	Fontwork				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_FONTWORKOBJECTBARSHELL				0	da	Fontwork				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_FONTWORKOBJECTBARSHELL				0	el	FontWork				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_FONTWORKOBJECTBARSHELL				0	en-GB	FontWork				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_FONTWORKOBJECTBARSHELL				0	el	Fontwork				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_FONTWORKOBJECTBARSHELL				0	en-GB	Fontwork				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_FONTWORKOBJECTBARSHELL				0	en-ZA	Fontwork				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_FONTWORKOBJECTBARSHELL				0	es	Fontwork				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_FONTWORKOBJECTBARSHELL				0	et	Ilukiri				2002-02-02 02:02:02
@@ -543,6 +552,7 @@ sd	source\core\glob.src	0	string	STR_FONTWORKOBJECTBARSHELL				0	ja	フォント
 sd	source\core\glob.src	0	string	STR_FONTWORKOBJECTBARSHELL				0	km	សិល្បៈ​អក្សរ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_FONTWORKOBJECTBARSHELL				0	ko	Fontwork				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_FONTWORKOBJECTBARSHELL				0	lt	Dekoratyvusis tekstas				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_FONTWORKOBJECTBARSHELL				0	mk	Fontwork				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_FONTWORKOBJECTBARSHELL				0	nb	Skriftforming				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_FONTWORKOBJECTBARSHELL				0	nl	Fontwork				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_FONTWORKOBJECTBARSHELL				0	nn	Skriftforming				2002-02-02 02:02:02
@@ -564,7 +574,7 @@ sd	source\core\glob.src	0	string	STR_FONTWORKOBJECTBARSHELL				0	th	FontWork				
 sd	source\core\glob.src	0	string	STR_FONTWORKOBJECTBARSHELL				0	tr	Yazı Sanatı				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_FONTWORKOBJECTBARSHELL				0	ts	Matshamelo ya nhlanga ya marito				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_FONTWORKOBJECTBARSHELL				0	vi	FontWork				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_FONTWORKOBJECTBARSHELL				0	xh	Umsebenzi Wefonti				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_FONTWORKOBJECTBARSHELL				0	xh	Umsebenzi wefonti				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_FONTWORKOBJECTBARSHELL				0	zh-CN	美工字体				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_FONTWORKOBJECTBARSHELL				0	zh-TW	美術字型				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_GLUEPOINTSOBJECTBARSHELL				0	af	Plakpuntmodus				2002-02-02 02:02:02
@@ -572,7 +582,7 @@ sd	source\core\glob.src	0	string	STR_GLUEPOINTSOBJECTBARSHELL				0	ar	وضع ن�
 sd	source\core\glob.src	0	string	STR_GLUEPOINTSOBJECTBARSHELL				0	be-BY	Рэжым клейкіх пунктаў				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_GLUEPOINTSOBJECTBARSHELL				0	bg	Режим Точки за съединяване				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_GLUEPOINTSOBJECTBARSHELL				0	bs	Način sa tačakama ljepljenja				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_GLUEPOINTSOBJECTBARSHELL				0	ca	Mode de punts de cola				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_GLUEPOINTSOBJECTBARSHELL				0	ca	Mode de punts de adhesió				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_GLUEPOINTSOBJECTBARSHELL				0	cs	Režim záchytných bodů				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_GLUEPOINTSOBJECTBARSHELL				0	cy	Modd Pwyntiau Gludo				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_GLUEPOINTSOBJECTBARSHELL				0	da	Klæbepunktstilstand				2002-02-02 02:02:02
@@ -593,6 +603,7 @@ sd	source\core\glob.src	0	string	STR_GLUEPOINTSOBJECTBARSHELL				0	ja	接着点�
 sd	source\core\glob.src	0	string	STR_GLUEPOINTSOBJECTBARSHELL				0	km	របៀប​​ចំណុច​តភ្ជាប់				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_GLUEPOINTSOBJECTBARSHELL				0	ko	접착점 모드				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_GLUEPOINTSOBJECTBARSHELL				0	lt	Jungimo taško veiksena				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_GLUEPOINTSOBJECTBARSHELL				0	mk	Режим на точки за слепување				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_GLUEPOINTSOBJECTBARSHELL				0	nb	Festepunktsmodus				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_GLUEPOINTSOBJECTBARSHELL				0	nl	Modus Plakpunten				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_GLUEPOINTSOBJECTBARSHELL				0	nn	Festepunktsmodus				2002-02-02 02:02:02
@@ -646,6 +657,7 @@ sd	source\core\glob.src	0	string	STR_GRAFOBJECTBARSHELL				0	ja	図モード				
 sd	source\core\glob.src	0	string	STR_GRAFOBJECTBARSHELL				0	km	របៀប​ក្រាហ្វិក				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_GRAFOBJECTBARSHELL				0	ko	그래픽 모드				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_GRAFOBJECTBARSHELL				0	lt	Paveikslo veiksena				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_GRAFOBJECTBARSHELL				0	mk	Режим на графика				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_GRAFOBJECTBARSHELL				0	nb	Bildemodus				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_GRAFOBJECTBARSHELL				0	nl	Afbeeldingenmodus				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_GRAFOBJECTBARSHELL				0	nn	Biletmodus				2002-02-02 02:02:02
@@ -699,6 +711,7 @@ sd	source\core\glob.src	0	string	STR_HANDOUT				0	ja	配付資料				2002-02-02 
 sd	source\core\glob.src	0	string	STR_HANDOUT				0	km	ប្លង់​បោះពុម្ព				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_HANDOUT				0	ko	유인물				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_HANDOUT				0	lt	Dalijamoji medžiaga				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_HANDOUT				0	mk	Извадоци				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_HANDOUT				0	nb	Støtteark				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_HANDOUT				0	nl	Hand-outs				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_HANDOUT				0	nn	Støtteark				2002-02-02 02:02:02
@@ -752,6 +765,7 @@ sd	source\core\glob.src	0	string	STR_LAYER_BCKGRND				0	ja	背景				2002-02-02 
 sd	source\core\glob.src	0	string	STR_LAYER_BCKGRND				0	km	​ផ្ទៃ​ខាង​ក្រោយ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_BCKGRND				0	ko	배경				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_BCKGRND				0	lt	Fonas				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_LAYER_BCKGRND				0	mk	Подлога				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_BCKGRND				0	nb	Bakgrunn				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_BCKGRND				0	nl	Achtergrond				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_BCKGRND				0	nn	Bakgrunn				2002-02-02 02:02:02
@@ -783,7 +797,7 @@ sd	source\core\glob.src	0	string	STR_LAYER_BCKGRNDOBJ				0	ar	كائنات ال�
 sd	source\core\glob.src	0	string	STR_LAYER_BCKGRNDOBJ				0	be-BY	Аб'екты асноведзі				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_BCKGRNDOBJ				0	bg	Фонови обекти				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_BCKGRNDOBJ				0	bs	Pozadinski predmeti				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_LAYER_BCKGRNDOBJ				0	ca	Objectes del fons				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_LAYER_BCKGRNDOBJ				0	ca	Objectes de fons				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_BCKGRNDOBJ				0	cs	Objekty pozadí				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_BCKGRNDOBJ				0	cy	Gwrthrych cefndir				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_BCKGRNDOBJ				0	da	Baggrundsobjekter				2002-02-02 02:02:02
@@ -804,6 +818,7 @@ sd	source\core\glob.src	0	string	STR_LAYER_BCKGRNDOBJ				0	ja	背景のオブジ
 sd	source\core\glob.src	0	string	STR_LAYER_BCKGRNDOBJ				0	km	វត្ថុ​ផ្ទៃ​ខាង​ក្រោយ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_BCKGRNDOBJ				0	ko	배경 개체				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_BCKGRNDOBJ				0	lt	Fono objektai				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_LAYER_BCKGRNDOBJ				0	mk	Заднински објекти				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_BCKGRNDOBJ				0	nb	Bakgrunnsobjekter				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_BCKGRNDOBJ				0	nl	Achtergrondobjecten				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_BCKGRNDOBJ				0	nn	Bakgrunnsobjekt				2002-02-02 02:02:02
@@ -856,6 +871,7 @@ sd	source\core\glob.src	0	string	STR_LAYER_CONTROLS				0	ja	コントロール		
 sd	source\core\glob.src	0	string	STR_LAYER_CONTROLS				0	km	វត្ថុ​​បញ្ជា​				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_CONTROLS				0	ko	컨트롤				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_CONTROLS				0	lt	Valdiklio elementai				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_LAYER_CONTROLS				0	mk	Контроли				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_CONTROLS				0	nb	Kontroller				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_CONTROLS				0	nl	Besturingselementen				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_CONTROLS				0	nn	Kontrollar				2002-02-02 02:02:02
@@ -909,6 +925,7 @@ sd	source\core\glob.src	0	string	STR_LAYER_LAYOUT				0	ja	レイアウト				200
 sd	source\core\glob.src	0	string	STR_LAYER_LAYOUT				0	km	ប្លង់​				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_LAYOUT				0	ko	레이아웃				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_LAYOUT				0	lt	Maketas				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_LAYER_LAYOUT				0	mk	Изглед				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_LAYOUT				0	nb	Oppsett				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_LAYOUT				0	nl	Lay-out				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_LAYOUT				0	nn	Oppsett				2002-02-02 02:02:02
@@ -942,7 +959,7 @@ sd	source\core\glob.src	0	string	STR_LAYER_MEASURELINES				0	ar	خطوط قيا�
 sd	source\core\glob.src	0	string	STR_LAYER_MEASURELINES				0	be-BY	Мерныя лініі				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_MEASURELINES				0	bg	Размерни линии				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_MEASURELINES				0	bs	Dimenzione linije				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_LAYER_MEASURELINES				0	ca	Línies de dimensions				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_LAYER_MEASURELINES				0	ca	Dimensiona les línies				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_MEASURELINES				0	cs	Kótovací čáry				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_MEASURELINES				0	cy	Llinellau Dimensiwn				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_MEASURELINES				0	da	Mållinjer				2002-02-02 02:02:02
@@ -963,6 +980,7 @@ sd	source\core\glob.src	0	string	STR_LAYER_MEASURELINES				0	ja	寸法線				200
 sd	source\core\glob.src	0	string	STR_LAYER_MEASURELINES				0	km	បន្ទាត់​វិមាត្រ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_MEASURELINES				0	ko	치수선				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_MEASURELINES				0	lt	Matmenų linijos				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_LAYER_MEASURELINES				0	mk	Линии за димензија				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_MEASURELINES				0	nb	Målelinjer				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_MEASURELINES				0	nl	Maatlijnen				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_MEASURELINES				0	nn	Målelinjer				2002-02-02 02:02:02
@@ -1016,6 +1034,7 @@ sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_NAME				0	ja	標準				2002-
 sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_NAME				0	km	លំនាំ​ដើម				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_NAME				0	ko	기본값				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_NAME				0	lt	Numatyta				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_NAME				0	mk	Стандардно				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_NAME				0	nb	Standard				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_NAME				0	nl	Standaard				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_NAME				0	nn	Standard				2002-02-02 02:02:02
@@ -1069,6 +1088,7 @@ sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_TITLE_NAME				0	ja	タイト
 sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_TITLE_NAME				0	km	ចំណង​ជើង				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_TITLE_NAME				0	ko	제목				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_TITLE_NAME				0	lt	Antraštė				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_TITLE_NAME				0	mk	Наслов				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_TITLE_NAME				0	nb	Overskrift				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_TITLE_NAME				0	nl	Titel				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_TITLE_NAME				0	nn	Overskrift				2002-02-02 02:02:02
@@ -1122,6 +1142,7 @@ sd	source\core\glob.src	0	string	STR_LOAD_DOC				0	ja	ドキュメントの読�
 sd	source\core\glob.src	0	string	STR_LOAD_DOC				0	km	ផ្ទុក​ឯកសារ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LOAD_DOC				0	ko	문서 로드				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LOAD_DOC				0	lt	Įkeliamas dokumentas				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_LOAD_DOC				0	mk	Вчитај документ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LOAD_DOC				0	nb	Last inn dokument				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LOAD_DOC				0	nl	Document laden				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LOAD_DOC				0	nn	Last inn dokument				2002-02-02 02:02:02
@@ -1175,6 +1196,7 @@ sd	source\core\glob.src	0	string	STR_MASTERPAGE				0	ja	マスター				2002-02-
 sd	source\core\glob.src	0	string	STR_MASTERPAGE				0	km	​ផ្ទៃ​ខាង​ក្រោយ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_MASTERPAGE				0	ko	배경				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_MASTERPAGE				0	lt	Fonas				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_MASTERPAGE				0	mk	Подлога				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_MASTERPAGE				0	nb	Bakgrunn				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_MASTERPAGE				0	nl	Achtergrond				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_MASTERPAGE				0	nn	Bakgrunn				2002-02-02 02:02:02
@@ -1225,6 +1247,7 @@ sd	source\core\glob.src	0	string	STR_MEDIAOBJECTBARSHELL				0	ja	メディアの
 sd	source\core\glob.src	0	string	STR_MEDIAOBJECTBARSHELL				0	km	ចាក់​ព័ត៌មាន​ឡើង​វិញ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_MEDIAOBJECTBARSHELL				0	ko	미디어 재생				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_MEDIAOBJECTBARSHELL				0	lt	Medijos grotuvas				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_MEDIAOBJECTBARSHELL				0	mk	Изведба на мултимедија				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_MEDIAOBJECTBARSHELL				0	nb	Medieavspilling				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_MEDIAOBJECTBARSHELL				0	nl	Media afspelen				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_MEDIAOBJECTBARSHELL				0	nn	Mediespeling				2002-02-02 02:02:02
@@ -1276,6 +1299,7 @@ sd	source\core\glob.src	0	string	STR_NOTES				0	ja	(ノート)				2002-02-02 02:
 sd	source\core\glob.src	0	string	STR_NOTES				0	km	(ចំណាំ)				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_NOTES				0	ko	(메모)				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_NOTES				0	lt	(Pastabos)				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_NOTES				0	mk	(Бележник)				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_NOTES				0	nb	(Notater)				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_NOTES				0	nl	(Notities)				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_NOTES				0	nn	(Notat)				2002-02-02 02:02:02
@@ -1305,7 +1329,7 @@ sd	source\core\glob.src	0	string	STR_NOTES				0	zh-TW	(備註)				2002-02-02 02:
 sd	source\core\glob.src	0	string	STR_NOTES				0	zu	(Amapheshana)				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_NOT_ENOUGH_MEMORY				0	af	Nie genoeg geheue nie!\nDie aksie sal gestaak word.				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_NOT_ENOUGH_MEMORY				0	ar	لا توجد ذاكرة كافية!\nسوف يتم قطع الإجراء.				20040507 14:24:12
-sd	source\core\glob.src	0	string	STR_NOT_ENOUGH_MEMORY				0	be-BY	Недастаткова памяці!\nАперацыя будзе перапынена.				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_NOT_ENOUGH_MEMORY				0	be-BY	Не хапае памяці!\nАперацыя будзе спынена.				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_NOT_ENOUGH_MEMORY				0	bg	Няма достатъчно памет!\nДействието ще бъде прекратено.				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_NOT_ENOUGH_MEMORY				0	bs	Not enough memory!\nThe action will be aborted.				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_NOT_ENOUGH_MEMORY				0	ca	No hi ha prou memòria!\nL'acció no es pot executar.				2002-02-02 02:02:02
@@ -1329,6 +1353,7 @@ sd	source\core\glob.src	0	string	STR_NOT_ENOUGH_MEMORY				0	ja	ディスク空�
 sd	source\core\glob.src	0	string	STR_NOT_ENOUGH_MEMORY				0	km	សតិ​មិន​គ្រប់​គ្រាន់ !\nអំពើ​នឹង​ត្រូវ​បាន​បោះបង់ ។				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_NOT_ENOUGH_MEMORY				0	ko	저장 공간이 충분하지 않습니다.\n작업이 중단될 것입니다.				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_NOT_ENOUGH_MEMORY				0	lt	Nepakanka atminties!\nVeiksmas bus nutrauktas.				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_NOT_ENOUGH_MEMORY				0	mk	Нема доволно меморија!\nДејството ќе биде откажано.				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_NOT_ENOUGH_MEMORY				0	nb	Ikke nok minne.\nDenne handlinga vil bli avbrutt.				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_NOT_ENOUGH_MEMORY				0	nl	Niet genoeg geheugen!\nDe handeling wordt afgebroken.				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_NOT_ENOUGH_MEMORY				0	nn	Ikkje nok minne.\nDenne handlinga vil bli avbroten.				2002-02-02 02:02:02
@@ -1360,7 +1385,7 @@ sd	source\core\glob.src	0	string	STR_OUTLINEVIEWSHELL				0	ar	وضع التقس�
 sd	source\core\glob.src	0	string	STR_OUTLINEVIEWSHELL				0	be-BY	Від на абрысы				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_OUTLINEVIEWSHELL				0	bg	Изглед План				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_OUTLINEVIEWSHELL				0	bs	Pogled sa rubovima				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_OUTLINEVIEWSHELL				0	ca	Vista Contorn				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_OUTLINEVIEWSHELL				0	ca	Vista contorn				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_OUTLINEVIEWSHELL				0	cs	Pohled s osnovou				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_OUTLINEVIEWSHELL				0	cy	Golwg Amlinell				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_OUTLINEVIEWSHELL				0	da	Dispositionsvisning				2002-02-02 02:02:02
@@ -1381,6 +1406,7 @@ sd	source\core\glob.src	0	string	STR_OUTLINEVIEWSHELL				0	ja	アウトライン
 sd	source\core\glob.src	0	string	STR_OUTLINEVIEWSHELL				0	km	ទិដ្ឋភាព​គ្រោង				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_OUTLINEVIEWSHELL				0	ko	아웃트라인 모드				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_OUTLINEVIEWSHELL				0	lt	Pateikties struktūra				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_OUTLINEVIEWSHELL				0	mk	Преглед на главни црти				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_OUTLINEVIEWSHELL				0	nb	Disposisjonsvisning				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_OUTLINEVIEWSHELL				0	nl	Overzichtmodus				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_OUTLINEVIEWSHELL				0	nn	Disposisjonsvising				2002-02-02 02:02:02
@@ -1434,6 +1460,7 @@ sd	source\core\glob.src	0	string	STR_PAGE				0	ja	ページ				2002-02-02 02:02:
 sd	source\core\glob.src	0	string	STR_PAGE				0	km	ស្លាយ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PAGE				0	ko	슬라이드				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PAGE				0	lt	Lapas				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PAGE				0	mk	Слајд				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PAGE				0	nb	Lysbilde				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PAGE				0	nl	Dia				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PAGE				0	nn	Lysbilete				2002-02-02 02:02:02
@@ -1486,6 +1513,7 @@ sd	source\core\glob.src	0	string	STR_PAGE_NAME				0	ja	ページ				2002-02-02 0
 sd	source\core\glob.src	0	string	STR_PAGE_NAME				0	km	ទំព័រ​​				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PAGE_NAME				0	ko	페이지				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PAGE_NAME				0	lt	Lapas				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PAGE_NAME				0	mk	Страница				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PAGE_NAME				0	nb	Side				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PAGE_NAME				0	nl	Pagina				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PAGE_NAME				0	nn	Side				2002-02-02 02:02:02
@@ -1537,6 +1565,7 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_ARROW				0	ja	矢印				2002-02-0
 sd	source\core\glob.src	0	string	STR_POOLSHEET_ARROW				0	km	ព្រួញ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_ARROW				0	ko	화살표				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_ARROW				0	lt	Rodyklė				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_POOLSHEET_ARROW				0	mk	Стрелка				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_ARROW				0	nb	Pil				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_ARROW				0	nl	Pijl				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_ARROW				0	nn	Pil				2002-02-02 02:02:02
@@ -1591,6 +1620,7 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE				0	ja	見出し				200
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE				0	km	ក្បាល				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE				0	ko	제목				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE				0	lt	Antraštė				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE				0	mk	Заглавие				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE				0	nb	Overskrift				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE				0	nl	Kop				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE				0	nn	Overskrift				2002-02-02 02:02:02
@@ -1645,6 +1675,7 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE1				0	ja	見出し 1				
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE1				0	km	ក្បាល ១				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE1				0	ko	제목1				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE1				0	lt	Antraštė 1				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE1				0	mk	Заглавие1				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE1				0	nb	Overskrift1				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE1				0	nl	Kop1				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE1				0	nn	Overskrift1				2002-02-02 02:02:02
@@ -1699,6 +1730,7 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE2				0	ja	見出し 2				
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE2				0	km	ក្បាល ២				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE2				0	ko	제목2				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE2				0	lt	Antraštė 2				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE2				0	mk	Заглавие2				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE2				0	nb	Overskrift2				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE2				0	nl	Kop2				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE2				0	nn	Overskrift2				2002-02-02 02:02:02
@@ -1731,7 +1763,7 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_MEASURE				0	ar	خط قياس				
 sd	source\core\glob.src	0	string	STR_POOLSHEET_MEASURE				0	be-BY	Мерная лінія				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_MEASURE				0	bg	Размерна линия				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_MEASURE				0	bs	Dimenziona linija				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_POOLSHEET_MEASURE				0	ca	Línia de dimensions				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_POOLSHEET_MEASURE				0	ca	Dimensiona la línia				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_MEASURE				0	cs	Kótovací čára				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_MEASURE				0	cy	Llinell Dimensiwn				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_MEASURE				0	da	Mållinje				2002-02-02 02:02:02
@@ -1752,6 +1784,7 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_MEASURE				0	ja	寸法線				2002
 sd	source\core\glob.src	0	string	STR_POOLSHEET_MEASURE				0	km	បន្ទាត់​វិមាត្រ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_MEASURE				0	ko	치수선				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_MEASURE				0	lt	Matmenų linija				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_POOLSHEET_MEASURE				0	mk	Линија за димензија				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_MEASURE				0	nb	Målelinje				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_MEASURE				0	nl	Maatlijn				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_MEASURE				0	nn	Målelinje				2002-02-02 02:02:02
@@ -1805,6 +1838,7 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHARROW				0	ja	矢印先端
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHARROW				0	km	វត្ថុ​មាន​​ព្រួញ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHARROW				0	ko	화살표가 있는 개체				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHARROW				0	lt	Objektas su rodykle				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHARROW				0	mk	Објект со стрелка				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHARROW				0	nb	Objekt med pil				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHARROW				0	nl	Object met pijl				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHARROW				0	nn	Objekt med pil				2002-02-02 02:02:02
@@ -1858,6 +1892,7 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHOUTFILL				0	ja	塗りつ�
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHOUTFILL				0	km	វត្ថុ​ដែល​មិន​បំពេញ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHOUTFILL				0	ko	채우지 않은 개체				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHOUTFILL				0	lt	Neužpildytas objektas				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHOUTFILL				0	mk	Објект без исполнување				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHOUTFILL				0	nb	Ufylt objekt				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHOUTFILL				0	nl	Object zonder vulling				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHOUTFILL				0	nn	Objekt utan fyll				2002-02-02 02:02:02
@@ -1911,6 +1946,7 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHSHADOW				0	ja	影付き�
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHSHADOW				0	km	វត្ថុ​មាន​​ស្រមោល				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHSHADOW				0	ko	그림자가 있는 개체				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHSHADOW				0	lt	Objektas su šešėliu				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHSHADOW				0	mk	Објект со сенка				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHSHADOW				0	nb	Objekt med skygge				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHSHADOW				0	nl	Object met schaduw				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHSHADOW				0	nn	Objekt med skugge				2002-02-02 02:02:02
@@ -1964,6 +2000,7 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXT				0	ja	テキスト				2002
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXT				0	km	អត្ថបទ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXT				0	ko	텍스트				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXT				0	lt	Tekstas				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXT				0	mk	Текст				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXT				0	nb	Tekst				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXT				0	nl	Tekst				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXT				0	nn	Tekst				2002-02-02 02:02:02
@@ -1995,7 +2032,7 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXT				0	zu	Umbhalo				2002-02-0
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY				0	af	Teksliggaam				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY				0	ar	جسم النص				20040507 14:24:12
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY				0	be-BY	Асноўны тэкст				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY				0	bg	Редовен текст				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY				0	bg	Основен текст				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY				0	bs	Tijelo teksta				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY				0	ca	Cos del text				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY				0	cs	Tělo textu				2002-02-02 02:02:02
@@ -2018,6 +2055,7 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY				0	ja	本文				2002-0
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY				0	km	តួ​អត្ថបទ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY				0	ko	텍스트 본문				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY				0	lt	Teksto turinys				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY				0	mk	Тело на текстот				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY				0	nb	Brødtekst				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY				0	nl	Tekstblok				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY				0	nn	Brødtekst				2002-02-02 02:02:02
@@ -2050,7 +2088,7 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_INDENT				0	ar	إزاح�
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_INDENT				0	be-BY	Асноўны тэкст з чырвонага радка				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_INDENT				0	bg	Отстъп на първия ред				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_INDENT				0	bs	Uvlačenje prve linije				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_INDENT				0	ca	Sangria de la primera línia				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_INDENT				0	ca	Sagnat de la primera línia				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_INDENT				0	cs	Odsazení prvního řádku				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_INDENT				0	cy	Mewnoliad y llinell gyntaf				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_INDENT				0	da	Første linjes indrykning				2002-02-02 02:02:02
@@ -2071,6 +2109,7 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_INDENT				0	ja	本文イ
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_INDENT				0	km	ចូល​បន្ទាត់ ​បន្ទាត់​ទី​មួយ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_INDENT				0	ko	첫줄 들여쓰기				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_INDENT				0	lt	Pirmos eilutės įtrauka				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_INDENT				0	mk	Вовлекување на првата линија				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_INDENT				0	nb	Innrykk første linje				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_INDENT				0	nl	1e regel inspringen				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_INDENT				0	nn	Innrykk første linje				2002-02-02 02:02:02
@@ -2101,9 +2140,9 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_INDENT				0	zu	Ukuhlehli
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_JUSTIFY				0	af	Teksliggaam-belyn				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_JUSTIFY				0	ar	جسم النص مضبوط				20040507 14:24:12
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_JUSTIFY				0	be-BY	Асноўны тэкст, да шырыні				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_JUSTIFY				0	bg	Редовен текст, двустранно подравнен				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_JUSTIFY				0	bg	Основен текст, двустранно подравнен				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_JUSTIFY				0	bs	Tijelo teksta poravnato				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_JUSTIFY				0	ca	Cos justificat del text				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_JUSTIFY				0	ca	Cos del text justificat				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_JUSTIFY				0	cs	Zarovnané textové tělo				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_JUSTIFY				0	cy	Testun				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_JUSTIFY				0	da	Lige margener i brødtekst				2002-02-02 02:02:02
@@ -2124,6 +2163,7 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_JUSTIFY				0	ja	本文�
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_JUSTIFY				0	km	តួ​អត្ថបទ​​បាន​តម្រឹម​សង​ខាង				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_JUSTIFY				0	ko	텍스트 본문 양쪽 맞춤				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_JUSTIFY				0	lt	Abipusiai išlygiuotas tekstas				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_JUSTIFY				0	mk	Двострано порамнување на телото на текстот				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_JUSTIFY				0	nb	Blokkjustert brødtekst				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_JUSTIFY				0	nl	Tekstblok uitgelijnd				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_JUSTIFY				0	nn	Blokkjustert brødtekst				2002-02-02 02:02:02
@@ -2176,6 +2216,7 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE				0	ja	タイトル				200
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE				0	km	ចំណង​ជើង				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE				0	ko	제목				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE				0	lt	Antraštė				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE				0	mk	Наслов				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE				0	nb	Overskrift				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE				0	nl	Titel				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE				0	nn	Overskrift				2002-02-02 02:02:02
@@ -2229,6 +2270,7 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE1				0	ja	タイトル 1				
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE1				0	km	ចំណង​ជើង ១				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE1				0	ko	제목1				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE1				0	lt	Pavadinimas 1				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE1				0	mk	Наслов1				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE1				0	nb	Tittel1				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE1				0	nl	Titel1				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE1				0	nn	Tittel1				2002-02-02 02:02:02
@@ -2282,6 +2324,7 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE2				0	ja	タイトル 2				
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE2				0	km	ចំណង​ជើង ២				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE2				0	ko	제목2				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE2				0	lt	Pavadinimas 2				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE2				0	mk	Наслов2				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE2				0	nb	Tittel2				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE2				0	nl	Titel2				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE2				0	nn	Tittel2				2002-02-02 02:02:02
@@ -2335,6 +2378,7 @@ sd	source\core\glob.src	0	string	STR_POWERPOINT_IMPORT				0	ja	PowerPoint イン
 sd	source\core\glob.src	0	string	STR_POWERPOINT_IMPORT				0	km	នាំចូល PowerPoint				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POWERPOINT_IMPORT				0	ko	PowerPoint 가져오기				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POWERPOINT_IMPORT				0	lt	„PowerPoint“ Importas				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_POWERPOINT_IMPORT				0	mk	Внес од PowerPoint				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POWERPOINT_IMPORT				0	nb	PowerPoint-import				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POWERPOINT_IMPORT				0	nl	PowerPoint importeren				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POWERPOINT_IMPORT				0	nn	PowerPoint-import				2002-02-02 02:02:02
@@ -2370,7 +2414,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_CHART				0	bs	Dvo puta kliknite za 
 sd	source\core\glob.src	0	string	STR_PRESOBJ_CHART				0	ca	Feu doble clic per afegir un diagrama				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_CHART				0	cs	Dvojitým klepnutím přidáte graf				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_CHART				0	cy	Cilc dwbl i ychwanegu siart				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PRESOBJ_CHART				0	da	Tilføj diagram ved at dobbeltklikke				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_CHART				0	da	Dobbeltklik for at tilføje et diagram				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_CHART				0	el	Κάντε διπλό κλικ για τη προσθήκη διαγράμματος				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_CHART				0	en-GB	Double-click to add a chart				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_CHART				0	en-ZA	Double-click to add a chart				2002-02-02 02:02:02
@@ -2388,6 +2432,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_CHART				0	ja	ダブルクリック
 sd	source\core\glob.src	0	string	STR_PRESOBJ_CHART				0	km	ចុច​​ទ្វេរ​​ដង ដើម្បី​បន្ថែម​គំនូស​តាង​មួយ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_CHART				0	ko	차트를 추가하려면 더블 클릭하십시오.				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_CHART				0	lt	Dukart spragtelėjus įterpti diagramą				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_CHART				0	mk	Двојно кликнете за да додадете графикон				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_CHART				0	nb	Dobbeltklikk for å legge til et diagram				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_CHART				0	nl	Dubbelklikken om diagram toe te voegen				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_CHART				0	nn	Dobbeltklikk for å leggja til eit diagram				2002-02-02 02:02:02
@@ -2423,7 +2468,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_GRAPHIC				0	bs	Dvo puta kliknite z
 sd	source\core\glob.src	0	string	STR_PRESOBJ_GRAPHIC				0	ca	Feu doble clic per afegir una imatge				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_GRAPHIC				0	cs	Dvojitým klepnutím přidáte grafiku				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_GRAPHIC				0	cy	Clic dwbl i ychwanegu graffigau				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PRESOBJ_GRAPHIC				0	da	Tilføj grafik ved at dobbeltklikke				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_GRAPHIC				0	da	Dobbeltklik for at tilføje grafik				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_GRAPHIC				0	el	Κάντε διπλό κλικ για την προσθήκη γραφικού				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_GRAPHIC				0	en-GB	Double-click to add graphics				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_GRAPHIC				0	en-ZA	Double-click to add graphics				2002-02-02 02:02:02
@@ -2441,6 +2486,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_GRAPHIC				0	ja	ダブルクリッ�
 sd	source\core\glob.src	0	string	STR_PRESOBJ_GRAPHIC				0	km	ចុចទ្វេរ​​ដង ដើម្បី​បន្ថែម​ក្រាហ្វិក				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_GRAPHIC				0	ko	그래픽을 추가하려면 더블 클릭하십시오.				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_GRAPHIC				0	lt	Dukart spragtelėjus įterpti paveikslą				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_GRAPHIC				0	mk	Двојно кликнете за да додадете графика				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_GRAPHIC				0	nb	Dobbeltklikk for å legge til bilder				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_GRAPHIC				0	nl	Dubbelklikken om afbeeldingen toe te voegen				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_GRAPHIC				0	nn	Dobbeltklikk for å leggja til bilete				2002-02-02 02:02:02
@@ -2510,6 +2556,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_IMAGE			defined STARIMAGE_AVAILABLE
 sd	source\core\glob.src	0	string	STR_PRESOBJ_IMAGE			defined STARIMAGE_AVAILABLE	0	km	ចុច​​ទ្វេរ​​ដង ​ដើម្បី​បន្ថែម​រូបភាព​មួយ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_IMAGE			defined STARIMAGE_AVAILABLE	0	ko	이미지를 추가하려면 더블 클릭하십시오.				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_IMAGE			defined STARIMAGE_AVAILABLE	0	lt	Dukart spragtelėjus pridėti paveikslą				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_IMAGE			defined STARIMAGE_AVAILABLE	0	mk	Двојно кликнете за да додадете слика				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_IMAGE			defined STARIMAGE_AVAILABLE	0	nb	Dobbeltklikk for å legge til bilde				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_IMAGE			defined STARIMAGE_AVAILABLE	0	nl	Dubbelklikken om afbeelding toe te voegen				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_IMAGE			defined STARIMAGE_AVAILABLE	0	nn	Dobbeltklikk for å leggja til bilete				2002-02-02 02:02:02
@@ -2563,6 +2610,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTEXT				0	ja	クリックし
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTEXT				0	km	ចុច​ ដើម្បី​កែ​សម្រួល​ទ្រង់​ទ្រាយ​​ចំណាំ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTEXT				0	ko	메모 서식을 편집하려면 클릭하십시오.				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTEXT				0	lt	Dukart spragtelėjus rašyti pastabas				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTEXT				0	mk	Кликнете за да го уредите форматот на забелешките				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTEXT				0	nb	Klikk for å redigere notatformatet				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTEXT				0	nl	Klik om het formaat van de notities te bewerken				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTEXT				0	nn	Klikk for å redigera notatformatet				2002-02-02 02:02:02
@@ -2616,6 +2664,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTITLE				0	ja	ページを�
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTITLE				0	km	ចុច ​ដើម្បី​ផ្លាស់​ទី​ស្លាយ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTITLE				0	ko	슬라이드를 이동하려면 클릭하십시오.				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTITLE				0	lt	Spragtelėjus tempti lapą ar keisti jo dydį				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTITLE				0	mk	Кликнете за да го помрднете лизгачот				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTITLE				0	nb	Klikk for å flytte lysbildet				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTITLE				0	nl	Klik om de dia te verplaatsen				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTITLE				0	nn	Klikk for å flytta lysbiletet				2002-02-02 02:02:02
@@ -2669,6 +2718,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLINE				0	ja	アウトライ�
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLINE				0	km	ចុច​ ដើម្បី​កែ​សម្រួល​ទ្រង់​ទ្រាយ​​​អត្ថបទ​គ្រោង				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLINE				0	ko	아웃트라인 텍스트의 서식을 편집하려면 클릭하십시오				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLINE				0	lt	Pirmas struktūros lygis				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLINE				0	mk	Кликнете за да ја измените контурата на текстот				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLINE				0	nb	Klikk for å redigere formatet på disposisjonsteksten				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLINE				0	nl	Klik om de opmaak van de overzichtstekst te bewerken				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLINE				0	nn	Klikk for å redigera formatet på disposisjonsteksten				2002-02-02 02:02:02
@@ -2722,6 +2772,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER2				0	ja	2レベル目�
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER2				0	km	កម្រិត​គ្រោង​ទី​ពីរ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER2				0	ko	2번째 아웃트라인				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER2				0	lt	Antras struktūros lygis				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER2				0	mk	Второ ниво на главни црти				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER2				0	nb	Andre disposisjonsnivå				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER2				0	nl	Tweede overzichtsniveau				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER2				0	nn	Andre disposisjonsnivå				2002-02-02 02:02:02
@@ -2775,6 +2826,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER3				0	ja	3レベル目�
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER3				0	km	កម្រិត​គ្រោង​ទី​បី				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER3				0	ko	3번째 아웃트라인				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER3				0	lt	Trečias struktūros lygis				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER3				0	mk	Трето ниво на главни црти				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER3				0	nb	Tredje disposisjonsnivå				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER3				0	nl	Derde overzichtsniveau				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER3				0	nn	Tredje disposisjonsnivå				2002-02-02 02:02:02
@@ -2828,6 +2880,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER4				0	ja	4レベル目�
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER4				0	km	កម្រិត​គ្រោង​ទី​បួន				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER4				0	ko	4번째 아웃트라인				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER4				0	lt	Ketvirtas struktūros lygis				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER4				0	mk	Четврто ниво на главни црти				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER4				0	nb	Fjerde disposisjonsnivå				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER4				0	nl	Vierde overzichtsniveau				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER4				0	nn	Fjerde disposisjonsnivå				2002-02-02 02:02:02
@@ -2881,6 +2934,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER5				0	ja	5レベル目�
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER5				0	km	កម្រិត​គ្រោង​ទី​ប្រាំ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER5				0	ko	5번째 아웃트라인				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER5				0	lt	Penktas struktūros lygis				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER5				0	mk	Петто ниво на главни црти				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER5				0	nb	Femte disposisjonsnivå				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER5				0	nl	Vijfde overzichtsniveau				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER5				0	nn	Femte disposisjonsnivå				2002-02-02 02:02:02
@@ -2934,6 +2988,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER6				0	ja	6レベル目�
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER6				0	km	កម្រិត​គ្រោង​ទី​ប្រាំ​មួយ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER6				0	ko	6번째 아웃트라인				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER6				0	lt	Šeštas struktūros lygis				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER6				0	mk	Шесто ниво на главни црти				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER6				0	nb	Sjette disposisjonsnivå				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER6				0	nl	Zesde overzichtsniveau				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER6				0	nn	Sjette disposisjonsnivå				2002-02-02 02:02:02
@@ -2987,6 +3042,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER7				0	ja	7レベル目�
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER7				0	km	កម្រិត​គ្រោង​ទី​ប្រាំ​ពីរ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER7				0	ko	7번째 아웃트라인				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER7				0	lt	Septintas struktūros lygis				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER7				0	mk	Седмо ниво на главни црти				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER7				0	nb	Sjuende disposisjonsnivå				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER7				0	nl	Zevende overzichtsniveau				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER7				0	nn	Sjuande disposisjonsnivå				2002-02-02 02:02:02
@@ -3040,6 +3096,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER8				0	ja	8レベル目�
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER8				0	km	កម្រិត​គ្រោង​ទី​ប្រាំបី				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER8				0	ko	8번째 아웃트라인				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER8				0	lt	Aštuntas struktūros lygis				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER8				0	mk	Осмо ниво на главни црти				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER8				0	nb	Åttende disposisjonsnivå				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER8				0	nl	Achtste overzichtsniveau				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER8				0	nn	Åttande disposisjonsnivå				2002-02-02 02:02:02
@@ -3093,6 +3150,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER9				0	ja	9レベル目�
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER9				0	km	កម្រិត​គ្រោង​ទី​ប្រាំ​បួន				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER9				0	ko	9번째 아웃트라인				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER9				0	lt	Devintas struktūros lygis				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER9				0	mk	Деветто ниво на главни црти				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER9				0	nb	Niende disposisjonsnivå				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER9				0	nl	Negende overzichtsniveau				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER9				0	nn	Niande disposisjonsnivå				2002-02-02 02:02:02
@@ -3146,6 +3204,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_MPTITLE				0	ja	タイトルテキ�
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPTITLE				0	km	ចុច ​ដើម្បី​​កែ​សម្រួល​​ទ្រង់​ទ្រាយ​​​​អត្ថបទ​​ចំណង​ជើង				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPTITLE				0	ko	제목 텍스트의 서식을 편집하려면 클릭하십시오.				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPTITLE				0	lt	Pavadinimas				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_MPTITLE				0	mk	Кликнете за да го измените форматот на текстот на насловот				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPTITLE				0	nb	Klikk for å redigere titteltekstformatet				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPTITLE				0	nl	Klik om de opmaak van de titeltekst te bewerken				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPTITLE				0	nn	Klikk for å redigera titteltekstformatet				2002-02-02 02:02:02
@@ -3181,7 +3240,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_NOTESTEXT				0	bs	Kliknite za dodav
 sd	source\core\glob.src	0	string	STR_PRESOBJ_NOTESTEXT				0	ca	Feu clic per afegir les notes				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_NOTESTEXT				0	cs	Klepněte pro vložení poznámek				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_NOTESTEXT				0	cy	Clicio i ychwanegu nodiadau				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PRESOBJ_NOTESTEXT				0	da	Tilføj noter ved at klikke				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_NOTESTEXT				0	da	Klik for at tilføje noter				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_NOTESTEXT				0	el	Κάντε κλικ εδώ για την εισαγωγή σημειώσεων				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_NOTESTEXT				0	en-GB	Click to add notes				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_NOTESTEXT				0	en-ZA	Click to add notes				2002-02-02 02:02:02
@@ -3199,6 +3258,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_NOTESTEXT				0	ja	クリックし�
 sd	source\core\glob.src	0	string	STR_PRESOBJ_NOTESTEXT				0	km	ចុច​ ដើម្បី​បន្ថែម​ចំណាំ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_NOTESTEXT				0	ko	메모를 추가하려면 클릭하십시오.				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_NOTESTEXT				0	lt	Dukart spragtelėjus rašyti pastabas				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_NOTESTEXT				0	mk	Кликнете за да додадете забелешки				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_NOTESTEXT				0	nb	Klikk for å legge til notater				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_NOTESTEXT				0	nl	Klik om notities toe te voegen				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_NOTESTEXT				0	nn	Klikk for å leggja til notat				2002-02-02 02:02:02
@@ -3234,7 +3294,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_OBJECT				0	bs	Dvo puta kliknite za
 sd	source\core\glob.src	0	string	STR_PRESOBJ_OBJECT				0	ca	Feu doble clic per afegir un objecte				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_OBJECT				0	cs	Dvojitým klepnutím přidáte objekt				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_OBJECT				0	cy	Clic dwbl i ychwanegu gwrthrych				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PRESOBJ_OBJECT				0	da	Tilføj objekt ved at dobbeltklikke				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_OBJECT				0	da	Dobbeltklik for at tilføje et objekt				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_OBJECT				0	el	Κάντε διπλό κλικ για τη προσθήκη αντικειμένου				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_OBJECT				0	en-GB	Double-click to add an object				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_OBJECT				0	en-ZA	Double-click to add an object				2002-02-02 02:02:02
@@ -3252,6 +3312,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_OBJECT				0	ja	ダブルクリッ�
 sd	source\core\glob.src	0	string	STR_PRESOBJ_OBJECT				0	km	ចុច​ទ្វេរ​​ដង ដើម្បី​បន្ថែម​វត្ថុ​មួយ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_OBJECT				0	ko	개체를 추가하려면 더블 클릭하십시오.				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_OBJECT				0	lt	Dukart spragtelėjus įterpti objektą				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_OBJECT				0	mk	Двојно кликнете за да додадете објект				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_OBJECT				0	nb	Dobbeltklikk for å legge til et objekt				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_OBJECT				0	nl	Dubbelklikken om object toe te voegen				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_OBJECT				0	nn	Dobbeltklikk for å leggja til eit objekt				2002-02-02 02:02:02
@@ -3287,7 +3348,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_ORGCHART				0	bs	Dvo puta kliknite 
 sd	source\core\glob.src	0	string	STR_PRESOBJ_ORGCHART				0	ca	Feu doble clic per afegir un organigrama				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_ORGCHART				0	cs	Dvojitým klepnutím vložíte organizační diagram				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_ORGCHART				0	cy	Clic dwbl i ychwanegu siart corfforaethol				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PRESOBJ_ORGCHART				0	da	Tilføj organisationsdiagram ved at dobbeltklikke				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_ORGCHART				0	da	Dobbeltklik for at tilføje et organisationsdiagram				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_ORGCHART				0	el	Προσθήκη διαγράμματος οργάνωσης με διπλό κλικ.				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_ORGCHART				0	en-GB	Double-click to add an organisation chart				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_ORGCHART				0	en-ZA	Double-click to add an organisation chart				2002-02-02 02:02:02
@@ -3305,6 +3366,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_ORGCHART				0	ja	ダブルクリッ
 sd	source\core\glob.src	0	string	STR_PRESOBJ_ORGCHART				0	km	ចុច​ទ្វេរ​​ដង ​ដើម្បី​បន្ថែម​​​អង្គការ​លេខ​​មួយ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_ORGCHART				0	ko	조직도를 추가하려면 더블 클릭하십시오.				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_ORGCHART				0	lt	Dukart spragtelėjus įterpti organizacinę diagramą				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_ORGCHART				0	mk	Двојно кликнете за да додадете графикон за организација				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_ORGCHART				0	nb	Dobbeltklikk for å legge til et organisasjonsdiagram				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_ORGCHART				0	nl	Dubbelklikken om organogram toe te voegen				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_ORGCHART				0	nn	Dobbeltklikk for å leggja til eit organisasjonsdiagram				2002-02-02 02:02:02
@@ -3340,7 +3402,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_OUTLINE				0	bs	Kliknite za dodavan
 sd	source\core\glob.src	0	string	STR_PRESOBJ_OUTLINE				0	ca	Feu clic per afegir un contorn				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_OUTLINE				0	cs	Klepněte pro vložení textu				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_OUTLINE				0	cy	Clicio i ychwanegu amlinell				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PRESOBJ_OUTLINE				0	da	Tilføj disposition ved at dobbeltklikke				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_OUTLINE				0	da	Klik for at tilføje en disposition				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_OUTLINE				0	el	Κάντε κλικ εδώ για την εισαγωγή διάρθρωσης				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_OUTLINE				0	en-GB	Click to add an outline				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_OUTLINE				0	en-ZA	Click to add an outline				2002-02-02 02:02:02
@@ -3358,6 +3420,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_OUTLINE				0	ja	クリックして�
 sd	source\core\glob.src	0	string	STR_PRESOBJ_OUTLINE				0	km	ចុច​ ដើម្បី​បន្ថែម​គ្រោង				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_OUTLINE				0	ko	클릭으로 아웃트라인 추가				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_OUTLINE				0	lt	Spragtelėjus taisyti struktūrą				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_OUTLINE				0	mk	Кликнете за додадете главни црти				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_OUTLINE				0	nb	Klikk for å legge til disposisjon				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_OUTLINE				0	nl	Klik om overzicht toe te voegen				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_OUTLINE				0	nn	Klikk for å leggja til disposisjon				2002-02-02 02:02:02
@@ -3393,7 +3456,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_TABLE				0	bs	Dva puta kliknite da 
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TABLE				0	ca	Feu doble clic per afegir un full càlcul				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TABLE				0	cs	Dvojitým klepnutím přidáte sešit				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TABLE				0	cy	Clic dwbl i ychwanegu taenlen				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PRESOBJ_TABLE				0	da	Tilføj regneark ved at dobbeltklikke				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_TABLE				0	da	Dobbeltklik for at tilføje et regneark				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TABLE				0	el	Προσθήκη υπολογιστικού φύλλου με διπλό κλικ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TABLE				0	en-GB	Double-click to add a spreadsheet				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TABLE				0	en-ZA	Double-click to add a spreadsheet				2002-02-02 02:02:02
@@ -3411,6 +3474,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_TABLE				0	ja	ダブルクリック
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TABLE				0	km	ចុច​ទ្វេរ​​ដង ដើម្បី​បន្ថែម​សៀវភៅ​បញ្ជី​មួយ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TABLE				0	ko	스프레드시트를 추가하려면 더블 클릭하십시오.				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TABLE				0	lt	Dukart spragtelėjus įterpti skaičiuoklės dokumentą				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_TABLE				0	mk	Двојно кликнете за да додадете табеларна пресметка				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TABLE				0	nb	Dobbeltklikk for å legge til et regneark				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TABLE				0	nl	Dubbelklikken om werkblad toe te voegen				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TABLE				0	nn	Dobbeltklikk for å leggja til eit rekneark				2002-02-02 02:02:02
@@ -3446,7 +3510,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_TEXT				0	bs	Kliknite za dodavanje 
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TEXT				0	ca	Feu clic per afegir el text				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TEXT				0	cs	Klepněte pro vložení textu				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TEXT				0	cy	Clicio i ychwanegu testun				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PRESOBJ_TEXT				0	da	Tilføj tekst ved at klikke				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_TEXT				0	da	Klik for at tilføje tekst				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TEXT				0	el	Κάντε κλικ εδώ για την εισαγωγή κειμένου				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TEXT				0	en-GB	Click to add text				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TEXT				0	en-ZA	Click to add text				2002-02-02 02:02:02
@@ -3464,6 +3528,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_TEXT				0	ja	クリックしてテ�
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TEXT				0	km	ចុច​ ដើម្បី​បន្ថែម​អត្ថបទ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TEXT				0	ko	텍스트를 추가하려면 클릭하십시오.				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TEXT				0	lt	Rašyti tekstą				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_TEXT				0	mk	Кликнете за да додадете текст				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TEXT				0	nb	Klikk for å legge til tekst				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TEXT				0	nl	Klik om tekst toe te voegen				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TEXT				0	nn	Klikk for å leggja til tekst				2002-02-02 02:02:02
@@ -3499,7 +3564,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_TITLE				0	bs	Kliknite za dodavanje
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TITLE				0	ca	Feu clic per afegir un títol				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TITLE				0	cs	Klepněte pro vložení titulu				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TITLE				0	cy	Clicio i ychwanegu teitl				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PRESOBJ_TITLE				0	da	Tilføj titel ved at klikke				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_TITLE				0	da	Klik for at tilføje en titel				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TITLE				0	el	Κάντε κλικ εδώ για την εισαγωγή τίτλου				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TITLE				0	en-GB	Click to add title				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TITLE				0	en-ZA	Click to add title				2002-02-02 02:02:02
@@ -3517,6 +3582,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_TITLE				0	ja	クリックしてタ
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TITLE				0	km	ចុច​​ ដើម្បី​បន្ថែម​ចំណង​ជើង				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TITLE				0	ko	제목을 추가하려면 클릭하십시오.				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TITLE				0	lt	Rašyti pavadinimą				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_TITLE				0	mk	Кликнете за да додадете наслов				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TITLE				0	nb	Klikk for å legge til tittel				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TITLE				0	nl	Klik om titel toe te voegen				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TITLE				0	nn	Klikk for å leggja til tittel				2002-02-02 02:02:02
@@ -3549,7 +3615,7 @@ sd	source\core\glob.src	0	string	STR_PRESVIEWSHELL				0	ar	Presentation mode				
 sd	source\core\glob.src	0	string	STR_PRESVIEWSHELL				0	be-BY	Рэжым прэзентацый				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESVIEWSHELL				0	bg	Режим Прожекция				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESVIEWSHELL				0	bs	Prezentacijski način				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PRESVIEWSHELL				0	ca	Mode Presentació				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESVIEWSHELL				0	ca	Mode presentació				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESVIEWSHELL				0	cs	Režim prezentace				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESVIEWSHELL				0	cy	Modd cyflwyno				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESVIEWSHELL				0	da	Præsentationstilstand				2002-02-02 02:02:02
@@ -3570,6 +3636,7 @@ sd	source\core\glob.src	0	string	STR_PRESVIEWSHELL				0	ja	スライドショー
 sd	source\core\glob.src	0	string	STR_PRESVIEWSHELL				0	km	របៀប​​បង្ហាញ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESVIEWSHELL				0	ko	프레젠테이션 모드				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESVIEWSHELL				0	lt	Pateikties veiksena				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESVIEWSHELL				0	mk	Режим за презентирање				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESVIEWSHELL				0	nb	Presentasjonsmodus				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESVIEWSHELL				0	nl	Presentatiemodus				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESVIEWSHELL				0	nn	Presentasjonsmodus				2002-02-02 02:02:02
@@ -3623,6 +3690,7 @@ sd	source\core\glob.src	0	string	STR_PREVIEWVIEWSHELL				0	ja	プレビューウ
 sd	source\core\glob.src	0	string	STR_PREVIEWVIEWSHELL				0	km	មើល​បង្អួច​ជា​មុន				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PREVIEWVIEWSHELL				0	ko	미리보기 창				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PREVIEWVIEWSHELL				0	lt	Peržiūros langas				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PREVIEWVIEWSHELL				0	mk	Прозорец за преглед				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PREVIEWVIEWSHELL				0	nb	Forhåndsvis vindu				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PREVIEWVIEWSHELL				0	nl	Voorbeeldvenster				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PREVIEWVIEWSHELL				0	nn	Førehandsvis vindauge				2002-02-02 02:02:02
@@ -3676,6 +3744,7 @@ sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUND				0	ja	背景				20
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUND				0	km	​ផ្ទៃ​ខាង​ក្រោយ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUND				0	ko	배경				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUND				0	lt	Fonas				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUND				0	mk	Подлога				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUND				0	nb	Bakgrunn				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUND				0	nl	Achtergrond				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUND				0	nn	Bakgrunn				2002-02-02 02:02:02
@@ -3728,6 +3797,7 @@ sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUNDOBJECTS				0	ja	背�
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUNDOBJECTS				0	km	វត្ថុ​ផ្ទៃ​ខាង​ក្រោយ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUNDOBJECTS				0	ko	배경 개체				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUNDOBJECTS				0	lt	Fono objektai				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUNDOBJECTS				0	mk	Заднински објекти				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUNDOBJECTS				0	nb	Bakgrunnsobjekter				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUNDOBJECTS				0	nl	Achtergrondobjecten				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUNDOBJECTS				0	nn	Bakgrunnsobjekt				2002-02-02 02:02:02
@@ -3780,6 +3850,7 @@ sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_NOTES				0	ja	ノート				2002
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_NOTES				0	km	ចំណាំ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_NOTES				0	ko	메모				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_NOTES				0	lt	Pastabos				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_NOTES				0	mk	Забелешки				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_NOTES				0	nb	Notater				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_NOTES				0	nl	Notities				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_NOTES				0	nn	Notat				2002-02-02 02:02:02
@@ -3833,6 +3904,7 @@ sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_OUTLINE				0	ja	アウトライ
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_OUTLINE				0	km	គ្រោង​				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_OUTLINE				0	ko	아웃트라인				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_OUTLINE				0	lt	Struktūra				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_OUTLINE				0	mk	Контура				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_OUTLINE				0	nb	Disposisjon				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_OUTLINE				0	nl	Overzicht				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_OUTLINE				0	nn	Disposisjon				2002-02-02 02:02:02
@@ -3886,6 +3958,7 @@ sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_SUBTITLE				0	ja	サブタイ�
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_SUBTITLE				0	km	ចំណង​ជើង​រង				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_SUBTITLE				0	ko	부제				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_SUBTITLE				0	lt	Paantraštė				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_SUBTITLE				0	mk	Поднаслов				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_SUBTITLE				0	nb	Undertittel				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_SUBTITLE				0	nl	Subtitel				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_SUBTITLE				0	nn	Undertittel				2002-02-02 02:02:02
@@ -3940,6 +4013,7 @@ sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_TITLE				0	ja	タイトル				2
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_TITLE				0	km	ចំណង​ជើង				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_TITLE				0	ko	제목				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_TITLE				0	lt	Antraštė				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_TITLE				0	mk	Наслов				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_TITLE				0	nb	Overskrift				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_TITLE				0	nl	Titel				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_TITLE				0	nn	Overskrift				2002-02-02 02:02:02
@@ -3993,6 +4067,7 @@ sd	source\core\glob.src	0	string	STR_SAVE_DOC				0	ja	ドキュメントの保�
 sd	source\core\glob.src	0	string	STR_SAVE_DOC				0	km	រក្សា​ទុក​​​ឯកសារ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SAVE_DOC				0	ko	문서 저장				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SAVE_DOC				0	lt	Įrašomas dokumentas				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_SAVE_DOC				0	mk	Зачувај документ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SAVE_DOC				0	nb	Lagre dokument				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SAVE_DOC				0	nl	Document opslaan				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SAVE_DOC				0	nn	Lagra dokument				2002-02-02 02:02:02
@@ -4026,7 +4101,7 @@ sd	source\core\glob.src	0	string	STR_SLIDEVIEWSHELL				0	ar	وضع الشريح�
 sd	source\core\glob.src	0	string	STR_SLIDEVIEWSHELL				0	be-BY	Рэжым слайдаў				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SLIDEVIEWSHELL				0	bg	Режим Кадър				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SLIDEVIEWSHELL				0	bs	Slajd način				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_SLIDEVIEWSHELL				0	ca	Mode Diapositiva				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_SLIDEVIEWSHELL				0	ca	Mode diapositiva				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SLIDEVIEWSHELL				0	cs	Snímkový režim				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SLIDEVIEWSHELL				0	cy	Modd Tryloywder				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SLIDEVIEWSHELL				0	da	Diastilstand				2002-02-02 02:02:02
@@ -4047,6 +4122,7 @@ sd	source\core\glob.src	0	string	STR_SLIDEVIEWSHELL				0	ja	スライドモー�
 sd	source\core\glob.src	0	string	STR_SLIDEVIEWSHELL				0	km	របៀប​ស្លាយ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SLIDEVIEWSHELL				0	ko	슬라이드 모드				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SLIDEVIEWSHELL				0	lt	Lapo veiksena				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_SLIDEVIEWSHELL				0	mk	Режим на слајд				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SLIDEVIEWSHELL				0	nb	Lysbildemodus				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SLIDEVIEWSHELL				0	nl	Diamodus				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SLIDEVIEWSHELL				0	nn	Lysbiletmodus				2002-02-02 02:02:02
@@ -4098,6 +4174,7 @@ sd	source\core\glob.src	0	string	STR_SLIDE_NAME				0	ja	スライド				2002-02-
 sd	source\core\glob.src	0	string	STR_SLIDE_NAME				0	km	ស្លាយ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SLIDE_NAME				0	ko	슬라이드				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SLIDE_NAME				0	lt	Skaidrė				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_SLIDE_NAME				0	mk	Слајд				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SLIDE_NAME				0	nb	Lysbilde				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SLIDE_NAME				0	nl	Dia				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SLIDE_NAME				0	nn	Lysbilete				2002-02-02 02:02:02
@@ -4151,6 +4228,7 @@ sd	source\core\glob.src	0	string	STR_STANDARD_STYLESHEET_NAME				0	ja	標準				
 sd	source\core\glob.src	0	string	STR_STANDARD_STYLESHEET_NAME				0	km	លំនាំ​ដើម				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_STANDARD_STYLESHEET_NAME				0	ko	표준				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_STANDARD_STYLESHEET_NAME				0	lt	Numatyta				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_STANDARD_STYLESHEET_NAME				0	mk	Стандардно				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_STANDARD_STYLESHEET_NAME				0	nb	Standard				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_STANDARD_STYLESHEET_NAME				0	nl	Standaard				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_STANDARD_STYLESHEET_NAME				0	nn	Standard				2002-02-02 02:02:02
@@ -4183,7 +4261,7 @@ sd	source\core\glob.src	0	string	STR_STDOBJECTBARSHELL				0	ar	وضع المست
 sd	source\core\glob.src	0	string	STR_STDOBJECTBARSHELL				0	be-BY	Рэжым дакумента				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_STDOBJECTBARSHELL				0	bg	Режим Документ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_STDOBJECTBARSHELL				0	bs	Dokument način				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_STDOBJECTBARSHELL				0	ca	Mode Document				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_STDOBJECTBARSHELL				0	ca	Mode document				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_STDOBJECTBARSHELL				0	cs	Dokumentový režim				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_STDOBJECTBARSHELL				0	cy	Modd Dogfen				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_STDOBJECTBARSHELL				0	da	Dokumenttilstand				2002-02-02 02:02:02
@@ -4204,6 +4282,7 @@ sd	source\core\glob.src	0	string	STR_STDOBJECTBARSHELL				0	ja	ドキュメン�
 sd	source\core\glob.src	0	string	STR_STDOBJECTBARSHELL				0	km	របៀប​ឯកសារ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_STDOBJECTBARSHELL				0	ko	문서 모드				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_STDOBJECTBARSHELL				0	lt	Dokumento veiksena				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_STDOBJECTBARSHELL				0	mk	Режим на документ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_STDOBJECTBARSHELL				0	nb	Dokumentmodus				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_STDOBJECTBARSHELL				0	nl	Documentmodus				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_STDOBJECTBARSHELL				0	nn	Dokumentmodus				2002-02-02 02:02:02
@@ -4236,7 +4315,7 @@ sd	source\core\glob.src	0	string	STR_TEXTOBJECTBARSHELL				0	ar	وضع النص	
 sd	source\core\glob.src	0	string	STR_TEXTOBJECTBARSHELL				0	be-BY	Рэжым тэксту				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_TEXTOBJECTBARSHELL				0	bg	Режим Текст				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_TEXTOBJECTBARSHELL				0	bs	Tekstualni način				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_TEXTOBJECTBARSHELL				0	ca	Mode Text				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_TEXTOBJECTBARSHELL				0	ca	Mode text				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_TEXTOBJECTBARSHELL				0	cs	Textový režim				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_TEXTOBJECTBARSHELL				0	cy	Modd Testun				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_TEXTOBJECTBARSHELL				0	da	Teksttilstand				2002-02-02 02:02:02
@@ -4257,6 +4336,7 @@ sd	source\core\glob.src	0	string	STR_TEXTOBJECTBARSHELL				0	ja	テキストモ�
 sd	source\core\glob.src	0	string	STR_TEXTOBJECTBARSHELL				0	km	របៀប​អត្ថបទ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_TEXTOBJECTBARSHELL				0	ko	텍스트 모드				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_TEXTOBJECTBARSHELL				0	lt	Teksto veiksena				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_TEXTOBJECTBARSHELL				0	mk	Текстуален режим				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_TEXTOBJECTBARSHELL				0	nb	Tekstmodus				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_TEXTOBJECTBARSHELL				0	nl	Tekstmodus				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_TEXTOBJECTBARSHELL				0	nn	Tekstmodus				2002-02-02 02:02:02
@@ -4310,6 +4390,7 @@ sd	source\core\glob.src	0	string	STR_UNDO_MOVEPAGES				0	ja	ページの移動		
 sd	source\core\glob.src	0	string	STR_UNDO_MOVEPAGES				0	km	ផ្លាស់ទី​ស្លាយ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_UNDO_MOVEPAGES				0	ko	슬라이드 이동				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_UNDO_MOVEPAGES				0	lt	Perkelti lapus				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_UNDO_MOVEPAGES				0	mk	Премести слајдови				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_UNDO_MOVEPAGES				0	nb	Flytt lysbilder				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_UNDO_MOVEPAGES				0	nl	Dia's verplaatsen				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_UNDO_MOVEPAGES				0	nn	Flytt lysbilete				2002-02-02 02:02:02
