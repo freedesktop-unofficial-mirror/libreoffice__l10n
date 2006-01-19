@@ -13,9 +13,9 @@
 #
 #   $RCSfile: localize.sdf,v $
 #
-#   $Revision: 1.11 $
+#   $Revision: 1.12 $
 #
-#   last change: $Author: obo $ $Date: 2005-11-15 18:58:31 $
+#   last change: $Author: obo $ $Date: 2006-01-19 14:00:34 $
 #
 #   The Contents of this file are made available subject to
 #   the terms of GNU Lesser General Public License Version 2.1.
@@ -67,6 +67,7 @@ svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_ATTR				0	ja	属性の適
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_ATTR				0	km	អនុវត្ត​គុណ​លក្ខណៈ				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_ATTR				0	ko	속성 적용				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_ATTR				0	lt	Taikyti požymius				2002-02-02 02:02:02
+svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_ATTR				0	mk	Примени атрибути				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_ATTR				0	nb	Bruk egenskaper				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_ATTR				0	nl	Attributen toepassen				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_ATTR				0	nn	Bruk eigenskap				2002-02-02 02:02:02
@@ -120,6 +121,7 @@ svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_COLLAPSE				0	ja	下位�
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_COLLAPSE				0	km	វេញ				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_COLLAPSE				0	ko	닫기				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_COLLAPSE				0	lt	Suskleisti				2002-02-02 02:02:02
+svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_COLLAPSE				0	mk	Затвори(Спушти)				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_COLLAPSE				0	nb	Fold sammen				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_COLLAPSE				0	nl	Subniveaus verbergen				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_COLLAPSE				0	nn	Fald saman				2002-02-02 02:02:02
@@ -173,6 +175,7 @@ svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_DEPTH				0	ja	インデ�
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_DEPTH				0	km	ចូល​បន្ទាត់				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_DEPTH				0	ko	들여쓰기				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_DEPTH				0	lt	Įtrauka				2002-02-02 02:02:02
+svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_DEPTH				0	mk	Вовлечи				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_DEPTH				0	nb	Innrykk				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_DEPTH				0	nl	Inspringing				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_DEPTH				0	nn	Innrykk				2002-02-02 02:02:02
@@ -227,6 +230,7 @@ svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_EXPAND				0	ja	下位段�
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_EXPAND				0	km	បង្ហាញ​ចំណុច​រង				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_EXPAND				0	ko	하위 단락 표시				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_EXPAND				0	lt	Rodyti žemesnius taškus				2002-02-02 02:02:02
+svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_EXPAND				0	mk	Покажи потточки				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_EXPAND				0	nb	Vis underpunkter				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_EXPAND				0	nl	Subniveaus weergeven				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_EXPAND				0	nn	Vis underpunkt				2002-02-02 02:02:02
@@ -280,6 +284,7 @@ svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_HEIGHT				0	ja	移動				
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_HEIGHT				0	km	ផ្លាស់ទី				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_HEIGHT				0	ko	이동				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_HEIGHT				0	lt	Perkelti				2002-02-02 02:02:02
+svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_HEIGHT				0	mk	Премести				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_HEIGHT				0	nb	Flytt				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_HEIGHT				0	nl	Verplaatsen				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_HEIGHT				0	nn	Flytt				2002-02-02 02:02:02
@@ -334,6 +339,7 @@ svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_INSERT				0	ja	挿入				
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_INSERT				0	km	បញ្ចូល​				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_INSERT				0	ko	삽입				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_INSERT				0	lt	Įterpti				2002-02-02 02:02:02
+svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_INSERT				0	mk	Вметни				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_INSERT				0	nb	Sett inn				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_INSERT				0	nl	Invoegen				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_INSERT				0	nn	Set inn				2002-02-02 02:02:02
