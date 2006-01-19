@@ -13,9 +13,9 @@
 #
 #   $RCSfile: localize.sdf,v $
 #
-#   $Revision: 1.10 $
+#   $Revision: 1.11 $
 #
-#   last change: $Author: obo $ $Date: 2005-11-15 22:07:31 $
+#   last change: $Author: obo $ $Date: 2006-01-19 17:14:29 $
 #
 #   The Contents of this file are made available subject to
 #   the terms of GNU Lesser General Public License Version 2.1.
@@ -67,6 +67,7 @@ goodies	source\filter.vcl\epgm\dlgepgm.src	0	fixedline	DLG_EXPORT_EPGM	GRP_FORMA
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	fixedline	DLG_EXPORT_EPGM	GRP_FORMAT			60	km	ទ្រង់ទ្រាយ​ឯកសារ				2002-02-02 02:02:02
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	fixedline	DLG_EXPORT_EPGM	GRP_FORMAT			60	ko	파일 서식				2002-02-02 02:02:02
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	fixedline	DLG_EXPORT_EPGM	GRP_FORMAT			60	lt	Failo formatas				2002-02-02 02:02:02
+goodies	source\filter.vcl\epgm\dlgepgm.src	0	fixedline	DLG_EXPORT_EPGM	GRP_FORMAT			60	mk	Формат на датотека				2002-02-02 02:02:02
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	fixedline	DLG_EXPORT_EPGM	GRP_FORMAT			60	nb	Filformat				2002-02-02 02:02:02
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	fixedline	DLG_EXPORT_EPGM	GRP_FORMAT			60	nl	Bestandsindeling				2002-02-02 02:02:02
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	fixedline	DLG_EXPORT_EPGM	GRP_FORMAT			60	nn	Filformat				2002-02-02 02:02:02
@@ -119,6 +120,7 @@ goodies	source\filter.vcl\epgm\dlgepgm.src	0	modaldialog	DLG_EXPORT_EPGM				133	
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	modaldialog	DLG_EXPORT_EPGM				133	km	ជម្រើស PGM				2002-02-02 02:02:02
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	modaldialog	DLG_EXPORT_EPGM				133	ko	PGM 옵션				2002-02-02 02:02:02
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	modaldialog	DLG_EXPORT_EPGM				133	lt	PGM parinktys				2002-02-02 02:02:02
+goodies	source\filter.vcl\epgm\dlgepgm.src	0	modaldialog	DLG_EXPORT_EPGM				133	mk	Опции за PGM				2002-02-02 02:02:02
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	modaldialog	DLG_EXPORT_EPGM				133	nb	PGM-valg				2002-02-02 02:02:02
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	modaldialog	DLG_EXPORT_EPGM				133	nl	PGM-opties				2002-02-02 02:02:02
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	modaldialog	DLG_EXPORT_EPGM				133	nn	PGM-val				2002-02-02 02:02:02
@@ -171,6 +173,7 @@ goodies	source\filter.vcl\epgm\dlgepgm.src	0	radiobutton	DLG_EXPORT_EPGM	RB_ASCI
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	radiobutton	DLG_EXPORT_EPGM	RB_ASCII			45	km	អត្ថបទ 				2002-02-02 02:02:02
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	radiobutton	DLG_EXPORT_EPGM	RB_ASCII			45	ko	텍스트(~T)				2002-02-02 02:02:02
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	radiobutton	DLG_EXPORT_EPGM	RB_ASCII			45	lt	~Tekstinis				2002-02-02 02:02:02
+goodies	source\filter.vcl\epgm\dlgepgm.src	0	radiobutton	DLG_EXPORT_EPGM	RB_ASCII			45	mk	~Текст				2002-02-02 02:02:02
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	radiobutton	DLG_EXPORT_EPGM	RB_ASCII			45	nb	~Tekst				2002-02-02 02:02:02
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	radiobutton	DLG_EXPORT_EPGM	RB_ASCII			45	nl	~Tekst				2002-02-02 02:02:02
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	radiobutton	DLG_EXPORT_EPGM	RB_ASCII			45	nn	~Tekst				2002-02-02 02:02:02
@@ -223,6 +226,7 @@ goodies	source\filter.vcl\epgm\dlgepgm.src	0	radiobutton	DLG_EXPORT_EPGM	RB_RAW	
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	radiobutton	DLG_EXPORT_EPGM	RB_RAW			45	km	គោល​ពីរ​ 				2002-02-02 02:02:02
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	radiobutton	DLG_EXPORT_EPGM	RB_RAW			45	ko	바이너리(~B)				2002-02-02 02:02:02
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	radiobutton	DLG_EXPORT_EPGM	RB_RAW			45	lt	~Dvejetainis				2002-02-02 02:02:02
+goodies	source\filter.vcl\epgm\dlgepgm.src	0	radiobutton	DLG_EXPORT_EPGM	RB_RAW			45	mk	~Бинарен				2002-02-02 02:02:02
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	radiobutton	DLG_EXPORT_EPGM	RB_RAW			45	nb	~Binær				2002-02-02 02:02:02
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	radiobutton	DLG_EXPORT_EPGM	RB_RAW			45	nl	~Binair				2002-02-02 02:02:02
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	radiobutton	DLG_EXPORT_EPGM	RB_RAW			45	nn	~Binær				2002-02-02 02:02:02
