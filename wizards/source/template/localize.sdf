@@ -13,9 +13,9 @@
 #
 #   $RCSfile: localize.sdf,v $
 #
-#   $Revision: 1.12 $
+#   $Revision: 1.13 $
 #
-#   last change: $Author: obo $ $Date: 2005-11-15 22:11:29 $
+#   last change: $Author: obo $ $Date: 2006-01-19 17:19:50 $
 #
 #   The Contents of this file are made available subject to
 #   the terms of GNU Lesser General Public License Version 2.1.
@@ -67,6 +67,7 @@ wizards	source\template\template.src	0	string	AgendaDlgButton1				0	ja	結果議
 wizards	source\template\template.src	0	string	AgendaDlgButton1				0	km	លទ្ធផល​កំណត់ហេតុ​ប្រជុំ				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgButton1				0	ko	결과 프로토콜				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgButton1				0	lt	Rodo minutes				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	AgendaDlgButton1				0	mk	Записник за резултати				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgButton1				0	nb	Resultatreferat				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgButton1				0	nl	Verslag van de resultaten				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgButton1				0	nn	Resultatreferat				2002-02-02 02:02:02
@@ -120,6 +121,7 @@ wizards	source\template\template.src	0	string	AgendaDlgButton2				0	ja	中間報
 wizards	source\template\template.src	0	string	AgendaDlgButton2				0	km	កំណត់ហេតុ​ប្រជុំ​នៃ​ការ​វាយ​តម្លៃ				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgButton2				0	ko	경과 프로토콜				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgButton2				0	lt	Įvertinimo minutės				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	AgendaDlgButton2				0	mk	Записник за проценката				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgButton2				0	nb	Evalueringsreferat				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgButton2				0	nl	Verslag van het verloop				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgButton2				0	nn	Evalueringsreferat				2002-02-02 02:02:02
@@ -173,6 +175,7 @@ wizards	source\template\template.src	0	string	AgendaDlgFrame				0	ja	議事録�
 wizards	source\template\template.src	0	string	AgendaDlgFrame				0	km	ប្រភេទ​កំណត់ហេតុ​ប្រជុំ				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgFrame				0	ko	프로토콜 형식				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgFrame				0	lt	Minučių tipas				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	AgendaDlgFrame				0	mk	Вид на записник				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgFrame				0	nb	Referattype				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgFrame				0	nl	Type verslag				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgFrame				0	nn	Referattype				2002-02-02 02:02:02
@@ -226,6 +229,7 @@ wizards	source\template\template.src	0	string	AgendaDlgName				0	ja	議事録の
 wizards	source\template\template.src	0	string	AgendaDlgName				0	km	ពុម្ព​របស់​កំណត់ហេតុ​ប្រជុំ				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgName				0	ko	프로토콜 서식 파일				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgName				0	lt	Minučių šablonas				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	AgendaDlgName				0	mk	Шаблон на записник				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgName				0	nb	Referatmal				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgName				0	nl	Sjabloon voor verslagen				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgName				0	nn	Referatmal				2002-02-02 02:02:02
@@ -279,6 +283,7 @@ wizards	source\template\template.src	0	string	AgendaDlgNoCancel				0	ja	オプ�
 wizards	source\template\template.src	0	string	AgendaDlgNoCancel				0	km	ត្រូវ​តែ​អះអាង​ជម្រើស​មួយ ។				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgNoCancel				0	ko	옵션을 확인해야 합니다.				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgNoCancel				0	lt	Parinktį būtina patvirtinti.				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	AgendaDlgNoCancel				0	mk	Мора да потврдите опција.				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgNoCancel				0	nb	Du må bekrefte et valg.				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgNoCancel				0	nl	Er moet een optie worden bevestigd.				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgNoCancel				0	nn	Du må stadfesta eit val.				2002-02-02 02:02:02
@@ -332,6 +337,7 @@ wizards	source\template\template.src	0	string	CorrespondenceDialog				0	ja	宛�
 wizards	source\template\template.src	0	string	CorrespondenceDialog				0	km	អ្នក​​ទទួល​​សំបុត្រ				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceDialog				0	ko	받는 사람				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceDialog				0	lt	Adresatas				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceDialog				0	mk	Адресирано до				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceDialog				0	nb	Mottaker				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceDialog				0	nl	Geadresseerde				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceDialog				0	nn	Mottakar				2002-02-02 02:02:02
@@ -385,6 +391,7 @@ wizards	source\template\template.src	0	string	CorrespondenceDialog+1				0	ja	１
 wizards	source\template\template.src	0	string	CorrespondenceDialog+1				0	km	អ្នក​​ទទួល​​ម្នាក់				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceDialog+1				0	ko	단일 수신인				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceDialog+1				0	lt	Vienas gavėjas				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceDialog+1				0	mk	Еден примач				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceDialog+1				0	nb	En mottaker				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceDialog+1				0	nl	Eén geadresseerde				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceDialog+1				0	nn	Ein mottakar				2002-02-02 02:02:02
@@ -438,6 +445,7 @@ wizards	source\template\template.src	0	string	CorrespondenceDialog+2				0	ja	複
 wizards	source\template\template.src	0	string	CorrespondenceDialog+2				0	km	អ្នក​​​ទទួល​​​ច្រើន​ (មូលដ្ឋាន​​ទិន្នន័យ​​​​អាសយដ្ឋាន)				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceDialog+2				0	ko	여러 수신인 (주소 데이터 베이스)				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceDialog+2				0	lt	Keletas gavėjų (adresų duomenų bazė)				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceDialog+2				0	mk	Неколку примачи (база на адреси)				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceDialog+2				0	nb	Flere mottakere (adressedatabase)				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceDialog+2				0	nl	Meerdere geadresseerden (adresdatabase)				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceDialog+2				0	nn	Fleire mottakarar (adressedatabase)				2002-02-02 02:02:02
@@ -491,6 +499,7 @@ wizards	source\template\template.src	0	string	CorrespondenceDialog+3				0	ja	テ
 wizards	source\template\template.src	0	string	CorrespondenceDialog+3				0	km	ប្រើ​​ពុម្ព​នេះ				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceDialog+3				0	ko	이 서식 파일 사용				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceDialog+3				0	lt	Naudoti šį šabloną				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceDialog+3				0	mk	Употребата на овој шаблон				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceDialog+3				0	nb	Bruk av denne malen				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceDialog+3				0	nl	Gebruik van dit sjabloon				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceDialog+3				0	nn	Bruk av denne malen				2002-02-02 02:02:02
@@ -544,6 +553,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields				0	ja	プ�
 wizards	source\template\template.src	0	string	CorrespondenceFields				0	km	ចុច​កន្លែង​ដាក់​ និង សរសេរ​ជាន់​លើ				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields				0	ko	플레이스홀더를 클릭한 후 덮어쓰기				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields				0	lt	Spragtelėkite rezervuotą vietą ir pakeiskite				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields				0	mk	Кликнете на резервираното место и заменете го				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields				0	nb	Trykk på plassholderen og skriv over				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields				0	nl	Op tijdelijke aanduiding klikken en overschrijven				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields				0	nn	Trykk på plasshaldaren og skriv over				2002-02-02 02:02:02
@@ -597,6 +607,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+1				0	ja	会
 wizards	source\template\template.src	0	string	CorrespondenceFields+1				0	km	ក្រុមហ៊ុន				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+1				0	ko	회사				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+1				0	lt	Įstaiga				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+1				0	mk	Компанија				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+1				0	nb	Selskap				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+1				0	nl	Bedrijf				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+1				0	nn	Selskap				2002-02-02 02:02:02
@@ -652,6 +663,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+10				0	ja	�
 wizards	source\template\template.src	0	string	CorrespondenceFields+10				0	km	ឋានៈ				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+10				0	ko	직위				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+10				0	lt	Padėtis				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+10				0	mk	Позиција				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+10				0	nb	Posisjon				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+10				0	nl	Functie				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+10				0	nn	Posisjon				2002-02-02 02:02:02
@@ -707,6 +719,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+11				0	ja	�
 wizards	source\template\template.src	0	string	CorrespondenceFields+11				0	km	សំណុំ​​បែបបទ​របស់​​​​អាសយដ្ឋាន				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+11				0	ko	주소 양식				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+11				0	lt	Adreso forma				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+11				0	mk	Форма на адреса				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+11				0	nb	Adresseskjema				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+11				0	nl	Aanhef				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+11				0	nn	Adresseskjema				2002-02-02 02:02:02
@@ -760,6 +773,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+12				0	ja	�
 wizards	source\template\template.src	0	string	CorrespondenceFields+12				0	km	អាទិសង្កេត				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+12				0	ko	머리글자				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+12				0	lt	Inicialai				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+12				0	mk	Иницијали				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+12				0	nb	Forbokstaver				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+12				0	nl	Initialen				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+12				0	nn	Forbokstavar				2002-02-02 02:02:02
@@ -814,6 +828,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+13				0	ja	�
 wizards	source\template\template.src	0	string	CorrespondenceFields+13				0	km	វន្ទនាការ				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+13				0	ko	인사말				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+13				0	lt	Pasveikinimas				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+13				0	mk	Поздрав				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+13				0	nb	Hilsen				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+13				0	nl	Aanhef				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+13				0	nn	Helsing				2002-02-02 02:02:02
@@ -868,6 +883,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+14				0	ja	�
 wizards	source\template\template.src	0	string	CorrespondenceFields+14				0	km	ទូរស័ព្ទ​​​​ផ្ទះ				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+14				0	ko	집 전화				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+14				0	lt	Namų telefonas				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+14				0	mk	Домашен тел.				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+14				0	nb	Privattelefon				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+14				0	nl	Tel. privé				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+14				0	nn	Privattelefon				2002-02-02 02:02:02
@@ -921,6 +937,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+15				0	ja	�
 wizards	source\template\template.src	0	string	CorrespondenceFields+15				0	km	ទូរស័ព្ទ​​​កន្លែង​​​ធ្វើការ				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+15				0	ko	직장 전화				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+15				0	lt	Darbo telefonas				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+15				0	mk	Тел. на работа				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+15				0	nb	Jobbtelefon				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+15				0	nl	Tel. werk				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+15				0	nn	Jobbtelefon				2002-02-02 02:02:02
@@ -974,6 +991,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+16				0	ja	Fa
 wizards	source\template\template.src	0	string	CorrespondenceFields+16				0	km	ទូរសារ				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+16				0	ko	팩스				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+16				0	lt	Faksas				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+16				0	mk	Факс				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+16				0	nb	Faks				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+16				0	nl	Fax				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+16				0	nn	Faks				2002-02-02 02:02:02
@@ -1028,6 +1046,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+17				0	ja	E-
 wizards	source\template\template.src	0	string	CorrespondenceFields+17				0	km	អ៊ីម៉ែល				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+17				0	ko	전자 메일				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+17				0	lt	El. paštas				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+17				0	mk	Е-пошта				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+17				0	nb	E-post				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+17				0	nl	E-mail				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+17				0	nn	E-post				2002-02-02 02:02:02
@@ -1081,6 +1100,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+18				0	ja	UR
 wizards	source\template\template.src	0	string	CorrespondenceFields+18				0	km	URL				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+18				0	ko	URL				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+18				0	lt	URL adresas				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+18				0	mk	URL				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+18				0	nb	Nettasdresse				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+18				0	nl	~URL				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+18				0	nn	URL				2002-02-02 02:02:02
@@ -1136,6 +1156,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+19				0	ja	�
 wizards	source\template\template.src	0	string	CorrespondenceFields+19				0	km	ចំណាំ				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+19				0	ko	메모				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+19				0	lt	Pastabos				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+19				0	mk	Забелешки				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+19				0	nb	Notater				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+19				0	nl	Notities				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+19				0	nn	Notat				2002-02-02 02:02:02
@@ -1189,6 +1210,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+2				0	ja	部
 wizards	source\template\template.src	0	string	CorrespondenceFields+2				0	km	នាយកដ្ឋាន				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+2				0	ko	부서				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+2				0	lt	Skyrius				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+2				0	mk	Оддел				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+2				0	nb	Avdeling				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+2				0	nl	Afdeling				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+2				0	nn	Avdeling				2002-02-02 02:02:02
@@ -1244,6 +1266,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+20				0	ja	�
 wizards	source\template\template.src	0	string	CorrespondenceFields+20				0	km	Alt. ​វាល ១				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+20				0	ko	Alt. 필드 1				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+20				0	lt	1-as alternatyvus laukas				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+20				0	mk	Алт. поле 1				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+20				0	nb	Alt. felt 1				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+20				0	nl	Alt. veld 1				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+20				0	nn	Alt. felt 1				2002-02-02 02:02:02
@@ -1297,6 +1320,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+21				0	ja	�
 wizards	source\template\template.src	0	string	CorrespondenceFields+21				0	km	Alt. ​វាល ២				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+21				0	ko	Alt. 필드 2				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+21				0	lt	2-as alternatyvus laukas				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+21				0	mk	Алт. поле 2				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+21				0	nb	Alt. felt 2				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+21				0	nl	Alt. veld 2				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+21				0	nn	Alt. felt 2				2002-02-02 02:02:02
@@ -1350,6 +1374,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+22				0	ja	�
 wizards	source\template\template.src	0	string	CorrespondenceFields+22				0	km	Alt. វាល ៣				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+22				0	ko	Alt. 필드 3				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+22				0	lt	3-as alternatyvus laukas				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+22				0	mk	Алт. поле 3				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+22				0	nb	Alt. felt 3				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+22				0	nl	Alt. veld 3				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+22				0	nn	Alt. felt 3				2002-02-02 02:02:02
@@ -1403,6 +1428,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+23				0	ja	�
 wizards	source\template\template.src	0	string	CorrespondenceFields+23				0	km	Alt. ​វាល ៤				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+23				0	ko	Alt. 필드 4				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+23				0	lt	4-as alternatyvus laukas				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+23				0	mk	Алт. поле 4				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+23				0	nb	Alt. felt 4				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+23				0	nl	Alt. veld 4				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+23				0	nn	Alt. felt 4				2002-02-02 02:02:02
@@ -1456,6 +1482,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+24				0	ja	ID
 wizards	source\template\template.src	0	string	CorrespondenceFields+24				0	km	លេខ​សម្គាល់				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+24				0	ko	ID				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+24				0	lt	ID				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+24				0	mk	Ид.				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+24				0	nb	ID				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+24				0	nl	ID				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+24				0	nn	ID				2002-02-02 02:02:02
@@ -1465,7 +1492,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+24				0	pa-IN
 wizards	source\template\template.src	0	string	CorrespondenceFields+24				0	pl	Identyfikator				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+24				0	pt	ID				20040507 14:27:20
 wizards	source\template\template.src	0	string	CorrespondenceFields+24				0	pt-BR	Identidade				2002-02-02 02:02:02
-wizards	source\template\template.src	0	string	CorrespondenceFields+24				0	ru	\nID				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+24				0	ru	ID				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+24				0	rw	ID				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+24				0	sh-YU	IB				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+24				0	sk	ID				2002-02-02 02:02:02
@@ -1489,7 +1516,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+25				0	ar	ا
 wizards	source\template\template.src	0	string	CorrespondenceFields+25				0	be-BY	Адм.адзінка				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+25				0	bg	Щат/област				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+25				0	bs	Stanje				2002-02-02 02:02:02
-wizards	source\template\template.src	0	string	CorrespondenceFields+25				0	ca	Provincia				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+25				0	ca	Província				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+25				0	cs	Stát				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+25				0	cy	Sir/Talaith				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+25				0	da	Delstat				2002-02-02 02:02:02
@@ -1510,6 +1537,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+25				0	ja	�
 wizards	source\template\template.src	0	string	CorrespondenceFields+25				0	km	ស្ថានភាព				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+25				0	ko	상태				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+25				0	lt	Apskritis, rajonas				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+25				0	mk	Земја				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+25				0	nb	Delstat				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+25				0	nl	Provincie				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+25				0	nn	Delstat				2002-02-02 02:02:02
@@ -1565,6 +1593,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+26				0	ja	�
 wizards	source\template\template.src	0	string	CorrespondenceFields+26				0	km	ទូរស័ព្ទ​​ការិយាល័យ				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+26				0	ko	사무실 전화				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+26				0	lt	Raštinės telefonas				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+26				0	mk	Тел. во канцеларија				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+26				0	nb	Kontortelefon				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+26				0	nl	Tel. kantoor				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+26				0	nn	Kontortelefon				2002-02-02 02:02:02
@@ -1618,6 +1647,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+27				0	ja	�
 wizards	source\template\template.src	0	string	CorrespondenceFields+27				0	km	Pager				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+27				0	ko	호출기				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+27				0	lt	Pranešimų gaviklis				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+27				0	mk	Пејџер				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+27				0	nb	Personsøker				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+27				0	nl	Pager				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+27				0	nn	Personsøkjar				2002-02-02 02:02:02
@@ -1655,7 +1685,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+28				0	bs	Mo
 wizards	source\template\template.src	0	string	CorrespondenceFields+28				0	ca	Telf. mòbil				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+28				0	cs	Mobilní telefon				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+28				0	cy	Ffôn Symudol				2002-02-02 02:02:02
-wizards	source\template\template.src	0	string	CorrespondenceFields+28				0	da	Tlf. mobil				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+28				0	da	Mobiltelefon				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+28				0	el	Κινητό τηλέφωνο				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+28				0	en-GB	Mobile Phone				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+28				0	en-ZA	Cellphone				2002-02-02 02:02:02
@@ -1673,6 +1703,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+28				0	ja	�
 wizards	source\template\template.src	0	string	CorrespondenceFields+28				0	km	ទូរស័ព្ទ​​ចល័ត				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+28				0	ko	이동 전화				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+28				0	lt	Mobilusis telefonas				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+28				0	mk	Мобилен тел.				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+28				0	nb	Mobiltelefon				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+28				0	nl	Mobiele telefoon				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+28				0	nn	Mobiltelefon				2002-02-02 02:02:02
@@ -1726,6 +1757,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+29				0	ja	�
 wizards	source\template\template.src	0	string	CorrespondenceFields+29				0	km	​ទូរស័ព្ទ​​ផ្សេងៗ				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+29				0	ko	기타 전화				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+29				0	lt	Kiti telefonai				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+29				0	mk	Друг тел.				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+29				0	nb	Annen telefon				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+29				0	nl	Andere telefoon				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+29				0	nn	Annan telefon				2002-02-02 02:02:02
@@ -1779,6 +1811,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+3				0	ja	名
 wizards	source\template\template.src	0	string	CorrespondenceFields+3				0	km	នាម​ខ្លួន				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+3				0	ko	이름				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+3				0	lt	Vardas				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+3				0	mk	Име				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+3				0	nb	Fornavn				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+3				0	nl	Voornaam				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+3				0	nn	Fornamn				2002-02-02 02:02:02
@@ -1833,6 +1866,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+30				0	ja	�
 wizards	source\template\template.src	0	string	CorrespondenceFields+30				0	km	URL ប្រតិទិន				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+30				0	ko	달력 URL				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+30				0	lt	Kalendoriaus URL				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+30				0	mk	Календар URL				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+30				0	nb	Kalender-adresse				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+30				0	nl	Agenda-URL				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+30				0	nn	Kalender-URL				2002-02-02 02:02:02
@@ -1886,6 +1920,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+31				0	ja	�
 wizards	source\template\template.src	0	string	CorrespondenceFields+31				0	km	អញ្ជើញ				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+31				0	ko	초청				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+31				0	lt	Pakviesti				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+31				0	mk	Покана				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+31				0	nb	Inviter				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+31				0	nl	Uitnodigen				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+31				0	nn	Inviter				2002-02-02 02:02:02
@@ -1940,6 +1975,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+4				0	ja	姓
 wizards	source\template\template.src	0	string	CorrespondenceFields+4				0	km	នាម​ត្រកូល				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+4				0	ko	성				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+4				0	lt	Pavardė				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+4				0	mk	Презиме				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+4				0	nb	Etternavn				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+4				0	nl	Achternaam				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+4				0	nn	Etternamn				2002-02-02 02:02:02
@@ -1994,6 +2030,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+5				0	ja	市
 wizards	source\template\template.src	0	string	CorrespondenceFields+5				0	km	វិថី				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+5				0	ko	주소				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+5				0	lt	Gatvė				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+5				0	mk	Улица				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+5				0	nb	Adresse				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+5				0	nl	Straat				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+5				0	nn	Adresse				2002-02-02 02:02:02
@@ -2048,6 +2085,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+6				0	ja	国
 wizards	source\template\template.src	0	string	CorrespondenceFields+6				0	km	ប្រទេស				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+6				0	ko	국가				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+6				0	lt	Šalis				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+6				0	mk	Земја				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+6				0	nb	Land				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+6				0	nl	Land				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+6				0	nn	Land				2002-02-02 02:02:02
@@ -2103,6 +2141,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+7				0	ja	郵
 wizards	source\template\template.src	0	string	CorrespondenceFields+7				0	km	លេខ​តំបន់/ប្រៃសណីយ៍				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+7				0	ko	우편번호				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+7				0	lt	Pašto kodas				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+7				0	mk	Поштенски код				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+7				0	nb	Postnummer				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+7				0	nl	Postcode				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+7				0	nn	Postnummer				2002-02-02 02:02:02
@@ -2156,6 +2195,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+8				0	ja	都
 wizards	source\template\template.src	0	string	CorrespondenceFields+8				0	km	ទីក្រុង​				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+8				0	ko	구/군/시				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+8				0	lt	Miestas				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+8				0	mk	Град				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+8				0	nb	Poststed				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+8				0	nl	Plaats				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+8				0	nn	Poststad				2002-02-02 02:02:02
@@ -2211,6 +2251,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+9				0	ja	肩
 wizards	source\template\template.src	0	string	CorrespondenceFields+9				0	km	ចំណងជើង				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+9				0	ko	직함				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+9				0	lt	Antraštė				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+9				0	mk	Наслов				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+9				0	nb	Overskrift				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+9				0	nl	Titel				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+9				0	nn	Overskrift				2002-02-02 02:02:02
@@ -2244,7 +2285,7 @@ wizards	source\template\template.src	0	string	CorrespondenceMsgError				0	ar	خ�
 wizards	source\template\template.src	0	string	CorrespondenceMsgError				0	be-BY	Памылка.				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceMsgError				0	bg	Възникна грешка.				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceMsgError				0	bs	Greška				2002-02-02 02:02:02
-wizards	source\template\template.src	0	string	CorrespondenceMsgError				0	ca	Error				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceMsgError				0	ca	S'ha produït un error.				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceMsgError				0	cs	Chyba				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceMsgError				0	cy	Digwyddodd gwall.				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceMsgError				0	da	Der opstod en fejl				2002-02-02 02:02:02
@@ -2265,6 +2306,7 @@ wizards	source\template\template.src	0	string	CorrespondenceMsgError				0	ja	エ
 wizards	source\template\template.src	0	string	CorrespondenceMsgError				0	km	កំហុស​​​មួយ​​​បាន​​កើត​​ឡើង ។				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceMsgError				0	ko	오류가 발생했습니다.				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceMsgError				0	lt	Klaida				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceMsgError				0	mk	Се појави грешка.				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceMsgError				0	nb	Feil				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceMsgError				0	nl	Fout				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceMsgError				0	nn	Feil				2002-02-02 02:02:02
@@ -2318,6 +2360,7 @@ wizards	source\template\template.src	0	string	CorrespondenceNoTextmark				0	ja	�
 wizards	source\template\template.src	0	string	CorrespondenceNoTextmark				0	km	បាត់​​កន្លែង​​ចំណាំ 'អ្នក​ទទួល' ។				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceNoTextmark				0	ko	책갈피'Recipient'가 없습니다.				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceNoTextmark				0	lt	Trūksta žymelės „Gavėjas“.				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceNoTextmark				0	mk	Недостасува обележувачот за 'Примачот'.				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceNoTextmark				0	nb	Bokmerket «Mottaker» mangler.				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceNoTextmark				0	nl	De bladwijzer 'Recipient' ontbreekt.				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceNoTextmark				0	nn	Bokmerket «Mottakar» manglar.				2002-02-02 02:02:02
@@ -2371,6 +2414,7 @@ wizards	source\template\template.src	0	string	CorrespondenceNoTextmark+1				0	ja
 wizards	source\template\template.src	0	string	CorrespondenceNoTextmark+1				0	km	មិន​​​អាច​​​រួម​​​បញ្ចូល​​​វាល​សំបុត្រ​​​​របស់​សំណុំ​​​បែបបទ ។				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceNoTextmark+1				0	ko	편지지 양식 필드를 삽입하지 못했습니다.				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceNoTextmark+1				0	lt	Formos laiško laukų įtraukti negalima.				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceNoTextmark+1				0	mk	Полињата за формуларот на писмото не можат да бидат вклучени.				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceNoTextmark+1				0	nb	Standardbrevfelter kan ikke tas med.				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceNoTextmark+1				0	nl	Er kunnen geen standaardbriefvelden worden ingevoegd.				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceNoTextmark+1				0	nn	Standardbrevfelt kan ikkje inkluderast.				2002-02-02 02:02:02
@@ -2424,6 +2468,7 @@ wizards	source\template\template.src	0	string	Newsletter				0	ja	全般レイア
 wizards	source\template\template.src	0	string	Newsletter				0	km	ប្លង់​​ទូទៅ				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter				0	ko	일반 레이아웃				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter				0	lt	Įprastas maketas				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	Newsletter				0	mk	Општ распоред				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter				0	nb	Generelt sideoppsett				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter				0	nl	Algemene lay-out				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter				0	nn	Generelt sideoppsett				2002-02-02 02:02:02
@@ -2477,6 +2522,7 @@ wizards	source\template\template.src	0	string	Newsletter + 1				0	ja	標準レ�
 wizards	source\template\template.src	0	string	Newsletter + 1				0	km	ប្លង់​​លំនាំដើម				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 1				0	ko	기본 레이아웃				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 1				0	lt	Numatytas maketas				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	Newsletter + 1				0	mk	Стандарден распоред				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 1				0	nb	Standard sideoppsett				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 1				0	nl	Standaard-layout				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 1				0	nn	Standard sideoppsett				2002-02-02 02:02:02
@@ -2530,6 +2576,7 @@ wizards	source\template\template.src	0	string	Newsletter + 10				0	ja	書式				
 wizards	source\template\template.src	0	string	Newsletter + 10				0	km	ទ្រង់ទ្រាយ				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 10				0	ko	서식				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 10				0	lt	Formatas				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	Newsletter + 10				0	mk	Форматирај				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 10				0	nb	Format				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 10				0	nl	Formaat				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 10				0	nn	Format				2002-02-02 02:02:02
@@ -2584,6 +2631,7 @@ wizards	source\template\template.src	0	string	Newsletter + 11				0	ja	1面				20
 wizards	source\template\template.src	0	string	Newsletter + 11				0	km	តែ​មួយ​ខាង				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 11				0	ko	단면				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 11				0	lt	Vienpusis				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	Newsletter + 11				0	mk	Еднострано				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 11				0	nb	Ensidig				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 11				0	nl	Enkelzijdig				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 11				0	nn	Einsidig				2002-02-02 02:02:02
@@ -2637,6 +2685,7 @@ wizards	source\template\template.src	0	string	Newsletter + 12				0	ja	2面				20
 wizards	source\template\template.src	0	string	Newsletter + 12				0	km	សងខាង				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 12				0	ko	양면				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 12				0	lt	Dvipusis				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	Newsletter + 12				0	mk	Двострано				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 12				0	nb	Tosidig				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 12				0	nl	Dubbelzijdig				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 12				0	nn	Tosidig				2002-02-02 02:02:02
@@ -2690,6 +2739,7 @@ wizards	source\template\template.src	0	string	Newsletter + 2				0	ja	記念刊�
 wizards	source\template\template.src	0	string	Newsletter + 2				0	km	ប្លង់​​បោះពុម្ពផ្សាយ​​​​អនុស្សរណៈ				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 2				0	ko	기념 발행물				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 2				0	lt	Memoralinio leidimo maketas				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	Newsletter + 2				0	mk	Распоред на комеморативна публикација				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 2				0	nb	Sideoppsett for minnepublikasjon				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 2				0	nl	Feestelijke lay-out				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 2				0	nn	Sideoppsett for minnepublikasjon				2002-02-02 02:02:02
@@ -2743,6 +2793,7 @@ wizards	source\template\template.src	0	string	Newsletter + 3				0	ja	チラシ�
 wizards	source\template\template.src	0	string	Newsletter + 3				0	km	ប្លង់​​ប័ណ្ណ​​ផ្សាយ​​ពាណិជ្ជកម្ម				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 3				0	ko	브로셔 레이아웃				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 3				0	lt	Brošiūros maketas				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	Newsletter + 3				0	mk	Распоред на брошура				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 3				0	nb	Sideoppsett for brosjyrer				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 3				0	nl	Brochure-layout				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 3				0	nn	Sideoppsett for brosjyrar				2002-02-02 02:02:02
@@ -2796,6 +2847,7 @@ wizards	source\template\template.src	0	string	SAMPLES				0	ja	このサンプル
 wizards	source\template\template.src	0	string	SAMPLES				0	km	ដើម្បី​ប្រើ​មុខងារ​ពេញ​លេញ​របស់​គំរូ​នេះ បង្កើត​ឯកសារ​មួយ​ដោយ​​ពឹង​​ផ្អែក​លើ​ពុម្ព​នេះ ។				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	SAMPLES				0	ko	이 예의 기능성을 완벽하게 이용할 수 있도록 하기 위해서는 이 서식 파일을 기초로 새 문서를 작성해야 합니다.				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	SAMPLES				0	lt	Norėdami naudingai pasinaudoti šiuo pavyzdžiu, sukurkite dokumentą iš šio šablono.				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	SAMPLES				0	mk	За да ја искористите целата функционалност на овој примерок, креирајте документ базиран на овој шаблон.				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	SAMPLES				0	nb	Hvis du vil bruke hele funksjonaliteten av dette eksemplet, må du lage et dokument som er basert på denne malen.				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	SAMPLES				0	nl	Teneinde alle mogelijkheden van dit voorbeeld te kunnen gebruiken, maakt u een nieuw document op basis van deze sjabloon.				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	SAMPLES				0	nn	Dersom du vil bruka heile funksjonaliteten til dette dømet, må du laga eit dokument som er basert på denne malen.				2002-02-02 02:02:02
@@ -2849,6 +2901,7 @@ wizards	source\template\template.src	0	string	SAMPLES + 1				0	ja	指示				2002
 wizards	source\template\template.src	0	string	SAMPLES + 1				0	km	កំណត់​សម្គាល់				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	SAMPLES + 1				0	ko	참고				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	SAMPLES + 1				0	lt	Pastabos				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	SAMPLES + 1				0	mk	Забелешки				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	SAMPLES + 1				0	nb	Kommentarer				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	SAMPLES + 1				0	nl	Tip				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	SAMPLES + 1				0	nn	Kommentarar				2002-02-02 02:02:02
@@ -2902,6 +2955,7 @@ wizards	source\template\template.src	0	string	STYLES				0	ja	テーマの選択	
 wizards	source\template\template.src	0	string	STYLES				0	km	ជម្រើស​រូបរាង				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	STYLES				0	ko	주제 선택				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	STYLES				0	lt	Temos pasirinkimas				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	STYLES				0	mk	Избор на тема				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	STYLES				0	nb	Temavalg				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	STYLES				0	nl	Themaselectie				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	STYLES				0	nn	Temaval				2002-02-02 02:02:02
@@ -2934,7 +2988,7 @@ wizards	source\template\template.src	0	string	STYLES + 1				0	ar	حدث خطأ �
 wizards	source\template\template.src	0	string	STYLES + 1				0	be-BY	Памылка пры запісванні дакументу ў Абменнік! Наступнае дзеянне нельга будзе адкаціць.				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	STYLES + 1				0	bg	Грешка при съхраняване на документа в клипборда! Следното действие не може да бъде отменено.				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	STYLES + 1				0	bs	Greška prilikom pokušaja da se dokument spasi u clipboard! Slijedeći korak se ne može poništiti.				2002-02-02 02:02:02
-wizards	source\template\template.src	0	string	STYLES + 1				0	ca	S'ha produït un error en desar el document actual al porta-retalls! La següent acció no es pot desfer.				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	STYLES + 1				0	ca	S'ha produït un error en desar el document actual al porta-retalls. La següent acció no es pot desfer.				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	STYLES + 1				0	cs	Při ukládání dokumentu do schránky došlo k chybě. Následující akce nemůže být vrácena.				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	STYLES + 1				0	cy	Gwall wrth gadw'r ddogfen i'r clipfwrdd! Nid oes modd dadwneud y weithred ganlynol.				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	STYLES + 1				0	da	Fejl under forsøg på at gemme dokumentet i udklipsholderen! Den følgende handling kan ikke fortrydes.				2002-02-02 02:02:02
@@ -2955,6 +3009,7 @@ wizards	source\template\template.src	0	string	STYLES + 1				0	ja	現在のドキ
 wizards	source\template\template.src	0	string	STYLES + 1				0	km	មាន​កំហុស​ ខណៈ​ពេល​កំពុង​រក្សាទុក​ឯកសារ​ទៅ​ក្តារ​តម្បៀត​ខ្ទាស់ ! អំពើ​ខាង​ក្រោម​មិន​អាច​មិន​ធ្វើ​​វិញបាន​ទេ ។				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	STYLES + 1				0	ko	문서를 클립보드에 저장하는 중 오류가 발생했습니다. 다음 작업을 실행 취소할 수 없습니다.				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	STYLES + 1				0	lt	Įrašant dokumentą į iškarpinę įvyko klaida! Šio veiksmo atšaukti negalima.				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	STYLES + 1				0	mk	Грешка при зачувување на документот во просторот за копирање! Следнаво дејствие не може да биде вратено.				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	STYLES + 1				0	nb	Feil ved lagring av dokumentet til utklippstavla. Følgende handling kan ikke angres.				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	STYLES + 1				0	nl	Fout bij opslaan van document naar het Klembord. De volgende handeling kan niet ongedaan worden gemaakt.				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	STYLES + 1				0	nn	Feil ved lagring av dokumentet til utklippstavla. Følgjande handling kan ikkje angrast.				2002-02-02 02:02:02
@@ -3008,6 +3063,7 @@ wizards	source\template\template.src	0	string	STYLES + 2				0	ja	キャンセル
 wizards	source\template\template.src	0	string	STYLES + 2				0	km	បោះបង់ 				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	STYLES + 2				0	ko	취소(~C)				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	STYLES + 2				0	lt	~Atsisakyti				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	STYLES + 2				0	mk	~Откажи				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	STYLES + 2				0	nb	~Avbryt				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	STYLES + 2				0	nl	~Annuleren				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	STYLES + 2				0	nn	~Avbryt				2002-02-02 02:02:02
@@ -3062,6 +3118,7 @@ wizards	source\template\template.src	0	string	STYLES + 3				0	ja	~OK				2002-02-
 wizards	source\template\template.src	0	string	STYLES + 3				0	km	យល់ព្រម 				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	STYLES + 3				0	ko	확인(~O)				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	STYLES + 3				0	lt	~Gerai				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	STYLES + 3				0	mk	~Во ред				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	STYLES + 3				0	nb	~OK				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	STYLES + 3				0	nl	~OK				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	STYLES + 3				0	nn	~OK				2002-02-02 02:02:02
@@ -3094,7 +3151,7 @@ wizards	source\template\template.src	0	string	TextField				0	ar	لم يتم تع
 wizards	source\template\template.src	0	string	TextField				0	be-BY	Не вызначана поле звестак пра карыстальніка!				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	TextField				0	bg	Полето с потребителските данни не е попълнено!				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	TextField				0	bs	Korisnički podatak nije definisan!				2002-02-02 02:02:02
-wizards	source\template\template.src	0	string	TextField				0	ca	No s'ha definit el camp dades de l'usuari!				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	TextField				0	ca	No s'ha definit el camp dades de l'usuari.				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	TextField				0	cs	Pole s daty uživatele není definováno!				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	TextField				0	cy	Heb ddiffinio maes data defnyddiwr!				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	TextField				0	da	Brugerdatafeltet er ikke defineret!				2002-02-02 02:02:02
@@ -3115,6 +3172,7 @@ wizards	source\template\template.src	0	string	TextField				0	ja	ユーザーデ�
 wizards	source\template\template.src	0	string	TextField				0	km	មិន​​​បាន​​បញ្ជាក់វាល​​ទិន្នន័យរបស់​​​​អ្នក​ប្រើ​ឡើយ !				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	TextField				0	ko	사용자데이터필드가 정의되지 않았습니다.				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	TextField				0	lt	Neaprašytas naudotojo duomenų laukas!				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	TextField				0	mk	Полето за корисничките податоци не е дефинирано!				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	TextField				0	nb	Det er ikke angitt noe brukerdatafelt.				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	TextField				0	nl	Geen veld voor gebruikersgegevens gedefinieerd!				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	TextField				0	nn	Det er ikkje definert noko brukardatafelt.				2002-02-02 02:02:02
