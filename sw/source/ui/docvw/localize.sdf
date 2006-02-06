@@ -13,9 +13,9 @@
 #
 #   $RCSfile: localize.sdf,v $
 #
-#   $Revision: 1.14 $
+#   $Revision: 1.15 $
 #
-#   last change: $Author: obo $ $Date: 2006-01-19 13:26:14 $
+#   last change: $Author: rt $ $Date: 2006-02-06 16:53:53 $
 #
 #   The Contents of this file are made available subject to
 #   the terms of GNU Lesser General Public License Version 2.1.
@@ -196,7 +196,7 @@ sw	source\ui\docvw\access.src	0	string	STR_ACCESS_ENDNOTE_DESC				0	sr-CS	Енд
 sw	source\ui\docvw\access.src	0	string	STR_ACCESS_ENDNOTE_DESC				0	st	Endnote $(ARG1)				2002-02-02 02:02:02
 sw	source\ui\docvw\access.src	0	string	STR_ACCESS_ENDNOTE_DESC				0	sv	Slutnot $(ARG1)				2002-02-02 02:02:02
 sw	source\ui\docvw\access.src	0	string	STR_ACCESS_ENDNOTE_DESC				0	sw-TZ	Tinimwisho $(ARG1)				2002-02-02 02:02:02
-sw	source\ui\docvw\access.src	0	string	STR_ACCESS_ENDNOTE_DESC				0	th	Endnote $(ARG1)				2002-02-02 02:02:02
+sw	source\ui\docvw\access.src	0	string	STR_ACCESS_ENDNOTE_DESC				0	th	การอ้างอิงท้ายเรื่อง $(ARG1)				2002-02-02 02:02:02
 sw	source\ui\docvw\access.src	0	string	STR_ACCESS_ENDNOTE_DESC				0	tr	Sonnot $(ARG1)				2002-02-02 02:02:02
 sw	source\ui\docvw\access.src	0	string	STR_ACCESS_ENDNOTE_DESC				0	ts	Nkatsakanyo wa le makumu wa $(ARG1)				2002-02-02 02:02:02
 sw	source\ui\docvw\access.src	0	string	STR_ACCESS_ENDNOTE_DESC				0	vi	Ghi chú cuối $(ARG1)				2002-02-02 02:02:02
@@ -249,7 +249,7 @@ sw	source\ui\docvw\access.src	0	string	STR_ACCESS_ENDNOTE_NAME				0	sr-CS	Енд
 sw	source\ui\docvw\access.src	0	string	STR_ACCESS_ENDNOTE_NAME				0	st	Endnote $(ARG1)				2002-02-02 02:02:02
 sw	source\ui\docvw\access.src	0	string	STR_ACCESS_ENDNOTE_NAME				0	sv	Slutnot $(ARG1)				2002-02-02 02:02:02
 sw	source\ui\docvw\access.src	0	string	STR_ACCESS_ENDNOTE_NAME				0	sw-TZ	Tinimwisho $(ARG1)				2002-02-02 02:02:02
-sw	source\ui\docvw\access.src	0	string	STR_ACCESS_ENDNOTE_NAME				0	th	Endnote $(ARG1)				2002-02-02 02:02:02
+sw	source\ui\docvw\access.src	0	string	STR_ACCESS_ENDNOTE_NAME				0	th	การอ้างอิงท้ายเรื่อง $(ARG1)				2002-02-02 02:02:02
 sw	source\ui\docvw\access.src	0	string	STR_ACCESS_ENDNOTE_NAME				0	tr	Sonnot $(ARG1)				2002-02-02 02:02:02
 sw	source\ui\docvw\access.src	0	string	STR_ACCESS_ENDNOTE_NAME				0	ts	Nkatsakanyo wa le makumu wa $(ARG1)				2002-02-02 02:02:02
 sw	source\ui\docvw\access.src	0	string	STR_ACCESS_ENDNOTE_NAME				0	vi	Ghi chú cuối $(ARG1)				2002-02-02 02:02:02
@@ -410,7 +410,7 @@ sw	source\ui\docvw\access.src	0	string	STR_ACCESS_FOOTNOTE_DESC				0	sr-CS	Фу�
 sw	source\ui\docvw\access.src	0	string	STR_ACCESS_FOOTNOTE_DESC				0	st	Futenoute $(ARG1)				2002-02-02 02:02:02
 sw	source\ui\docvw\access.src	0	string	STR_ACCESS_FOOTNOTE_DESC				0	sv	Fotnot $(ARG1)				2002-02-02 02:02:02
 sw	source\ui\docvw\access.src	0	string	STR_ACCESS_FOOTNOTE_DESC				0	sw-TZ	Tiniwayo $(ARG1)				2002-02-02 02:02:02
-sw	source\ui\docvw\access.src	0	string	STR_ACCESS_FOOTNOTE_DESC				0	th	Footnote $(ARG1)				2002-02-02 02:02:02
+sw	source\ui\docvw\access.src	0	string	STR_ACCESS_FOOTNOTE_DESC				0	th	เชิงอรรถ $(ARG1)				2002-02-02 02:02:02
 sw	source\ui\docvw\access.src	0	string	STR_ACCESS_FOOTNOTE_DESC				0	tr	Dipnot $(ARG1)				2002-02-02 02:02:02
 sw	source\ui\docvw\access.src	0	string	STR_ACCESS_FOOTNOTE_DESC				0	ts	Vuxokoxoko byo engetela emakumu ya pheji bya $(ARG1)				2002-02-02 02:02:02
 sw	source\ui\docvw\access.src	0	string	STR_ACCESS_FOOTNOTE_DESC				0	vi	Ghi chú chân $(ARG1)				2002-02-02 02:02:02
@@ -463,7 +463,7 @@ sw	source\ui\docvw\access.src	0	string	STR_ACCESS_FOOTNOTE_NAME				0	sr-CS	Фу�
 sw	source\ui\docvw\access.src	0	string	STR_ACCESS_FOOTNOTE_NAME				0	st	Futenoute $(ARG1)				2002-02-02 02:02:02
 sw	source\ui\docvw\access.src	0	string	STR_ACCESS_FOOTNOTE_NAME				0	sv	Fotnot $(ARG1)				2002-02-02 02:02:02
 sw	source\ui\docvw\access.src	0	string	STR_ACCESS_FOOTNOTE_NAME				0	sw-TZ	Tiniwayo $(ARG1)				2002-02-02 02:02:02
-sw	source\ui\docvw\access.src	0	string	STR_ACCESS_FOOTNOTE_NAME				0	th	Footnote $(ARG1)				2002-02-02 02:02:02
+sw	source\ui\docvw\access.src	0	string	STR_ACCESS_FOOTNOTE_NAME				0	th	เชิงอรรถ $(ARG1)				2002-02-02 02:02:02
 sw	source\ui\docvw\access.src	0	string	STR_ACCESS_FOOTNOTE_NAME				0	tr	Dipnot $(ARG1)				2002-02-02 02:02:02
 sw	source\ui\docvw\access.src	0	string	STR_ACCESS_FOOTNOTE_NAME				0	ts	Vuxokoxoko byo engetela emakumu ya pheji bya $(ARG1)				2002-02-02 02:02:02
 sw	source\ui\docvw\access.src	0	string	STR_ACCESS_FOOTNOTE_NAME				0	vi	Ghi chú chân $(ARG1)				2002-02-02 02:02:02
@@ -1665,15 +1665,26 @@ sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_PLUGINOFF	
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_PLUGINOFF	HID_MN_READONLY_PLUGINOFF		0	da	Sluk plug-ins				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_PLUGINOFF	HID_MN_READONLY_PLUGINOFF		0	el	Απενεργοποίηση συνδεόμενων υ~πομονάδων				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_PLUGINOFF	HID_MN_READONLY_PLUGINOFF		0	en-GB	Plug-ins Off				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_PLUGINOFF	HID_MN_READONLY_PLUGINOFF		0	es	Complementos desactivados				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_PLUGINOFF	HID_MN_READONLY_PLUGINOFF		0	fr	Désactiver les plug-ins				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_PLUGINOFF	HID_MN_READONLY_PLUGINOFF		0	hu	Bővítőmodulok ki				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_PLUGINOFF	HID_MN_READONLY_PLUGINOFF		0	it	Disattiva plugin				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_PLUGINOFF	HID_MN_READONLY_PLUGINOFF		0	ja	プラグインオフ				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_PLUGINOFF	HID_MN_READONLY_PLUGINOFF		0	km	បិទ កម្មវិធី​ជំនួយ​ខាង​ក្នុង				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_PLUGINOFF	HID_MN_READONLY_PLUGINOFF		0	ko	플러그인 적용 해제				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_PLUGINOFF	HID_MN_READONLY_PLUGINOFF		0	lt	Intarpai išjungti				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_PLUGINOFF	HID_MN_READONLY_PLUGINOFF		0	mk	Приклучоци исклучени				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_PLUGINOFF	HID_MN_READONLY_PLUGINOFF		0	nb	Slå av programtillegg				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_PLUGINOFF	HID_MN_READONLY_PLUGINOFF		0	nl	Invoegtoepassingen uitschakelen				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_PLUGINOFF	HID_MN_READONLY_PLUGINOFF		0	nn	Slå av programtillegg				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_PLUGINOFF	HID_MN_READONLY_PLUGINOFF		0	pt-BR	Plug-ins desativados				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_PLUGINOFF	HID_MN_READONLY_PLUGINOFF		0	ru	Выключить подключаемые модули				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_PLUGINOFF	HID_MN_READONLY_PLUGINOFF		0	sk	Zásuvné moduly vypnuté				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_PLUGINOFF	HID_MN_READONLY_PLUGINOFF		0	sl	Izključi vtičnike				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_PLUGINOFF	HID_MN_READONLY_PLUGINOFF		0	sv	Plug-ins Av				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_PLUGINOFF	HID_MN_READONLY_PLUGINOFF		0	tr	Eklentiler Kapalı				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_PLUGINOFF	HID_MN_READONLY_PLUGINOFF		0	zh-CN	不使用 Plug-In				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_PLUGINOFF	HID_MN_READONLY_PLUGINOFF		0	zh-TW	關閉 PlugIn				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_PLUGINOFF	HID_MN_READONLY_PLUGINOFF	defined WNT	0	af	Inproppe af				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_PLUGINOFF	HID_MN_READONLY_PLUGINOFF	defined WNT	0	ar	إيقاف Plug-Ins				20040507 14:26:29
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_PLUGINOFF	HID_MN_READONLY_PLUGINOFF	defined WNT	0	be-BY	Без плугінаў				2002-02-02 02:02:02
@@ -1988,7 +1999,7 @@ sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_SELECTION_
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_SELECTION_MODE	FN_READONLY_SELECTION_MODE		0	st	Kgetha Temana				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_SELECTION_MODE	FN_READONLY_SELECTION_MODE		0	sv	Markera text				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_SELECTION_MODE	FN_READONLY_SELECTION_MODE		0	sw-TZ	Teua Matini				2002-02-02 02:02:02
-sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_SELECTION_MODE	FN_READONLY_SELECTION_MODE		0	th	Select Text				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_SELECTION_MODE	FN_READONLY_SELECTION_MODE		0	th	เลือกข้อความ				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_SELECTION_MODE	FN_READONLY_SELECTION_MODE		0	tn	Kgetha Boleng				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_SELECTION_MODE	FN_READONLY_SELECTION_MODE		0	tr	Metin Seç				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_SELECTION_MODE	FN_READONLY_SELECTION_MODE		0	ts	Hlawula xitsariwa				2002-02-02 02:02:02
