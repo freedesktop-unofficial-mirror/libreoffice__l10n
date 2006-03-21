@@ -13,9 +13,9 @@
 #
 #   $RCSfile: localize.sdf,v $
 #
-#   $Revision: 1.20 $
+#   $Revision: 1.21 $
 #
-#   last change: $Author: rt $ $Date: 2006-02-06 19:19:41 $
+#   last change: $Author: obo $ $Date: 2006-03-21 21:39:11 $
 #
 #   The Contents of this file are made available subject to
 #   the terms of GNU Lesser General Public License Version 2.1.
@@ -1581,7 +1581,7 @@ sfx2	source\doc\doc.src	0	string	RID_STR_WARNSTYLEOVERWRITE				0	nn	Vil du byta 
 sfx2	source\doc\doc.src	0	string	RID_STR_WARNSTYLEOVERWRITE				0	nr	Ufuna iNdlela ye-"$(ARG1)" ijanyiselelwe ngokhunye?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	RID_STR_WARNSTYLEOVERWRITE				0	ns	A "$(ARG1)" Setaele se fetolwe?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	RID_STR_WARNSTYLEOVERWRITE				0	pa-IN	ਕੀ "$(ARG1)" ਸ਼ੈਲੀ ਤਬਦੀਲ ਕਰਨੀ ਹੈ?				2002-02-02 02:02:02
-sfx2	source\doc\doc.src	0	string	RID_STR_WARNSTYLEOVERWRITE				0	pl	Czy zastąpić styl „$(ARG1)”?				2002-02-02 02:02:02
+sfx2	source\doc\doc.src	0	string	RID_STR_WARNSTYLEOVERWRITE				0	pl	Czy zastąpić styl "$(ARG1)"?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	RID_STR_WARNSTYLEOVERWRITE				0	pt	Deseja substituir o estilo "$(ARG1)"?				20040507 14:25:1
 sfx2	source\doc\doc.src	0	string	RID_STR_WARNSTYLEOVERWRITE				0	pt-BR	Deseja substituir o Estilo $(ARG1)?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	RID_STR_WARNSTYLEOVERWRITE				0	ru	Заменить стиль "$(ARG1)"?				2002-02-02 02:02:02
@@ -1962,7 +1962,7 @@ sfx2	source\doc\doc.src	0	string	STR_DELETE_REGION				0	nn	Er sikker på at du v
 sfx2	source\doc\doc.src	0	string	STR_DELETE_REGION				0	nr	Uqinisekile ufuna ukusula irijin"$1"?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_DELETE_REGION				0	ns	A o kgonthiša gore o nyaka go phumula tikologo "$1"?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_DELETE_REGION				0	pa-IN	ਕੀ ਤੁਸੀ ਖੇਤਰ"$1" ਨੂੰ ਹਟਾਉਣ ਦੀ ਪੁਸ਼ਟੀ ਕਰਦੇ ਹੋ?				2002-02-02 02:02:02
-sfx2	source\doc\doc.src	0	string	STR_DELETE_REGION				0	pl	Czy na pewno chcesz usunąć obszar „$1”?				2002-02-02 02:02:02
+sfx2	source\doc\doc.src	0	string	STR_DELETE_REGION				0	pl	Czy na pewno chcesz usunąć obszar "$1"?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_DELETE_REGION				0	pt	Eliminar realmente a categoria "$1"?				20040507 14:25:1
 sfx2	source\doc\doc.src	0	string	STR_DELETE_REGION				0	pt-BR	Tem certeza de que deseja excluir a região "$1"?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_DELETE_REGION				0	ru	Удалить область "$1"?				2002-02-02 02:02:02
@@ -2016,7 +2016,7 @@ sfx2	source\doc\doc.src	0	string	STR_DELETE_TEMPLATE				0	nn	Er du sikker på at
 sfx2	source\doc\doc.src	0	string	STR_DELETE_TEMPLATE				0	nr	Uqinisile ufuna ukusula umfakwa "$1"?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_DELETE_TEMPLATE				0	ns	A o kgonthiša gore o nyaka go phumula tseno "$1"?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_DELETE_TEMPLATE				0	pa-IN	ਕੀ ਤੁਸੀਂ ਇੰਦਰਾਜ਼ "$1" ਨੂੰ ਹਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?				2002-02-02 02:02:02
-sfx2	source\doc\doc.src	0	string	STR_DELETE_TEMPLATE				0	pl	Czy na pewno chcesz usunąć wpis „$1”?				2002-02-02 02:02:02
+sfx2	source\doc\doc.src	0	string	STR_DELETE_TEMPLATE				0	pl	Czy na pewno chcesz usunąć wpis "$1"?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_DELETE_TEMPLATE				0	pt	Deseja realmente eliminar a entrada "$1"?				20040507 14:25:1
 sfx2	source\doc\doc.src	0	string	STR_DELETE_TEMPLATE				0	pt-BR	Tem certeza de que deseja excluir a entrada "$1"?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_DELETE_TEMPLATE				0	ru	Удалить элемент "$1"?				2002-02-02 02:02:02
@@ -2611,7 +2611,7 @@ sfx2	source\doc\doc.src	0	string	STR_ERROR_COPY_TEMPLATE				0	nn	Feil ved kopier
 sfx2	source\doc\doc.src	0	string	STR_ERROR_COPY_TEMPLATE				0	nr	Iphoso ekukopeni ithempheyithi"$1". \nIthempleyithi enegameli kungenzeka sele ikhona.				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_ERROR_COPY_TEMPLATE				0	ns	Phošo ya go kopiša thempoleiti ya "$1". \nThempoleiti yeo e nago le leina le e ka ba e šetše e le gona.				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_ERROR_COPY_TEMPLATE				0	pa-IN	ਨਮੂਨਾ "$1" ਨਕਲ ਕਰਨ ਦੌਰਾਨ ਗਲਤੀ ਹੈ।\nਇਸ ਨਾਂ ਨਾਲ ਨਮੂਨਾ ਪਹਿਲਾਂ ਹੀ ਮੌਜੂਦ ਹੈ।				2002-02-02 02:02:02
-sfx2	source\doc\doc.src	0	string	STR_ERROR_COPY_TEMPLATE				0	pl	Błąd kopiowania szablonu „$1”.\nByć może szablon o tej nazwie już istnieje.				2002-02-02 02:02:02
+sfx2	source\doc\doc.src	0	string	STR_ERROR_COPY_TEMPLATE				0	pl	Błąd kopiowania szablonu "$1".\nByć może szablon o tej nazwie już istnieje.				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_ERROR_COPY_TEMPLATE				0	pt	Erro ao copiar o modelo "$1".\nÉ possível que já exista.				20040507 14:25:1
 sfx2	source\doc\doc.src	0	string	STR_ERROR_COPY_TEMPLATE				0	pt-BR	Erro ao copiar modelo "$1".\nÉ possível que já exista um modelo com este nome.				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_ERROR_COPY_TEMPLATE				0	ru	Ошибка копирования шаблона "$1".\nВероятно, шаблон с таким именем уже существует.				2002-02-02 02:02:02
@@ -2664,7 +2664,7 @@ sfx2	source\doc\doc.src	0	string	STR_ERROR_DELETE_TEMPLATE				0	nn	Malen «$1» 
 sfx2	source\doc\doc.src	0	string	STR_ERROR_DELETE_TEMPLATE				0	nr	Ithempleyithi "$1" ayisuleki.				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_ERROR_DELETE_TEMPLATE				0	ns	Thempoleiti "$1" ga e kgone go phumulwa.				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_ERROR_DELETE_TEMPLATE				0	pa-IN	ਨਮੂਨਾ "$1" ਹਟਾਇਆ ਨਹੀਂ ਜਾ ਸਕਦਾ ਹੈ।				2002-02-02 02:02:02
-sfx2	source\doc\doc.src	0	string	STR_ERROR_DELETE_TEMPLATE				0	pl	Szablonu „$1” nie można usunąć.				2002-02-02 02:02:02
+sfx2	source\doc\doc.src	0	string	STR_ERROR_DELETE_TEMPLATE				0	pl	Szablonu "$1" nie można usunąć.				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_ERROR_DELETE_TEMPLATE				0	pt	Impossível eliminar o modelo "$1".				20040507 14:25:1
 sfx2	source\doc\doc.src	0	string	STR_ERROR_DELETE_TEMPLATE				0	pt-BR	Não é possível excluir o modelo "$1".				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_ERROR_DELETE_TEMPLATE				0	ru	Невозможно удалить шаблон "$1".				2002-02-02 02:02:02
@@ -2718,7 +2718,7 @@ sfx2	source\doc\doc.src	0	string	STR_ERROR_MOVE_TEMPLATE				0	nn	Feil ved flytti
 sfx2	source\doc\doc.src	0	string	STR_ERROR_MOVE_TEMPLATE				0	nr	Iphoso ekususeni ithempelyithi "$1".				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_ERROR_MOVE_TEMPLATE				0	ns	Phošo ge go šuthišwa thempoleiti "$1".				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_ERROR_MOVE_TEMPLATE				0	pa-IN	ਨਮੂਨਾ "$1" ਹਿਲਾਉਣਾ ਦੌਰਾਨ ਗਲਤੀ ਹੈ।				2002-02-02 02:02:02
-sfx2	source\doc\doc.src	0	string	STR_ERROR_MOVE_TEMPLATE				0	pl	Błąd przenoszenia szablonu „$1”.				2002-02-02 02:02:02
+sfx2	source\doc\doc.src	0	string	STR_ERROR_MOVE_TEMPLATE				0	pl	Błąd przenoszenia szablonu "$1".				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_ERROR_MOVE_TEMPLATE				0	pt	Erro ao mover o modelo "$1".				20040507 14:25:1
 sfx2	source\doc\doc.src	0	string	STR_ERROR_MOVE_TEMPLATE				0	pt-BR	Erro ao mover o modelo "$1".				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_ERROR_MOVE_TEMPLATE				0	ru	Ошибка перемещения шаблона "$1".				2002-02-02 02:02:02
@@ -4275,7 +4275,7 @@ sfx2	source\doc\doc.src	0	string	STR_QUERY_DEFAULT_TEMPLATE				0	nn	Vil du bruka
 sfx2	source\doc\doc.src	0	string	STR_QUERY_DEFAULT_TEMPLATE				0	nr	Ufuna ithempleyithi "$(TEXT)" ibe ngesele ikhethwe lihlelo?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_QUERY_DEFAULT_TEMPLATE				0	ns	A thempoleiti "$(TEXT)" di be thempoleit ya tlhaelo?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_QUERY_DEFAULT_TEMPLATE				0	pa-IN	ਕੀ ਨਮੂਨਾ "$(TEXT)" ਮੂਲ ਨਮੂਨਾ ਬਣਾਉਣਾ ਹੈ?				2002-02-02 02:02:02
-sfx2	source\doc\doc.src	0	string	STR_QUERY_DEFAULT_TEMPLATE				0	pl	Czy szablon „$(TEXT)” ma się stać szablonem domyślnym?				2002-02-02 02:02:02
+sfx2	source\doc\doc.src	0	string	STR_QUERY_DEFAULT_TEMPLATE				0	pl	Czy szablon "$(TEXT)" ma się stać szablonem domyślnym?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_QUERY_DEFAULT_TEMPLATE				0	pt	Deseja usar o modelo "$(TEXTO)" como modelo padrão?				20040507 14:25:1
 sfx2	source\doc\doc.src	0	string	STR_QUERY_DEFAULT_TEMPLATE				0	pt-BR	Deseja definir o modelo "$(TEXT)" como padrão?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_QUERY_DEFAULT_TEMPLATE				0	ru	Сделать шаблон "$(TEXT)" стандартным?				2002-02-02 02:02:02
@@ -4435,7 +4435,7 @@ sfx2	source\doc\doc.src	0	string	STR_QUERY_SAVE_DOCUMENT				0	nn	Dokumentet «$(
 sfx2	source\doc\doc.src	0	string	STR_QUERY_SAVE_DOCUMENT				0	nr	Umtlolo we "$(DOC)" utjhugululiwe.\nUfuna ukubulunga amatjhuguluko?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_QUERY_SAVE_DOCUMENT				0	ns	Tokumente ya "$(DOC)" e mpshafaditšwe.\nNa o nyaka go boloka diphetogo tša gago?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_QUERY_SAVE_DOCUMENT				0	pa-IN	ਦਸਤਾਵੇਜ਼ "$(DOC)" ਸੋਧਿਆ ਗਿਆ ਹੈ।\nਕੀ ਤੁਸੀਂ ਆਪਣੀ ਤਬਦੀਲੀਆਂ ਨੂੰ ਸੰਭਾਲਣਾ ਚਾਹੁੰਦੇ ਹੋ?				2002-02-02 02:02:02
-sfx2	source\doc\doc.src	0	string	STR_QUERY_SAVE_DOCUMENT				0	pl	Zmodyfikowano dokument „$(DOC)”.\nCzy zapisać zmiany?				2002-02-02 02:02:02
+sfx2	source\doc\doc.src	0	string	STR_QUERY_SAVE_DOCUMENT				0	pl	Zmodyfikowano dokument "$(DOC)".\nCzy zapisać zmiany?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_QUERY_SAVE_DOCUMENT				0	pt	O documento "$(DOC)" foi modificado.\nGuardar modificações?				20040507 14:25:1
 sfx2	source\doc\doc.src	0	string	STR_QUERY_SAVE_DOCUMENT				0	pt-BR	O documento '$(DOC)' foi alterado.\nDeseja salvar as alterações?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_QUERY_SAVE_DOCUMENT				0	ru	Документ '$(DOC)' изменен.\nСохранить изменения?				2002-02-02 02:02:02
@@ -4763,7 +4763,7 @@ sfx2	source\doc\doc.src	0	string	STR_TEMPL_MOVED				0	nn	Fann ikkje malen «$(TE
 sfx2	source\doc\doc.src	0	string	STR_TEMPL_MOVED				0	nr	Ithempleyiti "$(TEMPLATE)" alikatholakali endaweni yokuthoma. Ithempleyiti elinegama elifanako likhona ku"$(FOUND)". Ingasetjenziswa na lethempleyiti ngomuso nakumadaniswako?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_TEMPL_MOVED				0	ns	Thempoleiti "$(TEMPLATE)" ga se ya hwetšwa mo lefelong la tlhago. Thempoleiti ya leina la go swana le ye e gona mo go "$(FOUND)". A thempoleiti ye e šomišwe mo nakong ye e tlago ge go bapetšwa?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_TEMPL_MOVED				0	pa-IN	ਨਮੂਨਾ "$(TEMPLATE)" ਇਸ ਦੇ ਅਸਲੀ ਟਿਕਾਣੇ ਤੇ ਨਹੀਂ ਲੱਭਿਆ ਹੈ। ਇਸ ਨਾਂ ਨਾਲ ਨਮੂਨਾ "$(FOUND)" ਤੇ ਲੱਭਿਆ ਹੈ। ਕੀ ਇਸ ਨਮੂਨੇ ਨੂੰ ਭਵਿੱਖ ਵਿੱਚ ਤੁਲਨਾ ਕਰਨ ਦੌਰਾਨ ਵਰਤਿਆ ਜਾਵੇ?				2002-02-02 02:02:02
-sfx2	source\doc\doc.src	0	string	STR_TEMPL_MOVED				0	pl	Nie znaleziono szablonu „$(TEMPLATE)” w jego pierwotnym miejscu. Szablon o tej samej nazwie istnieje w „$(FOUND)”. Czy w przyszłości użyć tego szablonu przy porównywaniu?				2002-02-02 02:02:02
+sfx2	source\doc\doc.src	0	string	STR_TEMPL_MOVED				0	pl	Nie znaleziono szablonu "$(TEMPLATE)" w jego pierwotnym miejscu. Szablon o tej samej nazwie istnieje w "$(FOUND)". Czy w przyszłości użyć tego szablonu przy porównywaniu?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_TEMPL_MOVED				0	pt	O modelo "$(TEMPLATE)" não foi encontrado no seu lugar original. Já existe um modelo com o mesmo nome em "$(FOUND)". Deseja usar este modelo para actualizações futuras?				20040507 14:25:1
 sfx2	source\doc\doc.src	0	string	STR_TEMPL_MOVED				0	pt-BR	O modelo "$(TEMPLATE)" não foi encontrado no local original. Existe um modelo com o mesmo nome em "$(FOUND)". Deseja utilizar este modelo em ocasiões futuras durante comparação?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_TEMPL_MOVED				0	ru	Шаблон "$(TEMPLATE)" не найден в исходном месте. Шаблон с таким же именем находится в "$(FOUND)". Использовать этот шаблон в будущем для сравнения?				2002-02-02 02:02:02
@@ -4817,7 +4817,7 @@ sfx2	source\doc\doc.src	0	string	STR_TEMPL_RESET				0	nn	Fann ikkje malen «$(TE
 sfx2	source\doc\doc.src	0	string	STR_TEMPL_RESET				0	nr	Ithempleyiti "$(TEMPLATE)" alitholakali. Ufuna ithempleyiti lizunywe sikhathini esizako nakuvulwa umtlolo?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_TEMPL_RESET				0	ns	Thempoleiti "$(TEMPLATE)" ga se ya hwetšwa. A thempoleiti e lebelelwe mo nakong ye e tlago ge tokomane e bulwa?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_TEMPL_RESET				0	pa-IN	ਨਮੂਨਾ "$(TEMPLATE)" ਲੱਭਿਆ ਨਹੀਂ ਜਾ ਸਕਿਆ ਹੈ। ਕੀ ਨਮੂਨੇ ਨੂੰ ਦਸਤਾਵੇਜ਼ ਦੇ ਅਗਲੀ ਵਾਰ ਖੋਲਣ ਤੇ ਖੋਜਿਆ ਜਾਵੇ?				2002-02-02 02:02:02
-sfx2	source\doc\doc.src	0	string	STR_TEMPL_RESET				0	pl	Nie znaleziono szablonu „$(TEMPLATE)”. Czy szukać go przy następnym otwieraniu dokumentu?				2002-02-02 02:02:02
+sfx2	source\doc\doc.src	0	string	STR_TEMPL_RESET				0	pl	Nie znaleziono szablonu "$(TEMPLATE)". Czy szukać go przy następnym otwieraniu dokumentu?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_TEMPL_RESET				0	pt	O modelo "$(TEMPLATE)" não foi encontrado. Deseja continuar a procura quando abrir o documento novamente?				20040507 14:25:1
 sfx2	source\doc\doc.src	0	string	STR_TEMPL_RESET				0	pt-BR	O modelo "$(TEMPLATE)" não foi encontrado. Deseja que este modelo seja procurado na próxima vez em que este documento for aberto ?				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_TEMPL_RESET				0	ru	Шаблон "$(TEMPLATE)" не найден. Искать его в следующий раз при открытии документа?				2002-02-02 02:02:02
