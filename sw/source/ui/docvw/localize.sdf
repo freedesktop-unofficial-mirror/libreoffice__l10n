@@ -13,9 +13,9 @@
 #
 #   $RCSfile: localize.sdf,v $
 #
-#   $Revision: 1.15 $
+#   $Revision: 1.16 $
 #
-#   last change: $Author: rt $ $Date: 2006-02-06 16:53:53 $
+#   last change: $Author: rt $ $Date: 2006-05-09 09:35:14 $
 #
 #   The Contents of this file are made available subject to
 #   the terms of GNU Lesser General Public License Version 2.1.
@@ -814,7 +814,7 @@ sw	source\ui\docvw\access.src	0	string	STR_ACCESS_PARAGRAPH_DESC				0	nl	Paragra
 sw	source\ui\docvw\access.src	0	string	STR_ACCESS_PARAGRAPH_DESC				0	pl	Paragraph: $(ARG1)				20040507 14:26:28
 sw	source\ui\docvw\access.src	0	string	STR_ACCESS_PARAGRAPH_DESC				0	pt	Paragraph: $(ARG1)				20040507 14:26:28
 sw	source\ui\docvw\access.src	0	string	STR_ACCESS_PARAGRAPH_DESC				0	pt-BR	Parágrafo: $(ARG1) 				2002-02-02 02:02:02
-sw	source\ui\docvw\access.src	0	string	STR_ACCESS_PARAGRAPH_DESC				0	ru	Paragraph: $(ARG1)				20040507 14:26:28
+sw	source\ui\docvw\access.src	0	string	STR_ACCESS_PARAGRAPH_DESC				0	ru	Paragraph: $(ARG1)				2002-02-02 02:02:02
 sw	source\ui\docvw\access.src	0	string	STR_ACCESS_PARAGRAPH_DESC				0	sk	Odstavec: $(ARG1) 				2002-02-02 02:02:02
 sw	source\ui\docvw\access.src	0	string	STR_ACCESS_PARAGRAPH_DESC				0	sl	Odstavek: $(ARG1) 				20040507 14:26:28
 sw	source\ui\docvw\access.src	0	string	STR_ACCESS_PARAGRAPH_DESC				0	sv	Stycke: $(ARG1) 				2002-02-02 02:02:02
@@ -1677,6 +1677,7 @@ sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_PLUGINOFF	
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_PLUGINOFF	HID_MN_READONLY_PLUGINOFF		0	nb	Slå av programtillegg				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_PLUGINOFF	HID_MN_READONLY_PLUGINOFF		0	nl	Invoegtoepassingen uitschakelen				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_PLUGINOFF	HID_MN_READONLY_PLUGINOFF		0	nn	Slå av programtillegg				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_PLUGINOFF	HID_MN_READONLY_PLUGINOFF		0	pl	Wyłącz wtyczki				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_PLUGINOFF	HID_MN_READONLY_PLUGINOFF		0	pt-BR	Plug-ins desativados				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_PLUGINOFF	HID_MN_READONLY_PLUGINOFF		0	ru	Выключить подключаемые модули				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_PLUGINOFF	HID_MN_READONLY_PLUGINOFF		0	sk	Zásuvné moduly vypnuté				2002-02-02 02:02:02
