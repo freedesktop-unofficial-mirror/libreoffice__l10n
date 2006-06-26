@@ -13,9 +13,9 @@
 #
 #   $RCSfile: localize.sdf,v $
 #
-#   $Revision: 1.19 $
+#   $Revision: 1.20 $
 #
-#   last change: $Author: hr $ $Date: 2006-05-10 20:14:01 $
+#   last change: $Author: ihi $ $Date: 2006-06-26 15:11:47 $
 #
 #   The Contents of this file are made available subject to
 #   the terms of GNU Lesser General Public License Version 2.1.
@@ -108,7 +108,7 @@ dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_TBL_TITLE				0	ns	Tafola
 dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_TBL_TITLE				0	or-IN	ଟେବୁଲ #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_TBL_TITLE				0	pa-IN	ਸਾਰਣੀ #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_TBL_TITLE				0	pl	Tabela #				2002-02-02 02:02:02
-dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_TBL_TITLE				0	pt	Tabela #				20040507 14:21:28
+dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_TBL_TITLE				0	pt	Tabela #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_TBL_TITLE				0	pt-BR	Tabela #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_TBL_TITLE				0	ru	Таблица #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_TBL_TITLE				0	rw	imbonerahamwe #				2002-02-02 02:02:02
@@ -171,7 +171,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DS
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	or-IN	ତଥ୍ଯସଂଚଯ ଫାଇଲ ସଂପାଦନ				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	pa-IN	ਡਾਟਾਬੇਸ ਫਾਇਲ ਸੋਧ(~D)...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	pl	Edytuj plik bazy ~danych...				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	pt	A~dministrar fontes de dados...				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	pt	A~dministrar fontes de dados...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	pt-BR	Editar arquivo de ~banco de dados...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	ru	~Управление источниками данных...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	rw	Guhindura Idosiye y'Ububikoshingiro...				2002-02-02 02:02:02
@@ -233,7 +233,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_CLOSECONN		HID_BROWSER_CLOSE
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_CLOSECONN		HID_BROWSER_CLOSECONN		0	or-IN	ଅସଂୟୁକ୍ତ				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_CLOSECONN		HID_BROWSER_CLOSECONN		0	pa-IN	ਸੰਬੰਧ ਬੰਦ(~n)				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_CLOSECONN		HID_BROWSER_CLOSECONN		0	pl	~Rozłącz				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_CLOSECONN		HID_BROWSER_CLOSECONN		0	pt	~Desligar				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_CLOSECONN		HID_BROWSER_CLOSECONN		0	pt	~Desligar				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_CLOSECONN		HID_BROWSER_CLOSECONN		0	pt-BR	Desco~nectar				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_CLOSECONN		HID_BROWSER_CLOSECONN		0	ru	Отключить				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_CLOSECONN		HID_BROWSER_CLOSECONN		0	rw	Gucomora				2002-02-02 02:02:02
@@ -324,7 +324,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REF
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REFRESHCONN		0	or-IN	ରିଫ୍ରେସ ସଂୟୁକ୍ତ 				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REFRESHCONN		0	pa-IN	ਸੰਬੰਧ ਤਾਜ਼ਾ(~R)				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REFRESHCONN		0	pl	~Odśwież połączenie				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REFRESHCONN		0	pt	~Actualizar ligação				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REFRESHCONN		0	pt	~Actualizar ligação				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REFRESHCONN		0	pt-BR	Atualiza~r  Conexão				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REFRESHCONN		0	ru	~Обновить соединение				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REFRESHCONN		0	rw	Ongera Ugerageze Kwihuza				2002-02-02 02:02:02
@@ -495,6 +495,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	menuitem	RID_MENU_REFRESH_DATA	ID_BROWSE
 dbaccess	source\ui\browser\sbabrw.src	0	menuitem	RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	or-IN	ପୁନଃନିର୍ମାଣ				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	menuitem	RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	pa-IN	ਮੁੜ ਬਣਾਉ				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	menuitem	RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	pl	Odbuduj				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	pt	Reconstruir				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	menuitem	RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	pt-BR	Reconstruir				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	menuitem	RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	ru	Перечитать				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	menuitem	RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	rw	Kubaka bushya				2002-02-02 02:02:02
@@ -611,6 +612,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_QUERY_CONFIRM	
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_QUERY_CONFIRM				0	or-IN	ପ୍ରଶ୍ନଗୁଡିକ ପୂର୍ବରୁ ଅଛି୤ ତୁମେ ବିଲୋପକରିବାକୁ ଚାହୁଁଚ କି?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_QUERY_CONFIRM				0	pa-IN	ਕਿਊਰੀ ਪਹਿਲਾਂ ਹੀ ਮੌਜੂਦ ਹੈ। ਕੀ ਤੁਸੀਂ ਇਸ ਨੂੰ ਹਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_QUERY_CONFIRM				0	pl	Kwerenda już istnieje. Czy ją usunąć?				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_QUERY_CONFIRM				0	pt	A consulta já existe. Deseja apagá-la?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_QUERY_CONFIRM				0	pt-BR	A consulta já existe. Deseja excluí-la?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_QUERY_CONFIRM				0	ru	Этот запрос уже существует. Удалить его?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_QUERY_CONFIRM				0	rw	Ikibazo gisanzwemo. Urashaka kugisiba?				2002-02-02 02:02:02
@@ -674,7 +676,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_ROWS				0	ns	N
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_ROWS				0	or-IN	ତୁମେ ମନୋନିତ ତଥ୍ଯ ବିଲୋପ କରିବାକୁ ଚାହୁଁଚ କି?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_ROWS				0	pa-IN	ਕੀ ਤੁਸੀਂ ਚੁਣੇ ਡਾਟੇ ਨੂੰ ਹਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_ROWS				0	pl	Czy chcesz usunąć zaznaczone dane?				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_ROWS				0	pt	Eliminar os dados seleccionados?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_ROWS				0	pt	Eliminar os dados seleccionados?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_ROWS				0	pt-BR	Deseja excluir os dados selecionados?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_ROWS				0	ru	Удалить выбранные данные?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_ROWS				0	rw	Urashaka gusiba ibyatanzwe wahisemo?				2002-02-02 02:02:02
@@ -738,7 +740,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	ns	
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	or-IN	ଚଳିତ ଅଭିଲେଖ ପରିବର୍ତ୍ତନ ହୋଇଅଛି୤\nତୁମେ ପରିବର୍ତ୍ତନଗୁଡିକୁ ସଞ୍ଚଯ କରିବାକୁ ଚାହୁଁଚ କି?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	pa-IN	ਮੌਜੂਦਾ ਰਿਕਾਰਡ ਤਬਦੀਲ ਹੋ ਗਿਆ।\nਕੀ ਤੁਸੀਂ ਤਬਦੀਲੀਆਂ ਸੰਭਾਲਣੀਆਂ ਚਾਹੁੰਦੇ ਹੋ?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	pl	Bieżący rekord został zmodyfikowany.\nCzy zapisać zmiany?				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	pt	O registo de dados activo foi modificado.\nGuardar as modificações?				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	pt	O registo de dados activo foi modificado.\nGuardar as modificações?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	pt-BR	O registro atual foi alterado.\nDeseja salvar as alterações?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	ru	Текущая запись была изменена.\n Сохранить изменения?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	rw	Ikibitswe kigezweho cyahinduwe.\nUshaka kubika amahinduka?				2002-02-02 02:02:02
@@ -800,6 +802,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_CONNECTION_LOST				0	ns	K
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_CONNECTION_LOST				0	or-IN	ସଂୟୁକ୍ତ ହୋଇଥିବା ତଥ୍ଯସଂଚଯ ନଷ୍ଟହୋଇଛି୤ ତୁମେ ପୁନଃସଂୟୁକ୍ତ କରିବାକୁ ଚାହୁଁଚ କି?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_CONNECTION_LOST				0	pa-IN	ਡਾਟਾਬੇਸ ਨਾਲ ਸੰਬੰਧ  ਟੁੱਟ ਗਿਆ। ਕੀ ਤੁਸੀਂ ਮੁੜ ਜੋੜਨਾ ਚਾਹੁੰਦੇ ਹੋ?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_CONNECTION_LOST				0	pl	Połączenie z bazą danych zostało przerwane. Czy połączyć ponownie?				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_CONNECTION_LOST				0	pt	A ligação à base de dados foi interrompida. Deseja reactivar?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_CONNECTION_LOST				0	pt-BR	A conexão com o banco de dados foi perdida. Deseja reconectar-se?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_CONNECTION_LOST				0	ru	Соединение с базой данных потеряно. Восстановить?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_CONNECTION_LOST				0	rw	Kwihuza n'ububiko-shingiro byahagaze. Urashaka kongera kwihuza				2002-02-02 02:02:02
@@ -1187,7 +1190,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_CONNECTION_LOST				0	ns	K
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_CONNECTION_LOST				0	or-IN	ସଂୟୁକ୍ତ ନଷ୍ଟହେଲା				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_CONNECTION_LOST				0	pa-IN	ਸੰਬੰਧ ਟੁੱਟ ਗਿਆ				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_CONNECTION_LOST				0	pl	Połączenie zerwane				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_CONNECTION_LOST				0	pt	Ligação interrompida				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_CONNECTION_LOST				0	pt	Ligação interrompida				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_CONNECTION_LOST				0	pt-BR	Conexão perdida				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_CONNECTION_LOST				0	ru	Обрыв связи				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_CONNECTION_LOST				0	rw	Kwihuza byahagaze 				2002-02-02 02:02:02
@@ -1251,7 +1254,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_DATABROWSER_FILTERED				0
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_DATABROWSER_FILTERED				0	or-IN	(ଫିଲଟରହୋଇଥିବା)				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_DATABROWSER_FILTERED				0	pa-IN	(ਫਿਲਟਰ ਕੀਤਾ)				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_DATABROWSER_FILTERED				0	pl	(przefiltrowane)				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_DATABROWSER_FILTERED				0	pt	(filtrado)				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_DATABROWSER_FILTERED				0	pt	(filtrado)				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_DATABROWSER_FILTERED				0	pt-BR	(filtrado)				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_DATABROWSER_FILTERED				0	ru	(отфильтровано)				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_DATABROWSER_FILTERED				0	rw	(byatoranyijwe)				2002-02-02 02:02:02
@@ -1369,7 +1372,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_QUERIES_CONTAINER				0	ns
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_QUERIES_CONTAINER				0	or-IN	ପ୍ରଶ୍ନଗୁଡିକ				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_QUERIES_CONTAINER				0	pa-IN	ਕਿਊਰੀ				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_QUERIES_CONTAINER				0	pl	Kwerendy				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_QUERIES_CONTAINER				0	pt	Consultas				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_QUERIES_CONTAINER				0	pt	Consultas				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_QUERIES_CONTAINER				0	pt-BR	Consultas				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_QUERIES_CONTAINER				0	ru	Запросы				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_QUERIES_CONTAINER				0	rw	Ibibazo				2002-02-02 02:02:02
@@ -1435,7 +1438,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_TABLES_CONTAINER				0	ns	
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_TABLES_CONTAINER				0	or-IN	ଟେବୁଲ୍ଗୁଡିକ				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_TABLES_CONTAINER				0	pa-IN	ਸਾਰਣੀਆਂ				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_TABLES_CONTAINER				0	pl	Tabele				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_TABLES_CONTAINER				0	pt	Tabelas				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_TABLES_CONTAINER				0	pt	Tabelas				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_TABLES_CONTAINER				0	pt-BR	Tabelas				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_TABLES_CONTAINER				0	ru	Таблицы				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_TABLES_CONTAINER				0	rw	Imbonerahamwe				2002-02-02 02:02:02
@@ -1499,7 +1502,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_FILTER				0	n
 dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_FILTER				0	or-IN	ଫିଲଟର ଲକ୍ଷଣ ସେଟିଙ୍ଗକରିବା ତୃଟି				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_FILTER				0	pa-IN	ਫਿਲਟਰ ਸੀਮਾ ਵਿਵਸਥਾ ਗਲਤੀ				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_FILTER				0	pl	Błąd ustawiania kryteriów filtra				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_FILTER				0	pt	Erro ao definir critérios dos filtros				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_FILTER				0	pt	Erro ao definir critérios dos filtros				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_FILTER				0	pt-BR	Erro ao definir critérios de filtragem				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_FILTER				0	ru	Ошибка установки условий фильтра				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_FILTER				0	rw	Ikosa kwemeza igishingirwaho mu ishungura				2002-02-02 02:02:02
@@ -1564,7 +1567,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				0	ns
 dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				0	or-IN	ସଜାଅ ଲକ୍ଷଣ ସେଟିଙ୍ଗକରିବା ତୃଟି				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				0	pa-IN	ਕ੍ਰਮ ਸੀਮਾ ਵਿਵਸਥਾ ਗਲਤੀ				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				0	pl	Błąd ustawiania kryteriów sortowania				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				0	pt	Erro ao definir critérios de ordem				20040507 14:21:28
+dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				0	pt	Erro ao definir critérios de ordenação				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				0	pt-BR	Erro ao definir critérios de classificação				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				0	ru	Ошибка установки условий сортировки				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				0	rw	Ikosa mu kwemeza igishingirwaho itoranya				2002-02-02 02:02:02
@@ -1628,6 +1631,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	STR_CONNECTING_DATASOURCE				0	ns
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_CONNECTING_DATASOURCE				0	or-IN	"$name$" କୁ ସଂୟୁକ୍ତକରାହେଉଛି...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_CONNECTING_DATASOURCE				0	pa-IN	"$name$" ਨਾਲ ਸੰਬੰਧ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_CONNECTING_DATASOURCE				0	pl	Łączenie z "$name$"...				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_CONNECTING_DATASOURCE				0	pt	Ligando a "$name$" ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_CONNECTING_DATASOURCE				0	pt-BR	Conectando com "$name$" ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_CONNECTING_DATASOURCE				0	ru	Соединение с "$name$" ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_CONNECTING_DATASOURCE				0	rw	Kwihuza na "$name$" ...				2002-02-02 02:02:02
@@ -1690,6 +1694,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	STR_COULDNOTCONNECT_DATASOURCE			
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_COULDNOTCONNECT_DATASOURCE				0	or-IN	ତଥ୍ଯ ମୂଳକୁ ସଂୟୁକ୍ତ "$name$" ପ୍ରତିଷ୍ଠାହୋଇପାରୁନାହିଁ.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_COULDNOTCONNECT_DATASOURCE				0	pa-IN	ਡਾਟਾ ਸਰੋਤ "$name$" ਨਾਲ ਸੰਬੰਧ ਸਥਾਪਿਤ ਨਹੀਂ ਹੋ ਸਕਿਆ।				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_COULDNOTCONNECT_DATASOURCE				0	pl	Nie udało się nawiązać połączenia ze źródłem danych "$name$".				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_COULDNOTCONNECT_DATASOURCE				0	pt	A ligação à fonte de dados "$name$" não pode ser estabelecida.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_COULDNOTCONNECT_DATASOURCE				0	pt-BR	Não foi possível estabelecer a conexão com a fonte de dados "$name$".				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_COULDNOTCONNECT_DATASOURCE				0	ru	Невозможно установить соединение с источником данных "$name$".				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_COULDNOTCONNECT_DATASOURCE				0	rw	Kwihuza n'isoko y'ibyatanzwe "$name$" ntibishobotse.				2002-02-02 02:02:02
@@ -1752,6 +1757,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	STR_DSBROWSER_TITLE				0	ns	Tebel
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_DSBROWSER_TITLE				0	or-IN	ତଥ୍ଯମୂଳଗୁଡିକର ଦୃଶ୍ଯ				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_DSBROWSER_TITLE				0	pa-IN	ਡਾਟਾ ਸਰੋਤ ਵਿਊ				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_DSBROWSER_TITLE				0	pl	Widok źródeł danych				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_DSBROWSER_TITLE				0	pt	Vista das fontes de dados				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_DSBROWSER_TITLE				0	pt-BR	Exibição de fontes de dados				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_DSBROWSER_TITLE				0	ru	Вид источника данных				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_DSBROWSER_TITLE				0	rw	Kureba amasoko y'ibyatanzwe				2002-02-02 02:02:02
@@ -1814,6 +1820,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_QUERY				0	ns	Go tsen
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_QUERY				0	or-IN	 $name$ ପ୍ରଶ୍ନ ଲୋଡକରାହେଉଛି...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_QUERY				0	pa-IN	ਕਿਊਰੀ $name$ ਲੋਡ ਕਰ ਰਿਹਾ ਹੈ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_QUERY				0	pl	Ładowanie kwerendy $name$ ...				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_QUERY				0	pt	Carregando consulta $name$ ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_QUERY				0	pt-BR	Carregando a consulta $name$ ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_QUERY				0	ru	Загрузка запроса $name$ ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_QUERY				0	rw	Ifungura ry'ikibazo $name$... 				2002-02-02 02:02:02
@@ -1876,6 +1883,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_TABLE				0	ns	Go tsen
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_TABLE				0	or-IN	 $name$ଟେବୁଲ ଲୋଡକରାହେଉଛି...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_TABLE				0	pa-IN	ਸਾਰਣੀ $name$ ਲੋਡ ਕਰ ਰਹੀ ਹੈ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_TABLE				0	pl	Ładowanie tabeli $name$ ...				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_TABLE				0	pt	Carregando tabela $name$ ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_TABLE				0	pt-BR	Carregando a tabela $name$ ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_TABLE				0	ru	Загрузка таблицы $name$ ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_TABLE				0	rw	Ifungura ry'imbonerahamwe $name$...				2002-02-02 02:02:02
@@ -1938,6 +1946,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	STR_NO_TABLE_FORMAT_INSIDE				0	n
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_NO_TABLE_FORMAT_INSIDE				0	or-IN	କୌଣସି ଟେବୁଲ ଫର୍ମାଟ ମିଳିବ ନାହିଁ୤				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_NO_TABLE_FORMAT_INSIDE				0	pa-IN	ਕੋਈ ਸਾਰਣੀ ਫਾਰਮਿਟ ਨਹੀਂ ਲੱਭਿਆ।				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_NO_TABLE_FORMAT_INSIDE				0	pl	Nie znaleziono żadnego formatu tabeli.				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_NO_TABLE_FORMAT_INSIDE				0	pt	Não foi possível encontrar nenhum formato de tabela.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_NO_TABLE_FORMAT_INSIDE				0	pt-BR	Não foi possível encontrar um formato de tabela.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_NO_TABLE_FORMAT_INSIDE				0	ru	Невозможно найти формат таблицы.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_NO_TABLE_FORMAT_INSIDE				0	rw	Nta imiterere y'imbonerahamwe yabonetse.				2002-02-02 02:02:02
@@ -2000,6 +2009,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS				0	ns	G
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS				0	or-IN	ଚେତାବନିଗୁଡିକର ଏନକାଉଣ୍ଟର୍ଡ				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS				0	pa-IN	ਚੇਤਾਵਨੀਆਂ ਟਕਰਾਈਆਂ				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS				0	pl	Wystąpiły ostrzeżenia.				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS				0	pt	Encontradas advertências.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS				0	pt-BR	Avisos encontrados				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS				0	ru	Предупреждения				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS				0	rw	Amaburira yabonetse				2002-02-02 02:02:02
@@ -2062,6 +2072,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS_DETAILS		
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS_DETAILS				0	or-IN	ତଥ୍ଯସଞ୍ଚଯ ସଂୟୁକ୍ତ ଦ୍ବାରା  ଚେତାବନିଗୁଡିକ ରିପୋର୍ଟ ହୋଇଥିଲା ୟେତେବେଳେ ଟେବୁଲ୍ଗୁଡିକ ପୁନଃଲାଭ କରାୟାଇଥିଲା୤				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS_DETAILS				0	pa-IN	ਸਾਰਣੀਆਂ ਲਿਆਉਣ ਸਮੇਂ, ਚੇਤਾਵਨੀਆਂ ਡਾਟਾਬੇਸ ਸੰਬੰਧ ਰਾਹੀਂ ਭੇਜੀਆਂ ਗਈਆਂ।				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS_DETAILS				0	pl	W trakcie pobierania tabel, połączenie z bazą danych zgłosiło ostrzeżenia.				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS_DETAILS				0	pt	A ligação à base de dados reportou avisos enquanto acedia às tabelas.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS_DETAILS				0	pt-BR	Durante a recuperação das tabelas, a conexão com o banco de dados relatou avisos.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS_DETAILS				0	ru	Во время определения таблиц из соединения базы данных выдавались предупреждения.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS_DETAILS				0	rw	Mugihe twageragezaga kugarura imbonerahamwe, twabonye amaburiro atanzwe no kwihuza n'ububiko-shingiro				2002-02-02 02:02:02
@@ -2137,6 +2148,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_TABLE				0	ns	Na
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_TABLE				0	or-IN	ତୁମେ '%1'  ଟେବୁଲକୁ ବିଲୋପକରିବାକୁ ଚାହୁଁଚ କି?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_TABLE				0	pa-IN	ਕੀ ਤੁਸੀ ਸਾਰਣੀ '%1' ਨੂੰ ਹਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_TABLE				0	pl	Czy chcesz usunąć tabelę "%1"?				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_TABLE				0	pt	Quer apagar a tabela '%1'?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_TABLE				0	pt-BR	Deseja excluir a tabela '%1'?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_TABLE				0	ru	Удалить таблицу '%1'?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_TABLE				0	rw	Urashaka gusiba imbonerahamwe'%1'?				2002-02-02 02:02:02
@@ -2200,6 +2212,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	STR_TITLE_CONFIRM_DELETION				0	n
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_TITLE_CONFIRM_DELETION				0	or-IN	  ବିଲୋପ ନିଶ୍ଚିତକର				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_TITLE_CONFIRM_DELETION				0	pa-IN	ਹਟਾਉਣ ਦੀ ਪੁਸ਼ਟੀ				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_TITLE_CONFIRM_DELETION				0	pl	Potwierdź usunięcie				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_TITLE_CONFIRM_DELETION				0	pt	Confirmar eliminação				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_TITLE_CONFIRM_DELETION				0	pt-BR	Confirmar exclusão				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_TITLE_CONFIRM_DELETION				0	ru	Подтвердить удаление				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_TITLE_CONFIRM_DELETION				0	rw	Kwemeza Isiba				2002-02-02 02:02:02
@@ -2265,7 +2278,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BRO
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLATTRSET	HID_BROWSER_COLUMNFORMAT		0	or-IN	ସ୍ତମ୍ଭ ଫର୍ମାଟ				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLATTRSET	HID_BROWSER_COLUMNFORMAT		0	pa-IN	ਕਾਲਮ ਰੂਪ(~F)...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLATTRSET	HID_BROWSER_COLUMNFORMAT		0	pl	~Formatowanie kolumn...				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLATTRSET	HID_BROWSER_COLUMNFORMAT		0	pt	~Formatar colunas...				2003-10-21 16:54:08.14
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLATTRSET	HID_BROWSER_COLUMNFORMAT		0	pt	~Formatar colunas...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLATTRSET	HID_BROWSER_COLUMNFORMAT		0	pt-BR	~Formato da Coluna...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLATTRSET	HID_BROWSER_COLUMNFORMAT		0	ru	Формат столбца...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLATTRSET	HID_BROWSER_COLUMNFORMAT		0	rw	Imiterere y'inkingi...				2002-02-02 02:02:02
@@ -2329,7 +2342,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BRO
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLUMNINFO	HID_BROWSER_COLUMNINFO		0	or-IN	ସ୍ତମ୍ଭ ର ନକଲ ବର୍ଣ୍ଣନା				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLUMNINFO	HID_BROWSER_COLUMNINFO		0	pa-IN	ਕਾਲਮ ਵਰਣਨ ਨਕਲ(~e)				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLUMNINFO	HID_BROWSER_COLUMNINFO		0	pl	Kopiuj ~opis kolumny				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLUMNINFO	HID_BROWSER_COLUMNINFO		0	pt	Copiar ~descrição da coluna				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLUMNINFO	HID_BROWSER_COLUMNINFO		0	pt	Copiar ~descrição da coluna				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLUMNINFO	HID_BROWSER_COLUMNINFO		0	pt-BR	Copiar D~escrição da Coluna				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLUMNINFO	HID_BROWSER_COLUMNINFO		0	ru	Копировать описание столбца				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLUMNINFO	HID_BROWSER_COLUMNINFO		0	rw	Andukura imiterere y'inkingi...				2002-02-02 02:02:02
@@ -2394,7 +2407,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BRO
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_ROWHEIGHT	HID_BROWSER_ROWHEIGHT		0	or-IN	ପଂକ୍ତି ଉଚ୍ଚତା				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_ROWHEIGHT	HID_BROWSER_ROWHEIGHT		0	pa-IN	ਕਤਾਰ ਉਚਾਈ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_ROWHEIGHT	HID_BROWSER_ROWHEIGHT		0	pl	Wysokość wierszy...				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_ROWHEIGHT	HID_BROWSER_ROWHEIGHT		0	pt	Altura da linha...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_ROWHEIGHT	HID_BROWSER_ROWHEIGHT		0	pt	Altura da linha...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_ROWHEIGHT	HID_BROWSER_ROWHEIGHT		0	pt-BR	Altura da linha...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_ROWHEIGHT	HID_BROWSER_ROWHEIGHT		0	ru	Высота строк...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_ROWHEIGHT	HID_BROWSER_ROWHEIGHT		0	rw	Uburebure bw'Umurongo...				2002-02-02 02:02:02
@@ -2460,7 +2473,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BRO
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_TABLEATTR	HID_BROWSER_TABLEFORMAT		0	or-IN	ଟେବୁଲ୍ ଫର୍ମାଟ				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_TABLEATTR	HID_BROWSER_TABLEFORMAT		0	pa-IN	ਸਾਰਣੀ ਫਾਰਮਿਟ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_TABLEATTR	HID_BROWSER_TABLEFORMAT		0	pl	Format tabeli...				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_TABLEATTR	HID_BROWSER_TABLEFORMAT		0	pt	Formatar tabela...				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_TABLEATTR	HID_BROWSER_TABLEFORMAT		0	pt	Formatar tabela...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_TABLEATTR	HID_BROWSER_TABLEFORMAT		0	pt-BR	Formato da Tabela...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_TABLEATTR	HID_BROWSER_TABLEFORMAT		0	ru	Формат таблицы...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_TABLEATTR	HID_BROWSER_TABLEFORMAT		0	rw	Imiterere y'imbonerahamwe				2002-02-02 02:02:02
@@ -2524,7 +2537,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_SAVE_CURRENT_RECORD				0
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_SAVE_CURRENT_RECORD				0	or-IN	ଚଳିତ ଅଭିଲେଖ ସଂଚଯକର				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_SAVE_CURRENT_RECORD				0	pa-IN	ਮੌਜੂਦਾ ਰਿਕਾਰਡ ਸੰਭਾਲੋ				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_SAVE_CURRENT_RECORD				0	pl	Zapisz bieżący rekord				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_SAVE_CURRENT_RECORD				0	pt	Guardar registo de dados activo				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_SAVE_CURRENT_RECORD				0	pt	Guardar registo de dados activo				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_SAVE_CURRENT_RECORD				0	pt-BR	Salvar registro atual				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_SAVE_CURRENT_RECORD				0	ru	Сохранить текущую запись				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_SAVE_CURRENT_RECORD				0	rw	Bika icyo ugezeho				2002-02-02 02:02:02
@@ -2588,7 +2601,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	or-IN	ଆନାବୃତି:ତଥ୍ଯ ଇନ୍ପୁଟ				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	pa-IN	ਵਾਪਿਸ: ਡਾਟਾ ਇੰਨਪੁੱਟ				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	pl	Cofnij: wpisywanie danych				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	pt	Anular: entrada de dados				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	pt	Anular: entrada de dados				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	pt-BR	Desfazer: Entrada de dados				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	ru	Отменить: ввод данных				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	rw	Isubiranyuma: Iyinjiza ry'ibyatanzwe				2002-02-02 02:02:02
@@ -2652,7 +2665,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC	
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				0	or-IN	ମନୋନିତ ଟେବୁଲ କିମ୍ବା ପ୍ରଶ୍ନ ଦେଖାଅ୤				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				0	pa-IN	ਚੁਣੀ ਸਾਰਣੀ ਜਾਂ ਕਿਊਰੀ ਵੇਖਾਉ।				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				0	pl	Pokazuje wybraną tabelę lub kwerendę.				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				0	pt	Shows the selected table/query.				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				0	pt	Apresenta a tabela/consulta seleccionada.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				0	pt-BR	Mostra a tabela ou a consulta selecionada.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				0	ru	Показать выделенные таблицы или запросы.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				0	rw	Yerekana imbonerahamwe cyangwa ikibazo wahisemo.				2002-02-02 02:02:02
@@ -2716,7 +2729,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME	
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				0	or-IN	ତଥ୍ଯ ମୂଳ ଟେବୁଲ  ଦୃଶ୍ଯ				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				0	pa-IN	ਡਾਟਾ ਸਰੋਤ ਸਾਰਣੀ ਵਿਊ				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				0	pl	Widok tabel źródła danych.				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				0	pt	Datasource tableview				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				0	pt	Vista de tabela da Fonte de Dados				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				0	pt-BR	Exibição de tabela da fonte de dados				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				0	ru	Просмотр таблицы источника данных.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				0	rw	Garagaza imbonerahamwe y'isoko y'ibyatanzwe				2002-02-02 02:02:02
@@ -2780,7 +2793,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	string	STR_ERROR_OCCURED_WHILE_COPYING	
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_ERROR_OCCURED_WHILE_COPYING				0	or-IN	ଏକ ତୃଟି ଘଟିଛି୤ ତୁମେ ନକଲକରିବାକୁ ଜାରିରଖିବାକୁ ଚାହୁଁଚ କି?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_ERROR_OCCURED_WHILE_COPYING				0	pa-IN	ਗਲਤੀ ਵਾਪਰੀ। ਕੀ ਤੁਸੀਂ ਨਕਲ ਜਾਰੀ ਰੱਖਣਾ ਚਾਹੁੰਦੇ ਹੋ?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_ERROR_OCCURED_WHILE_COPYING				0	pl	Wystąpił błąd. Czy chcesz kontynuować kopiowanie?				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbagrid.src	0	string	STR_ERROR_OCCURED_WHILE_COPYING				0	pt	Ocorreu um erro. Continuar o processo de cópia?				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_ERROR_OCCURED_WHILE_COPYING				0	pt	Ocorreu um erro. Continuar o processo de cópia?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_ERROR_OCCURED_WHILE_COPYING				0	pt-BR	Ocorreu um erro. Deseja continuar copiando?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_ERROR_OCCURED_WHILE_COPYING				0	ru	Ошибка. Продолжить копирование?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_ERROR_OCCURED_WHILE_COPYING				0	rw	Habayemo ikosa.Urashaka gukomeza kwandukura?				2002-02-02 02:02:02
@@ -2844,7 +2857,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				0	
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				0	or-IN	କୌଣସି ଏକା ସ୍ତମ୍ଭର ନାମଗୁଡିକ ମିଳୁନାହିଁ୤				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				0	pa-IN	ਕੋਈ ਮੇਲ ਖਾਂਦਾ ਕਾਲਮ ਨਾਂ ਨਹੀਂ ਲੱਭਿਆ।				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				0	pl	Nie znaleziono pasujących nazw kolumn				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				0	pt	Foi impossível encontrar nomes de colunas correspondentes!				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				0	pt	Foi impossível encontrar nomes de colunas correspondentes				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				0	pt-BR	Não foram encontrados nomes de coluna compatíveis.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				0	ru	Не найдено соответствующих имен столбцов.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				0	rw	Nta mazina y'inkingi bijyanye yashoboye kuboneka.				2002-02-02 02:02:02
@@ -2908,7 +2921,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	string	STR_OBJECT_ALREADY_EXISTS				0	n
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_OBJECT_ALREADY_EXISTS				0	or-IN	ନାମ "#" ପୂର୍ବରୁ ଅଛି୤				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_OBJECT_ALREADY_EXISTS				0	pa-IN	ਨਾਂ "#" ਪਹਿਲਾਂ ਹੀ ਮੌਜੂਦ ਹੈ।				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_OBJECT_ALREADY_EXISTS				0	pl	Nazwa "#" już istnieje.				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbagrid.src	0	string	STR_OBJECT_ALREADY_EXISTS				0	pt	O nome # já existe.				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_OBJECT_ALREADY_EXISTS				0	pt	O nome # já existe.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_OBJECT_ALREADY_EXISTS				0	pt-BR	O nome "#" já existe.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_OBJECT_ALREADY_EXISTS				0	ru	Имя # уже существует.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_OBJECT_ALREADY_EXISTS				0	rw	Izina "#" risanzwemo.				2002-02-02 02:02:02
@@ -2972,7 +2985,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	string	STR_QRY_TITLE				0	ns	Ngongorego
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_QRY_TITLE				0	or-IN	ପ୍ରଶ୍ନ#				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_QRY_TITLE				0	pa-IN	ਕਿਊਰੀ #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_QRY_TITLE				0	pl	Kwerenda #				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbagrid.src	0	string	STR_QRY_TITLE				0	pt	Consulta #				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_QRY_TITLE				0	pt	Consulta #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_QRY_TITLE				0	pt-BR	Consulta #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_QRY_TITLE				0	ru	Запрос #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_QRY_TITLE				0	rw	Ikibazo #				2002-02-02 02:02:02
@@ -3036,7 +3049,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	string	STR_TBL_TITLE				0	ns	Tafola #		
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_TBL_TITLE				0	or-IN	ଟେବୁଲ #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_TBL_TITLE				0	pa-IN	ਸਾਰਣੀ #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_TBL_TITLE				0	pl	Tabela #				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbagrid.src	0	string	STR_TBL_TITLE				0	pt	Tabela #				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_TBL_TITLE				0	pt	Tabela #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_TBL_TITLE				0	pt-BR	Tabela #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_TBL_TITLE				0	ru	Таблица #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_TBL_TITLE				0	rw	imbonerahamwe #				2002-02-02 02:02:02
@@ -3099,7 +3112,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				0	ns	Tebelelo 
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				0	or-IN	ଦୃଶ୍ଯ#				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				0	pa-IN	ਵਿਊ #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				0	pl	Widok #				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				0	pt	Vista #				20040507 14:21:28
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				0	pt	Tabela #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				0	pt-BR	Exibição #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				0	ru	Представление #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				0	rw	Kugaragaza				2002-02-02 02:02:02
