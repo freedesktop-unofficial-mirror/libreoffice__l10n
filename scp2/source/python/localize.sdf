@@ -13,9 +13,9 @@
 #
 #   $RCSfile: localize.sdf,v $
 #
-#   $Revision: 1.18 $
+#   $Revision: 1.19 $
 #
-#   last change: $Author: vg $ $Date: 2006-05-16 13:23:23 $
+#   last change: $Author: ihi $ $Date: 2006-06-26 15:36:09 $
 #
 #   The Contents of this file are made available subject to
 #   the terms of GNU Lesser General Public License Version 2.1.
@@ -106,7 +106,7 @@ scp2	source\python\module_python.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_PYTHON		
 scp2	source\python\module_python.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_PYTHON				0	or-IN	ପାଇଥନ୍ ସ୍କ୍ରିପଟିଙ୍ଗ ଭାଷା ସହିତ %PRODUCTNAMEକୁ ସ୍ବଯଂଚାଳିତ ସକ୍ଷମ କରିବା ପାଇଁ ମିଶାଅ୤ http://udk.openoffice.org/python/python-bridge.html କୁ ଦେଖନ୍ତୁ୤ଏକ ସଂପୂର୍ଣ୍ଣ ପ୍ରାମାଣ୍ଯ ଦଲିଲ ପାଇଁ ୤				2002-02-02 02:02:02
 scp2	source\python\module_python.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_PYTHON				0	pa-IN	ਪਾਈਥਾਨ ਸਕ੍ਰਿਪਟ ਭਾਸ਼ਾ ਨਾਲ %PRODUCTNAME ਦੀ ਯੋਗਤਾ ਜੋੜਦੀ ਹੈ। ਮੁਕੰਮਲ ਦਸਤਾਵੇਜ਼ਾਂ ਲਈ http://udk.openoffice.org/python/python-bridge.html ਵੇਖੋ				2002-02-02 02:02:02
 scp2	source\python\module_python.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_PYTHON				0	pl	Dodaje możliwość zautomatyzowania %PRODUCTNAME przy pomocy skryptów napisanych w języku python. Odwiedź stronę  http://udk.openoffice.org/python/python-bridge.html aby zapoznać się z kompletną dokumentacją.				2002-02-02 02:02:02
-scp2	source\python\module_python.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_PYTHON				0	pt	Erlaubt es, %PRODUCTNAME mit der Skriptsprache Python zu automatisieren. Die komplette Dokumentation finden Sie auf http://udk.openoffice.org/python/python-bridge.html.				20040507 14:24:1
+scp2	source\python\module_python.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_PYTHON				0	pt	É permitida a automação de %PRODUCTNAME com a linguagem de script Python. Vai encontrar em http://udk.openoffice.org/python/python-bridge.html a documentação completa.				2002-02-02 02:02:02
 scp2	source\python\module_python.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_PYTHON				0	pt-BR	Inclui a habilidade de automatizar o %PRODUCTNAME com a linguagem de criação de scripts python. Consulte o site http://udk.openoffice.org/python/python-bridge.html para uma documentação completa.				2002-02-02 02:02:02
 scp2	source\python\module_python.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_PYTHON				0	ru	Автоматизация %PRODUCTNAME с помощью скриптового языка python. Полная документация - по адресу http://udk.openoffice.org/python/python-bridge.html.				2002-02-02 02:02:02
 scp2	source\python\module_python.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_PYTHON				0	rw	Yongera ubushobozi bwo kwikoresha bwa %PRODUCTNAME hamwe n'ururimi rw'itegekongengaruziramire. Wareba http://udk.openoffice.org/python/python-bridge.html kubirebanan'ikoreshanyandiko ryuzuye.				2002-02-02 02:02:02
@@ -185,7 +185,7 @@ scp2	source\python\module_python.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_PYTHON		
 scp2	source\python\module_python.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_PYTHON				0	or-IN	ପାଇଥୋନ୍-UNO ବ୍ରିଜ				2002-02-02 02:02:02
 scp2	source\python\module_python.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_PYTHON				0	pa-IN	ਪਾਈਥਨ-UNO ਸਾਂਝ				2002-02-02 02:02:02
 scp2	source\python\module_python.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_PYTHON				0	pl	Mostek Python-UNO				2002-02-02 02:02:02
-scp2	source\python\module_python.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_PYTHON				0	pt	Python-UNO Sprachanbindung				20040507 14:24:1
+scp2	source\python\module_python.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_PYTHON				0	pt	Informação				2002-02-02 02:02:02
 scp2	source\python\module_python.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_PYTHON				0	pt-BR	Ponte Python-UNO				2002-02-02 02:02:02
 scp2	source\python\module_python.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_PYTHON				0	ru	Интеграция Python-UNO				2002-02-02 02:02:02
 scp2	source\python\module_python.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_PYTHON				0	rw	Iteme Python-UNO				2002-02-02 02:02:02
@@ -253,6 +253,7 @@ scp2	source\python\module_python_mailmerge.ulf	0	LngText	STR_DESC_MODULE_OPTIONA
 scp2	source\python\module_python_mailmerge.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_PYTHON_MAILMERGE				0	nl	Module voor standaard-emailfunctie van %PRODUCTNAME				2002-02-02 02:02:02
 scp2	source\python\module_python_mailmerge.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_PYTHON_MAILMERGE				0	nn	Modul for e-postfletting i %PRODUCTNAME				2002-02-02 02:02:02
 scp2	source\python\module_python_mailmerge.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_PYTHON_MAILMERGE				0	pl	Moduł %PRODUCTNAME udostępniający funkcje korespondencji seryjnej e-mail				2002-02-02 02:02:02
+scp2	source\python\module_python_mailmerge.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_PYTHON_MAILMERGE				0	pt	Módulo para a função de impressão em série de correio electrónico do %PRODUCTNAME 				2002-02-02 02:02:02
 scp2	source\python\module_python_mailmerge.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_PYTHON_MAILMERGE				0	pt-BR	Módulo para o recurso Email Mailmerge do %PRODUCTNAME 				2002-02-02 02:02:02
 scp2	source\python\module_python_mailmerge.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_PYTHON_MAILMERGE				0	ru	Модуль для функции составных электронных писем для %PRODUCTNAME				2002-02-02 02:02:02
 scp2	source\python\module_python_mailmerge.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_PYTHON_MAILMERGE				0	sk	Modul pre %PRODUCTNAME Hromadná korešpondencia E-mailom				2002-02-02 02:02:02
@@ -282,6 +283,7 @@ scp2	source\python\module_python_mailmerge.ulf	0	LngText	STR_NAME_MODULE_OPTIONA
 scp2	source\python\module_python_mailmerge.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_PYTHON_MAILMERGE				0	nl	Standaard-email				2002-02-02 02:02:02
 scp2	source\python\module_python_mailmerge.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_PYTHON_MAILMERGE				0	nn	Fletting av e-post				2002-02-02 02:02:02
 scp2	source\python\module_python_mailmerge.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_PYTHON_MAILMERGE				0	pl	E-mail Mailmerge				2002-02-02 02:02:02
+scp2	source\python\module_python_mailmerge.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_PYTHON_MAILMERGE				0	pt	Impressão em série de correio electrónico				2002-02-02 02:02:02
 scp2	source\python\module_python_mailmerge.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_PYTHON_MAILMERGE				0	pt-BR	E-mail Mailmerge				2002-02-02 02:02:02
 scp2	source\python\module_python_mailmerge.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_PYTHON_MAILMERGE				0	ru	Составная электронная почта				2002-02-02 02:02:02
 scp2	source\python\module_python_mailmerge.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_PYTHON_MAILMERGE				0	sk	Hromadná korešpondencia E-mailom				2002-02-02 02:02:02
