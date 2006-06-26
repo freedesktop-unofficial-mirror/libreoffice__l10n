@@ -13,9 +13,9 @@
 #
 #   $RCSfile: localize.sdf,v $
 #
-#   $Revision: 1.22 $
+#   $Revision: 1.23 $
 #
-#   last change: $Author: vg $ $Date: 2006-05-16 13:33:12 $
+#   last change: $Author: ihi $ $Date: 2006-06-26 18:26:57 $
 #
 #   The Contents of this file are made available subject to
 #   the terms of GNU Lesser General Public License Version 2.1.
@@ -77,7 +77,7 @@ sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , E
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_FILE_ROWCOL )			0	or-IN	 ସ୍ଥାନର ଉପ-ଦଲିଲର  ଫାଇଲ ଫର୍ମାଟ ତୃଟି  ଆବିଷ୍କାର ହେଲା$(ARG1) $(ARG2)(ପଂକ୍ତି,ସ୍ତମ୍ଭ)				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_FILE_ROWCOL )			0	pa-IN	ਅਧੀਨ-ਦਸਤਾਵੇਜ $(ARG1) ਵਿੱਚ ਫਾਇਲ ਵਿੱਚ ਫਾਰਮਿਟ ਗਲਤੀ ਸਥਿਤੀ $(ARG2)(ਕਤਾਰ,ਕਾਲਮ) ਤੇ ਖੋਜੀ ਗਈ ਹੈ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_FILE_ROWCOL )			0	pl	Wykryto błąd formatowania w pliku dokumentu podrzędnego $(ARG1) na pozycji $(ARG2) (wiersz, kolumna)				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_FILE_ROWCOL )			0	pt	Erro de formato no sub-documento $(ARG1) do ficheiro, na posição $(ARG2)(linha,coluna)				20040507 14:24:12
+sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_FILE_ROWCOL )			0	pt	Erro de formato de ficheiro no subdocumento $(ARG1), na posição $(ARG2)(linha,col).				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_FILE_ROWCOL )			0	pt-BR	Erro de formato encontrado no arquivo no subdocumento $(ARG1) na posição $(ARG2)(linha,col)				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_FILE_ROWCOL )			0	ru	Ошибка формата файла в поддокументе $(ARG1) в позиции $(ARG2)(строка, столбец).				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_FILE_ROWCOL )			0	rw	Ikosa ry'imiterere ryavumbuwe mu idosiye mu nyandiko yungirije $(ARG1) ku mwanya$(ARG2)(row,col)				2002-02-02 02:02:02
@@ -135,7 +135,7 @@ sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , E
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_ROWCOL )			0	or-IN	 $(ARG୧)(ପଂକ୍ତି,ସ୍ତମ୍ଭ)ରେ ଫାଇଲ ଫର୍ମାଟ ତୃଟି ମିଳିଲା				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_ROWCOL )			0	pa-IN	ਫਾਇਲ ਫਾਰਮਿਟ ਵਿੱਚ $(ARG1)(row,col) ਤੇ ਗਲਤੀ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_ROWCOL )			0	pl	Znaleziono błąd w formacie pliku na pozycji $(ARG1) (wiersz, kolumna)				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_ROWCOL )			0	pt	Descoberto erro de formato na posição $(ARG1)(linha, coluna) no ficheiro				20040507 14:24:12
+sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_ROWCOL )			0	pt	Erro de formato de ficheiro em $(ARG1)(linha,col)				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_ROWCOL )			0	pt-BR	Erro de formato de arquivo encontrado no $(ARG1)(linha,col)				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_ROWCOL )			0	ru	Ошибка формата в файле в позиции $(ARG1) (строка, столбец).				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_ROWCOL )			0	rw	Ikosa ry'imiterere y'idosiye ryabonetse kuri $(ARG1)(row,col)				2002-02-02 02:02:02
@@ -196,7 +196,7 @@ sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , W
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , WARN_FORMAT_FILE_ROWCOL )			0	or-IN	ଏହି ସ୍ଥାନର ଉପ-ଦଲିଲର  ଫାଇଲ ଫର୍ମାଟ ତୃଟି  ଆବିଷ୍କାର ହେଲା$(ARG1) $(ARG2)(ପଂକ୍ତି,ସ୍ତମ୍ଭ)				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , WARN_FORMAT_FILE_ROWCOL )			0	pa-IN	ਅਧੀਨ-ਦਸਤਾਵੇਜ $(ARG1) ਵਿੱਚ ਫਾਇਲ ਵਿੱਚ ਫਾਰਮਿਟ ਗਲਤੀ ਸਥਿਤੀ $(ARG2)(ਕਤਾਰ,ਕਾਲਮ) ਤੇ ਖੋਜੀ ਗਈ ਹੈ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , WARN_FORMAT_FILE_ROWCOL )			0	pl	Wykryto błąd formatowania w pliku dokumentu podrzędnego $(ARG1) na pozycji $(ARG2) (wiersz, kolumna)				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , WARN_FORMAT_FILE_ROWCOL )			0	pt	Erro de formato no sub-documento $(ARG1) do ficheiro, na posição(ARG2)(linha,coluna)				20040507 14:24:12
+sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , WARN_FORMAT_FILE_ROWCOL )			0	pt	Erro de formato de ficheiro no subdocumento $(ARG1), na posição $(ARG2)(linha,col).				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , WARN_FORMAT_FILE_ROWCOL )			0	pt-BR	Erro de formato encontrado no arquivo no subdocumento $(ARG1) na posição $(ARG2)(linha,col)				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , WARN_FORMAT_FILE_ROWCOL )			0	ru	Ошибка формата файла в поддокументе $(ARG1) в позиции $(ARG2)(строка, столбец).				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , WARN_FORMAT_FILE_ROWCOL )			0	rw	Ikosa ry'imiterere ryavumbuwe mu idosiye mu nyandiko yungirije $(ARG1) ku mwanya$(ARG2)(row,col)				2002-02-02 02:02:02
@@ -257,7 +257,7 @@ sd	source\core\glob.src	0	string	STR_3DOBJECTBARSHELL				0	ns	Dipeakanyo tša 3-
 sd	source\core\glob.src	0	string	STR_3DOBJECTBARSHELL				0	or-IN	3-D ସେଟିଙ୍ଗଗୁଡିକ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_3DOBJECTBARSHELL				0	pa-IN	3-D ਵਿਵਸਥਾਵਾਂ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_3DOBJECTBARSHELL				0	pl	Ustawienia 3-D				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_3DOBJECTBARSHELL				0	pt	3-D Settings				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_3DOBJECTBARSHELL				0	pt	Preferências 3-D				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_3DOBJECTBARSHELL				0	pt-BR	Configurações 3D				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_3DOBJECTBARSHELL				0	ru	Настройки 3D				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_3DOBJECTBARSHELL				0	rw	Amagenamiterere nyamubyimba				2002-02-02 02:02:02
@@ -319,7 +319,7 @@ sd	source\core\glob.src	0	string	STR_APPLICATIONOBJECTBAR				0	ns	StarImpress 4.
 sd	source\core\glob.src	0	string	STR_APPLICATIONOBJECTBAR				0	or-IN	ସ୍ଟାର୍ଇମ୍ପ୍ରେସ୍ ୪.0				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_APPLICATIONOBJECTBAR				0	pa-IN	StarImpress 4.0				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_APPLICATIONOBJECTBAR				0	pl	StarImpress 4.0				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_APPLICATIONOBJECTBAR				0	pt	StarImpress 4.0				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_APPLICATIONOBJECTBAR				0	pt	StarImpress 4.0				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_APPLICATIONOBJECTBAR				0	pt-BR	StarImpress 4.0				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_APPLICATIONOBJECTBAR				0	ru	StarImpress 4.0				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_APPLICATIONOBJECTBAR				0	rw	StarImpress 4.0				2002-02-02 02:02:02
@@ -383,7 +383,7 @@ sd	source\core\glob.src	0	string	STR_BAD_PASSWORD_OR_FILE_CORRUPTED				0	ns	Lent
 sd	source\core\glob.src	0	string	STR_BAD_PASSWORD_OR_FILE_CORRUPTED				0	or-IN	ଏହି ଗୁପ୍ତଶବ୍ଦ ଭୂଲ୍ ଅଛି କିମ୍ବା ଏହି ଫାଇଲ ନଷ୍ଟହୋଇୟାଇଛି୤				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_BAD_PASSWORD_OR_FILE_CORRUPTED				0	pa-IN	ਗੁਪਤ-ਕੋਡ ਗਲਤ ਹੈ ਜਾਂ ਫਾਇਲ ਨਿਕਾਰਾ ਹੋ ਚੁੱਕੀ ਹੈ।				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_BAD_PASSWORD_OR_FILE_CORRUPTED				0	pl	Nieprawidłowe hasło lub uszkodzony plik.				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_BAD_PASSWORD_OR_FILE_CORRUPTED				0	pt	Ou a senha está incorrecta ou o ficheiro danificado.				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_BAD_PASSWORD_OR_FILE_CORRUPTED				0	pt	Senha incorrecta ou o ficheiro danificado.				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_BAD_PASSWORD_OR_FILE_CORRUPTED				0	pt-BR	A senha está incorreta ou o arquivo está corrompido.				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_BAD_PASSWORD_OR_FILE_CORRUPTED				0	ru	Неправильный пароль или поврежден файл.				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_BAD_PASSWORD_OR_FILE_CORRUPTED				0	rw	Ijambobanga siryo cyangwa idosiye yononekaye.				2002-02-02 02:02:02
@@ -447,7 +447,7 @@ sd	source\core\glob.src	0	string	STR_BEZIEROBJECTBARSHELL				0	ns	Mokgwa wa béz
 sd	source\core\glob.src	0	string	STR_BEZIEROBJECTBARSHELL				0	or-IN	 ବେଜିଅର ମୋଡ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_BEZIEROBJECTBARSHELL				0	pa-IN	ਬੇਜ਼ੀਅਰ ਢੰਗ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_BEZIEROBJECTBARSHELL				0	pl	Tryb Béziera				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_BEZIEROBJECTBARSHELL				0	pt	Modo Bézier				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_BEZIEROBJECTBARSHELL				0	pt	Modo Bézier				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_BEZIEROBJECTBARSHELL				0	pt-BR	Modo Bézier				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_BEZIEROBJECTBARSHELL				0	ru	Режим Безье				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_BEZIEROBJECTBARSHELL				0	rw	Uburyo bwa bezier				2002-02-02 02:02:02
@@ -510,7 +510,7 @@ sd	source\core\glob.src	0	string	STR_DRAWVIEWSHELL				0	ns	Pono ya go Thala				2
 sd	source\core\glob.src	0	string	STR_DRAWVIEWSHELL				0	or-IN	ଚିତ୍ରାଙ୍କନ ଦୃଶ୍ଯ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_DRAWVIEWSHELL				0	pa-IN	ਚਿੱਤਰਕਾਰੀ ਦਰਿਸ਼				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_DRAWVIEWSHELL				0	pl	Widok slajdu				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_DRAWVIEWSHELL				0	pt	Modo Desenho				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_DRAWVIEWSHELL				0	pt	Modo Desenho				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_DRAWVIEWSHELL				0	pt-BR	Exibição de Desenhos				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_DRAWVIEWSHELL				0	ru	Режим рисования				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_DRAWVIEWSHELL				0	rw	Igaragaza ry'Igishushanyo				2002-02-02 02:02:02
@@ -575,7 +575,7 @@ sd	source\core\glob.src	0	string	STR_EMPTY_STYLESHEET_NAME				0	ns	Template e se
 sd	source\core\glob.src	0	string	STR_EMPTY_STYLESHEET_NAME				0	or-IN	ଶୁନ୍ଯ ନମୁନା				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_EMPTY_STYLESHEET_NAME				0	pa-IN	ਖਾਲੀ ਨਮੂਨਾ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_EMPTY_STYLESHEET_NAME				0	pl	Pusty szablon				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_EMPTY_STYLESHEET_NAME				0	pt	Modelo vazio				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_EMPTY_STYLESHEET_NAME				0	pt	Modelo vazio				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_EMPTY_STYLESHEET_NAME				0	pt-BR	Modelo em branco				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_EMPTY_STYLESHEET_NAME				0	ru	Пустой шаблон				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_EMPTY_STYLESHEET_NAME				0	rw	Inyandikorugero irimo ubusa				2002-02-02 02:02:02
@@ -633,7 +633,7 @@ sd	source\core\glob.src	0	string	STR_FONTWORKOBJECTBARSHELL				0	ns	Mošomo wa f
 sd	source\core\glob.src	0	string	STR_FONTWORKOBJECTBARSHELL				0	or-IN	ଫଣ୍ଟ୍କାର୍ୟ୍ଯ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_FONTWORKOBJECTBARSHELL				0	pa-IN	ਫੋਂਟਵਰਕ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_FONTWORKOBJECTBARSHELL				0	pl	FontWork				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_FONTWORKOBJECTBARSHELL				0	pt	FontWork				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_FONTWORKOBJECTBARSHELL				0	pt	Trabalho de Fontes				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_FONTWORKOBJECTBARSHELL				0	pt-BR	Trabalho fonte				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_FONTWORKOBJECTBARSHELL				0	ru	Текстовые эффекты				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_FONTWORKOBJECTBARSHELL				0	rw	ImyandikireMurimo				2002-02-02 02:02:02
@@ -693,7 +693,7 @@ sd	source\core\glob.src	0	string	STR_GLUEPOINTSOBJECTBARSHELL				0	ns	Mokgwa wa 
 sd	source\core\glob.src	0	string	STR_GLUEPOINTSOBJECTBARSHELL				0	or-IN	ଗ୍ଲୁ ବିନ୍ଦୁଗୁଡିକ ମୋଡ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_GLUEPOINTSOBJECTBARSHELL				0	pa-IN	ਚੇਪੂ ਬਿੰਦੂ ਢੰਗ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_GLUEPOINTSOBJECTBARSHELL				0	pl	Tryb punktów sklejenia				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_GLUEPOINTSOBJECTBARSHELL				0	pt	Modo Pontos de Colagem				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_GLUEPOINTSOBJECTBARSHELL				0	pt	Modo Pontos de Colagem				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_GLUEPOINTSOBJECTBARSHELL				0	pt-BR	Modo de Pontos de Colagem				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_GLUEPOINTSOBJECTBARSHELL				0	ru	Режим точек соединения				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_GLUEPOINTSOBJECTBARSHELL				0	rw	Uburyo bw'Utudomo Bujeni				2002-02-02 02:02:02
@@ -757,7 +757,7 @@ sd	source\core\glob.src	0	string	STR_GRAFOBJECTBARSHELL				0	ns	Mokgwa wa dithal
 sd	source\core\glob.src	0	string	STR_GRAFOBJECTBARSHELL				0	or-IN	ଲେଖାଚିତ୍ରଗୁଡିକ ମୋଡ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_GRAFOBJECTBARSHELL				0	pa-IN	ਗਰਾਫਿਕਸ ਵਿਧੀ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_GRAFOBJECTBARSHELL				0	pl	Tryb graficzny				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_GRAFOBJECTBARSHELL				0	pt	Modo gráfico				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_GRAFOBJECTBARSHELL				0	pt	Modo gráfico				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_GRAFOBJECTBARSHELL				0	pt-BR	Modo gráfico				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_GRAFOBJECTBARSHELL				0	ru	Режим графических объектов				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_GRAFOBJECTBARSHELL				0	rw	Uburyo bw'Ibishushanyo				2002-02-02 02:02:02
@@ -822,7 +822,7 @@ sd	source\core\glob.src	0	string	STR_HANDOUT				0	ns	Difiwa				2002-02-02 02:02:
 sd	source\core\glob.src	0	string	STR_HANDOUT				0	or-IN	ହ୍ଯାଣ୍ଡଆଉଟ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_HANDOUT				0	pa-IN	ਹੈਂਡਆਉਟ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_HANDOUT				0	pl	Materiały informacyjne				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_HANDOUT				0	pt	Folheto				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_HANDOUT				0	pt	Folhetos				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_HANDOUT				0	pt-BR	Folhetos				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_HANDOUT				0	ru	Тезисы				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_HANDOUT				0	rw	Inyandiko				2002-02-02 02:02:02
@@ -886,7 +886,7 @@ sd	source\core\glob.src	0	string	STR_LAYER_BCKGRND				0	ns	Bo ka morago				2002-
 sd	source\core\glob.src	0	string	STR_LAYER_BCKGRND				0	or-IN	ପୃଷ୍ଠଭାଗ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_BCKGRND				0	pa-IN	ਪਿੱਠਭੂਮੀ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_BCKGRND				0	pl	Tło				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_LAYER_BCKGRND				0	pt	Plano de fundo				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_LAYER_BCKGRND				0	pt	Plano de fundo				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_BCKGRND				0	pt-BR	Plano de fundo				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_BCKGRND				0	ru	Фон				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_BCKGRND				0	rw	Mbuganyuma				2002-02-02 02:02:02
@@ -949,7 +949,7 @@ sd	source\core\glob.src	0	string	STR_LAYER_BCKGRNDOBJ				0	ns	Didirišwa tše bo
 sd	source\core\glob.src	0	string	STR_LAYER_BCKGRNDOBJ				0	or-IN	ପୃଷ୍ଠଭାଗ ବସ୍ତୁଗୁଡିକ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_BCKGRNDOBJ				0	pa-IN	ਪਿੱਠਭੂਮੀ ਇਕਾਈਆਂ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_BCKGRNDOBJ				0	pl	Obiekty tła				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_LAYER_BCKGRNDOBJ				0	pt	Objectos do plano de fundo				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_LAYER_BCKGRNDOBJ				0	pt	Objectos do plano de fundo				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_BCKGRNDOBJ				0	pt-BR	Objetos de plano de fundo				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_BCKGRNDOBJ				0	ru	Объекты фона				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_BCKGRNDOBJ				0	rw	Ibikoresho mbuganyuma				2002-02-02 02:02:02
@@ -1013,7 +1013,7 @@ sd	source\core\glob.src	0	string	STR_LAYER_CONTROLS				0	ns	Ditaolo				2002-02-0
 sd	source\core\glob.src	0	string	STR_LAYER_CONTROLS				0	or-IN	ନିଯନ୍ତ୍ରଣଗୁଡିକ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_CONTROLS				0	pa-IN	ਕੰਟਰੋਲ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_CONTROLS				0	pl	Formanty				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_LAYER_CONTROLS				0	pt	Controlos				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_LAYER_CONTROLS				0	pt	Controlos				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_CONTROLS				0	pt-BR	Controles				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_CONTROLS				0	ru	Элементы управления				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_CONTROLS				0	rw	Amagenzura				2002-02-02 02:02:02
@@ -1078,7 +1078,7 @@ sd	source\core\glob.src	0	string	STR_LAYER_LAYOUT				0	ns	Lefelo				2002-02-02 0
 sd	source\core\glob.src	0	string	STR_LAYER_LAYOUT				0	or-IN	ଲେପନ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_LAYOUT				0	pa-IN	ਖਾਕਾ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_LAYOUT				0	pl	Układ				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_LAYER_LAYOUT				0	pt	Configuração				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_LAYER_LAYOUT				0	pt	Configuração				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_LAYOUT				0	pt-BR	Layout				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_LAYOUT				0	ru	Разметка				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_LAYOUT				0	rw	Imigaragarire				2002-02-02 02:02:02
@@ -1143,7 +1143,7 @@ sd	source\core\glob.src	0	string	STR_LAYER_MEASURELINES				0	ns	Methaladi ya Sel
 sd	source\core\glob.src	0	string	STR_LAYER_MEASURELINES				0	or-IN	ଆଯତନ ରେଖାଗୁଡିକ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_MEASURELINES				0	pa-IN	ਮਾਪ ਰੇਖਾਵਾਂ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_MEASURELINES				0	pl	Linie wymiarowe				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_LAYER_MEASURELINES				0	pt	Linhas de dimensão				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_LAYER_MEASURELINES				0	pt	Linhas de dimensão				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_MEASURELINES				0	pt-BR	Linhas de dimensionamento				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_MEASURELINES				0	ru	Размерные линии				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_MEASURELINES				0	rw	Ingano Mirongo				2002-02-02 02:02:02
@@ -1206,7 +1206,7 @@ sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_NAME				0	ns	Tlhaelelo				20
 sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_NAME				0	or-IN	ଡିଫଲଟ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_NAME				0	pa-IN	ਮੂਲ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_NAME				0	pl	Domyślnie				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_NAME				0	pt	Padrão				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_NAME				0	pt	Padrão				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_NAME				0	pt-BR	Padrão				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_NAME				0	ru	Обычный				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_NAME				0	rw	Mburabuzi				2002-02-02 02:02:02
@@ -1268,7 +1268,7 @@ sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_TITLE_NAME				0	ns	Sehlogo		
 sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_TITLE_NAME				0	or-IN	ଶୀର୍ଷକ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_TITLE_NAME				0	pa-IN	ਸਿਰਲੇਖ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_TITLE_NAME				0	pl	Tytuł				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_TITLE_NAME				0	pt	Título				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_TITLE_NAME				0	pt	Título				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_TITLE_NAME				0	pt-BR	Título				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_TITLE_NAME				0	ru	Заголовок				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_TITLE_NAME				0	rw	Umutwe				2002-02-02 02:02:02
@@ -1332,7 +1332,7 @@ sd	source\core\glob.src	0	string	STR_LOAD_DOC				0	ns	Tsenya Tokumente				2002-0
 sd	source\core\glob.src	0	string	STR_LOAD_DOC				0	or-IN	ଦଲିଲ ଲୋଡ କର				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LOAD_DOC				0	pa-IN	ਦਸਤਾਵੇਜ਼ ਲੋਡ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LOAD_DOC				0	pl	Ładuj dokument				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_LOAD_DOC				0	pt	Carregar documento				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_LOAD_DOC				0	pt	Carregar documento				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LOAD_DOC				0	pt-BR	Carregar documento				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LOAD_DOC				0	ru	Загрузить документ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LOAD_DOC				0	rw	Gutangiza Inyandiko				2002-02-02 02:02:02
@@ -1396,7 +1396,7 @@ sd	source\core\glob.src	0	string	STR_MASTERPAGE				0	ns	Bo ka morago				2002-02-
 sd	source\core\glob.src	0	string	STR_MASTERPAGE				0	or-IN	ପୃଷ୍ଠଭାଗ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_MASTERPAGE				0	pa-IN	ਪਿੱਠਭੂਮੀ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_MASTERPAGE				0	pl	Tło				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_MASTERPAGE				0	pt	Plano de fundo				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_MASTERPAGE				0	pt	Plano de fundo				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_MASTERPAGE				0	pt-BR	Plano de fundo				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_MASTERPAGE				0	ru	Фон				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_MASTERPAGE				0	rw	Mbuganyuma				2002-02-02 02:02:02
@@ -1457,6 +1457,7 @@ sd	source\core\glob.src	0	string	STR_MEDIAOBJECTBARSHELL				0	ns	Go Bapala ga Me
 sd	source\core\glob.src	0	string	STR_MEDIAOBJECTBARSHELL				0	or-IN	ମିଡିଆ ପ୍ଲେବ୍ଯାକ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_MEDIAOBJECTBARSHELL				0	pa-IN	ਮਾਧਿਅਮ ਚਲਾਉ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_MEDIAOBJECTBARSHELL				0	pl	Odtwarzanie multimediów				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_MEDIAOBJECTBARSHELL				0	pt	Reprodução multimedia				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_MEDIAOBJECTBARSHELL				0	pt-BR	Reprodução de mídia				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_MEDIAOBJECTBARSHELL				0	ru	Управление мультимедией				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_MEDIAOBJECTBARSHELL				0	rw	Gusubizanyuma ry'ibitangazamakuru				2002-02-02 02:02:02
@@ -1518,7 +1519,7 @@ sd	source\core\glob.src	0	string	STR_NOTES				0	ns	(Dintlha)				2002-02-02 02:02
 sd	source\core\glob.src	0	string	STR_NOTES				0	or-IN	(ଟିପପ୍ଣୀ)				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_NOTES				0	pa-IN	(ਸੂਚਨਾ)				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_NOTES				0	pl	(Notatki)				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_NOTES				0	pt	(Anotações)				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_NOTES				0	pt	(Anotações)				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_NOTES				0	pt-BR	(Notas)				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_NOTES				0	ru	(Примечания)				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_NOTES				0	rw	(Impugukirwa)				2002-02-02 02:02:02
@@ -1582,7 +1583,7 @@ sd	source\core\glob.src	0	string	STR_NOT_ENOUGH_MEMORY				0	ns	Ga go na kgopolo 
 sd	source\core\glob.src	0	string	STR_NOT_ENOUGH_MEMORY				0	or-IN	ୟଥେଷ୍ଟ ସ୍ମୃତିଶକ୍ତି ନାହିଁ !\nଏହି କାର୍ୟ୍ଯ ନିସ୍ଫଳ ହେବ୤				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_NOT_ENOUGH_MEMORY				0	pa-IN	ਲੋੜੀਦੀ ਮੈਮੋਰੀ ਨਹੀਂ ਹੈ!\nਕਾਰਵਾਈ ਛੱਡੀ ਜਾਂਦੀ ਹੈ।				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_NOT_ENOUGH_MEMORY				0	pl	Za mało pamięci!\nAkcja zostanie przerwana.				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_NOT_ENOUGH_MEMORY				0	pt	Memória insuficiente!\nA acção será cancelada.				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_NOT_ENOUGH_MEMORY				0	pt	Memória insuficiente!\nA acção será cancelada.				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_NOT_ENOUGH_MEMORY				0	pt-BR	Não há memória suficiente!\nA ação será cancelada.				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_NOT_ENOUGH_MEMORY				0	ru	Недостаточно памяти!\nДействие будет прервано.				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_NOT_ENOUGH_MEMORY				0	rw	Ububikoremezo ntibuhagije!\nIgikorwa ntikizakunda.				2002-02-02 02:02:02
@@ -1645,7 +1646,7 @@ sd	source\core\glob.src	0	string	STR_OUTLINEVIEWSHELL				0	ns	Pono ya Kemišo			
 sd	source\core\glob.src	0	string	STR_OUTLINEVIEWSHELL				0	or-IN	ବାହ୍ଯରେଖା ଦୃଶ୍ଯ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_OUTLINEVIEWSHELL				0	pa-IN	ਬਾਹਰੀ ਰੇਖਾ ਝਾਤੀ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_OUTLINEVIEWSHELL				0	pl	Widok konspektu				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_OUTLINEVIEWSHELL				0	pt	Modo Esquema				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_OUTLINEVIEWSHELL				0	pt	Modo Esquema				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_OUTLINEVIEWSHELL				0	pt-BR	Exibição de Estrutura de Tópicos				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_OUTLINEVIEWSHELL				0	ru	Режим структуры				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_OUTLINEVIEWSHELL				0	rw	Igaragaza ry'Imbata				2002-02-02 02:02:02
@@ -1707,7 +1708,7 @@ sd	source\core\glob.src	0	string	STR_PAGE				0	ns	Thelela				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PAGE				0	or-IN	ସ୍ଲାଇଡ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PAGE				0	pa-IN	ਸਲਾਈਡ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PAGE				0	pl	Slajd				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PAGE				0	pt	Página				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_PAGE				0	pt	Diapositivo				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PAGE				0	pt-BR	Slide				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PAGE				0	ru	Страница				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PAGE				0	rw	Igice				2002-02-02 02:02:02
@@ -1772,6 +1773,7 @@ sd	source\core\glob.src	0	string	STR_PAGE_NAME				0	ns	Letlakala				2002-02-02 0
 sd	source\core\glob.src	0	string	STR_PAGE_NAME				0	or-IN	ପୃଷ୍ଠା				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PAGE_NAME				0	pa-IN	ਸਫ਼ਾ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PAGE_NAME				0	pl	Strona				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PAGE_NAME				0	pt	Página				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PAGE_NAME				0	pt-BR	Página				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PAGE_NAME				0	ru	Страница				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PAGE_NAME				0	rw	Ipaji				2002-02-02 02:02:02
@@ -1834,7 +1836,7 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_ARROW				0	ns	Lerungwana				2002-
 sd	source\core\glob.src	0	string	STR_POOLSHEET_ARROW				0	or-IN	ଶର				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_ARROW				0	pa-IN	ਤੀਰ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_ARROW				0	pl	Strzałka				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_POOLSHEET_ARROW				0	pt	Seta				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_POOLSHEET_ARROW				0	pt	Seta				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_ARROW				0	pt-BR	Seta				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_ARROW				0	ru	Стрелка				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_ARROW				0	rw	Akambi				2002-02-02 02:02:02
@@ -1900,7 +1902,7 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE				0	ns	Sehlogwana				20
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE				0	or-IN	ଶୀର୍ଷକ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE				0	pa-IN	ਸਿਰਲੇਖ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE				0	pl	Nagłówek				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE				0	pt	Título				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE				0	pt	Título				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE				0	pt-BR	Título				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE				0	ru	Заголовок				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE				0	rw	Umutwempangano				2002-02-02 02:02:02
@@ -1966,7 +1968,7 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE1				0	ns	Sehlogwana sa 1
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE1				0	or-IN	ଶୀର୍ଷକ୧				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE1				0	pa-IN	ਸਿਰਲੇਖ1				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE1				0	pl	Nagłówek1				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE1				0	pt	Título1				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE1				0	pt	Título1				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE1				0	pt-BR	Título1				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE1				0	ru	Заголовок 1				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE1				0	rw	Umutwe1				2002-02-02 02:02:02
@@ -2032,7 +2034,7 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE2				0	ns	Sehlogwana sa 2
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE2				0	or-IN	ଶୀର୍ଷକ୨				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE2				0	pa-IN	ਸਿਰਲੇਖ2				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE2				0	pl	Nagłówek2				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE2				0	pt	Título2				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE2				0	pt	Título2				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE2				0	pt-BR	Título2				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE2				0	ru	Заголовок 2				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE2				0	rw	Umutwe2				2002-02-02 02:02:02
@@ -2096,7 +2098,7 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_MEASURE				0	ns	Mothaladi wa Sele
 sd	source\core\glob.src	0	string	STR_POOLSHEET_MEASURE				0	or-IN	ଆଯତନ ରେଖା				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_MEASURE				0	pa-IN	ਦਿਸ਼ਾ ਰੇਖਾ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_MEASURE				0	pl	Linia wymiarowa				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_POOLSHEET_MEASURE				0	pt	Linha de dimensão				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_POOLSHEET_MEASURE				0	pt	Linha de dimensão				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_MEASURE				0	pt-BR	Linha de Dimensão				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_MEASURE				0	ru	Размерная линия				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_MEASURE				0	rw	Ingano-murongo				2002-02-02 02:02:02
@@ -2161,7 +2163,7 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHARROW				0	ns	Sedirišwa s
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHARROW				0	or-IN	ଶର ସହିତ ବସ୍ତୁ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHARROW				0	pa-IN	ਤੀਰ ਨਾਲ ਇਕਾਈ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHARROW				0	pl	Obiekt ze strzałką				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHARROW				0	pt	Objecto com seta na ponta				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHARROW				0	pt	Objecto com seta na ponta				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHARROW				0	pt-BR	Objeto com seta				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHARROW				0	ru	Объект со стрелкой				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHARROW				0	rw	Igikoresho  gifite akambi				2002-02-02 02:02:02
@@ -2224,7 +2226,7 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHOUTFILL				0	ns	Sedirišwa
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHOUTFILL				0	or-IN	ପୂରଣ ସହିତ ବସ୍ତୁ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHOUTFILL				0	pa-IN	ਬਿਨਾਂ ਭਰਨ ਨਾਲ ਇਕਾਈ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHOUTFILL				0	pl	Obiekt bez wypełnienia				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHOUTFILL				0	pt	Objecto não preenchido				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHOUTFILL				0	pt	Objecto não preenchido				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHOUTFILL				0	pt-BR	Objeto sem preenchimento				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHOUTFILL				0	ru	Объект без заливки				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHOUTFILL				0	rw	Ikikoresho nta kuzuza				2002-02-02 02:02:02
@@ -2289,7 +2291,7 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHSHADOW				0	ns	Sedirišwa 
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHSHADOW				0	or-IN	ଛାଯା ସହିତ ବସ୍ତୁ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHSHADOW				0	pa-IN	ਛਾਂ ਨਾਲ ਇਕਾਈ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHSHADOW				0	pl	Obiekt z cieniem				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHSHADOW				0	pt	Objecto com sombra				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHSHADOW				0	pt	Objecto com sombra				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHSHADOW				0	pt-BR	Objeto com sombra				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHSHADOW				0	ru	Объект с тенью				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHSHADOW				0	rw	Igikoresho gifite igicucu				2002-02-02 02:02:02
@@ -2354,7 +2356,7 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXT				0	ns	Sengwalwa				2002-02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXT				0	or-IN	ଟେକ୍ସଟ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXT				0	pa-IN	ਪਾਠ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXT				0	pl	Tekst				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXT				0	pt	Texto				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXT				0	pt	Texto				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXT				0	pt-BR	Texto				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXT				0	ru	Текст				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXT				0	rw	Umwandiko				2002-02-02 02:02:02
@@ -2419,7 +2421,7 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY				0	ns	Mmele wa sengwal
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY				0	or-IN	ଟେକ୍ସଟ ଭାଗ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY				0	pa-IN	ਪਾਠ ਭਾਗ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY				0	pl	Treść tekstu				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY				0	pt	Corpo do texto				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY				0	pt	Corpo do texto				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY				0	pt-BR	Corpo do texto				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY				0	ru	Основной текст				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY				0	rw	Igihimba cy'umwandiko				2002-02-02 02:02:02
@@ -2483,7 +2485,7 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_INDENT				0	ns	Go kuba g
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_INDENT				0	or-IN	ପ୍ରଥମ ରେଖା ଇନଡେଣ୍ଟ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_INDENT				0	pa-IN	ਪਹਿਲੀ ਸਤਰ ਹਾਸ਼ੀਏ ਤੋਂ ਦੂਰ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_INDENT				0	pl	Wcięcie pierwszego wiersza				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_INDENT				0	pt	Abrir parágrafo				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_INDENT				0	pt	Abrir parágrafo				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_INDENT				0	pt-BR	Recuo da primeira linha				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_INDENT				0	ru	Первая строка с отступом				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_INDENT				0	rw	Isunika ry'umurongo wa mbere				2002-02-02 02:02:02
@@ -2546,7 +2548,7 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_JUSTIFY				0	ns	Mmele wa
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_JUSTIFY				0	or-IN	ଟେକ୍ସଟ ବିଭାଗ ୟୁକ୍ତିୟୁକ୍ତ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_JUSTIFY				0	pa-IN	ਪਾਠ ਭਾਗ ਸੰਤੁਲਿਤ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_JUSTIFY				0	pl	Tekst wyjustowany				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_JUSTIFY				0	pt	Corpo do texto justificado				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_JUSTIFY				0	pt	Corpo do texto justificado				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_JUSTIFY				0	pt-BR	Corpo do texto justificado				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_JUSTIFY				0	ru	Выравнивание текста по ширине				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_JUSTIFY				0	rw	Igihimba cy'umwandiko kiringanijwe				2002-02-02 02:02:02
@@ -2607,7 +2609,7 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE				0	ns	Sehlogo				2002-02-
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE				0	or-IN	ଶୀର୍ଷକ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE				0	pa-IN	ਸਿਰਲੇਖ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE				0	pl	Tytuł				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE				0	pt	Título3				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE				0	pt	Título3				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE				0	pt-BR	Título				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE				0	ru	Заголовок				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE				0	rw	Umutwe				2002-02-02 02:02:02
@@ -2672,7 +2674,7 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE1				0	ns	Sehlogo sa 1				20
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE1				0	or-IN	ଶୀର୍ଷକ୧				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE1				0	pa-IN	ਟਾਇਲ1				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE1				0	pl	Tytuł1				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE1				0	pt	Título4				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE1				0	pt	Título4				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE1				0	pt-BR	Título1				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE1				0	ru	Заголовок 1				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE1				0	rw	Umutwe1				2002-02-02 02:02:02
@@ -2737,7 +2739,7 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE2				0	ns	Sehlogo sa 2				20
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE2				0	or-IN	ଶୀର୍ଷକ୨				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE2				0	pa-IN	ਟਾਇਲ2				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE2				0	pl	Tytuł2				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE2				0	pt	Título5				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE2				0	pt	Título5				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE2				0	pt-BR	Título2				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE2				0	ru	Заголовок 2				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE2				0	rw	Umutwe2				2002-02-02 02:02:02
@@ -2801,7 +2803,7 @@ sd	source\core\glob.src	0	string	STR_POWERPOINT_IMPORT				0	ns	Kamogelo ya Power
 sd	source\core\glob.src	0	string	STR_POWERPOINT_IMPORT				0	or-IN	ପାଉଆରପଏଣ୍ଟ ଆମଦାନୀ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POWERPOINT_IMPORT				0	pa-IN	PowerPoint ਆਯਾਤ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POWERPOINT_IMPORT				0	pl	Import formatu PowerPoint				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_POWERPOINT_IMPORT				0	pt	Importação PowerPoint				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_POWERPOINT_IMPORT				0	pt	Importação PowerPoint				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POWERPOINT_IMPORT				0	pt-BR	Importar do PowerPoint				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POWERPOINT_IMPORT				0	ru	Импорт PowerPoint				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POWERPOINT_IMPORT				0	rw	Kuzana PowerPoint				2002-02-02 02:02:02
@@ -2864,7 +2866,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_CHART				0	ns	Kgotla gabedi bakeng 
 sd	source\core\glob.src	0	string	STR_PRESOBJ_CHART				0	or-IN	ଚାର୍ଟକୁ ମିଶାଇବାକୁ ଦୁଇଥର-କ୍ଲିକ୍ କର				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_CHART				0	pa-IN	ਚਾਰਟ ਸ਼ਾਮਿਲ ਕਰਨ ਲ਼ਈ ਦੋ ਵਾਰ ਦਬਾਓ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_CHART				0	pl	Dodaj wykres przez dwukrotne kliknięcie				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PRESOBJ_CHART				0	pt	Inserir gráfico com clique duplo				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_PRESOBJ_CHART				0	pt	Inserir gráfico com duplo clique				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_CHART				0	pt-BR	Clique duas vezes para adicionar um gráfico				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_CHART				0	ru	Добавьте диаграмму двойным щелчком				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_CHART				0	rw	Gukanda-kabiri mu kongeraho igishushanyo				2002-02-02 02:02:02
@@ -2929,7 +2931,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_GRAPHIC				0	ns	Kgotla gabedi baken
 sd	source\core\glob.src	0	string	STR_PRESOBJ_GRAPHIC				0	or-IN	ଲେଖାଚିତ୍ରଗୁଡିକୁ ମିଶାଇବାକୁ ଦୁଇଥର କ୍ଲିକ୍ କର				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_GRAPHIC				0	pa-IN	ਗਰਾਫਿਕਸ ਸ਼ਾਮਿਲ ਕਰਨ ਲਈ ਦੋ ਵਾਰ ਦਬਾਓ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_GRAPHIC				0	pl	Dodaj grafikę przez dwukrotne kliknięcie				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PRESOBJ_GRAPHIC				0	pt	Inserir gráfico com duplo clique				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_PRESOBJ_GRAPHIC				0	pt	Inserir gráfico com duplo clique				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_GRAPHIC				0	pt-BR	Clique duas vezes para adicionar figuras				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_GRAPHIC				0	ru	Добавьте графический объект двойным щелчком мыши				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_GRAPHIC				0	rw	Gukanda-kabiri mu kongeraho ibishushanyo				2002-02-02 02:02:02
@@ -3009,7 +3011,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_IMAGE			defined STARIMAGE_AVAILABLE
 sd	source\core\glob.src	0	string	STR_PRESOBJ_IMAGE			defined STARIMAGE_AVAILABLE	0	or-IN	ଗୋଟିଏ ଚିତ୍ରକୁ ମିଶାଇବାକୁ ଦୁଇଥର-କ୍ଲିକ୍ କର				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_IMAGE			defined STARIMAGE_AVAILABLE	0	pa-IN	ਚਿੱਤਰ ਸ਼ਾਮਿਲ ਕਰਨ ਲਈ ਦੋ ਵਾਰ ਦਬਾਓ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_IMAGE			defined STARIMAGE_AVAILABLE	0	pl	Dodaj obraz przez dwukrotne kliknięcie				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PRESOBJ_IMAGE			defined STARIMAGE_AVAILABLE	0	pt	Inserir imagem com clique duplo				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_PRESOBJ_IMAGE			defined STARIMAGE_AVAILABLE	0	pt	Inserir imagem com duplo clique				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_IMAGE			defined STARIMAGE_AVAILABLE	0	pt-BR	Clique duas vezes para adicionar uma imagem				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_IMAGE			defined STARIMAGE_AVAILABLE	0	ru	Добавить картинку двойным щелчком				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_IMAGE			defined STARIMAGE_AVAILABLE	0	rw	Gukanda-kabiri mu kongeraho ishusho				2002-02-02 02:02:02
@@ -3074,7 +3076,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTEXT				0	ns	Kgotla bakeng s
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTEXT				0	or-IN	ଟିପପ୍ଣୀଗୁଡିକର ପର୍ମାଟକୁ ସମ୍ପାଦନକରିବାକୁ କ୍ଲିକ୍ କର 				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTEXT				0	pa-IN	ਸੂਚਨਾ ਫਾਰਮਿਟ ਸੋਧਣ ਲਈ ਦਬਾਓ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTEXT				0	pl	Kliknij, aby edytować format notatek				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTEXT				0	pt	Clique para editar o formato das anotações				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTEXT				0	pt	Clique para editar o formato das anotações				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTEXT				0	pt-BR	Clique para editar o formato de notas				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTEXT				0	ru	Для правки формата примечаний щелкните мышью				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTEXT				0	rw	Gukanda mu guhindura imiterere y'impugukirwa				2002-02-02 02:02:02
@@ -3138,7 +3140,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTITLE				0	ns	Kgotla bakeng 
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTITLE				0	or-IN	ସ୍ଲାଇଡକୁ ଘୁଞ୍ଚାଇବା ପାଇଁ କ୍ଲିକ୍ କର				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTITLE				0	pa-IN	ਸਲਾਈਡ ਹਿਲਾਉਣ ਲਈ ਦਬਾਓ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTITLE				0	pl	Kliknij, aby przesunąć slajd				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTITLE				0	pt	Clique para mover a página				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTITLE				0	pt	Clique para mover o diapositivo				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTITLE				0	pt-BR	Clique para mover o slide				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTITLE				0	ru	Для перемещения страницы щелкните мышью				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTITLE				0	rw	Gukanda mu gukuraho igice				2002-02-02 02:02:02
@@ -3203,7 +3205,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLINE				0	ns	Kgotla bakeng sa 
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLINE				0	or-IN	ବାହ୍ଯରେଖା ଟେକ୍ସଟ ଫର୍ମାଟକୁ ସମ୍ପାଦନକରିବାକୁ କ୍ଲିକ୍ କର				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLINE				0	pa-IN	ਬਾਹਰੀ ਪਾਠ ਫਾਰਮਿਟ ਸੋਧਣ ਲਈ ਦਬਾਓ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLINE				0	pl	Kliknij, aby edytować format tekstu konspektu				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLINE				0	pt	Clique duplo para editar os formatos do esquema do texto				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLINE				0	pt	Duplo clique para editar os formatos do esquema do texto				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLINE				0	pt-BR	Clique para editar o formato do texto em estrutura de tópicos				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLINE				0	ru	Для правки структуры щелкните мышью				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLINE				0	rw	Gukanda mu kwandika imiterere y'imbata mwandiko				2002-02-02 02:02:02
@@ -3267,7 +3269,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER2				0	ns	Mogato wa Bobe
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER2				0	or-IN	ଦ୍ବିତୀଯ ବାହ୍ଯରେଖା ସ୍ତର				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER2				0	pa-IN	ਦੂਜਾ ਬਾਹਰੀ ਪੱਧਰ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER2				0	pl	Drugi poziom konspektu				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER2				0	pt	Segundo nível do esquema				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER2				0	pt	Segundo nível do esquema				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER2				0	pt-BR	Segundo Nível da Estrutura de Tópicos				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER2				0	ru	Второй уровень структуры				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER2				0	rw	Urwego w'Imbata ya Kabiri				2002-02-02 02:02:02
@@ -3331,7 +3333,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER3				0	ns	Mogato wa Bora
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER3				0	or-IN	ତୃତୀଯ ବାହ୍ଯରେଖା ସ୍ତର				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER3				0	pa-IN	ਤੀਜਾ ਬਾਹਰੀ ਪੱਧਰ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER3				0	pl	Trzeci poziom konspektu				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER3				0	pt	Terceiro nível do esquema				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER3				0	pt	Terceiro nível do esquema				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER3				0	pt-BR	Terceiro Nível da Estrutura de Tópicos				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER3				0	ru	Третий уровень структуры				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER3				0	rw	Urwego w'Imbata ya Gatatu				2002-02-02 02:02:02
@@ -3395,7 +3397,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER4				0	ns	Mogato wa Bone
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER4				0	or-IN	ଚତୁର୍ଥ ବାହ୍ଯରେଖା ସ୍ତର				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER4				0	pa-IN	ਚੌਥਾ ਬਾਹਰੀ ਪੱਧਰ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER4				0	pl	Czwarty poziom konspektu				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER4				0	pt	Quarto nível do esquema				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER4				0	pt	Quarto nível do esquema				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER4				0	pt-BR	Quarto Nível da Estrutura de Tópicos				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER4				0	ru	Четвертый уровень структуры				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER4				0	rw	Urwego w'Imbata ya Kane				2002-02-02 02:02:02
@@ -3459,7 +3461,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER5				0	ns	Mogato wa Bohl
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER5				0	or-IN	ପଞ୍ଚମ ବାହ୍ଯରେଖା ସ୍ତର				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER5				0	pa-IN	ਪੰਜਵਾਂ ਬਾਹਰੀ ਪੱਧਰ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER5				0	pl	Piąty poziom konspektu				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER5				0	pt	Quinto nível do esquema				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER5				0	pt	Quinto nível do esquema				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER5				0	pt-BR	Quinto Nível da Estrutura de Tópicos				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER5				0	ru	Пятый уровень структуры				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER5				0	rw	Urwego w'Imbata ya Gatanu				2002-02-02 02:02:02
@@ -3523,7 +3525,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER6				0	ns	Mogato wa Bose
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER6				0	or-IN	ଷଷ୍ଠ ବାହ୍ଯରେଖା ସ୍ତର				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER6				0	pa-IN	ਛੇਵਾਂ ਬਾਹਰੀ ਪੱਧਰ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER6				0	pl	Szósty poziom konspektu				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER6				0	pt	Sexto nível do esquema				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER6				0	pt	Sexto nível do esquema				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER6				0	pt-BR	Sexto Nível da Estrutura de Tópicos				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER6				0	ru	Шестой уровень структуры				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER6				0	rw	Urwego w'Imbata ya Gatandatu				2002-02-02 02:02:02
@@ -3587,7 +3589,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER7				0	ns	Mogato wa Boš
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER7				0	or-IN	ସପ୍ତମ ବାହ୍ଯରେଖା ସ୍ତର				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER7				0	pa-IN	ਸੱਤਵਾਂ ਬਾਹਰੀ ਪੱਧਰ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER7				0	pl	Siódmy poziom konspektu				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER7				0	pt	Sétimo nível do esquema				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER7				0	pt	Sétimo nível do esquema				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER7				0	pt-BR	Sétimo Nível da Estrutura de Tópicos				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER7				0	ru	Седьмой уровень структуры				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER7				0	rw	Urwego w'Imbata ya Karindwi				2002-02-02 02:02:02
@@ -3651,7 +3653,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER8				0	ns	Mogato wa Sesw
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER8				0	or-IN	ଅଷ୍ଟମ ବାହ୍ଯରେଖା ସ୍ତର				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER8				0	pa-IN	ਅੱਠਵਾਂ ਬਾਹਰੀ ਪੱਧਰ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER8				0	pl	Ósmy poziom konspektu				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER8				0	pt	Oitavo nível do esquema				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER8				0	pt	Oitavo nível do esquema				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER8				0	pt-BR	Oitavo Nível da Estrutura de Tópicos				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER8				0	ru	Восьмой уровень структуры				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER8				0	rw	Urwego w'Imbata ya Munani				2002-02-02 02:02:02
@@ -3715,7 +3717,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER9				0	ns	Mogato wa Bose
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER9				0	or-IN	ନବମ ବାହ୍ଯରେଖା ସ୍ତର				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER9				0	pa-IN	ਨੌਵਾਂ ਬਾਹਰੀ ਪੱਧਰ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER9				0	pl	Dziewiąty poziom konspektu				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER9				0	pt	Nono nível do esquema				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER9				0	pt	Nono nível do esquema				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER9				0	pt-BR	Nono Nível da Estrutura de Tópicos				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER9				0	ru	Девятый уровень структуры				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER9				0	rw	Urwego w'Imbata ya Cyenda				2002-02-02 02:02:02
@@ -3780,7 +3782,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_MPTITLE				0	ns	Kgotla bakeng sa go
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPTITLE				0	or-IN	ଶୀର୍ଷକ ଟେକ୍ସଟ ଫର୍ମାଟକୁ ସମ୍ପାଦନକରିବାକୁ କ୍ଲକ କର				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPTITLE				0	pa-IN	ਸਿਰਲੇਖ ਪਾਠ ਫਾਰਮਿਟ ਸੋਧਣ ਲਈ ਦਬਾਓ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPTITLE				0	pl	Kliknij, aby edytować format tekstu tytułu				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PRESOBJ_MPTITLE				0	pt	Clique para editar o formato do texto-título				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_PRESOBJ_MPTITLE				0	pt	Clique para editar o formato do texto-título				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPTITLE				0	pt-BR	Clique para editar o formato do título de texto				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPTITLE				0	ru	Для правки текста заголовка щелкните мышью				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPTITLE				0	rw	Gukanda mu kwandika imiterere y'umutwe mwandiko				2002-02-02 02:02:02
@@ -3845,7 +3847,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_NOTESTEXT				0	ns	Kgotla bakeng sa 
 sd	source\core\glob.src	0	string	STR_PRESOBJ_NOTESTEXT				0	or-IN	ଟିପପ୍ଣୀଗୁଡିକୁ ମିଶାଇବାକୁ କ୍ଲିକ୍ କର				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_NOTESTEXT				0	pa-IN	ਸੂਚਨਾ ਸ਼ਾਮਿਲ ਕਰਨ ਲ਼ਈ ਦਬਾਓ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_NOTESTEXT				0	pl	Kliknij, aby dodać notatki				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PRESOBJ_NOTESTEXT				0	pt	Clique para inserir anotações				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_PRESOBJ_NOTESTEXT				0	pt	Clique para inserir anotações				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_NOTESTEXT				0	pt-BR	Clique para adicionar notas				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_NOTESTEXT				0	ru	Для добавления примечания щелкните мышью				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_NOTESTEXT				0	rw	Gukanda mu kongeraho impugukirwa				2002-02-02 02:02:02
@@ -3910,7 +3912,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_OBJECT				0	ns	Kgotla gabedi bakeng
 sd	source\core\glob.src	0	string	STR_PRESOBJ_OBJECT				0	or-IN	ବସ୍ତୁକୁ ମିଶାଇବାକୁ ଦୁଇଥର-କ୍ଲିକ୍ କର				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_OBJECT				0	pa-IN	ਇਕਾਈ ਸ਼ਾਮਿਲ ਕਰਨ ਲਈ ਦੋ ਵਾਰ ਦਬਾਓ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_OBJECT				0	pl	Dodaj obiekt przez dwukrotne kliknięcie				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PRESOBJ_OBJECT				0	pt	Inserir objecto com clique duplo				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_PRESOBJ_OBJECT				0	pt	Inserir objecto com duplo clique				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_OBJECT				0	pt-BR	Clique duas vezes para adicionar um objeto				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_OBJECT				0	ru	Добавьте объект двойным щелчком мыши				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_OBJECT				0	rw	Gukanda-kabiri mu kongeraho igikoresho				2002-02-02 02:02:02
@@ -3974,7 +3976,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_ORGCHART				0	ns	Kgotla gabedi bake
 sd	source\core\glob.src	0	string	STR_PRESOBJ_ORGCHART				0	or-IN	ଗୋଟିଏ ସଙ୍ଗଠନ ଚାର୍ଟକୁ ମିଶାଇବାକୁ ଦୁଇଥର-କ୍ଲିକ୍ କର 				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_ORGCHART				0	pa-IN	ਸੰਗਠਨ ਚਾਰਟ ਸ਼ਾਮਿਲ ਕਰਨ ਲਈ ਦੋ ਵਾਰ ਦਬਾਓ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_ORGCHART				0	pl	Dodaj schemat organizacyjny przez dwukrotne kliknięcie				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PRESOBJ_ORGCHART				0	pt	Inserir gráfico de organização com clique duplo				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_PRESOBJ_ORGCHART				0	pt	Inserir gráfico de organização com duplo clique				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_ORGCHART				0	pt-BR	Clique duas vezes para adicionar um fluxograma				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_ORGCHART				0	ru	Добавьте организационную диаграмму двойным щелчком мыши				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_ORGCHART				0	rw	Gukanda-kabiri mu kongeraho ishusho ndangakigo				2002-02-02 02:02:02
@@ -4038,7 +4040,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_OUTLINE				0	ns	Kgotla bakeng sa go
 sd	source\core\glob.src	0	string	STR_PRESOBJ_OUTLINE				0	or-IN	ବାହ୍ଯରେଖାକୁ ମିଶାଇବାକୁ କ୍ଲିକ୍ କର				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_OUTLINE				0	pa-IN	ਬਾਹਰੀ ਰੇਖਾ ਸ਼ਾਮਿਲ ਕਰਨ ਲਈ ਦਬਾਓ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_OUTLINE				0	pl	Kliknij, aby dodać konspekt				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PRESOBJ_OUTLINE				0	pt	Clique para inserir esquema				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_PRESOBJ_OUTLINE				0	pt	Clique para inserir esquema				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_OUTLINE				0	pt-BR	Clique para adicionar uma estrutura de tópicos				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_OUTLINE				0	ru	Для добавления структуры щелкните мышью				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_OUTLINE				0	rw	Gukanda mu kongeraho imbata				2002-02-02 02:02:02
@@ -4102,7 +4104,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_TABLE				0	ns	Kgotla gabedi bakeng 
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TABLE				0	or-IN	 ଗୋଟିଏ ସ୍ପ୍ରେଡ୍ସିଟ୍କୁ ମିଶାଇବାକୁ ଦୁଇଥର-କ୍ଲିକ୍ କର 				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TABLE				0	pa-IN	ਸਾਰਣੀ ਸ਼ਾਮਿਲ ਕਰਨ ਲਈ ਦੋ ਵਾਰ ਦਬਾਓ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TABLE				0	pl	Dodaj arkusz kalkulacyjny przez dwukrotne kliknięcie				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PRESOBJ_TABLE				0	pt	Inserir folha de cálculo com clique duplo				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_PRESOBJ_TABLE				0	pt	Inserir folha de cálculo com duplo clique				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TABLE				0	pt-BR	Clique duas vezes para adicionar uma planilha				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TABLE				0	ru	Добавьте электронную таблицу двойным щелчком мыши				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TABLE				0	rw	Gukanda-kabiri mu kongeraho urupapurorusesuye				2002-02-02 02:02:02
@@ -4167,7 +4169,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_TEXT				0	ns	Kgotla bakeng sa go ok
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TEXT				0	or-IN	ଟେକ୍ସଟକୁ ମିଶାଇବାକୁ କ୍ଲିକ୍ କର				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TEXT				0	pa-IN	ਪਾਠ ਸ਼ਾਮਿਲ ਕਰਨ ਲਈ ਦਬਾਓ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TEXT				0	pl	Kliknij, aby dodać tekst				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PRESOBJ_TEXT				0	pt	Inserir texto com clique duplo				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_PRESOBJ_TEXT				0	pt	Inserir texto com duplo clique				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TEXT				0	pt-BR	Clique para adicionar texto				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TEXT				0	ru	Для добавления текста щелкните мышью				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TEXT				0	rw	Gukanda mu kongeraho umwandiko				2002-02-02 02:02:02
@@ -4232,7 +4234,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_TITLE				0	ns	Kgotla bakeng sa go o
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TITLE				0	or-IN	ଶୀର୍ଷକକୁ ମିଶାଇବାକୁ କ୍ଲିକ୍ କର				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TITLE				0	pa-IN	ਸਿਰਲੇਖ ਸ਼ਾਮਿਲ ਕਰਨ ਲਈ ਦਬਾਓ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TITLE				0	pl	Kliknij, aby dodać tytuł				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PRESOBJ_TITLE				0	pt	Inserir texto com clique duplo				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_PRESOBJ_TITLE				0	pt	Inserir texto com clique duplo				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TITLE				0	pt-BR	Clique para adicionar título				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TITLE				0	ru	Для добавления заголовка щелкните мышью				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TITLE				0	rw	Gukanda mu kongeraho umutwe				2002-02-02 02:02:02
@@ -4297,7 +4299,7 @@ sd	source\core\glob.src	0	string	STR_PRESVIEWSHELL				0	ns	Mokgwa wa tlhagišo		
 sd	source\core\glob.src	0	string	STR_PRESVIEWSHELL				0	or-IN	ଉପସ୍ଥାପନା ମୋଡ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESVIEWSHELL				0	pa-IN	ਪੇਸ਼ਕਾਰੀ ਢੰਗ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESVIEWSHELL				0	pl	Tryb prezentacji				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PRESVIEWSHELL				0	pt	Modo de apresentação				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_PRESVIEWSHELL				0	pt	Modo de apresentação				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESVIEWSHELL				0	pt-BR	Modo de apresentação				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESVIEWSHELL				0	ru	Режим презентации				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESVIEWSHELL				0	rw	Uburyo bw'iyerekana				2002-02-02 02:02:02
@@ -4362,7 +4364,7 @@ sd	source\core\glob.src	0	string	STR_PREVIEWVIEWSHELL				0	ns	Lefestere la Ponel
 sd	source\core\glob.src	0	string	STR_PREVIEWVIEWSHELL				0	or-IN	ପୂର୍ବଦୃଶ୍ଯ ଉଇଣ୍ଡୋ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PREVIEWVIEWSHELL				0	pa-IN	ਝਾਤੀ ਝਰੋਖਾ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PREVIEWVIEWSHELL				0	pl	Okno podglądu				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PREVIEWVIEWSHELL				0	pt	Janela Previsualizar				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_PREVIEWVIEWSHELL				0	pt	Janela Previsualizar				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PREVIEWVIEWSHELL				0	pt-BR	Janela de visualização				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PREVIEWVIEWSHELL				0	ru	Окно предварительного просмотра				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PREVIEWVIEWSHELL				0	rw	Idirishya ry'igaragazambere				2002-02-02 02:02:02
@@ -4426,7 +4428,7 @@ sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUND				0	ns	Bo ka morago
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUND				0	or-IN	ପୃଷ୍ଠଭାଗ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUND				0	pa-IN	ਪਿੱਠਭੂਮੀ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUND				0	pl	Tło				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUND				0	pt	Plano de fundo				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUND				0	pt	Plano de fundo				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUND				0	pt-BR	Plano de fundo				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUND				0	ru	Фон				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUND				0	rw	Mbuganyuma				2002-02-02 02:02:02
@@ -4489,7 +4491,7 @@ sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUNDOBJECTS				0	ns	Didir
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUNDOBJECTS				0	or-IN	ପୃଷ୍ଠଭାଗ ବସ୍ତୁଗୁଡିକ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUNDOBJECTS				0	pa-IN	ਪਿੱਠਭੂਮੀ ਇਕਾਈਆਂ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUNDOBJECTS				0	pl	Obiekty tła				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUNDOBJECTS				0	pt	Objectos do plano de fundo				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUNDOBJECTS				0	pt	Objectos do plano de fundo				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUNDOBJECTS				0	pt-BR	Objetos de plano de fundo				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUNDOBJECTS				0	ru	Объекты фона				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUNDOBJECTS				0	rw	Ibikoresho mbuganyuma				2002-02-02 02:02:02
@@ -4553,7 +4555,7 @@ sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_NOTES				0	ns	Dintlha				2002-0
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_NOTES				0	or-IN	ଟିପପ୍ଣୀଗୁଡିକ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_NOTES				0	pa-IN	ਸੂਚਨਾ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_NOTES				0	pl	Notatki				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_NOTES				0	pt	Anotações				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_NOTES				0	pt	Anotações				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_NOTES				0	pt-BR	Notas				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_NOTES				0	ru	Примечания				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_NOTES				0	rw	Ibisobanuro				2002-02-02 02:02:02
@@ -4618,7 +4620,7 @@ sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_OUTLINE				0	ns	Kakaretšo				2
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_OUTLINE				0	or-IN	ବାହ୍ଯରେଖା				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_OUTLINE				0	pa-IN	ਬਾਹਰੀ ਰੇਖਾ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_OUTLINE				0	pl	Konspekt				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_OUTLINE				0	pt	Esquema				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_OUTLINE				0	pt	Esquema				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_OUTLINE				0	pt-BR	Estrutura de Tópicos				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_OUTLINE				0	ru	Структура				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_OUTLINE				0	rw	Imbata				2002-02-02 02:02:02
@@ -4683,7 +4685,7 @@ sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_SUBTITLE				0	ns	Sehlogwana				
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_SUBTITLE				0	or-IN	ଉପଶୀର୍ଷକ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_SUBTITLE				0	pa-IN	ਅਧੀਨ-ਸਿਰਲੇਖ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_SUBTITLE				0	pl	Podtytuł				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_SUBTITLE				0	pt	Subtítulo				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_SUBTITLE				0	pt	Subtítulo				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_SUBTITLE				0	pt-BR	Subtítulo				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_SUBTITLE				0	ru	Подзаголовок				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_SUBTITLE				0	rw	Umutwe wungirije				2002-02-02 02:02:02
@@ -4747,7 +4749,7 @@ sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_TITLE				0	ns	Sehlogo				2002-0
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_TITLE				0	or-IN	ଶୀର୍ଷକ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_TITLE				0	pa-IN	ਸਿਰਲੇਖ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_TITLE				0	pl	Tytuł				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_TITLE				0	pt	Capitulo				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_TITLE				0	pt	Capitulo				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_TITLE				0	pt-BR	Título				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_TITLE				0	ru	Заголовок				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_TITLE				0	rw	Umutwe				2002-02-02 02:02:02
@@ -4812,7 +4814,7 @@ sd	source\core\glob.src	0	string	STR_SAVE_DOC				0	ns	Boloka Tokumente				2002-0
 sd	source\core\glob.src	0	string	STR_SAVE_DOC				0	or-IN	ଦଲିଲ ସଞ୍ଚଯ କର				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SAVE_DOC				0	pa-IN	ਦਸਤਾਵੇਜ਼ ਸੰਭਾਲੋ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SAVE_DOC				0	pl	Zapisz dokument				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_SAVE_DOC				0	pt	Guardar documento				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_SAVE_DOC				0	pt	Guardar documento				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SAVE_DOC				0	pt-BR	Salvar documento				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SAVE_DOC				0	ru	Сохранить документ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SAVE_DOC				0	rw	Kubika inyandiko				2002-02-02 02:02:02
@@ -4878,7 +4880,7 @@ sd	source\core\glob.src	0	string	STR_SLIDEVIEWSHELL				0	ns	Mokgwa wa Seswantšh
 sd	source\core\glob.src	0	string	STR_SLIDEVIEWSHELL				0	or-IN	ସ୍ଲାଇଡ ମୋଡ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SLIDEVIEWSHELL				0	pa-IN	ਸਲਾਈਡ ਢੰਗ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SLIDEVIEWSHELL				0	pl	Tryb slajdu				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_SLIDEVIEWSHELL				0	pt	Modo Diapositivos				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_SLIDEVIEWSHELL				0	pt	Modo diapositivos				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SLIDEVIEWSHELL				0	pt-BR	Modo de Slide				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SLIDEVIEWSHELL				0	ru	Режим слайдов				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SLIDEVIEWSHELL				0	rw	Uburyo bw'Igice				2002-02-02 02:02:02
@@ -4939,6 +4941,7 @@ sd	source\core\glob.src	0	string	STR_SLIDE_NAME				0	ns	Thelela				2002-02-02 02
 sd	source\core\glob.src	0	string	STR_SLIDE_NAME				0	or-IN	ସ୍ଲାଇଡ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SLIDE_NAME				0	pa-IN	ਸਲਾਈਡ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SLIDE_NAME				0	pl	Slajd				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_SLIDE_NAME				0	pt	Diapositivo				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SLIDE_NAME				0	pt-BR	Slide				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SLIDE_NAME				0	ru	Слайд				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SLIDE_NAME				0	rw	Igice				2002-02-02 02:02:02
@@ -5002,7 +5005,7 @@ sd	source\core\glob.src	0	string	STR_STANDARD_STYLESHEET_NAME				0	ns	Tlhaelelo	
 sd	source\core\glob.src	0	string	STR_STANDARD_STYLESHEET_NAME				0	or-IN	ଡିଫଲଟ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_STANDARD_STYLESHEET_NAME				0	pa-IN	ਮੂਲ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_STANDARD_STYLESHEET_NAME				0	pl	Domyślnie				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_STANDARD_STYLESHEET_NAME				0	pt	Padrão				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_STANDARD_STYLESHEET_NAME				0	pt	Padrão				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_STANDARD_STYLESHEET_NAME				0	pt-BR	Padrão				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_STANDARD_STYLESHEET_NAME				0	ru	Базовый				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_STANDARD_STYLESHEET_NAME				0	rw	Mburabuzi				2002-02-02 02:02:02
@@ -5067,7 +5070,7 @@ sd	source\core\glob.src	0	string	STR_STDOBJECTBARSHELL				0	ns	Mokgwa wa Tokumen
 sd	source\core\glob.src	0	string	STR_STDOBJECTBARSHELL				0	or-IN	ଦଲିଲ ମୋଡ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_STDOBJECTBARSHELL				0	pa-IN	ਦਸਤਾਵੇਜ਼ ਢੰਗ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_STDOBJECTBARSHELL				0	pl	Tryb dokumentu				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_STDOBJECTBARSHELL				0	pt	Modo Documento				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_STDOBJECTBARSHELL				0	pt	Modo Documento				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_STDOBJECTBARSHELL				0	pt-BR	Modo do Documento				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_STDOBJECTBARSHELL				0	ru	Режим документа				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_STDOBJECTBARSHELL				0	rw	Uburyo bw'Inyandiko				2002-02-02 02:02:02
@@ -5132,7 +5135,7 @@ sd	source\core\glob.src	0	string	STR_TEXTOBJECTBARSHELL				0	ns	Mokgwa wa Sengwa
 sd	source\core\glob.src	0	string	STR_TEXTOBJECTBARSHELL				0	or-IN	ଟେକ୍ସଟ ମୋଡ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_TEXTOBJECTBARSHELL				0	pa-IN	ਪਾਠ ਢੰਗ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_TEXTOBJECTBARSHELL				0	pl	Tryb tekstowy				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_TEXTOBJECTBARSHELL				0	pt	Modo Texto				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_TEXTOBJECTBARSHELL				0	pt	Modo Texto				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_TEXTOBJECTBARSHELL				0	pt-BR	Modo de Texto				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_TEXTOBJECTBARSHELL				0	ru	Режим текста				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_TEXTOBJECTBARSHELL				0	rw	Uburyo bw'Umwandiko				2002-02-02 02:02:02
@@ -5196,7 +5199,7 @@ sd	source\core\glob.src	0	string	STR_UNDO_MOVEPAGES				0	ns	Šuthiša diswantšh
 sd	source\core\glob.src	0	string	STR_UNDO_MOVEPAGES				0	or-IN	ସ୍ଲାଇଡଗୁଡିକ ଘୁଞ୍ଚାଅ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_UNDO_MOVEPAGES				0	pa-IN	ਸਲਾਈਡਾਂ ਹਿਲਾਓ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_UNDO_MOVEPAGES				0	pl	Przenieś slajdy				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_UNDO_MOVEPAGES				0	pt	Mover páginas				20040507 14:24:12
+sd	source\core\glob.src	0	string	STR_UNDO_MOVEPAGES				0	pt	Mover diapositivos				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_UNDO_MOVEPAGES				0	pt-BR	Mover slides				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_UNDO_MOVEPAGES				0	ru	Переместить слайды				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_UNDO_MOVEPAGES				0	rw	Kwimura ibice				2002-02-02 02:02:02
