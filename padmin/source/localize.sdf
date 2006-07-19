@@ -13,9 +13,9 @@
 #
 #   $RCSfile: localize.sdf,v $
 #
-#   $Revision: 1.19 $
+#   $Revision: 1.20 $
 #
-#   last change: $Author: ihi $ $Date: 2006-06-26 15:32:49 $
+#   last change: $Author: kz $ $Date: 2006-07-19 23:52:32 $
 #
 #   The Contents of this file are made available subject to
 #   the terms of GNU Lesser General Public License Version 2.1.
@@ -80,7 +80,7 @@ padmin	source\padialog.src	0	cancelbutton	RID_PADIALOG	RID_PA_BTN_CANCEL			60	ns
 padmin	source\padialog.src	0	cancelbutton	RID_PADIALOG	RID_PA_BTN_CANCEL			60	or-IN	ବନ୍ଦକର				2002-02-02 02:02:02
 padmin	source\padialog.src	0	cancelbutton	RID_PADIALOG	RID_PA_BTN_CANCEL			60	pa-IN	ਬੰਦ				2002-02-02 02:02:02
 padmin	source\padialog.src	0	cancelbutton	RID_PADIALOG	RID_PA_BTN_CANCEL			60	pl	Zamknij				2002-02-02 02:02:02
-padmin	source\padialog.src	0	cancelbutton	RID_PADIALOG	RID_PA_BTN_CANCEL			60	pt	~Fechar				2002-02-02 02:02:02
+padmin	source\padialog.src	0	cancelbutton	RID_PADIALOG	RID_PA_BTN_CANCEL			60	pt	Fechar				2002-02-02 02:02:02
 padmin	source\padialog.src	0	cancelbutton	RID_PADIALOG	RID_PA_BTN_CANCEL			60	pt-BR	Fechar				2002-02-02 02:02:02
 padmin	source\padialog.src	0	cancelbutton	RID_PADIALOG	RID_PA_BTN_CANCEL			60	ru	Закрыть				2002-02-02 02:02:02
 padmin	source\padialog.src	0	cancelbutton	RID_PADIALOG	RID_PA_BTN_CANCEL			60	rw	Gufunga				2002-02-02 02:02:02
@@ -146,7 +146,7 @@ padmin	source\padialog.src	0	checkbox	RID_ADDP_PAGE_NAME	RID_ADDP_NAME_BOX_DEFAU
 padmin	source\padialog.src	0	checkbox	RID_ADDP_PAGE_NAME	RID_ADDP_NAME_BOX_DEFAULT			160	or-IN	ଡିଫଲଟ ପ୍ରିଣ୍ଟର ପରି ଉପୟୋଗକର୤				2002-02-02 02:02:02
 padmin	source\padialog.src	0	checkbox	RID_ADDP_PAGE_NAME	RID_ADDP_NAME_BOX_DEFAULT			160	pa-IN	ਮੂਲ ਪ੍ਰਿੰਟਰ ਤੌਰ ਤੇ ਵਰਤੋਂ(~u)				2002-02-02 02:02:02
 padmin	source\padialog.src	0	checkbox	RID_ADDP_PAGE_NAME	RID_ADDP_NAME_BOX_DEFAULT			160	pl	~Użyj jako drukarkę domyślną				2002-02-02 02:02:02
-padmin	source\padialog.src	0	checkbox	RID_ADDP_PAGE_NAME	RID_ADDP_NAME_BOX_DEFAULT			160	pt	~Definir como impressora padrão				2002-02-02 02:02:02
+padmin	source\padialog.src	0	checkbox	RID_ADDP_PAGE_NAME	RID_ADDP_NAME_BOX_DEFAULT			160	pt	~Definir como impressora predefinida				2002-02-02 02:02:02
 padmin	source\padialog.src	0	checkbox	RID_ADDP_PAGE_NAME	RID_ADDP_NAME_BOX_DEFAULT			160	pt-BR	~Usar como impressora padrão				2002-02-02 02:02:02
 padmin	source\padialog.src	0	checkbox	RID_ADDP_PAGE_NAME	RID_ADDP_NAME_BOX_DEFAULT			160	ru	Использовать как принтер по умолчанию				2002-02-02 02:02:02
 padmin	source\padialog.src	0	checkbox	RID_ADDP_PAGE_NAME	RID_ADDP_NAME_BOX_DEFAULT			160	rw	Koresha mucapyi mburaburabuzi				2002-02-02 02:02:02
@@ -211,7 +211,7 @@ padmin	source\padialog.src	0	checkbox	RID_ADDP_PAGE_NAME	RID_ADDP_NAME_BOX_FAXSW
 padmin	source\padialog.src	0	checkbox	RID_ADDP_PAGE_NAME	RID_ADDP_NAME_BOX_FAXSWALLOW			160	or-IN	ଆଉଟପୁଟରୁ ଫ୍ଯାକ୍ସ ନମ୍ବରକୁ ହଟାଅ				2002-02-02 02:02:02
 padmin	source\padialog.src	0	checkbox	RID_ADDP_PAGE_NAME	RID_ADDP_NAME_BOX_FAXSWALLOW			160	pa-IN	ਆਊਟ-ਪੁੱਟ ਤੋਂ ਫੈਕਸ ਅੰਕ ਹਟਾਓ(~v)				2002-02-02 02:02:02
 padmin	source\padialog.src	0	checkbox	RID_ADDP_PAGE_NAME	RID_ADDP_NAME_BOX_FAXSWALLOW			160	pl	Usuń z ~wyjścia numer faksu				2002-02-02 02:02:02
-padmin	source\padialog.src	0	checkbox	RID_ADDP_PAGE_NAME	RID_ADDP_NAME_BOX_FAXSWALLOW			160	pt	~Remover nº de fax da saída				2002-02-02 02:02:02
+padmin	source\padialog.src	0	checkbox	RID_ADDP_PAGE_NAME	RID_ADDP_NAME_BOX_FAXSWALLOW			160	pt	~Remover nº de fax da impressão				2002-02-02 02:02:02
 padmin	source\padialog.src	0	checkbox	RID_ADDP_PAGE_NAME	RID_ADDP_NAME_BOX_FAXSWALLOW			160	pt-BR	Remo~ver número de fax da saída				2002-02-02 02:02:02
 padmin	source\padialog.src	0	checkbox	RID_ADDP_PAGE_NAME	RID_ADDP_NAME_BOX_FAXSWALLOW			160	ru	~Удалить номер факса из вывода				2002-02-02 02:02:02
 padmin	source\padialog.src	0	checkbox	RID_ADDP_PAGE_NAME	RID_ADDP_NAME_BOX_FAXSWALLOW			160	rw	Kura nimero ya fagisi mu gisubizo				2002-02-02 02:02:02
@@ -341,7 +341,7 @@ padmin	source\padialog.src	0	checkbox	RID_FONTIMPORT_DIALOG	RID_FIMP_BOX_SUBDIRS
 padmin	source\padialog.src	0	checkbox	RID_FONTIMPORT_DIALOG	RID_FIMP_BOX_SUBDIRS			145	or-IN	ଉପବିବରଣୀପଞ୍ଜିକା ତଦନ୍ତ				2002-02-02 02:02:02
 padmin	source\padialog.src	0	checkbox	RID_FONTIMPORT_DIALOG	RID_FIMP_BOX_SUBDIRS			145	pa-IN	ਅਧੀਨ-ਡਾਇਰੈਕਟਰੀਆਂ ਖੋਜੋ(~r)				2002-02-02 02:02:02
 padmin	source\padialog.src	0	checkbox	RID_FONTIMPORT_DIALOG	RID_FIMP_BOX_SUBDIRS			145	pl	P~rzeszukaj podkatalogi				2002-02-02 02:02:02
-padmin	source\padialog.src	0	checkbox	RID_FONTIMPORT_DIALOG	RID_FIMP_BOX_SUBDIRS			145	pt	Procu~rar Subdirectórios				2002-02-02 02:02:02
+padmin	source\padialog.src	0	checkbox	RID_FONTIMPORT_DIALOG	RID_FIMP_BOX_SUBDIRS			145	pt	P~rocurar subdirectórios				2002-02-02 02:02:02
 padmin	source\padialog.src	0	checkbox	RID_FONTIMPORT_DIALOG	RID_FIMP_BOX_SUBDIRS			145	pt-BR	Pesquisa~r subdiretórios				2002-02-02 02:02:02
 padmin	source\padialog.src	0	checkbox	RID_FONTIMPORT_DIALOG	RID_FIMP_BOX_SUBDIRS			145	ru	Искать в подкаталогах				2002-02-02 02:02:02
 padmin	source\padialog.src	0	checkbox	RID_FONTIMPORT_DIALOG	RID_FIMP_BOX_SUBDIRS			145	rw	Gushaka Ububikobwungirije				2002-02-02 02:02:02
@@ -404,7 +404,7 @@ padmin	source\padialog.src	0	edit	RID_ADDP_PAGE_NAME	RID_ADDP_NAME_EDT_FAXNAME		
 padmin	source\padialog.src	0	edit	RID_ADDP_PAGE_NAME	RID_ADDP_NAME_EDT_FAXNAME			160	or-IN	ଫ୍ଯାକ୍ସ ପ୍ରିଣ୍ଟର				2002-02-02 02:02:02
 padmin	source\padialog.src	0	edit	RID_ADDP_PAGE_NAME	RID_ADDP_NAME_EDT_FAXNAME			160	pa-IN	ਫੈਕਸ ਪ੍ਰਿੰਟਰ				2002-02-02 02:02:02
 padmin	source\padialog.src	0	edit	RID_ADDP_PAGE_NAME	RID_ADDP_NAME_EDT_FAXNAME			160	pl	Drukarka faksowa				2002-02-02 02:02:02
-padmin	source\padialog.src	0	edit	RID_ADDP_PAGE_NAME	RID_ADDP_NAME_EDT_FAXNAME			160	pt	Impressora fax				2002-02-02 02:02:02
+padmin	source\padialog.src	0	edit	RID_ADDP_PAGE_NAME	RID_ADDP_NAME_EDT_FAXNAME			160	pt	Impressora/fax				2002-02-02 02:02:02
 padmin	source\padialog.src	0	edit	RID_ADDP_PAGE_NAME	RID_ADDP_NAME_EDT_FAXNAME			160	pt-BR	Impressora de fax				2002-02-02 02:02:02
 padmin	source\padialog.src	0	edit	RID_ADDP_PAGE_NAME	RID_ADDP_NAME_EDT_FAXNAME			160	ru	Факс-принтер				2002-02-02 02:02:02
 padmin	source\padialog.src	0	edit	RID_ADDP_PAGE_NAME	RID_ADDP_NAME_EDT_FAXNAME			160	rw	Mucapyi ya fagisi				2002-02-02 02:02:02
@@ -468,7 +468,7 @@ padmin	source\padialog.src	0	edit	RID_ADDP_PAGE_NAME	RID_ADDP_NAME_EDT_PDFNAME		
 padmin	source\padialog.src	0	edit	RID_ADDP_PAGE_NAME	RID_ADDP_NAME_EDT_PDFNAME			160	or-IN	PDF ରୂପାନ୍ତରକ				2002-02-02 02:02:02
 padmin	source\padialog.src	0	edit	RID_ADDP_PAGE_NAME	RID_ADDP_NAME_EDT_PDFNAME			160	pa-IN	PDF ਤਬਦੀਲੀਕਾਰ				2002-02-02 02:02:02
 padmin	source\padialog.src	0	edit	RID_ADDP_PAGE_NAME	RID_ADDP_NAME_EDT_PDFNAME			160	pl	Konwerter PDF				2002-02-02 02:02:02
-padmin	source\padialog.src	0	edit	RID_ADDP_PAGE_NAME	RID_ADDP_NAME_EDT_PDFNAME			160	pt	Conversor PDF				2002-02-02 02:02:02
+padmin	source\padialog.src	0	edit	RID_ADDP_PAGE_NAME	RID_ADDP_NAME_EDT_PDFNAME			160	pt	Conversor de PDF				2002-02-02 02:02:02
 padmin	source\padialog.src	0	edit	RID_ADDP_PAGE_NAME	RID_ADDP_NAME_EDT_PDFNAME			160	pt-BR	Conversor de PDF				2002-02-02 02:02:02
 padmin	source\padialog.src	0	edit	RID_ADDP_PAGE_NAME	RID_ADDP_NAME_EDT_PDFNAME			160	ru	Конвертер PDF				2002-02-02 02:02:02
 padmin	source\padialog.src	0	edit	RID_ADDP_PAGE_NAME	RID_ADDP_NAME_EDT_PDFNAME			160	rw	Muhinduzi ya PDF				2002-02-02 02:02:02
@@ -532,7 +532,7 @@ padmin	source\padialog.src	0	fixedline	RID_FONTIMPORT_DIALOG	RID_FIMP_FL_FROM			
 padmin	source\padialog.src	0	fixedline	RID_FONTIMPORT_DIALOG	RID_FIMP_FL_FROM			160	or-IN	ମୂଳ ବିବରଣୀପଞ୍ଜିକା				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedline	RID_FONTIMPORT_DIALOG	RID_FIMP_FL_FROM			160	pa-IN	ਸਰੋਤ ਡਾਇਰੈਕਟਰੀ				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedline	RID_FONTIMPORT_DIALOG	RID_FIMP_FL_FROM			160	pl	Katalog źródłowy				2002-02-02 02:02:02
-padmin	source\padialog.src	0	fixedline	RID_FONTIMPORT_DIALOG	RID_FIMP_FL_FROM			160	pt	Directório-fonte				2002-02-02 02:02:02
+padmin	source\padialog.src	0	fixedline	RID_FONTIMPORT_DIALOG	RID_FIMP_FL_FROM			160	pt	Directório origem				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedline	RID_FONTIMPORT_DIALOG	RID_FIMP_FL_FROM			160	pt-BR	Diretório de origem				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedline	RID_FONTIMPORT_DIALOG	RID_FIMP_FL_FROM			160	ru	Исходный каталог				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedline	RID_FONTIMPORT_DIALOG	RID_FIMP_FL_FROM			160	rw	Ububiko nkomoko				2002-02-02 02:02:02
@@ -597,7 +597,7 @@ padmin	source\padialog.src	0	fixedline	RID_FONTIMPORT_DIALOG	RID_FIMP_FL_TARGETO
 padmin	source\padialog.src	0	fixedline	RID_FONTIMPORT_DIALOG	RID_FIMP_FL_TARGETOPTS			160	or-IN	ଲକ୍ଷ୍ଯ  ବିକଳ୍ପଗୁଡିକ				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedline	RID_FONTIMPORT_DIALOG	RID_FIMP_FL_TARGETOPTS			160	pa-IN	ਟਿਕਾਣਾ ਚੋਣ				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedline	RID_FONTIMPORT_DIALOG	RID_FIMP_FL_TARGETOPTS			160	pl	Opcje				2002-02-02 02:02:02
-padmin	source\padialog.src	0	fixedline	RID_FONTIMPORT_DIALOG	RID_FIMP_FL_TARGETOPTS			160	pt	Opções de destino				2002-02-02 02:02:02
+padmin	source\padialog.src	0	fixedline	RID_FONTIMPORT_DIALOG	RID_FIMP_FL_TARGETOPTS			160	pt	Opções destino				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedline	RID_FONTIMPORT_DIALOG	RID_FIMP_FL_TARGETOPTS			160	pt-BR	Opções de destino				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedline	RID_FONTIMPORT_DIALOG	RID_FIMP_FL_TARGETOPTS			160	ru	Параметры приемника				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedline	RID_FONTIMPORT_DIALOG	RID_FIMP_FL_TARGETOPTS			160	rw	Amahitamo agamijwe				2002-02-02 02:02:02
@@ -725,7 +725,7 @@ padmin	source\padialog.src	0	fixedline	RID_PPDIMPORT_DLG	RID_PPDIMP_GROUP_DRIVER
 padmin	source\padialog.src	0	fixedline	RID_PPDIMPORT_DLG	RID_PPDIMP_GROUP_DRIVER			200	or-IN	ଚାଳକଗୁଡିକର ମନୋନଯନ				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedline	RID_PPDIMPORT_DLG	RID_PPDIMP_GROUP_DRIVER			200	pa-IN	ਡਰਾਈਵਰਾਂ ਦੀ ਚੋਣ(~s)				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedline	RID_PPDIMPORT_DLG	RID_PPDIMP_GROUP_DRIVER			200	pl	~Wybór sterowników				2002-02-02 02:02:02
-padmin	source\padialog.src	0	fixedline	RID_PPDIMPORT_DLG	RID_PPDIMP_GROUP_DRIVER			200	pt	~Controladores disponíveis				2002-02-02 02:02:02
+padmin	source\padialog.src	0	fixedline	RID_PPDIMPORT_DLG	RID_PPDIMP_GROUP_DRIVER			200	pt	~Selecção de controladores				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedline	RID_PPDIMPORT_DLG	RID_PPDIMP_GROUP_DRIVER			200	pt-BR	~Seleção de drivers				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedline	RID_PPDIMPORT_DLG	RID_PPDIMP_GROUP_DRIVER			200	ru	Выбор драйверов				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedline	RID_PPDIMPORT_DLG	RID_PPDIMP_GROUP_DRIVER			200	rw	Guhitamo za musomyi				2002-02-02 02:02:02
@@ -855,7 +855,7 @@ padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_CHOOSEDEV	RID_ADDP_CHDEV_TX
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_CHOOSEDEV	RID_ADDP_CHDEV_TXT_OVER			180	or-IN	ତୁମେ ଚାହୁଁଛ କି				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_CHOOSEDEV	RID_ADDP_CHDEV_TXT_OVER			180	pa-IN	ਕੀ ਤੁਸੀਂ ਅਜਿਹਾ ਚਾਹੁੰਦੇ ਹੋ				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_CHOOSEDEV	RID_ADDP_CHDEV_TXT_OVER			180	pl	Co chcesz zrobić?				2002-02-02 02:02:02
-padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_CHOOSEDEV	RID_ADDP_CHDEV_TXT_OVER			180	pt	Deseja				2002-02-02 02:02:02
+padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_CHOOSEDEV	RID_ADDP_CHDEV_TXT_OVER			180	pt	Pretende				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_CHOOSEDEV	RID_ADDP_CHDEV_TXT_OVER			180	pt-BR	Deseja				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_CHOOSEDEV	RID_ADDP_CHDEV_TXT_OVER			180	ru	Вы хотите				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_CHOOSEDEV	RID_ADDP_CHDEV_TXT_OVER			180	rw	Urifuza				2002-02-02 02:02:02
@@ -920,7 +920,7 @@ padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_CHOOSEDRIVER	RID_ADDP_CHDRV
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_CHOOSEDRIVER	RID_ADDP_CHDRV_TXT_DRIVER			230	or-IN	ଦଯାକରି ଗୋଟିଏ ଉପୟୁକ୍ତ ଚାଳକକୁ ମନୋନୀତ କରନ୍ତୁ୤				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_CHOOSEDRIVER	RID_ADDP_CHDRV_TXT_DRIVER			230	pa-IN	ਕਿਰਪਾ ਕਰਕੇ ਅਨੁਸਾਰੀ ਡਰਾਈਵਰ ਚੁਣੋ।				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_CHOOSEDRIVER	RID_ADDP_CHDRV_TXT_DRIVER			230	pl	Wybierz odpowiedni ~sterownik				2002-02-02 02:02:02
-padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_CHOOSEDRIVER	RID_ADDP_CHDRV_TXT_DRIVER			230	pt	~Seleccione um controlador compatível				2002-02-02 02:02:02
+padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_CHOOSEDRIVER	RID_ADDP_CHDRV_TXT_DRIVER			230	pt	~Seleccione um controlador adequado.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_CHOOSEDRIVER	RID_ADDP_CHDRV_TXT_DRIVER			230	pt-BR	Selecionar ~um driver compatível.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_CHOOSEDRIVER	RID_ADDP_CHDRV_TXT_DRIVER			230	ru	Выберите подходящий драйвер				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_CHOOSEDRIVER	RID_ADDP_CHDRV_TXT_DRIVER			230	rw	Hitamo darayiva ikwiranye				2002-02-02 02:02:02
@@ -985,7 +985,7 @@ padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_COMMAND	RID_ADDP_CMD_TXT_CO
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_COMMAND	RID_ADDP_CMD_TXT_COMMAND			160	or-IN	ଦଯାକରି ଏହି ୟନ୍ତ୍ର ପାଇଁ ଗୋଟିଏ ୟଥାର୍ଥ  ଆଦେଶ ରେଖାକୁ ପ୍ରବେଶ କରାନ୍ତୁ୤				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_COMMAND	RID_ADDP_CMD_TXT_COMMAND			160	pa-IN	ਕਿਰਪਾ ਕਰਕੇ ਇਸ ਜੰਤਰ ਲਈ ਸਹੀ ਕਮਾਂਡ ਲਾਈਨ ਭਰੋ।(~o)				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_COMMAND	RID_ADDP_CMD_TXT_COMMAND			160	pl	Podaj wiersz p~olecenia odpowiedni dla tego urządzenia.				2002-02-02 02:02:02
-padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_COMMAND	RID_ADDP_CMD_TXT_COMMAND			160	pt	Indique uma ~linha de comando que permita contactar este periférico.				2002-02-02 02:02:02
+padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_COMMAND	RID_ADDP_CMD_TXT_COMMAND			160	pt	Introduza uma ~linha de comando apropriada para este dispositivo.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_COMMAND	RID_ADDP_CMD_TXT_COMMAND			160	pt-BR	Insira uma linha de c~omando apropriada para este dispositivo.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_COMMAND	RID_ADDP_CMD_TXT_COMMAND			160	ru	Командная строка, соответствующая данному устройству.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_COMMAND	RID_ADDP_CMD_TXT_COMMAND			160	rw	Andika umurongo wa komandi ujyanye n'ubwo bubiko				2002-02-02 02:02:02
@@ -1050,7 +1050,7 @@ padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_COMMAND	RID_ADDP_CMD_TXT_PD
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_COMMAND	RID_ADDP_CMD_TXT_PDFDIR			220	or-IN	PDF ଲକ୍ଷ୍ଯ ବିବରଣୀପଞ୍ଜିକା				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_COMMAND	RID_ADDP_CMD_TXT_PDFDIR			220	pa-IN	PDF ਟਿਕਾਣਾ ਡਾਇਰੈਕਟਰੀ(~t)				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_COMMAND	RID_ADDP_CMD_TXT_PDFDIR			220	pl	Katalog docelowy PDF				2002-02-02 02:02:02
-padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_COMMAND	RID_ADDP_CMD_TXT_PDFDIR			220	pt	Directório destino ~PDF:				2002-02-02 02:02:02
+padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_COMMAND	RID_ADDP_CMD_TXT_PDFDIR			220	pt	Directório destino do ~PDF:				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_COMMAND	RID_ADDP_CMD_TXT_PDFDIR			220	pt-BR	Dire~tório de destino do PDF				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_COMMAND	RID_ADDP_CMD_TXT_PDFDIR			220	ru	Каталог назначения для PDF				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_COMMAND	RID_ADDP_CMD_TXT_PDFDIR			220	rw	Dosiye ya PDF wifuza				2002-02-02 02:02:02
@@ -1115,7 +1115,7 @@ padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_FAXDRIVER	RID_ADDP_FAXDRV_T
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_FAXDRIVER	RID_ADDP_FAXDRV_TXT_DRIVER			160	or-IN	ଏହି ଫ୍ଯାକ୍ସ ସଂୟୋଗ ପାଇଁ  ନିମ୍ନ ଚାଳକ ଉପୟୋଗକର				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_FAXDRIVER	RID_ADDP_FAXDRV_TXT_DRIVER			160	pa-IN	ਇਸ ਫੈਕਸ ਕੁਨੈਕਸ਼ਨ ਲਈ ਹੇਠਲਾ ਡਰਾਈਵਰ ਵਰਤੋ।				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_FAXDRIVER	RID_ADDP_FAXDRV_TXT_DRIVER			160	pl	Dla tego połączenia faksowego używaj następującego sterownika:				2002-02-02 02:02:02
-padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_FAXDRIVER	RID_ADDP_FAXDRV_TXT_DRIVER			160	pt	Controlador a ser utilizado pelo periférico fax:				2002-02-02 02:02:02
+padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_FAXDRIVER	RID_ADDP_FAXDRV_TXT_DRIVER			160	pt	Utilize o controlador a seguir indicado para esta ligação de fax				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_FAXDRIVER	RID_ADDP_FAXDRV_TXT_DRIVER			160	pt-BR	Use o seguinte driver para esta conexão de fax				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_FAXDRIVER	RID_ADDP_FAXDRV_TXT_DRIVER			160	ru	Для этого подключения факса необходимо использовать следующий драйвер:				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_FAXDRIVER	RID_ADDP_FAXDRV_TXT_DRIVER			160	rw	Koresha msomyi ikurikira kuri iyi konegisiyo ya fagisi				2002-02-02 02:02:02
@@ -1180,7 +1180,7 @@ padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_NAME	RID_ADDP_NAME_TXT_FAXN
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_NAME	RID_ADDP_NAME_TXT_FAXNAME			220	or-IN	ଦଯାକରି ଫ୍ଯାକ୍ସ  ସଂୟୋଗ ପାଇଁ ଗୋଟିଏ ନାମ ପ୍ରବେଶ କରାନ୍ତୁ୤				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_NAME	RID_ADDP_NAME_TXT_FAXNAME			220	pa-IN	ਕਿਰਪਾ ਕਰਕੇ ਫੈਕਸ ਸੰਬੰਧ ਲਈ ਨਾਂ ਚੁਣੋ।				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_NAME	RID_ADDP_NAME_TXT_FAXNAME			220	pl	Podaj nazwę połączenia faksowego.				2002-02-02 02:02:02
-padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_NAME	RID_ADDP_NAME_TXT_FAXNAME			220	pt	~Indique um nome para o periférico fax.				2002-02-02 02:02:02
+padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_NAME	RID_ADDP_NAME_TXT_FAXNAME			220	pt	Introduza um nome para a ligação de fax.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_NAME	RID_ADDP_NAME_TXT_FAXNAME			220	pt-BR	Insira um nome para a conexão do fax.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_NAME	RID_ADDP_NAME_TXT_FAXNAME			220	ru	Введите имя подключаемого факса				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_NAME	RID_ADDP_NAME_TXT_FAXNAME			220	rw	Andika izina rya konegisiyo ya fagisi				2002-02-02 02:02:02
@@ -1245,7 +1245,7 @@ padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_NAME	RID_ADDP_NAME_TXT_NAME
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_NAME	RID_ADDP_NAME_TXT_NAME			220	or-IN	ଦଯାକରି ପ୍ରିଣ୍ଟର ପାଇଁ ଗୋଟିଏ ନାମ ପ୍ରବେଶ କରାନ୍ତୁ୤				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_NAME	RID_ADDP_NAME_TXT_NAME			220	pa-IN	ਕਿਰਪਾ ਕਰਕੇ ਪ੍ਰਿੰਟਰ ਲਈ ਨਾਂ ਚੁਣੋ।				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_NAME	RID_ADDP_NAME_TXT_NAME			220	pl	Podaj nazwę drukarki.				2002-02-02 02:02:02
-padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_NAME	RID_ADDP_NAME_TXT_NAME			220	pt	I~ndique um nome para a impressora.				2002-02-02 02:02:02
+padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_NAME	RID_ADDP_NAME_TXT_NAME			220	pt	Introduza um nome para a impressora.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_NAME	RID_ADDP_NAME_TXT_NAME			220	pt-BR	Insira um nome para a impressora.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_NAME	RID_ADDP_NAME_TXT_NAME			220	ru	Введите имя принтера				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_NAME	RID_ADDP_NAME_TXT_NAME			220	rw	Andika izina rya mucapyi				2002-02-02 02:02:02
@@ -1310,7 +1310,7 @@ padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_NAME	RID_ADDP_NAME_TXT_PDFN
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_NAME	RID_ADDP_NAME_TXT_PDFNAME			220	or-IN	ଦଯାକରି PDF ସଂୟୋଗ ପାଇଁ ଗୋଟିଏ ନାମ ପ୍ରବେଶ କରାନ୍ତୁ୤				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_NAME	RID_ADDP_NAME_TXT_PDFNAME			220	pa-IN	ਕਿਰਪਾ ਕਰਕੇ PDF ਸੰਬੰਧ ਲਈ ਨਾਂ ਚੁਣੋ।				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_NAME	RID_ADDP_NAME_TXT_PDFNAME			220	pl	Podaj nazwę połączenia PDF.				2002-02-02 02:02:02
-padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_NAME	RID_ADDP_NAME_TXT_PDFNAME			220	pt	Indique um nome para o conversor PDF.				2002-02-02 02:02:02
+padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_NAME	RID_ADDP_NAME_TXT_PDFNAME			220	pt	Introduza um nome para a ligação a PDF.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_NAME	RID_ADDP_NAME_TXT_PDFNAME			220	pt-BR	Insira um nome para a conexão de PDF.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_NAME	RID_ADDP_NAME_TXT_PDFNAME			220	ru	Введите имя подключения PDF				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_NAME	RID_ADDP_NAME_TXT_PDFNAME			220	rw	Andika izina rya konegisiyo ya PDF				2002-02-02 02:02:02
@@ -1374,7 +1374,7 @@ padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_OLDPRINTERS	RID_ADDP_OLD_TX
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_OLDPRINTERS	RID_ADDP_OLD_TXT_PRINTERS			165	or-IN	ଏହି ପ୍ରିଣ୍ଟରଗୁଡିକ ଆମଦାନୀ ହୋଇପାରିବ ନାହିଁ୤ଦଯାକରି ତୁମେ ଆମଦାନୀ କରିବାକୁ ଚାହୁଁଥିବା ଗୋଟିକୁ ମନୋନୀତ କରନ୍ତୁ୤				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_OLDPRINTERS	RID_ADDP_OLD_TXT_PRINTERS			165	pa-IN	ਇਹ ਪ੍ਰਿੰਟਰ ਅਯਾਤ ਕੀਤੇ ਜਾ ਸਕਦੇ ਹਨ। ਕਿਰਪਾ ਕਰਕੇ ਚੁਣੋ ਜੋ ਤੁਸੀਂ ਅਯਾਤ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ।(~T)				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_OLDPRINTERS	RID_ADDP_OLD_TXT_PRINTERS			165	pl	~Można importować ustawienia następujących drukarek. Zaznacz pozycje do importu.				2002-02-02 02:02:02
-padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_OLDPRINTERS	RID_ADDP_OLD_TXT_PRINTERS			165	pt	É possível i~mportar estas impressoras. Seleccione as que pretende importar.				2002-02-02 02:02:02
+padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_OLDPRINTERS	RID_ADDP_OLD_TXT_PRINTERS			165	pt	As impressoras a seguir indicadas podem ser i~mportadas. Seleccione as impressoras que pretende importar.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_OLDPRINTERS	RID_ADDP_OLD_TXT_PRINTERS			165	pt-BR	Es~tas impressoras podem ser importadas. Selecione aquelas que você deseja importar.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_OLDPRINTERS	RID_ADDP_OLD_TXT_PRINTERS			165	ru	Эти принтеры можно импортировать. Выберите из них те принтеры, которые необходимо импортировать.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_OLDPRINTERS	RID_ADDP_OLD_TXT_PRINTERS			165	rw	Ushobora kuzana izi mucapyi, hitamo izo ushaka kuzana				2002-02-02 02:02:02
@@ -1438,7 +1438,7 @@ padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_PDFDRIVER	RID_ADDP_PDFDRV_T
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_PDFDRIVER	RID_ADDP_PDFDRV_TXT_DRIVER			160	or-IN	ଏହି PDF ରୂପାନ୍ତରକ ପାଇଁ ନିମ୍ନ ଚାଳକକୁ ଉପୟୋଗକର				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_PDFDRIVER	RID_ADDP_PDFDRV_TXT_DRIVER			160	pa-IN	ਇਸ PDF ਅਨੁਵਾਦਕ ਲਈ ਹੇਠਲਾ ਡਰਾਈਵਰ ਵਰਤੋ				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_PDFDRIVER	RID_ADDP_PDFDRV_TXT_DRIVER			160	pl	Dla tego konwertera PDF używaj następującego sterownika:				2002-02-02 02:02:02
-padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_PDFDRIVER	RID_ADDP_PDFDRV_TXT_DRIVER			160	pt	Utilizar o seguinte controlador para o conversor PDF:				2002-02-02 02:02:02
+padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_PDFDRIVER	RID_ADDP_PDFDRV_TXT_DRIVER			160	pt	Utilizar o seguinte controlador para o conversor de PDF:				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_PDFDRIVER	RID_ADDP_PDFDRV_TXT_DRIVER			160	pt-BR	Use o seguinte driver para este conversor de PDF				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_PDFDRIVER	RID_ADDP_PDFDRV_TXT_DRIVER			160	ru	Для этого конвертера PDF необходимо использовать следующий драйвер:				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_ADDP_PAGE_PDFDRIVER	RID_ADDP_PDFDRV_TXT_DRIVER			160	rw	Koresha musomyi ikurikira kuri iyi muhinduzi ya PDF				2002-02-02 02:02:02
@@ -1503,7 +1503,7 @@ padmin	source\padialog.src	0	fixedtext	RID_FONTIMPORT_DIALOG	RID_FIMP_TXT_HELP		
 padmin	source\padialog.src	0	fixedtext	RID_FONTIMPORT_DIALOG	RID_FIMP_TXT_HELP			220	or-IN	ଦଯାକରି ଫୋଲ୍ଡରକୁ ମନୋନୀତକର ୟେଉଁଥିରେ କି ତୁମେ ଫଣ୍ଟକୁ ଆମଦାନୀକରିବାକୁ ଚାହୁଁଛ୤ OK ବଟନକୁ ଦବାଇବା ଦ୍ବାରା ମନୋନୀତ ଫଣ୍ଟଗୁଡିକୁ ମିଶାଅ୤				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_FONTIMPORT_DIALOG	RID_FIMP_TXT_HELP			220	pa-IN	ਕਿਰਪਾ ਕਰਕੇ ਫੋਲਡਰ ਭੇਜੋ ਜਿਸ ਵਿੱਚ ਤੁਸੀਂ ਫੋਂਟ ਅਯਾਤ ਕਰ ਸਕਦੇ ਹੋ। ਠੀਕ ਹੈ ਬਟਨ ਦਬਾ ਕੇ ਚੁਣੇ ਫੋਂਟ ਸ਼ਾਮਿਲ ਕਰੋ।				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_FONTIMPORT_DIALOG	RID_FIMP_TXT_HELP			220	pl	Wybierz folder, z którego będą importowane czcionki. Aby dodać wybrane czcionki, kliknij przycisk OK.				2002-02-02 02:02:02
-padmin	source\padialog.src	0	fixedtext	RID_FONTIMPORT_DIALOG	RID_FIMP_TXT_HELP			220	pt	Seleccione primeiro a pasta a partir da qual deseja importar os tipos de letra e clique depois no botão OK para iniciar o processo.				2002-02-02 02:02:02
+padmin	source\padialog.src	0	fixedtext	RID_FONTIMPORT_DIALOG	RID_FIMP_TXT_HELP			220	pt	Seleccione a pasta a partir da qual pretende importar tipos de letra. Adicione os tipos de letra seleccionados, fazendo clique no botão OK.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_FONTIMPORT_DIALOG	RID_FIMP_TXT_HELP			220	pt-BR	Selecione a pasta da qual você deseja importar fontes. Adicione as fontes selecionadas, clicando no botão OK.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_FONTIMPORT_DIALOG	RID_FIMP_TXT_HELP			220	ru	Выберите папку, из которой необходимо импортировать шрифты. Добавьте выбранные шрифты, нажав кнопку 'ОК'.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_FONTIMPORT_DIALOG	RID_FIMP_TXT_HELP			220	rw	Hitamo ububiko ushaka gukuramo ibyo ushaka gukoresha. Kanda kuri YEGO kugirango wongeremo ibyo wahisemo				2002-02-02 02:02:02
@@ -1568,7 +1568,7 @@ padmin	source\padialog.src	0	fixedtext	RID_FONTNAMEDIALOG	RID_FNTNM_FIXED			175	
 padmin	source\padialog.src	0	fixedtext	RID_FONTNAMEDIALOG	RID_FNTNM_FIXED			175	or-IN	ଟିପପ୍ଣୀ:ପ୍ରଯୋଗଗୁଡିକ ପାଇଁ କେବଳ ଫଣ୍ଟ୍ଗୁଡିକ ଉପଲବ୍ଧ ଅଛି ୤				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_FONTNAMEDIALOG	RID_FNTNM_FIXED			175	pa-IN	ਸੂਚਨਾ: ਫੋਂਟ ਸਿਰਫ ਕਾਰਜਾਂ ਨੂੰ ਹੀ ਉਪਲੱਬਧ ਹਨ।				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_FONTNAMEDIALOG	RID_FNTNM_FIXED			175	pl	Uwaga: Czcionki dostępne będą tylko dla aplikacji.				2002-02-02 02:02:02
-padmin	source\padialog.src	0	fixedtext	RID_FONTNAMEDIALOG	RID_FNTNM_FIXED			175	pt	Observação: os tipos de letra só estão disponíveis para a aplicação.				2002-02-02 02:02:02
+padmin	source\padialog.src	0	fixedtext	RID_FONTNAMEDIALOG	RID_FNTNM_FIXED			175	pt	Nota: os tipos de letra só estão disponíveis para a aplicação.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_FONTNAMEDIALOG	RID_FNTNM_FIXED			175	pt-BR	Nota: as fontes só estão disponíveis para os aplicativos.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_FONTNAMEDIALOG	RID_FNTNM_FIXED			175	ru	Примечание: шрифты доступны только в этом приложении				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_FONTNAMEDIALOG	RID_FNTNM_FIXED			175	rw	Icyitonderwa:Muhinduzi ziboneka gusa kuri za porogaramu				2002-02-02 02:02:02
@@ -1821,14 +1821,14 @@ padmin	source\padialog.src	0	fixedtext	RID_PADIALOG	RID_PA_TXT_LOCATION			40	mk	
 padmin	source\padialog.src	0	fixedtext	RID_PADIALOG	RID_PA_TXT_LOCATION			40	ml-IN	സ്ഥാനം				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_PADIALOG	RID_PA_TXT_LOCATION			40	mr-IN	स्थान:				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_PADIALOG	RID_PA_TXT_LOCATION			40	nb	Plassering:				2002-02-02 02:02:02
-padmin	source\padialog.src	0	fixedtext	RID_PADIALOG	RID_PA_TXT_LOCATION			40	nl	Lokatie:				2002-02-02 02:02:02
+padmin	source\padialog.src	0	fixedtext	RID_PADIALOG	RID_PA_TXT_LOCATION			40	nl	Locatie:				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_PADIALOG	RID_PA_TXT_LOCATION			40	nn	Plassering:				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_PADIALOG	RID_PA_TXT_LOCATION			40	nr	Indawo:				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_PADIALOG	RID_PA_TXT_LOCATION			40	ns	Lefelo:				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_PADIALOG	RID_PA_TXT_LOCATION			40	or-IN	ସ୍ଥାନ:				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_PADIALOG	RID_PA_TXT_LOCATION			40	pa-IN	ਟਿਕਾਣਾ:				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_PADIALOG	RID_PA_TXT_LOCATION			40	pl	Lokalizacja:				2002-02-02 02:02:02
-padmin	source\padialog.src	0	fixedtext	RID_PADIALOG	RID_PA_TXT_LOCATION			40	pt	Posição:				2002-02-02 02:02:02
+padmin	source\padialog.src	0	fixedtext	RID_PADIALOG	RID_PA_TXT_LOCATION			40	pt	Localização:				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_PADIALOG	RID_PA_TXT_LOCATION			40	pt-BR	Local:				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_PADIALOG	RID_PA_TXT_LOCATION			40	ru	Путь:				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_PADIALOG	RID_PA_TXT_LOCATION			40	rw	Intaho:				2002-02-02 02:02:02
@@ -1893,7 +1893,7 @@ padmin	source\padialog.src	0	fixedtext	RID_PPDIMPORT_DLG	RID_PPDIMP_TXT_DRIVER		
 padmin	source\padialog.src	0	fixedtext	RID_PPDIMPORT_DLG	RID_PPDIMP_TXT_DRIVER			190	or-IN	ଦଯାକରି ପ୍ରତିଷ୍ଠାପନ ପାଇଁ ଚାଳକଗୁଡିକର ମନୋନିତକର ଏବଂ "%s"କୁ ଦବାଅ ୤				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_PPDIMPORT_DLG	RID_PPDIMP_TXT_DRIVER			190	pa-IN	ਕਿਰਪਾ ਕਰਕੇ ਇੰਸਟਾਲ ਕਰਨ ਲਈ ਡਰਾਈਵਰ ਚੁਣੋ ਅਤੇ "%s" ਦਬਾਓ।				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_PPDIMPORT_DLG	RID_PPDIMP_TXT_DRIVER			190	pl	Wybierz sterowniki i kliknij przycisk "%s".				2002-02-02 02:02:02
-padmin	source\padialog.src	0	fixedtext	RID_PPDIMPORT_DLG	RID_PPDIMP_TXT_DRIVER			190	pt	Seleccione os controladores desejados e confirme com o botão '%s'.				2002-02-02 02:02:02
+padmin	source\padialog.src	0	fixedtext	RID_PPDIMPORT_DLG	RID_PPDIMP_TXT_DRIVER			190	pt	Seleccione os controladores que pretende instalar e prima "%s".				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_PPDIMPORT_DLG	RID_PPDIMP_TXT_DRIVER			190	pt-BR	Selecionar os drivers para instalação e pressione "%s".				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_PPDIMPORT_DLG	RID_PPDIMP_TXT_DRIVER			190	ru	Выберите необходимый драйвер и нажмите на кнопку "%s".				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_PPDIMPORT_DLG	RID_PPDIMP_TXT_DRIVER			190	rw	Hitamo musomyi ushyiraho hanyuma ukande "%s".				2002-02-02 02:02:02
@@ -1958,7 +1958,7 @@ padmin	source\padialog.src	0	fixedtext	RID_PPDIMPORT_DLG	RID_PPDIMP_TXT_PATH			1
 padmin	source\padialog.src	0	fixedtext	RID_PPDIMPORT_DLG	RID_PPDIMP_TXT_PATH			190	or-IN	ଦଯାକରି ଚାଳକ ବିବରଣୀପଞ୍ଜିକାକୁ ମନୋନୀତକର୤				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_PPDIMPORT_DLG	RID_PPDIMP_TXT_PATH			190	pa-IN	ਕਿਰਪਾ ਕਰਕੇ ਡਰਾਈਵਰ ਡਾਇਰੈਕਟਰੀ ਚੁਣੋ।				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_PPDIMPORT_DLG	RID_PPDIMP_TXT_PATH			190	pl	Wybierz katalog z plikami sterowników.				2002-02-02 02:02:02
-padmin	source\padialog.src	0	fixedtext	RID_PPDIMPORT_DLG	RID_PPDIMP_TXT_PATH			190	pt	Seleccione o directório contendo os ficheiros do controlador.				2002-02-02 02:02:02
+padmin	source\padialog.src	0	fixedtext	RID_PPDIMPORT_DLG	RID_PPDIMP_TXT_PATH			190	pt	Seleccione o directório do controlador.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_PPDIMPORT_DLG	RID_PPDIMP_TXT_PATH			190	pt-BR	Selecione o diretório do driver.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_PPDIMPORT_DLG	RID_PPDIMP_TXT_PATH			190	ru	Выберите каталог драйверов.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_PPDIMPORT_DLG	RID_PPDIMP_TXT_PATH			190	rw	Hitamo dosiye ya musomyi				2002-02-02 02:02:02
@@ -2023,7 +2023,7 @@ padmin	source\padialog.src	0	fixedtext	RID_PROGRESS_DLG	RID_PROGRESS_PROGRESS_TX
 padmin	source\padialog.src	0	fixedtext	RID_PROGRESS_DLG	RID_PROGRESS_PROGRESS_TXT			140	or-IN	ପ୍ରଗତି				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_PROGRESS_DLG	RID_PROGRESS_PROGRESS_TXT			140	pa-IN	ਉੱਨਤੀ				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_PROGRESS_DLG	RID_PROGRESS_PROGRESS_TXT			140	pl	Postęp				2002-02-02 02:02:02
-padmin	source\padialog.src	0	fixedtext	RID_PROGRESS_DLG	RID_PROGRESS_PROGRESS_TXT			140	pt	Processado				2002-02-02 02:02:02
+padmin	source\padialog.src	0	fixedtext	RID_PROGRESS_DLG	RID_PROGRESS_PROGRESS_TXT			140	pt	Evolução				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_PROGRESS_DLG	RID_PROGRESS_PROGRESS_TXT			140	pt-BR	Progresso				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_PROGRESS_DLG	RID_PROGRESS_PROGRESS_TXT			140	ru	Выполнение				2002-02-02 02:02:02
 padmin	source\padialog.src	0	fixedtext	RID_PROGRESS_DLG	RID_PROGRESS_PROGRESS_TXT			140	rw	Aho bigeze				2002-02-02 02:02:02
@@ -2348,7 +2348,7 @@ padmin	source\padialog.src	0	modaldialog	RID_PPDIMPORT_DLG				265	ns	Go Tsenywa 
 padmin	source\padialog.src	0	modaldialog	RID_PPDIMPORT_DLG				265	or-IN	ଚାଳକ ପ୍ରତିଷ୍ଠାପିତ				2002-02-02 02:02:02
 padmin	source\padialog.src	0	modaldialog	RID_PPDIMPORT_DLG				265	pa-IN	ਡਰਾਈਵਰ ਇੰਸਟਾਲੇਸ਼ਨ				2002-02-02 02:02:02
 padmin	source\padialog.src	0	modaldialog	RID_PPDIMPORT_DLG				265	pl	Instalacja sterownika				2002-02-02 02:02:02
-padmin	source\padialog.src	0	modaldialog	RID_PPDIMPORT_DLG				265	pt	Instalação do controlador				2002-02-02 02:02:02
+padmin	source\padialog.src	0	modaldialog	RID_PPDIMPORT_DLG				265	pt	Instalação de controlador				2002-02-02 02:02:02
 padmin	source\padialog.src	0	modaldialog	RID_PPDIMPORT_DLG				265	pt-BR	Instalação do driver				2002-02-02 02:02:02
 padmin	source\padialog.src	0	modaldialog	RID_PPDIMPORT_DLG				265	ru	Установка драйверов				2002-02-02 02:02:02
 padmin	source\padialog.src	0	modaldialog	RID_PPDIMPORT_DLG				265	rw	Gushyiraho musomyi				2002-02-02 02:02:02
@@ -2413,7 +2413,7 @@ padmin	source\padialog.src	0	modelessdialog	RID_PROGRESS_DLG				150	ns	Hle ema		
 padmin	source\padialog.src	0	modelessdialog	RID_PROGRESS_DLG				150	or-IN	ଦଯାକରି  ଅପେକ୍ଷାକର				2002-02-02 02:02:02
 padmin	source\padialog.src	0	modelessdialog	RID_PROGRESS_DLG				150	pa-IN	ਕਿਰਪਾ ਕਰਕੇ ਉਡੀਕ ਕਰੋ				2002-02-02 02:02:02
 padmin	source\padialog.src	0	modelessdialog	RID_PROGRESS_DLG				150	pl	Zaczekaj				2002-02-02 02:02:02
-padmin	source\padialog.src	0	modelessdialog	RID_PROGRESS_DLG				150	pt	Aguarde um momento...				2002-02-02 02:02:02
+padmin	source\padialog.src	0	modelessdialog	RID_PROGRESS_DLG				150	pt	Aguarde um momento				2002-02-02 02:02:02
 padmin	source\padialog.src	0	modelessdialog	RID_PROGRESS_DLG				150	pt-BR	Aguarde				2002-02-02 02:02:02
 padmin	source\padialog.src	0	modelessdialog	RID_PROGRESS_DLG				150	ru	Пожалуйста, подождите				2002-02-02 02:02:02
 padmin	source\padialog.src	0	modelessdialog	RID_PROGRESS_DLG				150	rw	Ba wihanganye				2002-02-02 02:02:02
@@ -2478,7 +2478,7 @@ padmin	source\padialog.src	0	okbutton	RID_ADD_PRINTER_DIALOG	RID_ADDP_BTN_FINISH
 padmin	source\padialog.src	0	okbutton	RID_ADD_PRINTER_DIALOG	RID_ADDP_BTN_FINISH			50	or-IN	ଶେଷ				2002-02-02 02:02:02
 padmin	source\padialog.src	0	okbutton	RID_ADD_PRINTER_DIALOG	RID_ADDP_BTN_FINISH			50	pa-IN	ਸਮਾਪਤ(~F)				2002-02-02 02:02:02
 padmin	source\padialog.src	0	okbutton	RID_ADD_PRINTER_DIALOG	RID_ADDP_BTN_FINISH			50	pl	~Zakończ				2002-02-02 02:02:02
-padmin	source\padialog.src	0	okbutton	RID_ADD_PRINTER_DIALOG	RID_ADDP_BTN_FINISH			50	pt	~Criar				2002-02-02 02:02:02
+padmin	source\padialog.src	0	okbutton	RID_ADD_PRINTER_DIALOG	RID_ADDP_BTN_FINISH			50	pt	~Terminar				2002-02-02 02:02:02
 padmin	source\padialog.src	0	okbutton	RID_ADD_PRINTER_DIALOG	RID_ADDP_BTN_FINISH			50	pt-BR	C~oncluir				2002-02-02 02:02:02
 padmin	source\padialog.src	0	okbutton	RID_ADD_PRINTER_DIALOG	RID_ADDP_BTN_FINISH			50	ru	~Готово				2002-02-02 02:02:02
 padmin	source\padialog.src	0	okbutton	RID_ADD_PRINTER_DIALOG	RID_ADDP_BTN_FINISH			50	rw	Kurangiza				2002-02-02 02:02:02
@@ -2674,7 +2674,7 @@ padmin	source\padialog.src	0	pushbutton	RID_ADDP_PAGE_CHOOSEDRIVER	RID_ADDP_CHDR
 padmin	source\padialog.src	0	pushbutton	RID_ADDP_PAGE_CHOOSEDRIVER	RID_ADDP_CHDRV_BTN_REMOVE			50	or-IN	ବିଲୋପକର				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_ADDP_PAGE_CHOOSEDRIVER	RID_ADDP_CHDRV_BTN_REMOVE			50	pa-IN	ਹਟਾਓ(~d)				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_ADDP_PAGE_CHOOSEDRIVER	RID_ADDP_CHDRV_BTN_REMOVE			50	pl	~Usuń				2002-02-02 02:02:02
-padmin	source\padialog.src	0	pushbutton	RID_ADDP_PAGE_CHOOSEDRIVER	RID_ADDP_CHDRV_BTN_REMOVE			50	pt	~Eliminar				2002-02-02 02:02:02
+padmin	source\padialog.src	0	pushbutton	RID_ADDP_PAGE_CHOOSEDRIVER	RID_ADDP_CHDRV_BTN_REMOVE			50	pt	E~liminar				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_ADDP_PAGE_CHOOSEDRIVER	RID_ADDP_CHDRV_BTN_REMOVE			50	pt-BR	~Excluir				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_ADDP_PAGE_CHOOSEDRIVER	RID_ADDP_CHDRV_BTN_REMOVE			50	ru	~Удалить				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_ADDP_PAGE_CHOOSEDRIVER	RID_ADDP_CHDRV_BTN_REMOVE			50	rw	Gusiba				2002-02-02 02:02:02
@@ -2737,7 +2737,7 @@ padmin	source\padialog.src	0	pushbutton	RID_ADDP_PAGE_COMMAND	RID_ADDP_CMD_BTN_H
 padmin	source\padialog.src	0	pushbutton	RID_ADDP_PAGE_COMMAND	RID_ADDP_CMD_BTN_HELP			50	or-IN	ସାହାୟ୍ଯ				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_ADDP_PAGE_COMMAND	RID_ADDP_CMD_BTN_HELP			50	pa-IN	ਸਹਾਇਤਾ(~h)				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_ADDP_PAGE_COMMAND	RID_ADDP_CMD_BTN_HELP			50	pl	Po~moc				2002-02-02 02:02:02
-padmin	source\padialog.src	0	pushbutton	RID_ADDP_PAGE_COMMAND	RID_ADDP_CMD_BTN_HELP			50	pt	~Ajuda				2002-02-02 02:02:02
+padmin	source\padialog.src	0	pushbutton	RID_ADDP_PAGE_COMMAND	RID_ADDP_CMD_BTN_HELP			50	pt	A~juda				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_ADDP_PAGE_COMMAND	RID_ADDP_CMD_BTN_HELP			50	pt-BR	Aj~uda				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_ADDP_PAGE_COMMAND	RID_ADDP_CMD_BTN_HELP			50	ru	Сп~равка				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_ADDP_PAGE_COMMAND	RID_ADDP_CMD_BTN_HELP			50	rw	Ifashayobora				2002-02-02 02:02:02
@@ -2867,7 +2867,7 @@ padmin	source\padialog.src	0	pushbutton	RID_ADD_PRINTER_DIALOG	RID_ADDP_BTN_NEXT
 padmin	source\padialog.src	0	pushbutton	RID_ADD_PRINTER_DIALOG	RID_ADDP_BTN_NEXT			50	or-IN	ପରବର୍ତ୍ତୀ >>				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_ADD_PRINTER_DIALOG	RID_ADDP_BTN_NEXT			50	pa-IN	ਅੱਗੇ(~N) >>				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_ADD_PRINTER_DIALOG	RID_ADDP_BTN_NEXT			50	pl	~Dalej >>				2002-02-02 02:02:02
-padmin	source\padialog.src	0	pushbutton	RID_ADD_PRINTER_DIALOG	RID_ADDP_BTN_NEXT			50	pt	~Seguinte >>				2002-02-02 02:02:02
+padmin	source\padialog.src	0	pushbutton	RID_ADD_PRINTER_DIALOG	RID_ADDP_BTN_NEXT			50	pt	Se~guinte >>				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_ADD_PRINTER_DIALOG	RID_ADDP_BTN_NEXT			50	pt-BR	~Próximo >>				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_ADD_PRINTER_DIALOG	RID_ADDP_BTN_NEXT			50	ru	~Далее >>				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_ADD_PRINTER_DIALOG	RID_ADDP_BTN_NEXT			50	rw	Ibikurikira >>				2002-02-02 02:02:02
@@ -2932,7 +2932,7 @@ padmin	source\padialog.src	0	pushbutton	RID_ADD_PRINTER_DIALOG	RID_ADDP_BTN_PREV
 padmin	source\padialog.src	0	pushbutton	RID_ADD_PRINTER_DIALOG	RID_ADDP_BTN_PREV			50	or-IN	<<ପଛ				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_ADD_PRINTER_DIALOG	RID_ADDP_BTN_PREV			50	pa-IN	<< ਪਿੱਛੇ(~B)				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_ADD_PRINTER_DIALOG	RID_ADDP_BTN_PREV			50	pl	<< ~Wstecz				2002-02-02 02:02:02
-padmin	source\padialog.src	0	pushbutton	RID_ADD_PRINTER_DIALOG	RID_ADDP_BTN_PREV			50	pt	<< ~Anterior				2002-02-02 02:02:02
+padmin	source\padialog.src	0	pushbutton	RID_ADD_PRINTER_DIALOG	RID_ADDP_BTN_PREV			50	pt	<< An~terior				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_ADD_PRINTER_DIALOG	RID_ADDP_BTN_PREV			50	pt-BR	<< ~Voltar				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_ADD_PRINTER_DIALOG	RID_ADDP_BTN_PREV			50	ru	<< ~Назад				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_ADD_PRINTER_DIALOG	RID_ADDP_BTN_PREV			50	rw	<< Inyuma				2002-02-02 02:02:02
@@ -3191,7 +3191,7 @@ padmin	source\padialog.src	0	pushbutton	RID_FONTNAMEDIALOG	RID_FNTNM_BTN_RENAME	
 padmin	source\padialog.src	0	pushbutton	RID_FONTNAMEDIALOG	RID_FNTNM_BTN_RENAME			50	or-IN	ପୁନଃନାମ				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_FONTNAMEDIALOG	RID_FNTNM_BTN_RENAME			50	pa-IN	ਨਾਂ-ਤਬਦੀਲ(~n)...				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_FONTNAMEDIALOG	RID_FNTNM_BTN_RENAME			50	pl	Zmień nazwę...				2002-02-02 02:02:02
-padmin	source\padialog.src	0	pushbutton	RID_FONTNAMEDIALOG	RID_FNTNM_BTN_RENAME			50	pt	~Mudar nome...				2002-02-02 02:02:02
+padmin	source\padialog.src	0	pushbutton	RID_FONTNAMEDIALOG	RID_FNTNM_BTN_RENAME			50	pt	Mudar o ~nome...				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_FONTNAMEDIALOG	RID_FNTNM_BTN_RENAME			50	pt-BR	Re~nomear...				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_FONTNAMEDIALOG	RID_FNTNM_BTN_RENAME			50	ru	Переименовать...				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_FONTNAMEDIALOG	RID_FNTNM_BTN_RENAME			50	rw	Guhindura izina				2002-02-02 02:02:02
@@ -3256,7 +3256,7 @@ padmin	source\padialog.src	0	pushbutton	RID_PADIALOG	RID_PA_BTN_ADD			70	ns	Sega
 padmin	source\padialog.src	0	pushbutton	RID_PADIALOG	RID_PA_BTN_ADD			70	or-IN	ନୂଆ ପ୍ରିଣ୍ଟର				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_PADIALOG	RID_PA_BTN_ADD			70	pa-IN	ਨਵਾਂ ਪ੍ਰਿੰਟਰ...				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_PADIALOG	RID_PA_BTN_ADD			70	pl	Nowa drukarka...				2002-02-02 02:02:02
-padmin	source\padialog.src	0	pushbutton	RID_PADIALOG	RID_PA_BTN_ADD			70	pt	~Nova impressora				2002-02-02 02:02:02
+padmin	source\padialog.src	0	pushbutton	RID_PADIALOG	RID_PA_BTN_ADD			70	pt	Nova impressora				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_PADIALOG	RID_PA_BTN_ADD			70	pt-BR	Nova Impressora...				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_PADIALOG	RID_PA_BTN_ADD			70	ru	~Новый принтер...				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_PADIALOG	RID_PA_BTN_ADD			70	rw	Mucapyi nshya...				2002-02-02 02:02:02
@@ -3321,7 +3321,7 @@ padmin	source\padialog.src	0	pushbutton	RID_PADIALOG	RID_PA_BTN_CONF			60	ns	Dit
 padmin	source\padialog.src	0	pushbutton	RID_PADIALOG	RID_PA_BTN_CONF			60	or-IN	ବିଶେଷତାଗୁଡିକ				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_PADIALOG	RID_PA_BTN_CONF			60	pa-IN	ਵਿਸ਼ੇਸਤਾ...				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_PADIALOG	RID_PA_BTN_CONF			60	pl	Właściwości...				2002-02-02 02:02:02
-padmin	source\padialog.src	0	pushbutton	RID_PADIALOG	RID_PA_BTN_CONF			60	pt	~Propriedades...				2002-02-02 02:02:02
+padmin	source\padialog.src	0	pushbutton	RID_PADIALOG	RID_PA_BTN_CONF			60	pt	Propriedades...				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_PADIALOG	RID_PA_BTN_CONF			60	pt-BR	Propriedades...				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_PADIALOG	RID_PA_BTN_CONF			60	ru	~Свойства...				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_PADIALOG	RID_PA_BTN_CONF			60	rw	Ibigenga...				2002-02-02 02:02:02
@@ -3516,7 +3516,7 @@ padmin	source\padialog.src	0	pushbutton	RID_PADIALOG	RID_PA_BTN_RENAME			60	ns	T
 padmin	source\padialog.src	0	pushbutton	RID_PADIALOG	RID_PA_BTN_RENAME			60	or-IN	ପୁନଃନାମ...				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_PADIALOG	RID_PA_BTN_RENAME			60	pa-IN	ਨਾਂ-ਤਬਦੀਲ(~e)...				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_PADIALOG	RID_PA_BTN_RENAME			60	pl	Zmi~eń nazwę...				2002-02-02 02:02:02
-padmin	source\padialog.src	0	pushbutton	RID_PADIALOG	RID_PA_BTN_RENAME			60	pt	~Mudar nome...				2002-02-02 02:02:02
+padmin	source\padialog.src	0	pushbutton	RID_PADIALOG	RID_PA_BTN_RENAME			60	pt	~Mudar o nome...				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_PADIALOG	RID_PA_BTN_RENAME			60	pt-BR	R~enomear...				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_PADIALOG	RID_PA_BTN_RENAME			60	ru	Переименовать...				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_PADIALOG	RID_PA_BTN_RENAME			60	rw	Guhindura izina...				2002-02-02 02:02:02
@@ -3580,7 +3580,7 @@ padmin	source\padialog.src	0	pushbutton	RID_PADIALOG	RID_PA_BTN_STD			60	ns	~Tlh
 padmin	source\padialog.src	0	pushbutton	RID_PADIALOG	RID_PA_BTN_STD			60	or-IN	ଡିଫଲଟ				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_PADIALOG	RID_PA_BTN_STD			60	pa-IN	ਮੂਲ(~D)				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_PADIALOG	RID_PA_BTN_STD			60	pl	~Domyślnie				2002-02-02 02:02:02
-padmin	source\padialog.src	0	pushbutton	RID_PADIALOG	RID_PA_BTN_STD			60	pt	~Padrão				2002-02-02 02:02:02
+padmin	source\padialog.src	0	pushbutton	RID_PADIALOG	RID_PA_BTN_STD			60	pt	Pre~definição				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_PADIALOG	RID_PA_BTN_STD			60	pt-BR	Pa~drão				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_PADIALOG	RID_PA_BTN_STD			60	ru	По умолчанию				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_PADIALOG	RID_PA_BTN_STD			60	rw	Mburabuzi				2002-02-02 02:02:02
@@ -3645,7 +3645,7 @@ padmin	source\padialog.src	0	pushbutton	RID_PADIALOG	RID_PA_TESTPAGE			60	ns	Pam
 padmin	source\padialog.src	0	pushbutton	RID_PADIALOG	RID_PA_TESTPAGE			60	or-IN	ଟେଷ୍ଟ ପୃଷ୍ଠା				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_PADIALOG	RID_PA_TESTPAGE			60	pa-IN	ਜਾਂਚ ਸਫਾ(~p)				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_PADIALOG	RID_PA_TESTPAGE			60	pl	~Strona próbna				2002-02-02 02:02:02
-padmin	source\padialog.src	0	pushbutton	RID_PADIALOG	RID_PA_TESTPAGE			60	pt	Pági~na-teste				2002-02-02 02:02:02
+padmin	source\padialog.src	0	pushbutton	RID_PADIALOG	RID_PA_TESTPAGE			60	pt	Pági~na de teste				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_PADIALOG	RID_PA_TESTPAGE			60	pt-BR	~Página de teste				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_PADIALOG	RID_PA_TESTPAGE			60	ru	Тест				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_PADIALOG	RID_PA_TESTPAGE			60	rw	Paji y'igerageza				2002-02-02 02:02:02
@@ -3710,7 +3710,7 @@ padmin	source\padialog.src	0	pushbutton	RID_PPDIMPORT_DLG	RID_PPDIMP_BTN_SEARCH	
 padmin	source\padialog.src	0	pushbutton	RID_PPDIMPORT_DLG	RID_PPDIMP_BTN_SEARCH			50	or-IN	ବ୍ରଉଜ				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_PPDIMPORT_DLG	RID_PPDIMP_BTN_SEARCH			50	pa-IN	ਝਲਕ...				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_PPDIMPORT_DLG	RID_PPDIMP_BTN_SEARCH			50	pl	Przeglądaj...				2002-02-02 02:02:02
-padmin	source\padialog.src	0	pushbutton	RID_PPDIMPORT_DLG	RID_PPDIMP_BTN_SEARCH			50	pt	~Explorar...				2002-02-02 02:02:02
+padmin	source\padialog.src	0	pushbutton	RID_PPDIMPORT_DLG	RID_PPDIMP_BTN_SEARCH			50	pt	Procurar...				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_PPDIMPORT_DLG	RID_PPDIMP_BTN_SEARCH			50	pt-BR	Procurar...				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_PPDIMPORT_DLG	RID_PPDIMP_BTN_SEARCH			50	ru	~Обзор...				2002-02-02 02:02:02
 padmin	source\padialog.src	0	pushbutton	RID_PPDIMPORT_DLG	RID_PPDIMP_BTN_SEARCH			50	rw	Gushakisha...				2002-02-02 02:02:02
@@ -3776,7 +3776,7 @@ padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_CHOOSEDEV	RID_ADDP_CHDEV_
 padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_CHOOSEDEV	RID_ADDP_CHDEV_BTN_FAX			180	or-IN	ଫ୍ଯାକ୍ସ ୟନ୍ତ୍ରକୁ ସଂୟୋଗକର୤				2002-02-02 02:02:02
 padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_CHOOSEDEV	RID_ADDP_CHDEV_BTN_FAX			180	pa-IN	ਫੈਕਸ ਜੰਤਰ ਜੋੜੋ(~x)				2002-02-02 02:02:02
 padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_CHOOSEDEV	RID_ADDP_CHDEV_BTN_FAX			180	pl	Podłącz ~faks				2002-02-02 02:02:02
-padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_CHOOSEDEV	RID_ADDP_CHDEV_BTN_FAX			180	pt	Adicionar periférico fa~x				2002-02-02 02:02:02
+padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_CHOOSEDEV	RID_ADDP_CHDEV_BTN_FAX			180	pt	Ligar um dispositivo de fa~x				2002-02-02 02:02:02
 padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_CHOOSEDEV	RID_ADDP_CHDEV_BTN_FAX			180	pt-BR	Conectar um dispositivo de fa~x				2002-02-02 02:02:02
 padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_CHOOSEDEV	RID_ADDP_CHDEV_BTN_FAX			180	ru	Подключить факс				2002-02-02 02:02:02
 padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_CHOOSEDEV	RID_ADDP_CHDEV_BTN_FAX			180	rw	Gucomeka fagisi				2002-02-02 02:02:02
@@ -3840,7 +3840,7 @@ padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_CHOOSEDEV	RID_ADDP_CHDEV_
 padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_CHOOSEDEV	RID_ADDP_CHDEV_BTN_OLD			180	or-IN	ସ୍ଟାରଅଫିସ ପ୍ରତିଷ୍ଠାପନରୁ ପ୍ରିଣ୍ଟରଗୁଡିକୁ ଆମଦାନୀକର୤				2002-02-02 02:02:02
 padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_CHOOSEDEV	RID_ADDP_CHDEV_BTN_OLD			180	pa-IN	StarOffice ਇੰਸਟਾਲੇਸ਼ਨ ਤੋਂ ਪ੍ਰਿੰਟਰ ਅਯਾਤ ਕਰੋ(~i)				2002-02-02 02:02:02
 padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_CHOOSEDEV	RID_ADDP_CHDEV_BTN_OLD			180	pl	~Importuj drukarki z zainstalowanego pakietu StarOffice				2002-02-02 02:02:02
-padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_CHOOSEDEV	RID_ADDP_CHDEV_BTN_OLD			180	pt	~Importar impressoras de uma instalação do StarOffice				2002-02-02 02:02:02
+padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_CHOOSEDEV	RID_ADDP_CHDEV_BTN_OLD			180	pt	~Importar impressoras a partir de uma instalação do StarOffice				2002-02-02 02:02:02
 padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_CHOOSEDEV	RID_ADDP_CHDEV_BTN_OLD			180	pt-BR	~Importar impressoras de uma instalação do StarOffice				2002-02-02 02:02:02
 padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_CHOOSEDEV	RID_ADDP_CHDEV_BTN_OLD			180	ru	~Импорт принтера из установки StarOffice				2002-02-02 02:02:02
 padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_CHOOSEDEV	RID_ADDP_CHDEV_BTN_OLD			180	rw	Kuzana mucapyi zivuye muri itangizwa rya StartOffice				2002-02-02 02:02:02
@@ -3905,7 +3905,7 @@ padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_CHOOSEDEV	RID_ADDP_CHDEV_
 padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_CHOOSEDEV	RID_ADDP_CHDEV_BTN_PDF			180	or-IN	ଗୋଟିଏ PDF ରୂପାନ୍ତରକ ସଂୟୋଗକର୤				2002-02-02 02:02:02
 padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_CHOOSEDEV	RID_ADDP_CHDEV_BTN_PDF			180	pa-IN	ਇੱਕ P~DF ਤਬਦੀਲੀਕਾਰ ਨਾਲ ਜੁੜੋ				2002-02-02 02:02:02
 padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_CHOOSEDEV	RID_ADDP_CHDEV_BTN_PDF			180	pl	Podłącz konwerter P~DF				2002-02-02 02:02:02
-padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_CHOOSEDEV	RID_ADDP_CHDEV_BTN_PDF			180	pt	Adicionar um conversor ~PDF				2002-02-02 02:02:02
+padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_CHOOSEDEV	RID_ADDP_CHDEV_BTN_PDF			180	pt	Ligar um conversor de ~PDF				2002-02-02 02:02:02
 padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_CHOOSEDEV	RID_ADDP_CHDEV_BTN_PDF			180	pt-BR	Conectar um conversor de P~DF				2002-02-02 02:02:02
 padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_CHOOSEDEV	RID_ADDP_CHDEV_BTN_PDF			180	ru	Подключение P~DF конвертера				2002-02-02 02:02:02
 padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_CHOOSEDEV	RID_ADDP_CHDEV_BTN_PDF			180	rw	Gucomeka muhiduzi ya PDF				2002-02-02 02:02:02
@@ -4034,7 +4034,7 @@ padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_FAXDRIVER	RID_ADDP_FAXDRV
 padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_FAXDRIVER	RID_ADDP_FAXDRV_BTN_DEFAULT			160	or-IN	ଡିଫଲଟ ଚାଳକ				2002-02-02 02:02:02
 padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_FAXDRIVER	RID_ADDP_FAXDRV_BTN_DEFAULT			160	pa-IN	ਮੂਲ ਡਰਾਈਵਰ(~h)				2002-02-02 02:02:02
 padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_FAXDRIVER	RID_ADDP_FAXDRV_BTN_DEFAULT			160	pl	~Sterownik domyślny				2002-02-02 02:02:02
-padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_FAXDRIVER	RID_ADDP_FAXDRV_BTN_DEFAULT			160	pt	Con~trolador padrão				2002-02-02 02:02:02
+padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_FAXDRIVER	RID_ADDP_FAXDRV_BTN_DEFAULT			160	pt	Con~trolador predefinido				2002-02-02 02:02:02
 padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_FAXDRIVER	RID_ADDP_FAXDRV_BTN_DEFAULT			160	pt-BR	O driver ~padrão				2002-02-02 02:02:02
 padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_FAXDRIVER	RID_ADDP_FAXDRV_BTN_DEFAULT			160	ru	Драйвер по умолчанию				2002-02-02 02:02:02
 padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_FAXDRIVER	RID_ADDP_FAXDRV_BTN_DEFAULT			160	rw	Musomyi mburabuzi				2002-02-02 02:02:02
@@ -4162,7 +4162,7 @@ padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_PDFDRIVER	RID_ADDP_PDFDRV
 padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_PDFDRIVER	RID_ADDP_PDFDRV_BTN_DEFAULT			160	or-IN	ଡୀଫଲଟ ଚାଳକ				2002-02-02 02:02:02
 padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_PDFDRIVER	RID_ADDP_PDFDRV_BTN_DEFAULT			160	pa-IN	ਮੂਲ ਡਰਾਈਵਰ(~h)				2002-02-02 02:02:02
 padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_PDFDRIVER	RID_ADDP_PDFDRV_BTN_DEFAULT			160	pl	~Sterownik domyślny				2002-02-02 02:02:02
-padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_PDFDRIVER	RID_ADDP_PDFDRV_BTN_DEFAULT			160	pt	Con~trolador padrão				2002-02-02 02:02:02
+padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_PDFDRIVER	RID_ADDP_PDFDRV_BTN_DEFAULT			160	pt	Con~trolador predefinido				2002-02-02 02:02:02
 padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_PDFDRIVER	RID_ADDP_PDFDRV_BTN_DEFAULT			160	pt-BR	O driver ~padrão				2002-02-02 02:02:02
 padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_PDFDRIVER	RID_ADDP_PDFDRV_BTN_DEFAULT			160	ru	Драйвер по умолчанию				2002-02-02 02:02:02
 padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_PDFDRIVER	RID_ADDP_PDFDRV_BTN_DEFAULT			160	rw	Musomyi mburabuzi				2002-02-02 02:02:02
@@ -4225,7 +4225,7 @@ padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_PDFDRIVER	RID_ADDP_PDFDRV
 padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_PDFDRIVER	RID_ADDP_PDFDRV_BTN_DIST			160	or-IN	ଆଡୋବି D ପ୍ରତିଷ୍ଠାପକ(tm) ଚାଳକ				2002-02-02 02:02:02
 padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_PDFDRIVER	RID_ADDP_PDFDRV_BTN_DIST			160	pa-IN	Adobe D~istiller(tm) ਡਰਾਇਵਰ				2002-02-02 02:02:02
 padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_PDFDRIVER	RID_ADDP_PDFDRV_BTN_DIST			160	pl	Sterownik Adobe D~istiller(tm)				2002-02-02 02:02:02
-padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_PDFDRIVER	RID_ADDP_PDFDRV_BTN_DIST			160	pt	Controlador A~dobe Distiller(tm)				2002-02-02 02:02:02
+padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_PDFDRIVER	RID_ADDP_PDFDRV_BTN_DIST			160	pt	Controlador do A~dobe Distiller(tm)				2002-02-02 02:02:02
 padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_PDFDRIVER	RID_ADDP_PDFDRV_BTN_DIST			160	pt-BR	O driver Adobe D~istiller(tm)				2002-02-02 02:02:02
 padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_PDFDRIVER	RID_ADDP_PDFDRV_BTN_DIST			160	ru	Драйвер Adobe Distiller(tm)				2002-02-02 02:02:02
 padmin	source\padialog.src	0	radiobutton	RID_ADDP_PAGE_PDFDRIVER	RID_ADDP_PDFDRV_BTN_DIST			160	rw	Musomyi ya Adobe D~istiller(tm)				2002-02-02 02:02:02
@@ -4353,7 +4353,7 @@ padmin	source\padialog.src	0	string	RID_ADDP_PAGE_CHOOSEDEV	RID_ADDP_STR_TITLE		
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_CHOOSEDEV	RID_ADDP_STR_TITLE			0	or-IN	ଗୋଟିଏ ୟନ୍ତ୍ର ପ୍ରକାରକୁ ବାଛନ୍ତୁ୤				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_CHOOSEDEV	RID_ADDP_STR_TITLE			0	pa-IN	ਡਰਾਈਵਰ ਕਿਸਮ ਚੁਣੋ				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_CHOOSEDEV	RID_ADDP_STR_TITLE			0	pl	Wybierz typ urządzenia				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_ADDP_PAGE_CHOOSEDEV	RID_ADDP_STR_TITLE			0	pt	Seleccionar tipo de periférico				2002-02-02 02:02:02
+padmin	source\padialog.src	0	string	RID_ADDP_PAGE_CHOOSEDEV	RID_ADDP_STR_TITLE			0	pt	Escolher tipo de dispositivo				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_CHOOSEDEV	RID_ADDP_STR_TITLE			0	pt-BR	Escolha um tipo de dispositivo				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_CHOOSEDEV	RID_ADDP_STR_TITLE			0	ru	Выбрать тип устройства				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_CHOOSEDEV	RID_ADDP_STR_TITLE			0	rw	Hitamo ubwoko bw'ububiko				2002-02-02 02:02:02
@@ -4482,7 +4482,7 @@ padmin	source\padialog.src	0	string	RID_ADDP_PAGE_CHOOSEDRIVER	RID_ADDP_STR_TITL
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_CHOOSEDRIVER	RID_ADDP_STR_TITLE			0	or-IN	ଗୋଟିଏ ଚାଳକକୁ ବାଛ				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_CHOOSEDRIVER	RID_ADDP_STR_TITLE			0	pa-IN	ਡਰਾਈਵਰ ਚੁਣੋ				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_CHOOSEDRIVER	RID_ADDP_STR_TITLE			0	pl	Wybierz sterownik				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_ADDP_PAGE_CHOOSEDRIVER	RID_ADDP_STR_TITLE			0	pt	Seleccionar controlador				2002-02-02 02:02:02
+padmin	source\padialog.src	0	string	RID_ADDP_PAGE_CHOOSEDRIVER	RID_ADDP_STR_TITLE			0	pt	Seleccionar um controlador				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_CHOOSEDRIVER	RID_ADDP_STR_TITLE			0	pt-BR	Escolha um driver				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_CHOOSEDRIVER	RID_ADDP_STR_TITLE			0	ru	Выбрать драйвер				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_CHOOSEDRIVER	RID_ADDP_STR_TITLE			0	rw	Hitamo darayiva				2002-02-02 02:02:02
@@ -4545,7 +4545,7 @@ padmin	source\padialog.src	0	string	RID_ADDP_PAGE_COMMAND	RID_ADDP_CMD_STR_FAXHE
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_COMMAND	RID_ADDP_CMD_STR_FAXHELP			0	or-IN	ଫ୍ଯାକ୍ସ ସଂୟୋଗଗୁଡିକ ପାଇଁ  ଆଦେଶ ରେଖା ନିମ୍ନ ଅନୁସାରେ କାର୍ୟ୍ଯକାରୀହୋଇଛି :ପ୍ରତ୍ଯେକ ଫ୍ଯାକ୍ସ ବାକ୍ଯ ପାଇଁ , "(TMP)" କ୍ଷଣସ୍ଥାଯୀ ଫାଇଲ ଦ୍ବାରା ଆଦେଶ ରେଖା ହଟାହୋଇଛି ଏବଂ "(PHONE)" ଫ୍ଯାକ୍ସ ସଂଖ୍ଯା ଦ୍ବାରା  ଆଦେଶ ରେଖା ହଟାହୋଇଛି  ୤ୟଦି "(TMP)"  ଆଦେଶ ରେଖାରେ ଅଛି,ପୋଷ୍ଟଲିପି କୋଡ ଏକ ଫାଇଲ ଭାଇଆକୁ ୟୋଗାଣହେବ, କିମ୍ବା  ସ୍ଟାଣ୍ଡାଡ ଇନ୍ପୁଟ (i.e. ଗୋଟିଏ ପାଇପ ପରି )୤				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_COMMAND	RID_ADDP_CMD_STR_FAXHELP			0	pa-IN	ਫੈਕਸ ਕੁਨੈਕਸ਼ਨ ਲਈ ਕਮਾਂਡ ਲਾਈਨ ਇਸ ਤਰਾਂ ਚਲਦੀ ਹੈ: ਹਰੇਕ ਭੇਜੇ ਫੈਕਸਲਈ, ਕਮਾਂਡ ਲਾਈਨ ਵਿੱਚ "(TMP)" ਆਰਜੀ ਫਾਇਲ ਨਾਲ ਹਟਾਇਆ ਜਾਂਦਾ ਹੈ ਅਤੇ ਕਮਾਂਡ ਲਾਈਨ ਵਿੱਚ "(PHONE)" ਫੈਕਸ ਨੰਬਰ ਦੁਆਰਾ ਹਟਾਇਆ ਜਾਂਦਾ ਹੈ। ਜੇ ਕਮਾਂਡ ਲਾਈਨ ਵਿੱਚ "(TMP)" ਹੈ, ਪੋਸਟਸਕਰਿਪਟ ਕੋਡ ਇੱਕ ਫਾਇਲ ਦੁਆਰਾ ਭੇਜਿਆ ਜਾਵੇਗਾ, ਨਹੀਂ ਤਾਂ ਸਟੈਂਡਰਡ ਆਊਟਪੁੱਟ ਦੁਆਰਾ (ਜਿਵੇਂ ਕਿ pipe ਵਾਂਗ)।				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_COMMAND	RID_ADDP_CMD_STR_FAXHELP			0	pl	Wiersz polecenia dla połączeń faksowych jest wykonywany w następujący sposób: podczas wysyłania faksu, występujący w wierszu polecenia argument "(TMP)" jest zamieniany na plik tymczasowy, a "(PHON)" - na numer faksu. Jeżeli w wierszu polecenia występuje argument "(TMP)", to kod PostScript zostanie przekazany w pliku; w przeciwnym razie zostanie przekazany jako standardowe wejście (tj. jako potok).				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_ADDP_PAGE_COMMAND	RID_ADDP_CMD_STR_FAXHELP			0	pt	A linha de comando para aparelhos de telefax é executada da seguinte forma: em todos os faxes enviados o "(TMP)" é substituído por um ficheiro temporário e "(PHONE)" pelo número de fax. Quando "(TMP)" aparece na linha de comando, o código PostScript é transmitido para um ficheiro, caso contrário para a entrada padrão (na forma de pipe).				2002-02-02 02:02:02
+padmin	source\padialog.src	0	string	RID_ADDP_PAGE_COMMAND	RID_ADDP_CMD_STR_FAXHELP			0	pt	A linha de comandos para aparelhos de fax é executada da seguinte forma: em todos os faxes enviados, "(TMP)" é substituído por um ficheiro temporário e "(PHONE)" pelo número de fax. Se a linha do comando incluir "(TMP)", o código PostScript será fornecido através de um ficheiro; caso contrário, é transferido como entrada de dados padrão (ou seja, como encaminhamento).				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_COMMAND	RID_ADDP_CMD_STR_FAXHELP			0	pt-BR	A linha de comando para conexões de fax é executada da seguinte maneira: para cada fax enviado, "(TMP)" na linha de comando é substituído por um arquivo temporário, e "(PHONE)" na linha de comando é substituído pelo número do fax. Caso "(TPM)" esteja na linha de comando, o código PostScript será fornecido por um arquivo ou via entrada padrão (ex.: como um canal).				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_COMMAND	RID_ADDP_CMD_STR_FAXHELP			0	ru	Командная строка при подключении факсов обрабатывается следующим образом: во время передачи каждого факса "(TMP)" заменяется временным файлом в командной строке, а "(PHONE)" - номером факса. Если в командной строке уже существует "(TMP)", то код PostScript передается в файле, иначе он передается стандартным образом (т.е. как pipe).				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_COMMAND	RID_ADDP_CMD_STR_FAXHELP			0	rw	Umurongo w'ibwirizwa w'uguhuza fagisi ikoreshwa nk'uko bikurikira: kuri buri fagisi yoherejwe,  "(TMP)" mu murongo w'ibwirizwa isimbuzwa n'idosiye gihegito na "(TELEFONE)" mu murongo w'ibwirizwa isimbuzwa nomero ya fagisi. Niba "(TMP)"  igaragaye mu murongo w'ibwirizwa, kode y'AgaporogaramuNyuma izatangwa uhereye ku idosiye, atari ibyo ihitishwa  nk'icyinjijwe gisanzwe. (urugero nk'umuheha).				2002-02-02 02:02:02
@@ -4606,7 +4606,7 @@ padmin	source\padialog.src	0	string	RID_ADDP_PAGE_COMMAND	RID_ADDP_CMD_STR_PDFHE
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_COMMAND	RID_ADDP_CMD_STR_PDFHELP			0	or-IN	ଆଦେଶ ରେଖା ପାଇଁ  PDF ରୂପାନ୍ତରକଗୁଡିକ ନିମ୍ନ ଅନୁସାରେ କାର୍ୟ୍ଯକାରୀହୋଇଛି : ପ୍ରତ୍ଯେକ ମୁଦ୍ରିତ ଦଲିଲ ପାଇଁ, "(TMP)" ଗୋଟିଏ କ୍ଷଣଶଅତାଯୀ ଫାଇଲ ଦ୍ବାରା ଆଦେଶ ରେଖାରେ ପୁନଃସ୍ଥାପିତ ହୋଇଛି ଏବଂ  "(OUTFILE)" ଲକ୍ଷ୍ଯ  PDF ଫାଇଲ ନାମ ଦ୍ବାରା  ଆଦେଶ ରେଖାରେ ପୁନଃସ୍ଥାପିତ ହୋଇଛି୤ ୟଦି "(TMP)"  ଆଦେଶ ରେଖାରେ ଅଛି,ପୋଷ୍ଟଲିପି କୋଡ ଗୋଟିଏ ଫାଇଲକୁ ୟୋଗାଣହେବ, କିମ୍ବା ନହେଲେ ସ୍ଟାଣ୍ଡାଡ ଇନ୍ପୁଟ (i.e. ଗୋଟିଏ ପାଇପ ପରି )୤				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_COMMAND	RID_ADDP_CMD_STR_PDFHELP			0	pa-IN	PDF ਅਨੁਵਾਦਕ ਲਈ ਕਮਾਂਡ ਲਾਈਨ ਇਸ ਤਰਾਂ ਚਲਦੀ ਹੈ: ਹਰੇਕ ਪ੍ਰਿੰਟ ਕੀਤੇ ਦਸਤਾਵੇਜ਼ਲਈ, ਕਮਾਂਡ ਲਾਈਨ ਵਿੱਚ "(TMP)" ਆਰਜੀ ਫਾਇਲ ਨਾਲ ਹਟਾਇਆ ਜਾਂਦਾ ਹੈ ਅਤੇ ਕਮਾਂਡ ਲਾਈਨ ਵਿੱਚ "(OUTFILE)" ਟਿਕਾਣਾ PDF ਫਾਇਲ ਨਾਂ ਦੁਆਰਾ ਹਟਾਈਜਾਂਦੀ ਹੈ। ਜੇ ਕਮਾਂਡ ਲਾਈਨ ਵਿੱਚ "(TMP)" ਹੈ, ਪੋਸਟਸਕਰਿਪਟ ਕੋਡ ਇੱਕ ਫਾਇਲ ਦੁਆਰਾ ਭੇਜਿਆ ਜਾਵੇਗਾ, ਨਹੀਂ ਤਾਂ ਸਟੈਂਡਰਡ ਆਊਟਪੁੱਟ ਦੁਆਰਾ (ਜਿਵੇਂ ਕਿ pipe ਵਾਂਗ)।				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_COMMAND	RID_ADDP_CMD_STR_PDFHELP			0	pl	Wiersz polecenia dla konwerterów PDF jest wykonywany w następujący sposób: podczas drukowania dokumentu, występujący w wierszu polecenia argument "(TMP)" jest zamieniany na plik tymczasowy, a "(OUTFILE)" - na nazwę wynikowego pliku PDF. Jeżeli w wierszu polecenia występuje argument "(TMP)", to kod PostScript zostanie przekazany w pliku; w przeciwnym razie zostanie przekazany jako standardowe wejście (tj. jako potok).				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_ADDP_PAGE_COMMAND	RID_ADDP_CMD_STR_PDFHELP			0	pt	A linha de comando dos conversores PDF é executada da seguinte maneira: em todos os documentos impressos, o "(TMP)" é substituído por um ficheiro temporário e o "(OUTFILE)" pelo ficheiro a ser criado. Quando "(TMP)" aparece na linha de comando, o código PostScript é transmitido para um ficheiro; caso contrário é transmitido para a entrada padrão (na forma de pipe).				2002-02-02 02:02:02
+padmin	source\padialog.src	0	string	RID_ADDP_PAGE_COMMAND	RID_ADDP_CMD_STR_PDFHELP			0	pt	A linha de comandos dos conversores de PDF é executada da seguinte maneira: em todos os documentos impressos, "(TMP)" é substituído por um ficheiro temporário e "(OUTFILE)" é substituído pelo nome de ficheiro destino em PDF. Se "(TMP)" constar da linha de comandos, significa que o código PostScript irá ser fornecido através de um ficheiro, caso contrário, será transferido como entrada de dados padrão (ou seja, como direccionamento).				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_COMMAND	RID_ADDP_CMD_STR_PDFHELP			0	pt-BR	A linha de comando para conversores de PDF é executada da seguinte maneira: para cada documento impresso, "(TMP)"  na linha de comando é substituído por um arquivo temporário, e "(OUTFILE)"  na linha de comando é substituído pelo nome do arquivo PDF destino. Caso "(TMP)"  esteja na linha de comando, o código PostScript será fornecido por um arquivo ou via entrada padrão (ex.: como um canal).				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_COMMAND	RID_ADDP_CMD_STR_PDFHELP			0	ru	Командная строка для конвертеров PDF обрабатывается следующим образом: в каждом печатаемом документе "(TMP)" в командной строке заменяется временным файлом, а "(OUTFILE)" - файлом PDF, который необходимо создать. Если в командной строке находится "(TMP)", то код PostScript передается в файле, иначе он передается стандартным образом (т.е. как pipe).				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_COMMAND	RID_ADDP_CMD_STR_PDFHELP			0	rw	Umurongo w'ibwirizwa wa muhinduzi PDF ikoreshwa nk'uko bikurikira: kuri buri  nyandiko icapwe, "(TMP)" mu murongo w'ibwirizwa isimbuzwa idosiye gihegito na  "(IDOSIYEHANZE)" mu murongo w'ibwirizwa isimbuzwa izina ry'idosiye PDF igamijwe. Niba "(TMP)" iri mu murongo w'ibwirizwa, kode y'AgaporogaramuNyuma izatangwa bivuye mu idosiye, atari ibyo bihereye ku cyinjizwa gisanzwe (ni ukuvuga nk'umuheha).				2002-02-02 02:02:02
@@ -4668,7 +4668,7 @@ padmin	source\padialog.src	0	string	RID_ADDP_PAGE_COMMAND	RID_ADDP_STR_TITLE			0
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_COMMAND	RID_ADDP_STR_TITLE			0	or-IN	ଆଦେଶ ଆଦେଶ ରେଖା ବାଛ				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_COMMAND	RID_ADDP_STR_TITLE			0	pa-IN	ਕਮਾਂਡ ਲਾਈਨ ਵਰਤੋਂ				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_COMMAND	RID_ADDP_STR_TITLE			0	pl	Wybierz wiersz polecenia				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_ADDP_PAGE_COMMAND	RID_ADDP_STR_TITLE			0	pt	Seleccione uma linha de comando				2002-02-02 02:02:02
+padmin	source\padialog.src	0	string	RID_ADDP_PAGE_COMMAND	RID_ADDP_STR_TITLE			0	pt	Seleccionar linha de comando				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_COMMAND	RID_ADDP_STR_TITLE			0	pt-BR	Escolha uma linha de comando				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_COMMAND	RID_ADDP_STR_TITLE			0	ru	Выбрать командную строку				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_COMMAND	RID_ADDP_STR_TITLE			0	rw	Hitamo umurongo wa komandi				2002-02-02 02:02:02
@@ -4732,7 +4732,7 @@ padmin	source\padialog.src	0	string	RID_ADDP_PAGE_FAXDRIVER	RID_ADDP_STR_TITLE		
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_FAXDRIVER	RID_ADDP_STR_TITLE			0	or-IN	ଗୋଟିଏ ଚାଳକକୁ ବାଛ				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_FAXDRIVER	RID_ADDP_STR_TITLE			0	pa-IN	ਡਰਾਈਵਰ ਚੁਣੋ				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_FAXDRIVER	RID_ADDP_STR_TITLE			0	pl	Wybierz sterownik				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_ADDP_PAGE_FAXDRIVER	RID_ADDP_STR_TITLE			0	pt	Seleccionar controlador				2002-02-02 02:02:02
+padmin	source\padialog.src	0	string	RID_ADDP_PAGE_FAXDRIVER	RID_ADDP_STR_TITLE			0	pt	Seleccionar um controlador				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_FAXDRIVER	RID_ADDP_STR_TITLE			0	pt-BR	Escolha um driver				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_FAXDRIVER	RID_ADDP_STR_TITLE			0	ru	Выбрать драйвер				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_FAXDRIVER	RID_ADDP_STR_TITLE			0	rw	Hitamo darayiva				2002-02-02 02:02:02
@@ -4925,7 +4925,7 @@ padmin	source\padialog.src	0	string	RID_ADDP_PAGE_PDFDRIVER	RID_ADDP_STR_TITLE		
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_PDFDRIVER	RID_ADDP_STR_TITLE			0	or-IN	ଗୋଟିଏ ଚାଳକକୁ ବାଛ				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_PDFDRIVER	RID_ADDP_STR_TITLE			0	pa-IN	ਡਰਾਈਵਰ ਚੁਣੋ				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_PDFDRIVER	RID_ADDP_STR_TITLE			0	pl	Wybierz sterownik				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_ADDP_PAGE_PDFDRIVER	RID_ADDP_STR_TITLE			0	pt	Seleccione um controlador				2002-02-02 02:02:02
+padmin	source\padialog.src	0	string	RID_ADDP_PAGE_PDFDRIVER	RID_ADDP_STR_TITLE			0	pt	Seleccionar um controlador				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_PDFDRIVER	RID_ADDP_STR_TITLE			0	pt-BR	Escolha um driver				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_PDFDRIVER	RID_ADDP_STR_TITLE			0	ru	Выбрать драйвер				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ADDP_PAGE_PDFDRIVER	RID_ADDP_STR_TITLE			0	rw	Hitamo darayiva				2002-02-02 02:02:02
@@ -4988,7 +4988,7 @@ padmin	source\padialog.src	0	string	RID_AFMERROR_BOX_TXT				0	ns	Metriki ya\n\n%
 padmin	source\padialog.src	0	string	RID_AFMERROR_BOX_TXT				0	or-IN	ମେଟ୍ରିକ  \n\n%s\n\n ନିମ୍ନ କାରଣ ପାଇଁ ରୂପାନ୍ତର ହୋଇପାରିବ ନାହିଁ: \n\n				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_AFMERROR_BOX_TXT				0	pa-IN	ਮੈਟਰਿਕ ਹੇਠਲੇ\n\n%s\n\nਕਾਰਨਾਂ ਕਰਕੇ ਅਨੁਵਾਦ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ:\n\n				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_AFMERROR_BOX_TXT				0	pl	Konwersja metryki\n\n%s\n\nnie była możliwa, ponieważ:\n\n				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_AFMERROR_BOX_TXT				0	pt	Foi impossível converter a métrica\n\n%s\n\npela seguinte razão:\n\n				2002-02-02 02:02:02
+padmin	source\padialog.src	0	string	RID_AFMERROR_BOX_TXT				0	pt	Não foi possível converter a métrica\n\n%s\n\npela seguinte razão:\n\n				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_AFMERROR_BOX_TXT				0	pt-BR	A métrica\n\n%s\n\nnão pôde ser convertida pela seguinte razão:\n\n				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_AFMERROR_BOX_TXT				0	ru	Преобразовать характеристику\n\n%s\n\nневозможно по следующей причине:\n\n				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_AFMERROR_BOX_TXT				0	rw	Nyametero\n\n%s\n\nntishoboye guhindurwa kubera impamvu zikurikira:\n\n				2002-02-02 02:02:02
@@ -5051,7 +5051,7 @@ padmin	source\padialog.src	0	string	RID_AFMERROR_MOVETO_FAILED				0	ns	Metriki e
 padmin	source\padialog.src	0	string	RID_AFMERROR_MOVETO_FAILED				0	or-IN	ପରିବର୍ତ୍ତିତ ମେଟ୍ରିକ ଲେଖାହୋଇପାରିବ ନାହିଁ୤				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_AFMERROR_MOVETO_FAILED				0	pa-IN	ਅਨੁਵਾਦ ਕੀਤਾ ਮੈਟਰਿਕ ਲਿਖਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ।				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_AFMERROR_MOVETO_FAILED				0	pl	Nie można zapisać przekonwertowanej metryki.				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_AFMERROR_MOVETO_FAILED				0	pt	Impossível escrever a métrica convertida.				2002-02-02 02:02:02
+padmin	source\padialog.src	0	string	RID_AFMERROR_MOVETO_FAILED				0	pt	Não foi possível gravar a métrica convertida.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_AFMERROR_MOVETO_FAILED				0	pt-BR	Não foi possível gravar a métrica convertida.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_AFMERROR_MOVETO_FAILED				0	ru	Невозможно записать преобразованную характеристику.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_AFMERROR_MOVETO_FAILED				0	rw	Ntushobora kwandika metiriki yahinduwe.				2002-02-02 02:02:02
@@ -5179,7 +5179,7 @@ padmin	source\padialog.src	0	string	RID_AFMERROR_NO_FAMILY_NAME				0	ns	Metriki 
 padmin	source\padialog.src	0	string	RID_AFMERROR_NO_FAMILY_NAME				0	or-IN	 ମେଟ୍ରିକରେ ଗୋଟିଏ 'ପରିବାର ନାମ' ପ୍ରବେଶ ନାହିଁ୤				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_AFMERROR_NO_FAMILY_NAME				0	pa-IN	ਮੈਟਰਿਕ ਵਿੱਚ 'FamilyName' ਇੰਦਰਾਜ ਸ਼ਾਮਿਲ ਨਹੀਂ ਹੈ।				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_AFMERROR_NO_FAMILY_NAME				0	pl	Metryka nie zawiera wpisu 'FamilyName'.				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_AFMERROR_NO_FAMILY_NAME				0	pt	A métrica não contém a entrada 'FamilyName'.				2002-02-02 02:02:02
+padmin	source\padialog.src	0	string	RID_AFMERROR_NO_FAMILY_NAME				0	pt	A métrica não contém a entrada 'NomeFamília'.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_AFMERROR_NO_FAMILY_NAME				0	pt-BR	A métrica não contém a entrada 'NomeFamília'.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_AFMERROR_NO_FAMILY_NAME				0	ru	Характеристика не содержит запись 'FamilyName'.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_AFMERROR_NO_FAMILY_NAME				0	rw	Metiriki ntifite aho bandika izina izina ry'ababyeyi				2002-02-02 02:02:02
@@ -5243,7 +5243,7 @@ padmin	source\padialog.src	0	string	RID_AFMERROR_NO_FONT_NAME				0	ns	Metriki ga
 padmin	source\padialog.src	0	string	RID_AFMERROR_NO_FONT_NAME				0	or-IN	ମେଟ୍ରିକରେ ଗୋଟିଏ 'ଫଣ୍ଟନାମ'  ପ୍ରବେଶ ନାହିଁ୤				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_AFMERROR_NO_FONT_NAME				0	pa-IN	ਮੈਟਰਿਕ ਵਿੱਚ 'FontName' ਇੰਦਰਾਜ ਸ਼ਾਮਿਲ ਨਹੀਂ ਹੈ।				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_AFMERROR_NO_FONT_NAME				0	pl	Metryka nie zawiera wpisu 'FontName'.				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_AFMERROR_NO_FONT_NAME				0	pt	A métrica não contém a entrada 'FontName'.				2002-02-02 02:02:02
+padmin	source\padialog.src	0	string	RID_AFMERROR_NO_FONT_NAME				0	pt	A métrica não contém a entrada 'NomeTipoLetra'.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_AFMERROR_NO_FONT_NAME				0	pt-BR	A métrica não contém a entrada 'NomeFonte'.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_AFMERROR_NO_FONT_NAME				0	ru	Характеристика не содержит запись 'FontName'.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_AFMERROR_NO_FONT_NAME				0	rw	Metiriki ntifite aho bandika Izina rya muhinduzi				2002-02-02 02:02:02
@@ -5307,7 +5307,7 @@ padmin	source\padialog.src	0	string	RID_AFMERROR_NO_FULL_NAME				0	ns	Metriki ga
 padmin	source\padialog.src	0	string	RID_AFMERROR_NO_FULL_NAME				0	or-IN	 ମେଟ୍ରିକରେ ଗୋଟିଏ 'ପୁରାନାମ'  ପ୍ରବେଶ ନାହିଁ୤				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_AFMERROR_NO_FULL_NAME				0	pa-IN	ਮੈਟਰਿਕ ਵਿੱਚ 'FullName' ਇੰਦਰਾਜ ਸ਼ਾਮਿਲ ਨਹੀਂ ਹੈ।				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_AFMERROR_NO_FULL_NAME				0	pl	Metryka nie zawiera wpisu 'FullName'.				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_AFMERROR_NO_FULL_NAME				0	pt	A métrica não contém a entrada 'FullName'.				2002-02-02 02:02:02
+padmin	source\padialog.src	0	string	RID_AFMERROR_NO_FULL_NAME				0	pt	A métrica não contém a entrada 'NomeCompleto'.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_AFMERROR_NO_FULL_NAME				0	pt-BR	A métrica não contém a entrada 'NomeCompleto'.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_AFMERROR_NO_FULL_NAME				0	ru	Характеристика не содержит запись 'FullName'.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_AFMERROR_NO_FULL_NAME				0	rw	Metiriki ntifite aho bandika Izina ryose				2002-02-02 02:02:02
@@ -5436,7 +5436,7 @@ padmin	source\padialog.src	0	string	RID_AFMERROR_STREAM_READ_FAILED				0	ns	Metr
 padmin	source\padialog.src	0	string	RID_AFMERROR_STREAM_READ_FAILED				0	or-IN	ମେଟ୍ରିକ ପଢିହେବ ନାହିଁ୤				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_AFMERROR_STREAM_READ_FAILED				0	pa-IN	ਮੈਟਰਿਕ ਪੜਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ।				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_AFMERROR_STREAM_READ_FAILED				0	pl	Odczytanie metryki nie było możliwe.				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_AFMERROR_STREAM_READ_FAILED				0	pt	Foi impossível ler a métrica.				2002-02-02 02:02:02
+padmin	source\padialog.src	0	string	RID_AFMERROR_STREAM_READ_FAILED				0	pt	Não foi possível ler a métrica.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_AFMERROR_STREAM_READ_FAILED				0	pt-BR	Não foi possível ler a métrica.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_AFMERROR_STREAM_READ_FAILED				0	ru	Невозможно считать характеристику.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_AFMERROR_STREAM_READ_FAILED				0	rw	Ntushobora gusoma metiriki				2002-02-02 02:02:02
@@ -5500,7 +5500,7 @@ padmin	source\padialog.src	0	string	RID_AFMERROR_STREAM_WRITE_FAILED				0	ns	Fae
 padmin	source\padialog.src	0	string	RID_AFMERROR_STREAM_WRITE_FAILED				0	or-IN	ଗୋଟିଏ କ୍ଷଣସ୍ଥାଯୀ ଫାଇଲ ସୃଷ୍ଟିହୋଇପାରିବ ନାହିଁ୤				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_AFMERROR_STREAM_WRITE_FAILED				0	pa-IN	ਆਰਜੀ ਫਾਇਲ ਬਣਾਈ ਨਹੀਂ ਜਾ ਸਕਦੀ।				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_AFMERROR_STREAM_WRITE_FAILED				0	pl	Nie można utworzyć pliku tymczasowego.				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_AFMERROR_STREAM_WRITE_FAILED				0	pt	Foi impossível criar o ficheiro temporário.				2002-02-02 02:02:02
+padmin	source\padialog.src	0	string	RID_AFMERROR_STREAM_WRITE_FAILED				0	pt	Não foi possível criar ficheiro temporário.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_AFMERROR_STREAM_WRITE_FAILED				0	pt-BR	Não foi possível criar um arquivo temporário.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_AFMERROR_STREAM_WRITE_FAILED				0	ru	Невозможно создать временный файл.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_AFMERROR_STREAM_WRITE_FAILED				0	rw	Dosiye y'agateganyo ntishobora gukorwa				2002-02-02 02:02:02
@@ -5564,7 +5564,7 @@ padmin	source\padialog.src	0	string	RID_BXT_ENVIRONMENT				0	ns	Tikologo e foša
 padmin	source\padialog.src	0	string	RID_BXT_ENVIRONMENT				0	or-IN	ଭୂଲ ପରିବେଶ				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_BXT_ENVIRONMENT				0	pa-IN	ਗਲਤ ਵਾਤਾਵਰਣ				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_BXT_ENVIRONMENT				0	pl	Nieprawidłowe środowisko				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_BXT_ENVIRONMENT				0	pt	Ambiente defeituoso				2002-02-02 02:02:02
+padmin	source\padialog.src	0	string	RID_BXT_ENVIRONMENT				0	pt	Ambiente incorrecto				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_BXT_ENVIRONMENT				0	pt-BR	Ambiente incorreto				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_BXT_ENVIRONMENT				0	ru	Неверная конфигурация				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_BXT_ENVIRONMENT				0	rw	Ibyifashishwa si byo				2002-02-02 02:02:02
@@ -5629,7 +5629,7 @@ padmin	source\padialog.src	0	string	RID_BXT_TESTPAGE				0	ns	Letlakala la go lek
 padmin	source\padialog.src	0	string	RID_BXT_TESTPAGE				0	or-IN	ଟେଷ୍ଟ ପୃଷ୍ଠା				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_BXT_TESTPAGE				0	pa-IN	ਜਾਂਚ ਸਫਾ				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_BXT_TESTPAGE				0	pl	Strona próbna				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_BXT_TESTPAGE				0	pt	Página-teste				2002-02-02 02:02:02
+padmin	source\padialog.src	0	string	RID_BXT_TESTPAGE				0	pt	Página de teste				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_BXT_TESTPAGE				0	pt-BR	Página de teste				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_BXT_TESTPAGE				0	ru	Тест				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_BXT_TESTPAGE				0	rw	Paji y'igerageza				2002-02-02 02:02:02
@@ -5694,7 +5694,7 @@ padmin	source\padialog.src	0	string	RID_ERR_NOPRINTER				0	ns	Ga e kgone go bula
 padmin	source\padialog.src	0	string	RID_ERR_NOPRINTER				0	or-IN	 %s ପ୍ରିଣ୍ଟର ଖୋଲାହୋଇପାରୁ ନାହିଁ୤				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ERR_NOPRINTER				0	pa-IN	%s ਪ੍ਰਿੰਟਰ ਖੋਲ ਨਹੀਂ ਸਕਿਆ।				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ERR_NOPRINTER				0	pl	Nie można otworzyć drukarki %s.				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_ERR_NOPRINTER				0	pt	Foi impossível abrir a impressora '%s'.				2002-02-02 02:02:02
+padmin	source\padialog.src	0	string	RID_ERR_NOPRINTER				0	pt	Não foi possível abrir a impressora %s.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ERR_NOPRINTER				0	pt-BR	Não foi possível abrir a impressora %s.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ERR_NOPRINTER				0	ru	Невозможно открыть принтер %s.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ERR_NOPRINTER				0	rw	Ntishobora gufungura mucapyi %s.				2002-02-02 02:02:02
@@ -5759,7 +5759,7 @@ padmin	source\padialog.src	0	string	RID_ERR_PRINTERNOTREMOVEABLE				0	ns	Segati�
 padmin	source\padialog.src	0	string	RID_ERR_PRINTERNOTREMOVEABLE				0	or-IN	ପ୍ରିଣ୍ଟର %s ହଟାହୋଇପାରିବ ନାହିଁ୤				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ERR_PRINTERNOTREMOVEABLE				0	pa-IN	ਪ੍ਰਿੰਟਰ %s ਹਟਾਇਆ ਨਹੀਂ ਜਾ ਸਕਦਾ।				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ERR_PRINTERNOTREMOVEABLE				0	pl	Nie można usunąć drukarki %s.				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_ERR_PRINTERNOTREMOVEABLE				0	pt	Impossível remover a impressora '%s'.				2002-02-02 02:02:02
+padmin	source\padialog.src	0	string	RID_ERR_PRINTERNOTREMOVEABLE				0	pt	Não foi possível remover a impressora %s.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ERR_PRINTERNOTREMOVEABLE				0	pt-BR	A impressora %s não pode ser removida.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ERR_PRINTERNOTREMOVEABLE				0	ru	Невозможно удалить принтер %s.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ERR_PRINTERNOTREMOVEABLE				0	rw	Mucapyi %s ntishobora gukurwaho				2002-02-02 02:02:02
@@ -5824,7 +5824,7 @@ padmin	source\padialog.src	0	string	RID_ERR_REMOVEDEFAULTDRIVER				0	ns	Mootledi
 padmin	source\padialog.src	0	string	RID_ERR_REMOVEDEFAULTDRIVER				0	or-IN	ତୁମ ଡିଫଲଟ ପ୍ରିଣ୍ଟର ଦ୍ବାରା "%s"ଚାଳକ   ଉପୟୋଗହୋଉଛି ୤ ସେଥିପାଇଁ, ଏହା ହଟାହୋଇପାରିବ ନାହିଁ୤				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ERR_REMOVEDEFAULTDRIVER				0	pa-IN	ਡਰਾਈਵਰ "%s" ਤੁਹਾਡੇ ਮੂਲ ਪ੍ਰਿੰਟਰ ਦੁਆਰਾ ਵਰਤਿਆ ਗਿਆ ਹੈ। ਇਸ ਲਈ ਇਹ ਹਟਾਇਆ ਨਹੀਂ ਜਾ ਸਕਦਾ।				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ERR_REMOVEDEFAULTDRIVER				0	pl	Sterownika "%s" nie można usunąć, ponieważ korzysta z niego drukarka domyślna.				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_ERR_REMOVEDEFAULTDRIVER				0	pt	O controlador '%s' é utilizado pela impressora padrão, sendo portanto impossível removê-lo.				2002-02-02 02:02:02
+padmin	source\padialog.src	0	string	RID_ERR_REMOVEDEFAULTDRIVER				0	pt	O controlador "%s" é utilizado pela sua impressora predefinida. Consequentemente, não pode ser removido.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ERR_REMOVEDEFAULTDRIVER				0	pt-BR	O driver "%s" é utilizado pela sua impressora padrão. Conseqüentemente, ele não pode ser removido.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ERR_REMOVEDEFAULTDRIVER				0	ru	Драйвер "%s" используется принтером по умолчанию. Поэтому удалить его невозможно.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ERR_REMOVEDEFAULTDRIVER				0	rw	Musomyi "%s" ikoreshwa na mucapyi mburabuzi yawe, ku bw'ibyo ntishobora gukurwaho.				2002-02-02 02:02:02
@@ -5888,7 +5888,7 @@ padmin	source\padialog.src	0	string	RID_ERR_REMOVEDRIVERFAILED				0	ns	Mootledi 
 padmin	source\padialog.src	0	string	RID_ERR_REMOVEDRIVERFAILED				0	or-IN	"%s1" ଚାଳକ  ହଟାହୋଇପାରିବ ନାହିଁ୤ ଫାଇଲକୁ ହଟାଇବା ସମ୍ଭବନୁହେଁ\n\n%s2୤				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ERR_REMOVEDRIVERFAILED				0	pa-IN	ਡਰਾਈਵਰ "%s1" ਹਟਾਇਆ ਨਹੀਂ ਜਾ ਸਕਦਾ। ਇਹ ਸੰਭਵ ਨਹੀਂ ਕਿ ਫਾਇਲ ਨੂੰ ਹਟਾਇਆ ਜਾਵੇ\n\n%s2|				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ERR_REMOVEDRIVERFAILED				0	pl	The driver "%s1" could not be removed. Removing the file\n\n%s2\n\nwas not possible.				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_ERR_REMOVEDRIVERFAILED				0	pt	O driver "%s1"  não conseguiu ser removido. A remoção do ficheiro\n\n%s2\n\n não foi possível.				2002-02-02 02:02:02
+padmin	source\padialog.src	0	string	RID_ERR_REMOVEDRIVERFAILED				0	pt	Não é possível remover o controlador "%s1". Não foi possível remover o ficheiro\n\n%s2.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ERR_REMOVEDRIVERFAILED				0	pt-BR	O driver "%s1" não pôde ser removido. Não foi possível remover o arquivo\n\n%s2.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ERR_REMOVEDRIVERFAILED				0	ru	The driver "%s1" could not be removed. Removing the file\n\n%s2\n\nwas not possible.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ERR_REMOVEDRIVERFAILED				0	rw	Musomyi  "%s1"  ntishobora gukurwamo. Ntibyashobotse gukuramo idosiye\n\n%s2.				2002-02-02 02:02:02
@@ -5951,7 +5951,7 @@ padmin	source\padialog.src	0	string	RID_ERR_REMOVESGENPRT				0	ns	Mootledi wa "%
 padmin	source\padialog.src	0	string	RID_ERR_REMOVESGENPRT				0	or-IN	 "%s" ଚାଳକ ସବୁବେଳେ ଦରକାର ଅଛି ଏବଂ ସେଥିପାଇଁ  ହଟାହୋଇପାରିବ ନାହିଁ୤				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ERR_REMOVESGENPRT				0	pa-IN	ਡਰਾਈਵਰ "%s" ਦੀ ਹਮੇਸ਼ਾ ਲੋੜ ਹੈ ਅਤੇ ਇਸ ਲਈ ਹਟਾਇਆ ਨਹੀਂ ਜਾ ਸਕਦਾ।				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ERR_REMOVESGENPRT				0	pl	Sterownik "%s" jest zawsze potrzebny i nie może być usunięty.				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_ERR_REMOVESGENPRT				0	pt	O driver '%s' é sempre necessário e portanto não pode ser removido.				2002-02-02 02:02:02
+padmin	source\padialog.src	0	string	RID_ERR_REMOVESGENPRT				0	pt	O controlador "%s" é sempre necessário, não podendo, por este motivo, ser removido.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ERR_REMOVESGENPRT				0	pt-BR	O driver "%s" é obrigatório e, conseqüentemente, não pode ser removido.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ERR_REMOVESGENPRT				0	ru	Драйвер "%s" нужен всегда и поэтому не может быть удалён.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ERR_REMOVESGENPRT				0	rw	Musomyi"%s" irakenewe buri gihe niyo mpamvu idashobora gukurwaho.				2002-02-02 02:02:02
@@ -6015,7 +6015,7 @@ padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_AFMCOPYFA
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_AFMCOPYFAILED			0	or-IN	ଫଣ୍ଟ ଫାଇଲ ପାଇଁ  ମେଟ୍ରିକ ଫାଇଲ \n   %s\nନକଲ ହୋଇପାରିବ ନାହିଁ୤ ଫଣ୍ଟ ପ୍ରତିଷ୍ଠାପିତ ହୋଇପାରିବ ନାହିଁ୤ 				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_AFMCOPYFAILED			0	pa-IN	ਫੋਂਟ ਫਾਇਲ ਲਈ ਮੈਟਰਿਕ ਫਾਇਲ\n   %s\nਨਕਲ ਨਹੀਂ ਹੋ ਸਕਦੀ। ਫੋਂਟ ਇੰਸਟਾਲ ਨਹੀਂ ਹੋਣਗੇ।				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_AFMCOPYFAILED			0	pl	Skopiowanie pliku metryki przypisanego do pliku czcionki\n   %s\nnie było możliwe. Czcionka nie zostanie zainstalowana.				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_AFMCOPYFAILED			0	pt	Foi impossível copiar o ficheiro métrico para o ficheiro do tipo de letra\n...%s\n. O tipo de letra não será instalado.				2002-02-02 02:02:02
+padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_AFMCOPYFAILED			0	pt	Não foi possível copiar o ficheiro\n   de métrica para o ficheiro\n de tipo de letra %s. O tipo de letra não será instalado.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_AFMCOPYFAILED			0	pt-BR	O arquivo métrico para o arquivo de fonte\n   %s\nnão pôde ser copiado. A fonte não será instalada.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_AFMCOPYFAILED			0	ru	Невозможно скопировать файл характеристик шрифта\n   %s.\n Шрифт не будет установлен.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_AFMCOPYFAILED			0	rw	Idosiye nyametero ijyanye n'idosiye y'imyandikire\n  %s\nntishobora gukopororwa. Imyandikire ntizakorerwa iyinjizaporogaramu.				2002-02-02 02:02:02
@@ -6079,7 +6079,7 @@ padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_FONTCOPYF
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_FONTCOPYFAILED			0	or-IN	ଫଣ୍ଟ ଫାଇଲ \n   %s\n ନକଲ ହୋଇପାରିବ ନାହିଁ୤ଫଣ୍ଟ ପ୍ରତିଷ୍ଠାପିତ ହୋଇପାରିବ ନାହିଁ୤				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_FONTCOPYFAILED			0	pa-IN	ਫੋਂਟ ਫਾਇਲ \n   %s\nਦੀ ਨਕਲ ਨਹੀਂ ਹੋਈ। ਫੋਂਟ ਇੰਸਟਾਲ ਨਹੀਂ ਹੋਣਗੇ।				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_FONTCOPYFAILED			0	pl	Skopiowanie pliku czcionki\n   %s\nnie było możliwe. Czcionka nie zostanie zainstalowana.				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_FONTCOPYFAILED			0	pt	Foi impossível copiar o ficheiro dos tipos de letra\n %s\n. O tipo de letra não será instalado.				2002-02-02 02:02:02
+padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_FONTCOPYFAILED			0	pt	Não foi possível copiar\n   o ficheiro de tipo de letra %s. O tipo de letra não será instalado.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_FONTCOPYFAILED			0	pt-BR	O arquivo de fonte\n   %s\nnão pôde ser copiado. A fonte não será instalada.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_FONTCOPYFAILED			0	ru	Невозможно скопировать файл шрифта\n   %s.\n Шрифт не будет установлен.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_FONTCOPYFAILED			0	rw	Idosiye y'imyandikire\n   %s\nntishobora gukopororwa. Imyandikire ntizakorerwa iyinjizaporogaramu.				2002-02-02 02:02:02
@@ -6207,7 +6207,7 @@ padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_NOAFM			0
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_NOAFM			0	or-IN	ଗୋଟିଏ  (ଏକ.afm ବିସ୍ତାର ସହିତ) ଫଣ୍ଟ ପାଇଁ ମିଳୁନାହିଁ\n%s\nସେଥିପାଇଁ,  ଫଣ୍ଟ ପ୍ରତିଷ୍ଠାପନ ହୋଇପାରିବ ନାହିଁ୤ ଗୋଷ୍ଟ ଲିପି ସହିତ ରଚନା ଫାଇଲ୍ ଗୁଡିକ ସୃଷ୍ଟି ହୋଇପାରିବ ନାହିଁ ,ଉଦାହରଣବସତଃ,ଏବଂ  ଫଣ୍ଟ ଫାଇଲଗୁଡିକ ପରି  ସମାନ ବିବରଣୀପଞ୍ଜିକାରେ ସ୍ଥାନୀଯ ହୋଇଛି କିମ୍ବା ଏହାର .afm ଉପବିବରଣୀପଞ୍ଜିକା୤				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_NOAFM			0	pa-IN	ਫੋਂਟ ਲਈ ਇੱਕ ਫਾਰਮੈਟ ਫਾਇਲ (.afm ਐਕਸਟੈਂਸ਼ਨ ਨਾਲ) ਮਿਲੀ ਹੈ\n%s\nਇਸ ਲਈ, ਫੋਂਟ ਇੰਸਟਾਲ ਨਹੀਂ ਕੀਤੇ ਜਾ ਸਕਦੇ। ਫਾਰਮੈਟ ਫਾਇਲ ਗੋਸਟਸਕਰਿਪਟ ਨਾਲ ਬਣਾਈ ਜਾ ਸਕਦੀ ਹੈ, ਉਦਾਹਰਨ ਵਜੋਂ, ਅਤੇ ਉਸੇ ਡਾਇਰੈਕਟਰੀ ਵਿੱਚ ਫੋਂਟ ਫਾਇਲ ਜਾਂ ਇਸ ਦੀ afm ਉਪ-ਡਾਇਰੈਕਟਰੀ ਤੌਰ ਤੇ ਸਥਿਤ ਹੋਣੀ ਚਾਹੀਦੀ ਹੈ।				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_NOAFM			0	pl	Czcionka\n%s\nnie zostanie zainstalowana, ponieważ nie znaleziono dla niej żadnego pliku formatu (z rozszerzeniem .afm). Pliki formatu można tworzyć np. za pomocą programu ghostscript. Muszą się one znajdować w tym samym katalogu, co pliki czcionki, albo w jego podkatalogu afm.				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_NOAFM			0	pt	Foi impossível encontrar o ficheiro de formato (com extensão .afm) para o ficheiro do tipo de letra\n%s\n. Por esta razão não foi possível instalá-lo. Os ficheiros de formato podem ser criados com ghostscript (por exemplo), devendo ser guardados no directório contendo os ficheiros dos tipos de letra ou num dos respectivos subdirectórios afm.				2002-02-02 02:02:02
+padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_NOAFM			0	pt	Não foi encontrado um ficheiro de formato (com uma extensão .afm) para o tipo de letra;\n%s\npor este motivo, não é possível instalar o tipo de letra. Os ficheiros de formato podem ser criados com ghostscript (por exemplo), devendo estar localizados no directório que contém os ficheiros de tipos de letra ou respectivo subdirectório afm.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_NOAFM			0	pt-BR	Um formato de arquivo (com extensão .afm) não foi encontrado para a fonte\n%s\nconseqüentemente, a fonte não pode ser instalada. Formatos de arquivos podem, por exemplo, ser criados com o ghostscript e devem ser alocados no mesmo diretório que os arquivos de fonte ou em seu próprio subdiretório afm.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_NOAFM			0	ru	Для файла шрифта \n%s\n не найден файл формата (с расширением .afm). Поэтому шрифт невозможно установить. Файлы формата могут быть созданы, например, при помощи ghostscript, и должны находиться в том же каталоге, что и файлы шрифта, или в его подкаталоге для afm-файлов.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_NOAFM			0	rw	Idosiye y'imiterere(ifite umugereka .afm) ntabwo yabonetse ku bijyanye n'imyandikire\n%s\nUbwo rero, imyandikire ntishobora kwinjizwa. Amadosiye y'imyandikire ashobora kuremwa na ghostscript, nk'urugero, kandi agashyirwa mu bubiko bumwe nk'amadosiye y'imyandikire cyangwa ububiko bwungirije afm.				2002-02-02 02:02:02
@@ -6269,7 +6269,7 @@ padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_NOWRITEAB
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_NOWRITEABLEFONTSDIR			0	or-IN	ଗୋଟିଏ ଲେଖାୟୋଗ୍ଯ ଫଣ୍ଟ.dir ଫାଇଲ ରହିଥିବା ଗୋଟିଏ  ବିବରଣୀପଞ୍ଜିକା ଫଣ୍ଟପଥରେ  ନାହିଁ୤ ସେଥିପାଇଁ,ଫଣ୍ଟ ଗୁଡିକ ପ୍ରତିଷ୍ଠାପିତ ହୋଇପାରିବ ନାହିଁ୤				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_NOWRITEABLEFONTSDIR			0	pa-IN	ਡਾਇਰੈਕਟਰੀ ਜਿਸ ਵਿੱਚ ਲਿਖਣ ਯੋਗ fonts.dir ਫਾਇਲ ਹੈ ਫੋਂਟ ਮਾਰਗ ਵਿੱਚ ਸਥਿਤ ਨਹੀਂ ਹੈ। ਇਸ ਲਈ, ਫੋਂਟ ਇੰਸਟਾਲ ਨਹੀਂ ਹੋਣਗੇ।				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_NOWRITEABLEFONTSDIR			0	pl	Nie można zainstalować czcionek, ponieważ na ścieżce Fontpath nie znaleziono żadnego katalogu z plikiem fonts.dir, który można zapisać.				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_NOWRITEABLEFONTSDIR			0	pt	Foi impossível encontrar o directório no "fontpath", contendo um ficheiro de escrita fonts.dir. É impossível instalar os tipos de letra.				2002-02-02 02:02:02
+padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_NOWRITEABLEFONTSDIR			0	pt	Não foi possível encontrar no Fontpath um directório contendo um ficheiro fonts.dir gravável. Não foi possível instalar os tipos de letra.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_NOWRITEABLEFONTSDIR			0	pt-BR	Não existe no Fontpath um diretório que contenha um arquivo editável fonts.dir. Conseqüentemente, as fontes não podem ser instaladas.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_NOWRITEABLEFONTSDIR			0	ru	Невозможно установить шрифты. Каталог, содержащий файл записываемых шрифтов fonts.dir не найден по указанному пути.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_NOWRITEABLEFONTSDIR			0	rw	Amabwiriza afite za muhinduzi zishobora kwandikwa. Idosiye y'ingenzi ntiri mu nzira ya muhinduzi. Muhinduzi ntizishobora rero gushyirwaho				2002-02-02 02:02:02
@@ -6399,7 +6399,7 @@ padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_OVERWRITE
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_OVERWRITEALL			0	or-IN	ସମସ୍ତ				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_OVERWRITEALL			0	pa-IN	ਸਭ				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_OVERWRITEALL			0	pl	Wszystko				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_OVERWRITEALL			0	pt	Todos				2002-02-02 02:02:02
+padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_OVERWRITEALL			0	pt	Tudo				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_OVERWRITEALL			0	pt-BR	Todos				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_OVERWRITEALL			0	ru	Все				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_OVERWRITEALL			0	rw	Byose				2002-02-02 02:02:02
@@ -6465,7 +6465,7 @@ padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_OVERWRITE
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_OVERWRITENONE			0	or-IN	କେହି ନାହିଁ				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_OVERWRITENONE			0	pa-IN	ਕੋਈ ਨਹੀਂ				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_OVERWRITENONE			0	pl	Brak				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_OVERWRITENONE			0	pt	Nenhum				2002-02-02 02:02:02
+padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_OVERWRITENONE			0	pt	Nenhum(a)				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_OVERWRITENONE			0	pt-BR	Nenhum				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_OVERWRITENONE			0	ru	Нет				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_OVERWRITENONE			0	rw	Ntacyo				2002-02-02 02:02:02
@@ -6531,7 +6531,7 @@ padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_QUERYOVER
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_QUERYOVERWRITE			0	or-IN	ଏହି ଫଣ୍ଟ ଫାଇଲକୁ ତୁମେ ପ୍ରକୃତରେ ପୁନଃଲିଖନ କରିବାକୁ ଚାହୁଁଛ କି ?\n   %s				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_QUERYOVERWRITE			0	pa-IN	ਕੀ ਤੁਸੀਂ ਯਕੀਨਨ ਇਹ ਫੋਂਟ ਫਾਇਲ ਮੁੜ ਲਿਖਣਾ ਚਾਹੁੰਦੇ ਹੋ?\n   %s				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_QUERYOVERWRITE			0	pl	Czy na pewno chcesz zastąpić ten plik czcionek?\n   %s				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_QUERYOVERWRITE			0	pt	Substituir realmente o ficheiro dos\ntipos de letra %s?				2002-02-02 02:02:02
+padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_QUERYOVERWRITE			0	pt	Tem a certeza de que pretende substituir este ficheiro de tipo de letra?\n   %s				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_QUERYOVERWRITE			0	pt-BR	Deseja substituir este arquivo de fonte?\n   %s				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_QUERYOVERWRITE			0	ru	Вы действительно хотите перезаписать файл шрифтов \n   %s?				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_QUERYOVERWRITE			0	rw	Urifuza mu by'ukuri gusimbura iyi dosiye y'imyandikire?\n %s				2002-02-02 02:02:02
@@ -6595,7 +6595,7 @@ padmin	source\padialog.src	0	string	RID_FONTNAMEDIALOG	RID_FNTNM_STR_NOTRENAMABL
 padmin	source\padialog.src	0	string	RID_FONTNAMEDIALOG	RID_FNTNM_STR_NOTRENAMABLE			0	or-IN	 ଅଦୃଷ୍ଟ ଲେଖା ଅନୁମତି ୟୋଗୁଁ %s ଫଣ୍ଟ ପୁନଃନାମିତ ହୋଇପାରିବ ନାହିଁ୤				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTNAMEDIALOG	RID_FNTNM_STR_NOTRENAMABLE			0	pa-IN	ਲਿਖਣ ਅਧਿਕਾਰ ਗੁੰਮ ਹੋਣ ਕਰਕੇ ਫੋਂਟ %s ਨੂੰ ਮੁੜ ਨਾਂ ਨਹੀਂ ਦਿੱਤਾ ਗਿਆ।				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTNAMEDIALOG	RID_FNTNM_STR_NOTRENAMABLE			0	pl	Zmiana nazwy czcionki %s nie jest możliwa z powodu braku praw zapisu.				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_FONTNAMEDIALOG	RID_FNTNM_STR_NOTRENAMABLE			0	pt	Impossível mudar o nome ao tipo de letra '%s' por não ter privilégios de escrita.				2002-02-02 02:02:02
+padmin	source\padialog.src	0	string	RID_FONTNAMEDIALOG	RID_FNTNM_STR_NOTRENAMABLE			0	pt	Não foi possível mudar o nome do tipo de letra %s devido à falta de direitos de escrita.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTNAMEDIALOG	RID_FNTNM_STR_NOTRENAMABLE			0	pt-BR	A fonte %s não pode ser renomeada devido a falta de permissão de gravação.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTNAMEDIALOG	RID_FNTNM_STR_NOTRENAMABLE			0	ru	Невозможно переименовать шрифт %s: нет прав на запись.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTNAMEDIALOG	RID_FNTNM_STR_NOTRENAMABLE			0	rw	Muhinduzi %s ntishobora guhindurirwa izina kuko nta ruhusa rwo kwandika ufite.				2002-02-02 02:02:02
@@ -6660,7 +6660,7 @@ padmin	source\padialog.src	0	string	RID_FONTNAMEDIALOG	RID_FNTNM_STR_RENAME			0	
 padmin	source\padialog.src	0	string	RID_FONTNAMEDIALOG	RID_FNTNM_STR_RENAME			0	or-IN	%s ପାଇଁ ନୂଆ ନାମ				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTNAMEDIALOG	RID_FNTNM_STR_RENAME			0	pa-IN	%s ਲਈ ਨਵਾਂ ਨਾਂ(~n)				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTNAMEDIALOG	RID_FNTNM_STR_RENAME			0	pl	~Nowa nazwa %s				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_FONTNAMEDIALOG	RID_FNTNM_STR_RENAME			0	pt	~Novo nome para '%s'				2002-02-02 02:02:02
+padmin	source\padialog.src	0	string	RID_FONTNAMEDIALOG	RID_FNTNM_STR_RENAME			0	pt	~Novo nome para %s				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTNAMEDIALOG	RID_FNTNM_STR_RENAME			0	pt-BR	~Novo nome para %s				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTNAMEDIALOG	RID_FNTNM_STR_RENAME			0	ru	~Новое имя для %s				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTNAMEDIALOG	RID_FNTNM_STR_RENAME			0	rw	Izina rishya rya %s				2002-02-02 02:02:02
@@ -6725,7 +6725,7 @@ padmin	source\padialog.src	0	string	RID_FONTNAMEDIALOG	RID_FNTNM_STR_TTCRENAME		
 padmin	source\padialog.src	0	string	RID_FONTNAMEDIALOG	RID_FNTNM_STR_TTCRENAME			0	or-IN	%s ନୂଆ ନାମ ପାଇଁ (%d1 ର %d1)				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTNAMEDIALOG	RID_FNTNM_STR_TTCRENAME			0	pa-IN	%s ਲਈ ਨਵਾਂ ਨਾਂ(~n)(%d2 ਦਾ %d1)				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTNAMEDIALOG	RID_FNTNM_STR_TTCRENAME			0	pl	~Nowa nazwa %s (%d1 z %d2)				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_FONTNAMEDIALOG	RID_FNTNM_STR_TTCRENAME			0	pt	~Novo nome para ('%d1' de '%d2')				2002-02-02 02:02:02
+padmin	source\padialog.src	0	string	RID_FONTNAMEDIALOG	RID_FNTNM_STR_TTCRENAME			0	pt	~Novo nome para (%d1 de %d2)				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTNAMEDIALOG	RID_FNTNM_STR_TTCRENAME			0	pt-BR	~Novo nome para %s (%d1 de %d2)				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTNAMEDIALOG	RID_FNTNM_STR_TTCRENAME			0	ru	~Новое имя для %s (% из %)				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTNAMEDIALOG	RID_FNTNM_STR_TTCRENAME			0	rw	Izina rishya rya %s (%d1 of %d2)				2002-02-02 02:02:02
@@ -6789,7 +6789,7 @@ padmin	source\padialog.src	0	string	RID_OPERATION_CONVERTMETRIC				0	ns	Phetošo
 padmin	source\padialog.src	0	string	RID_OPERATION_CONVERTMETRIC				0	or-IN	ଫଣ୍ଟ ମେଟ୍ରିକଗୁଡିକର ରୂପନ୍ତରିକରଣ				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_OPERATION_CONVERTMETRIC				0	pa-IN	ਫੋਂਟ ਮੈਟਰਿਕਸ ਅਨੁਵਾਦ				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_OPERATION_CONVERTMETRIC				0	pl	Konwersja metryk czcionek				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_OPERATION_CONVERTMETRIC				0	pt	Conversão das métricas dos tipos de letra				2002-02-02 02:02:02
+padmin	source\padialog.src	0	string	RID_OPERATION_CONVERTMETRIC				0	pt	Conversão de métrica de tipos de letra				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_OPERATION_CONVERTMETRIC				0	pt-BR	Conversão de métrica das fontes				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_OPERATION_CONVERTMETRIC				0	ru	Преобразование характеристик шрифта				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_OPERATION_CONVERTMETRIC				0	rw	Ihindura rya metiriki				2002-02-02 02:02:02
@@ -6854,7 +6854,7 @@ padmin	source\padialog.src	0	string	RID_PADIALOG	RID_PA_STR_DEFPRT			0	ns	Segati
 padmin	source\padialog.src	0	string	RID_PADIALOG	RID_PA_STR_DEFPRT			0	or-IN	ଡିଫଲଟ ପ୍ରିଣ୍ଟର				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_PADIALOG	RID_PA_STR_DEFPRT			0	pa-IN	ਮੂਲ ਪ੍ਰਿੰਟਰ				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_PADIALOG	RID_PA_STR_DEFPRT			0	pl	Drukarka domyślna				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_PADIALOG	RID_PA_STR_DEFPRT			0	pt	Impressora padrão				2002-02-02 02:02:02
+padmin	source\padialog.src	0	string	RID_PADIALOG	RID_PA_STR_DEFPRT			0	pt	Impressora predefinida				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_PADIALOG	RID_PA_STR_DEFPRT			0	pt-BR	Impressora padrão				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_PADIALOG	RID_PA_STR_DEFPRT			0	ru	Принтер по умолчанию				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_PADIALOG	RID_PA_STR_DEFPRT			0	rw	Mucapyi mburabuzi				2002-02-02 02:02:02
@@ -6919,7 +6919,7 @@ padmin	source\padialog.src	0	string	RID_PADIALOG	RID_PA_STR_RENAME			0	ns	Theale
 padmin	source\padialog.src	0	string	RID_PADIALOG	RID_PA_STR_RENAME			0	or-IN	ପୁନଃନାମ 				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_PADIALOG	RID_PA_STR_RENAME			0	pa-IN	ਨਾਂ-ਤਬਦੀਲ				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_PADIALOG	RID_PA_STR_RENAME			0	pl	Zmień nazwę				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_PADIALOG	RID_PA_STR_RENAME			0	pt	Mudar nome				2002-02-02 02:02:02
+padmin	source\padialog.src	0	string	RID_PADIALOG	RID_PA_STR_RENAME			0	pt	Mudar o nome				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_PADIALOG	RID_PA_STR_RENAME			0	pt-BR	Renomear				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_PADIALOG	RID_PA_STR_RENAME			0	ru	Переименовать				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_PADIALOG	RID_PA_STR_RENAME			0	rw	Guhindura izina				2002-02-02 02:02:02
@@ -6984,7 +6984,7 @@ padmin	source\padialog.src	0	string	RID_PA_TXT_TESTPAGE_PRINTED				0	ns	Pampiri 
 padmin	source\padialog.src	0	string	RID_PA_TXT_TESTPAGE_PRINTED				0	or-IN	ଟେଷ୍ଟ ପୃଷ୍ଠା ସଫଳଭାବରେ ମୁଦ୍ରିତ ହୋଇଛି୤ଦଯାକରି ଫଳାଫଳକୁ ୟାଞ୍ଚକରନ୍ତୁ୤				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_PA_TXT_TESTPAGE_PRINTED				0	pa-IN	ਜਾਂਚ ਸਫਾ ਸਫਲਤਾਪੂਰਵਕ ਛਪ ਗਿਆ। ਕਿਰਪਾ ਕਰਕੇ ਨਤੀਜੇ ਦੀ ਜਾਂਚ ਕਰੋ।				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_PA_TXT_TESTPAGE_PRINTED				0	pl	Wydrukowano stronę próbną. Sprawdź wynik.				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_PA_TXT_TESTPAGE_PRINTED				0	pt	A impressão da página-teste está concluída. Queira verificar os resultados.				2002-02-02 02:02:02
+padmin	source\padialog.src	0	string	RID_PA_TXT_TESTPAGE_PRINTED				0	pt	A impressão da página de teste foi bem sucedida. Verifique os resultados.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_PA_TXT_TESTPAGE_PRINTED				0	pt-BR	A página de teste foi impressa com sucesso. Verifique o resultado.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_PA_TXT_TESTPAGE_PRINTED				0	ru	Пробная страница напечатана. Проверьте, пожалуйста, результат.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_PA_TXT_TESTPAGE_PRINTED				0	rw	Paji y'igerageza yacapwe neza. Reba igisubizo				2002-02-02 02:02:02
@@ -7179,7 +7179,7 @@ padmin	source\padialog.src	0	string	RID_QUERY_DRIVERUSED				0	ns	Go sa dutše go
 padmin	source\padialog.src	0	string	RID_QUERY_DRIVERUSED				0	or-IN	ଏପର୍ୟ୍ଯନ୍ତ ପ୍ରଣ୍ଟରଗୁଡିକ  "%s"ଚାଳକ ପାଇଁ ଉପୟୋଗହୋଇଛି୤ ତୁମେ ନିଶ୍ଚଯ  ହଟାଇବାକୁ ଚାହୁଁଛ କି ? ୟୋଗାୟୋଗକରିବା ପ୍ରଣ୍ଟରଗୁଡିକ ମଧ୍ଯ ହଟାଇବାକୁ ହେବ୤				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_QUERY_DRIVERUSED				0	pa-IN	ਹਾਲੇ ਵੀ ਪ੍ਰਿੰਟਰ ਡਰਾਈਵਰ "%s" ਵਰਤ ਰਹੇ ਹਨ। ਕੀ ਤੁਸੀਂ ਅਸਲ ਵਿੱਚ ਇਸ ਨੂੰ ਹਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ? ਅਨੁਸਾਰੀ ਪ੍ਰਿੰਟਰ ਵੀ ਹਟਾਇਆ ਜਾਵੇਗਾ।				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_QUERY_DRIVERUSED				0	pl	Ze sterownika "%s" korzystają jeszcze inne drukarki. Czy na pewno go usunąć? Jeśli tak, to razem z nim zostaną usunięte również drukarki.				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_QUERY_DRIVERUSED				0	pt	Existem ainda impressoras a utilizar o controlador '%s'. Ao removê-lo estará também a remover as respectivas impressoras. Continuar?				2002-02-02 02:02:02
+padmin	source\padialog.src	0	string	RID_QUERY_DRIVERUSED				0	pt	Ainda existem impressoras a utilizar o controlador "%s". Tem a certeza de que pretende removê-lo? Serão igualmente removidas as impressoras correspondentes.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_QUERY_DRIVERUSED				0	pt-BR	Ainda existem impressoras usando o driver "%s". Deseja removê-lo? As impressoras correspondentes também serão removidas.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_QUERY_DRIVERUSED				0	ru	Существуют принтеры, которые используют драйвер "%s". Вы действительно хотите его удалить? В случае удаления этого драйвера удалятся и соответствующие принтеры.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_QUERY_DRIVERUSED				0	rw	Hari za mucapyi zigikoresha musomyi "%s".Urifuza koko kuyikuraho? Mucapyi zijyanye nazo ziravaho				2002-02-02 02:02:02
@@ -7244,7 +7244,7 @@ padmin	source\padialog.src	0	string	RID_QUERY_REMOVEDRIVER				0	ns	Na ka kgonthe
 padmin	source\padialog.src	0	string	RID_QUERY_REMOVEDRIVER				0	or-IN	ତୁମେ ନିଶ୍ଚଯ "%s"ଚାଳକକୁ ହଟାଇବାକୁ ଚାହୁଁଛ କି ?				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_QUERY_REMOVEDRIVER				0	pa-IN	ਕੀ ਤੁਸੀਂ ਯਕੀਨਨ "%s" ਡਰਾਈਵਰ ਹਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_QUERY_REMOVEDRIVER				0	pl	 Czy na pewno chcesz usunąć sterownik "%s"?				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_QUERY_REMOVEDRIVER				0	pt	Eliminar o controlador '%s'?				2002-02-02 02:02:02
+padmin	source\padialog.src	0	string	RID_QUERY_REMOVEDRIVER				0	pt	Tem a certeza de que pretende remover o controlador "%s"?				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_QUERY_REMOVEDRIVER				0	pt-BR	Deseja remover o driver "%s"?				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_QUERY_REMOVEDRIVER				0	ru	Вы действительно хотите удалить драйвер "%s"?				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_QUERY_REMOVEDRIVER				0	rw	Urifuza koko gukuraho musomyi "%s"?				2002-02-02 02:02:02
@@ -7309,7 +7309,7 @@ padmin	source\padialog.src	0	string	RID_QUERY_REMOVEFONTFROMLIST				0	ns	Na ka k
 padmin	source\padialog.src	0	string	RID_QUERY_REMOVEFONTFROMLIST				0	or-IN	ତୁମେ ନିଶ୍ଚଯ ମନୋନୀତ ଫଣ୍ଟ୍ଗୁଡିକୁ ହଟାଇବାକୁ ଚାହୁଁଛ କି ?				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_QUERY_REMOVEFONTFROMLIST				0	pa-IN	ਕੀ ਤੁਸੀਂ ਯਕੀਨਨ ਚੁਣੇ ਹੋਏ ਫੋਂਟ ਹਟਾਉਣੇ ਚਾਹੁੰਦੇ ਹੋ?				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_QUERY_REMOVEFONTFROMLIST				0	pl	Czy na pewno chcesz usunąć zaznaczone czcionki?				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_QUERY_REMOVEFONTFROMLIST				0	pt	Eliminar os tipos de letra seleccionados?				2002-02-02 02:02:02
+padmin	source\padialog.src	0	string	RID_QUERY_REMOVEFONTFROMLIST				0	pt	Tem a certeza de que pretende remover os tipos de letra seleccionados?				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_QUERY_REMOVEFONTFROMLIST				0	pt-BR	Deseja remover as fontes selecionadas ?				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_QUERY_REMOVEFONTFROMLIST				0	ru	Вы действительно хотите удалить выбранные шрифты ?				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_QUERY_REMOVEFONTFROMLIST				0	rw	Urifuza koko gukuraho muhinduzi wahisemo?				2002-02-02 02:02:02
@@ -7374,7 +7374,7 @@ padmin	source\padialog.src	0	string	RID_QUERY_REMOVEPRINTER				0	ns	Na ka kgonth
 padmin	source\padialog.src	0	string	RID_QUERY_REMOVEPRINTER				0	or-IN	ତୁମେ ନିଶ୍ଚଯ ଏହି ପ୍ରିଣ୍ଟରକୁ ହଟାଇବାକୁ ଚାହୁଁଛ କି ?				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_QUERY_REMOVEPRINTER				0	pa-IN	ਕੀ ਤੁਸੀਂ ਯਕੀਨਨ ਇਹ ਪ੍ਰਿੰਟਰ ਹਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_QUERY_REMOVEPRINTER				0	pl	Czy na pewno chcesz usunąć tę drukarkę?				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_QUERY_REMOVEPRINTER				0	pt	Eliminar esta impressora?				2002-02-02 02:02:02
+padmin	source\padialog.src	0	string	RID_QUERY_REMOVEPRINTER				0	pt	Tem a certeza de que pretende remover esta impressora?				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_QUERY_REMOVEPRINTER				0	pt-BR	Deseja remover esta impressora ?				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_QUERY_REMOVEPRINTER				0	ru	Вы действительно хотите удалить этот принтер ?				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_QUERY_REMOVEPRINTER				0	rw	Urifuza koko gukuraho iyi mucapyi?				2002-02-02 02:02:02
@@ -7439,7 +7439,7 @@ padmin	source\padialog.src	0	string	RID_TXT_DRIVERDOESNOTEXIST				0	ns	Mootledi 
 padmin	source\padialog.src	0	string	RID_TXT_DRIVERDOESNOTEXIST				0	or-IN	"%s1" (%s2) ପ୍ରିଣ୍ଟରର ଚାଳକ  ପ୍ରତିଷ୍ଠାପିତ ହୋଇନାହିଁ୤ ସେଥିପାଇଁ, ପ୍ରିଣ୍ଟର ଆମଦାନୀ ହୋଇପାରିବ ନାହିଁ୤				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_TXT_DRIVERDOESNOTEXIST				0	pa-IN	ਪ੍ਰਿੰਟਰ "%s1" (%s2) ਲਈ ਡਰਾਈਵਰ ਇੰਸਟਾਲ ਨਹੀਂ ਹਨ। ਇਸ ਲਈ ਪ੍ਰਿੰਟਰ ਅਯਾਤ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ।				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_TXT_DRIVERDOESNOTEXIST				0	pl	Import drukarki "%s1" (%s2) nie jest możliwy, ponieważ nie zainstalowano jej sterownika.				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_TXT_DRIVERDOESNOTEXIST				0	pt	O controlador para a impressora '%s1' ('%s2') não está instalado, sendo portanto impossível importar a impressora.				2002-02-02 02:02:02
+padmin	source\padialog.src	0	string	RID_TXT_DRIVERDOESNOTEXIST				0	pt	O controlador da impressora "%s1" (%s2) não se encontra instalado. Por este motivo, não é possível importar a impressora.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_TXT_DRIVERDOESNOTEXIST				0	pt-BR	O driver para a impressora "%s1" (%s2) não está instalado. Conseqüentemente, a impressora não pode ser importada.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_TXT_DRIVERDOESNOTEXIST				0	ru	Драйвер для принтера "%" (%) не установлен. Невозможно импортировать принтер.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_TXT_DRIVERDOESNOTEXIST				0	rw	Musomyi ya mucabyi "%s1" (%s2) ntiyashyizweho.Ni yo mpamvu udashobora kuzana mucapyi				2002-02-02 02:02:02
@@ -7957,7 +7957,7 @@ padmin	source\padialog.src	0	string	RID_TXT_FONT_OBLIQUE				0	ns	Rapamego				200
 padmin	source\padialog.src	0	string	RID_TXT_FONT_OBLIQUE				0	or-IN	ବକ୍ର 				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_TXT_FONT_OBLIQUE				0	pa-IN	ਤਿਰਛੇ				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_TXT_FONT_OBLIQUE				0	pl	Ukośna				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_TXT_FONT_OBLIQUE				0	pt	Itálico				2002-02-02 02:02:02
+padmin	source\padialog.src	0	string	RID_TXT_FONT_OBLIQUE				0	pt	Oblíquo				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_TXT_FONT_OBLIQUE				0	pt-BR	Oblíquo				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_TXT_FONT_OBLIQUE				0	ru	Наклонный				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_TXT_FONT_OBLIQUE				0	rw	Gihengamye				2002-02-02 02:02:02
@@ -8022,7 +8022,7 @@ padmin	source\padialog.src	0	string	RID_TXT_FONT_REGULAR				0	ns	Ka mehla				200
 padmin	source\padialog.src	0	string	RID_TXT_FONT_REGULAR				0	or-IN	ନିଯମିତ				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_TXT_FONT_REGULAR				0	pa-IN	ਲਗਾਤਾਰ				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_TXT_FONT_REGULAR				0	pl	Regularna				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_TXT_FONT_REGULAR				0	pt	Padrão				2002-02-02 02:02:02
+padmin	source\padialog.src	0	string	RID_TXT_FONT_REGULAR				0	pt	Regular				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_TXT_FONT_REGULAR				0	pt-BR	Regular				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_TXT_FONT_REGULAR				0	ru	Нормальный				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_TXT_FONT_REGULAR				0	rw	Ibisanzwe				2002-02-02 02:02:02
@@ -8475,7 +8475,7 @@ padmin	source\padialog.src	0	string	RID_TXT_FONT_ULTRACONDENSED				0	ns	Tiile go
 padmin	source\padialog.src	0	string	RID_TXT_FONT_ULTRACONDENSED				0	or-IN	ସାଧାରଣ ସଂକ୍ଷିପ୍ତ				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_TXT_FONT_ULTRACONDENSED				0	pa-IN	ਅਤਿ-ਗਾੜੇ				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_TXT_FONT_ULTRACONDENSED				0	pl	Bardzo ścieśniona				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_TXT_FONT_ULTRACONDENSED				0	pt	Ultracondensado				2002-02-02 02:02:02
+padmin	source\padialog.src	0	string	RID_TXT_FONT_ULTRACONDENSED				0	pt	Ultra-condensado				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_TXT_FONT_ULTRACONDENSED				0	pt-BR	Ultracondensado				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_TXT_FONT_ULTRACONDENSED				0	ru	Сверхузкий				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_TXT_FONT_ULTRACONDENSED				0	rw	Cyegeranye birenze				2002-02-02 02:02:02
@@ -8731,7 +8731,7 @@ padmin	source\padialog.src	0	string	RID_TXT_PRINTERALREADYEXISTS				0	ns	Segati�
 padmin	source\padialog.src	0	string	RID_TXT_PRINTERALREADYEXISTS				0	or-IN	 "%s" ନାମିତ ଗୋଟିଏ ପ୍ରିଣ୍ଟର  ପୂର୍ବରୁ ରହିଅଛି୤ ଏହି ପ୍ରିଣ୍ଟର ଆମଦାନୀ ହୋଇପାରିବ ନାହିଁ୤				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_TXT_PRINTERALREADYEXISTS				0	pa-IN	"%s" ਨਾਂ ਵਾਲਾ ਪ੍ਰਿੰਟਰ ਪਹਿਲਾਂ ਹੀ ਮੌਜੂਦ ਹੈ। ਇਹ ਪ੍ਰਿੰਟਰ ਅਯਾਤ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ।				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_TXT_PRINTERALREADYEXISTS				0	pl	Istnieje już drukarka o nazwie "%s". Drukarka ta nie będzie importowana.				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_TXT_PRINTERALREADYEXISTS				0	pt	A impressora com o nome '%s' já existe. Esta não será importada.				2002-02-02 02:02:02
+padmin	source\padialog.src	0	string	RID_TXT_PRINTERALREADYEXISTS				0	pt	A impressora "%s" já existe. Esta impressora não será importada.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_TXT_PRINTERALREADYEXISTS				0	pt-BR	A impressora "%s" já existe. Esta impressora não será importada.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_TXT_PRINTERALREADYEXISTS				0	ru	Принтер с именем "%s" уже существует. Поэтому данный принтер импортирован не будет.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_TXT_PRINTERALREADYEXISTS				0	rw	Mucapyi yitwa "%s" isanzweho. ntushobora rero kuyizana.				2002-02-02 02:02:02
@@ -8796,7 +8796,7 @@ padmin	source\padialog.src	0	string	RID_TXT_PRINTERWITHOUTCOMMAND				0	ns	Segati
 padmin	source\padialog.src	0	string	RID_TXT_PRINTERWITHOUTCOMMAND				0	or-IN	 "%s" ପ୍ରିଣ୍ଟରର କୌଣସି ନ୍ଯାୟ୍ଯ କନଫିଗରେସନ ନାହିଁ ଏବଂ , ସେଥିପାଇଁ,ଆମଦାନୀ ହୋଇପାରିବ ନାହିଁ୤				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_TXT_PRINTERWITHOUTCOMMAND				0	pa-IN	ਪ੍ਰਿੰਟਰ "%s" ਦੀ ਠੀਕ ਸੰਰਚਨਾ ਨਹੀਂ ਹੈ ਅਤੇ, ਇਸ ਲਈ, ਅਯਾਤ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ।				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_TXT_PRINTERWITHOUTCOMMAND				0	pl	Drukarki "%s" nie można importować, ponieważ nie została prawidłowo skonfigurowana.				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_TXT_PRINTERWITHOUTCOMMAND				0	pt	A configuração da impressora '%s' não está completa, não podendo portanto ser importada.				2002-02-02 02:02:02
+padmin	source\padialog.src	0	string	RID_TXT_PRINTERWITHOUTCOMMAND				0	pt	A impressora "%s" não tem uma configuração válida e, por este motivo, não pode ser importada.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_TXT_PRINTERWITHOUTCOMMAND				0	pt-BR	A impressora "%s" não possui uma configuração válida; conseqüentemente, não pode ser importada.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_TXT_PRINTERWITHOUTCOMMAND				0	ru	Неполная конфигурация принтера "%s". Невозможно импортировать принтер.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_TXT_PRINTERWITHOUTCOMMAND				0	rw	Mucapyi "%s" ntifite itunganywa nyaryo niyo mpamvu udashobora kuyizana				2002-02-02 02:02:02
@@ -9122,7 +9122,7 @@ padmin	source\padialog.src	0	string	RID_TXT_TESTPAGE_QUEUE				0	ns	Molokoloko			
 padmin	source\padialog.src	0	string	RID_TXT_TESTPAGE_QUEUE				0	or-IN	ପ୍ରତିକୋଷୀ				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_TXT_TESTPAGE_QUEUE				0	pa-IN	ਕਤਾਰ				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_TXT_TESTPAGE_QUEUE				0	pl	Kolejka				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_TXT_TESTPAGE_QUEUE				0	pt	Fila de espera				2002-02-02 02:02:02
+padmin	source\padialog.src	0	string	RID_TXT_TESTPAGE_QUEUE				0	pt	Fila				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_TXT_TESTPAGE_QUEUE				0	pt-BR	Fila				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_TXT_TESTPAGE_QUEUE				0	ru	Очередь				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_TXT_TESTPAGE_QUEUE				0	rw	Umurongo				2002-02-02 02:02:02
@@ -9317,7 +9317,7 @@ padmin	source\rtsetup.src	0	checkbox	RID_RTS_COMMANDPAGE	RID_RTS_CMD_BOX_SWALLOW
 padmin	source\rtsetup.src	0	checkbox	RID_RTS_COMMANDPAGE	RID_RTS_CMD_BOX_SWALLOWFAXNO			130	or-IN	ଆଉଟପୁଟରୁ ଫ୍ଯାକ୍ସ ନମ୍ବର ହଟାହେବ୤				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	checkbox	RID_RTS_COMMANDPAGE	RID_RTS_CMD_BOX_SWALLOWFAXNO			130	pa-IN	ਆਊਟਪੁੱਟ ਤੋਂ ਫੈਕਸ ਨੰਬਰ ਹਟਾਇਆ ਜਾਵੇਗਾ(~f)				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	checkbox	RID_RTS_COMMANDPAGE	RID_RTS_CMD_BOX_SWALLOWFAXNO			130	pl	Numer ~faksu zostanie usunięty z wyjścia				2002-02-02 02:02:02
-padmin	source\rtsetup.src	0	checkbox	RID_RTS_COMMANDPAGE	RID_RTS_CMD_BOX_SWALLOWFAXNO			130	pt	~O nº do fax será removido da saída				2002-02-02 02:02:02
+padmin	source\rtsetup.src	0	checkbox	RID_RTS_COMMANDPAGE	RID_RTS_CMD_BOX_SWALLOWFAXNO			130	pt	O número do ~fax será removido da impressão				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	checkbox	RID_RTS_COMMANDPAGE	RID_RTS_CMD_BOX_SWALLOWFAXNO			130	pt-BR	O número do ~Fax será removido da saída				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	checkbox	RID_RTS_COMMANDPAGE	RID_RTS_CMD_BOX_SWALLOWFAXNO			130	ru	Не указывать номер факса				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	checkbox	RID_RTS_COMMANDPAGE	RID_RTS_CMD_BOX_SWALLOWFAXNO			130	rw	Nimero ya fagisi izakurwa mu bisohoka				2002-02-02 02:02:02
@@ -9382,7 +9382,7 @@ padmin	source\rtsetup.src	0	checkbox	RID_RTS_FONTSUBSTPAGE	RID_RTS_FS_ENABLE_BTN
 padmin	source\rtsetup.src	0	checkbox	RID_RTS_FONTSUBSTPAGE	RID_RTS_FS_ENABLE_BTN			180	or-IN	ଫଣ୍ଟ ପୁନଃସ୍ଥାପନକୁ ସକ୍ଷମ				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	checkbox	RID_RTS_FONTSUBSTPAGE	RID_RTS_FS_ENABLE_BTN			180	pa-IN	ਫੋਂਟ ਤਬਦੀਲੀ ਯੋਗ ਕਰੋ(~e)				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	checkbox	RID_RTS_FONTSUBSTPAGE	RID_RTS_FS_ENABLE_BTN			180	pl	~Włącz zamianę czcionek				2002-02-02 02:02:02
-padmin	source\rtsetup.src	0	checkbox	RID_RTS_FONTSUBSTPAGE	RID_RTS_FS_ENABLE_BTN			180	pt	~Activar substituição de caracteres				2002-02-02 02:02:02
+padmin	source\rtsetup.src	0	checkbox	RID_RTS_FONTSUBSTPAGE	RID_RTS_FS_ENABLE_BTN			180	pt	~Activar substituição de tipo de letra				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	checkbox	RID_RTS_FONTSUBSTPAGE	RID_RTS_FS_ENABLE_BTN			180	pt-BR	Ativar substituição de font~es				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	checkbox	RID_RTS_FONTSUBSTPAGE	RID_RTS_FS_ENABLE_BTN			180	ru	~Включить замену шрифта				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	checkbox	RID_RTS_FONTSUBSTPAGE	RID_RTS_FS_ENABLE_BTN			180	rw	Kutangira gusimbura muhinduzi				2002-02-02 02:02:02
@@ -9708,7 +9708,7 @@ padmin	source\rtsetup.src	0	fixedtext	RID_RTS_COMMANDPAGE	RID_RTS_CMD_TXT_PDFDIR
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_COMMANDPAGE	RID_RTS_CMD_TXT_PDFDIR			130	or-IN	PDF ଲକ୍ଷ୍ଯ ବିବରଣୀ ପଞ୍ଜିକା :				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_COMMANDPAGE	RID_RTS_CMD_TXT_PDFDIR			130	pa-IN	PDF ਟਿਕਾਣਾ ਡਾਇਰੈਕਟਰੀ:				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_COMMANDPAGE	RID_RTS_CMD_TXT_PDFDIR			130	pl	Katalog docelowy PDF:				2002-02-02 02:02:02
-padmin	source\rtsetup.src	0	fixedtext	RID_RTS_COMMANDPAGE	RID_RTS_CMD_TXT_PDFDIR			130	pt	Directório destino PDF:				2002-02-02 02:02:02
+padmin	source\rtsetup.src	0	fixedtext	RID_RTS_COMMANDPAGE	RID_RTS_CMD_TXT_PDFDIR			130	pt	Directório destino do PDF:				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_COMMANDPAGE	RID_RTS_CMD_TXT_PDFDIR			130	pt-BR	Diretório de destino do PDF:				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_COMMANDPAGE	RID_RTS_CMD_TXT_PDFDIR			130	ru	Каталог назначения для PDF:				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_COMMANDPAGE	RID_RTS_CMD_TXT_PDFDIR			130	rw	Dosiye PDF ushaka				2002-02-02 02:02:02
@@ -9773,7 +9773,7 @@ padmin	source\rtsetup.src	0	fixedtext	RID_RTS_DEVICEPAGE	RID_RTS_DEVICE_DEPTH_TX
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_DEVICEPAGE	RID_RTS_DEVICE_DEPTH_TXT			80	or-IN	ରଙ୍ଗ ଗଭୀରତା				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_DEVICEPAGE	RID_RTS_DEVICE_DEPTH_TXT			80	pa-IN	ਰੰਗ ਡੂੰਘਾਈ(~d)				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_DEVICEPAGE	RID_RTS_DEVICE_DEPTH_TXT			80	pl	~Głębia koloru				2002-02-02 02:02:02
-padmin	source\rtsetup.src	0	fixedtext	RID_RTS_DEVICEPAGE	RID_RTS_DEVICE_DEPTH_TXT			80	pt	Profundidade de ~cor				2002-02-02 02:02:02
+padmin	source\rtsetup.src	0	fixedtext	RID_RTS_DEVICEPAGE	RID_RTS_DEVICE_DEPTH_TXT			80	pt	Número de ~cores				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_DEVICEPAGE	RID_RTS_DEVICE_DEPTH_TXT			80	pt-BR	Profun~didade da cor				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_DEVICEPAGE	RID_RTS_DEVICE_DEPTH_TXT			80	ru	Глубина цвета				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_DEVICEPAGE	RID_RTS_DEVICE_DEPTH_TXT			80	rw	ubugari bw'ibara				2002-02-02 02:02:02
@@ -9968,7 +9968,7 @@ padmin	source\rtsetup.src	0	fixedtext	RID_RTS_DEVICEPAGE	RID_RTS_DEVICE_PPDVALUE
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_DEVICEPAGE	RID_RTS_DEVICE_PPDVALUE_TXT			105	or-IN	ବର୍ତ୍ତମାନ ମୂଲ୍ଯ				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_DEVICEPAGE	RID_RTS_DEVICE_PPDVALUE_TXT			105	pa-IN	ਮੌਜੂਦਾ ਮੁੱਲ(~v) 				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_DEVICEPAGE	RID_RTS_DEVICE_PPDVALUE_TXT			105	pl	Bieżąca ~wartość				2002-02-02 02:02:02
-padmin	source\rtsetup.src	0	fixedtext	RID_RTS_DEVICEPAGE	RID_RTS_DEVICE_PPDVALUE_TXT			105	pt	~Valor activo				2002-02-02 02:02:02
+padmin	source\rtsetup.src	0	fixedtext	RID_RTS_DEVICEPAGE	RID_RTS_DEVICE_PPDVALUE_TXT			105	pt	~Valor actual				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_DEVICEPAGE	RID_RTS_DEVICE_PPDVALUE_TXT			105	pt-BR	~Valor atual				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_DEVICEPAGE	RID_RTS_DEVICE_PPDVALUE_TXT			105	ru	Текущее значение				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_DEVICEPAGE	RID_RTS_DEVICE_PPDVALUE_TXT			105	rw	Agaciro				2002-02-02 02:02:02
@@ -10098,7 +10098,7 @@ padmin	source\rtsetup.src	0	fixedtext	RID_RTS_FONTSUBSTPAGE	RID_RTS_FS_FROM_TXT	
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_FONTSUBSTPAGE	RID_RTS_FS_FROM_TXT			107	or-IN	ଫଣ୍ଟ ପୁନଃସ୍ଥାପନକର				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_FONTSUBSTPAGE	RID_RTS_FS_FROM_TXT			107	pa-IN	ਫੋਂਟ ਤਬਦੀਲ(~c)				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_FONTSUBSTPAGE	RID_RTS_FS_FROM_TXT			107	pl	Zamień ~czcionkę				2002-02-02 02:02:02
-padmin	source\rtsetup.src	0	fixedtext	RID_RTS_FONTSUBSTPAGE	RID_RTS_FS_FROM_TXT			107	pt	~Substituir tipo de letra				2002-02-02 02:02:02
+padmin	source\rtsetup.src	0	fixedtext	RID_RTS_FONTSUBSTPAGE	RID_RTS_FS_FROM_TXT			107	pt	Tipo de letra de su~bstituição				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_FONTSUBSTPAGE	RID_RTS_FS_FROM_TXT			107	pt-BR	~Substituir fonte				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_FONTSUBSTPAGE	RID_RTS_FS_FROM_TXT			107	ru	~Заменить шрифт				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_FONTSUBSTPAGE	RID_RTS_FS_FROM_TXT			107	rw	Gusimbura muhinduzi				2002-02-02 02:02:02
@@ -10228,7 +10228,7 @@ padmin	source\rtsetup.src	0	fixedtext	RID_RTS_FONTSUBSTPAGE	RID_RTS_FS_TO_TXT			
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_FONTSUBSTPAGE	RID_RTS_FS_TO_TXT			107	or-IN	ପ୍ରିଣ୍ଟ ଫଣ୍ଟ ଦ୍ବାରା				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_FONTSUBSTPAGE	RID_RTS_FS_TO_TXT			107	pa-IN	ਪ੍ਰਿੰਟਰ ਫੋਂਟ ਰਾਹੀਂ(~p)				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_FONTSUBSTPAGE	RID_RTS_FS_TO_TXT			107	pl	na czcionkę ~drukarki				2002-02-02 02:02:02
-padmin	source\rtsetup.src	0	fixedtext	RID_RTS_FONTSUBSTPAGE	RID_RTS_FS_TO_TXT			107	pt	pelo tipo de ~letra da impressora				2002-02-02 02:02:02
+padmin	source\rtsetup.src	0	fixedtext	RID_RTS_FONTSUBSTPAGE	RID_RTS_FS_TO_TXT			107	pt	por tipo de ~letra da impressora				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_FONTSUBSTPAGE	RID_RTS_FS_TO_TXT			107	pt-BR	pela fonte da im~pressora				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_FONTSUBSTPAGE	RID_RTS_FS_TO_TXT			107	ru	шрифтом принтера				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_FONTSUBSTPAGE	RID_RTS_FS_TO_TXT			107	rw	Ukoresheje mucapyi				2002-02-02 02:02:02
@@ -10293,7 +10293,7 @@ padmin	source\rtsetup.src	0	fixedtext	RID_RTS_OTHERPAGE	RID_RTS_OTHER_BOTTOMMARG
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_OTHERPAGE	RID_RTS_OTHER_BOTTOMMARGIN_TXT			85	or-IN	ତଳର ପ୍ରାନ୍ତ				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_OTHERPAGE	RID_RTS_OTHER_BOTTOMMARGIN_TXT			85	pa-IN	ਹੇਠਾਂ ਪਾਸਾ(~b)				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_OTHERPAGE	RID_RTS_OTHER_BOTTOMMARGIN_TXT			85	pl	~Dolny margines				2002-02-02 02:02:02
-padmin	source\rtsetup.src	0	fixedtext	RID_RTS_OTHERPAGE	RID_RTS_OTHER_BOTTOMMARGIN_TXT			85	pt	Ajuste da margem ~inferior				2002-02-02 02:02:02
+padmin	source\rtsetup.src	0	fixedtext	RID_RTS_OTHERPAGE	RID_RTS_OTHER_BOTTOMMARGIN_TXT			85	pt	Margem in~ferior				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_OTHERPAGE	RID_RTS_OTHER_BOTTOMMARGIN_TXT			85	pt-BR	Margem ~inferior				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_OTHERPAGE	RID_RTS_OTHER_BOTTOMMARGIN_TXT			85	ru	Отступ снизу				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_OTHERPAGE	RID_RTS_OTHER_BOTTOMMARGIN_TXT			85	rw	Umwanya hasi				2002-02-02 02:02:02
@@ -10423,7 +10423,7 @@ padmin	source\rtsetup.src	0	fixedtext	RID_RTS_OTHERPAGE	RID_RTS_OTHER_LEFTMARGIN
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_OTHERPAGE	RID_RTS_OTHER_LEFTMARGIN_TXT			85	or-IN	ବାମ ପ୍ରାନ୍ତ				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_OTHERPAGE	RID_RTS_OTHER_LEFTMARGIN_TXT			85	pa-IN	ਖੱਬਾ ਪਾਸਾ(~i)				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_OTHERPAGE	RID_RTS_OTHER_LEFTMARGIN_TXT			85	pl	~Lewy margines				2002-02-02 02:02:02
-padmin	source\rtsetup.src	0	fixedtext	RID_RTS_OTHERPAGE	RID_RTS_OTHER_LEFTMARGIN_TXT			85	pt	~Ajuste da margem esquerda				2002-02-02 02:02:02
+padmin	source\rtsetup.src	0	fixedtext	RID_RTS_OTHERPAGE	RID_RTS_OTHER_LEFTMARGIN_TXT			85	pt	Margem ~esquerda				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_OTHERPAGE	RID_RTS_OTHER_LEFTMARGIN_TXT			85	pt-BR	Margem ~esquerda				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_OTHERPAGE	RID_RTS_OTHER_LEFTMARGIN_TXT			85	ru	Отступ слева				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_OTHERPAGE	RID_RTS_OTHER_LEFTMARGIN_TXT			85	rw	Marije y'ibumoso				2002-02-02 02:02:02
@@ -10488,7 +10488,7 @@ padmin	source\rtsetup.src	0	fixedtext	RID_RTS_OTHERPAGE	RID_RTS_OTHER_RIGHTMARGI
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_OTHERPAGE	RID_RTS_OTHER_RIGHTMARGIN_TXT			85	or-IN	ଡାହାଣ ପ୍ରାନ୍ତ				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_OTHERPAGE	RID_RTS_OTHER_RIGHTMARGIN_TXT			85	pa-IN	ਸੱਜਾ ਪਾਸਾ(~r)				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_OTHERPAGE	RID_RTS_OTHER_RIGHTMARGIN_TXT			85	pl	~Prawy margines				2002-02-02 02:02:02
-padmin	source\rtsetup.src	0	fixedtext	RID_RTS_OTHERPAGE	RID_RTS_OTHER_RIGHTMARGIN_TXT			85	pt	Ajuste ~da margem direita				2002-02-02 02:02:02
+padmin	source\rtsetup.src	0	fixedtext	RID_RTS_OTHERPAGE	RID_RTS_OTHER_RIGHTMARGIN_TXT			85	pt	Margem ~direita				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_OTHERPAGE	RID_RTS_OTHER_RIGHTMARGIN_TXT			85	pt-BR	Margem di~reita				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_OTHERPAGE	RID_RTS_OTHER_RIGHTMARGIN_TXT			85	ru	Отступ справа				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_OTHERPAGE	RID_RTS_OTHER_RIGHTMARGIN_TXT			85	rw	Umwanya iburyo				2002-02-02 02:02:02
@@ -10553,7 +10553,7 @@ padmin	source\rtsetup.src	0	fixedtext	RID_RTS_OTHERPAGE	RID_RTS_OTHER_TOPMARGIN_
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_OTHERPAGE	RID_RTS_OTHER_TOPMARGIN_TXT			85	or-IN	ଉପର ପ୍ରାନ୍ତ				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_OTHERPAGE	RID_RTS_OTHER_TOPMARGIN_TXT			85	pa-IN	ਸਿਖਰ ਪਾਸਾ(~t)				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_OTHERPAGE	RID_RTS_OTHER_TOPMARGIN_TXT			85	pl	Margines ~górny				2002-02-02 02:02:02
-padmin	source\rtsetup.src	0	fixedtext	RID_RTS_OTHERPAGE	RID_RTS_OTHER_TOPMARGIN_TXT			85	pt	Aju~ste da margem superior				2002-02-02 02:02:02
+padmin	source\rtsetup.src	0	fixedtext	RID_RTS_OTHERPAGE	RID_RTS_OTHER_TOPMARGIN_TXT			85	pt	Margem ~superior				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_OTHERPAGE	RID_RTS_OTHER_TOPMARGIN_TXT			85	pt-BR	Margem ~superior				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_OTHERPAGE	RID_RTS_OTHER_TOPMARGIN_TXT			85	ru	Отступ сверху				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_OTHERPAGE	RID_RTS_OTHER_TOPMARGIN_TXT			85	rw	Umwanya hejuru				2002-02-02 02:02:02
@@ -10618,7 +10618,7 @@ padmin	source\rtsetup.src	0	fixedtext	RID_RTS_PAPERPAGE	RID_RTS_PAPER_DUPLEX_TXT
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_PAPERPAGE	RID_RTS_PAPER_DUPLEX_TXT			80	or-IN	 ଡୁପ୍ଲେକ୍ସ				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_PAPERPAGE	RID_RTS_PAPER_DUPLEX_TXT			80	pa-IN	ਡੁਪਲੈਕਸ(~d)				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_PAPERPAGE	RID_RTS_PAPER_DUPLEX_TXT			80	pl	~Dupleks				2002-02-02 02:02:02
-padmin	source\rtsetup.src	0	fixedtext	RID_RTS_PAPERPAGE	RID_RTS_PAPER_DUPLEX_TXT			80	pt	~Duplex				2002-02-02 02:02:02
+padmin	source\rtsetup.src	0	fixedtext	RID_RTS_PAPERPAGE	RID_RTS_PAPER_DUPLEX_TXT			80	pt	~Dúplex				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_PAPERPAGE	RID_RTS_PAPER_DUPLEX_TXT			80	pt-BR	~Duplo				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_PAPERPAGE	RID_RTS_PAPER_DUPLEX_TXT			80	ru	~Дуплекс				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_PAPERPAGE	RID_RTS_PAPER_DUPLEX_TXT			80	rw	Inyabubiri				2002-02-02 02:02:02
@@ -10813,7 +10813,7 @@ padmin	source\rtsetup.src	0	fixedtext	RID_RTS_PAPERPAGE	RID_RTS_PAPER_SCALE_TXT	
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_PAPERPAGE	RID_RTS_PAPER_SCALE_TXT			80	or-IN	ସ୍କେଲ				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_PAPERPAGE	RID_RTS_PAPER_SCALE_TXT			80	pa-IN	ਪੈਮਾਨਾ(~s)				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_PAPERPAGE	RID_RTS_PAPER_SCALE_TXT			80	pl	~Skalowanie				2002-02-02 02:02:02
-padmin	source\rtsetup.src	0	fixedtext	RID_RTS_PAPERPAGE	RID_RTS_PAPER_SCALE_TXT			80	pt	~Escala				2002-02-02 02:02:02
+padmin	source\rtsetup.src	0	fixedtext	RID_RTS_PAPERPAGE	RID_RTS_PAPER_SCALE_TXT			80	pt	Dimen~sionar				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_PAPERPAGE	RID_RTS_PAPER_SCALE_TXT			80	pt-BR	E~scala				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_PAPERPAGE	RID_RTS_PAPER_SCALE_TXT			80	ru	~Масштабирование				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_PAPERPAGE	RID_RTS_PAPER_SCALE_TXT			80	rw	Ingano				2002-02-02 02:02:02
@@ -10878,7 +10878,7 @@ padmin	source\rtsetup.src	0	fixedtext	RID_RTS_PAPERPAGE	RID_RTS_PAPER_SLOT_TXT		
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_PAPERPAGE	RID_RTS_PAPER_SLOT_TXT			80	or-IN	କାଗଜ ଟ୍ରେ				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_PAPERPAGE	RID_RTS_PAPER_SLOT_TXT			80	pa-IN	ਕਾਗਜ਼ ਟਰੇ				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_PAPERPAGE	RID_RTS_PAPER_SLOT_TXT			80	pl	Zasobnik papieru				2002-02-02 02:02:02
-padmin	source\rtsetup.src	0	fixedtext	RID_RTS_PAPERPAGE	RID_RTS_PAPER_SLOT_TXT			80	pt	~Origem do papel				2002-02-02 02:02:02
+padmin	source\rtsetup.src	0	fixedtext	RID_RTS_PAPERPAGE	RID_RTS_PAPER_SLOT_TXT			80	pt	Tabuleiro do papel				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_PAPERPAGE	RID_RTS_PAPER_SLOT_TXT			80	pt-BR	Bandeja de papel				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_PAPERPAGE	RID_RTS_PAPER_SLOT_TXT			80	ru	~Лоток для бумаги				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_PAPERPAGE	RID_RTS_PAPER_SLOT_TXT			80	rw	Agasaho k'impapuro				2002-02-02 02:02:02
@@ -10943,7 +10943,7 @@ padmin	source\rtsetup.src	0	fixedtext	RID_RTS_PWDIALOG	RID_RTS_PWDIALOG_PASS_TXT
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_PWDIALOG	RID_RTS_PWDIALOG_PASS_TXT			60	or-IN	ଗୁପ୍ତଶବ୍ଦ				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_PWDIALOG	RID_RTS_PWDIALOG_PASS_TXT			60	pa-IN	ਗੁਪਤ-ਕੋਡ(~p)				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_PWDIALOG	RID_RTS_PWDIALOG_PASS_TXT			60	pl	~Hasło				2002-02-02 02:02:02
-padmin	source\rtsetup.src	0	fixedtext	RID_RTS_PWDIALOG	RID_RTS_PWDIALOG_PASS_TXT			60	pt	Senha				2002-02-02 02:02:02
+padmin	source\rtsetup.src	0	fixedtext	RID_RTS_PWDIALOG	RID_RTS_PWDIALOG_PASS_TXT			60	pt	~Palavra-passe				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_PWDIALOG	RID_RTS_PWDIALOG_PASS_TXT			60	pt-BR	~Senha				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_PWDIALOG	RID_RTS_PWDIALOG_PASS_TXT			60	ru	Пароль				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_PWDIALOG	RID_RTS_PWDIALOG_PASS_TXT			60	rw	Ijambobanga				2002-02-02 02:02:02
@@ -11007,7 +11007,7 @@ padmin	source\rtsetup.src	0	fixedtext	RID_RTS_PWDIALOG	RID_RTS_PWDIALOG_TXT			14
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_PWDIALOG	RID_RTS_PWDIALOG_TXT			140	or-IN	ଦଯାକରି ସରବର ପାଇଁ  %s ତୁମର ସତ୍ଯ ପ୍ରତିପାଦନ ତଥ୍ଯକୁ ପ୍ରବେଶ କରାଅ୤				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_PWDIALOG	RID_RTS_PWDIALOG_TXT			140	pa-IN	ਕਿਰਪਾ ਕਰਕੇ ਸਰਵਰ %s ਲਈ ਆਪਣਾ ਪ੍ਰਮਾਣਿਕ ਡਾਟਾ ਭਰੋ				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_PWDIALOG	RID_RTS_PWDIALOG_TXT			140	pl	Proszę podać dane uwierzytelniające dla serwera %s				2002-02-02 02:02:02
-padmin	source\rtsetup.src	0	fixedtext	RID_RTS_PWDIALOG	RID_RTS_PWDIALOG_TXT			140	pt	Por favor introduza os dados de autenticação para o servidor '%s'				2002-02-02 02:02:02
+padmin	source\rtsetup.src	0	fixedtext	RID_RTS_PWDIALOG	RID_RTS_PWDIALOG_TXT			140	pt	Introduza os seus dados de autenticação para o servidor %s				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_PWDIALOG	RID_RTS_PWDIALOG_TXT			140	pt-BR	Digite seus dados de autenticação do servidor %s				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_PWDIALOG	RID_RTS_PWDIALOG_TXT			140	ru	Пожалуйста, введите данные для аутентификации на сервере %s				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	fixedtext	RID_RTS_PWDIALOG	RID_RTS_PWDIALOG_TXT			140	rw	Wakwinjiza umwirondoro w'imenyekanisha kuri seriveri %s				2002-02-02 02:02:02
@@ -11263,7 +11263,7 @@ padmin	source\rtsetup.src	0	pageitem	RID_RTS_RTSDIALOG.RID_RTS_RTSDIALOG_TABCONT
 padmin	source\rtsetup.src	0	pageitem	RID_RTS_RTSDIALOG.RID_RTS_RTSDIALOG_TABCONTROL	RID_RTS_DEVICEPAGE			0	or-IN	ୟନ୍ତ୍ର				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	pageitem	RID_RTS_RTSDIALOG.RID_RTS_RTSDIALOG_TABCONTROL	RID_RTS_DEVICEPAGE			0	pa-IN	ਜੰਤਰ				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	pageitem	RID_RTS_RTSDIALOG.RID_RTS_RTSDIALOG_TABCONTROL	RID_RTS_DEVICEPAGE			0	pl	Urządzenie				2002-02-02 02:02:02
-padmin	source\rtsetup.src	0	pageitem	RID_RTS_RTSDIALOG.RID_RTS_RTSDIALOG_TABCONTROL	RID_RTS_DEVICEPAGE			0	pt	Periférico				2002-02-02 02:02:02
+padmin	source\rtsetup.src	0	pageitem	RID_RTS_RTSDIALOG.RID_RTS_RTSDIALOG_TABCONTROL	RID_RTS_DEVICEPAGE			0	pt	Dispositivo				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	pageitem	RID_RTS_RTSDIALOG.RID_RTS_RTSDIALOG_TABCONTROL	RID_RTS_DEVICEPAGE			0	pt-BR	Dispositivo				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	pageitem	RID_RTS_RTSDIALOG.RID_RTS_RTSDIALOG_TABCONTROL	RID_RTS_DEVICEPAGE			0	ru	Устройство				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	pageitem	RID_RTS_RTSDIALOG.RID_RTS_RTSDIALOG_TABCONTROL	RID_RTS_DEVICEPAGE			0	rw	Ububiko				2002-02-02 02:02:02
@@ -11328,7 +11328,7 @@ padmin	source\rtsetup.src	0	pageitem	RID_RTS_RTSDIALOG.RID_RTS_RTSDIALOG_TABCONT
 padmin	source\rtsetup.src	0	pageitem	RID_RTS_RTSDIALOG.RID_RTS_RTSDIALOG_TABCONTROL	RID_RTS_FONTSUBSTPAGE			0	or-IN	ଫଣ୍ଟ ପୁନଃସ୍ଥାପନ				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	pageitem	RID_RTS_RTSDIALOG.RID_RTS_RTSDIALOG_TABCONTROL	RID_RTS_FONTSUBSTPAGE			0	pa-IN	ਫੋਂਟ ਤਬਦੀਲੀ				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	pageitem	RID_RTS_RTSDIALOG.RID_RTS_RTSDIALOG_TABCONTROL	RID_RTS_FONTSUBSTPAGE			0	pl	Zamiana czcionek				2002-02-02 02:02:02
-padmin	source\rtsetup.src	0	pageitem	RID_RTS_RTSDIALOG.RID_RTS_RTSDIALOG_TABCONTROL	RID_RTS_FONTSUBSTPAGE			0	pt	Substituição de tipos de letra				2002-02-02 02:02:02
+padmin	source\rtsetup.src	0	pageitem	RID_RTS_RTSDIALOG.RID_RTS_RTSDIALOG_TABCONTROL	RID_RTS_FONTSUBSTPAGE			0	pt	Substituição de tipo de letra				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	pageitem	RID_RTS_RTSDIALOG.RID_RTS_RTSDIALOG_TABCONTROL	RID_RTS_FONTSUBSTPAGE			0	pt-BR	Substituição de fonte				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	pageitem	RID_RTS_RTSDIALOG.RID_RTS_RTSDIALOG_TABCONTROL	RID_RTS_FONTSUBSTPAGE			0	ru	Замена шрифта				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	pageitem	RID_RTS_RTSDIALOG.RID_RTS_RTSDIALOG_TABCONTROL	RID_RTS_FONTSUBSTPAGE			0	rw	Gusimbuza muhinduzi				2002-02-02 02:02:02
@@ -11393,7 +11393,7 @@ padmin	source\rtsetup.src	0	pageitem	RID_RTS_RTSDIALOG.RID_RTS_RTSDIALOG_TABCONT
 padmin	source\rtsetup.src	0	pageitem	RID_RTS_RTSDIALOG.RID_RTS_RTSDIALOG_TABCONTROL	RID_RTS_OTHERPAGE			0	or-IN	ଅନ୍ଯ ସେଟିଙ୍ଗଗୁଡିକ				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	pageitem	RID_RTS_RTSDIALOG.RID_RTS_RTSDIALOG_TABCONTROL	RID_RTS_OTHERPAGE			0	pa-IN	ਹੋਰ ਵਿਵਸਥਾ				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	pageitem	RID_RTS_RTSDIALOG.RID_RTS_RTSDIALOG_TABCONTROL	RID_RTS_OTHERPAGE			0	pl	Inne ustawienia				2002-02-02 02:02:02
-padmin	source\rtsetup.src	0	pageitem	RID_RTS_RTSDIALOG.RID_RTS_RTSDIALOG_TABCONTROL	RID_RTS_OTHERPAGE			0	pt	Outros parâmetros				2002-02-02 02:02:02
+padmin	source\rtsetup.src	0	pageitem	RID_RTS_RTSDIALOG.RID_RTS_RTSDIALOG_TABCONTROL	RID_RTS_OTHERPAGE			0	pt	Outras definições				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	pageitem	RID_RTS_RTSDIALOG.RID_RTS_RTSDIALOG_TABCONTROL	RID_RTS_OTHERPAGE			0	pt-BR	Outras configurações				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	pageitem	RID_RTS_RTSDIALOG.RID_RTS_RTSDIALOG_TABCONTROL	RID_RTS_OTHERPAGE			0	ru	Другие настройки				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	pageitem	RID_RTS_RTSDIALOG.RID_RTS_RTSDIALOG_TABCONTROL	RID_RTS_OTHERPAGE			0	rw	Indi mikorere				2002-02-02 02:02:02
@@ -11522,7 +11522,7 @@ padmin	source\rtsetup.src	0	pushbutton	RID_RTS_COMMANDPAGE	RID_RTS_CMD_BTN_HELP	
 padmin	source\rtsetup.src	0	pushbutton	RID_RTS_COMMANDPAGE	RID_RTS_CMD_BTN_HELP			50	or-IN	ସାହାୟ୍ଯ				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	pushbutton	RID_RTS_COMMANDPAGE	RID_RTS_CMD_BTN_HELP			50	pa-IN	ਸਹਾਇਤਾ(~h)				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	pushbutton	RID_RTS_COMMANDPAGE	RID_RTS_CMD_BTN_HELP			50	pl	Po~moc				2002-02-02 02:02:02
-padmin	source\rtsetup.src	0	pushbutton	RID_RTS_COMMANDPAGE	RID_RTS_CMD_BTN_HELP			50	pt	~Ajuda				2002-02-02 02:02:02
+padmin	source\rtsetup.src	0	pushbutton	RID_RTS_COMMANDPAGE	RID_RTS_CMD_BTN_HELP			50	pt	A~juda				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	pushbutton	RID_RTS_COMMANDPAGE	RID_RTS_CMD_BTN_HELP			50	pt-BR	Aj~uda				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	pushbutton	RID_RTS_COMMANDPAGE	RID_RTS_CMD_BTN_HELP			50	ru	Сп~равка				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	pushbutton	RID_RTS_COMMANDPAGE	RID_RTS_CMD_BTN_HELP			50	rw	Ifashayobora				2002-02-02 02:02:02
@@ -11782,7 +11782,7 @@ padmin	source\rtsetup.src	0	pushbutton	RID_RTS_OTHERPAGE	RID_RTS_OTHER_DEFAULT_B
 padmin	source\rtsetup.src	0	pushbutton	RID_RTS_OTHERPAGE	RID_RTS_OTHER_DEFAULT_BTN			50	or-IN	ଡିଫଲଡ				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	pushbutton	RID_RTS_OTHERPAGE	RID_RTS_OTHER_DEFAULT_BTN			50	pa-IN	ਮੂਲ(~D)				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	pushbutton	RID_RTS_OTHERPAGE	RID_RTS_OTHER_DEFAULT_BTN			50	pl	~Domyślnie				2002-02-02 02:02:02
-padmin	source\rtsetup.src	0	pushbutton	RID_RTS_OTHERPAGE	RID_RTS_OTHER_DEFAULT_BTN			50	pt	~Padrão				2002-02-02 02:02:02
+padmin	source\rtsetup.src	0	pushbutton	RID_RTS_OTHERPAGE	RID_RTS_OTHER_DEFAULT_BTN			50	pt	Pre~definição				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	pushbutton	RID_RTS_OTHERPAGE	RID_RTS_OTHER_DEFAULT_BTN			50	pt-BR	Pa~drão				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	pushbutton	RID_RTS_OTHERPAGE	RID_RTS_OTHER_DEFAULT_BTN			50	ru	~Стандарт				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	pushbutton	RID_RTS_OTHERPAGE	RID_RTS_OTHER_DEFAULT_BTN			50	rw	Mburabuzi				2002-02-02 02:02:02
@@ -11911,7 +11911,7 @@ padmin	source\rtsetup.src	0	string	RID_RTS_COMMANDPAGE	RID_RTS_CMD_STR_CONFIGURE
 padmin	source\rtsetup.src	0	string	RID_RTS_COMMANDPAGE	RID_RTS_CMD_STR_CONFIGURE_PDF			0	or-IN	PDF ରୂପାନ୍ତରକ				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	string	RID_RTS_COMMANDPAGE	RID_RTS_CMD_STR_CONFIGURE_PDF			0	pa-IN	PDF ਤਬਦੀਲੀਕਾਰ				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	string	RID_RTS_COMMANDPAGE	RID_RTS_CMD_STR_CONFIGURE_PDF			0	pl	Konwerter PDF				2002-02-02 02:02:02
-padmin	source\rtsetup.src	0	string	RID_RTS_COMMANDPAGE	RID_RTS_CMD_STR_CONFIGURE_PDF			0	pt	Conversor PDF				2002-02-02 02:02:02
+padmin	source\rtsetup.src	0	string	RID_RTS_COMMANDPAGE	RID_RTS_CMD_STR_CONFIGURE_PDF			0	pt	Conversor de PDF				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	string	RID_RTS_COMMANDPAGE	RID_RTS_CMD_STR_CONFIGURE_PDF			0	pt-BR	Conversor de PDF				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	string	RID_RTS_COMMANDPAGE	RID_RTS_CMD_STR_CONFIGURE_PDF			0	ru	Конвертер PDF				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	string	RID_RTS_COMMANDPAGE	RID_RTS_CMD_STR_CONFIGURE_PDF			0	rw	Muhinduzi ya PDF				2002-02-02 02:02:02
@@ -12040,7 +12040,7 @@ padmin	source\rtsetup.src	0	string	RID_RTS_COMMANDPAGE	RID_RTS_CMD_STR_FAXHELP		
 padmin	source\rtsetup.src	0	string	RID_RTS_COMMANDPAGE	RID_RTS_CMD_STR_FAXHELP			0	or-IN	ଆଦେଶ ରେଖା ପାଇଁ  ଫ୍ଯାକ୍ସ ୟନ୍ତ୍ରଗୁଡିକ  ନିମ୍ନ ପରି କାର୍ୟ୍ଯକାରୀହୋଉଛି :ପ୍ରତ୍ଯେକ ଫ୍ଯାକ୍ସ ବାକ୍ଯ ପାଇଁ , "(TMP)"କ୍ଷଣସ୍ଥାଯୀ ଫାଇଲ ଦ୍ବାରା ଆଦେଶ ରେଖା ହଟାହୋଇଛି ଏବଂ  "(PHONE)" ଫ୍ଯାକ୍ସ ସଂଖ୍ଯା ଦ୍ବାରା  ଆଦେଶ ରେଖା ହଟାହୋଇଛି୤ ୟଦି "(TMP)"  ଆଦେଶ ରେଖାରେ ଅଛି,ପୋଷ୍ଟଲିପି କୋଡ ଏକ ଫାଇଲ ଭାଇଆକୁ ୟୋଗାଣହେବ, କିମ୍ବା ଭାଇଆ ସ୍ଟାଣ୍ଡାଡ ଇନ୍ପୁଟ (i.e. ଗୋଟିଏ ପାଇପ ପରି )୤				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	string	RID_RTS_COMMANDPAGE	RID_RTS_CMD_STR_FAXHELP			0	pa-IN	ਫੈਕਸ ਜੰਤਰ ਲਈ ਕਮਾਂਡ ਲਾਈਨ ਇਸ ਤਰਾਂ ਚਲਦੀ ਹੈ: ਹਰੇਕ ਭੇਜੇ ਫੈਕਸ ਲਈ, ਕਮਾਂਡ ਲਾਈਨ ਵਿੱਚ "(TMP)" ਆਰਜੀ ਫਾਇਲ ਨਾਲ ਹਟਾਇਆ ਜਾਂਦਾ ਹੈ ਅਤੇ ਕਮਾਂਡ ਲਾਈਨ ਵਿੱਚ "(PHONE)" ਫੈਕਸ ਨੰਬਰ ਦੁਆਰਾ ਹਟਾਇਆ ਜਾਂਦਾ ਹੈ। ਜੇ ਕਮਾਂਡ ਲਾਈਨ ਵਿੱਚ "(TMP)" ਹੈ, ਪੋਸਟਸਕਰਿਪਟ ਕੋਡ ਇੱਕ ਫਾਇਲ ਦੁਆਰਾ ਭੇਜਿਆ ਜਾਵੇਗਾ, ਨਹੀਂ ਤਾਂ ਸਟੈਂਡਰਡ ਆਊਟਪੁੱਟ ਦੁਆਰਾ (ਜਿਵੇਂ ਕਿ pipe ਵਾਂਗ)।				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	string	RID_RTS_COMMANDPAGE	RID_RTS_CMD_STR_FAXHELP			0	pl	Wiersz polecenia dla urządzeń faksowych jest wykonywany w następujący sposób: podczas wysyłania faksu, występujący w wierszu polecenia argument "(TMP)" jest zamieniany na plik tymczasowy, a "(PHON)" - na numer faksu. Jeżeli w wierszu polecenia występuje argument "(TMP)", to kod PostScript zostanie przekazany w pliku; w przeciwnym razie zostanie przekazany jako standardowe wejście (tj. jako potok).				2002-02-02 02:02:02
-padmin	source\rtsetup.src	0	string	RID_RTS_COMMANDPAGE	RID_RTS_CMD_STR_FAXHELP			0	pt	A linha de comando para aparelhos de telefax é executada da seguinte forma: em todos os faxes enviados o "(TMP)" é substituído por um ficheiro temporário e "(PHONE)" pelo número de fax. Quando "(TMP)" aparece na linha de comando, o código PostScript é transmitido para um ficheiro, caso contrário para a entrada padrão (como Pipe).				2002-02-02 02:02:02
+padmin	source\rtsetup.src	0	string	RID_RTS_COMMANDPAGE	RID_RTS_CMD_STR_FAXHELP			0	pt	A linha de comandos para aparelhos de fax é executada da seguinte forma: em todos os faxes enviados "(TMP)" é substituído por um ficheiro temporário e "(PHONE)" pelo número de fax. Se a linha do comando incluir "(TMP)", o código PostScript será fornecido através de um ficheiro; caso contrário, é transferido como entrada de dados padrão (ou seja, como encaminhamento).				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	string	RID_RTS_COMMANDPAGE	RID_RTS_CMD_STR_FAXHELP			0	pt-BR	A linha de comando para dispositivos de fax é executada da seguinte maneira: para cada fax enviado, "(TMP)" na linha de comando é substituído por um arquivo temporário, e "(PHONE)" na linha de comando é substituído por um número de fax. Caso "(TMP)" seja exibido na linha de comando, o código PostScript será fornecido por arquivo; do contrário, ele será transmitido como entrada padrão (ex.: como um canal).				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	string	RID_RTS_COMMANDPAGE	RID_RTS_CMD_STR_FAXHELP			0	ru	Командная строка для факсов обрабатывается следующим образом: во время передачи каждого факса "(TMP)" в командной строке заменяется временным файлом, а "(PHONE)" - номером факса. Если "(TMP)" уже существует в командной строке, то код PostScript передается в файле, иначе он передается стандартным образом (т.е. как  pipe).				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	string	RID_RTS_COMMANDPAGE	RID_RTS_CMD_STR_FAXHELP			0	rw	Umurongo wa komandi wa fagisi ukoreshwa utya:Buri fagisi yoherejwe,"(TMP)" yo mu murongo wa komandi isimbuzwa by'agateganyo n'idosiye naho telefoni igasimburwa by'agateganyo na nimero ya fagisi. Iyo"(TMP)" iboneka mu murongo wa komandi, Kodi ya PostScript inyuzwa mu idosiye cyangwa se ikandikwa mu buryo bwemewe				2002-02-02 02:02:02
@@ -12101,7 +12101,7 @@ padmin	source\rtsetup.src	0	string	RID_RTS_COMMANDPAGE	RID_RTS_CMD_STR_PDFHELP		
 padmin	source\rtsetup.src	0	string	RID_RTS_COMMANDPAGE	RID_RTS_CMD_STR_PDFHELP			0	or-IN	ଆଦେଶ ରେଖା ପାଇଁ  PDF ରୁପାନ୍ତରକଗୁଡିକ ନିମ୍ନ ପରି କାର୍ୟ୍ଯକାରୀହୋଉଛି  :ପ୍ରତ୍ଯେକ ପ୍ରିଣଅଟର ଦଲିଲ ପାଇଁ , "(TMP)" କ୍ଷଣସ୍ଥାଯୀ ଫାଇଲ ଦ୍ବାରା ଆଦେଶ ରେଖା ହଟାହୋଇଛି ଏବଂ "(OUTFILE)"ଲକ୍ଷ୍ଯ PDF ଫାଇଲନାମ ଦ୍ବାରା  ଆଦେଶ ରେଖା ହଟାହୋଇଛି୤ୟଦି "(TMP)"  ଆଦେଶ ରେଖାରେ ଅଛି,ପୋଷ୍ଟଲିପି କୋଡ ଗୋଟିଏ ଫାଇଲ  ୟୋଗାଣହେବ, କିମ୍ବା  ସ୍ଟାଣ୍ଡାଡ ଇନ୍ପୁଟ (i.e. ଗୋଟିଏ ପାଇପ ପରି )୤				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	string	RID_RTS_COMMANDPAGE	RID_RTS_CMD_STR_PDFHELP			0	pa-IN	PDF ਅਨੁਵਾਦਕ ਲਈ ਕਮਾਂਡ ਲਾਈਨ ਇਸ ਤਰਾਂ ਚਲਦੀ ਹੈ: ਹਰੇਕ ਪ੍ਰਿੰਟ ਕੀਤੇ ਦਸਤਾਵੇਜ਼ਲਈ, ਕਮਾਂਡ ਲਾਈਨ ਵਿੱਚ "(TMP)" ਆਰਜੀ ਫਾਇਲ ਨਾਲ ਹਟਾਇਆ ਜਾਂਦਾ ਹੈ ਅਤੇ ਕਮਾਂਡ ਲਾਈਨ ਵਿੱਚ "(OUTFILE)" ਟਿਕਾਣਾ PDF ਫਾਇਲ ਨਾਂ ਦੁਆਰਾ ਹਟਾਈਜਾਂਦੀ ਹੈ। ਜੇ ਕਮਾਂਡ ਲਾਈਨ ਵਿੱਚ "(TMP)" ਹੈ, ਪੋਸਟਸਕਰਿਪਟ ਕੋਡ ਇੱਕ ਫਾਇਲ ਦੁਆਰਾ ਭੇਜਿਆ ਜਾਵੇਗਾ, ਨਹੀਂ ਤਾਂ ਸਟੈਂਡਰਡ ਆਊਟਪੁੱਟ ਦੁਆਰਾ (ਜਿਵੇਂ ਕਿ pipe ਵਾਂਗ)।				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	string	RID_RTS_COMMANDPAGE	RID_RTS_CMD_STR_PDFHELP			0	pl	Wiersz polecenia dla konwerterów PDF jest wykonywany w następujący sposób: podczas drukowania dokumentu, występujący w wierszu polecenia argument "(TMP)" jest zamieniany na plik tymczasowy, a "(OUTFILE)" - na nazwę wynikowego pliku PDF. Jeżeli w wierszu polecenia występuje argument "(TMP)", to kod PostScript zostanie przekazany w pliku; w przeciwnym razie zostanie przekazany jako standardowe wejście (tj. jako potok).				2002-02-02 02:02:02
-padmin	source\rtsetup.src	0	string	RID_RTS_COMMANDPAGE	RID_RTS_CMD_STR_PDFHELP			0	pt	A linha de comando dos conversores PDF é executada da seguinte maneira: em todos os documentos impressos, o "(TMP)" é substituído por um ficheiro temporário e o "(OUTFILE)" pelo ficheiro a ser criado. Quando "(TMP)" aparece na linha de comando, o código PostScript é transmitido para um ficheiro; caso contrário é transmitido para a entrada padrão (na forma de pipe).				2002-02-02 02:02:02
+padmin	source\rtsetup.src	0	string	RID_RTS_COMMANDPAGE	RID_RTS_CMD_STR_PDFHELP			0	pt	A linha de comandos dos conversores de PDF é executada da seguinte maneira: em todos os documentos impressos, "(TMP)" é substituído por um ficheiro temporário e "(OUTFILE)" é substituído pelo nome de ficheiro-alvo em PDF. Se "(TMP)" constar da linha de comandos, significa que o código PostScript irá ser fornecido através de um ficheiro, caso contrário, será transferido como entrada de dados padrão (ou seja, como direccionamento).				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	string	RID_RTS_COMMANDPAGE	RID_RTS_CMD_STR_PDFHELP			0	pt-BR	A linha de comando para conversores de PDF é executada da seguinte maneira: para cada documento impresso, "(TMP)" na linha de comando é substituído por um arquivo temporário, e "(OUTFILE)" na linha de comando é substituído pelo nome do arquivo PDF de destino. Caso "(TMP)" esteja na linha de comando, o código PostScript será fornecido por um arquivo ou via entrada padrão (ex.: como um canal).				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	string	RID_RTS_COMMANDPAGE	RID_RTS_CMD_STR_PDFHELP			0	ru	Командная строка для конвертеров PDF обрабатывается следующим образом: для каждого печатаемого документа в командной строке "(TMP)" заменяется временным файлом, а "(OUTFILE)" файлом PDF, который необходимо создать. Если "(TMP)" уже существует в командной строке, то код PostScript передается в файл, иначе он передается стандартным образом (т.е. как pipe).				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	string	RID_RTS_COMMANDPAGE	RID_RTS_CMD_STR_PDFHELP			0	rw	Umurongo w'ibwirizwa wa muhinduzi PDF ikoreshwa nk'uko bikurikira: kuri buri  nyandiko icapwe, "(TMP)" mu murongo w'ibwirizwa isimbuzwa idosiye gihegito na  "(IDOSIYEHANZE)" mu murongo w'ibwirizwa isimbuzwa izina ry'idosiye PDF igamijwe. Niba "(TMP)" iri mu murongo w'ibwirizwa, kode y'AgaporogaramuNyuma izatangwa bivuye mu idosiye, atari ibyo bihereye ku cyinjizwa gisanzwe (ni ukuvuga nk'umuheha).				2002-02-02 02:02:02
@@ -12162,7 +12162,7 @@ padmin	source\rtsetup.src	0	string	RID_RTS_COMMANDPAGE	RID_RTS_CMD_STR_PRINTERHE
 padmin	source\rtsetup.src	0	string	RID_RTS_COMMANDPAGE	RID_RTS_CMD_STR_PRINTERHELP			0	or-IN	ଆଦେଶ ରେଖା ପାଇଁ ପ୍ରିଣ୍ଟର ୟନ୍ତ୍ରଗୁଡିକ ନିମ୍ନ ପରି କାର୍ୟ୍ଯକାରୀହୋଉଛି : ସୃଷ୍ଟିକରିଥିବା ପୋଷ୍ଟଲିପି କୋଡ ଆଦେଶ ରେଖାକୁ ସ୍ଟାଣ୍ଡାଡ ଇନପୁଟ ପରି ୟୋଗାଣହେବ  (i.e. ଗୋଟିଏ ପାଇପ ପରି ) ୤				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	string	RID_RTS_COMMANDPAGE	RID_RTS_CMD_STR_PRINTERHELP			0	pa-IN	ਪ੍ਰਿੰਟਰ ਜੰਤਰ ਲਈ ਕਮਾਂਡ ਲਾਈਨ ਇਸ ਤਰਾਂ ਚੱਲੇਗੀ: ਪੈਦਾ ਹੋਇਆ ਪੋਸਟਸਕਰਿਪਟ ਕੋਡ ਸਟੈਂਡਰਡ ਇਨਪੁੱਟ (ਜਿਵੇਂ ਕਿ pipe ਤੌਰ ਤੇ) ਤੌਰ ਤੇ ਕਮਾਂਡ ਲਾਈਨ ਨੂੰ ਦਿੱਤਾ ਜਾਂਦਾ ਹੈ।				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	string	RID_RTS_COMMANDPAGE	RID_RTS_CMD_STR_PRINTERHELP			0	pl	Wiersz polecenia dla urządzeń drukujących jest wykonywany w następujący sposób: wygenerowany kod PostScript jest przekazywany jako standardowe wejście (tj. jako potok).				2002-02-02 02:02:02
-padmin	source\rtsetup.src	0	string	RID_RTS_COMMANDPAGE	RID_RTS_CMD_STR_PRINTERHELP			0	pt	A linha de comando para impressoras é executada da seguinte forma: o código PostScript gerado é transmitido à linha de comando como entrada padrão (como Pipe).				2002-02-02 02:02:02
+padmin	source\rtsetup.src	0	string	RID_RTS_COMMANDPAGE	RID_RTS_CMD_STR_PRINTERHELP			0	pt	A linha de comandos para dispositivos de impressora é executada da seguinte forma: o código PostScript gerado é fornecido como introdução de dados padrão (ou seja, como direccionamento) na linha de comandos.				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	string	RID_RTS_COMMANDPAGE	RID_RTS_CMD_STR_PRINTERHELP			0	pt-BR	A linha de comando para os equipamentos de impressão é executada da seguinte maneira: o código PostScript gerado é fornecido como a entrada padrão (ex.: como um canal) para a linha de comando.				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	string	RID_RTS_COMMANDPAGE	RID_RTS_CMD_STR_PRINTERHELP			0	ru	Командная строка для принтеров обрабатывается следующим образом: созданный PostScript код передается в командную строку  стандартным образом (т.е. как pipe).				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	string	RID_RTS_COMMANDPAGE	RID_RTS_CMD_STR_PRINTERHELP			0	rw	Umurongo wa komandi ya mucapyi ukoreshwa utya: Kodi ya PostScript ihabwa umurongo wa komandi mu buryo bwemewe				2002-02-02 02:02:02
@@ -12357,7 +12357,7 @@ padmin	source\rtsetup.src	0	string	RID_RTS_RTSDIALOG	RID_RTS_RTSDIALOG_FROMDRIVE
 padmin	source\rtsetup.src	0	string	RID_RTS_RTSDIALOG	RID_RTS_RTSDIALOG_FROMDRIVER_TXT			0	or-IN	ଚାଳକ ରୁ				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	string	RID_RTS_RTSDIALOG	RID_RTS_RTSDIALOG_FROMDRIVER_TXT			0	pa-IN	ਡਰਾਈਵਰ ਤੋਂ				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	string	RID_RTS_RTSDIALOG	RID_RTS_RTSDIALOG_FROMDRIVER_TXT			0	pl	ze sterownika				2002-02-02 02:02:02
-padmin	source\rtsetup.src	0	string	RID_RTS_RTSDIALOG	RID_RTS_RTSDIALOG_FROMDRIVER_TXT			0	pt	a partir do controlador				2002-02-02 02:02:02
+padmin	source\rtsetup.src	0	string	RID_RTS_RTSDIALOG	RID_RTS_RTSDIALOG_FROMDRIVER_TXT			0	pt	do controlador				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	string	RID_RTS_RTSDIALOG	RID_RTS_RTSDIALOG_FROMDRIVER_TXT			0	pt-BR	do driver				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	string	RID_RTS_RTSDIALOG	RID_RTS_RTSDIALOG_FROMDRIVER_TXT			0	ru	из драйвера				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	string	RID_RTS_RTSDIALOG	RID_RTS_RTSDIALOG_FROMDRIVER_TXT			0	rw	Ivuye muri musomyi				2002-02-02 02:02:02
@@ -12422,7 +12422,7 @@ padmin	source\rtsetup.src	0	string	RID_RTS_RTSDIALOG	RID_RTS_RTSDIALOG_INVALID_T
 padmin	source\rtsetup.src	0	string	RID_RTS_RTSDIALOG	RID_RTS_RTSDIALOG_INVALID_TXT			0	or-IN	<ଅବଜ୍ଞା>				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	string	RID_RTS_RTSDIALOG	RID_RTS_RTSDIALOG_INVALID_TXT			0	pa-IN	<ignore>				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	string	RID_RTS_RTSDIALOG	RID_RTS_RTSDIALOG_INVALID_TXT			0	pl	<ignoruj>				2002-02-02 02:02:02
-padmin	source\rtsetup.src	0	string	RID_RTS_RTSDIALOG	RID_RTS_RTSDIALOG_INVALID_TXT			0	pt	<ignorar>				2002-02-02 02:02:02
+padmin	source\rtsetup.src	0	string	RID_RTS_RTSDIALOG	RID_RTS_RTSDIALOG_INVALID_TXT			0	pt	<ignore>				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	string	RID_RTS_RTSDIALOG	RID_RTS_RTSDIALOG_INVALID_TXT			0	pt-BR	<ignorar>				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	string	RID_RTS_RTSDIALOG	RID_RTS_RTSDIALOG_INVALID_TXT			0	ru	<пропустить>				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	string	RID_RTS_RTSDIALOG	RID_RTS_RTSDIALOG_INVALID_TXT			0	rw	Kureka				2002-02-02 02:02:02
@@ -12552,7 +12552,7 @@ padmin	source\rtsetup.src	0	tabdialog	RID_RTS_RTSDIALOG				0	ns	Dithoto tša %s	
 padmin	source\rtsetup.src	0	tabdialog	RID_RTS_RTSDIALOG				0	or-IN	ବିଶେଷତାଗୁଡିକର  %s				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	tabdialog	RID_RTS_RTSDIALOG				0	pa-IN	%s ਦੀ ਵਿਸ਼ੇਸ਼ਤਾ				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	tabdialog	RID_RTS_RTSDIALOG				0	pl	Właściwości %s				2002-02-02 02:02:02
-padmin	source\rtsetup.src	0	tabdialog	RID_RTS_RTSDIALOG				0	pt	Propriedades de '%s'				2002-02-02 02:02:02
+padmin	source\rtsetup.src	0	tabdialog	RID_RTS_RTSDIALOG				0	pt	Propriedades de %s				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	tabdialog	RID_RTS_RTSDIALOG				0	pt-BR	Propriedades de %s				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	tabdialog	RID_RTS_RTSDIALOG				0	ru	Свойства %s				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	tabdialog	RID_RTS_RTSDIALOG				0	rw	Indangakintu za %s				2002-02-02 02:02:02
