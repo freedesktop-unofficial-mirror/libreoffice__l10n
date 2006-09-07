@@ -13,9 +13,9 @@
 #
 #   $RCSfile: localize.sdf,v $
 #
-#   $Revision: 1.2 $
+#   $Revision: 1.3 $
 #
-#   last change: $Author: ihi $ $Date: 2006-08-21 14:36:48 $
+#   last change: $Author: vg $ $Date: 2006-09-07 18:26:54 $
 #
 #   The Contents of this file are made available subject to
 #   the terms of GNU Lesser General Public License Version 2.1.
@@ -55,7 +55,7 @@ sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU	CM_END
 sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU	CM_ENDSHOW			0	mk	~Заврши слајд-шоу				2002-02-02 02:02:02
 sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU	CM_ENDSHOW			0	nb	~Avslutt framvisning				2002-02-02 02:02:02
 sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU	CM_ENDSHOW			43096	nl	~Voorstelling beëindigen				2002-02-02 02:02:02
-sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU	CM_ENDSHOW			43096	pl	~End Show				2002-02-02 02:02:02
+sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU	CM_ENDSHOW			43096	pl	~Zakończ pokaz				2002-02-02 02:02:02
 sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU	CM_ENDSHOW			43096	pt	~End Show				2002-02-02 02:02:02
 sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU	CM_ENDSHOW			43096	pt-BR	~Finalizar exibição				2002-02-02 02:02:02
 sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU	CM_ENDSHOW			0	ru	~End Show				2002-02-02 02:02:02
@@ -79,7 +79,7 @@ sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU	CM_GOT
 sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU	CM_GOTO			0	mk	~Оди на слајд				2002-02-02 02:02:02
 sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU	CM_GOTO			0	nb	~Gå til lysbilde				2002-02-02 02:02:02
 sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU	CM_GOTO			0	nl	~Ga naar dia				2002-02-02 02:02:02
-sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU	CM_GOTO			0	pl	~Go to Slide				2002-02-02 02:02:02
+sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU	CM_GOTO			0	pl	Przejdź do ~slajdu				2002-02-02 02:02:02
 sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU	CM_GOTO			0	pt	~Go to Slide				2002-02-02 02:02:02
 sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU	CM_GOTO			0	pt-BR	~Ir ao slide				2002-02-02 02:02:02
 sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU	CM_GOTO			0	ru	~Go to Slide				2002-02-02 02:02:02
@@ -103,7 +103,7 @@ sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU	CM_NEX
 sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU	CM_NEXT_SLIDE			0	mk	Следе~н				2002-02-02 02:02:02
 sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU	CM_NEXT_SLIDE			0	nb	~Neste				2002-02-02 02:02:02
 sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU	CM_NEXT_SLIDE			656	nl	~Volgende				2002-02-02 02:02:02
-sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU	CM_NEXT_SLIDE			656	pl	~Next				2002-02-02 02:02:02
+sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU	CM_NEXT_SLIDE			656	pl	~Dalej				2002-02-02 02:02:02
 sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU	CM_NEXT_SLIDE			656	pt	~Next				2002-02-02 02:02:02
 sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU	CM_NEXT_SLIDE			656	pt-BR	~Próximo				2002-02-02 02:02:02
 sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU	CM_NEXT_SLIDE			0	ru	~Next				2002-02-02 02:02:02
@@ -127,7 +127,7 @@ sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU	CM_PRE
 sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU	CM_PREV_SLIDE			0	mk	П~ретходен				2002-02-02 02:02:02
 sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU	CM_PREV_SLIDE			0	nb	~Forrige				2002-02-02 02:02:02
 sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU	CM_PREV_SLIDE			0	nl	V~orige				2002-02-02 02:02:02
-sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU	CM_PREV_SLIDE			0	pl	~Previous				2002-02-02 02:02:02
+sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU	CM_PREV_SLIDE			0	pl	~Poprzedni				2002-02-02 02:02:02
 sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU	CM_PREV_SLIDE			0	pt	~Previous				2002-02-02 02:02:02
 sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU	CM_PREV_SLIDE			0	pt-BR	~Anterior				2002-02-02 02:02:02
 sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU	CM_PREV_SLIDE			0	ru	~Previous				2002-02-02 02:02:02
@@ -151,7 +151,7 @@ sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU	CM_SCR
 sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU	CM_SCREEN			0	mk	~Екран				2002-02-02 02:02:02
 sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU	CM_SCREEN			0	nb	~Skjerm				2002-02-02 02:02:02
 sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU	CM_SCREEN			43096	nl	~Scherm				2002-02-02 02:02:02
-sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU	CM_SCREEN			43096	pl	~Screen				2002-02-02 02:02:02
+sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU	CM_SCREEN			43096	pl	~Ekran				2002-02-02 02:02:02
 sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU	CM_SCREEN			43096	pt	~Screen				2002-02-02 02:02:02
 sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU	CM_SCREEN			43096	pt-BR	~Tela				2002-02-02 02:02:02
 sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU	CM_SCREEN			0	ru	~Screen				2002-02-02 02:02:02
@@ -175,7 +175,7 @@ sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU.CM_GOT
 sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU.CM_GOTO	CM_FIRST_SLIDE			0	mk	Пр~в слајд				2002-02-02 02:02:02
 sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU.CM_GOTO	CM_FIRST_SLIDE			0	nb	~Første lysbilde				2002-02-02 02:02:02
 sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU.CM_GOTO	CM_FIRST_SLIDE			712	nl	~Eerste dia				2002-02-02 02:02:02
-sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU.CM_GOTO	CM_FIRST_SLIDE			712	pl	~First Slide				2002-02-02 02:02:02
+sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU.CM_GOTO	CM_FIRST_SLIDE			712	pl	~Pierwszy slajd				2002-02-02 02:02:02
 sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU.CM_GOTO	CM_FIRST_SLIDE			712	pt	~First Slide				2002-02-02 02:02:02
 sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU.CM_GOTO	CM_FIRST_SLIDE			712	pt-BR	~Primeiro slide				2002-02-02 02:02:02
 sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU.CM_GOTO	CM_FIRST_SLIDE			0	ru	~First Slide				2002-02-02 02:02:02
@@ -199,7 +199,7 @@ sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU.CM_GOT
 sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU.CM_GOTO	CM_LAST_SLIDE			0	mk	Пос~леден слајд				2002-02-02 02:02:02
 sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU.CM_GOTO	CM_LAST_SLIDE			0	nb	~Siste lysbilde				2002-02-02 02:02:02
 sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU.CM_GOTO	CM_LAST_SLIDE			0	nl	~Laatste dia				2002-02-02 02:02:02
-sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU.CM_GOTO	CM_LAST_SLIDE			0	pl	~Last Slide				2002-02-02 02:02:02
+sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU.CM_GOTO	CM_LAST_SLIDE			0	pl	~Ostatni slajd				2002-02-02 02:02:02
 sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU.CM_GOTO	CM_LAST_SLIDE			0	pt	~Last Slide				2002-02-02 02:02:02
 sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU.CM_GOTO	CM_LAST_SLIDE			0	pt-BR	~Último slide				2002-02-02 02:02:02
 sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU.CM_GOTO	CM_LAST_SLIDE			0	ru	~Last Slide				2002-02-02 02:02:02
@@ -223,7 +223,7 @@ sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU.CM_SCR
 sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU.CM_SCREEN	CM_SCREEN_BLACK			0	mk	~Црн				2002-02-02 02:02:02
 sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU.CM_SCREEN	CM_SCREEN_BLACK			0	nb	~Svart				2002-02-02 02:02:02
 sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU.CM_SCREEN	CM_SCREEN_BLACK			0	nl	~Zwart				2002-02-02 02:02:02
-sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU.CM_SCREEN	CM_SCREEN_BLACK			0	pl	~Black				2002-02-02 02:02:02
+sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU.CM_SCREEN	CM_SCREEN_BLACK			0	pl	~Czarny				2002-02-02 02:02:02
 sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU.CM_SCREEN	CM_SCREEN_BLACK			0	pt	~Black				2002-02-02 02:02:02
 sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU.CM_SCREEN	CM_SCREEN_BLACK			0	pt-BR	~Preto				2002-02-02 02:02:02
 sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU.CM_SCREEN	CM_SCREEN_BLACK			0	ru	~Black				2002-02-02 02:02:02
@@ -247,7 +247,7 @@ sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU.CM_SCR
 sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU.CM_SCREEN	CM_SCREEN_WHITE			0	mk	~Бел				2002-02-02 02:02:02
 sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU.CM_SCREEN	CM_SCREEN_WHITE			0	nb	~Hvit				2002-02-02 02:02:02
 sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU.CM_SCREEN	CM_SCREEN_WHITE			0	nl	~Wit				2002-02-02 02:02:02
-sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU.CM_SCREEN	CM_SCREEN_WHITE			0	pl	~White				2002-02-02 02:02:02
+sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU.CM_SCREEN	CM_SCREEN_WHITE			0	pl	~Biały				2002-02-02 02:02:02
 sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU.CM_SCREEN	CM_SCREEN_WHITE			0	pt	~White				2002-02-02 02:02:02
 sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU.CM_SCREEN	CM_SCREEN_WHITE			0	pt-BR	~Branco				2002-02-02 02:02:02
 sd	source\ui\slideshow\slideshow.src	0	menuitem	RID_SLIDESHOW_CONTEXTMENU.CM_SCREEN	CM_SCREEN_WHITE			0	ru	~White				2002-02-02 02:02:02
