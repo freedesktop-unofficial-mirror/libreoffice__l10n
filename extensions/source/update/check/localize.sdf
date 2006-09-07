@@ -13,9 +13,9 @@
 #
 #   $RCSfile: localize.sdf,v $
 #
-#   $Revision: 1.3 $
+#   $Revision: 1.4 $
 #
-#   last change: $Author: ihi $ $Date: 2006-08-21 14:22:13 $
+#   last change: $Author: vg $ $Date: 2006-09-07 17:11:10 $
 #
 #   The Contents of this file are made available subject to
 #   the terms of GNU Lesser General Public License Version 2.1.
@@ -42,8 +42,14 @@
 #
 #*************************************************************************
 extensions	source\update\check\Addons.xcu	0	value	.Addons.AddonUI.OfficeHelp.UpdateCheckJob	Title			0	it	Controlla ~aggiornamenti...				2002-02-02 02:02:02
+extensions	source\update\check\Addons.xcu	0	value	.Addons.AddonUI.OfficeHelp.UpdateCheckJob	Title			0	pl	Sprawdź ~aktualizację...				2002-02-02 02:02:02
 extensions	source\update\check\Jobs.xcu	0	value	.Jobs.Jobs.UpdateCheck.Arguments	BubbleHeading			0	it	È disponibile un aggiornamento di %PRODUCTNAME				2002-02-02 02:02:02
+extensions	source\update\check\Jobs.xcu	0	value	.Jobs.Jobs.UpdateCheck.Arguments	BubbleHeading			0	pl	Dostępna aktualizacja %PRODUCTNAME				2002-02-02 02:02:02
 extensions	source\update\check\Jobs.xcu	0	value	.Jobs.Jobs.UpdateCheck.Arguments	BubbleText			0	it	Fate clic qui per accedere al sito Web da cui potrete scaricare il nuovo aggiornamento.				2002-02-02 02:02:02
+extensions	source\update\check\Jobs.xcu	0	value	.Jobs.Jobs.UpdateCheck.Arguments	BubbleText			0	pl	Kliknij tutaj,  aby przejść do strony internetowej, z której można pobrać nową aktualizację.				2002-02-02 02:02:02
 extensions	source\update\check\Jobs.xcu	0	value	.Jobs.Jobs.UpdateCheck.Arguments	NoUpdateFoundText			0	it	Nessun nuovo aggiornamento disponibile.\n %PRODUCTNAME è aggiornato.				2002-02-02 02:02:02
+extensions	source\update\check\Jobs.xcu	0	value	.Jobs.Jobs.UpdateCheck.Arguments	NoUpdateFoundText			0	pl	Brak dostępnej aktualizacji. Posiadana wersja \n %PRODUCTNAME jest najnowsza.				2002-02-02 02:02:02
 extensions	source\update\check\Jobs.xcu	0	value	.Jobs.Jobs.UpdateCheck.Arguments	SearchForUpdateText			0	it	Il programma controlla la presenza di una versione di aggiornamento in base alle informazioni sulla versione installata di %PRODUCTNAME e agli aggiornamenti disponibili.				2002-02-02 02:02:02
+extensions	source\update\check\Jobs.xcu	0	value	.Jobs.Jobs.UpdateCheck.Arguments	SearchForUpdateText			0	pl	Program sprawdza dostępność nowej wersji w oparciu o wersję zainstalowanego programu %PRODUCTNAME i aktualnie dostępnych aktualizacji.				2002-02-02 02:02:02
 extensions	source\update\check\Jobs.xcu	0	value	.Jobs.Jobs.UpdateCheck.Arguments	UpdateFoundText			0	it	È disponibile un nuovo aggiornamento.\n Scegliete OK per aprire il sito Web da cui è possibile scaricarlo.				2002-02-02 02:02:02
+extensions	source\update\check\Jobs.xcu	0	value	.Jobs.Jobs.UpdateCheck.Arguments	UpdateFoundText			0	pl	Brak dostępnej aktualizacji.\n Kliknij przycisk OK,  aby przejść do strony internetowej, z której można pobrać nową aktualizację.				2002-02-02 02:02:02
