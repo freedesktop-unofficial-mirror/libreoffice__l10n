@@ -13,9 +13,9 @@
 #
 #   $RCSfile: localize.sdf,v $
 #
-#   $Revision: 1.5 $
+#   $Revision: 1.6 $
 #
-#   last change: $Author: obo $ $Date: 2006-09-13 11:25:15 $
+#   last change: $Author: vg $ $Date: 2006-09-26 14:24:23 $
 #
 #   The Contents of this file are made available subject to
 #   the terms of GNU Lesser General Public License Version 2.1.
@@ -51,7 +51,7 @@ extensions	source\update\check\Addons.xcu	0	value	.Addons.AddonUI.OfficeHelp.Upd
 extensions	source\update\check\Addons.xcu	0	value	.Addons.AddonUI.OfficeHelp.UpdateCheckJob	Title			0	pl	Sprawdź ~aktualizację...				2002-02-02 02:02:02
 extensions	source\update\check\Addons.xcu	0	value	.Addons.AddonUI.OfficeHelp.UpdateCheckJob	Title			0	pt	Check for ~Updates...				2002-02-02 02:02:02
 extensions	source\update\check\Addons.xcu	0	value	.Addons.AddonUI.OfficeHelp.UpdateCheckJob	Title			0	pt-BR	Verificar se há ~atualizações...				2002-02-02 02:02:02
-extensions	source\update\check\Addons.xcu	0	value	.Addons.AddonUI.OfficeHelp.UpdateCheckJob	Title			0	ru	Check for ~Updates...				2002-02-02 02:02:02
+extensions	source\update\check\Addons.xcu	0	value	.Addons.AddonUI.OfficeHelp.UpdateCheckJob	Title			0	ru	Проверить наличие обновлений...				2002-02-02 02:02:02
 extensions	source\update\check\Addons.xcu	0	value	.Addons.AddonUI.OfficeHelp.UpdateCheckJob	Title			0	sv	Sök efter ~uppdateringar...				2002-02-02 02:02:02
 extensions	source\update\check\Addons.xcu	0	value	.Addons.AddonUI.OfficeHelp.UpdateCheckJob	Title			0	tr	Check for ~Updates...				2002-02-02 02:02:02
 extensions	source\update\check\Addons.xcu	0	value	.Addons.AddonUI.OfficeHelp.UpdateCheckJob	Title			0	zh-CN	检查更新(~U)...				2002-02-02 02:02:02
@@ -66,7 +66,7 @@ extensions	source\update\check\Jobs.xcu	0	value	.Jobs.Jobs.UpdateCheck.Arguments
 extensions	source\update\check\Jobs.xcu	0	value	.Jobs.Jobs.UpdateCheck.Arguments	BubbleHeading			0	pl	Dostępna aktualizacja %PRODUCTNAME				2002-02-02 02:02:02
 extensions	source\update\check\Jobs.xcu	0	value	.Jobs.Jobs.UpdateCheck.Arguments	BubbleHeading			0	pt	%PRODUCTNAME update available				2002-02-02 02:02:02
 extensions	source\update\check\Jobs.xcu	0	value	.Jobs.Jobs.UpdateCheck.Arguments	BubbleHeading			0	pt-BR	Atualização do %PRODUCTNAME disponível				2002-02-02 02:02:02
-extensions	source\update\check\Jobs.xcu	0	value	.Jobs.Jobs.UpdateCheck.Arguments	BubbleHeading			0	ru	%PRODUCTNAME update available				2002-02-02 02:02:02
+extensions	source\update\check\Jobs.xcu	0	value	.Jobs.Jobs.UpdateCheck.Arguments	BubbleHeading			0	ru	Обновления для %PRODUCTNAME доступны для загрузки				2002-02-02 02:02:02
 extensions	source\update\check\Jobs.xcu	0	value	.Jobs.Jobs.UpdateCheck.Arguments	BubbleHeading			0	sv	%PRODUCTNAME-uppdatering tillgänglig				2002-02-02 02:02:02
 extensions	source\update\check\Jobs.xcu	0	value	.Jobs.Jobs.UpdateCheck.Arguments	BubbleHeading			0	tr	%PRODUCTNAME update available				2002-02-02 02:02:02
 extensions	source\update\check\Jobs.xcu	0	value	.Jobs.Jobs.UpdateCheck.Arguments	BubbleHeading			0	zh-CN	有 %PRODUCTNAME 更新				2002-02-02 02:02:02
@@ -81,7 +81,7 @@ extensions	source\update\check\Jobs.xcu	0	value	.Jobs.Jobs.UpdateCheck.Arguments
 extensions	source\update\check\Jobs.xcu	0	value	.Jobs.Jobs.UpdateCheck.Arguments	BubbleText			0	pl	Kliknij tutaj,  aby przejść do strony internetowej, z której można pobrać nową aktualizację.				2002-02-02 02:02:02
 extensions	source\update\check\Jobs.xcu	0	value	.Jobs.Jobs.UpdateCheck.Arguments	BubbleText			0	pt	Click here to go to the web site, where you can download the new update.				2002-02-02 02:02:02
 extensions	source\update\check\Jobs.xcu	0	value	.Jobs.Jobs.UpdateCheck.Arguments	BubbleText			0	pt-BR	Clique aqui para ir ao Website, onde poderá fazer o download da nova atualização.				2002-02-02 02:02:02
-extensions	source\update\check\Jobs.xcu	0	value	.Jobs.Jobs.UpdateCheck.Arguments	BubbleText			0	ru	Click here to go to the web site, where you can download the new update.				2002-02-02 02:02:02
+extensions	source\update\check\Jobs.xcu	0	value	.Jobs.Jobs.UpdateCheck.Arguments	BubbleText			0	ru	Щелкните здесь для перехода на сайт загрузки обновлений.				2002-02-02 02:02:02
 extensions	source\update\check\Jobs.xcu	0	value	.Jobs.Jobs.UpdateCheck.Arguments	BubbleText			0	sv	Klicka här om du vill gå till webbplatsen där du kan ladda ned den nya uppdateringen.				2002-02-02 02:02:02
 extensions	source\update\check\Jobs.xcu	0	value	.Jobs.Jobs.UpdateCheck.Arguments	BubbleText			0	tr	Click here to go to the web site, where you can download the new update.				2002-02-02 02:02:02
 extensions	source\update\check\Jobs.xcu	0	value	.Jobs.Jobs.UpdateCheck.Arguments	BubbleText			0	zh-CN	请单击此处转到网站，可以从该网站中下载新的更新。				2002-02-02 02:02:02
@@ -92,11 +92,11 @@ extensions	source\update\check\Jobs.xcu	0	value	.Jobs.Jobs.UpdateCheck.Arguments
 extensions	source\update\check\Jobs.xcu	0	value	.Jobs.Jobs.UpdateCheck.Arguments	NoUpdateFoundText			0	it	Nessun nuovo aggiornamento disponibile.\n %PRODUCTNAME è aggiornato.				2002-02-02 02:02:02
 extensions	source\update\check\Jobs.xcu	0	value	.Jobs.Jobs.UpdateCheck.Arguments	NoUpdateFoundText			0	ja	利用可能な更新はありません。\n %PRODUCTNAME は最新の状態です。				2002-02-02 02:02:02
 extensions	source\update\check\Jobs.xcu	0	value	.Jobs.Jobs.UpdateCheck.Arguments	NoUpdateFoundText			0	ko	사용 가능한 새 업데이트가 없습니다.\n %PRODUCTNAME은(는) 최신입니다.				2002-02-02 02:02:02
-extensions	source\update\check\Jobs.xcu	0	value	.Jobs.Jobs.UpdateCheck.Arguments	NoUpdateFoundText			0	nl	Er is geen nieuwe update beschikbaar.\n %PRODUCTNAME is up-to-date.				2002-02-02 02:02:02
+extensions	source\update\check\Jobs.xcu	0	value	.Jobs.Jobs.UpdateCheck.Arguments	NoUpdateFoundText			0	nl	Er is geen nieuwe update beschikbaar.\n %PRODUCTNAME is up-to- date.				2002-02-02 02:02:02
 extensions	source\update\check\Jobs.xcu	0	value	.Jobs.Jobs.UpdateCheck.Arguments	NoUpdateFoundText			0	pl	Brak dostępnej aktualizacji. Posiadana wersja \n %PRODUCTNAME jest najnowsza.				2002-02-02 02:02:02
 extensions	source\update\check\Jobs.xcu	0	value	.Jobs.Jobs.UpdateCheck.Arguments	NoUpdateFoundText			0	pt	No new update is available.\n %PRODUCTNAME is up to date.				2002-02-02 02:02:02
 extensions	source\update\check\Jobs.xcu	0	value	.Jobs.Jobs.UpdateCheck.Arguments	NoUpdateFoundText			0	pt-BR	Nenhuma atualização está disponível. O \n %PRODUCTNAME está atualizado.				2002-02-02 02:02:02
-extensions	source\update\check\Jobs.xcu	0	value	.Jobs.Jobs.UpdateCheck.Arguments	NoUpdateFoundText			0	ru	No new update is available.\n %PRODUCTNAME is up to date.				2002-02-02 02:02:02
+extensions	source\update\check\Jobs.xcu	0	value	.Jobs.Jobs.UpdateCheck.Arguments	NoUpdateFoundText			0	ru	Обновлений нет.\n Вы используете последнюю версию %PRODUCTNAME.				2002-02-02 02:02:02
 extensions	source\update\check\Jobs.xcu	0	value	.Jobs.Jobs.UpdateCheck.Arguments	NoUpdateFoundText			0	sv	Ingen ny uppdatering tillgänglig.\n %PRODUCTNAME är uppdaterad.				2002-02-02 02:02:02
 extensions	source\update\check\Jobs.xcu	0	value	.Jobs.Jobs.UpdateCheck.Arguments	NoUpdateFoundText			0	tr	No new update is available.\n %PRODUCTNAME is up to date.				2002-02-02 02:02:02
 extensions	source\update\check\Jobs.xcu	0	value	.Jobs.Jobs.UpdateCheck.Arguments	NoUpdateFoundText			0	zh-CN	没有新的更新。\n %PRODUCTNAME 是最新的。				2002-02-02 02:02:02
@@ -111,7 +111,7 @@ extensions	source\update\check\Jobs.xcu	0	value	.Jobs.Jobs.UpdateCheck.Arguments
 extensions	source\update\check\Jobs.xcu	0	value	.Jobs.Jobs.UpdateCheck.Arguments	SearchForUpdateText			0	pl	Program sprawdza dostępność nowej wersji w oparciu o wersję zainstalowanego programu %PRODUCTNAME i aktualnie dostępnych aktualizacji.				2002-02-02 02:02:02
 extensions	source\update\check\Jobs.xcu	0	value	.Jobs.Jobs.UpdateCheck.Arguments	SearchForUpdateText			0	pt	The program checks for a new version update based on information about your installed %PRODUCTNAME version and currently available updates.				2002-02-02 02:02:02
 extensions	source\update\check\Jobs.xcu	0	value	.Jobs.Jobs.UpdateCheck.Arguments	SearchForUpdateText			0	pt-BR	O programa verifica a existência de uma atualização da nova versão com base nas informações sobre a versão instalada do %PRODUCTNAME e nas atualizações disponíveis atualmente..				2002-02-02 02:02:02
-extensions	source\update\check\Jobs.xcu	0	value	.Jobs.Jobs.UpdateCheck.Arguments	SearchForUpdateText			0	ru	The program checks for a new version update based on information about your installed %PRODUCTNAME version and currently available updates.				2002-02-02 02:02:02
+extensions	source\update\check\Jobs.xcu	0	value	.Jobs.Jobs.UpdateCheck.Arguments	SearchForUpdateText			0	ru	Программа проверяет наличие обновлений %PRODUCTNAME, основываясь на информации об установленной версии и существующих обновлениях.				2002-02-02 02:02:02
 extensions	source\update\check\Jobs.xcu	0	value	.Jobs.Jobs.UpdateCheck.Arguments	SearchForUpdateText			0	sv	Programmet söker efter en ny uppdatering utifrån informationen om den installerade %PRODUCTNAME-versionen och aktuella uppdateringar.				2002-02-02 02:02:02
 extensions	source\update\check\Jobs.xcu	0	value	.Jobs.Jobs.UpdateCheck.Arguments	SearchForUpdateText			0	tr	The program checks for a new version update based on information about your installed %PRODUCTNAME version and currently available updates.				2002-02-02 02:02:02
 extensions	source\update\check\Jobs.xcu	0	value	.Jobs.Jobs.UpdateCheck.Arguments	SearchForUpdateText			0	zh-CN	程序将检查新版本的更新（基于所安装的 %PRODUCTNAME 版本的相关信息）和当前可用更新。				2002-02-02 02:02:02
@@ -122,11 +122,11 @@ extensions	source\update\check\Jobs.xcu	0	value	.Jobs.Jobs.UpdateCheck.Arguments
 extensions	source\update\check\Jobs.xcu	0	value	.Jobs.Jobs.UpdateCheck.Arguments	UpdateFoundText			0	it	È disponibile un nuovo aggiornamento.\n Scegliete OK per aprire il sito Web da cui è possibile scaricarlo.				2002-02-02 02:02:02
 extensions	source\update\check\Jobs.xcu	0	value	.Jobs.Jobs.UpdateCheck.Arguments	UpdateFoundText			0	ja	新しい更新があります。\nOK をクリックしてダウンロードを開始できる Web サイトを開いてください。				2002-02-02 02:02:02
 extensions	source\update\check\Jobs.xcu	0	value	.Jobs.Jobs.UpdateCheck.Arguments	UpdateFoundText			0	ko	사용 가능한 새 업데이트가 있습니다.\n 다운로드를 시작할 수 있는 웹 사이트를 열려면 확인을 클릭합니다.				2002-02-02 02:02:02
-extensions	source\update\check\Jobs.xcu	0	value	.Jobs.Jobs.UpdateCheck.Arguments	UpdateFoundText			0	nl	Er is een nieuwe update beschikbaar.\n Klik op OK om de website te openen, waar u het downloaden kunt starten.				2002-02-02 02:02:02
+extensions	source\update\check\Jobs.xcu	0	value	.Jobs.Jobs.UpdateCheck.Arguments	UpdateFoundText			0	nl	Er is een nieuwe update beschikbaar.\nKlik op OK om de website te openen, waar u de download kunt starten.				2002-02-02 02:02:02
 extensions	source\update\check\Jobs.xcu	0	value	.Jobs.Jobs.UpdateCheck.Arguments	UpdateFoundText			0	pl	Brak dostępnej aktualizacji.\n Kliknij przycisk OK,  aby przejść do strony internetowej, z której można pobrać nową aktualizację.				2002-02-02 02:02:02
 extensions	source\update\check\Jobs.xcu	0	value	.Jobs.Jobs.UpdateCheck.Arguments	UpdateFoundText			0	pt	A new update is available.\n Click OK to open the web site, where you can start the download.				2002-02-02 02:02:02
 extensions	source\update\check\Jobs.xcu	0	value	.Jobs.Jobs.UpdateCheck.Arguments	UpdateFoundText			0	pt-BR	Há uma nova atualização disponível.\n Clique em OK para abrir o Website, onde poderá iniciar o download.				2002-02-02 02:02:02
-extensions	source\update\check\Jobs.xcu	0	value	.Jobs.Jobs.UpdateCheck.Arguments	UpdateFoundText			0	ru	A new update is available.\n Click OK to open the web site, where you can start the download.				2002-02-02 02:02:02
+extensions	source\update\check\Jobs.xcu	0	value	.Jobs.Jobs.UpdateCheck.Arguments	UpdateFoundText			0	ru	Обновления доступны.\n Щелкните Да для перехода на сайт загрузки обновлений.				2002-02-02 02:02:02
 extensions	source\update\check\Jobs.xcu	0	value	.Jobs.Jobs.UpdateCheck.Arguments	UpdateFoundText			0	sv	Det finns en ny uppdatering.\nKlicka på OK för att öppna webbplatsen för nedladdning, där du kan börja ladda ned.				2002-02-02 02:02:02
 extensions	source\update\check\Jobs.xcu	0	value	.Jobs.Jobs.UpdateCheck.Arguments	UpdateFoundText			0	tr	A new update is available.\n Click OK to open the web site, where you can start the download.				2002-02-02 02:02:02
 extensions	source\update\check\Jobs.xcu	0	value	.Jobs.Jobs.UpdateCheck.Arguments	UpdateFoundText			0	zh-CN	有新的更新。\n请单击“确定”打开网站，可以从该网站中开始下载更新。				2002-02-02 02:02:02
