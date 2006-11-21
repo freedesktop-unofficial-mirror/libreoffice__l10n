@@ -13,9 +13,9 @@
 #
 #   $RCSfile: localize.sdf,v $
 #
-#   $Revision: 1.26 $
+#   $Revision: 1.27 $
 #
-#   last change: $Author: ihi $ $Date: 2006-11-13 17:24:22 $
+#   last change: $Author: vg $ $Date: 2006-11-21 16:30:42 $
 #
 #   The Contents of this file are made available subject to
 #   the terms of GNU Lesser General Public License Version 2.1.
@@ -222,6 +222,7 @@ uui	source\cookiedg.src	0	pushbutton	DLG_COOKIES	BTN_COOKIES_OK			50	ja	受け�
 uui	source\cookiedg.src	0	pushbutton	DLG_COOKIES	BTN_COOKIES_OK			50	ka	~გაგზავნა				2002-02-02 02:02:02
 uui	source\cookiedg.src	0	pushbutton	DLG_COOKIES	BTN_COOKIES_OK			50	km	ផ្ញើ 				2002-02-02 02:02:02
 uui	source\cookiedg.src	0	pushbutton	DLG_COOKIES	BTN_COOKIES_OK			50	ko	전송(~S)				2002-02-02 02:02:02
+uui	source\cookiedg.src	0	pushbutton	DLG_COOKIES	BTN_COOKIES_OK			50	ku	~Bişîne				2002-02-02 02:02:02
 uui	source\cookiedg.src	0	pushbutton	DLG_COOKIES	BTN_COOKIES_OK			50	lt	~Siųsti				2002-02-02 02:02:02
 uui	source\cookiedg.src	0	pushbutton	DLG_COOKIES	BTN_COOKIES_OK			50	mk	~Испрати				2002-02-02 02:02:02
 uui	source\cookiedg.src	0	pushbutton	DLG_COOKIES	BTN_COOKIES_OK			50	ml-IN	അയ്ക്കുക				2002-02-02 02:02:02
@@ -445,6 +446,7 @@ uui	source\cookiedg.src	0	radiobutton	DLG_COOKIES	RB_INFUTURE_SEND			52	ja	受�
 uui	source\cookiedg.src	0	radiobutton	DLG_COOKIES	RB_INFUTURE_SEND			52	ka	~გაგზავნა				2002-02-02 02:02:02
 uui	source\cookiedg.src	0	radiobutton	DLG_COOKIES	RB_INFUTURE_SEND			52	km	ផ្ញើ 				2002-02-02 02:02:02
 uui	source\cookiedg.src	0	radiobutton	DLG_COOKIES	RB_INFUTURE_SEND			52	ko	전송(~S)				2002-02-02 02:02:02
+uui	source\cookiedg.src	0	radiobutton	DLG_COOKIES	RB_INFUTURE_SEND			52	ku	~Bişîne				2002-02-02 02:02:02
 uui	source\cookiedg.src	0	radiobutton	DLG_COOKIES	RB_INFUTURE_SEND			52	lt	~Siųsti				2002-02-02 02:02:02
 uui	source\cookiedg.src	0	radiobutton	DLG_COOKIES	RB_INFUTURE_SEND			52	mk	~Испрати				2002-02-02 02:02:02
 uui	source\cookiedg.src	0	radiobutton	DLG_COOKIES	RB_INFUTURE_SEND			52	ml-IN	അയ്ക്കുക				2002-02-02 02:02:02
@@ -516,6 +518,7 @@ uui	source\cookiedg.src	0	string	STR_COOKIES_RECV_COOKIES				0	ja	ドメイン: 
 uui	source\cookiedg.src	0	string	STR_COOKIES_RECV_COOKIES				0	ka	დომენი: ${DOMAIN}, გეზი: ${PATH}, ქუქი: ${COOKIE}.\n				2002-02-02 02:02:02
 uui	source\cookiedg.src	0	string	STR_COOKIES_RECV_COOKIES				0	km	ដែន ៖ ${DOMAIN} ផ្លូវ ៖ ${PATH} ខូគី ៖ ${COOKIE} ។​\n				2002-02-02 02:02:02
 uui	source\cookiedg.src	0	string	STR_COOKIES_RECV_COOKIES				0	ko	도메인: ${DOMAIN}, 경로: ${PATH}, 쿠키 : ${COOKIE}.\n				2002-02-02 02:02:02
+uui	source\cookiedg.src	0	string	STR_COOKIES_RECV_COOKIES				295	ku	Qad: ${DOMAIN}, Kurterê: ${PATH}, Çerez: ${COOKIE}.\n				2002-02-02 02:02:02
 uui	source\cookiedg.src	0	string	STR_COOKIES_RECV_COOKIES				0	lt	Sritis : ${DOMAIN}, adresas: ${PATH}, slapukas: ${COOKIE}.\n				2002-02-02 02:02:02
 uui	source\cookiedg.src	0	string	STR_COOKIES_RECV_COOKIES				0	mk	Домен: ${DOMAIN}, патека: ${PATH}, колаче: ${COOKIE}.\n				2002-02-02 02:02:02
 uui	source\cookiedg.src	0	string	STR_COOKIES_RECV_COOKIES				0	ml-IN	ഡോമെയിന് : ${DOMAIN}, മാര്ഗ്ഗം: ${PATH}, കുക്കി: ${COOKIE}.\n				2002-02-02 02:02:02
@@ -731,6 +734,7 @@ uui	source\cookiedg.src	0	string	STR_COOKIES_SEND_COOKIES				0	ja	ドメイン: 
 uui	source\cookiedg.src	0	string	STR_COOKIES_SEND_COOKIES				0	ka	_: cookiedg.src#STR_COOKIES_SEND_COOKIES.string.text\nდომენი: ${DOMAIN},გეზი: ${PATH}, ქუქი: ${COOKIE}.\n				2002-02-02 02:02:02
 uui	source\cookiedg.src	0	string	STR_COOKIES_SEND_COOKIES				0	km	ដែន ៖ ${DOMAIN} ផ្លូវ ៖ ${PATH} ខូគី ៖ ${COOKIE} ។​\n				2002-02-02 02:02:02
 uui	source\cookiedg.src	0	string	STR_COOKIES_SEND_COOKIES				0	ko	도메인: ${DOMAIN}, 경로: ${PATH}, 쿠키: ${COOKIE}.\n				2002-02-02 02:02:02
+uui	source\cookiedg.src	0	string	STR_COOKIES_SEND_COOKIES				295	ku	Qad: ${DOMAIN}, Kurterê: ${PATH}, Çerez: ${COOKIE}.\n				2002-02-02 02:02:02
 uui	source\cookiedg.src	0	string	STR_COOKIES_SEND_COOKIES				0	lt	Sritis : ${DOMAIN}, adresas: ${PATH}, slapukas: ${COOKIE}.\n				2002-02-02 02:02:02
 uui	source\cookiedg.src	0	string	STR_COOKIES_SEND_COOKIES				0	mk	Домен: ${DOMAIN}, патека: ${PATH}, колаче: ${COOKIE}.\n				2002-02-02 02:02:02
 uui	source\cookiedg.src	0	string	STR_COOKIES_SEND_COOKIES				0	ml-IN	ഡോമെയിന് : ${DOMAIN}, മാര്ഗ്ഗം: ${PATH}, കുക്കി: ${COOKIE}.\n				2002-02-02 02:02:02
@@ -6032,6 +6036,7 @@ uui	source\masterpasscrtdlg.src	0	fixedtext	DLG_UUI_MASTERPASSWORD_CRT	FT_MASTER
 uui	source\masterpasscrtdlg.src	0	fixedtext	DLG_UUI_MASTERPASSWORD_CRT	FT_MASTERPASSWORD_CRT			71	ka	მთავარი პაროლი 				2002-02-02 02:02:02
 uui	source\masterpasscrtdlg.src	0	fixedtext	DLG_UUI_MASTERPASSWORD_CRT	FT_MASTERPASSWORD_CRT			71	km	ពាក្យ​​សម្ងាត់​មេ				2002-02-02 02:02:02
 uui	source\masterpasscrtdlg.src	0	fixedtext	DLG_UUI_MASTERPASSWORD_CRT	FT_MASTERPASSWORD_CRT			71	ko	마스터 암호				2002-02-02 02:02:02
+uui	source\masterpasscrtdlg.src	0	fixedtext	DLG_UUI_MASTERPASSWORD_CRT	FT_MASTERPASSWORD_CRT			71	ku	Makeşîfre				2002-02-02 02:02:02
 uui	source\masterpasscrtdlg.src	0	fixedtext	DLG_UUI_MASTERPASSWORD_CRT	FT_MASTERPASSWORD_CRT			71	lt	Pagrindinis slaptažodis				2002-02-02 02:02:02
 uui	source\masterpasscrtdlg.src	0	fixedtext	DLG_UUI_MASTERPASSWORD_CRT	FT_MASTERPASSWORD_CRT			71	mk	Главна лозинка				2002-02-02 02:02:02
 uui	source\masterpasscrtdlg.src	0	fixedtext	DLG_UUI_MASTERPASSWORD_CRT	FT_MASTERPASSWORD_CRT			71	ml-IN	മുഖ്യ സങ്കേതപദം				2002-02-02 02:02:02
@@ -6177,6 +6182,7 @@ uui	source\masterpasscrtdlg.src	0	modaldialog	DLG_UUI_MASTERPASSWORD_CRT		HID_DL
 uui	source\masterpasscrtdlg.src	0	modaldialog	DLG_UUI_MASTERPASSWORD_CRT		HID_DLG_MASTERPASSWORD_CRT		265	ka	მთავარი პაროლის შეყვანა				2002-02-02 02:02:02
 uui	source\masterpasscrtdlg.src	0	modaldialog	DLG_UUI_MASTERPASSWORD_CRT		HID_DLG_MASTERPASSWORD_CRT		265	km	បញ្ចូល​​ពាក្យ​​​សម្ងាត់​​​មេ 				2002-02-02 02:02:02
 uui	source\masterpasscrtdlg.src	0	modaldialog	DLG_UUI_MASTERPASSWORD_CRT		HID_DLG_MASTERPASSWORD_CRT		265	ko	마스터 암호 입력				2002-02-02 02:02:02
+uui	source\masterpasscrtdlg.src	0	modaldialog	DLG_UUI_MASTERPASSWORD_CRT		HID_DLG_MASTERPASSWORD_CRT		265	ku	Makeşîfreyê Têkevê				2002-02-02 02:02:02
 uui	source\masterpasscrtdlg.src	0	modaldialog	DLG_UUI_MASTERPASSWORD_CRT		HID_DLG_MASTERPASSWORD_CRT		265	lt	Įveskite pagrindinį slaptažodį				2002-02-02 02:02:02
 uui	source\masterpasscrtdlg.src	0	modaldialog	DLG_UUI_MASTERPASSWORD_CRT		HID_DLG_MASTERPASSWORD_CRT		265	mk	Внесување главна лозинка				2002-02-02 02:02:02
 uui	source\masterpasscrtdlg.src	0	modaldialog	DLG_UUI_MASTERPASSWORD_CRT		HID_DLG_MASTERPASSWORD_CRT		265	ml-IN	മുഖ്യ സങ്കേതപദം പ്രവേശിപ്പിക്കുക				2002-02-02 02:02:02
@@ -6247,6 +6253,7 @@ uui	source\masterpassworddlg.src	0	fixedtext	DLG_UUI_MASTERPASSWORD	FT_MASTERPAS
 uui	source\masterpassworddlg.src	0	fixedtext	DLG_UUI_MASTERPASSWORD	FT_MASTERPASSWORD			71	ka	მთავარი პაროლი				2002-02-02 02:02:02
 uui	source\masterpassworddlg.src	0	fixedtext	DLG_UUI_MASTERPASSWORD	FT_MASTERPASSWORD			71	km	ពាក្យ​​សម្ងាត់​មេ				2002-02-02 02:02:02
 uui	source\masterpassworddlg.src	0	fixedtext	DLG_UUI_MASTERPASSWORD	FT_MASTERPASSWORD			71	ko	마스터 암호				2002-02-02 02:02:02
+uui	source\masterpassworddlg.src	0	fixedtext	DLG_UUI_MASTERPASSWORD	FT_MASTERPASSWORD			71	ku	Makeşîfre				2002-02-02 02:02:02
 uui	source\masterpassworddlg.src	0	fixedtext	DLG_UUI_MASTERPASSWORD	FT_MASTERPASSWORD			71	lt	Pagrindinis slaptažodis				2002-02-02 02:02:02
 uui	source\masterpassworddlg.src	0	fixedtext	DLG_UUI_MASTERPASSWORD	FT_MASTERPASSWORD			71	mk	Главна лозинка				2002-02-02 02:02:02
 uui	source\masterpassworddlg.src	0	fixedtext	DLG_UUI_MASTERPASSWORD	FT_MASTERPASSWORD			71	ml-IN	മുഖ്യ സങ്കേതപദം				2002-02-02 02:02:02
@@ -6318,6 +6325,7 @@ uui	source\masterpassworddlg.src	0	modaldialog	DLG_UUI_MASTERPASSWORD		HID_DLG_M
 uui	source\masterpassworddlg.src	0	modaldialog	DLG_UUI_MASTERPASSWORD		HID_DLG_MASTERPASSWORD_UUI		265	ka	მთავარი პაროლის შეყვანა				2002-02-02 02:02:02
 uui	source\masterpassworddlg.src	0	modaldialog	DLG_UUI_MASTERPASSWORD		HID_DLG_MASTERPASSWORD_UUI		265	km	បញ្ចូល​​ពាក្យ​​​សម្ងាត់​​​មេ 				2002-02-02 02:02:02
 uui	source\masterpassworddlg.src	0	modaldialog	DLG_UUI_MASTERPASSWORD		HID_DLG_MASTERPASSWORD_UUI		265	ko	마스터 암호 입력				2002-02-02 02:02:02
+uui	source\masterpassworddlg.src	0	modaldialog	DLG_UUI_MASTERPASSWORD		HID_DLG_MASTERPASSWORD_UUI		265	ku	Makeşîfreyê Têkevê				2002-02-02 02:02:02
 uui	source\masterpassworddlg.src	0	modaldialog	DLG_UUI_MASTERPASSWORD		HID_DLG_MASTERPASSWORD_UUI		265	lt	Įveskite pagrindinį slaptažodį				2002-02-02 02:02:02
 uui	source\masterpassworddlg.src	0	modaldialog	DLG_UUI_MASTERPASSWORD		HID_DLG_MASTERPASSWORD_UUI		265	mk	Внесување главна лозинка				2002-02-02 02:02:02
 uui	source\masterpassworddlg.src	0	modaldialog	DLG_UUI_MASTERPASSWORD		HID_DLG_MASTERPASSWORD_UUI		265	ml-IN	മുഖ്യ സങ്കേതപദം പ്രവേശിപ്പിക്കുക				2002-02-02 02:02:02
@@ -6540,6 +6548,7 @@ uui	source\passcrtdlg.src	0	modaldialog	DLG_UUI_PASSWORD_CRT		HID_DLG_PASSWORD_C
 uui	source\passcrtdlg.src	0	modaldialog	DLG_UUI_PASSWORD_CRT		HID_DLG_PASSWORD_CRT		165	ka	პაროლი				2002-02-02 02:02:02
 uui	source\passcrtdlg.src	0	modaldialog	DLG_UUI_PASSWORD_CRT		HID_DLG_PASSWORD_CRT		165	km	ពាក្យ​​សម្ងាត់				2002-02-02 02:02:02
 uui	source\passcrtdlg.src	0	modaldialog	DLG_UUI_PASSWORD_CRT		HID_DLG_PASSWORD_CRT		165	ko	암호				2002-02-02 02:02:02
+uui	source\passcrtdlg.src	0	modaldialog	DLG_UUI_PASSWORD_CRT		HID_DLG_PASSWORD_CRT		165	ku	Şîfre				2002-02-02 02:02:02
 uui	source\passcrtdlg.src	0	modaldialog	DLG_UUI_PASSWORD_CRT		HID_DLG_PASSWORD_CRT		165	lt	Slaptažodis				2002-02-02 02:02:02
 uui	source\passcrtdlg.src	0	modaldialog	DLG_UUI_PASSWORD_CRT		HID_DLG_PASSWORD_CRT		165	mk	Лозинка				2002-02-02 02:02:02
 uui	source\passcrtdlg.src	0	modaldialog	DLG_UUI_PASSWORD_CRT		HID_DLG_PASSWORD_CRT		165	ml-IN	സങ്കേതപദം				2002-02-02 02:02:02
@@ -6688,6 +6697,7 @@ uui	source\passworddlg.src	0	modaldialog	DLG_UUI_PASSWORD		HID_DLG_PASSWORD_UUI	
 uui	source\passworddlg.src	0	modaldialog	DLG_UUI_PASSWORD		HID_DLG_PASSWORD_UUI		165	ka	პაროლი				2002-02-02 02:02:02
 uui	source\passworddlg.src	0	modaldialog	DLG_UUI_PASSWORD		HID_DLG_PASSWORD_UUI		165	km	ពាក្យ​​សម្ងាត់				2002-02-02 02:02:02
 uui	source\passworddlg.src	0	modaldialog	DLG_UUI_PASSWORD		HID_DLG_PASSWORD_UUI		165	ko	암호				2002-02-02 02:02:02
+uui	source\passworddlg.src	0	modaldialog	DLG_UUI_PASSWORD		HID_DLG_PASSWORD_UUI		165	ku	Şîfre				2002-02-02 02:02:02
 uui	source\passworddlg.src	0	modaldialog	DLG_UUI_PASSWORD		HID_DLG_PASSWORD_UUI		165	lt	Slaptažodis				2002-02-02 02:02:02
 uui	source\passworddlg.src	0	modaldialog	DLG_UUI_PASSWORD		HID_DLG_PASSWORD_UUI		165	mk	Лозинка				2002-02-02 02:02:02
 uui	source\passworddlg.src	0	modaldialog	DLG_UUI_PASSWORD		HID_DLG_PASSWORD_UUI		165	ml-IN	സങ്കേതപദം				2002-02-02 02:02:02
