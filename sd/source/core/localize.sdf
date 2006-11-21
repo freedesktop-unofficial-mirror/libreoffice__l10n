@@ -13,9 +13,9 @@
 #
 #   $RCSfile: localize.sdf,v $
 #
-#   $Revision: 1.26 $
+#   $Revision: 1.27 $
 #
-#   last change: $Author: ihi $ $Date: 2006-11-13 17:32:15 $
+#   last change: $Author: vg $ $Date: 2006-11-21 16:34:54 $
 #
 #   The Contents of this file are made available subject to
 #   the terms of GNU Lesser General Public License Version 2.1.
@@ -1029,7 +1029,7 @@ sd	source\core\glob.src	0	string	STR_LAYER_BCKGRND				0	ns	Bo ka morago				2002-
 sd	source\core\glob.src	0	string	STR_LAYER_BCKGRND				0	or-IN	ପୃଷ୍ଠଭାଗ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_BCKGRND				0	pa-IN	ਪਿੱਠਭੂਮੀ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_BCKGRND				0	pl	Tło				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_LAYER_BCKGRND				0	pt	Segundo plano				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_LAYER_BCKGRND				0	pt	Fundo				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_BCKGRND				0	pt-BR	Plano de fundo				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_BCKGRND				0	ru	Фон				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_BCKGRND				0	rw	Mbuganyuma				2002-02-02 02:02:02
@@ -1102,7 +1102,7 @@ sd	source\core\glob.src	0	string	STR_LAYER_BCKGRNDOBJ				0	ns	Didirišwa tše bo
 sd	source\core\glob.src	0	string	STR_LAYER_BCKGRNDOBJ				0	or-IN	ପୃଷ୍ଠଭାଗ ବସ୍ତୁଗୁଡିକ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_BCKGRNDOBJ				0	pa-IN	ਪਿੱਠਭੂਮੀ ਇਕਾਈਆਂ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_BCKGRNDOBJ				0	pl	Obiekty tła				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_LAYER_BCKGRNDOBJ				0	pt	Objectos de segundo plano				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_LAYER_BCKGRNDOBJ				0	pt	Objectos de fundo				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_BCKGRNDOBJ				0	pt-BR	Objetos de plano de fundo				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_BCKGRNDOBJ				0	ru	Объекты фона				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_BCKGRNDOBJ				0	rw	Ibikoresho mbuganyuma				2002-02-02 02:02:02
@@ -1386,7 +1386,7 @@ sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_NAME				0	ja	標準				2002-
 sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_NAME				0	ka	საწყისი				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_NAME				0	km	លំនាំ​ដើម				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_NAME				0	ko	기본값				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_NAME				0	ku	Heyî				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_NAME				0	ku	Standard				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_NAME				0	lt	Numatyta				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_NAME				0	mk	Стандардно				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_NAME				0	ml-IN	സംസ്ഥാപിതം				2002-02-02 02:02:02
@@ -1459,6 +1459,7 @@ sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_TITLE_NAME				0	ja	タイト
 sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_TITLE_NAME				0	ka	სათაური				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_TITLE_NAME				0	km	ចំណង​ជើង				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_TITLE_NAME				0	ko	제목				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_TITLE_NAME				0	ku	Sernav				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_TITLE_NAME				0	lt	Antraštė				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_TITLE_NAME				0	mk	Наслов				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_TITLE_NAME				0	nb	Overskrift				2002-02-02 02:02:02
@@ -1618,7 +1619,7 @@ sd	source\core\glob.src	0	string	STR_MASTERPAGE				0	ns	Bo ka morago				2002-02-
 sd	source\core\glob.src	0	string	STR_MASTERPAGE				0	or-IN	ପୃଷ୍ଠଭାଗ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_MASTERPAGE				0	pa-IN	ਪਿੱਠਭੂਮੀ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_MASTERPAGE				0	pl	Tło				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_MASTERPAGE				0	pt	Segundo plano				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_MASTERPAGE				0	pt	Fundo				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_MASTERPAGE				0	pt-BR	Plano de fundo				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_MASTERPAGE				0	ru	Фон				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_MASTERPAGE				0	rw	Mbuganyuma				2002-02-02 02:02:02
@@ -1973,6 +1974,7 @@ sd	source\core\glob.src	0	string	STR_PAGE				0	ja	ページ				2002-02-02 02:02:
 sd	source\core\glob.src	0	string	STR_PAGE				0	ka	სლაიდი				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PAGE				0	km	ស្លាយ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PAGE				0	ko	슬라이드				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PAGE				0	ku	Slayt				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PAGE				0	lt	Lapas				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PAGE				0	mk	Страница				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PAGE				0	nb	Lysbilde				2002-02-02 02:02:02
@@ -2008,7 +2010,7 @@ sd	source\core\glob.src	0	string	STR_PAGE				0	ts	Slayidi				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PAGE				0	uk	Слайд				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PAGE				0	ur-IN	سلائڈ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PAGE				0	ve	Siḽaidi				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PAGE				0	vi	Ảnh chiều				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PAGE				0	vi	Ảnh chiếu				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PAGE				0	xh	Islayidi				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PAGE				0	zh-CN	页				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PAGE				0	zh-TW	頁				2002-02-02 02:02:02
@@ -3740,7 +3742,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLINE				0	ts	Klika leswaku u c
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLINE				0	uk	Клацніть щоб правити формат контуру текста				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLINE				0	ur-IN	آوٹ لائن متن فارمیٹ ميں  مرتب كرنے كے لئےكلك كرو				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLINE				0	ve	Kiḽikani u itela u lulamisa mbonalo fomathi ya ḽiṅwalwa				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLINE				0	vi	Nhấn để chỉnh sửa định dạng đoạn chữ phác thảo				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLINE				0	vi	Nhấn để chỉnh sửa định dạng văn bản phác thảo				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLINE				0	xh	Nqomfa ukuze uhlele ulungiselelo lokugqabaza kwesiqendu				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLINE				0	zh-CN	请您按击鼠标，编辑大纲正文格式。				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLINE				0	zh-TW	請按鼠標，編輯大綱文字格式。				2002-02-02 02:02:02
@@ -4865,7 +4867,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_TEXT				0	ts	Klika leswaku u engete
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TEXT				0	uk	Клацніть щоб додати текст				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TEXT				0	ur-IN	متن کوملانے كے لئے کلک				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TEXT				0	ve	Kiḽikani u engedza ḽiṅwalwa				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PRESOBJ_TEXT				0	vi	Nhấn để thêm đoạn chữ				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_TEXT				0	vi	Nhấn để thêm văn bản				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TEXT				0	xh	Nqomfa ukuze ufakele isiqendu				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TEXT				0	zh-CN	单击鼠标键添加文字				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TEXT				0	zh-TW	按滑鼠左鍵，輸入文字				2002-02-02 02:02:02
@@ -5140,7 +5142,7 @@ sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUND				0	ns	Bo ka morago
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUND				0	or-IN	ପୃଷ୍ଠଭାଗ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUND				0	pa-IN	ਪਿੱਠਭੂਮੀ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUND				0	pl	Tło				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUND				0	pt	Segundo plano				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUND				0	pt	Fundo				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUND				0	pt-BR	Plano de fundo				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUND				0	ru	Фон				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUND				0	rw	Mbuganyuma				2002-02-02 02:02:02
@@ -5213,7 +5215,7 @@ sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUNDOBJECTS				0	ns	Didir
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUNDOBJECTS				0	or-IN	ପୃଷ୍ଠଭାଗ ବସ୍ତୁଗୁଡିକ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUNDOBJECTS				0	pa-IN	ਪਿੱਠਭੂਮੀ ਇਕਾਈਆਂ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUNDOBJECTS				0	pl	Obiekty tła				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUNDOBJECTS				0	pt	Objectos de segundo plano				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUNDOBJECTS				0	pt	Objectos de fundo				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUNDOBJECTS				0	pt-BR	Objetos de plano de fundo				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUNDOBJECTS				0	ru	Объекты фона				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUNDOBJECTS				0	rw	Ibikoresho mbuganyuma				2002-02-02 02:02:02
@@ -5719,6 +5721,7 @@ sd	source\core\glob.src	0	string	STR_SLIDE_NAME				0	ja	スライド				2002-02-
 sd	source\core\glob.src	0	string	STR_SLIDE_NAME				0	ka	სლაიდი				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SLIDE_NAME				0	km	ស្លាយ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SLIDE_NAME				0	ko	슬라이드				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_SLIDE_NAME				0	ku	Slayt				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SLIDE_NAME				0	lt	Skaidrė				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SLIDE_NAME				0	mk	Слајд				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SLIDE_NAME				0	nb	Lysbilde				2002-02-02 02:02:02
@@ -5754,7 +5757,7 @@ sd	source\core\glob.src	0	string	STR_SLIDE_NAME				0	ts	Slayidi				2002-02-02 02
 sd	source\core\glob.src	0	string	STR_SLIDE_NAME				0	uk	Слайд				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SLIDE_NAME				0	ur-IN	سلائڈ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SLIDE_NAME				0	ve	Siḽaidi				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_SLIDE_NAME				0	vi	Ảnh chiều				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_SLIDE_NAME				0	vi	Ảnh chiếu				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SLIDE_NAME				0	xh	Islayidi				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SLIDE_NAME				0	zh-CN	幻灯片				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SLIDE_NAME				0	zh-TW	投影片				2002-02-02 02:02:02
@@ -5790,7 +5793,7 @@ sd	source\core\glob.src	0	string	STR_STANDARD_STYLESHEET_NAME				0	ja	標準				
 sd	source\core\glob.src	0	string	STR_STANDARD_STYLESHEET_NAME				0	ka	საწყისი				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_STANDARD_STYLESHEET_NAME				0	km	លំនាំ​ដើម				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_STANDARD_STYLESHEET_NAME				0	ko	표준				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_STANDARD_STYLESHEET_NAME				0	ku	Heyî				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_STANDARD_STYLESHEET_NAME				0	ku	Standard				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_STANDARD_STYLESHEET_NAME				0	lt	Numatyta				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_STANDARD_STYLESHEET_NAME				0	mk	Стандардно				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_STANDARD_STYLESHEET_NAME				0	ml-IN	സംസ്ഥാപിതം				2002-02-02 02:02:02
