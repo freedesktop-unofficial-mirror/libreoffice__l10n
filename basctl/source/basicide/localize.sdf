@@ -13,9 +13,9 @@
 #
 #   $RCSfile: localize.sdf,v $
 #
-#   $Revision: 1.25 $
+#   $Revision: 1.26 $
 #
-#   last change: $Author: ihi $ $Date: 2006-11-13 18:38:26 $
+#   last change: $Author: vg $ $Date: 2006-11-21 16:55:08 $
 #
 #   The Contents of this file are made available subject to
 #   the terms of GNU Lesser General Public License Version 2.1.
@@ -145,7 +145,7 @@ basctl	source\basicide\basidesh.src	0	menu	RID_POPUP_BRKDLG				0	ja	ブレーク
 basctl	source\basicide\basidesh.src	0	menu	RID_POPUP_BRKDLG				0	ka	წყვეტის წერტილების მართვა				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menu	RID_POPUP_BRKDLG				0	km	គ្រប់​​គ្រង​​ចំណុច​​ឈប់				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menu	RID_POPUP_BRKDLG				0	ko	중단점 관리				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	menu	RID_POPUP_BRKDLG				0	ku	Rêvebirîya Niqteyên Birrîne				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	menu	RID_POPUP_BRKDLG				80	ku	Xalên Hevbirînê Rê Ve Bibe				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menu	RID_POPUP_BRKDLG				0	lt	Tvarkyti stabdos taškus				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menu	RID_POPUP_BRKDLG				0	mk	Менаџирање точки на прекин				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menu	RID_POPUP_BRKDLG				0	nb	Håndtere bruddpunkter				2002-02-02 02:02:02
@@ -216,7 +216,7 @@ basctl	source\basicide\basidesh.src	0	menu	RID_POPUP_BRKPROPS				0	ja	プロパ�
 basctl	source\basicide\basidesh.src	0	menu	RID_POPUP_BRKPROPS				0	ka	თვისებები				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menu	RID_POPUP_BRKPROPS				0	km	លក្ខណៈ​សម្បត្តិ​​				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menu	RID_POPUP_BRKPROPS				0	ko	등록 정보				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	menu	RID_POPUP_BRKPROPS				0	ku	Taybetî				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	menu	RID_POPUP_BRKPROPS				80	ku	Taybetmendî				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menu	RID_POPUP_BRKPROPS				0	lt	Savybės				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menu	RID_POPUP_BRKPROPS				0	mk	Својства				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menu	RID_POPUP_BRKPROPS				0	ml-IN	സവിശേഷതകള്				2002-02-02 02:02:02
@@ -660,7 +660,7 @@ basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_BRKPROPS	RID_ACTIV	HID_
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_BRKPROPS	RID_ACTIV	HID_BASICIDE_ACTIV		0	ka	აქტიური				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_BRKPROPS	RID_ACTIV	HID_BASICIDE_ACTIV		0	km	សកម្ម				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_BRKPROPS	RID_ACTIV	HID_BASICIDE_ACTIV		0	ko	활성				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_BRKPROPS	RID_ACTIV	HID_BASICIDE_ACTIV		0	ku	Çalak				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_BRKPROPS	RID_ACTIV	HID_BASICIDE_ACTIV		1	ku	Çalak				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_BRKPROPS	RID_ACTIV	HID_BASICIDE_ACTIV		0	lt	Aktyvusis				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_BRKPROPS	RID_ACTIV	HID_BASICIDE_ACTIV		0	mk	Активно				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_BRKPROPS	RID_ACTIV	HID_BASICIDE_ACTIV		0	ml-IN	പ്രവര്ത്തനസജ്ജം				2002-02-02 02:02:02
@@ -733,7 +733,7 @@ basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_BRKPROPS	RID_BRKPROPS	H
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_BRKPROPS	RID_BRKPROPS	HID_BASICIDE_BRKPROPS		0	ka	თვისებები...				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_BRKPROPS	RID_BRKPROPS	HID_BASICIDE_BRKPROPS		0	km	លក្ខណៈ​​សម្បត្តិ​...				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_BRKPROPS	RID_BRKPROPS	HID_BASICIDE_BRKPROPS		0	ko	등록 정보...				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_BRKPROPS	RID_BRKPROPS	HID_BASICIDE_BRKPROPS		0	ku	Taybetî...				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_BRKPROPS	RID_BRKPROPS	HID_BASICIDE_BRKPROPS		1	ku	Taybetmendî...				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_BRKPROPS	RID_BRKPROPS	HID_BASICIDE_BRKPROPS		0	lt	Savybės...				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_BRKPROPS	RID_BRKPROPS	HID_BASICIDE_BRKPROPS		0	mk	Својства...				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_BRKPROPS	RID_BRKPROPS	HID_BASICIDE_BRKPROPS		0	ml-IN	സവിശേഷതകള്...				2002-02-02 02:02:02
@@ -806,7 +806,7 @@ basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_DLGED	SID_SHOW_PROPERTY
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_DLGED	SID_SHOW_PROPERTYBROWSER	SID_SHOW_PROPERTYBROWSER		0	ka	თვისებები...				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_DLGED	SID_SHOW_PROPERTYBROWSER	SID_SHOW_PROPERTYBROWSER		0	km	លក្ខណៈ​​សម្បត្តិ​...				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_DLGED	SID_SHOW_PROPERTYBROWSER	SID_SHOW_PROPERTYBROWSER		0	ko	등록 정보...				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_DLGED	SID_SHOW_PROPERTYBROWSER	SID_SHOW_PROPERTYBROWSER		0	ku	Taybetî...				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_DLGED	SID_SHOW_PROPERTYBROWSER	SID_SHOW_PROPERTYBROWSER		1	ku	Taybetmendî...				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_DLGED	SID_SHOW_PROPERTYBROWSER	SID_SHOW_PROPERTYBROWSER		0	lt	Savybės...				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_DLGED	SID_SHOW_PROPERTYBROWSER	SID_SHOW_PROPERTYBROWSER		0	mk	Својства...				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_DLGED	SID_SHOW_PROPERTYBROWSER	SID_SHOW_PROPERTYBROWSER		0	ml-IN	സവിശേഷതകള്...				2002-02-02 02:02:02
@@ -954,7 +954,7 @@ basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_DEL
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_DELETECURRENT	SID_BASICIDE_DELETECURRENT		0	ka	წაშლა				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_DELETECURRENT	SID_BASICIDE_DELETECURRENT		0	km	លុប​				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_DELETECURRENT	SID_BASICIDE_DELETECURRENT		0	ko	삭제				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_DELETECURRENT	SID_BASICIDE_DELETECURRENT		0	ku	Jê bibe				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_DELETECURRENT	SID_BASICIDE_DELETECURRENT		1	ku	Jê bibe				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_DELETECURRENT	SID_BASICIDE_DELETECURRENT		0	lt	Šalinti				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_DELETECURRENT	SID_BASICIDE_DELETECURRENT		0	mk	Избриши				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_DELETECURRENT	SID_BASICIDE_DELETECURRENT		0	ml-IN	നീക്കം ചെയ്യുക				2002-02-02 02:02:02
@@ -6019,7 +6019,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_STDDIALOGNAME				0	ja	ダ�
 basctl	source\basicide\basidesh.src	0	string	RID_STR_STDDIALOGNAME				0	ka	_: basidesh.src#RID_STR_STDDIALOGNAME.string.text\nდიალოგი				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_STDDIALOGNAME				0	km	ប្រអប់​				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_STDDIALOGNAME				0	ko	대화상자				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_STDDIALOGNAME				0	ku	Pace				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_STDDIALOGNAME				1	ku	Pace				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_STDDIALOGNAME				0	lt	Dialogo langas				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_STDDIALOGNAME				0	mk	Дијалог				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_STDDIALOGNAME				0	ml-IN	സംഭാഷണം				2002-02-02 02:02:02
@@ -7587,7 +7587,7 @@ basctl	source\basicide\brkdlg.src	0	modaldialog	RID_BASICIDE_BREAKPOINTDLG				17
 basctl	source\basicide\brkdlg.src	0	modaldialog	RID_BASICIDE_BREAKPOINTDLG				178	ka	წყვეტის წერტილების მართვა				2002-02-02 02:02:02
 basctl	source\basicide\brkdlg.src	0	modaldialog	RID_BASICIDE_BREAKPOINTDLG				178	km	គ្រប់​​គ្រង​​ចំណុច​​ឈប់				2002-02-02 02:02:02
 basctl	source\basicide\brkdlg.src	0	modaldialog	RID_BASICIDE_BREAKPOINTDLG				178	ko	중단점 관리				2002-02-02 02:02:02
-basctl	source\basicide\brkdlg.src	0	modaldialog	RID_BASICIDE_BREAKPOINTDLG				178	ku	Niqteyên Birrînê Rêvebibe				2002-02-02 02:02:02
+basctl	source\basicide\brkdlg.src	0	modaldialog	RID_BASICIDE_BREAKPOINTDLG				178	ku	Xalên Hevbirînê Rê Ve Bibe				2002-02-02 02:02:02
 basctl	source\basicide\brkdlg.src	0	modaldialog	RID_BASICIDE_BREAKPOINTDLG				178	lt	Tvarkyti stabdos taškus				2002-02-02 02:02:02
 basctl	source\basicide\brkdlg.src	0	modaldialog	RID_BASICIDE_BREAKPOINTDLG				178	mk	Менаџирање точки на прекин				2002-02-02 02:02:02
 basctl	source\basicide\brkdlg.src	0	modaldialog	RID_BASICIDE_BREAKPOINTDLG				178	nb	Håndtere bruddpunkter				2002-02-02 02:02:02
@@ -7808,7 +7808,7 @@ basctl	source\basicide\macrodlg.src	0	cancelbutton	RID_MACROCHOOSER	RID_PB_CLOSE
 basctl	source\basicide\macrodlg.src	0	cancelbutton	RID_MACROCHOOSER	RID_PB_CLOSE			50	ka	დახურვა				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	cancelbutton	RID_MACROCHOOSER	RID_PB_CLOSE			50	km	បិទ​				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	cancelbutton	RID_MACROCHOOSER	RID_PB_CLOSE			50	ko	닫기				2002-02-02 02:02:02
-basctl	source\basicide\macrodlg.src	0	cancelbutton	RID_MACROCHOOSER	RID_PB_CLOSE			50	ku	Bigre				2002-02-02 02:02:02
+basctl	source\basicide\macrodlg.src	0	cancelbutton	RID_MACROCHOOSER	RID_PB_CLOSE			50	ku	Bigire				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	cancelbutton	RID_MACROCHOOSER	RID_PB_CLOSE			50	lt	Užverti				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	cancelbutton	RID_MACROCHOOSER	RID_PB_CLOSE			50	mk	Затвори				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	cancelbutton	RID_MACROCHOOSER	RID_PB_CLOSE			50	mr-IN	बंद करा				2002-02-02 02:02:02
@@ -8114,7 +8114,7 @@ basctl	source\basicide\macrodlg.src	0	fixedtext	RID_MACROCHOOSER	RID_TXT_MACROSI
 basctl	source\basicide\macrodlg.src	0	fixedtext	RID_MACROCHOOSER	RID_TXT_MACROSIN			100	or-IN	ରହିଥିବା ମାକ୍ରୋସ ଇନ:				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	fixedtext	RID_MACROCHOOSER	RID_TXT_MACROSIN			100	pa-IN	ਮੌਜੂਦ ਮਾਇਕਰੋ(~i):				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	fixedtext	RID_MACROCHOOSER	RID_TXT_MACROSIN			100	pl	~Istniejące makra w:				2002-02-02 02:02:02
-basctl	source\basicide\macrodlg.src	0	fixedtext	RID_MACROCHOOSER	RID_TXT_MACROSIN			100	pt	Macros existentes e~m:				2002-02-02 02:02:02
+basctl	source\basicide\macrodlg.src	0	fixedtext	RID_MACROCHOOSER	RID_TXT_MACROSIN			100	pt	Macros e~xistentes em:				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	fixedtext	RID_MACROCHOOSER	RID_TXT_MACROSIN			100	pt-BR	Macros ex~istentes em 				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	fixedtext	RID_MACROCHOOSER	RID_TXT_MACROSIN			100	ru	Существующие макросы:				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	fixedtext	RID_MACROCHOOSER	RID_TXT_MACROSIN			100	rw	Makoro zisanzwemo:				2002-02-02 02:02:02
@@ -8465,7 +8465,7 @@ basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_EDIT			
 basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_EDIT			50	ka	~რედაქტირება				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_EDIT			50	km	កែ​សម្រួល​ 				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_EDIT			50	ko	편집(~E)				2002-02-02 02:02:02
-basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_EDIT			50	ku	~Serrast bike				2002-02-02 02:02:02
+basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_EDIT			50	ku	~Serrrast bike				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_EDIT			50	lt	~Taisyti				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_EDIT			50	mk	~Уреди				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_EDIT			50	nb	~Rediger				2002-02-02 02:02:02
@@ -9052,7 +9052,7 @@ basctl	source\basicide\macrodlg.src	0	string	RID_STR_CLOSE				0	ja	閉じる				
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_CLOSE				0	ka	დახურვა				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_CLOSE				0	km	បិទ​				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_CLOSE				0	ko	닫기				2002-02-02 02:02:02
-basctl	source\basicide\macrodlg.src	0	string	RID_STR_CLOSE				0	ku	Bigre				2002-02-02 02:02:02
+basctl	source\basicide\macrodlg.src	0	string	RID_STR_CLOSE				287	ku	Bigire				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_CLOSE				0	lt	Užverti				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_CLOSE				0	mk	Затвори				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_CLOSE				0	mr-IN	बंद करा				2002-02-02 02:02:02
@@ -9344,7 +9344,7 @@ basctl	source\basicide\moduldlg.src	0	cancelbutton	RID_TP_DLGS	RID_PB_CLOSE			60
 basctl	source\basicide\moduldlg.src	0	cancelbutton	RID_TP_DLGS	RID_PB_CLOSE			60	ka	დახურვა				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	cancelbutton	RID_TP_DLGS	RID_PB_CLOSE			60	km	បិទ​				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	cancelbutton	RID_TP_DLGS	RID_PB_CLOSE			60	ko	닫기				2002-02-02 02:02:02
-basctl	source\basicide\moduldlg.src	0	cancelbutton	RID_TP_DLGS	RID_PB_CLOSE			60	ku	Bigre				2002-02-02 02:02:02
+basctl	source\basicide\moduldlg.src	0	cancelbutton	RID_TP_DLGS	RID_PB_CLOSE			60	ku	Bigire				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	cancelbutton	RID_TP_DLGS	RID_PB_CLOSE			60	lt	Užverti				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	cancelbutton	RID_TP_DLGS	RID_PB_CLOSE			60	mk	Затвори				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	cancelbutton	RID_TP_DLGS	RID_PB_CLOSE			60	mr-IN	बंद करा				2002-02-02 02:02:02
@@ -9417,7 +9417,7 @@ basctl	source\basicide\moduldlg.src	0	cancelbutton	RID_TP_LIBS	RID_PB_CLOSE			60
 basctl	source\basicide\moduldlg.src	0	cancelbutton	RID_TP_LIBS	RID_PB_CLOSE			60	ka	დახურვა				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	cancelbutton	RID_TP_LIBS	RID_PB_CLOSE			60	km	បិទ​				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	cancelbutton	RID_TP_LIBS	RID_PB_CLOSE			60	ko	닫기				2002-02-02 02:02:02
-basctl	source\basicide\moduldlg.src	0	cancelbutton	RID_TP_LIBS	RID_PB_CLOSE			60	ku	Bigre				2002-02-02 02:02:02
+basctl	source\basicide\moduldlg.src	0	cancelbutton	RID_TP_LIBS	RID_PB_CLOSE			60	ku	Bigire				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	cancelbutton	RID_TP_LIBS	RID_PB_CLOSE			60	lt	Užverti				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	cancelbutton	RID_TP_LIBS	RID_PB_CLOSE			60	mk	Затвори				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	cancelbutton	RID_TP_LIBS	RID_PB_CLOSE			60	mr-IN	बंद करा				2002-02-02 02:02:02
@@ -9490,7 +9490,7 @@ basctl	source\basicide\moduldlg.src	0	cancelbutton	RID_TP_MODULS	RID_PB_CLOSE			
 basctl	source\basicide\moduldlg.src	0	cancelbutton	RID_TP_MODULS	RID_PB_CLOSE			60	ka	დახურვა				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	cancelbutton	RID_TP_MODULS	RID_PB_CLOSE			60	km	បិទ​				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	cancelbutton	RID_TP_MODULS	RID_PB_CLOSE			60	ko	닫기				2002-02-02 02:02:02
-basctl	source\basicide\moduldlg.src	0	cancelbutton	RID_TP_MODULS	RID_PB_CLOSE			60	ku	Bigre				2002-02-02 02:02:02
+basctl	source\basicide\moduldlg.src	0	cancelbutton	RID_TP_MODULS	RID_PB_CLOSE			60	ku	Bigire				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	cancelbutton	RID_TP_MODULS	RID_PB_CLOSE			60	lt	Užverti				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	cancelbutton	RID_TP_MODULS	RID_PB_CLOSE			60	mk	Затвори				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	cancelbutton	RID_TP_MODULS	RID_PB_CLOSE			60	mr-IN	बंद करा				2002-02-02 02:02:02
@@ -10295,7 +10295,7 @@ basctl	source\basicide\moduldlg.src	0	pageitem	RID_TD_ORGANIZE.RID_TC_ORGANIZE	R
 basctl	source\basicide\moduldlg.src	0	pageitem	RID_TD_ORGANIZE.RID_TC_ORGANIZE	RID_TP_LIB			0	ts	Tilayiburari				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pageitem	RID_TD_ORGANIZE.RID_TC_ORGANIZE	RID_TP_LIB			0	uk	Бібліотеки				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pageitem	RID_TD_ORGANIZE.RID_TC_ORGANIZE	RID_TP_LIB			0	ur-IN	کتب خانے				2002-02-02 02:02:02
-basctl	source\basicide\moduldlg.src	0	pageitem	RID_TD_ORGANIZE.RID_TC_ORGANIZE	RID_TP_LIB			0	vi	Các thư viện				2002-02-02 02:02:02
+basctl	source\basicide\moduldlg.src	0	pageitem	RID_TD_ORGANIZE.RID_TC_ORGANIZE	RID_TP_LIB			0	vi	Thư viện				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pageitem	RID_TD_ORGANIZE.RID_TC_ORGANIZE	RID_TP_LIB			0	xh	Iilayibrari				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pageitem	RID_TD_ORGANIZE.RID_TC_ORGANIZE	RID_TP_LIB			0	zh-CN	程序库				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pageitem	RID_TD_ORGANIZE.RID_TC_ORGANIZE	RID_TP_LIB			0	zh-TW	程式庫				2002-02-02 02:02:02
@@ -10478,7 +10478,7 @@ basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_DLGS	RID_PB_EDIT			60	ja
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_DLGS	RID_PB_EDIT			60	ka	~რედაქტირება				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_DLGS	RID_PB_EDIT			60	km	កែ​សម្រួល​ 				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_DLGS	RID_PB_EDIT			60	ko	편집(~E)				2002-02-02 02:02:02
-basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_DLGS	RID_PB_EDIT			60	ku	~Serrast bike				2002-02-02 02:02:02
+basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_DLGS	RID_PB_EDIT			60	ku	~Serrrast bike				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_DLGS	RID_PB_EDIT			60	lt	~Taisyti				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_DLGS	RID_PB_EDIT			60	mk	~Уреди				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_DLGS	RID_PB_EDIT			60	nb	~Rediger				2002-02-02 02:02:02
@@ -10547,7 +10547,7 @@ basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_DLGS	RID_PB_NEWDLG			60	
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_DLGS	RID_PB_NEWDLG			60	ka	~ახალი...				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_DLGS	RID_PB_NEWDLG			60	km	ថ្មី​... 				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_DLGS	RID_PB_NEWDLG			60	ko	새로 만들기(~N)...				2002-02-02 02:02:02
-basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_DLGS	RID_PB_NEWDLG			60	ku	Paceya nû...				2002-02-02 02:02:02
+basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_DLGS	RID_PB_NEWDLG			60	ku	~Nû...				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_DLGS	RID_PB_NEWDLG			60	lt	~Naujas...				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_DLGS	RID_PB_NEWDLG			60	mk	~Нов...				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_DLGS	RID_PB_NEWDLG			60	mr-IN	~नवीन...				2002-02-02 02:02:02
@@ -10619,7 +10619,7 @@ basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_DLGS	RID_PB_NEWMOD			60	
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_DLGS	RID_PB_NEWMOD			60	ka	~ახალი...				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_DLGS	RID_PB_NEWMOD			60	km	ថ្មី​... 				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_DLGS	RID_PB_NEWMOD			60	ko	새로 만들기(~N)...				2002-02-02 02:02:02
-basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_DLGS	RID_PB_NEWMOD			60	ku	Modula nû...				2002-02-02 02:02:02
+basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_DLGS	RID_PB_NEWMOD			60	ku	~Nû...				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_DLGS	RID_PB_NEWMOD			60	lt	~Naujas...				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_DLGS	RID_PB_NEWMOD			60	mk	~Нов...				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_DLGS	RID_PB_NEWMOD			60	mr-IN	~नवीन...				2002-02-02 02:02:02
@@ -10835,7 +10835,7 @@ basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_EDIT			60	ja
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_EDIT			60	ka	~რედაქტირება				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_EDIT			60	km	កែ​សម្រួល​ 				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_EDIT			60	ko	편집(~E)				2002-02-02 02:02:02
-basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_EDIT			60	ku	~Serrast bike				2002-02-02 02:02:02
+basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_EDIT			60	ku	~Serrrast bike				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_EDIT			60	lt	~Taisyti				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_EDIT			60	mk	~Уреди				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_EDIT			60	nb	~Rediger				2002-02-02 02:02:02
@@ -11171,7 +11171,7 @@ basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_MODULS	RID_PB_EDIT			60	
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_MODULS	RID_PB_EDIT			60	ka	~რედაქტირება				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_MODULS	RID_PB_EDIT			60	km	កែ​សម្រួល​ 				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_MODULS	RID_PB_EDIT			60	ko	편집(~E)				2002-02-02 02:02:02
-basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_MODULS	RID_PB_EDIT			60	ku	~Serrast bike				2002-02-02 02:02:02
+basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_MODULS	RID_PB_EDIT			60	ku	~Serrrast bike				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_MODULS	RID_PB_EDIT			60	lt	~Taisyti				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_MODULS	RID_PB_EDIT			60	mk	~Уреди				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_MODULS	RID_PB_EDIT			60	nb	~Rediger				2002-02-02 02:02:02
@@ -11241,7 +11241,7 @@ basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_MODULS	RID_PB_NEWDLG			6
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_MODULS	RID_PB_NEWDLG			60	ka	~ახალი...				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_MODULS	RID_PB_NEWDLG			60	km	ថ្មី​... 				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_MODULS	RID_PB_NEWDLG			60	ko	새로 만들기(~N)...				2002-02-02 02:02:02
-basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_MODULS	RID_PB_NEWDLG			60	ku	~Paceya nû...				2002-02-02 02:02:02
+basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_MODULS	RID_PB_NEWDLG			60	ku	~Nû...				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_MODULS	RID_PB_NEWDLG			60	lt	~Naujas...				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_MODULS	RID_PB_NEWDLG			60	mk	~Нов...				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_MODULS	RID_PB_NEWDLG			60	mr-IN	~नवीन...				2002-02-02 02:02:02
@@ -11314,7 +11314,7 @@ basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_MODULS	RID_PB_NEWMOD			6
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_MODULS	RID_PB_NEWMOD			60	ka	~ახალი...				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_MODULS	RID_PB_NEWMOD			60	km	ថ្មី​... 				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_MODULS	RID_PB_NEWMOD			60	ko	새로 만들기(~N)...				2002-02-02 02:02:02
-basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_MODULS	RID_PB_NEWMOD			60	ku	~Modula nû...				2002-02-02 02:02:02
+basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_MODULS	RID_PB_NEWMOD			60	ku	~Nû...				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_MODULS	RID_PB_NEWMOD			60	lt	~Naujas...				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_MODULS	RID_PB_NEWMOD			60	mk	~Нов...				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_MODULS	RID_PB_NEWMOD			60	mr-IN	~नवीन...				2002-02-02 02:02:02
@@ -11586,7 +11586,7 @@ basctl	source\basicide\moduldlg.src	0	tabdialog	RID_TD_ORGANIZE				0	br	Ardoadur
 basctl	source\basicide\moduldlg.src	0	tabdialog	RID_TD_ORGANIZE				0	bs	%PRODUCTNAME Organizator osnovnih makroa				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	tabdialog	RID_TD_ORGANIZE				0	ca	Organitzador de macros bàsiques de l'%PRODUCTNAME				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	tabdialog	RID_TD_ORGANIZE				0	cs	Organizátor maker %PRODUCTNAME Basic				2002-02-02 02:02:02
-basctl	source\basicide\moduldlg.src	0	tabdialog	RID_TD_ORGANIZE				1	cy	Cymorth am Basic %PRODUCTNAME				2002-02-02 02:02:02
+basctl	source\basicide\moduldlg.src	0	tabdialog	RID_TD_ORGANIZE				0	cy	Cymorth am Basic %PRODUCTNAME				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	tabdialog	RID_TD_ORGANIZE				0	da	%PRODUCTNAME Basic-makroadministration				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	tabdialog	RID_TD_ORGANIZE				0	el	Διαχείριση μακροεντολών Basic %PRODUCTNAME 				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	tabdialog	RID_TD_ORGANIZE				0	en-GB	%PRODUCTNAME Basic Macro Organiser				2002-02-02 02:02:02
@@ -11752,7 +11752,7 @@ basctl	source\basicide\moptions.src	0	fixedtext	RID_MACROOPTIONS	RID_FT_DESCR			
 basctl	source\basicide\moptions.src	0	fixedtext	RID_MACROOPTIONS	RID_FT_DESCR			69	ka	აღწერილობა				2002-02-02 02:02:02
 basctl	source\basicide\moptions.src	0	fixedtext	RID_MACROOPTIONS	RID_FT_DESCR			69	km	ពិពណ៌​នា​				2002-02-02 02:02:02
 basctl	source\basicide\moptions.src	0	fixedtext	RID_MACROOPTIONS	RID_FT_DESCR			69	ko	설명				2002-02-02 02:02:02
-basctl	source\basicide\moptions.src	0	fixedtext	RID_MACROOPTIONS	RID_FT_DESCR			69	ku	Daxwûyanî				2002-02-02 02:02:02
+basctl	source\basicide\moptions.src	0	fixedtext	RID_MACROOPTIONS	RID_FT_DESCR			69	ku	Rave				2002-02-02 02:02:02
 basctl	source\basicide\moptions.src	0	fixedtext	RID_MACROOPTIONS	RID_FT_DESCR			69	lt	Aprašas				2002-02-02 02:02:02
 basctl	source\basicide\moptions.src	0	fixedtext	RID_MACROOPTIONS	RID_FT_DESCR			69	mk	Опис				2002-02-02 02:02:02
 basctl	source\basicide\moptions.src	0	fixedtext	RID_MACROOPTIONS	RID_FT_DESCR			69	ml-IN	വിവരണം				2002-02-02 02:02:02
@@ -11971,7 +11971,7 @@ basctl	source\basicide\moptions.src	0	modaldialog	RID_MACROOPTIONS				224	ja	説
 basctl	source\basicide\moptions.src	0	modaldialog	RID_MACROOPTIONS				224	ka	აღწერილობა				2002-02-02 02:02:02
 basctl	source\basicide\moptions.src	0	modaldialog	RID_MACROOPTIONS				224	km	ពិពណ៌​នា​				2002-02-02 02:02:02
 basctl	source\basicide\moptions.src	0	modaldialog	RID_MACROOPTIONS				224	ko	설명				2002-02-02 02:02:02
-basctl	source\basicide\moptions.src	0	modaldialog	RID_MACROOPTIONS				224	ku	Daxwûyanî				2002-02-02 02:02:02
+basctl	source\basicide\moptions.src	0	modaldialog	RID_MACROOPTIONS				224	ku	Rave				2002-02-02 02:02:02
 basctl	source\basicide\moptions.src	0	modaldialog	RID_MACROOPTIONS				224	lt	Aprašas				2002-02-02 02:02:02
 basctl	source\basicide\moptions.src	0	modaldialog	RID_MACROOPTIONS				224	mk	Опис				2002-02-02 02:02:02
 basctl	source\basicide\moptions.src	0	modaldialog	RID_MACROOPTIONS				224	ml-IN	വിവരണം				2002-02-02 02:02:02
@@ -12191,7 +12191,7 @@ basctl	source\basicide\tbxctl.src	0	floatingwindow	RID_TBXCONTROLS		HID_BASICIDE
 basctl	source\basicide\tbxctl.src	0	floatingwindow	RID_TBXCONTROLS		HID_BASICIDE_CONTROLS		0	ka	კონტროლი				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	floatingwindow	RID_TBXCONTROLS		HID_BASICIDE_CONTROLS		0	km	វត្ថុ​​បញ្ជា​				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	floatingwindow	RID_TBXCONTROLS		HID_BASICIDE_CONTROLS		0	ko	컨트롤				2002-02-02 02:02:02
-basctl	source\basicide\tbxctl.src	0	floatingwindow	RID_TBXCONTROLS		HID_BASICIDE_CONTROLS		0	ku	Kontrolkirin				2002-02-02 02:02:02
+basctl	source\basicide\tbxctl.src	0	floatingwindow	RID_TBXCONTROLS		HID_BASICIDE_CONTROLS		0	ku	Kontrol				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	floatingwindow	RID_TBXCONTROLS		HID_BASICIDE_CONTROLS		0	lt	Valdiklio elementai				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	floatingwindow	RID_TBXCONTROLS		HID_BASICIDE_CONTROLS		0	mk	Контроли				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	floatingwindow	RID_TBXCONTROLS		HID_BASICIDE_CONTROLS		0	ml-IN	നിയന്ത്രണങ്ങള്				2002-02-02 02:02:02
@@ -12264,7 +12264,7 @@ basctl	source\basicide\tbxctl.src	0	string	RID_TBXCONTROLS	RID_TOOLBOX			0	ja	�
 basctl	source\basicide\tbxctl.src	0	string	RID_TBXCONTROLS	RID_TOOLBOX			0	ka	კონტროლი				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	string	RID_TBXCONTROLS	RID_TOOLBOX			0	km	វត្ថុ​​បញ្ជា​				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	string	RID_TBXCONTROLS	RID_TOOLBOX			0	ko	컨트롤				2002-02-02 02:02:02
-basctl	source\basicide\tbxctl.src	0	string	RID_TBXCONTROLS	RID_TOOLBOX			0	ku	Kontrolkirin				2002-02-02 02:02:02
+basctl	source\basicide\tbxctl.src	0	string	RID_TBXCONTROLS	RID_TOOLBOX			0	ku	Kontrol				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	string	RID_TBXCONTROLS	RID_TOOLBOX			0	lt	Valdiklio elementai				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	string	RID_TBXCONTROLS	RID_TOOLBOX			0	mk	Контроли				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	string	RID_TBXCONTROLS	RID_TOOLBOX			0	ml-IN	നിയന്ത്രണങ്ങള്				2002-02-02 02:02:02
@@ -14019,7 +14019,7 @@ basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_SHOW_PROPERTYBRO
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_SHOW_PROPERTYBROWSER	SID_SHOW_PROPERTYBROWSER		0	ka	თვისებები				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_SHOW_PROPERTYBROWSER	SID_SHOW_PROPERTYBROWSER		0	km	លក្ខណៈ​សម្បត្តិ​​				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_SHOW_PROPERTYBROWSER	SID_SHOW_PROPERTYBROWSER		0	ko	등록 정보				2002-02-02 02:02:02
-basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_SHOW_PROPERTYBROWSER	SID_SHOW_PROPERTYBROWSER		0	ku	Taybetî				2002-02-02 02:02:02
+basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_SHOW_PROPERTYBROWSER	SID_SHOW_PROPERTYBROWSER		0	ku	Taybetmendî				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_SHOW_PROPERTYBROWSER	SID_SHOW_PROPERTYBROWSER		0	lt	Savybės				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_SHOW_PROPERTYBROWSER	SID_SHOW_PROPERTYBROWSER		0	mk	Својства				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_SHOW_PROPERTYBROWSER	SID_SHOW_PROPERTYBROWSER		0	ml-IN	സവിശേഷതകള്				2002-02-02 02:02:02
