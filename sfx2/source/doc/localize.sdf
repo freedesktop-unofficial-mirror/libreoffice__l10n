@@ -13,9 +13,9 @@
 #
 #   $RCSfile: localize.sdf,v $
 #
-#   $Revision: 1.31 $
+#   $Revision: 1.32 $
 #
-#   last change: $Author: ihi $ $Date: 2006-11-13 22:47:20 $
+#   last change: $Author: vg $ $Date: 2006-11-21 19:00:15 $
 #
 #   The Contents of this file are made available subject to
 #   the terms of GNU Lesser General Public License Version 2.1.
@@ -3515,6 +3515,7 @@ sfx2	source\doc\doc.src	0	string	STR_EDITOBJECT				0	ja	編集(~E)				2002-02-02
 sfx2	source\doc\doc.src	0	string	STR_EDITOBJECT				0	ka	~რედაქტირება				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_EDITOBJECT				0	km	កែ​សម្រួល​ 				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_EDITOBJECT				0	ko	편집(~E)				2002-02-02 02:02:02
+sfx2	source\doc\doc.src	0	string	STR_EDITOBJECT				1	ku	~Serrrast bike				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_EDITOBJECT				0	lt	~Taisyti				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_EDITOBJECT				0	mk	~Уреди				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_EDITOBJECT				0	ml-IN	എഡിറ്റു ചെയ്യുക				2002-02-02 02:02:02
@@ -4334,7 +4335,7 @@ sfx2	source\doc\doc.src	0	string	STR_FRAMEOBJECT_PROPERTIES				0	ts	Swihlawule~k
 sfx2	source\doc\doc.src	0	string	STR_FRAMEOBJECT_PROPERTIES				0	uk	Властивості...				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_FRAMEOBJECT_PROPERTIES				0	ur-IN	خصوصیات۔۔۔				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_FRAMEOBJECT_PROPERTIES				0	ve	Zwipi~da...				2002-02-02 02:02:02
-sfx2	source\doc\doc.src	0	string	STR_FRAMEOBJECT_PROPERTIES				1	vi	Tà~i sản...				2002-02-02 02:02:02
+sfx2	source\doc\doc.src	0	string	STR_FRAMEOBJECT_PROPERTIES				1	vi	Tài ~sản...				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_FRAMEOBJECT_PROPERTIES				0	xh	Inkcazo~yeempawu...				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_FRAMEOBJECT_PROPERTIES				0	zh-CN	属性(~I)...				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_FRAMEOBJECT_PROPERTIES				0	zh-TW	屬性(~I)...				2002-02-02 02:02:02
@@ -6545,6 +6546,7 @@ sfx2	source\doc\doc.src	0	string	STR_TEMPLATE_FILTER				0	ja	ドキュメント�
 sfx2	source\doc\doc.src	0	string	STR_TEMPLATE_FILTER				0	ka	შაბლონები				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_TEMPLATE_FILTER				0	km	ពុម្ព				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_TEMPLATE_FILTER				0	ko	서식 파일				2002-02-02 02:02:02
+sfx2	source\doc\doc.src	0	string	STR_TEMPLATE_FILTER				1	ku	Şablon				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_TEMPLATE_FILTER				0	lt	Šablonai				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_TEMPLATE_FILTER				0	mk	Обрасци				2002-02-02 02:02:02
 sfx2	source\doc\doc.src	0	string	STR_TEMPLATE_FILTER				0	ml-IN	മാതൃകകള്				2002-02-02 02:02:02
@@ -7064,6 +7066,7 @@ sfx2	source\doc\doctdlg.src	0	fixedline	DLG_DOC_TEMPLATE	FL_STYLESHEETS			212	ja
 sfx2	source\doc\doctdlg.src	0	fixedline	DLG_DOC_TEMPLATE	FL_STYLESHEETS			212	ka	შაბლონები				2002-02-02 02:02:02
 sfx2	source\doc\doctdlg.src	0	fixedline	DLG_DOC_TEMPLATE	FL_STYLESHEETS			212	km	ពុម្ព				2002-02-02 02:02:02
 sfx2	source\doc\doctdlg.src	0	fixedline	DLG_DOC_TEMPLATE	FL_STYLESHEETS			212	ko	서식 파일				2002-02-02 02:02:02
+sfx2	source\doc\doctdlg.src	0	fixedline	DLG_DOC_TEMPLATE	FL_STYLESHEETS			212	ku	Şablon				2002-02-02 02:02:02
 sfx2	source\doc\doctdlg.src	0	fixedline	DLG_DOC_TEMPLATE	FL_STYLESHEETS			212	lt	Šablonai				2002-02-02 02:02:02
 sfx2	source\doc\doctdlg.src	0	fixedline	DLG_DOC_TEMPLATE	FL_STYLESHEETS			212	mk	Обрасци				2002-02-02 02:02:02
 sfx2	source\doc\doctdlg.src	0	fixedline	DLG_DOC_TEMPLATE	FL_STYLESHEETS			212	ml-IN	മാതൃകകള്				2002-02-02 02:02:02
@@ -7135,6 +7138,7 @@ sfx2	source\doc\doctdlg.src	0	fixedtext	DLG_DOC_TEMPLATE	FT_SECTION			97	ja	範�
 sfx2	source\doc\doctdlg.src	0	fixedtext	DLG_DOC_TEMPLATE	FT_SECTION			97	ka	~კატეგორიები				2002-02-02 02:02:02
 sfx2	source\doc\doctdlg.src	0	fixedtext	DLG_DOC_TEMPLATE	FT_SECTION			97	km	ប្រភេទ 				2002-02-02 02:02:02
 sfx2	source\doc\doctdlg.src	0	fixedtext	DLG_DOC_TEMPLATE	FT_SECTION			97	ko	영역(~C)				2002-02-02 02:02:02
+sfx2	source\doc\doctdlg.src	0	fixedtext	DLG_DOC_TEMPLATE	FT_SECTION			97	ku	~Kategorî				2002-02-02 02:02:02
 sfx2	source\doc\doctdlg.src	0	fixedtext	DLG_DOC_TEMPLATE	FT_SECTION			97	lt	~Kategorijos				2002-02-02 02:02:02
 sfx2	source\doc\doctdlg.src	0	fixedtext	DLG_DOC_TEMPLATE	FT_SECTION			97	mk	~Категории				2002-02-02 02:02:02
 sfx2	source\doc\doctdlg.src	0	fixedtext	DLG_DOC_TEMPLATE	FT_SECTION			97	nb	~Kategorier				2002-02-02 02:02:02
@@ -7280,6 +7284,7 @@ sfx2	source\doc\doctdlg.src	0	modaldialog	DLG_DOC_TEMPLATE		SID_DOCTEMPLATE		280
 sfx2	source\doc\doctdlg.src	0	modaldialog	DLG_DOC_TEMPLATE		SID_DOCTEMPLATE		280	ka	შაბლონები				2002-02-02 02:02:02
 sfx2	source\doc\doctdlg.src	0	modaldialog	DLG_DOC_TEMPLATE		SID_DOCTEMPLATE		280	km	ពុម្ព				2002-02-02 02:02:02
 sfx2	source\doc\doctdlg.src	0	modaldialog	DLG_DOC_TEMPLATE		SID_DOCTEMPLATE		280	ko	서식 파일				2002-02-02 02:02:02
+sfx2	source\doc\doctdlg.src	0	modaldialog	DLG_DOC_TEMPLATE		SID_DOCTEMPLATE		280	ku	Şablon				2002-02-02 02:02:02
 sfx2	source\doc\doctdlg.src	0	modaldialog	DLG_DOC_TEMPLATE		SID_DOCTEMPLATE		280	lt	Šablonai				2002-02-02 02:02:02
 sfx2	source\doc\doctdlg.src	0	modaldialog	DLG_DOC_TEMPLATE		SID_DOCTEMPLATE		280	mk	Обрасци				2002-02-02 02:02:02
 sfx2	source\doc\doctdlg.src	0	modaldialog	DLG_DOC_TEMPLATE		SID_DOCTEMPLATE		280	ml-IN	മാതൃകകള്				2002-02-02 02:02:02
@@ -7352,6 +7357,7 @@ sfx2	source\doc\doctdlg.src	0	pushbutton	DLG_DOC_TEMPLATE	BT_EDIT			50	ja	編集
 sfx2	source\doc\doctdlg.src	0	pushbutton	DLG_DOC_TEMPLATE	BT_EDIT			50	ka	~რედაქტირება				2002-02-02 02:02:02
 sfx2	source\doc\doctdlg.src	0	pushbutton	DLG_DOC_TEMPLATE	BT_EDIT			50	km	កែ​សម្រួល​ 				2002-02-02 02:02:02
 sfx2	source\doc\doctdlg.src	0	pushbutton	DLG_DOC_TEMPLATE	BT_EDIT			50	ko	편집(~E)				2002-02-02 02:02:02
+sfx2	source\doc\doctdlg.src	0	pushbutton	DLG_DOC_TEMPLATE	BT_EDIT			50	ku	~Serrrast bike				2002-02-02 02:02:02
 sfx2	source\doc\doctdlg.src	0	pushbutton	DLG_DOC_TEMPLATE	BT_EDIT			50	lt	~Taisyti				2002-02-02 02:02:02
 sfx2	source\doc\doctdlg.src	0	pushbutton	DLG_DOC_TEMPLATE	BT_EDIT			50	mk	~Уреди				2002-02-02 02:02:02
 sfx2	source\doc\doctdlg.src	0	pushbutton	DLG_DOC_TEMPLATE	BT_EDIT			50	ml-IN	എഡിറ്റു ചെയ്യുക				2002-02-02 02:02:02
@@ -8695,6 +8701,7 @@ sfx2	source\doc\docvor.src	0	menuitem	DLG_ORGANIZE.BTN_EDIT	ID_EDIT	HID_ORGANIZE
 sfx2	source\doc\docvor.src	0	menuitem	DLG_ORGANIZE.BTN_EDIT	ID_EDIT	HID_ORGANIZE_EDIT		0	ka	~რედაქტირება				2002-02-02 02:02:02
 sfx2	source\doc\docvor.src	0	menuitem	DLG_ORGANIZE.BTN_EDIT	ID_EDIT	HID_ORGANIZE_EDIT		0	km	កែ​សម្រួល​ 				2002-02-02 02:02:02
 sfx2	source\doc\docvor.src	0	menuitem	DLG_ORGANIZE.BTN_EDIT	ID_EDIT	HID_ORGANIZE_EDIT		0	ko	편집(~E)				2002-02-02 02:02:02
+sfx2	source\doc\docvor.src	0	menuitem	DLG_ORGANIZE.BTN_EDIT	ID_EDIT	HID_ORGANIZE_EDIT		0	ku	~Serrrast bike				2002-02-02 02:02:02
 sfx2	source\doc\docvor.src	0	menuitem	DLG_ORGANIZE.BTN_EDIT	ID_EDIT	HID_ORGANIZE_EDIT		0	lt	~Taisyti				2002-02-02 02:02:02
 sfx2	source\doc\docvor.src	0	menuitem	DLG_ORGANIZE.BTN_EDIT	ID_EDIT	HID_ORGANIZE_EDIT		0	mk	~Уреди				2002-02-02 02:02:02
 sfx2	source\doc\docvor.src	0	menuitem	DLG_ORGANIZE.BTN_EDIT	ID_EDIT	HID_ORGANIZE_EDIT		0	ml-IN	എഡിറ്റു ചെയ്യുക				2002-02-02 02:02:02
@@ -9406,7 +9413,7 @@ sfx2	source\doc\docvor.src	0	pushbutton	DLG_ORGANIZE	BTN_FILES			60	ts	~Fayili..
 sfx2	source\doc\docvor.src	0	pushbutton	DLG_ORGANIZE	BTN_FILES			60	uk	Файл...				2002-02-02 02:02:02
 sfx2	source\doc\docvor.src	0	pushbutton	DLG_ORGANIZE	BTN_FILES			60	ur-IN	فائل۔۔۔				2002-02-02 02:02:02
 sfx2	source\doc\docvor.src	0	pushbutton	DLG_ORGANIZE	BTN_FILES			60	ve	~Faela...				2002-02-02 02:02:02
-sfx2	source\doc\docvor.src	0	pushbutton	DLG_ORGANIZE	BTN_FILES			60	vi	~Tập tin...				2002-02-02 02:02:02
+sfx2	source\doc\docvor.src	0	pushbutton	DLG_ORGANIZE	BTN_FILES			60	vi	Tậ~p tin...				2002-02-02 02:02:02
 sfx2	source\doc\docvor.src	0	pushbutton	DLG_ORGANIZE	BTN_FILES			60	xh	~Ifayili...				2002-02-02 02:02:02
 sfx2	source\doc\docvor.src	0	pushbutton	DLG_ORGANIZE	BTN_FILES			60	zh-CN	文件(~F)...				2002-02-02 02:02:02
 sfx2	source\doc\docvor.src	0	pushbutton	DLG_ORGANIZE	BTN_FILES			60	zh-TW	檔案(~F)...				2002-02-02 02:02:02
@@ -9443,6 +9450,7 @@ sfx2	source\doc\docvor.src	0	stringlist	DLG_ORGANIZE.LB_LEFT_TYP	1			0	ja	ドキ
 sfx2	source\doc\docvor.src	0	stringlist	DLG_ORGANIZE.LB_LEFT_TYP	1			0	ka	შაბლონები				2002-02-02 02:02:02
 sfx2	source\doc\docvor.src	0	stringlist	DLG_ORGANIZE.LB_LEFT_TYP	1			0	km	ពុម្ព				2002-02-02 02:02:02
 sfx2	source\doc\docvor.src	0	stringlist	DLG_ORGANIZE.LB_LEFT_TYP	1			0	ko	서식 파일				2002-02-02 02:02:02
+sfx2	source\doc\docvor.src	0	stringlist	DLG_ORGANIZE.LB_LEFT_TYP	1			0	ku	Şablon				2002-02-02 02:02:02
 sfx2	source\doc\docvor.src	0	stringlist	DLG_ORGANIZE.LB_LEFT_TYP	1			0	lt	Šablonai				2002-02-02 02:02:02
 sfx2	source\doc\docvor.src	0	stringlist	DLG_ORGANIZE.LB_LEFT_TYP	1			0	mk	Обрасци				2002-02-02 02:02:02
 sfx2	source\doc\docvor.src	0	stringlist	DLG_ORGANIZE.LB_LEFT_TYP	1			0	ml-IN	മാതൃകകള്				2002-02-02 02:02:02
@@ -9515,6 +9523,7 @@ sfx2	source\doc\docvor.src	0	stringlist	DLG_ORGANIZE.LB_LEFT_TYP	2			0	ja	ドキ
 sfx2	source\doc\docvor.src	0	stringlist	DLG_ORGANIZE.LB_LEFT_TYP	2			0	ka	დოკუმენტები				2002-02-02 02:02:02
 sfx2	source\doc\docvor.src	0	stringlist	DLG_ORGANIZE.LB_LEFT_TYP	2			0	km	ឯកសារ				2002-02-02 02:02:02
 sfx2	source\doc\docvor.src	0	stringlist	DLG_ORGANIZE.LB_LEFT_TYP	2			0	ko	문서				2002-02-02 02:02:02
+sfx2	source\doc\docvor.src	0	stringlist	DLG_ORGANIZE.LB_LEFT_TYP	2			0	ku	Pelge				2002-02-02 02:02:02
 sfx2	source\doc\docvor.src	0	stringlist	DLG_ORGANIZE.LB_LEFT_TYP	2			0	lt	Dokumentai				2002-02-02 02:02:02
 sfx2	source\doc\docvor.src	0	stringlist	DLG_ORGANIZE.LB_LEFT_TYP	2			0	mk	Документи				2002-02-02 02:02:02
 sfx2	source\doc\docvor.src	0	stringlist	DLG_ORGANIZE.LB_LEFT_TYP	2			0	ml-IN	ഡോക്കുമെന്റുകള്				2002-02-02 02:02:02
@@ -9588,6 +9597,7 @@ sfx2	source\doc\docvor.src	0	stringlist	DLG_ORGANIZE.LB_RIGHT_TYP	1			0	ja	ド�
 sfx2	source\doc\docvor.src	0	stringlist	DLG_ORGANIZE.LB_RIGHT_TYP	1			0	ka	შაბლონები				2002-02-02 02:02:02
 sfx2	source\doc\docvor.src	0	stringlist	DLG_ORGANIZE.LB_RIGHT_TYP	1			0	km	ពុម្ព				2002-02-02 02:02:02
 sfx2	source\doc\docvor.src	0	stringlist	DLG_ORGANIZE.LB_RIGHT_TYP	1			0	ko	서식 파일				2002-02-02 02:02:02
+sfx2	source\doc\docvor.src	0	stringlist	DLG_ORGANIZE.LB_RIGHT_TYP	1			0	ku	Şablon				2002-02-02 02:02:02
 sfx2	source\doc\docvor.src	0	stringlist	DLG_ORGANIZE.LB_RIGHT_TYP	1			0	lt	Šablonai				2002-02-02 02:02:02
 sfx2	source\doc\docvor.src	0	stringlist	DLG_ORGANIZE.LB_RIGHT_TYP	1			0	mk	Обрасци				2002-02-02 02:02:02
 sfx2	source\doc\docvor.src	0	stringlist	DLG_ORGANIZE.LB_RIGHT_TYP	1			0	ml-IN	മാതൃകകള്				2002-02-02 02:02:02
@@ -9660,6 +9670,7 @@ sfx2	source\doc\docvor.src	0	stringlist	DLG_ORGANIZE.LB_RIGHT_TYP	2			0	ja	ド�
 sfx2	source\doc\docvor.src	0	stringlist	DLG_ORGANIZE.LB_RIGHT_TYP	2			0	ka	დოკუმენტები				2002-02-02 02:02:02
 sfx2	source\doc\docvor.src	0	stringlist	DLG_ORGANIZE.LB_RIGHT_TYP	2			0	km	ឯកសារ				2002-02-02 02:02:02
 sfx2	source\doc\docvor.src	0	stringlist	DLG_ORGANIZE.LB_RIGHT_TYP	2			0	ko	문서				2002-02-02 02:02:02
+sfx2	source\doc\docvor.src	0	stringlist	DLG_ORGANIZE.LB_RIGHT_TYP	2			0	ku	Pelge				2002-02-02 02:02:02
 sfx2	source\doc\docvor.src	0	stringlist	DLG_ORGANIZE.LB_RIGHT_TYP	2			0	lt	Dokumentai				2002-02-02 02:02:02
 sfx2	source\doc\docvor.src	0	stringlist	DLG_ORGANIZE.LB_RIGHT_TYP	2			0	mk	Документи				2002-02-02 02:02:02
 sfx2	source\doc\docvor.src	0	stringlist	DLG_ORGANIZE.LB_RIGHT_TYP	2			0	ml-IN	ഡോക്കുമെന്റുകള്				2002-02-02 02:02:02
@@ -10407,6 +10418,7 @@ sfx2	source\doc\new.src	0	fixedtext	DLG_NEW_FILE	FT_REGION			97	ja	範囲(~C)			
 sfx2	source\doc\new.src	0	fixedtext	DLG_NEW_FILE	FT_REGION			97	ka	~კატეგორიები				2002-02-02 02:02:02
 sfx2	source\doc\new.src	0	fixedtext	DLG_NEW_FILE	FT_REGION			97	km	ប្រភេទ 				2002-02-02 02:02:02
 sfx2	source\doc\new.src	0	fixedtext	DLG_NEW_FILE	FT_REGION			97	ko	영역(~C)				2002-02-02 02:02:02
+sfx2	source\doc\new.src	0	fixedtext	DLG_NEW_FILE	FT_REGION			97	ku	~Kategorî				2002-02-02 02:02:02
 sfx2	source\doc\new.src	0	fixedtext	DLG_NEW_FILE	FT_REGION			97	lt	~Kategorijos				2002-02-02 02:02:02
 sfx2	source\doc\new.src	0	fixedtext	DLG_NEW_FILE	FT_REGION			97	mk	~Категории				2002-02-02 02:02:02
 sfx2	source\doc\new.src	0	fixedtext	DLG_NEW_FILE	FT_REGION			97	nb	~Kategorier				2002-02-02 02:02:02
