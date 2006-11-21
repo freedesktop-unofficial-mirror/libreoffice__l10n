@@ -13,9 +13,9 @@
 #
 #   $RCSfile: localize.sdf,v $
 #
-#   $Revision: 1.16 $
+#   $Revision: 1.17 $
 #
-#   last change: $Author: ihi $ $Date: 2006-11-13 19:13:09 $
+#   last change: $Author: vg $ $Date: 2006-11-21 17:11:58 $
 #
 #   The Contents of this file are made available subject to
 #   the terms of GNU Lesser General Public License Version 2.1.
@@ -603,7 +603,7 @@ svx	source\unodialogs\textconversiondlgs\chinese_dictionarydialog.src	0	pushbutt
 svx	source\unodialogs\textconversiondlgs\chinese_dictionarydialog.src	0	pushbutton	DLG_CHINESEDICTIONARY	PB_MODIFY			0	uk	Змінити				2002-02-02 02:02:02
 svx	source\unodialogs\textconversiondlgs\chinese_dictionarydialog.src	0	pushbutton	DLG_CHINESEDICTIONARY	PB_MODIFY			0	ur-IN	درست کرو				2002-02-02 02:02:02
 svx	source\unodialogs\textconversiondlgs\chinese_dictionarydialog.src	0	pushbutton	DLG_CHINESEDICTIONARY	PB_MODIFY			0	ve	~Khwinifhadzani				2002-02-02 02:02:02
-svx	source\unodialogs\textconversiondlgs\chinese_dictionarydialog.src	0	pushbutton	DLG_CHINESEDICTIONARY	PB_MODIFY			0	vi	~Sửa đổi				2002-02-02 02:02:02
+svx	source\unodialogs\textconversiondlgs\chinese_dictionarydialog.src	0	pushbutton	DLG_CHINESEDICTIONARY	PB_MODIFY			0	vi	Sử~a đổi				2002-02-02 02:02:02
 svx	source\unodialogs\textconversiondlgs\chinese_dictionarydialog.src	0	pushbutton	DLG_CHINESEDICTIONARY	PB_MODIFY			0	xh	~Hlengahlengisa				2002-02-02 02:02:02
 svx	source\unodialogs\textconversiondlgs\chinese_dictionarydialog.src	0	pushbutton	DLG_CHINESEDICTIONARY	PB_MODIFY			0	zh-CN	修改(~M)				2002-02-02 02:02:02
 svx	source\unodialogs\textconversiondlgs\chinese_dictionarydialog.src	0	pushbutton	DLG_CHINESEDICTIONARY	PB_MODIFY			0	zh-TW	修改(~M)				2002-02-02 02:02:02
@@ -1716,7 +1716,7 @@ svx	source\unodialogs\textconversiondlgs\chinese_direction_tmpl.hrc	0	radiobutto
 svx	source\unodialogs\textconversiondlgs\chinese_direction_tmpl.hrc	0	radiobutton	DIRECTION_RADIOBUTTONS( D_XPOS, D_YPOS, D_FULLWIDTH )	RB_TO_SIMPLIFIED			0	or-IN	ପାରମ୍ପାରିକ ଚାଇନିଜରୁ ସରଳ ଚାଇନିଜ				2002-02-02 02:02:02
 svx	source\unodialogs\textconversiondlgs\chinese_direction_tmpl.hrc	0	radiobutton	DIRECTION_RADIOBUTTONS( D_XPOS, D_YPOS, D_FULLWIDTH )	RB_TO_SIMPLIFIED			0	pa-IN	ਮੂਲ ਚੀਨੀ ਤੋਂ ਸਧਾਰਨ ਚੀਨੀ(~T)				2002-02-02 02:02:02
 svx	source\unodialogs\textconversiondlgs\chinese_direction_tmpl.hrc	0	radiobutton	DIRECTION_RADIOBUTTONS( D_XPOS, D_YPOS, D_FULLWIDTH )	RB_TO_SIMPLIFIED			0	pl	~Tradycyjny chiński na chiński uproszczony				2002-02-02 02:02:02
-svx	source\unodialogs\textconversiondlgs\chinese_direction_tmpl.hrc	0	radiobutton	DIRECTION_RADIOBUTTONS( D_XPOS, D_YPOS, D_FULLWIDTH )	RB_TO_SIMPLIFIED			0	pt	Chinês ~Tradicional em Chinês Simplificado				2002-02-02 02:02:02
+svx	source\unodialogs\textconversiondlgs\chinese_direction_tmpl.hrc	0	radiobutton	DIRECTION_RADIOBUTTONS( D_XPOS, D_YPOS, D_FULLWIDTH )	RB_TO_SIMPLIFIED			0	pt	Chinês ~Tradicional para Chinês Simplificado				2002-02-02 02:02:02
 svx	source\unodialogs\textconversiondlgs\chinese_direction_tmpl.hrc	0	radiobutton	DIRECTION_RADIOBUTTONS( D_XPOS, D_YPOS, D_FULLWIDTH )	RB_TO_SIMPLIFIED			0	pt-BR	Chinês ~tradicional para chinês simplificado				2002-02-02 02:02:02
 svx	source\unodialogs\textconversiondlgs\chinese_direction_tmpl.hrc	0	radiobutton	DIRECTION_RADIOBUTTONS( D_XPOS, D_YPOS, D_FULLWIDTH )	RB_TO_SIMPLIFIED			0	ru	Традиционный китайский в упрощенный китайский				2002-02-02 02:02:02
 svx	source\unodialogs\textconversiondlgs\chinese_direction_tmpl.hrc	0	radiobutton	DIRECTION_RADIOBUTTONS( D_XPOS, D_YPOS, D_FULLWIDTH )	RB_TO_SIMPLIFIED			0	rw	Igishinwa karande ku gishinwa cyoroheje				2002-02-02 02:02:02
@@ -1786,7 +1786,7 @@ svx	source\unodialogs\textconversiondlgs\chinese_direction_tmpl.hrc	0	radiobutto
 svx	source\unodialogs\textconversiondlgs\chinese_direction_tmpl.hrc	0	radiobutton	DIRECTION_RADIOBUTTONS( D_XPOS, D_YPOS, D_FULLWIDTH )	RB_TO_TRADITIONAL			0	or-IN	ସରଳ ଚାଇନିଜରୁ ପାରମ୍ପାରିକ ଚାଇନିଜ				2002-02-02 02:02:02
 svx	source\unodialogs\textconversiondlgs\chinese_direction_tmpl.hrc	0	radiobutton	DIRECTION_RADIOBUTTONS( D_XPOS, D_YPOS, D_FULLWIDTH )	RB_TO_TRADITIONAL			0	pa-IN	ਸਧਾਰਨ ਚੀਨੀ ਤੋਂ ਮੂਲ ਚੀਨੀ(~S)				2002-02-02 02:02:02
 svx	source\unodialogs\textconversiondlgs\chinese_direction_tmpl.hrc	0	radiobutton	DIRECTION_RADIOBUTTONS( D_XPOS, D_YPOS, D_FULLWIDTH )	RB_TO_TRADITIONAL			0	pl	Chiński upro~szczony na tradycyjny chiński				2002-02-02 02:02:02
-svx	source\unodialogs\textconversiondlgs\chinese_direction_tmpl.hrc	0	radiobutton	DIRECTION_RADIOBUTTONS( D_XPOS, D_YPOS, D_FULLWIDTH )	RB_TO_TRADITIONAL			0	pt	Chinês ~Simplificado em Chinês Tradicional				2002-02-02 02:02:02
+svx	source\unodialogs\textconversiondlgs\chinese_direction_tmpl.hrc	0	radiobutton	DIRECTION_RADIOBUTTONS( D_XPOS, D_YPOS, D_FULLWIDTH )	RB_TO_TRADITIONAL			0	pt	Chinês ~Simplificado para Chinês Tradicional				2002-02-02 02:02:02
 svx	source\unodialogs\textconversiondlgs\chinese_direction_tmpl.hrc	0	radiobutton	DIRECTION_RADIOBUTTONS( D_XPOS, D_YPOS, D_FULLWIDTH )	RB_TO_TRADITIONAL			0	pt-BR	Chinês ~simplificado para chinês tradicional				2002-02-02 02:02:02
 svx	source\unodialogs\textconversiondlgs\chinese_direction_tmpl.hrc	0	radiobutton	DIRECTION_RADIOBUTTONS( D_XPOS, D_YPOS, D_FULLWIDTH )	RB_TO_TRADITIONAL			0	ru	Упрощенный китайский в традиционный китайский				2002-02-02 02:02:02
 svx	source\unodialogs\textconversiondlgs\chinese_direction_tmpl.hrc	0	radiobutton	DIRECTION_RADIOBUTTONS( D_XPOS, D_YPOS, D_FULLWIDTH )	RB_TO_TRADITIONAL			0	rw	Igishinwa cyoroheje ku gishinwa karande				2002-02-02 02:02:02
