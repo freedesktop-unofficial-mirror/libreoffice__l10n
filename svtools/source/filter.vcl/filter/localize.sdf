@@ -13,9 +13,9 @@
 #
 #   $RCSfile: localize.sdf,v $
 #
-#   $Revision: 1.19 $
+#   $Revision: 1.20 $
 #
-#   last change: $Author: ihi $ $Date: 2006-11-13 22:11:17 $
+#   last change: $Author: vg $ $Date: 2006-11-21 18:46:16 $
 #
 #   The Contents of this file are made available subject to
 #   the terms of GNU Lesser General Public License Version 2.1.
@@ -72,6 +72,7 @@ svtools	source\filter.vcl\filter\dlgejpg.src	0	fixedline	DLG_EXPORT_JPG	GRP_COLO
 svtools	source\filter.vcl\filter\dlgejpg.src	0	fixedline	DLG_EXPORT_JPG	GRP_COLORS			90	ka	ფერის გარჩევადობა				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgejpg.src	0	fixedline	DLG_EXPORT_JPG	GRP_COLORS			90	km	គុណបង្ហាញ​ពណ៌				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgejpg.src	0	fixedline	DLG_EXPORT_JPG	GRP_COLORS			90	ko	컬러 해상도				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\dlgejpg.src	0	fixedline	DLG_EXPORT_JPG	GRP_COLORS			90	ku	Destnîşankirina rengan				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgejpg.src	0	fixedline	DLG_EXPORT_JPG	GRP_COLORS			90	lt	Spalvų skiriamoji geba				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgejpg.src	0	fixedline	DLG_EXPORT_JPG	GRP_COLORS			90	mk	Резолуција на боја				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgejpg.src	0	fixedline	DLG_EXPORT_JPG	GRP_COLORS			90	ml-IN	നിറ വിശ്ലേഷണം				2002-02-02 02:02:02
@@ -588,6 +589,7 @@ svtools	source\filter.vcl\filter\dlgepng.src	0	fixedline	DLG_EXPORT_EPNG	GRP_COM
 svtools	source\filter.vcl\filter\dlgepng.src	0	fixedline	DLG_EXPORT_EPNG	GRP_COMPRESSION			100	ka	რეჟიმი				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgepng.src	0	fixedline	DLG_EXPORT_EPNG	GRP_COMPRESSION			100	km	របៀប​				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgepng.src	0	fixedline	DLG_EXPORT_EPNG	GRP_COMPRESSION			100	ko	모드				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\dlgepng.src	0	fixedline	DLG_EXPORT_EPNG	GRP_COMPRESSION			100	ku	Rawe				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgepng.src	0	fixedline	DLG_EXPORT_EPNG	GRP_COMPRESSION			100	lt	Veiksena				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgepng.src	0	fixedline	DLG_EXPORT_EPNG	GRP_COMPRESSION			100	mk	Режим				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgepng.src	0	fixedline	DLG_EXPORT_EPNG	GRP_COMPRESSION			100	mr-IN	अवस्था				2002-02-02 02:02:02
@@ -879,6 +881,7 @@ svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_PIX	GRP_COL
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_PIX	GRP_COLORS			110	ka	ფერის გარჩევადობა				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_PIX	GRP_COLORS			110	km	គុណបង្ហាញ​ពណ៌				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_PIX	GRP_COLORS			110	ko	컬러 해상도				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_PIX	GRP_COLORS			110	ku	Destnîşankirina rengan				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_PIX	GRP_COLORS			110	lt	Spalvų skiriamoji geba				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_PIX	GRP_COLORS			110	mk	Резолуција на боја				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_PIX	GRP_COLORS			110	ml-IN	നിറ വിശ്ലേഷണം				2002-02-02 02:02:02
@@ -952,6 +955,7 @@ svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_PIX	GRP_MOD
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_PIX	GRP_MODE_PIX			110	ka	რეჟიმი				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_PIX	GRP_MODE_PIX			110	km	របៀប​				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_PIX	GRP_MODE_PIX			110	ko	모드				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_PIX	GRP_MODE_PIX			110	ku	Rawe				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_PIX	GRP_MODE_PIX			110	lt	Veiksena				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_PIX	GRP_MODE_PIX			110	mk	Режим				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_PIX	GRP_MODE_PIX			110	mr-IN	अवस्था				2002-02-02 02:02:02
@@ -1023,6 +1027,7 @@ svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_VEC	GRP_MOD
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_VEC	GRP_MODE_VEC			110	ka	რეჟიმი				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_VEC	GRP_MODE_VEC			110	km	របៀប​				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_VEC	GRP_MODE_VEC			110	ko	모드				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_VEC	GRP_MODE_VEC			110	ku	Rawe				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_VEC	GRP_MODE_VEC			110	lt	Veiksena				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_VEC	GRP_MODE_VEC			110	mk	Режим				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_VEC	GRP_MODE_VEC			110	mr-IN	अवस्था				2002-02-02 02:02:02
@@ -1224,6 +1229,7 @@ svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	DLG_EXPORT_VEC	FT_SIZE
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	DLG_EXPORT_VEC	FT_SIZEX_VEC			45	ka	სიგანე				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	DLG_EXPORT_VEC	FT_SIZEX_VEC			45	km	ទទឹង​				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	DLG_EXPORT_VEC	FT_SIZEX_VEC			45	ko	너비				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	DLG_EXPORT_VEC	FT_SIZEX_VEC			45	ku	Firehî				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	DLG_EXPORT_VEC	FT_SIZEX_VEC			45	lt	Plotis				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	DLG_EXPORT_VEC	FT_SIZEX_VEC			45	mk	Ширина				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	DLG_EXPORT_VEC	FT_SIZEX_VEC			45	mr-IN	रुंदी				2002-02-02 02:02:02
@@ -1297,6 +1303,7 @@ svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	DLG_EXPORT_VEC	FT_SIZE
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	DLG_EXPORT_VEC	FT_SIZEY_VEC			45	ka	სიმაღლე				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	DLG_EXPORT_VEC	FT_SIZEY_VEC			45	km	កម្ពស់				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	DLG_EXPORT_VEC	FT_SIZEY_VEC			45	ko	높이				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	DLG_EXPORT_VEC	FT_SIZEY_VEC			45	ku	Bilindahî				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	DLG_EXPORT_VEC	FT_SIZEY_VEC			45	lt	Aukštis				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	DLG_EXPORT_VEC	FT_SIZEY_VEC			45	mk	Висина				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	DLG_EXPORT_VEC	FT_SIZEY_VEC			45	mr-IN	उंची				2002-02-02 02:02:02
@@ -1368,6 +1375,7 @@ svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	FT_SIZEX_PIX				41	ja	
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	FT_SIZEX_PIX				41	ka	სიგანე				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	FT_SIZEX_PIX				41	km	ទទឹង​				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	FT_SIZEX_PIX				41	ko	너비				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	FT_SIZEX_PIX				41	ku	Firehî				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	FT_SIZEX_PIX				41	lt	Plotis				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	FT_SIZEX_PIX				41	mk	Ширина				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	FT_SIZEX_PIX				41	mr-IN	रुंदी				2002-02-02 02:02:02
@@ -1440,6 +1448,7 @@ svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	FT_SIZEY_PIX				41	ja	
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	FT_SIZEY_PIX				41	ka	სიმაღლე				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	FT_SIZEY_PIX				41	km	កម្ពស់				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	FT_SIZEY_PIX				41	ko	높이				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	FT_SIZEY_PIX				41	ku	Bilindahî				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	FT_SIZEY_PIX				41	lt	Aukštis				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	FT_SIZEY_PIX				41	mk	Висина				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	FT_SIZEY_PIX				41	mr-IN	उंची				2002-02-02 02:02:02
@@ -1511,6 +1520,7 @@ svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	DLG_EXPORT_PIX	RB_OR
 svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	DLG_EXPORT_PIX	RB_ORIGINAL_PIX			98	ka	~ორიგინალი				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	DLG_EXPORT_PIX	RB_ORIGINAL_PIX			98	km	ដើម 				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	DLG_EXPORT_PIX	RB_ORIGINAL_PIX			98	ko	원래대로(~O)				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	DLG_EXPORT_PIX	RB_ORIGINAL_PIX			98	ku	~Orjînal				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	DLG_EXPORT_PIX	RB_ORIGINAL_PIX			98	lt	~Originalus				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	DLG_EXPORT_PIX	RB_ORIGINAL_PIX			98	mk	~Оригинал				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	DLG_EXPORT_PIX	RB_ORIGINAL_PIX			98	ml-IN	യഥാര്ത്ഥ				2002-02-02 02:02:02
@@ -1685,6 +1695,7 @@ svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	DLG_EXPORT_VEC	RB_OR
 svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	DLG_EXPORT_VEC	RB_ORIGINAL_VEC			98	ka	~ორიგინალი				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	DLG_EXPORT_VEC	RB_ORIGINAL_VEC			98	km	ដើម 				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	DLG_EXPORT_VEC	RB_ORIGINAL_VEC			98	ko	원래대로(~O)				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	DLG_EXPORT_VEC	RB_ORIGINAL_VEC			98	ku	~Orjînal				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	DLG_EXPORT_VEC	RB_ORIGINAL_VEC			98	lt	~Originalus				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	DLG_EXPORT_VEC	RB_ORIGINAL_VEC			98	mk	~Оригинал				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	DLG_EXPORT_VEC	RB_ORIGINAL_VEC			98	ml-IN	യഥാര്ത്ഥ				2002-02-02 02:02:02
@@ -1758,6 +1769,7 @@ svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	DLG_EXPORT_VEC	RB_SI
 svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	DLG_EXPORT_VEC	RB_SIZE_VEC			98	ka	~ზომა				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	DLG_EXPORT_VEC	RB_SIZE_VEC			98	km	ទំហំ 				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	DLG_EXPORT_VEC	RB_SIZE_VEC			98	ko	크기(~S)				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	DLG_EXPORT_VEC	RB_SIZE_VEC			98	ku	~Mezinahî				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	DLG_EXPORT_VEC	RB_SIZE_VEC			98	lt	~Dydis				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	DLG_EXPORT_VEC	RB_SIZE_VEC			98	mk	~Големина				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	DLG_EXPORT_VEC	RB_SIZE_VEC			98	mr-IN	~परिमाण				2002-02-02 02:02:02
@@ -1830,6 +1842,7 @@ svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	RB_SIZE_PIX				98	ja
 svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	RB_SIZE_PIX				98	ka	~ზომა				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	RB_SIZE_PIX				98	km	ទំហំ 				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	RB_SIZE_PIX				98	ko	크기(~S)				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	RB_SIZE_PIX				98	ku	~Mezinahî				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	RB_SIZE_PIX				98	lt	~Dydis				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	RB_SIZE_PIX				98	mk	~Големина				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	RB_SIZE_PIX				98	mr-IN	~परिमाण				2002-02-02 02:02:02
