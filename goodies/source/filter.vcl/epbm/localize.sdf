@@ -13,9 +13,9 @@
 #
 #   $RCSfile: localize.sdf,v $
 #
-#   $Revision: 1.16 $
+#   $Revision: 1.17 $
 #
-#   last change: $Author: ihi $ $Date: 2006-11-13 22:28:17 $
+#   last change: $Author: vg $ $Date: 2007-02-02 19:36:19 $
 #
 #   The Contents of this file are made available subject to
 #   the terms of GNU Lesser General Public License Version 2.1.
@@ -52,6 +52,7 @@ goodies	source\filter.vcl\epbm\dlgepbm.src	0	fixedline	DLG_EXPORT_EPBM	GRP_FORMA
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	fixedline	DLG_EXPORT_EPBM	GRP_FORMAT			60	cs	Formát souboru				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	fixedline	DLG_EXPORT_EPBM	GRP_FORMAT			60	cy	Fformat ffeil				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	fixedline	DLG_EXPORT_EPBM	GRP_FORMAT			60	da	Filformat				2002-02-02 02:02:02
+goodies	source\filter.vcl\epbm\dlgepbm.src	0	fixedline	DLG_EXPORT_EPBM	GRP_FORMAT			60	dz	ཡིག་སྣོད་རྩ་སྒྲིག				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	fixedline	DLG_EXPORT_EPBM	GRP_FORMAT			60	el	Μορφή αρχείου				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	fixedline	DLG_EXPORT_EPBM	GRP_FORMAT			60	en-GB	File format				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	fixedline	DLG_EXPORT_EPBM	GRP_FORMAT			60	en-ZA	File format				2002-02-02 02:02:02
@@ -62,6 +63,7 @@ goodies	source\filter.vcl\epbm\dlgepbm.src	0	fixedline	DLG_EXPORT_EPBM	GRP_FORMA
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	fixedline	DLG_EXPORT_EPBM	GRP_FORMAT			60	fi	Tiedostomuoto				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	fixedline	DLG_EXPORT_EPBM	GRP_FORMAT			60	fr	Format de fichier				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	fixedline	DLG_EXPORT_EPBM	GRP_FORMAT			60	ga	Formáid chomhaid				2002-02-02 02:02:02
+goodies	source\filter.vcl\epbm\dlgepbm.src	0	fixedline	DLG_EXPORT_EPBM	GRP_FORMAT			60	gl	Formato de ficheiro				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	fixedline	DLG_EXPORT_EPBM	GRP_FORMAT			60	gu	ફાઈલ બંધારણ				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	fixedline	DLG_EXPORT_EPBM	GRP_FORMAT			60	gu-IN	ફાઈલ બંધારણ				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	fixedline	DLG_EXPORT_EPBM	GRP_FORMAT			60	he	צורת תוכן קובץ				2002-02-02 02:02:02
@@ -73,7 +75,7 @@ goodies	source\filter.vcl\epbm\dlgepbm.src	0	fixedline	DLG_EXPORT_EPBM	GRP_FORMA
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	fixedline	DLG_EXPORT_EPBM	GRP_FORMAT			60	ka	ფაილის ფორმატი				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	fixedline	DLG_EXPORT_EPBM	GRP_FORMAT			60	km	ទ្រង់ទ្រាយ​ឯកសារ				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	fixedline	DLG_EXPORT_EPBM	GRP_FORMAT			60	ko	파일 형식				2002-02-02 02:02:02
-goodies	source\filter.vcl\epbm\dlgepbm.src	0	fixedline	DLG_EXPORT_EPBM	GRP_FORMAT			60	ku	Teşeya Pelgehê				2002-02-02 02:02:02
+goodies	source\filter.vcl\epbm\dlgepbm.src	0	fixedline	DLG_EXPORT_EPBM	GRP_FORMAT			60	ku	Teşeya pelî				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	fixedline	DLG_EXPORT_EPBM	GRP_FORMAT			60	lt	Failo formatas				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	fixedline	DLG_EXPORT_EPBM	GRP_FORMAT			60	mk	Формат на датотека				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	fixedline	DLG_EXPORT_EPBM	GRP_FORMAT			60	ml-IN	ഫയല് രൂപരേഖ				2002-02-02 02:02:02
@@ -127,6 +129,7 @@ goodies	source\filter.vcl\epbm\dlgepbm.src	0	modaldialog	DLG_EXPORT_EPBM				133	
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	modaldialog	DLG_EXPORT_EPBM				133	cs	Volby pro PBM formát				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	modaldialog	DLG_EXPORT_EPBM				133	cy	Dewisiadau PBM				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	modaldialog	DLG_EXPORT_EPBM				133	da	PBM indstillinger				2002-02-02 02:02:02
+goodies	source\filter.vcl\epbm\dlgepbm.src	0	modaldialog	DLG_EXPORT_EPBM				133	dz	པི་བི་ཨེམ་ འདམ་ཁ།				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	modaldialog	DLG_EXPORT_EPBM				133	el	Επιλογές PBM				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	modaldialog	DLG_EXPORT_EPBM				133	en-GB	PBM Options				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	modaldialog	DLG_EXPORT_EPBM				133	en-ZA	PBM Options				2002-02-02 02:02:02
@@ -137,6 +140,7 @@ goodies	source\filter.vcl\epbm\dlgepbm.src	0	modaldialog	DLG_EXPORT_EPBM				133	
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	modaldialog	DLG_EXPORT_EPBM				133	fi	PBM-vientiasetukset				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	modaldialog	DLG_EXPORT_EPBM				133	fr	Options PBM				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	modaldialog	DLG_EXPORT_EPBM				133	ga	Roghanna PBM				2002-02-02 02:02:02
+goodies	source\filter.vcl\epbm\dlgepbm.src	0	modaldialog	DLG_EXPORT_EPBM				133	gl	Opcións PBM				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	modaldialog	DLG_EXPORT_EPBM				133	gu	PBM વિકલ્પો				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	modaldialog	DLG_EXPORT_EPBM				133	gu-IN	PBM વિકલ્પો				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	modaldialog	DLG_EXPORT_EPBM				133	he	אפשרויות PBM‏				2002-02-02 02:02:02
@@ -202,6 +206,7 @@ goodies	source\filter.vcl\epbm\dlgepbm.src	0	radiobutton	DLG_EXPORT_EPBM	RB_ASCI
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	radiobutton	DLG_EXPORT_EPBM	RB_ASCII			45	cs	Textový				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	radiobutton	DLG_EXPORT_EPBM	RB_ASCII			45	cy	~Testun				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	radiobutton	DLG_EXPORT_EPBM	RB_ASCII			45	da	~Tekst				2002-02-02 02:02:02
+goodies	source\filter.vcl\epbm\dlgepbm.src	0	radiobutton	DLG_EXPORT_EPBM	RB_ASCII			45	dz	ཚིག་ཡིག(~T)				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	radiobutton	DLG_EXPORT_EPBM	RB_ASCII			45	el	~Κείμενο				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	radiobutton	DLG_EXPORT_EPBM	RB_ASCII			45	en-GB	~Text				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	radiobutton	DLG_EXPORT_EPBM	RB_ASCII			45	en-ZA	~Text				2002-02-02 02:02:02
@@ -212,6 +217,7 @@ goodies	source\filter.vcl\epbm\dlgepbm.src	0	radiobutton	DLG_EXPORT_EPBM	RB_ASCI
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	radiobutton	DLG_EXPORT_EPBM	RB_ASCII			45	fi	~Teksti				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	radiobutton	DLG_EXPORT_EPBM	RB_ASCII			45	fr	Texte				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	radiobutton	DLG_EXPORT_EPBM	RB_ASCII			45	ga	~Téacs				2002-02-02 02:02:02
+goodies	source\filter.vcl\epbm\dlgepbm.src	0	radiobutton	DLG_EXPORT_EPBM	RB_ASCII			45	gl	~Texto				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	radiobutton	DLG_EXPORT_EPBM	RB_ASCII			45	gu	લખાણ (~T)				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	radiobutton	DLG_EXPORT_EPBM	RB_ASCII			45	gu-IN	લખાણ (~T)				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	radiobutton	DLG_EXPORT_EPBM	RB_ASCII			45	he	כיתוב				2002-02-02 02:02:02
@@ -256,7 +262,7 @@ goodies	source\filter.vcl\epbm\dlgepbm.src	0	radiobutton	DLG_EXPORT_EPBM	RB_ASCI
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	radiobutton	DLG_EXPORT_EPBM	RB_ASCII			45	th	~ข้อความ				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	radiobutton	DLG_EXPORT_EPBM	RB_ASCII			45	ti-ER	ጽሑፍ				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	radiobutton	DLG_EXPORT_EPBM	RB_ASCII			45	tn	~Kago				2002-02-02 02:02:02
-goodies	source\filter.vcl\epbm\dlgepbm.src	0	radiobutton	DLG_EXPORT_EPBM	RB_ASCII			45	tr	~Metin				2002-02-02 02:02:02
+goodies	source\filter.vcl\epbm\dlgepbm.src	0	radiobutton	DLG_EXPORT_EPBM	RB_ASCII			45	tr	Me~tin				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	radiobutton	DLG_EXPORT_EPBM	RB_ASCII			45	ts	~Marito				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	radiobutton	DLG_EXPORT_EPBM	RB_ASCII			45	uk	Текст				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	radiobutton	DLG_EXPORT_EPBM	RB_ASCII			45	ur-IN	متن				2002-02-02 02:02:02
@@ -277,6 +283,7 @@ goodies	source\filter.vcl\epbm\dlgepbm.src	0	radiobutton	DLG_EXPORT_EPBM	RB_RAW	
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	radiobutton	DLG_EXPORT_EPBM	RB_RAW			45	cs	Binární				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	radiobutton	DLG_EXPORT_EPBM	RB_RAW			45	cy	~Deuaidd				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	radiobutton	DLG_EXPORT_EPBM	RB_RAW			45	da	~Binær				2002-02-02 02:02:02
+goodies	source\filter.vcl\epbm\dlgepbm.src	0	radiobutton	DLG_EXPORT_EPBM	RB_RAW			45	dz	ཟུང་ལྡན།(~B)				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	radiobutton	DLG_EXPORT_EPBM	RB_RAW			45	el	~Δυαδικό				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	radiobutton	DLG_EXPORT_EPBM	RB_RAW			45	en-GB	~Binary				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	radiobutton	DLG_EXPORT_EPBM	RB_RAW			45	en-ZA	~Binary				2002-02-02 02:02:02
@@ -287,6 +294,7 @@ goodies	source\filter.vcl\epbm\dlgepbm.src	0	radiobutton	DLG_EXPORT_EPBM	RB_RAW	
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	radiobutton	DLG_EXPORT_EPBM	RB_RAW			45	fi	~Binääri				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	radiobutton	DLG_EXPORT_EPBM	RB_RAW			45	fr	~Binaire				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	radiobutton	DLG_EXPORT_EPBM	RB_RAW			45	ga	~Dénártha				2002-02-02 02:02:02
+goodies	source\filter.vcl\epbm\dlgepbm.src	0	radiobutton	DLG_EXPORT_EPBM	RB_RAW			45	gl	~Binario				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	radiobutton	DLG_EXPORT_EPBM	RB_RAW			45	gu	દ્રીઅંકી(~B)				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	radiobutton	DLG_EXPORT_EPBM	RB_RAW			45	gu-IN	દ્રીઅંકી(~B)				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	radiobutton	DLG_EXPORT_EPBM	RB_RAW			45	he	בינרי				2002-02-02 02:02:02
@@ -331,7 +339,7 @@ goodies	source\filter.vcl\epbm\dlgepbm.src	0	radiobutton	DLG_EXPORT_EPBM	RB_RAW	
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	radiobutton	DLG_EXPORT_EPBM	RB_RAW			45	th	เ~ลขฐานสอง				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	radiobutton	DLG_EXPORT_EPBM	RB_RAW			45	ti-ER	ክልተኣዊ				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	radiobutton	DLG_EXPORT_EPBM	RB_RAW			45	tn	~Bobedi				2002-02-02 02:02:02
-goodies	source\filter.vcl\epbm\dlgepbm.src	0	radiobutton	DLG_EXPORT_EPBM	RB_RAW			45	tr	~İkili				2002-02-02 02:02:02
+goodies	source\filter.vcl\epbm\dlgepbm.src	0	radiobutton	DLG_EXPORT_EPBM	RB_RAW			45	tr	İk~ili				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	radiobutton	DLG_EXPORT_EPBM	RB_RAW			45	ts	~Xikatsa				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	radiobutton	DLG_EXPORT_EPBM	RB_RAW			45	uk	Двійковий				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	radiobutton	DLG_EXPORT_EPBM	RB_RAW			45	ur-IN	باينری				2002-02-02 02:02:02
