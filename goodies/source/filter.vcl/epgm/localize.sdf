@@ -13,9 +13,9 @@
 #
 #   $RCSfile: localize.sdf,v $
 #
-#   $Revision: 1.17 $
+#   $Revision: 1.18 $
 #
-#   last change: $Author: vg $ $Date: 2007-02-02 19:36:30 $
+#   last change: $Author: ihi $ $Date: 2007-04-19 16:53:03 $
 #
 #   The Contents of this file are made available subject to
 #   the terms of GNU Lesser General Public License Version 2.1.
@@ -52,6 +52,7 @@ goodies	source\filter.vcl\epgm\dlgepgm.src	0	fixedline	DLG_EXPORT_EPGM	GRP_FORMA
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	fixedline	DLG_EXPORT_EPGM	GRP_FORMAT			60	cs	Formát souboru				2002-02-02 02:02:02
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	fixedline	DLG_EXPORT_EPGM	GRP_FORMAT			60	cy	Fformat ffeil				2002-02-02 02:02:02
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	fixedline	DLG_EXPORT_EPGM	GRP_FORMAT			60	da	Filformat				2002-02-02 02:02:02
+goodies	source\filter.vcl\epgm\dlgepgm.src	0	fixedline	DLG_EXPORT_EPGM	GRP_FORMAT			60	de	Datei Format				2002-02-02 02:02:02
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	fixedline	DLG_EXPORT_EPGM	GRP_FORMAT			60	dz	ཡིག་སྣོད་རྩ་སྒྲིག				2002-02-02 02:02:02
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	fixedline	DLG_EXPORT_EPGM	GRP_FORMAT			60	el	Μορφή αρχείου				2002-02-02 02:02:02
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	fixedline	DLG_EXPORT_EPGM	GRP_FORMAT			60	en-GB	File format				2002-02-02 02:02:02
@@ -129,6 +130,7 @@ goodies	source\filter.vcl\epgm\dlgepgm.src	0	modaldialog	DLG_EXPORT_EPGM				133	
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	modaldialog	DLG_EXPORT_EPGM				133	cs	Volby pro formát PGM				2002-02-02 02:02:02
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	modaldialog	DLG_EXPORT_EPGM				133	cy	Dewisiadau PGM				2002-02-02 02:02:02
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	modaldialog	DLG_EXPORT_EPGM				133	da	PGM indstillinger				2002-02-02 02:02:02
+goodies	source\filter.vcl\epgm\dlgepgm.src	0	modaldialog	DLG_EXPORT_EPGM				133	de	PGM Optionen				2002-02-02 02:02:02
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	modaldialog	DLG_EXPORT_EPGM				133	dz	པི་ཇི་ཨེམ་ འདམ་ཁ།།				2002-02-02 02:02:02
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	modaldialog	DLG_EXPORT_EPGM				133	el	Επιλογές PGM				2002-02-02 02:02:02
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	modaldialog	DLG_EXPORT_EPGM				133	en-GB	PGM Options				2002-02-02 02:02:02
@@ -206,6 +208,7 @@ goodies	source\filter.vcl\epgm\dlgepgm.src	0	radiobutton	DLG_EXPORT_EPGM	RB_ASCI
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	radiobutton	DLG_EXPORT_EPGM	RB_ASCII			45	cs	Textový				2002-02-02 02:02:02
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	radiobutton	DLG_EXPORT_EPGM	RB_ASCII			45	cy	~Testun				2002-02-02 02:02:02
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	radiobutton	DLG_EXPORT_EPGM	RB_ASCII			45	da	~Tekst				2002-02-02 02:02:02
+goodies	source\filter.vcl\epgm\dlgepgm.src	0	radiobutton	DLG_EXPORT_EPGM	RB_ASCII			45	de	~Text				2002-02-02 02:02:02
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	radiobutton	DLG_EXPORT_EPGM	RB_ASCII			45	dz	ཚིག་ཡིག(~T)				2002-02-02 02:02:02
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	radiobutton	DLG_EXPORT_EPGM	RB_ASCII			45	el	~Κείμενο				2002-02-02 02:02:02
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	radiobutton	DLG_EXPORT_EPGM	RB_ASCII			45	en-GB	~Text				2002-02-02 02:02:02
@@ -283,6 +286,7 @@ goodies	source\filter.vcl\epgm\dlgepgm.src	0	radiobutton	DLG_EXPORT_EPGM	RB_RAW	
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	radiobutton	DLG_EXPORT_EPGM	RB_RAW			45	cs	Binární				2002-02-02 02:02:02
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	radiobutton	DLG_EXPORT_EPGM	RB_RAW			45	cy	~Deuaidd				2002-02-02 02:02:02
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	radiobutton	DLG_EXPORT_EPGM	RB_RAW			45	da	~Binær				2002-02-02 02:02:02
+goodies	source\filter.vcl\epgm\dlgepgm.src	0	radiobutton	DLG_EXPORT_EPGM	RB_RAW			45	de	~Binär				2002-02-02 02:02:02
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	radiobutton	DLG_EXPORT_EPGM	RB_RAW			45	dz	ཟུང་ལྡན།(~B)				2002-02-02 02:02:02
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	radiobutton	DLG_EXPORT_EPGM	RB_RAW			45	el	~Δυαδικό				2002-02-02 02:02:02
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	radiobutton	DLG_EXPORT_EPGM	RB_RAW			45	en-GB	~Binary				2002-02-02 02:02:02
