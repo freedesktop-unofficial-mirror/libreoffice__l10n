@@ -13,9 +13,9 @@
 #
 #   $RCSfile: localize.sdf,v $
 #
-#   $Revision: 1.17 $
+#   $Revision: 1.18 $
 #
-#   last change: $Author: vg $ $Date: 2007-02-02 19:36:19 $
+#   last change: $Author: ihi $ $Date: 2007-04-19 16:52:34 $
 #
 #   The Contents of this file are made available subject to
 #   the terms of GNU Lesser General Public License Version 2.1.
@@ -52,6 +52,7 @@ goodies	source\filter.vcl\epbm\dlgepbm.src	0	fixedline	DLG_EXPORT_EPBM	GRP_FORMA
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	fixedline	DLG_EXPORT_EPBM	GRP_FORMAT			60	cs	Formát souboru				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	fixedline	DLG_EXPORT_EPBM	GRP_FORMAT			60	cy	Fformat ffeil				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	fixedline	DLG_EXPORT_EPBM	GRP_FORMAT			60	da	Filformat				2002-02-02 02:02:02
+goodies	source\filter.vcl\epbm\dlgepbm.src	0	fixedline	DLG_EXPORT_EPBM	GRP_FORMAT			60	de	Datei Format				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	fixedline	DLG_EXPORT_EPBM	GRP_FORMAT			60	dz	ཡིག་སྣོད་རྩ་སྒྲིག				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	fixedline	DLG_EXPORT_EPBM	GRP_FORMAT			60	el	Μορφή αρχείου				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	fixedline	DLG_EXPORT_EPBM	GRP_FORMAT			60	en-GB	File format				2002-02-02 02:02:02
@@ -129,6 +130,7 @@ goodies	source\filter.vcl\epbm\dlgepbm.src	0	modaldialog	DLG_EXPORT_EPBM				133	
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	modaldialog	DLG_EXPORT_EPBM				133	cs	Volby pro PBM formát				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	modaldialog	DLG_EXPORT_EPBM				133	cy	Dewisiadau PBM				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	modaldialog	DLG_EXPORT_EPBM				133	da	PBM indstillinger				2002-02-02 02:02:02
+goodies	source\filter.vcl\epbm\dlgepbm.src	0	modaldialog	DLG_EXPORT_EPBM				133	de	PBM Optionen				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	modaldialog	DLG_EXPORT_EPBM				133	dz	པི་བི་ཨེམ་ འདམ་ཁ།				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	modaldialog	DLG_EXPORT_EPBM				133	el	Επιλογές PBM				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	modaldialog	DLG_EXPORT_EPBM				133	en-GB	PBM Options				2002-02-02 02:02:02
@@ -206,6 +208,7 @@ goodies	source\filter.vcl\epbm\dlgepbm.src	0	radiobutton	DLG_EXPORT_EPBM	RB_ASCI
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	radiobutton	DLG_EXPORT_EPBM	RB_ASCII			45	cs	Textový				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	radiobutton	DLG_EXPORT_EPBM	RB_ASCII			45	cy	~Testun				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	radiobutton	DLG_EXPORT_EPBM	RB_ASCII			45	da	~Tekst				2002-02-02 02:02:02
+goodies	source\filter.vcl\epbm\dlgepbm.src	0	radiobutton	DLG_EXPORT_EPBM	RB_ASCII			45	de	~Text				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	radiobutton	DLG_EXPORT_EPBM	RB_ASCII			45	dz	ཚིག་ཡིག(~T)				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	radiobutton	DLG_EXPORT_EPBM	RB_ASCII			45	el	~Κείμενο				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	radiobutton	DLG_EXPORT_EPBM	RB_ASCII			45	en-GB	~Text				2002-02-02 02:02:02
@@ -283,6 +286,7 @@ goodies	source\filter.vcl\epbm\dlgepbm.src	0	radiobutton	DLG_EXPORT_EPBM	RB_RAW	
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	radiobutton	DLG_EXPORT_EPBM	RB_RAW			45	cs	Binární				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	radiobutton	DLG_EXPORT_EPBM	RB_RAW			45	cy	~Deuaidd				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	radiobutton	DLG_EXPORT_EPBM	RB_RAW			45	da	~Binær				2002-02-02 02:02:02
+goodies	source\filter.vcl\epbm\dlgepbm.src	0	radiobutton	DLG_EXPORT_EPBM	RB_RAW			45	de	~Binär				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	radiobutton	DLG_EXPORT_EPBM	RB_RAW			45	dz	ཟུང་ལྡན།(~B)				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	radiobutton	DLG_EXPORT_EPBM	RB_RAW			45	el	~Δυαδικό				2002-02-02 02:02:02
 goodies	source\filter.vcl\epbm\dlgepbm.src	0	radiobutton	DLG_EXPORT_EPBM	RB_RAW			45	en-GB	~Binary				2002-02-02 02:02:02
