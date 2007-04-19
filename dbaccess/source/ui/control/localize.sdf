@@ -13,9 +13,9 @@
 #
 #   $RCSfile: localize.sdf,v $
 #
-#   $Revision: 1.21 $
+#   $Revision: 1.22 $
 #
-#   last change: $Author: vg $ $Date: 2007-02-02 17:21:52 $
+#   last change: $Author: ihi $ $Date: 2007-04-19 14:55:46 $
 #
 #   The Contents of this file are made available subject to
 #   the terms of GNU Lesser General Public License Version 2.1.
@@ -52,6 +52,7 @@ dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_ALTER				1
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_ALTER				13691	cs	Změnit strukturu				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_ALTER				13691	cy	Newid strwythur				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_ALTER				13691	da	Modificer struktur				2002-02-02 02:02:02
+dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_ALTER				0	de	Struktur ändern				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_ALTER				13691	dz	གཞི་བཀོད་བསྒྱུར།				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_ALTER				0	el	Αλλαγή δομής				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_ALTER				0	en-GB	Alter structure				2002-02-02 02:02:02
@@ -128,6 +129,7 @@ dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DELETE				
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DELETE				13691	cs	Odstranit data				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DELETE				13691	cy	Dileu data				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DELETE				13691	da	Slet data				2002-02-02 02:02:02
+dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DELETE				0	de	Daten löschen				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DELETE				13691	dz	གནད་སྡུད་བཏོན་གཏང་།				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DELETE				0	el	Διαγραφή δεδομένων				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DELETE				0	en-GB	Delete data				2002-02-02 02:02:02
@@ -205,6 +207,7 @@ dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DROP				13
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DROP				13691	cs	Zahodit strukturu				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DROP				13691	cy	Gollwng strwythur				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DROP				13691	da	Slet struktur				2002-02-02 02:02:02
+dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DROP				0	de	Struktur löschen				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DROP				13691	dz	གཞི་བཀོད་བཀོག་བཞག				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DROP				0	el	Απόρριψη δομής				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DROP				0	en-GB	Drop structure				2002-02-02 02:02:02
@@ -281,6 +284,7 @@ dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_INSERT				
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_INSERT				13691	cs	Vložit data				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_INSERT				13691	cy	Mewnosod data				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_INSERT				13691	da	Indsæt data				2002-02-02 02:02:02
+dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_INSERT				0	de	Daten einfügen				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_INSERT				13691	dz	གནད་སྡུད་བཙུགས།				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_INSERT				0	el	Εισαγωγή δεδομένων				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_INSERT				0	en-GB	Insert data				2002-02-02 02:02:02
@@ -358,6 +362,7 @@ dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_NAME				13
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_NAME				13691	cs	Název tabulky				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_NAME				13691	cy	Enw tabl				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_NAME				13691	da	Tabelnavn				2002-02-02 02:02:02
+dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_NAME				0	de	Tabellename				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_NAME				13691	dz	ཐིག་ཁྲམ་གྱི་མིང་།				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_NAME				0	el	Όνομα πίνακα				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_NAME				0	en-GB	Table name				2002-02-02 02:02:02
@@ -435,6 +440,7 @@ dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_REFERENCE	
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_REFERENCE				13691	cs	Upravit odkazy				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_REFERENCE				13691	cy	Newid cyfeiriadau				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_REFERENCE				13691	da	Modificer referencer				2002-02-02 02:02:02
+dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_REFERENCE				0	de	References ändern				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_REFERENCE				13691	dz	གཞི་བསྟུན་ཚུ་ལེགས་བཅོས་འབད།				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_REFERENCE				0	el	Τροποποίηση παραπομπών				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_REFERENCE				0	en-GB	Modify references				2002-02-02 02:02:02
@@ -511,6 +517,7 @@ dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_SELECT				
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_SELECT				13691	cs	Číst data				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_SELECT				13691	cy	Darllen data				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_SELECT				13691	da	Læs data				2002-02-02 02:02:02
+dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_SELECT				0	de	Daten lesen				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_SELECT				13691	dz	གནད་སྡུད་ལྷག				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_SELECT				0	el	Ανάγνωση δεδομένων				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_SELECT				0	en-GB	Read data				2002-02-02 02:02:02
@@ -588,6 +595,7 @@ dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_UPDATE				
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_UPDATE				13691	cs	Upravit data				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_UPDATE				13691	cy	Newid data				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_UPDATE				13691	da	Modificer data				2002-02-02 02:02:02
+dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_UPDATE				0	de	Daten ändern				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_UPDATE				13691	dz	གནད་སྡུད་ ལེགས་བཅོས་འབད།				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_UPDATE				0	el	Τροποποίηση δεδομένων				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_UPDATE				0	en-GB	Modify data				2002-02-02 02:02:02
@@ -665,6 +673,7 @@ dbaccess	source\ui\control\tabletree.src	0	menuitem	MENU_TABLETREE_POPUP	MID_SOR
 dbaccess	source\ui\control\tabletree.src	0	menuitem	MENU_TABLETREE_POPUP	MID_SORT_ASCENDING			13691	cs	Řadit vzestupně				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	menuitem	MENU_TABLETREE_POPUP	MID_SORT_ASCENDING			13691	cy	Trefnu Esgynnol				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	menuitem	MENU_TABLETREE_POPUP	MID_SORT_ASCENDING			13691	da	Sorter stigende				2002-02-02 02:02:02
+dbaccess	source\ui\control\tabletree.src	0	menuitem	MENU_TABLETREE_POPUP	MID_SORT_ASCENDING			0	de	Aufsteigend Sortieren				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	menuitem	MENU_TABLETREE_POPUP	MID_SORT_ASCENDING			13691	dz	ཡར་འཛེགས་དབྱེ་སེལ།				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	menuitem	MENU_TABLETREE_POPUP	MID_SORT_ASCENDING			0	el	Ταξινόμηση κατά αύξουσα				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	menuitem	MENU_TABLETREE_POPUP	MID_SORT_ASCENDING			0	en-GB	Sort Ascending				2002-02-02 02:02:02
@@ -742,6 +751,7 @@ dbaccess	source\ui\control\tabletree.src	0	menuitem	MENU_TABLETREE_POPUP	MID_SOR
 dbaccess	source\ui\control\tabletree.src	0	menuitem	MENU_TABLETREE_POPUP	MID_SORT_DECENDING			13691	cs	Řadit sestupně				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	menuitem	MENU_TABLETREE_POPUP	MID_SORT_DECENDING			13691	cy	Trefnu Disgynnol				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	menuitem	MENU_TABLETREE_POPUP	MID_SORT_DECENDING			13691	da	Sorter faldende				2002-02-02 02:02:02
+dbaccess	source\ui\control\tabletree.src	0	menuitem	MENU_TABLETREE_POPUP	MID_SORT_DECENDING			0	de	Absteigend Sortieren				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	menuitem	MENU_TABLETREE_POPUP	MID_SORT_DECENDING			13691	dz	མར་འབབ་དབྱེ་སེལ།				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	menuitem	MENU_TABLETREE_POPUP	MID_SORT_DECENDING			0	el	Ταξινόμηση κατά φθίνουσα				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	menuitem	MENU_TABLETREE_POPUP	MID_SORT_DECENDING			0	en-GB	Sort Descending				2002-02-02 02:02:02
@@ -819,6 +829,7 @@ dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_TABLES				13691	ca	Tot
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_TABLES				13691	cs	Všechny tabulky				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_TABLES				13691	cy	Pob tabl				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_TABLES				13691	da	Alle tabeller				2002-02-02 02:02:02
+dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_TABLES				0	de	Alle Tabellen				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_TABLES				13691	dz	ཐིག་ཁྲམ་ཚུ་ཆ་མཉམ།				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_TABLES				0	el	Όλοι οι πίνακες				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_TABLES				0	en-GB	All tables				2002-02-02 02:02:02
@@ -896,6 +907,7 @@ dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_TABLES_AND_VIEWS				13
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_TABLES_AND_VIEWS				13691	cs	Všechny tabulky a pohledy				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_TABLES_AND_VIEWS				13691	cy	Pob tabl a golwg				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_TABLES_AND_VIEWS				13691	da	Alle tabeller og tabelvisninger				2002-02-02 02:02:02
+dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_TABLES_AND_VIEWS				0	de	Alle Tabellen und Tabellensichten				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_TABLES_AND_VIEWS				13691	dz	ཐིག་ཁྲམ་ཚུ་དང་མཐོང་སྣང་ཚུ་ཆ་མཉམ།				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_TABLES_AND_VIEWS				0	el	Όλοι οι πίνακες και όλες οι προβολές τους				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_TABLES_AND_VIEWS				0	en-GB	All tables and views				2002-02-02 02:02:02
@@ -973,6 +985,7 @@ dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_VIEWS				13691	ca	Tote
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_VIEWS				13691	cs	Všechny pohledy				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_VIEWS				13691	cy	Pob golwg				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_VIEWS				13691	da	Alle tabelvisninger				2002-02-02 02:02:02
+dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_VIEWS				0	de	Alle Tabellensichten				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_VIEWS				13691	dz	མཐོང་སྣང་ཚུ་ཆ་མཉམ།				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_VIEWS				0	el	Όλες οι προβολές των πινάκων				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_VIEWS				0	en-GB	All views				2002-02-02 02:02:02
@@ -1050,6 +1063,7 @@ dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT				13691	c
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT				13691	cs	Nepodařilo se vytvořit připojení pro URL #connurl#.				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT				13691	cy	Methu creu cysylltiad ar gyfer yr URL #connurl#.				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT				13691	da	Det var ikke muligt at oprette forbindelse til URL #connurl#.				2002-02-02 02:02:02
+dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT				0	de	Es konnte keine Verbindung für den URL #connurl# aufgebaut werden.				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT				13691	dz	ཡུ་ཨར་ཨེལ་#connurl#གྱི་དོན་ལུ་ མཐུད་ལམ་གཞི་བཙུགས་འབད་མ་ཚུགས།				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT				0	el	Δεν ήταν δυνατή η δημιουργία σύνδεσης για το URL #connurl#.				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT				0	en-GB	No connection could be established for the URL #connurl#.				2002-02-02 02:02:02
@@ -1125,6 +1139,7 @@ dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT_PLEASECHEC
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT_PLEASECHECK				13691	cs	Zkontrolujte, prosím, aktuální nastavení, např. uživatelské jméno a heslo.				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT_PLEASECHECK				13691	cy	Gwiriwch y gosodiadau presennol, ee enw defnyddiwr a chyfrinair.				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT_PLEASECHECK				13691	da	Kontroller venligst de aktuelle indstillinger for eksempel brugernavn og adgangskode.				2002-02-02 02:02:02
+dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT_PLEASECHECK				0	de	Bitte überprüfen Sie die aktuellen Einstellungen, zum Beispiel hinsichtlich Benutzername und Kennwort.				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT_PLEASECHECK				13691	dz	ད་ལྟོའི་སྒྲིག་སྟངས་ཚུ་ཞིབ་དཔྱད་འབད་གནང་ དཔེར་ན་ ལག་ལེན་པའི་མིང་དང་ཆོག་ཡིག་བཟུམ།				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT_PLEASECHECK				0	el	Ελέγξτε τις τρέχουσες ρυθμίσεις, π.χ. όνομα χρήστη και κωδικό πρόσβασης.				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT_PLEASECHECK				0	en-GB	Please check the current settings, for example user name and password.				2002-02-02 02:02:02
@@ -1201,6 +1216,7 @@ dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCREATE_DRIVERMANAG
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCREATE_DRIVERMANAGER				13691	cs	Nepodařilo se připojit ke správci SDBC ovladačů (#servicename#).				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCREATE_DRIVERMANAGER				13691	cy	Methu cysylltu â rheolwr gyrrwr SDBC (#servicename#).				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCREATE_DRIVERMANAGER				13691	da	Det var ikke muligt at oprette en forbindelse til SDBC driver håndteringen (#servicename#).				2002-02-02 02:02:02
+dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCREATE_DRIVERMANAGER				0	de	Es konnte keine Verbindung zum SDBC-Treiber-Manager (#servicename#) hergestellt werden.				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCREATE_DRIVERMANAGER				13691	dz	ཨེསི་ཌི་བི་སི་ འདྲེན་བྱེད་འཛིན་སྐྱོང་པ་(#servicename#)ལུ་ མཐུད་མི་ཚུགས་པས།				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCREATE_DRIVERMANAGER				0	el	Δεν ήταν δυνατόν να γίνει η σύνδεση με το πρόγραμμα διαχείρισης των προγραμμάτων οδήγησης SDBC (#servicename#).				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCREATE_DRIVERMANAGER				0	en-GB	Cannot connect to the SDBC driver manager (#servicename#).				2002-02-02 02:02:02
@@ -1276,6 +1292,7 @@ dbaccess	source\ui\control\tabletree.src	0	string	STR_NOREGISTEREDDRIVER				1369
 dbaccess	source\ui\control\tabletree.src	0	string	STR_NOREGISTEREDDRIVER				13691	cs	Není zaregistrován žádný ovladač pro URL #connurl#.				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_NOREGISTEREDDRIVER				13691	cy	Heb adnabod y gyrrwr ar gyfer yr URL #connurl#.				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_NOREGISTEREDDRIVER				13691	da	Der er ikke registeret en driver for URL'en #connurl#!				2002-02-02 02:02:02
+dbaccess	source\ui\control\tabletree.src	0	string	STR_NOREGISTEREDDRIVER				0	de	Es ist kein Treiber für die URL #connurl# registriert!				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_NOREGISTEREDDRIVER				13691	dz	ཡུ་ཨར་ཨེལ་#connurl#གྱི་དོན་ལུ་ འདྲེན་བྱེད་གཅིག་ ཐོ་འགོད་མ་འབད་བས།				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_NOREGISTEREDDRIVER				0	el	Δεν υπάρχει δηλωμένο πρόγραμμα οδήγησης για το URL #connurl#				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_NOREGISTEREDDRIVER				0	en-GB	A driver is not registered for the URL #connurl#.				2002-02-02 02:02:02
@@ -1351,6 +1368,7 @@ dbaccess	source\ui\control\tabletree.src	0	string	STR_NOTABLEINFO				13691	ca	S'
 dbaccess	source\ui\control\tabletree.src	0	string	STR_NOTABLEINFO				13691	cs	Spojení bylo navázáno, ale informace o tabulkách v databázi není dostupná.				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_NOTABLEINFO				13691	cy	Wedi cysylltu'n llwyddiannus, ond nid oes gwybodaeth am gronfeydd data ar gael. 				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_NOTABLEINFO				13691	da	Forbindelsen er blevet oprettet; men det var ikke muligt at hente informationer om tabeller i databasen.				2002-02-02 02:02:02
+dbaccess	source\ui\control\tabletree.src	0	string	STR_NOTABLEINFO				0	de	Die Verbindung wurde erfolgreich hergestellt, aber es konnten keine Informationen über Tabellen in der Datenbank ermittelt werden.				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_NOTABLEINFO				13691	dz	མཐར་འཁྱོལ་སྦེ་མཐུད་ཅི་ དེ་འབདཝ་ད་ གནད་སྡུད་གཞི་རྟེན་གྱི་ཐིག་ཁྲམ་ཚུའི་སྐོར་ལས་ བརྡ་དོན་ཐོབ་མ་ཚུགས།				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_NOTABLEINFO				0	el	Η σύνδεση πέτυχε αλλά δεν ήταν δυνατόν να προσδιοριστούν πληροφορίες σχετικά με πίνακες στη βάση δεδομένων.				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_NOTABLEINFO				0	en-GB	Successfully connected, but information about database tables is not available.				2002-02-02 02:02:02
@@ -1427,6 +1445,7 @@ dbaccess	source\ui\control\undosqledit.src	0	string	STR_QUERY_UNDO_MODIFYSQLEDIT
 dbaccess	source\ui\control\undosqledit.src	0	string	STR_QUERY_UNDO_MODIFYSQLEDIT				13691	cs	Upravit SQL příkaz(y)				2002-02-02 02:02:02
 dbaccess	source\ui\control\undosqledit.src	0	string	STR_QUERY_UNDO_MODIFYSQLEDIT				13691	cy	Newid datganiad(au) SQL				2002-02-02 02:02:02
 dbaccess	source\ui\control\undosqledit.src	0	string	STR_QUERY_UNDO_MODIFYSQLEDIT				13691	da	Rediger SQL-sætning				2002-02-02 02:02:02
+dbaccess	source\ui\control\undosqledit.src	0	string	STR_QUERY_UNDO_MODIFYSQLEDIT				0	de	SQL modifizieren				2002-02-02 02:02:02
 dbaccess	source\ui\control\undosqledit.src	0	string	STR_QUERY_UNDO_MODIFYSQLEDIT				13691	dz	ཨེསི་ཀིའུ་ཨེལ་ གསལ་བཤད་(ཚུ་) ལེགས་བཅོས་འབད།				2002-02-02 02:02:02
 dbaccess	source\ui\control\undosqledit.src	0	string	STR_QUERY_UNDO_MODIFYSQLEDIT				0	el	Τροποποίηση του SQL				2002-02-02 02:02:02
 dbaccess	source\ui\control\undosqledit.src	0	string	STR_QUERY_UNDO_MODIFYSQLEDIT				0	en-GB	Modify SQL statement(s)				2002-02-02 02:02:02
