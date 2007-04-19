@@ -13,9 +13,9 @@
 #
 #   $RCSfile: localize.sdf,v $
 #
-#   $Revision: 1.26 $
+#   $Revision: 1.27 $
 #
-#   last change: $Author: vg $ $Date: 2007-02-02 17:21:34 $
+#   last change: $Author: ihi $ $Date: 2007-04-19 14:54:35 $
 #
 #   The Contents of this file are made available subject to
 #   the terms of GNU Lesser General Public License Version 2.1.
@@ -79,6 +79,7 @@ dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_TBL_TITLE				13691	ca	Ta
 dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_TBL_TITLE				13691	cs	Tabulka #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_TBL_TITLE				13691	cy	Tabl #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_TBL_TITLE				13691	da	Tabel #				2002-02-02 02:02:02
+dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_TBL_TITLE				0	de	Tabelle #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_TBL_TITLE				13691	dz	ཐིག་ཁྲམ།#				2002-02-02 02:02:02
 dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_TBL_TITLE				0	el	Πίνακας #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_TBL_TITLE				0	en-GB	Table #				2002-02-02 02:02:02
@@ -149,6 +150,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_AD
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_ADMINISTRATE		13691	cs	Zaregistrované databáze...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_ADMINISTRATE		13691	cy	Cronfeydd data cofrestredig...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_ADMINISTRATE		13691	da	Registerede databaser ...				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_ADMINISTRATE		0	de	Registrierte Datenbanken ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_ADMINISTRATE		13691	dz	ཐོ་བཀོད་འབད་ཡོད་པའི་གནད་སྡུད་གཞི་རྟེན་ཚུ་་་་་				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_ADMINISTRATE		1	eo	Registered databases ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_ADMINISTRATE		13691	et	Registreeritud andmebaasid ...				2002-02-02 02:02:02
@@ -178,6 +180,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DS
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	cs	Upravit databázový soubor...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	cy	~Golygu Ffeil y Gronfa Ddata...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	da	Rediger ~databasefil...				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	de	Registrierte Datenbanken ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	el	Επεξεργασία αρχείου ~βάσης δεδομένων...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	en-GB	Edit ~Database File...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	en-ZA	Edit ~Database File...				2002-02-02 02:02:02
@@ -248,6 +251,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_CLOSECONN		HID_BROWSER_CLOSE
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_CLOSECONN		HID_BROWSER_CLOSECONN		13691	cs	Odpojit				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_CLOSECONN		HID_BROWSER_CLOSECONN		13691	cy	~Datgysylltu				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_CLOSECONN		HID_BROWSER_CLOSECONN		13691	da	A~fbryd forbindelse				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_CLOSECONN		HID_BROWSER_CLOSECONN		0	de	Verbindung s~chließen				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_CLOSECONN		HID_BROWSER_CLOSECONN		13691	dz	མཐུད་ལམ་བཏོག་ནི།(~n)				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_CLOSECONN		HID_BROWSER_CLOSECONN		0	el	Κλείσιμο σύνδεση~ς				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_CLOSECONN		HID_BROWSER_CLOSECONN		0	en-GB	Disco~nnect				2002-02-02 02:02:02
@@ -347,6 +351,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_EDIT_DATABASE		HID_BROWSER_E
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_EDIT_DATABASE		HID_BROWSER_EDIT_DATABASE		13691	cs	Upravit databázový soubor...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_EDIT_DATABASE		HID_BROWSER_EDIT_DATABASE		13691	cy	~Golygu Ffeil y Gronfa Ddata...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_EDIT_DATABASE		HID_BROWSER_EDIT_DATABASE		13691	da	Rediger ~databasefil...				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_EDIT_DATABASE		HID_BROWSER_EDIT_DATABASE		0	de	~Datenbankdatei bearbeiten ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_EDIT_DATABASE		HID_BROWSER_EDIT_DATABASE		13691	dz	གནད་སྡུད་གཞི་རྟེན་གྱི་ཡིག་སྣོད་འདི་ ཞུན་དག་འབད་་་་(~D)				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_EDIT_DATABASE		HID_BROWSER_EDIT_DATABASE		0	el	Επεξεργασία αρχείου ~βάσης δεδομένων...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_EDIT_DATABASE		HID_BROWSER_EDIT_DATABASE		1	eo	Redakti Datumbazan Dosieron...				2002-02-02 02:02:02
@@ -393,6 +398,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REF
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REFRESHCONN		13691	cs	Obnovit spojení				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REFRESHCONN		13691	cy	~Adnewyddu'r Cysylltiad				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REFRESHCONN		13691	da	O~pdater forbindelse				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REFRESHCONN		0	de	Verbindung e~rneuern				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REFRESHCONN		13691	dz	མཐུད་ལམ་འདི་ ཡང་སེལ་འབད།(~R)				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REFRESHCONN		0	el	Ανανέωση σύνδεσης				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REFRESHCONN		0	en-GB	~Refresh Connection				2002-02-02 02:02:02
@@ -576,6 +582,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	menuitem	RID_MENU_REFRESH_DATA	ID_BROWSE
 dbaccess	source\ui\browser\sbabrw.src	0	menuitem	RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		13691	cs	Obnovit strukturu				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	menuitem	RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		13691	cy	Ailadeiladu				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	menuitem	RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		13691	da	Genopbyg				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	de	Neu aufbauen				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	menuitem	RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		13691	dz	སླར་བཟོ་རྩིག				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	menuitem	RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	el	Αναδόμηση				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	menuitem	RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	en-GB	Rebuild				2002-02-02 02:02:02
@@ -705,6 +712,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_QUERY_CONFIRM	
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_QUERY_CONFIRM				13691	cs	Tento dotaz již existuje. Chcete jej odstranit?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_QUERY_CONFIRM				13691	cy	Mae'r ymholiad yn bodoli eisoes. Hoffech chi ei ddileu?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_QUERY_CONFIRM				13691	da	Forespørgslen findes allerede. Skal den slettes?				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_QUERY_CONFIRM				0	de	Die Abfrage existiert bereits. Soll sie gelöscht werden?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_QUERY_CONFIRM				13691	dz	འདྲི་དཔྱད་འདི་ཧེ་མ་ལས་རང་ཡོདཔ་ཨིན། ཁྱོད་ཀྱིས་འདི་ བཏོན་གཏང་ནི་ཨིན་ན?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_QUERY_CONFIRM				0	el	Το ερώτημα υπάρχει ήδη. Θέλετε να διαγραφεί;				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_QUERY_CONFIRM				0	en-GB	The query already exists. Do you want to delete it?				2002-02-02 02:02:02
@@ -781,6 +789,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_ROWS				13691	
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_ROWS				13691	cs	Chcete vymazat vybraná data?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_ROWS				13691	cy	Hoffech chi ddileu'r data hwn?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_ROWS				13691	da	Skal de markerede data slettes?				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_ROWS				0	de	Sollen die selektierten Daten gelöscht werden?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_ROWS				13691	dz	ཁྱོད་ཀྱིས་ སེལ་འཐུ་འབད་ཡོད་པའི་གནད་སྡུད་འདི་ བཏོན་གཏང་ནི་ཨིན་ན?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_ROWS				0	el	Θέλετε να διαγραφούν τα επιλεγμένα δεδομένα;				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_ROWS				0	en-GB	Do you want to delete the selected data?				2002-02-02 02:02:02
@@ -857,6 +866,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				13691
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				13691	cs	Aktuální záznam byl změněn.\nChcete uložit změny?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				13691	cy	Mae'r cofnod presennol wedi newid.\nHoffech chi gadw'r newid?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				13691	da	Den aktuelle datapost er blevet ændret.\nSkal ændringerne gemmes?				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	de	Der aktuelle Datensatz wurde geändert.\nSollen die Änderungen gespeichert werden?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				13691	dz	ད་ལྟོའི་དྲན་ཐོ་འདི་བསྒྱུར་བཅོས་འབད་ཡི།\nཁྱོད་ཀྱིས་ བསྒྱུར་བཅོས་འབད་མི་ཚུ་སྲུང་བཞག་འབད་ནི་ཨིན་ན?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	el	Η τρέχουσα εγγραφή τροποποιήθηκε.\nΝα αποθηκευτούν οι αλλαγές;				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	en-GB	The current record has been changed.\nDo you want to save the changes?				2002-02-02 02:02:02
@@ -931,6 +941,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_CONNECTION_LOST				13691	
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_CONNECTION_LOST				13691	cs	Připojení k databázi bylo ztraceno. Chcete se znovu připojit?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_CONNECTION_LOST				13691	cy	Mae'r cysylltiad â'r gronfa ddata wedi ei golli. Hoffech chi ailgysylltu?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_CONNECTION_LOST				13691	da	Forbindelsen til databasen er tabt! Skal den genoprettes?				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_CONNECTION_LOST				0	de	Die Verbindung zur Datenbank wurde gelöscht! Soll Sie wieder aufgebaut werden?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_CONNECTION_LOST				13691	dz	གནད་སྡུད་གཞི་རྟེན་གྱི་ མཐུད་ལམ་འདི་ བརླག་སྟོར་ཞུགས་ནུག ཁྱོད་ཀྱིས་སླར་ མཐུད་ནི་ཨིན་ན?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_CONNECTION_LOST				0	el	Η σύνδεση με τη βάση δεδομένων χάθηκε. Θέλετε να επανασυνδεθείτε;				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_CONNECTION_LOST				0	en-GB	The connection to the database has been lost. Do you want to reconnect?				2002-02-02 02:02:02
@@ -1331,6 +1342,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_CONNECTION_LOST				13691	
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_CONNECTION_LOST				13691	cs	Spojení ztraceno				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_CONNECTION_LOST				13691	cy	Colli'r cysylltiad				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_CONNECTION_LOST				13691	da	Forbindelsen blev afbrudt				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_CONNECTION_LOST				0	de	Vebindung verloren				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_CONNECTION_LOST				13691	dz	མཐུད་ལམ་བརླག་སྟོར་ཞུགས་ནུག				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_CONNECTION_LOST				0	el	Η σύνδεση διακόπηκε				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_CONNECTION_LOST				0	en-GB	Connection lost				2002-02-02 02:02:02
@@ -1407,6 +1419,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_DATABROWSER_FILTERED				1
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_DATABROWSER_FILTERED				13691	cs	(filtrováno)				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_DATABROWSER_FILTERED				13691	cy	(hidlwyd)				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_DATABROWSER_FILTERED				13691	da	(filtreret)				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_DATABROWSER_FILTERED				0	de	(gefiltert)				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_DATABROWSER_FILTERED				13691	dz	(བཙགས་ཅི།)				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_DATABROWSER_FILTERED				0	el	(φιλτραρισμένα)				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_DATABROWSER_FILTERED				0	en-GB	(filtered)				2002-02-02 02:02:02
@@ -1538,6 +1551,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_QUERIES_CONTAINER				1369
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_QUERIES_CONTAINER				13691	cs	Dotazy				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_QUERIES_CONTAINER				13691	cy	Ymholiadau				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_QUERIES_CONTAINER				13691	da	Forespørgsler				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_QUERIES_CONTAINER				0	de	Abfragen				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_QUERIES_CONTAINER				13691	dz	འདྲི་དཔྱད་ཚུ།				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_QUERIES_CONTAINER				0	el	Ερωτήματα				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_QUERIES_CONTAINER				0	en-GB	Queries				2002-02-02 02:02:02
@@ -1615,6 +1629,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_TABLES_CONTAINER				13691
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_TABLES_CONTAINER				13691	cs	Tabulky				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_TABLES_CONTAINER				13691	cy	Tablau				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_TABLES_CONTAINER				13691	da	Tabeller				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_TABLES_CONTAINER				0	de	Tabellen				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_TABLES_CONTAINER				13691	dz	ཐིག་ཁྲམ་ཚུ།				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_TABLES_CONTAINER				0	el	Πίνακες				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_TABLES_CONTAINER				0	en-GB	Tables				2002-02-02 02:02:02
@@ -1692,6 +1707,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_FILTER				136
 dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_FILTER				13691	cs	Chyba při nastavení kritérií filtru				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_FILTER				13691	cy	Gwall wrth osod meini prawf hidlo				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_FILTER				13691	da	Fejl ved bestemmelse af filtreringskriterierne				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_FILTER				0	de	Fehler beim Setzen der Filter-Kriterien				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_FILTER				13691	dz	ཚགས་མའི་ཁྱད་ཚིག་སྒྲིག་སྟངས་འབད་ནི་ལུ་ འཛོལ་བ།				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_FILTER				0	el	Σφάλμα κατά τον ορισμό των κριτηρίων φίλτρου				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_FILTER				0	en-GB	Error setting the filter criteria				2002-02-02 02:02:02
@@ -1768,6 +1784,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				1369
 dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				13691	cs	Chyba při nastavení kritérií pro řazení				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				13691	cy	Gwall wrth osod meini prawf trefnu				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				13691	da	Fejl ved bestemmelse af sorteringskriterierne				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				0	de	Fehler beim Setzen der Sortier-Kriterien				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				13691	dz	ཁྱད་ཚད་དབྱེ་སེལ་ སྒྲིག་སྟངས་འབད་ནི་ལུ་ འཛོལ་བ།				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				0	el	Σφάλμα κατά τον ορισμό των κριτηρίων ταξινόμησης				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				0	en-GB	Error setting the sort criteria				2002-02-02 02:02:02
@@ -1843,6 +1860,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	STR_CONNECTING_DATASOURCE				1369
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_CONNECTING_DATASOURCE				13691	cs	Připojení k "$name$" ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_CONNECTING_DATASOURCE				13691	cy	Cysylltu â "$name$" ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_CONNECTING_DATASOURCE				13691	da	Opretter forbindelse til "$name$" ...				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_CONNECTING_DATASOURCE				0	de	Verbindungsaufbau zu "$name$" ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_CONNECTING_DATASOURCE				13691	dz	"$name$"ལུ་ མཐུད་དོ་་་་་				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_CONNECTING_DATASOURCE				0	el	Σύνδεση με το "$name$" ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_CONNECTING_DATASOURCE				0	en-GB	Connecting to "$name$" ...				2002-02-02 02:02:02
@@ -1918,6 +1936,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	STR_COULDNOTCONNECT_DATASOURCE			
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_COULDNOTCONNECT_DATASOURCE				13691	cs	Nepodařilo se připojení k datovému zdroji "$name$".				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_COULDNOTCONNECT_DATASOURCE				13691	cy	Methu creu cysylltiad â'r ffynhonnell data"$enw$".				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_COULDNOTCONNECT_DATASOURCE				13691	da	Der kunne ikke oprettes forbindelse til datakilden "$name$".				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_COULDNOTCONNECT_DATASOURCE				0	de	Die Verbindung zur Datenquelle "$name$" konnte nicht hergestellt werden.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_COULDNOTCONNECT_DATASOURCE				13691	dz	གནད་སྡུད་ཀྱི་འབྱུང་ཁུངས་"$name$"གྱི་ མཐུད་ལམ་འདི་ གཞི་བཙུགས་འབད་མ་ཚུགས།				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_COULDNOTCONNECT_DATASOURCE				0	el	Δεν ήταν δυνατή η δημιουργία σύνδεσης με την προέλευση δεδομένων "$name$".				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_COULDNOTCONNECT_DATASOURCE				0	en-GB	The connection to the data source "$name$" could not be established.				2002-02-02 02:02:02
@@ -1993,6 +2012,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	STR_DSBROWSER_TITLE				13691	ca	V
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_DSBROWSER_TITLE				13691	cs	Pohled na datové zdroje				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_DSBROWSER_TITLE				13691	cy	Golwg ffynonellau data				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_DSBROWSER_TITLE				13691	da	Datakildevisning				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_DSBROWSER_TITLE				0	de	Datenquellen Ansicht				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_DSBROWSER_TITLE				13691	dz	གནད་སྡུད་འབྱུང་ཁུངས་ཚུའི་མཐོང་སྣང་།				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_DSBROWSER_TITLE				0	el	Προβολή προελεύσεων δεδομένων				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_DSBROWSER_TITLE				0	en-GB	Data sources view				2002-02-02 02:02:02
@@ -2068,6 +2088,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_QUERY				13691	ca	S'e
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_QUERY				13691	cs	Načítání dotazu $name$ ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_QUERY				13691	cy	Llwytho ymholiad $names$ ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_QUERY				13691	da	Indlæser forespørgslen $name$ ...				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_QUERY				0	de	lade Abfrage $name$ ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_QUERY				13691	dz	$name$ འདྲི་དཔྱད་མངོན་གསལ་འབད་དོ་་་་་་				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_QUERY				0	el	Φόρτωση ερωτήματος $name$ ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_QUERY				0	en-GB	Loading query $name$ ...				2002-02-02 02:02:02
@@ -2143,6 +2164,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_TABLE				13691	ca	S'e
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_TABLE				13691	cs	Načítání tabulky $name$ ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_TABLE				13691	cy	Llwytho tabl $names$ ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_TABLE				13691	da	Indlæser tabellen $name$ ...				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_TABLE				0	de	lade Tabelle $name$ ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_TABLE				13691	dz	$name$ ཐིག་ཁྲམ་མངོན་གསལ་འབད་དོ་་་				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_TABLE				0	el	Φόρτωση πίνακα $name$ ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_TABLE				0	en-GB	Loading table $name$ ...				2002-02-02 02:02:02
@@ -2218,6 +2240,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	STR_NO_TABLE_FORMAT_INSIDE				136
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_NO_TABLE_FORMAT_INSIDE				13691	cs	Nebyl nalezen žádný formát tabulky.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_NO_TABLE_FORMAT_INSIDE				13691	cy	Methu canfod fformat tabl				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_NO_TABLE_FORMAT_INSIDE				13691	da	Det var ikke muligt at finde noget tabelformat.				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_NO_TABLE_FORMAT_INSIDE				0	de	Es konnte kein Tabellenformat gefunden werden.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_NO_TABLE_FORMAT_INSIDE				13691	dz	ཐིག་ཁྲམ་རྩ་སྒྲིག་མ་ཐོབ།				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_NO_TABLE_FORMAT_INSIDE				0	el	Δεν ήταν δυνατή η εύρεση μορφοποίησης πίνακα.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_NO_TABLE_FORMAT_INSIDE				0	en-GB	No table format could be found.				2002-02-02 02:02:02
@@ -2293,6 +2316,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS				13691	
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS				13691	cs	Obdržena varování				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS				13691	cy	Canfod rhybuddion				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS				13691	da	Advarsler foreligger				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS				0	de	Warnungen aufgetreten.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS				13691	dz	ཉེན་བརྡ་ཚུ་གདོང་ཐུག་བྱུང་ཡོདཔ།				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS				0	el	Παρουσιάστηκαν προειδοποιήσεις.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS				0	en-GB	Warnings encountered				2002-02-02 02:02:02
@@ -2368,6 +2392,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS_DETAILS		
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS_DETAILS				13691	cs	Databázové připojení nahlásilo varování během načítání tabulek.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS_DETAILS				13691	cy	Wrth adfer y tablau, cafwyd rhybuddion gan gysylltiad y gronfa ddata..				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS_DETAILS				13691	da	Ved modtagelse af tabellerne blev der modtaget advarsler fra databaseforbindelsen.				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS_DETAILS				0	de	Beim Ermitteln der Tabellen wurden von der Datenbankverbindung Warnungen gemeldet.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS_DETAILS				13691	dz	ཐིག་ཁྲམ་ཚུ་སླར་འདྲེན་འབད་བའི་བསྒང་ལུ་ གནད་སྡུད་གཞི་རྟེན་གྱི་མཐུད་ལམ་གྱིས་ཉེན་བརྡ་ཚུ་སྙན་ཞུ་འབད་ནུག				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS_DETAILS				0	el	Κατά την διαδικασία ανεύρεσης των πινάκων υπήρξαν προειδοποιήσεις από την σύνδεση της βάσης δεδομένων.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS_DETAILS				0	en-GB	While retrieving the tables, warnings were reported by the database connection.				2002-02-02 02:02:02
@@ -2456,6 +2481,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_TABLE				13691	c
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_TABLE				13691	cs	Chcete odstranit tabulku '%1'?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_TABLE				13691	cy	Hoffech chi ddileu'r tabl '%1'?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_TABLE				13691	da	Skal tabellen '%1' slettes?				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_TABLE				0	de	Soll die Tabelle '%1' gelöscht werden?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_TABLE				13691	dz	ཁྱོད་ཀྱིས་ ཐིག་ཁྲམ་ '%1' འདི་ བཏོན་གཏང་ནི་ཨིན་ན?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_TABLE				0	el	Θέλετε να διαγραφεί ο πίνακας '%1';				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_TABLE				0	en-GB	Do you want to delete the table '%1'?				2002-02-02 02:02:02
@@ -2531,6 +2557,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	STR_TITLE_CONFIRM_DELETION				136
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_TITLE_CONFIRM_DELETION				13691	cs	Potvrdit odstranění				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_TITLE_CONFIRM_DELETION				13691	cy	Cadarnhau Dileu				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_TITLE_CONFIRM_DELETION				13691	da	Bekræft sletning				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_TITLE_CONFIRM_DELETION				0	de	Löschen bestätigen				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_TITLE_CONFIRM_DELETION				13691	dz	བཏོན་གཏང་ནི་ངེས་དཔྱད་འབད།				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_TITLE_CONFIRM_DELETION				0	el	Επιβεβαίωση διαγραφής				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_TITLE_CONFIRM_DELETION				0	en-GB	Confirm Deletion				2002-02-02 02:02:02
@@ -2608,6 +2635,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BRO
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLATTRSET	HID_BROWSER_COLUMNFORMAT		13691	cs	Formát sloupce...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLATTRSET	HID_BROWSER_COLUMNFORMAT		13691	cy	Ffo~rmat Gwlad...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLATTRSET	HID_BROWSER_COLUMNFORMAT		13691	da	Kolonne~format...				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLATTRSET	HID_BROWSER_COLUMNFORMAT		0	de	Spalten~formatierung...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLATTRSET	HID_BROWSER_COLUMNFORMAT		13691	dz	ཀེར་ཐིག་རྩ་སྒྲིག་་་་་(~F)				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLATTRSET	HID_BROWSER_COLUMNFORMAT		0	el	Μορ~φοποίηση στήλης...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLATTRSET	HID_BROWSER_COLUMNFORMAT		0	en-GB	Column ~Format...				2002-02-02 02:02:02
@@ -2685,6 +2713,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BRO
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLUMNINFO	HID_BROWSER_COLUMNINFO		13691	cs	Zkopírovat popis sloupce				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLUMNINFO	HID_BROWSER_COLUMNINFO		13691	cy	~Copïo Disgrifiad Colofn				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLUMNINFO	HID_BROWSER_COLUMNINFO		13691	da	Kopier kolonneb~eskrivelse				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLUMNINFO	HID_BROWSER_COLUMNINFO		0	de	Spaltenb~eschreibung kopieren				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLUMNINFO	HID_BROWSER_COLUMNINFO		13691	dz	ཀེར་ཐིག་འགྲེལ་བཤད་ འདྲ་བཤུས་རྐྱབས།(~e)				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLUMNINFO	HID_BROWSER_COLUMNINFO		0	el	Αντιγραφή της π~εριγραφής της στήλης				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_COLCTXMENU	ID_BROWSER_COLUMNINFO	HID_BROWSER_COLUMNINFO		0	en-GB	Copy Column D~escription				2002-02-02 02:02:02
@@ -2761,6 +2790,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BRO
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_ROWHEIGHT	HID_BROWSER_ROWHEIGHT		13691	cs	Výška sloupce...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_ROWHEIGHT	HID_BROWSER_ROWHEIGHT		13691	cy	Uchder Rhes...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_ROWHEIGHT	HID_BROWSER_ROWHEIGHT		13691	da	Rækkehøjde...				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_ROWHEIGHT	HID_BROWSER_ROWHEIGHT		0	de	Zeilenhöhe...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_ROWHEIGHT	HID_BROWSER_ROWHEIGHT		13691	dz	གྲལ་ཐིག་གི་མཐོ་ཚད་་་་				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_ROWHEIGHT	HID_BROWSER_ROWHEIGHT		0	el	Ύψος γραμμής...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_ROWHEIGHT	HID_BROWSER_ROWHEIGHT		0	en-GB	Row Height...				2002-02-02 02:02:02
@@ -2838,6 +2868,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BRO
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_TABLEATTR	HID_BROWSER_TABLEFORMAT		13691	cs	Formát tabulky...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_TABLEATTR	HID_BROWSER_TABLEFORMAT		13691	cy	Fformat Tabl...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_TABLEATTR	HID_BROWSER_TABLEFORMAT		13691	da	Tabelformatering...				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_TABLEATTR	HID_BROWSER_TABLEFORMAT		0	de	Tabellenformatierung...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_TABLEATTR	HID_BROWSER_TABLEFORMAT		13691	dz	ཐིག་ཁྲམ་རྩ་སྒྲིག་་་་				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_TABLEATTR	HID_BROWSER_TABLEFORMAT		0	el	Μορφοποίηση πίνακα...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_TABLEATTR	HID_BROWSER_TABLEFORMAT		0	en-GB	Table Format...				2002-02-02 02:02:02
@@ -2915,6 +2946,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_SAVE_CURRENT_RECORD				1
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_SAVE_CURRENT_RECORD				13691	cs	Uložit aktuální záznam				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_SAVE_CURRENT_RECORD				13691	cy	Cadw'r cofnod presennol				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_SAVE_CURRENT_RECORD				13691	da	Gem aktuel datapost				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_SAVE_CURRENT_RECORD				0	de	Aktuellen Datensatz speichern				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_SAVE_CURRENT_RECORD				13691	dz	ད་ལྟོའི་དྲན་ཐོ་འདི་ སྲུངས།				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_SAVE_CURRENT_RECORD				0	el	Αποθήκευση τρέχουσας εγγραφής				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_SAVE_CURRENT_RECORD				0	en-GB	Save current record				2002-02-02 02:02:02
@@ -2991,6 +3023,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				13
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				13691	cs	Zpět: Vstup dat				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				13691	cy	Dadwneud: Mewnbwn Data				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				13691	da	Fortryd: Dataindtastning				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	de	Rückgängig: Dateneingabe				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				13691	dz	འབད་བཤོལ་:གནད་སྡུད་ ཨིན་པུཊི།				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	el	Αναίρεση: Εισαγωγή δεδομένων				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	en-GB	Undo: Data Input				2002-02-02 02:02:02
@@ -3067,6 +3100,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC	
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				13691	cs	Zobrazit vybranou tabulku nebo dotaz.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				13691	cy	Dangos y tabl dewiswyd neu'r ymholiad.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				13691	da	Viser den valgte tabel eller forespørgsel.				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				0	de	Zeigt die ausgewählte Tabelle oder Abfrage an.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				13691	dz	སེལ་འཐུ་འབད་ཡོད་པའི་ཐིག་ཁྲམ་ ཡང་ན་ འདྲི་དཔྱད་སྟོནམ་ཨིན།				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				0	el	Εμφανίζει τον επιλεγμένο πίνακα ή ερώτημα.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				0	en-GB	Shows the selected table or query.				2002-02-02 02:02:02
@@ -3143,6 +3177,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME	
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				13691	cs	Tabulkový pohled na zdroj dat				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				13691	cy	Golwg tabl ffynhonnell data				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				13691	da	Tabeloversigt over datakilder				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				0	de	Tabellenansicht der Datenquelle				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				13691	dz	གནད་སྡུད་འབྱུང་ཁུངས་ཀྱི་ཐིག་ཁྲམ་ མཐོང་སྣང་།				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				0	el	Προβολή πίνακα προέλευσης δεδομένων				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				0	en-GB	Data source table view				2002-02-02 02:02:02
@@ -3219,6 +3254,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	string	STR_ERROR_OCCURED_WHILE_COPYING	
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_ERROR_OCCURED_WHILE_COPYING				13691	cs	Došlo k chybě. Chcete pokračovat v kopírování?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_ERROR_OCCURED_WHILE_COPYING				13691	cy	Digwyddodd gwall. Hoffech chi barhau i gopïo.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_ERROR_OCCURED_WHILE_COPYING				13691	da	Der er opstået en fejl ! Vil du fortsætte kopieringen?				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_ERROR_OCCURED_WHILE_COPYING				0	de	Es ist ein Fehler aufgetreten! Wollen Sie den Kopiervorgang fortsetzen?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_ERROR_OCCURED_WHILE_COPYING				13691	dz	འཛོལ་བ་ཅིག་བྱུང་ནུག ཁྱོད་ཀྱིས་ འཕྲོ་མཐུད་དེ་རང་འདྲ་བཤུས་རྐྱབ་ནི་ཨིན་ན?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_ERROR_OCCURED_WHILE_COPYING				0	el	Παρουσιάστηκε σφάλμα. Θέλετε να συνεχιστεί η αντιγραφή;				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_ERROR_OCCURED_WHILE_COPYING				0	en-GB	An error occurred. Do you want to continue copying?				2002-02-02 02:02:02
@@ -3291,6 +3327,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NAME_ALREADY_EXISTS				13691
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NAME_ALREADY_EXISTS				13691	cs	Název "#" již existuje.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NAME_ALREADY_EXISTS				13691	cy	Mae'r enw "#" yn bodoli eisoes				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NAME_ALREADY_EXISTS				13691	da	Navnet "#" findes allerede.				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NAME_ALREADY_EXISTS				58536	de	Der Name "#" existiert bereits.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NAME_ALREADY_EXISTS				13691	dz	"#"གི་མིང་འདི་ ཧེ་མ་ལས་རང་ཡོདཔ་ཨིན།				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NAME_ALREADY_EXISTS				58536	el	Το όνομα # υπάρχει ήδη.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NAME_ALREADY_EXISTS				1	eo	La nomo "#" jam ekzistas.				2002-02-02 02:02:02
@@ -3337,6 +3374,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				13
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				13691	cs	Nebyl nalezen žádný odpovídající název sloupce.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				13691	cy	Heb ganfod enwau colofn sy'n cydweddu.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				13691	da	Der kunne ikke findes noget passende kolonnenavn!				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				0	de	Es konnten keine übereinstimmenden Spaltennamen gefunden werden!				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				13691	dz	མཐུན་སྒྲིག་ཡོད་པའི་ ཀེར་ཐིག་གི་མིང་ཚུ་མ་ཐོབ།				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				0	el	Δεν βρέθηκαν ονόματα στηλών που να συμφωνούν.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				0	en-GB	No matching column names were found.				2002-02-02 02:02:02
@@ -3481,6 +3519,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	string	STR_QRY_TITLE				13691	ca	Consul
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_QRY_TITLE				13691	cs	Dotaz #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_QRY_TITLE				13691	cy	Ymholiad #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_QRY_TITLE				13691	da	Forespørgsel #				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_QRY_TITLE				0	de	Abfrage #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_QRY_TITLE				13691	dz	འདྲི་དཔྱད།#				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_QRY_TITLE				0	el	Ερώτημα #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_QRY_TITLE				0	en-GB	Query #				2002-02-02 02:02:02
@@ -3556,6 +3595,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	string	STR_TBL_TITLE				13691	ca	Taula 
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_TBL_TITLE				13691	cs	Tabulka #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_TBL_TITLE				13691	cy	Tabl #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_TBL_TITLE				13691	da	Tabel #				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_TBL_TITLE				0	de	Tabelle #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_TBL_TITLE				13691	dz	ཐིག་ཁྲམ།#				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_TBL_TITLE				0	el	Πίνακας #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_TBL_TITLE				0	en-GB	Table #				2002-02-02 02:02:02
@@ -3631,6 +3671,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				13691	ca	Vista
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				13691	cs	Pohled #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				13691	cy	Golwg #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				13691	da	Visning #				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				0	de	Ansicht #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				13691	dz	མཐོང་སྣང་།#				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				0	el	Προβολή #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				0	en-GB	View #				2002-02-02 02:02:02
