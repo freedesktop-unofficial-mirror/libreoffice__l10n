@@ -13,9 +13,9 @@
 #
 #   $RCSfile: localize.sdf,v $
 #
-#   $Revision: 1.21 $
+#   $Revision: 1.22 $
 #
-#   last change: $Author: vg $ $Date: 2007-02-02 19:24:59 $
+#   last change: $Author: ihi $ $Date: 2007-04-19 16:15:17 $
 #
 #   The Contents of this file are made available subject to
 #   the terms of GNU Lesser General Public License Version 2.1.
@@ -52,6 +52,7 @@ svtools	source\filter.vcl\filter\dlgejpg.src	0	fixedline	DLG_EXPORT_JPG	GRP_COLO
 svtools	source\filter.vcl\filter\dlgejpg.src	0	fixedline	DLG_EXPORT_JPG	GRP_COLORS			90	cs	Počet barev				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgejpg.src	0	fixedline	DLG_EXPORT_JPG	GRP_COLORS			90	cy	Cydraniad lliw				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgejpg.src	0	fixedline	DLG_EXPORT_JPG	GRP_COLORS			90	da	Farveopløsning				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\dlgejpg.src	0	fixedline	DLG_EXPORT_JPG	GRP_COLORS			90	de	Farbauflösung				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgejpg.src	0	fixedline	DLG_EXPORT_JPG	GRP_COLORS			90	dz	ཚོས་གཞི་ཧུམ་ཆ།				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgejpg.src	0	fixedline	DLG_EXPORT_JPG	GRP_COLORS			90	el	Ανάλυση χρώματος				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgejpg.src	0	fixedline	DLG_EXPORT_JPG	GRP_COLORS			90	en-GB	Colour resolution				2002-02-02 02:02:02
@@ -128,6 +129,7 @@ svtools	source\filter.vcl\filter\dlgejpg.src	0	fixedline	DLG_EXPORT_JPG	GRP_QUAL
 svtools	source\filter.vcl\filter\dlgejpg.src	0	fixedline	DLG_EXPORT_JPG	GRP_QUALITY			90	cs	Kvalita				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgejpg.src	0	fixedline	DLG_EXPORT_JPG	GRP_QUALITY			90	cy	Ansawdd				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgejpg.src	0	fixedline	DLG_EXPORT_JPG	GRP_QUALITY			90	da	Kvalitet				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\dlgejpg.src	0	fixedline	DLG_EXPORT_JPG	GRP_QUALITY			90	de	Qualität				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgejpg.src	0	fixedline	DLG_EXPORT_JPG	GRP_QUALITY			90	dz	སྤུད་ཚད།				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgejpg.src	0	fixedline	DLG_EXPORT_JPG	GRP_QUALITY			90	el	Ποιότητα				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgejpg.src	0	fixedline	DLG_EXPORT_JPG	GRP_QUALITY			90	en-GB	Quality				2002-02-02 02:02:02
@@ -205,6 +207,7 @@ svtools	source\filter.vcl\filter\dlgejpg.src	0	fixedtext	DLG_EXPORT_JPG	FI_DESCR
 svtools	source\filter.vcl\filter\dlgejpg.src	0	fixedtext	DLG_EXPORT_JPG	FI_DESCR			81	cs	1: min. kvalita\n100: max. kvalita				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgejpg.src	0	fixedtext	DLG_EXPORT_JPG	FI_DESCR			81	cy	1: ansawdd salaf\n100: ansawdd orau				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgejpg.src	0	fixedtext	DLG_EXPORT_JPG	FI_DESCR			81	da	1: min. kvalitet\n100: maks. kvalitet				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\dlgejpg.src	0	fixedtext	DLG_EXPORT_JPG	FI_DESCR			81	de	1: min. Qualität\n100: max. Qualität				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgejpg.src	0	fixedtext	DLG_EXPORT_JPG	FI_DESCR			81	dz	སྤུས་ཚད་ཉུངམཐའ་ ༡\nསྤུས་མང་མཐའ་ ༡༠༠།				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgejpg.src	0	fixedtext	DLG_EXPORT_JPG	FI_DESCR			81	el	1: ελάχιστη ποιότητα\n100: μέγιστη ποιότητα				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgejpg.src	0	fixedtext	DLG_EXPORT_JPG	FI_DESCR			81	en-GB	1: minimum. quality\n100: maximum. quality				2002-02-02 02:02:02
@@ -280,6 +283,7 @@ svtools	source\filter.vcl\filter\dlgejpg.src	0	modaldialog	DLG_EXPORT_JPG				159
 svtools	source\filter.vcl\filter\dlgejpg.src	0	modaldialog	DLG_EXPORT_JPG				159	cs	Možnosti JPEG				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgejpg.src	0	modaldialog	DLG_EXPORT_JPG				159	cy	Dewisiadau JPEG				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgejpg.src	0	modaldialog	DLG_EXPORT_JPG				159	da	JPEG-indstillinger				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\dlgejpg.src	0	modaldialog	DLG_EXPORT_JPG				159	de	JPEG Optionen				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgejpg.src	0	modaldialog	DLG_EXPORT_JPG				159	dz	ཇེ་པི་ཨི་ཇི་ གདམ་ཁ།				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgejpg.src	0	modaldialog	DLG_EXPORT_JPG				159	el	Επιλογές JPEG				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgejpg.src	0	modaldialog	DLG_EXPORT_JPG				159	en-GB	JPEG Options				2002-02-02 02:02:02
@@ -357,6 +361,7 @@ svtools	source\filter.vcl\filter\dlgejpg.src	0	radiobutton	DLG_EXPORT_JPG	RB_GRA
 svtools	source\filter.vcl\filter\dlgejpg.src	0	radiobutton	DLG_EXPORT_JPG	RB_GRAY			81	cs	Stupně šedi				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgejpg.src	0	radiobutton	DLG_EXPORT_JPG	RB_GRAY			81	cy	Graddlwyd				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgejpg.src	0	radiobutton	DLG_EXPORT_JPG	RB_GRAY			81	da	Gråtoner				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\dlgejpg.src	0	radiobutton	DLG_EXPORT_JPG	RB_GRAY			81	de	Graustufen				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgejpg.src	0	radiobutton	DLG_EXPORT_JPG	RB_GRAY			81	dz	གེརེ་སིཀེལ།				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgejpg.src	0	radiobutton	DLG_EXPORT_JPG	RB_GRAY			81	el	Διαβάθμιση του γκρι				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgejpg.src	0	radiobutton	DLG_EXPORT_JPG	RB_GRAY			81	en-GB	Greyscale				2002-02-02 02:02:02
@@ -433,6 +438,7 @@ svtools	source\filter.vcl\filter\dlgejpg.src	0	radiobutton	DLG_EXPORT_JPG	RB_RGB
 svtools	source\filter.vcl\filter\dlgejpg.src	0	radiobutton	DLG_EXPORT_JPG	RB_RGB			81	cs	True Colors				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgejpg.src	0	radiobutton	DLG_EXPORT_JPG	RB_RGB			81	cy	Gwir Liwiau				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgejpg.src	0	radiobutton	DLG_EXPORT_JPG	RB_RGB			81	da	Ægte farver				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\dlgejpg.src	0	radiobutton	DLG_EXPORT_JPG	RB_RGB			81	de	Echtfarben				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgejpg.src	0	radiobutton	DLG_EXPORT_JPG	RB_RGB			81	dz	ཚོས་གཞི་ བདེན་པ།				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgejpg.src	0	radiobutton	DLG_EXPORT_JPG	RB_RGB			81	el	Φυσικά χρώματα				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgejpg.src	0	radiobutton	DLG_EXPORT_JPG	RB_RGB			81	en-GB	True Colours				2002-02-02 02:02:02
@@ -508,6 +514,7 @@ svtools	source\filter.vcl\filter\dlgepng.src	0	checkbox	DLG_EXPORT_EPNG	CBX_INTE
 svtools	source\filter.vcl\filter\dlgepng.src	0	checkbox	DLG_EXPORT_EPNG	CBX_INTERLACED			80	cs	Prokládaný				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgepng.src	0	checkbox	DLG_EXPORT_EPNG	CBX_INTERLACED			80	cy	~Rhyngweddu				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgepng.src	0	checkbox	DLG_EXPORT_EPNG	CBX_INTERLACED			80	da	~Sammenflettet				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\dlgepng.src	0	checkbox	DLG_EXPORT_EPNG	CBX_INTERLACED			80	de	~Interlaced				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgepng.src	0	checkbox	DLG_EXPORT_EPNG	CBX_INTERLACED			80	dz	ལྷས་པ།(~I)				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgepng.src	0	checkbox	DLG_EXPORT_EPNG	CBX_INTERLACED			80	el	~Interlaced				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgepng.src	0	checkbox	DLG_EXPORT_EPNG	CBX_INTERLACED			80	en-GB	~Interlaced				2002-02-02 02:02:02
@@ -582,6 +589,7 @@ svtools	source\filter.vcl\filter\dlgepng.src	0	fixedline	DLG_EXPORT_EPNG	GRP_COM
 svtools	source\filter.vcl\filter\dlgepng.src	0	fixedline	DLG_EXPORT_EPNG	GRP_COMPRESSION			100	cs	Režim				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgepng.src	0	fixedline	DLG_EXPORT_EPNG	GRP_COMPRESSION			100	cy	Modd				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgepng.src	0	fixedline	DLG_EXPORT_EPNG	GRP_COMPRESSION			100	da	Tilstand				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\dlgepng.src	0	fixedline	DLG_EXPORT_EPNG	GRP_COMPRESSION			100	de	Modus				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgepng.src	0	fixedline	DLG_EXPORT_EPNG	GRP_COMPRESSION			100	dz	ཐབས་ལམ།				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgepng.src	0	fixedline	DLG_EXPORT_EPNG	GRP_COMPRESSION			100	el	Λειτουργία				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgepng.src	0	fixedline	DLG_EXPORT_EPNG	GRP_COMPRESSION			100	en-GB	Mode				2002-02-02 02:02:02
@@ -656,6 +664,7 @@ svtools	source\filter.vcl\filter\dlgepng.src	0	fixedtext	DLG_EXPORT_EPNG	FI_COMP
 svtools	source\filter.vcl\filter\dlgepng.src	0	fixedtext	DLG_EXPORT_EPNG	FI_COMPRESSION			80	cs	Komprese 0 až 9				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgepng.src	0	fixedtext	DLG_EXPORT_EPNG	FI_COMPRESSION			80	cy	~Cywasgiad 0..9				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgepng.src	0	fixedtext	DLG_EXPORT_EPNG	FI_COMPRESSION			80	da	~Komprimering 0..9				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\dlgepng.src	0	fixedtext	DLG_EXPORT_EPNG	FI_COMPRESSION			80	de	~Kompression 0..9				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgepng.src	0	fixedtext	DLG_EXPORT_EPNG	FI_COMPRESSION			80	dz	ཨེབ་བཙུགས་ ༡་་་་་་་༩།(~C)				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgepng.src	0	fixedtext	DLG_EXPORT_EPNG	FI_COMPRESSION			80	el	~Συμπίεση 0..9				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgepng.src	0	fixedtext	DLG_EXPORT_EPNG	FI_COMPRESSION			80	en-GB	~Compression 0..9				2002-02-02 02:02:02
@@ -731,6 +740,7 @@ svtools	source\filter.vcl\filter\dlgepng.src	0	modaldialog	DLG_EXPORT_EPNG				16
 svtools	source\filter.vcl\filter\dlgepng.src	0	modaldialog	DLG_EXPORT_EPNG				169	cs	Volby pro PNG formát				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgepng.src	0	modaldialog	DLG_EXPORT_EPNG				169	cy	Dewisiadau PNG				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgepng.src	0	modaldialog	DLG_EXPORT_EPNG				169	da	PNG-indstillinger				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\dlgepng.src	0	modaldialog	DLG_EXPORT_EPNG				169	de	PNG Optionen				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgepng.src	0	modaldialog	DLG_EXPORT_EPNG				169	dz	པི་ཨེན་ཇི་ གདམ་ཁ།				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgepng.src	0	modaldialog	DLG_EXPORT_EPNG				169	el	Επιλογές PNG				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgepng.src	0	modaldialog	DLG_EXPORT_EPNG				169	en-GB	PNG Options				2002-02-02 02:02:02
@@ -808,6 +818,7 @@ svtools	source\filter.vcl\filter\dlgexpor.src	0	checkbox	DLG_EXPORT_PIX	CBX_RLE	
 svtools	source\filter.vcl\filter\dlgexpor.src	0	checkbox	DLG_EXPORT_PIX	CBX_RLE			98	cs	RLE kódování				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	checkbox	DLG_EXPORT_PIX	CBX_RLE			98	cy	Codio RLE				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	checkbox	DLG_EXPORT_PIX	CBX_RLE			98	da	RLE-kodning				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\dlgexpor.src	0	checkbox	DLG_EXPORT_PIX	CBX_RLE			98	de	RLE-Kodierung				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	checkbox	DLG_EXPORT_PIX	CBX_RLE			98	dz	ཨར་ཨེལ་ཨི་ ཀོ་ཌིང་།				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	checkbox	DLG_EXPORT_PIX	CBX_RLE			98	el	Κωδικοποίηση RLE				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	checkbox	DLG_EXPORT_PIX	CBX_RLE			98	en-GB	RLE coding				2002-02-02 02:02:02
@@ -883,6 +894,7 @@ svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_PIX	GRP_COL
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_PIX	GRP_COLORS			110	cs	Počet barev				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_PIX	GRP_COLORS			110	cy	Cydraniad lliw				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_PIX	GRP_COLORS			110	da	Farveopløsning				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_PIX	GRP_COLORS			110	de	Farbauflösung				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_PIX	GRP_COLORS			110	dz	ཚོས་གཞི་ ཧུམ་ཆ།				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_PIX	GRP_COLORS			110	el	Ανάλυση χρώματος				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_PIX	GRP_COLORS			110	en-GB	Colour resolution				2002-02-02 02:02:02
@@ -958,6 +970,7 @@ svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_PIX	GRP_MOD
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_PIX	GRP_MODE_PIX			110	cs	Režim				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_PIX	GRP_MODE_PIX			110	cy	Modd				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_PIX	GRP_MODE_PIX			110	da	Tilstand				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_PIX	GRP_MODE_PIX			110	de	Modus				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_PIX	GRP_MODE_PIX			110	dz	ཐབས་ལམ།				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_PIX	GRP_MODE_PIX			110	el	Λειτουργία				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_PIX	GRP_MODE_PIX			110	en-GB	Mode				2002-02-02 02:02:02
@@ -1032,6 +1045,7 @@ svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_VEC	GRP_MOD
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_VEC	GRP_MODE_VEC			110	cs	Režim				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_VEC	GRP_MODE_VEC			110	cy	Modd				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_VEC	GRP_MODE_VEC			110	da	Tilstand				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_VEC	GRP_MODE_VEC			110	de	Modus				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_VEC	GRP_MODE_VEC			110	dz	ཐབས་ལམ།				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_VEC	GRP_MODE_VEC			110	el	Λειτουργία				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_VEC	GRP_MODE_VEC			110	en-GB	Mode				2002-02-02 02:02:02
@@ -1107,6 +1121,7 @@ svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_VEC	GRP_SIZ
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_VEC	GRP_SIZE_VEC			110	cs	Velikost				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_VEC	GRP_SIZE_VEC			110	cy	Maint				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_VEC	GRP_SIZE_VEC			110	da	Størrelse				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_VEC	GRP_SIZE_VEC			110	de	Größe				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_VEC	GRP_SIZE_VEC			110	dz	ཚད།				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_VEC	GRP_SIZE_VEC			110	el	Μέγεθος				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_VEC	GRP_SIZE_VEC			110	en-GB	Size				2002-02-02 02:02:02
@@ -1238,6 +1253,7 @@ svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	DLG_EXPORT_VEC	FT_SIZE
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	DLG_EXPORT_VEC	FT_SIZEX_VEC			45	cs	Šířka				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	DLG_EXPORT_VEC	FT_SIZEX_VEC			45	cy	Lled				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	DLG_EXPORT_VEC	FT_SIZEX_VEC			45	da	Bredde				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	DLG_EXPORT_VEC	FT_SIZEX_VEC			45	de	Breite				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	DLG_EXPORT_VEC	FT_SIZEX_VEC			45	dz	རྒྱ་ཚད།				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	DLG_EXPORT_VEC	FT_SIZEX_VEC			45	el	Πλάτος				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	DLG_EXPORT_VEC	FT_SIZEX_VEC			45	en-GB	Width				2002-02-02 02:02:02
@@ -1314,6 +1330,7 @@ svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	DLG_EXPORT_VEC	FT_SIZE
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	DLG_EXPORT_VEC	FT_SIZEY_VEC			45	cs	Výška				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	DLG_EXPORT_VEC	FT_SIZEY_VEC			45	cy	Uchder				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	DLG_EXPORT_VEC	FT_SIZEY_VEC			45	da	Højde				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	DLG_EXPORT_VEC	FT_SIZEY_VEC			45	de	Höhe				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	DLG_EXPORT_VEC	FT_SIZEY_VEC			45	dz	མཐོ་ཚད།				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	DLG_EXPORT_VEC	FT_SIZEY_VEC			45	el	Ύψος				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	DLG_EXPORT_VEC	FT_SIZEY_VEC			45	en-GB	Height				2002-02-02 02:02:02
@@ -1388,6 +1405,7 @@ svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	FT_SIZEX_PIX				41	ca	
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	FT_SIZEX_PIX				41	cs	Šířka				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	FT_SIZEX_PIX				41	cy	Lled				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	FT_SIZEX_PIX				41	da	Bredde				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	FT_SIZEX_PIX				41	de	Breite				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	FT_SIZEX_PIX				41	dz	རྒྱ་ཚད།				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	FT_SIZEX_PIX				41	el	Πλάτος				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	FT_SIZEX_PIX				41	en-GB	Width				2002-02-02 02:02:02
@@ -1463,6 +1481,7 @@ svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	FT_SIZEY_PIX				41	ca	
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	FT_SIZEY_PIX				41	cs	Výška				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	FT_SIZEY_PIX				41	cy	Uchder				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	FT_SIZEY_PIX				41	da	Højde				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	FT_SIZEY_PIX				41	de	Höhe				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	FT_SIZEY_PIX				41	dz	མཐོ་ཚད།				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	FT_SIZEY_PIX				41	el	Ύψος				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	FT_SIZEY_PIX				41	en-GB	Height				2002-02-02 02:02:02
@@ -1537,6 +1556,7 @@ svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	DLG_EXPORT_PIX	RB_OR
 svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	DLG_EXPORT_PIX	RB_ORIGINAL_PIX			98	cs	Původní				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	DLG_EXPORT_PIX	RB_ORIGINAL_PIX			98	cy	~Gwreiddiol				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	DLG_EXPORT_PIX	RB_ORIGINAL_PIX			98	da	~Original				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	DLG_EXPORT_PIX	RB_ORIGINAL_PIX			98	de	~Original				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	DLG_EXPORT_PIX	RB_ORIGINAL_PIX			98	dz	ངོ་མ།(~O)				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	DLG_EXPORT_PIX	RB_ORIGINAL_PIX			98	el	Α~ρχικό				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	DLG_EXPORT_PIX	RB_ORIGINAL_PIX			98	en-GB	~Original				2002-02-02 02:02:02
@@ -1613,6 +1633,7 @@ svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	DLG_EXPORT_PIX	RB_RE
 svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	DLG_EXPORT_PIX	RB_RES_PIX			55	cs	Rozlišení				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	DLG_EXPORT_PIX	RB_RES_PIX			55	cy	~Cydraniad				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	DLG_EXPORT_PIX	RB_RES_PIX			55	da	~Opløsning				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	DLG_EXPORT_PIX	RB_RES_PIX			55	de	~Auflösung				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	DLG_EXPORT_PIX	RB_RES_PIX			55	dz	ཧུམ་ཆ།(~R)				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	DLG_EXPORT_PIX	RB_RES_PIX			55	el	Ανάλυση				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	DLG_EXPORT_PIX	RB_RES_PIX			55	en-GB	~Resolution				2002-02-02 02:02:02
@@ -1716,6 +1737,7 @@ svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	DLG_EXPORT_VEC	RB_OR
 svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	DLG_EXPORT_VEC	RB_ORIGINAL_VEC			98	cs	Původní				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	DLG_EXPORT_VEC	RB_ORIGINAL_VEC			98	cy	~Gwreiddiol				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	DLG_EXPORT_VEC	RB_ORIGINAL_VEC			98	da	~Original				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	DLG_EXPORT_VEC	RB_ORIGINAL_VEC			98	de	~Original				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	DLG_EXPORT_VEC	RB_ORIGINAL_VEC			98	dz	ངོ་མ།(~O)				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	DLG_EXPORT_VEC	RB_ORIGINAL_VEC			98	el	Α~ρχικό				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	DLG_EXPORT_VEC	RB_ORIGINAL_VEC			98	en-GB	~Original				2002-02-02 02:02:02
@@ -1792,6 +1814,7 @@ svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	DLG_EXPORT_VEC	RB_SI
 svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	DLG_EXPORT_VEC	RB_SIZE_VEC			98	cs	Velikost				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	DLG_EXPORT_VEC	RB_SIZE_VEC			98	cy	~Maint				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	DLG_EXPORT_VEC	RB_SIZE_VEC			98	da	~Størrelse				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	DLG_EXPORT_VEC	RB_SIZE_VEC			98	de	~Größe				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	DLG_EXPORT_VEC	RB_SIZE_VEC			98	dz	ཚད།(~S)				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	DLG_EXPORT_VEC	RB_SIZE_VEC			98	el	Μέγε~θος				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	DLG_EXPORT_VEC	RB_SIZE_VEC			98	en-GB	~Size				2002-02-02 02:02:02
@@ -1867,6 +1890,7 @@ svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	RB_SIZE_PIX				98	ca
 svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	RB_SIZE_PIX				98	cs	Velikost				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	RB_SIZE_PIX				98	cy	~Maint				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	RB_SIZE_PIX				98	da	~Størrelse				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	RB_SIZE_PIX				98	de	~Größe				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	RB_SIZE_PIX				98	dz	ཚད།(~S)				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	RB_SIZE_PIX				98	el	Μέγε~θος				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	RB_SIZE_PIX				98	en-GB	~Size				2002-02-02 02:02:02
@@ -1943,6 +1967,7 @@ svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COL
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	1			0	cs	Původní				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	1			0	cy	Gwreiddiol				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	1			0	da	Original				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	1			0	de	Original				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	1			0	dz	ངོ་མ།				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	1			0	el	Αρχικό				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	1			0	en-GB	Original				2002-02-02 02:02:02
@@ -2020,6 +2045,7 @@ svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COL
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	2			0	cs	1 bit - prahová hodnota				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	2			0	cy	1 Did - Gwerth Trothwy				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	2			0	da	1bit - tærskelværdi				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	2			0	de	1Bit - Schwellenwert				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	2			0	dz	༡ བིཊི-ཐེརེཤ་ཧཱོལ གནས་གོང་།				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	2			0	el	Τιμή ορίου 1 bit				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	2			0	en-GB	1 Bit - Threshold Value				2002-02-02 02:02:02
@@ -2095,6 +2121,7 @@ svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COL
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	3			0	cs	1 bit - dithering				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	3			0	cy	~Diddro 1 Did 				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	3			0	da	1bit - farvereducering				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	3			0	de	1Bit - Gedithert				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	3			0	dz	༡ བིཊི-སྤར་བ།				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	3			0	el	Απόδοση χρωμάτων 1 bit				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	3			0	en-GB	1 Bit - Dithering				2002-02-02 02:02:02
@@ -2170,6 +2197,7 @@ svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COL
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	4			0	cs	4 bity - odstíny šedi				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	4			0	cy	4 Did - Graddlwyd				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	4			0	da	4bit - gråtoneskala				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	4			0	de	4Bit - Graustufenpalette				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	4			0	dz	༤ བིཊི་ གེརེ་སིཀེལ།				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	4			0	el	Διαβάθμιση του γκρι: 4 bit				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	4			0	en-GB	4 Bit - Greyscale				2002-02-02 02:02:02
@@ -2245,6 +2273,7 @@ svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COL
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	5			0	cs	4 bity - barevná paleta				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	5			0	cy	4 Did - Palet Lliw				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	5			0	da	4bit - farvepalet				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	5			0	de	4Bit - Farbpalette				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	5			0	dz	༤ བིཊི-ཚོས་གཞི་ པེ་ལེཊི།				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	5			0	el	Παλέτα χρωμάτων 4 bit				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	5			0	en-GB	4 Bit - Colour Palette				2002-02-02 02:02:02
@@ -2320,6 +2349,7 @@ svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COL
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	6			0	cs	8 bitů - odstíny šedi				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	6			0	cy	8 Did Graddlwyd				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	6			0	da	8bit - gråtoner				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	6			0	de	8Bit - Graustufenpalette				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	6			0	dz	༨ བིཊི- གེརེ་སིཀེལ།				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	6			0	el	Διαβάθμιση του γκρι: 8 bit				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	6			0	en-GB	8 Bit - Greyscales				2002-02-02 02:02:02
@@ -2395,6 +2425,7 @@ svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COL
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	7			0	cs	8 bitů - barevná paleta				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	7			0	cy	8 Did - Palet Lliw				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	7			0	da	8bit - farvepalet				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	7			0	de	8Bit - Farbpalette				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	7			0	dz	༨  བིཊི-པེ་ལེཊི།				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	7			0	el	Παλέτα χρωμάτων 8 bit				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	7			0	en-GB	8 Bit - Colour Palette				2002-02-02 02:02:02
@@ -2470,6 +2501,7 @@ svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COL
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	8			0	cs	24 bitů - pravé barvy				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	8			0	cy	24 Did - Gwir Liw				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	8			0	da	24bit - ægte farver				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	8			0	de	24Bit - Echtfarben				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	8			0	dz	༢༤ བིཊི-ཚོས་གཞི་བདེན་པ།				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	8			0	el	24 bit - Φυσικά χρώματα				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	8			0	en-GB	24 Bit - True Colours				2002-02-02 02:02:02
@@ -2545,6 +2577,7 @@ svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				136
 svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				13691	cs	 Volby				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				13691	cy	Dewisiadau				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				13691	da	Indstillinger				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	de	 Optionen				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				13691	dz	གདམ་ཁ།				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	el	 Επιλογές				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	en-GB	 Options				2002-02-02 02:02:02
