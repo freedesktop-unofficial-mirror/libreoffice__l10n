@@ -13,9 +13,9 @@
 #
 #   $RCSfile: localize.sdf,v $
 #
-#   $Revision: 1.28 $
+#   $Revision: 1.29 $
 #
-#   last change: $Author: vg $ $Date: 2007-02-02 16:37:44 $
+#   last change: $Author: ihi $ $Date: 2007-04-19 12:12:54 $
 #
 #   The Contents of this file are made available subject to
 #   the terms of GNU Lesser General Public License Version 2.1.
@@ -51,6 +51,7 @@ sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , E
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_FILE_ROWCOL )			13691	cs	V souboru byla objevena chyba formátu v podřízeném dokumentu $(ARG1) na pozici $(ARG2)(řádek,sloupec).				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_FILE_ROWCOL )			13691	cy	Gwall fformatio wedi ei ganfod yn y ffeil yn is ddogfen $(ARG1) yn safle $(ARG2)(rhes,col).				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_FILE_ROWCOL )			13691	da	Der er fundet formatfejl i underdokumentet $(ARG1) på position $(ARG2)(række,kolonne).				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_FILE_ROWCOL )			0	de	Formatfehler in Teildokument $(ARG1) an Position $(ARG2)(Zeile,Spalte) in der Datei entdeckt.				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_FILE_ROWCOL )			13691	dz	_: glob.src#RID_SD_ERRHDL.ERR_CODE___ERRCODE_CLASS_READ___ERR_FORMAT_FILE_ROWCOL__.string.text\n$(ARG2)(row,col) གནས་ས་ལུ་ཡན་ལག་ཡིག་ཆ་$(ARG1) ནང་ཡིག་སྣོད་ནང་གསར་རྙེད་འབད་ཡོད་པའི་རྩ་སྒྲིག་འཛོལ་བ།				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_FILE_ROWCOL )			0	el	Εντοπίστηκε ένα σφάλμα μορφοποίησης του αρχείου στο τμήμα κειμένου $(ARG1) στη θέση $(ARG2)(γραμμή, στήλη)				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_FILE_ROWCOL )			0	en-GB	Format error discovered in the file in sub-document $(ARG1) at position $(ARG2)(row,col)				2002-02-02 02:02:02
@@ -121,6 +122,7 @@ sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , E
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_ROWCOL )			13691	cs	Nalezena chyba formátu na $(ARG1)(row,col).				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_ROWCOL )			13691	cy	Gwall fformatio wedi ei ganfod yn $(ARG1)(rhes,col).				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_ROWCOL )			13691	da	Der er konstateret filformatfejl på position $(ARG1)(række,kolonne).				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_ROWCOL )			0	de	Formatfehler an Position $(ARG1)(Zeile,Spalte) in der Datei entdeckt.				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_ROWCOL )			13691	dz	$(ARG1)(row,col) ལུ་ཡིག་སྣོད་རྩ་སྒྲིག་འཛོལ་བ་འཚོལ་ཐོབ་ཅི།				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_ROWCOL )			0	el	Βρέθηκε σφάλμα μορφοποίησης αρχείου στη θέση $(ARG1)(γραμμή,στήλη)				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_ROWCOL )			0	en-GB	File format error found at $(ARG1)(row,col)				2002-02-02 02:02:02
@@ -193,6 +195,7 @@ sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , W
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , WARN_FORMAT_FILE_ROWCOL )			13691	cs	V souboru byla objevena chyba formátu v podřízeném dokumentu $(ARG1) na pozici $(ARG2)(řádek,sloupec).				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , WARN_FORMAT_FILE_ROWCOL )			13691	cy	Gwall fformatio wedi ei ganfod yn y ffeil yn is ddogfen $(ARG1) yn safle $(ARG2)(rhes,col).				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , WARN_FORMAT_FILE_ROWCOL )			13691	da	Der er fundet formatfejl i underdokumentet $(ARG1) på position $(ARG2)(række,kolonne).				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , WARN_FORMAT_FILE_ROWCOL )			0	de	Formatfehler in Teildokument $(ARG1) an Position $(ARG2)(Zeile,Spalte) in der Datei entdeckt.				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , WARN_FORMAT_FILE_ROWCOL )			13691	dz	_: glob.src#RID_SD_ERRHDL.ERR_CODE___ERRCODE_CLASS_READ___WARN_FORMAT_FILE_ROWCOL__.string.text\n$(ARG2)(row,col) གནས་ས་ལུ་ཡན་ལག་ཡིག་ཆ་$(ARG1)ནང་ཡིག་ཆ་ནང་གསར་རྙེད་འབད་ཡོད་པའི་རྩ་སྒྲིག་འཛོལ་བ།				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , WARN_FORMAT_FILE_ROWCOL )			0	el	Εντοπίστηκε ένα σφάλμα μορφοποίησης του αρχείου στο τμήμα κειμένου $(ARG1) στη θέση $(ARG2)(γραμμή, στήλη)				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , WARN_FORMAT_FILE_ROWCOL )			0	en-GB	Format error discovered in the file in sub-document $(ARG1) at position $(ARG2)(row,col)				2002-02-02 02:02:02
@@ -264,6 +267,7 @@ sd	source\core\glob.src	0	string	STR_3DOBJECTBARSHELL				13691	ca	Paràmetres 3-
 sd	source\core\glob.src	0	string	STR_3DOBJECTBARSHELL				13691	cs	3D nastavení				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_3DOBJECTBARSHELL				13691	cy	Gosodiadau 3D				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_3DOBJECTBARSHELL				13691	da	3D-indstillinger				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_3DOBJECTBARSHELL				0	de	3-D Einstellungen				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_3DOBJECTBARSHELL				13691	dz	༣-ཌི་ སྒྲིག་སྟངས་ཚུ།				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_3DOBJECTBARSHELL				0	el	Ρυθμίσεις 3-Δ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_3DOBJECTBARSHELL				0	en-GB	3-D Settings				2002-02-02 02:02:02
@@ -340,6 +344,7 @@ sd	source\core\glob.src	0	string	STR_APPLICATIONOBJECTBAR				13691	ca	StarImpres
 sd	source\core\glob.src	0	string	STR_APPLICATIONOBJECTBAR				13691	cs	StarImpress 4.0				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_APPLICATIONOBJECTBAR				13691	cy	StarImpress 4.0				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_APPLICATIONOBJECTBAR				13691	da	StarImpress 4.0				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_APPLICATIONOBJECTBAR				0	de	StarImpress 4.0				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_APPLICATIONOBJECTBAR				13691	dz	སི་ཊར་ཨིམ་པེརེསི་་ ༤་༠།				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_APPLICATIONOBJECTBAR				0	el	StarImpress 4.0				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_APPLICATIONOBJECTBAR				0	en-GB	StarImpress 4.0				2002-02-02 02:02:02
@@ -416,6 +421,7 @@ sd	source\core\glob.src	0	string	STR_BAD_PASSWORD_OR_FILE_CORRUPTED				13691	ca	
 sd	source\core\glob.src	0	string	STR_BAD_PASSWORD_OR_FILE_CORRUPTED				13691	cs	Heslo je nesprávné nebo je soubor poškozen.				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_BAD_PASSWORD_OR_FILE_CORRUPTED				13691	cy	Nid yw'r cyfrinair yn gywir neu mae'r ffeil wedi ei difrodi.				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_BAD_PASSWORD_OR_FILE_CORRUPTED				13691	da	Adgangskoden er forkert eller filen er beskadiget.				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_BAD_PASSWORD_OR_FILE_CORRUPTED				0	de	Das Kennwort ist falsch oder die Datei beschädigt.				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_BAD_PASSWORD_OR_FILE_CORRUPTED				13691	dz	ཆོག་ཡིག་འདི་བདེན་མེད་ཨིནམ་ ཡང་ན་ཡིག་སྣོད་འདི་མེདཔ་བཏང་ཡོདཔ།				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_BAD_PASSWORD_OR_FILE_CORRUPTED				0	el	Ο κωδικός πρόσβασης είναι εσφαλμένος ή το αρχείο ελαττωματικό.				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_BAD_PASSWORD_OR_FILE_CORRUPTED				0	en-GB	The password is incorrect or the file is damaged.				2002-02-02 02:02:02
@@ -493,6 +499,7 @@ sd	source\core\glob.src	0	string	STR_BEZIEROBJECTBARSHELL				13691	ca	Mode Bézi
 sd	source\core\glob.src	0	string	STR_BEZIEROBJECTBARSHELL				13691	cs	Bézierův režim				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_BEZIEROBJECTBARSHELL				13691	cy	Modd Bézier				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_BEZIEROBJECTBARSHELL				13691	da	Béziertilstand				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_BEZIEROBJECTBARSHELL				0	de	Béziermodus				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_BEZIEROBJECTBARSHELL				13691	dz	བི་ཛི་ཡར་ཐབས་ལམ།				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_BEZIEROBJECTBARSHELL				0	el	Κατάσταση καμπύλης				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_BEZIEROBJECTBARSHELL				0	en-GB	Bézier mode				2002-02-02 02:02:02
@@ -568,6 +575,7 @@ sd	source\core\glob.src	0	string	STR_DRAWVIEWSHELL				13691	ca	Vista dibuix				2
 sd	source\core\glob.src	0	string	STR_DRAWVIEWSHELL				13691	cs	Pohled na kreslení				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_DRAWVIEWSHELL				13691	cy	Golwg Lluniadu				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_DRAWVIEWSHELL				13691	da	Tegningsvisning				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_DRAWVIEWSHELL				0	de	Zeichenmodus				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_DRAWVIEWSHELL				13691	dz	འབྲི་ནིའི་མཐོང་སྣང་།				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_DRAWVIEWSHELL				0	el	Κατάσταση σχεδίασης				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_DRAWVIEWSHELL				0	en-GB	Drawing View				2002-02-02 02:02:02
@@ -645,6 +653,7 @@ sd	source\core\glob.src	0	string	STR_EMPTY_STYLESHEET_NAME				13691	ca	Plantilla
 sd	source\core\glob.src	0	string	STR_EMPTY_STYLESHEET_NAME				13691	cs	Prázdná šablona				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_EMPTY_STYLESHEET_NAME				13691	cy	Templed gwag				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_EMPTY_STYLESHEET_NAME				13691	da	Tom skabelon				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_EMPTY_STYLESHEET_NAME				0	de	Leere Vorlage				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_EMPTY_STYLESHEET_NAME				13691	dz	ཊེམ་པེལེཊི་སྟོང་མ།				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_EMPTY_STYLESHEET_NAME				0	el	Κενό πρότυπο				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_EMPTY_STYLESHEET_NAME				0	en-GB	Blank template				2002-02-02 02:02:02
@@ -720,6 +729,7 @@ sd	source\core\glob.src	0	string	STR_FONTWORKOBJECTBARSHELL				13691	ca	FontWork
 sd	source\core\glob.src	0	string	STR_FONTWORKOBJECTBARSHELL				13691	cs	Písmomalba				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_FONTWORKOBJECTBARSHELL				13691	cy	Fontwork				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_FONTWORKOBJECTBARSHELL				13691	da	Fontwork				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_FONTWORKOBJECTBARSHELL				0	de	Fontwork				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_FONTWORKOBJECTBARSHELL				13691	dz	ཡིག་གཟུགས་ཀྱི་ལཱ་གཡོག				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_FONTWORKOBJECTBARSHELL				0	el	Fontwork				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_FONTWORKOBJECTBARSHELL				0	en-GB	Fontwork				2002-02-02 02:02:02
@@ -792,6 +802,7 @@ sd	source\core\glob.src	0	string	STR_GLUEPOINTSOBJECTBARSHELL				13691	ca	Mode d
 sd	source\core\glob.src	0	string	STR_GLUEPOINTSOBJECTBARSHELL				13691	cs	Režim záchytných bodů				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_GLUEPOINTSOBJECTBARSHELL				13691	cy	Modd Pwyntiau Gludo				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_GLUEPOINTSOBJECTBARSHELL				13691	da	Klæbepunktstilstand				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_GLUEPOINTSOBJECTBARSHELL				0	de	Klebepunktemodus				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_GLUEPOINTSOBJECTBARSHELL				13691	dz	གུལུ་ པོའིནཊིསི་ གི་ཐབས་ལམ།				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_GLUEPOINTSOBJECTBARSHELL				0	el	Κατάσταση σημείων κόλλησης				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_GLUEPOINTSOBJECTBARSHELL				0	en-GB	Glue Points Mode				2002-02-02 02:02:02
@@ -867,6 +878,7 @@ sd	source\core\glob.src	0	string	STR_GRAFOBJECTBARSHELL				13691	ca	Mode gràfic
 sd	source\core\glob.src	0	string	STR_GRAFOBJECTBARSHELL				13691	cs	Grafický režim				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_GRAFOBJECTBARSHELL				13691	cy	Modd graffigol				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_GRAFOBJECTBARSHELL				13691	da	Grafiktilstand				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_GRAFOBJECTBARSHELL				0	de	Grafikmodus				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_GRAFOBJECTBARSHELL				13691	dz	ཚད་རིས་ཐབས་ལམ།				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_GRAFOBJECTBARSHELL				0	el	Κατάσταση γραφικών				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_GRAFOBJECTBARSHELL				0	en-GB	Graphics mode				2002-02-02 02:02:02
@@ -944,6 +956,7 @@ sd	source\core\glob.src	0	string	STR_HANDOUT				13691	ca	Prospectes				2002-02-0
 sd	source\core\glob.src	0	string	STR_HANDOUT				13691	cs	Teze				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_HANDOUT				13691	cy	Taflenni				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_HANDOUT				13691	da	Uddelingskopier				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_HANDOUT				0	de	Handzettel				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_HANDOUT				13691	dz	ལག་བཀྲམ་ཚུ།				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_HANDOUT				0	el	Σημείωμα				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_HANDOUT				0	en-GB	Handouts				2002-02-02 02:02:02
@@ -1021,6 +1034,7 @@ sd	source\core\glob.src	0	string	STR_LAYER_BCKGRND				13691	ca	Fons				2002-02-0
 sd	source\core\glob.src	0	string	STR_LAYER_BCKGRND				13691	cs	Pozadí				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_BCKGRND				13691	cy	Cefndir				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_BCKGRND				13691	da	Baggrund				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_LAYER_BCKGRND				0	de	Hintergrund				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_BCKGRND				13691	dz	རྒྱབ་གཞི།				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_BCKGRND				0	el	Φόντο				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_BCKGRND				0	en-GB	Background				2002-02-02 02:02:02
@@ -1096,6 +1110,7 @@ sd	source\core\glob.src	0	string	STR_LAYER_BCKGRNDOBJ				13691	ca	Objectes de fo
 sd	source\core\glob.src	0	string	STR_LAYER_BCKGRNDOBJ				13691	cs	Objekty pozadí				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_BCKGRNDOBJ				13691	cy	Gwrthrych cefndir				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_BCKGRNDOBJ				13691	da	Baggrundsobjekter				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_LAYER_BCKGRNDOBJ				0	de	Hintergrundobjekte				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_BCKGRNDOBJ				13691	dz	རྒྱབ་གཞིའི་དངོས་པོ་ཚུ།				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_BCKGRNDOBJ				0	el	Αντικείμενα φόντου				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_BCKGRNDOBJ				0	en-GB	Background objects				2002-02-02 02:02:02
@@ -1171,6 +1186,7 @@ sd	source\core\glob.src	0	string	STR_LAYER_CONTROLS				13691	ca	Controls				2002
 sd	source\core\glob.src	0	string	STR_LAYER_CONTROLS				13691	cs	Ovládací prvky				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_CONTROLS				13691	cy	Rheolydd				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_CONTROLS				13691	da	Kontrolelementer				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_LAYER_CONTROLS				0	de	Controls				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_CONTROLS				13691	dz	ཚད་འཛིན་ཚུ།				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_CONTROLS				0	el	Στοιχεία ελέγχου				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_CONTROLS				0	en-GB	Controls				2002-02-02 02:02:02
@@ -1248,6 +1264,7 @@ sd	source\core\glob.src	0	string	STR_LAYER_LAYOUT				13691	ca	Format				2002-02-
 sd	source\core\glob.src	0	string	STR_LAYER_LAYOUT				13691	cs	Formát				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_LAYOUT				13691	cy	Cynllun				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_LAYOUT				13691	da	Layout				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_LAYER_LAYOUT				0	de	Layout				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_LAYOUT				13691	dz	སྒྲིག་བཀོད།				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_LAYOUT				0	el	Διάταξη				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_LAYOUT				0	en-GB	Layout				2002-02-02 02:02:02
@@ -1325,6 +1342,7 @@ sd	source\core\glob.src	0	string	STR_LAYER_MEASURELINES				13691	ca	Dimensiona l
 sd	source\core\glob.src	0	string	STR_LAYER_MEASURELINES				13691	cs	Kótovací čáry				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_MEASURELINES				13691	cy	Llinellau Dimensiwn				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_MEASURELINES				13691	da	Mållinjer				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_LAYER_MEASURELINES				0	de	Maßlinien				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_MEASURELINES				13691	dz	རྒྱ་འཁོན་གྱལ་རིམ་ཚུ།				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_MEASURELINES				0	el	Γραμμές διαστασιολόγησης				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_MEASURELINES				0	en-GB	Dimension Lines				2002-02-02 02:02:02
@@ -1401,6 +1419,7 @@ sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_NAME				13691	ca	Per defecte
 sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_NAME				13691	cs	Výchozí				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_NAME				13691	cy	Rhagosodedig				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_NAME				13691	da	Standard				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_NAME				0	de	Standard				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_NAME				13691	dz	སྔོན་སྒྲིག				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_NAME				0	el	Προεπιλογή				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_NAME				0	en-GB	Default				2002-02-02 02:02:02
@@ -1476,6 +1495,7 @@ sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_TITLE_NAME				13691	ca	Títo
 sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_TITLE_NAME				13691	cs	Titulek				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_TITLE_NAME				13691	cy	Teitl				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_TITLE_NAME				13691	da	Titel				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_TITLE_NAME				0	de	Titel				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_TITLE_NAME				13691	dz	མགོ་མིང་།				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_TITLE_NAME				0	el	Τίτλος				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_TITLE_NAME				0	en-GB	Title				2002-02-02 02:02:02
@@ -1550,6 +1570,7 @@ sd	source\core\glob.src	0	string	STR_LOAD_DOC				13691	ca	Carrega el document			
 sd	source\core\glob.src	0	string	STR_LOAD_DOC				13691	cs	Načíst dokument				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LOAD_DOC				13691	cy	Llwytho Dogfen				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LOAD_DOC				13691	da	Indlæs dokument				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_LOAD_DOC				0	de	Dokument laden				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LOAD_DOC				13691	dz	ཡིག་ཆ་མངོན་གསལ་འབད།				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LOAD_DOC				0	el	Φόρτωση εγγράφου				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LOAD_DOC				0	en-GB	Load Document				2002-02-02 02:02:02
@@ -1627,6 +1648,7 @@ sd	source\core\glob.src	0	string	STR_MASTERPAGE				13691	ca	Fons				2002-02-02 0
 sd	source\core\glob.src	0	string	STR_MASTERPAGE				13691	cs	Pozadí				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_MASTERPAGE				13691	cy	Cefndir				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_MASTERPAGE				13691	da	Baggrund				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_MASTERPAGE				0	de	Hintergrund				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_MASTERPAGE				13691	dz	རྒྱབ་གཞི།				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_MASTERPAGE				0	el	Φόντο				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_MASTERPAGE				0	en-GB	Background				2002-02-02 02:02:02
@@ -1701,6 +1723,7 @@ sd	source\core\glob.src	0	string	STR_MEDIAOBJECTBARSHELL				13691	ca	Media Playb
 sd	source\core\glob.src	0	string	STR_MEDIAOBJECTBARSHELL				13691	cs	Přehrávání médií				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_MEDIAOBJECTBARSHELL				13691	cy	Chwaraewr Cyfrwng				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_MEDIAOBJECTBARSHELL				13691	da	Medieafspilning				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_MEDIAOBJECTBARSHELL				0	de	Medienwiedergabe				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_MEDIAOBJECTBARSHELL				13691	dz	གླུ་གཞས་གཏང་ནིའི་བརྡ་ལམ།				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_MEDIAOBJECTBARSHELL				0	el	Αναπαραγωγή μέσων				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_MEDIAOBJECTBARSHELL				0	en-GB	Play Media				2002-02-02 02:02:02
@@ -1775,6 +1798,7 @@ sd	source\core\glob.src	0	string	STR_NOTES				13691	ca	(Notes)				2002-02-02 02:
 sd	source\core\glob.src	0	string	STR_NOTES				13691	cs	(Komentáře)				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_NOTES				13691	cy	(Nodiadau)				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_NOTES				13691	da	(Noter)				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_NOTES				0	de	(Notizen)				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_NOTES				13691	dz	(དྲན་ཚིག་ཚུ།)				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_NOTES				0	el	(Σημειώσεις)				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_NOTES				0	en-GB	(Notes)				2002-02-02 02:02:02
@@ -1852,6 +1876,7 @@ sd	source\core\glob.src	0	string	STR_NOT_ENOUGH_MEMORY				13691	ca	No hi ha prou
 sd	source\core\glob.src	0	string	STR_NOT_ENOUGH_MEMORY				13691	cs	Nedostatek paměti!\nAkce bude přerušena.				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_NOT_ENOUGH_MEMORY				13691	cy	Dim digon o gof!\nBydd y weithred yn cael ei hatal.				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_NOT_ENOUGH_MEMORY				13691	da	Ikke tilstrækkelig hukommelse!\nHandlingen bliver afbrudt.				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_NOT_ENOUGH_MEMORY				0	de	Nicht genug Speicher!\nDie Aktion wird abgebrochen.				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_NOT_ENOUGH_MEMORY				13691	dz	དྲན་ཚད་ལངམ་མེདཔ་!\n བྱ་བ་འདི་བབ་བཤོལ་འགྱོ་འོང་།				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_NOT_ENOUGH_MEMORY				0	el	Δεν υπάρχει αρκετή μνήμη!\nΗ ενέργεια θα διακοπεί.				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_NOT_ENOUGH_MEMORY				0	en-GB	Not enough memory!\nThe action will be aborted.				2002-02-02 02:02:02
@@ -1928,6 +1953,7 @@ sd	source\core\glob.src	0	string	STR_OUTLINEVIEWSHELL				13691	ca	Vista d'esquem
 sd	source\core\glob.src	0	string	STR_OUTLINEVIEWSHELL				13691	cs	Pohled s osnovou				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_OUTLINEVIEWSHELL				13691	cy	Golwg Amlinell				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_OUTLINEVIEWSHELL				13691	da	Dispositionsvisning				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_OUTLINEVIEWSHELL				0	de	Gliederungsmodus				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_OUTLINEVIEWSHELL				13691	dz	མཐའ་ཐིག་སྟོན།				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_OUTLINEVIEWSHELL				0	el	Κατάσταση διάρθρωσης				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_OUTLINEVIEWSHELL				0	en-GB	Outline View				2002-02-02 02:02:02
@@ -2005,6 +2031,7 @@ sd	source\core\glob.src	0	string	STR_PAGE				13691	ca	Diapositiva				2002-02-02 
 sd	source\core\glob.src	0	string	STR_PAGE				13691	cs	Snímek				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PAGE				13691	cy	Tryloyw				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PAGE				13691	da	Dias				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PAGE				0	de	Folie				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PAGE				13691	dz	བཤུད་བརྙན།				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PAGE				0	el	Διαφάνεια				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PAGE				0	en-GB	Slide				2002-02-02 02:02:02
@@ -2079,6 +2106,7 @@ sd	source\core\glob.src	0	string	STR_PAGE_NAME				13691	ca	Pàgina				2002-02-02
 sd	source\core\glob.src	0	string	STR_PAGE_NAME				13691	cs	Stránka				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PAGE_NAME				13691	cy	Tudalen				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PAGE_NAME				13691	da	Side				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PAGE_NAME				0	de	Seite				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PAGE_NAME				13691	dz	ཤོག་ལེབ།				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PAGE_NAME				0	el	Σελίδα				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PAGE_NAME				0	en-GB	Page				2002-02-02 02:02:02
@@ -2155,6 +2183,7 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_ARROW				13691	ca	Fletxa				2002-
 sd	source\core\glob.src	0	string	STR_POOLSHEET_ARROW				13691	cs	Šipka				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_ARROW				13691	cy	Saeth				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_ARROW				13691	da	Pil				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_POOLSHEET_ARROW				0	de	Pfeil				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_ARROW				13691	dz	མདའ་རྟགས།				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_ARROW				0	el	Βέλος				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_ARROW				0	en-GB	Arrow				2002-02-02 02:02:02
@@ -2232,6 +2261,7 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE				13691	ca	Encapçalame
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE				13691	cs	Nadpis				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE				13691	cy	Pennawd				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE				13691	da	Overskrift				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE				0	de	Überschrift				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE				13691	dz	མགུ་རྒྱན།				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE				0	el	Επικεφαλίδα				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE				0	en-GB	Heading				2002-02-02 02:02:02
@@ -2309,6 +2339,7 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE1				13691	ca	Encapçalam
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE1				13691	cs	Nadpis1				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE1				13691	cy	Pennawd1				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE1				13691	da	Overskrift1				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE1				0	de	Überschrift1				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE1				13691	dz	མགུ་རྒྱན་ ༡				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE1				0	el	Επικεφαλίδα1				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE1				0	en-GB	Heading1				2002-02-02 02:02:02
@@ -2386,6 +2417,7 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE2				13691	ca	Encapçalam
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE2				13691	cs	Nadpis2				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE2				13691	cy	Pennawd2				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE2				13691	da	Overskrift2				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE2				0	de	Überschrift2				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE2				13691	dz	མགུ་རྒྱན་ ༢				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE2				0	el	Επικεφαλίδα2				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE2				0	en-GB	Heading2				2002-02-02 02:02:02
@@ -2463,6 +2495,7 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_MEASURE				13691	ca	Dimensiona la
 sd	source\core\glob.src	0	string	STR_POOLSHEET_MEASURE				13691	cs	Kótovací čára				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_MEASURE				13691	cy	Llinell Dimensiwn				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_MEASURE				13691	da	Mållinje				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_POOLSHEET_MEASURE				0	de	Maßlinie				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_MEASURE				13691	dz	རྒྱ་འཁྱོན་གྲལ་ཐིག				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_MEASURE				0	el	Γραμμή διαστασιολόγησης				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_MEASURE				0	en-GB	Dimension Line				2002-02-02 02:02:02
@@ -2540,6 +2573,7 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHARROW				13691	ca	Objecte 
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHARROW				13691	cs	Objekt se šipkou				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHARROW				13691	cy	Gwrthrych gyda saeth				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHARROW				13691	da	Objekt med pilespids				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHARROW				0	de	Objekt mit Pfeilspitze				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHARROW				13691	dz	དངོས་པོ་གཅིག་ཁར་མདའ་རྟགས།				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHARROW				0	el	Αντικείμενο με βέλος				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHARROW				0	en-GB	Object with arrow				2002-02-02 02:02:02
@@ -2617,6 +2651,7 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHOUTFILL				13691	ca	Object
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHOUTFILL				13691	cs	Objekt bez výplně				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHOUTFILL				13691	cy	Gwrthrych heb lenwad				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHOUTFILL				13691	da	Objekt uden fyld				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHOUTFILL				0	de	Objekt ohne Füllung				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHOUTFILL				13691	dz	དངོས་པོ་ས་སྒོ་མེདཔ་སྦེ།				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHOUTFILL				0	el	Αντικείμενο χωρίς γέμισμα				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHOUTFILL				0	en-GB	Object without fill				2002-02-02 02:02:02
@@ -2693,6 +2728,7 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHSHADOW				13691	ca	Objecte
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHSHADOW				13691	cs	Objekt se stínováním				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHSHADOW				13691	cy	Gwrthrych gyda chysgod				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHSHADOW				13691	da	Objekt med skygge				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHSHADOW				0	de	Objekt mit Schatten				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHSHADOW				13691	dz	དངོས་པོ་གཅིག་ཁར་གྱིབ་མ།				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHSHADOW				0	el	Αντικείμενο με σκιά				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHSHADOW				0	en-GB	Object with shadow				2002-02-02 02:02:02
@@ -2770,6 +2806,7 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXT				13691	ca	Text				2002-02-
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXT				13691	cs	Text				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXT				13691	cy	Testun				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXT				13691	da	Tekst				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXT				0	de	Text				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXT				13691	dz	ཚིག་ཡིག་				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXT				0	el	Κείμενο				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXT				0	en-GB	Text				2002-02-02 02:02:02
@@ -2847,6 +2884,7 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY				13691	ca	Cos del text
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY				13691	cs	Tělo textu				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY				13691	cy	Corff testun				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY				13691	da	Brødtekst				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY				0	de	Textkörper				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY				13691	dz	ཚིག་ཡིག་མ་གཟུགས།				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY				0	el	Σώμα κειμένου				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY				0	en-GB	Text body				2002-02-02 02:02:02
@@ -2924,6 +2962,7 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_INDENT				13691	ca	Sagna
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_INDENT				13691	cs	Odsazení prvního řádku				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_INDENT				13691	cy	Mewnoliad y llinell gyntaf				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_INDENT				13691	da	Første linjes indrykning				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_INDENT				0	de	Textkörper Einzug				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_INDENT				13691	dz	དང་པ་གྲལ་ཐིག་འགོ་མཚམས།				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_INDENT				0	el	Εσοχή πρώτης γραμμής				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_INDENT				0	en-GB	First line indent				2002-02-02 02:02:02
@@ -3001,6 +3040,7 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_JUSTIFY				13691	ca	Cos 
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_JUSTIFY				13691	cs	Zarovnané textové tělo				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_JUSTIFY				13691	cy	Testun				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_JUSTIFY				13691	da	Lige margener i brødtekst				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_JUSTIFY				0	de	Textkörper Blocksatz				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_JUSTIFY				13691	dz	ཚིག་ཡིག་མ་གཟུགས་ལྟེམས་བཅོས་འབད།				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_JUSTIFY				0	el	Πλήρης στοίχιση σώματος κειμένου				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_JUSTIFY				0	en-GB	Text body justified				2002-02-02 02:02:02
@@ -3076,6 +3116,7 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE				13691	ca	Títol				2002-
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE				13691	cs	Titulek				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE				13691	cy	Teitl				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE				13691	da	Titel				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE				0	de	Titel				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE				13691	dz	མགོ་མིང་།				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE				0	el	Τίτλος				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE				0	en-GB	Title				2002-02-02 02:02:02
@@ -3150,6 +3191,7 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE1				13691	ca	Títol1				200
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE1				13691	cs	Titul1				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE1				13691	cy	Teitl1				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE1				13691	da	Titel1				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE1				0	de	Titel1				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE1				13691	dz	མགོ་མིང་ ༡				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE1				0	el	Τίτλος1				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE1				0	en-GB	Title1				2002-02-02 02:02:02
@@ -3227,6 +3269,7 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE2				13691	ca	Títol2				200
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE2				13691	cs	Titul2				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE2				13691	cy	Teitl2				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE2				13691	da	Titel2				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE2				0	de	Titel2				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE2				13691	dz	མགོ་མིང་ ༢				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE2				0	el	Τίτλος2				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE2				0	en-GB	Title2				2002-02-02 02:02:02
@@ -3304,6 +3347,7 @@ sd	source\core\glob.src	0	string	STR_POWERPOINT_IMPORT				13691	ca	Importació d
 sd	source\core\glob.src	0	string	STR_POWERPOINT_IMPORT				13691	cs	Import z PowerPointu				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POWERPOINT_IMPORT				13691	cy	Mewnforio o PowerPoint				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POWERPOINT_IMPORT				13691	da	PowerPoint-import				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_POWERPOINT_IMPORT				0	de	PowerPoint Import				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POWERPOINT_IMPORT				13691	dz	པ་ཝར་པོའིནཊི་ནང་འདྲེན།				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POWERPOINT_IMPORT				0	el	Εισαγωγή του PowerPoint				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POWERPOINT_IMPORT				0	en-GB	PowerPoint Import				2002-02-02 02:02:02
@@ -3380,6 +3424,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_CHART				13691	ca	Feu doble clic pe
 sd	source\core\glob.src	0	string	STR_PRESOBJ_CHART				13691	cs	Dvojitým klepnutím přidáte graf				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_CHART				13691	cy	Cilc dwbl i ychwanegu siart				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_CHART				13691	da	Dobbeltklik for at tilføje et diagram				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_CHART				0	de	Diagramm durch Doppelklicken hinzufügen				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_CHART				13691	dz	དཔེ་རིས་ཁ་སྐོང་གི་དོན་ལུ་ལོག་བལྟབ་ཨེབ་གཏང་འབད།				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_CHART				0	el	Κάντε διπλό κλικ για τη προσθήκη διαγράμματος				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_CHART				0	en-GB	Double-click to add a chart				2002-02-02 02:02:02
@@ -3457,6 +3502,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_GRAPHIC				13691	ca	Feu doble clic 
 sd	source\core\glob.src	0	string	STR_PRESOBJ_GRAPHIC				13691	cs	Dvojitým klepnutím přidáte grafiku				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_GRAPHIC				13691	cy	Clic dwbl i ychwanegu graffigau				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_GRAPHIC				13691	da	Dobbeltklik for at tilføje grafik				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_GRAPHIC				0	de	Grafik durch Doppelklicken hinzufügen				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_GRAPHIC				13691	dz	ཚད་རིས་ཁ་སྐོང་དོན་ལུ་ལོག་བལྟབ་ཨེབ་གཏང་།				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_GRAPHIC				0	el	Κάντε διπλό κλικ για την προσθήκη γραφικού				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_GRAPHIC				0	en-GB	Double-click to add graphics				2002-02-02 02:02:02
@@ -3550,6 +3596,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_IMAGE			defined STARIMAGE_AVAILABLE
 sd	source\core\glob.src	0	string	STR_PRESOBJ_IMAGE			defined STARIMAGE_AVAILABLE	13691	cs	Dvojitým klepnutím přidáte obrázek				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_IMAGE			defined STARIMAGE_AVAILABLE	13691	cy	Clic dwbl i ychwanegu delwedd				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_IMAGE			defined STARIMAGE_AVAILABLE	13691	da	Dobbeltklik for at tilføje et billede				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_IMAGE			defined STARIMAGE_AVAILABLE	0	de	Bild durch Doppelklicken hinzufügen				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_IMAGE			defined STARIMAGE_AVAILABLE	13691	dz	གཟུགས་བརྙན་ཁ་སྐོང་དོན་ལུ་ལོག་བལྟབ་ཨེབ་གཏང་།				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_IMAGE			defined STARIMAGE_AVAILABLE	0	el	Κάντε διπλό κλικ για την προσθήκη της εικόνας				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_IMAGE			defined STARIMAGE_AVAILABLE	0	en-GB	Double-click to add an image				2002-02-02 02:02:02
@@ -3627,6 +3674,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTEXT				13691	ca	Feu clic pe
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTEXT				13691	cs	Klepněte pro úpravu formátu komentářů				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTEXT				13691	cy	Clicio i olygu fformat y nodiadau				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTEXT				13691	da	Klik for at redigere noternes format				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTEXT				0	de	Klicken Sie, um das Format der Notizen zu bearbeiten				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTEXT				13691	dz	དྲནའཛིན་གྱི་རྩ་སྒྲིག་ཞུན་དག་་འབད་ནའི་དོན་ལུ་ཨེབ་གཏང་འབད།				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTEXT				0	el	Κάντε κλικ εδώ για την επεξεργασία της μορφής των σημειώσεων				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTEXT				0	en-GB	Click to edit the notes' format				2002-02-02 02:02:02
@@ -3704,6 +3752,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTITLE				13691	ca	Feu clic p
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTITLE				13691	cs	Klepněte pro přesun snímku				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTITLE				13691	cy	Clicio i symud y tryloywder				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTITLE				13691	da	Klik for at flytte dias				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTITLE				0	de	Klicken Sie, um die Seite zu verschieben				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTITLE				13691	dz	བཤུད་བརྙན་སྤོ་བཤུད་ཀྱི་དོན་ལུ་ཨེབ་གཏང་།				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTITLE				0	el	Κάντε κλικ εδώ για την μετακίνηση της διαφάνειας				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTITLE				0	en-GB	Click to move the slide				2002-02-02 02:02:02
@@ -3781,6 +3830,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLINE				13691	ca	Feu clic per 
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLINE				13691	cs	Klepněte pro úpravu formátu textu osnovy				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLINE				13691	cy	Clicio i olygu fformat y testun amlinell				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLINE				13691	da	Klik for at redigere dispositionstekstens format				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLINE				0	de	Klicken Sie, um die Formate des Gliederungstextes zu bearbeiten				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLINE				13691	dz	མཐའ་ཐིག་ཚིག་ཡིག་རྩ་སྒྲིག་ཞུན་དག་འབད་ནིའི་དོན་ལུ་ཨེབ་གཏང་།				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLINE				0	el	Κάντε κλικ εδώ για την επεξεργασία της μορφής των κειμένων διάρθρωσης				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLINE				0	en-GB	Click to edit the outline text format				2002-02-02 02:02:02
@@ -3858,6 +3908,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER2				13691	ca	Segon nive
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER2				13691	cs	Druhá úroveň				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER2				13691	cy	Lefel Ail Amlinell 				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER2				13691	da	Andet dispositionsniveau				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER2				0	de	Zweite Gliederungsebene				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER2				13691	dz	མཐའ་ཐིག་གཉིས་པའི་གནས་རིམ།				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER2				0	el	Δεύτερο επίπεδο διάρθρωσης				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER2				0	en-GB	Second Outline Level				2002-02-02 02:02:02
@@ -3935,6 +3986,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER3				13691	ca	Tercer niv
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER3				13691	cs	Třetí úroveň				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER3				13691	cy	Lefel y Drydedd Amlinell				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER3				13691	da	Tredje dispositionsniveau				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER3				0	de	Dritte Gliederungsebene				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER3				13691	dz	མཐའ་ཐིག་གསུམ་པའི་གནས་རིམ།				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER3				0	el	Τρίτο επίπεδο διάρθρωσης				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER3				0	en-GB	Third Outline Level				2002-02-02 02:02:02
@@ -4012,6 +4064,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER4				13691	ca	Quart nive
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER4				13691	cs	Čtvrtá úroveň osnovy				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER4				13691	cy	Lefel y Bedwaredd Amlinell				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER4				13691	da	Fjerde dispositionsniveau				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER4				0	de	Vierte Gliederungsebene				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER4				13691	dz	མཐའ་ཐིག་བཞི་པའི་གནས་རིམ།				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER4				0	el	Τέταρτο επίπεδο διάρθρωσης				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER4				0	en-GB	Fourth Outline Level				2002-02-02 02:02:02
@@ -4089,6 +4142,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER5				13691	ca	Cinquè ni
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER5				13691	cs	Pátá úroveň osnovy				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER5				13691	cy	Lefel y Bumed Amlinell				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER5				13691	da	Femte dispositionsniveau				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER5				0	de	Fünfte Gliederungsebene				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER5				13691	dz	མཐའ་ཐིག་ལྔ་པའི་གནས་རིམ།				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER5				0	el	Πέμπτο επίπεδο διάρθρωσης				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER5				0	en-GB	Fifth Outline Level				2002-02-02 02:02:02
@@ -4166,6 +4220,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER6				13691	ca	Sisè nive
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER6				13691	cs	Šestá úroveň				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER6				13691	cy	Lefel y Chweched Amlinell				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER6				13691	da	Sjette dispositionsniveau				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER6				0	de	Sechste Gliederungsebene				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER6				13691	dz	མཐའ་ཐིག་དྲུག་པའི་གནས་རིམ།				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER6				0	el	Έκτο επίπεδο διάρθρωσης				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER6				0	en-GB	Sixth Outline Level				2002-02-02 02:02:02
@@ -4243,6 +4298,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER7				13691	ca	Setè nive
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER7				13691	cs	Sedmá úroveň				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER7				13691	cy	Lefel y Seithfed Amlinell				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER7				13691	da	Syvende dispositionsniveau				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER7				0	de	Siebente Gliederungsebene				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER7				13691	dz	མཐའ་ཐིག་བདུན་པའི་གནས་རིམ།				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER7				0	el	Έβδομο επίπεδο διάρθρωσης				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER7				0	en-GB	Seventh Outline Level				2002-02-02 02:02:02
@@ -4320,6 +4376,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER8				13691	ca	Vuitè niv
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER8				13691	cs	Osmá úroveň textu				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER8				13691	cy	Lefel yr Wythfed Amlinell				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER8				13691	da	Ottende dispositionsniveau				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER8				0	de	Achte Gliederungsebene				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER8				13691	dz	མཐའ་ཐིག་བརྒྱད་པའི་གནས་རིམ།				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER8				0	el	Όγδοο επίπεδο διάρθρωσης				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER8				0	en-GB	Eighth Outline Level				2002-02-02 02:02:02
@@ -4397,6 +4454,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER9				13691	ca	Novè nive
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER9				13691	cs	Devátá úroveň				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER9				13691	cy	Lefel y Nawfed Amlinell				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER9				13691	da	Niende dispositionsniveau				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER9				0	de	Neunte Gliederungsebene				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER9				13691	dz	མཐའ་ཐིག་དགུ་པའི་གནས་རིམ།				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER9				0	el	Ένατο επίπεδο διάρθρωσης				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER9				0	en-GB	Ninth Outline Level				2002-02-02 02:02:02
@@ -4474,6 +4532,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_MPTITLE				13691	ca	Feu clic per ed
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPTITLE				13691	cs	Klepněte pro úpravu formátu titulního textu				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPTITLE				13691	cy	Clicio i olygu fformat testun y teitl				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPTITLE				13691	da	Klik for at redigere titeltekstens format				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_MPTITLE				0	de	Klicken Sie, um das Format des Titeltextes zu bearbeiten				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPTITLE				13691	dz	མགོ་མིང་ཚིག་ཡིག་རྩ་སྒྲིག་ཞུན་དག་འབད་ནིའི་དོན་ལུ་ཨེབ་གཏང་།				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPTITLE				0	el	Κάντε κλικ εδώ για την επεξεργασία της μορφής του κειμένου του τίτλου				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPTITLE				0	en-GB	Click to edit the title text format				2002-02-02 02:02:02
@@ -4551,6 +4610,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_NOTESTEXT				13691	ca	Feu clic per 
 sd	source\core\glob.src	0	string	STR_PRESOBJ_NOTESTEXT				13691	cs	Klepněte pro vložení poznámek				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_NOTESTEXT				13691	cy	Clicio i ychwanegu nodiadau				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_NOTESTEXT				13691	da	Klik for at tilføje noter				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_NOTESTEXT				0	de	Notizen durch Klicken hinzufügen				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_NOTESTEXT				13691	dz	དྲན་ཚིག་ཁ་སྐོང་འབད་ནིའི་དོན་ལུ་ཨེབ་གཏང་འབད།				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_NOTESTEXT				0	el	Κάντε κλικ εδώ για την εισαγωγή σημειώσεων				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_NOTESTEXT				0	en-GB	Click to add notes				2002-02-02 02:02:02
@@ -4628,6 +4688,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_OBJECT				13691	ca	Feu doble clic p
 sd	source\core\glob.src	0	string	STR_PRESOBJ_OBJECT				13691	cs	Dvojitým klepnutím přidáte objekt				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_OBJECT				13691	cy	Clic dwbl i ychwanegu gwrthrych				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_OBJECT				13691	da	Dobbeltklik for at tilføje et objekt				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_OBJECT				0	de	Objekt durch Doppelklicken hinzufügen				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_OBJECT				13691	dz	དངོས་པོ་ཁ་སྐོང་གི་དོན་ལུ་ལོག་བལྟབ་ཨེབ་གཏང་འབད་།				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_OBJECT				0	el	Κάντε διπλό κλικ για τη προσθήκη αντικειμένου				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_OBJECT				0	en-GB	Double-click to add an object				2002-02-02 02:02:02
@@ -4705,6 +4766,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_ORGCHART				13691	ca	Feu doble clic
 sd	source\core\glob.src	0	string	STR_PRESOBJ_ORGCHART				13691	cs	Dvojitým klepnutím vložíte organizační diagram				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_ORGCHART				13691	cy	Clic dwbl i ychwanegu siart corfforaethol				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_ORGCHART				13691	da	Dobbeltklik for at tilføje et organisationsdiagram				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_ORGCHART				0	de	Organisationsdiagramm durch Doppelklicken hinzufügen				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_ORGCHART				13691	dz	ལས་སྡེཁ་སྐོང་གི་དོན་ལུ་ལོག་བལྟབ་ཨེབ་གཏང་།				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_ORGCHART				0	el	Προσθήκη διαγράμματος οργάνωσης με διπλό κλικ.				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_ORGCHART				0	en-GB	Double-click to add an organisation chart				2002-02-02 02:02:02
@@ -4782,6 +4844,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_OUTLINE				13691	ca	Feu clic per af
 sd	source\core\glob.src	0	string	STR_PRESOBJ_OUTLINE				13691	cs	Klepněte pro vložení textu				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_OUTLINE				13691	cy	Clicio i ychwanegu amlinell				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_OUTLINE				13691	da	Klik for at tilføje en disposition				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_OUTLINE				0	de	Gliederung durch Klicken hinzufügen				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_OUTLINE				13691	dz	མཐའ་ཐིག་ཁ་སྐོང་གི་དོན་ལུ་ཨེབ་གཏང་འབད།				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_OUTLINE				0	el	Κάντε κλικ εδώ για την εισαγωγή διάρθρωσης				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_OUTLINE				0	en-GB	Click to add an outline				2002-02-02 02:02:02
@@ -4859,6 +4922,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_TABLE				13691	ca	Feu doble clic pe
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TABLE				13691	cs	Dvojitým klepnutím přidáte sešit				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TABLE				13691	cy	Clic dwbl i ychwanegu taenlen				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TABLE				13691	da	Dobbeltklik for at tilføje et regneark				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_TABLE				0	de	Tabelle durch Doppelklicken hinzufügen				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TABLE				13691	dz	ཤོག་ཁྲམ་ཁ་སྐོང་གི་དོན་ལུ་ལོག་བལྟབ་ཨེབ་གཏང་འབད།				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TABLE				0	el	Προσθήκη υπολογιστικού φύλλου με διπλό κλικ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TABLE				0	en-GB	Double-click to add a spreadsheet				2002-02-02 02:02:02
@@ -4936,6 +5000,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_TEXT				13691	ca	Feu clic per afegi
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TEXT				13691	cs	Klepněte pro vložení textu				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TEXT				13691	cy	Clicio i ychwanegu testun				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TEXT				13691	da	Klik for at tilføje tekst				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_TEXT				0	de	Text durch Klicken hinzufügen				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TEXT				13691	dz	ཚིག་ཡིག་ཁ་སྐོང་འབད་ནིའི་དོན་ལུ་ཨེབ་གཏང་འབད།				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TEXT				0	el	Κάντε κλικ εδώ για την εισαγωγή κειμένου				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TEXT				0	en-GB	Click to add text				2002-02-02 02:02:02
@@ -5013,6 +5078,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_TITLE				13691	ca	Feu clic per afeg
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TITLE				13691	cs	Klepněte pro vložení titulu				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TITLE				13691	cy	Clicio i ychwanegu teitl				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TITLE				13691	da	Klik for at tilføje en titel				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_TITLE				0	de	Titel durch Klicken hinzufügen				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TITLE				13691	dz	མགོ་མིང་ཁ་སྐོང་དོན་ལུ་ཨེབ་གཏང་འབད།				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TITLE				0	el	Κάντε κλικ εδώ για την εισαγωγή τίτλου				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TITLE				0	en-GB	Click to add title				2002-02-02 02:02:02
@@ -5090,6 +5156,7 @@ sd	source\core\glob.src	0	string	STR_PRESVIEWSHELL				13691	ca	Mode presentació
 sd	source\core\glob.src	0	string	STR_PRESVIEWSHELL				13691	cs	Režim prezentace				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESVIEWSHELL				13691	cy	Modd cyflwyno				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESVIEWSHELL				13691	da	Præsentationstilstand				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESVIEWSHELL				0	de	Präsentationsmodus				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESVIEWSHELL				13691	dz	གསལ་སྟོན་ཐབས་ལམ།				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESVIEWSHELL				0	el	Λειτουργία παρουσίασης				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESVIEWSHELL				0	en-GB	Presentation mode				2002-02-02 02:02:02
@@ -5167,6 +5234,7 @@ sd	source\core\glob.src	0	string	STR_PREVIEWVIEWSHELL				13691	ca	Finestra de pr
 sd	source\core\glob.src	0	string	STR_PREVIEWVIEWSHELL				13691	cs	Okno náhledu				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PREVIEWVIEWSHELL				13691	cy	Ffenestr Rhagolwg				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PREVIEWVIEWSHELL				13691	da	Forhåndsvisningsvindue				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PREVIEWVIEWSHELL				0	de	Vorschaufenster				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PREVIEWVIEWSHELL				13691	dz	སྔོན་བལྟ་ཝིན་ཌོ།				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PREVIEWVIEWSHELL				0	el	Παράθυρο προεπισκόπησης				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PREVIEWVIEWSHELL				0	en-GB	Preview Window				2002-02-02 02:02:02
@@ -5244,6 +5312,7 @@ sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUND				13691	ca	Fons				
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUND				13691	cs	Pozadí				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUND				13691	cy	Cefndir				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUND				13691	da	Baggrund				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUND				0	de	Hintergrund				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUND				13691	dz	རྒྱབ་གཞི།				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUND				0	el	Φόντο				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUND				0	en-GB	Background				2002-02-02 02:02:02
@@ -5319,6 +5388,7 @@ sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUNDOBJECTS				13691	ca	O
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUNDOBJECTS				13691	cs	Objekty pozadí				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUNDOBJECTS				13691	cy	Gwrthrych cefndir				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUNDOBJECTS				13691	da	Baggrundsobjekter				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUNDOBJECTS				0	de	Hintergrundobjekte				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUNDOBJECTS				13691	dz	རྒྱབ་གཞི་དངོས་པོ་ཚུ།				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUNDOBJECTS				0	el	Αντικείμενα φόντου				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUNDOBJECTS				0	en-GB	Background objects				2002-02-02 02:02:02
@@ -5394,6 +5464,7 @@ sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_NOTES				13691	ca	Notes				2002
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_NOTES				13691	cs	Poznámky				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_NOTES				13691	cy	Nodiadau				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_NOTES				13691	da	Noter				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_NOTES				0	de	Notizen				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_NOTES				13691	dz	དྲན་འཛིན་ཚུ།				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_NOTES				0	el	Σημειώσεις				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_NOTES				0	en-GB	Notes				2002-02-02 02:02:02
@@ -5471,6 +5542,7 @@ sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_OUTLINE				13691	ca	Esquema				
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_OUTLINE				13691	cs	Osnova				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_OUTLINE				13691	cy	Amlinell				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_OUTLINE				13691	da	Disposition				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_OUTLINE				0	de	Gliederung				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_OUTLINE				13691	dz	མཐའ་ཐིག				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_OUTLINE				0	el	Διάρθρωση				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_OUTLINE				0	en-GB	Outline				2002-02-02 02:02:02
@@ -5548,6 +5620,7 @@ sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_SUBTITLE				13691	ca	Subtítol	
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_SUBTITLE				13691	cs	Podtitul				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_SUBTITLE				13691	cy	Is deitl				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_SUBTITLE				13691	da	Undertitel				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_SUBTITLE				0	de	Untertitel				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_SUBTITLE				13691	dz	མགོ་མིང་ཡན་ལག།				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_SUBTITLE				0	el	Υπότιτλος				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_SUBTITLE				0	en-GB	Subtitle				2002-02-02 02:02:02
@@ -5625,6 +5698,7 @@ sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_TITLE				13691	ca	Títol				200
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_TITLE				13691	cs	Titulek				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_TITLE				13691	cy	Teitl				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_TITLE				13691	da	Titel				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_TITLE				0	de	Titel				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_TITLE				13691	dz	མགོ་མིང་།				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_TITLE				0	el	Τίτλος				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_TITLE				0	en-GB	Title				2002-02-02 02:02:02
@@ -5699,6 +5773,7 @@ sd	source\core\glob.src	0	string	STR_SAVE_DOC				13691	ca	Desa el document				20
 sd	source\core\glob.src	0	string	STR_SAVE_DOC				13691	cs	Uložit dokument				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SAVE_DOC				13691	cy	Cadw Dogfen				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SAVE_DOC				13691	da	Gem dokument				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_SAVE_DOC				0	de	Dokument speichern				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SAVE_DOC				13691	dz	ཡིག་ཆ་སྲུངས་བཞག་འབད།				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SAVE_DOC				0	el	Αποθήκευση εγγράφου				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SAVE_DOC				0	en-GB	Save Document				2002-02-02 02:02:02
@@ -5776,6 +5851,7 @@ sd	source\core\glob.src	0	string	STR_SLIDEVIEWSHELL				13691	ca	Mode diapositiva
 sd	source\core\glob.src	0	string	STR_SLIDEVIEWSHELL				13691	cs	Snímkový režim				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SLIDEVIEWSHELL				13691	cy	Modd Tryloywder				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SLIDEVIEWSHELL				13691	da	Diastilstand				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_SLIDEVIEWSHELL				0	de	Folienmodus				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SLIDEVIEWSHELL				13691	dz	ཐབས་ལམ་བཤུད་བརྙན།				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SLIDEVIEWSHELL				0	el	Κατάσταση διαφάνειας				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SLIDEVIEWSHELL				0	en-GB	Slide Mode				2002-02-02 02:02:02
@@ -5852,6 +5928,7 @@ sd	source\core\glob.src	0	string	STR_SLIDE_NAME				13691	ca	Diapositiva				2002-
 sd	source\core\glob.src	0	string	STR_SLIDE_NAME				13691	cs	Snímek				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SLIDE_NAME				13691	cy	Tryloyw				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SLIDE_NAME				13691	da	Dias				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_SLIDE_NAME				0	de	Folie				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SLIDE_NAME				13691	dz	བཤུད་བརྙན།				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SLIDE_NAME				0	el	Διαφάνεια				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SLIDE_NAME				0	en-GB	Slide				2002-02-02 02:02:02
@@ -5926,6 +6003,7 @@ sd	source\core\glob.src	0	string	STR_STANDARD_STYLESHEET_NAME				13691	ca	Per de
 sd	source\core\glob.src	0	string	STR_STANDARD_STYLESHEET_NAME				13691	cs	Výchozí				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_STANDARD_STYLESHEET_NAME				13691	cy	Rhagosodedig				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_STANDARD_STYLESHEET_NAME				13691	da	Standard				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_STANDARD_STYLESHEET_NAME				0	de	Standard				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_STANDARD_STYLESHEET_NAME				13691	dz	སྔོན་སྒྲིག་				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_STANDARD_STYLESHEET_NAME				0	el	Προεπιλογή				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_STANDARD_STYLESHEET_NAME				0	en-GB	Default				2002-02-02 02:02:02
@@ -6001,6 +6079,7 @@ sd	source\core\glob.src	0	string	STR_STDOBJECTBARSHELL				13691	ca	Mode document
 sd	source\core\glob.src	0	string	STR_STDOBJECTBARSHELL				13691	cs	Dokumentový režim				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_STDOBJECTBARSHELL				13691	cy	Modd Dogfen				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_STDOBJECTBARSHELL				13691	da	Dokumenttilstand				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_STDOBJECTBARSHELL				0	de	Dokumentmodus				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_STDOBJECTBARSHELL				13691	dz	ཡིག་ཆ་ཐབས་ལམ།				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_STDOBJECTBARSHELL				0	el	Κατάσταση εγγράφου				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_STDOBJECTBARSHELL				0	en-GB	Document Mode				2002-02-02 02:02:02
@@ -6078,6 +6157,7 @@ sd	source\core\glob.src	0	string	STR_TEXTOBJECTBARSHELL				13691	ca	Mode text			
 sd	source\core\glob.src	0	string	STR_TEXTOBJECTBARSHELL				13691	cs	Textový režim				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_TEXTOBJECTBARSHELL				13691	cy	Modd Testun				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_TEXTOBJECTBARSHELL				13691	da	Teksttilstand				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_TEXTOBJECTBARSHELL				0	de	Textmodus				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_TEXTOBJECTBARSHELL				13691	dz	ཚིག་ཡིག་ཐབས་ལམ།				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_TEXTOBJECTBARSHELL				0	el	Κατάσταση κειμένου				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_TEXTOBJECTBARSHELL				0	en-GB	Text Mode				2002-02-02 02:02:02
@@ -6155,6 +6235,7 @@ sd	source\core\glob.src	0	string	STR_UNDO_MOVEPAGES				13691	ca	Mou les diaposit
 sd	source\core\glob.src	0	string	STR_UNDO_MOVEPAGES				13691	cs	Přesunout snímky				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_UNDO_MOVEPAGES				13691	cy	Symud tryloywderau				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_UNDO_MOVEPAGES				13691	da	Flyt dias				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_UNDO_MOVEPAGES				0	de	Seiten verschieben				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_UNDO_MOVEPAGES				13691	dz	བཤུད་བརྙན་སྤོ་བཤུད་ཚུ།				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_UNDO_MOVEPAGES				0	el	Μετακίνηση διαφανειών				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_UNDO_MOVEPAGES				0	en-GB	Move slides				2002-02-02 02:02:02
