@@ -13,9 +13,9 @@
 #
 #   $RCSfile: localize.sdf,v $
 #
-#   $Revision: 1.17 $
+#   $Revision: 1.18 $
 #
-#   last change: $Author: vg $ $Date: 2007-02-02 17:14:53 $
+#   last change: $Author: ihi $ $Date: 2007-04-19 14:38:13 $
 #
 #   The Contents of this file are made available subject to
 #   the terms of GNU Lesser General Public License Version 2.1.
@@ -52,6 +52,7 @@ svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_ATTR				13691	ca	Aplica e
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_ATTR				13691	cs	Použít atributy				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_ATTR				13691	cy	Gosod priodweddau				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_ATTR				13691	da	Anvend attributter				2002-02-02 02:02:02
+svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_ATTR				0	de	Attribute anwenden				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_ATTR				13691	dz	ཁྱད་ཆོས་ཚུ འཇུག་སྤྱོད་འབད།				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_ATTR				0	el	Εφαρμογή ιδιοτήτων				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_ATTR				0	en-GB	Apply attributes				2002-02-02 02:02:02
@@ -128,6 +129,7 @@ svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_COLLAPSE				13691	ca	Redu
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_COLLAPSE				13691	cs	Skrýt všechny součásti				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_COLLAPSE				13691	cy	Cwympo				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_COLLAPSE				13691	da	Fold sammen				2002-02-02 02:02:02
+svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_COLLAPSE				0	de	Unterabsätze verstecken				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_COLLAPSE				13691	dz	རམ།				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_COLLAPSE				0	el	Απόκρυψη υποπαραγράφων				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_COLLAPSE				0	en-GB	Collapse				2002-02-02 02:02:02
@@ -204,6 +206,7 @@ svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_DEPTH				13691	ca	Sagna		
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_DEPTH				13691	cs	Odsazení				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_DEPTH				13691	cy	Mewnoliad				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_DEPTH				13691	da	Indryk				2002-02-02 02:02:02
+svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_DEPTH				0	de	Einrücken				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_DEPTH				13691	dz	འགོ་མཚམས།				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_DEPTH				0	el	Εσοχή				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_DEPTH				0	en-GB	Indent				2002-02-02 02:02:02
@@ -280,6 +283,7 @@ svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_EXPAND				13691	ca	Mostra
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_EXPAND				13691	cs	Zobrazit podbody				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_EXPAND				13691	cy	Dangos isbwyntiau				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_EXPAND				13691	da	Vis underpunkter				2002-02-02 02:02:02
+svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_EXPAND				0	de	Unterabsätze zeigen				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_EXPAND				13691	dz	སབ་པོནཊི་ སྟོན།				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_EXPAND				0	el	Εμφάνιση υποπαραγράφων				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_EXPAND				0	en-GB	Show subpoints				2002-02-02 02:02:02
@@ -355,6 +359,7 @@ svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_HEIGHT				13691	ca	Mou			
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_HEIGHT				13691	cs	Přesunout				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_HEIGHT				13691	cy	Symud				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_HEIGHT				13691	da	Flyt				2002-02-02 02:02:02
+svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_HEIGHT				0	de	Verschieben				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_HEIGHT				13691	dz	བཤུད།				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_HEIGHT				0	el	Μετακίνηση				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_HEIGHT				0	en-GB	Move				2002-02-02 02:02:02
@@ -431,6 +436,7 @@ svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_INSERT				13691	ca	Insere
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_INSERT				13691	cs	Vložit				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_INSERT				13691	cy	Mewnosod				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_INSERT				13691	da	Indsæt				2002-02-02 02:02:02
+svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_INSERT				0	de	Einfügen				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_INSERT				13691	dz	བཙུགས།				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_INSERT				0	el	Εισαγωγή				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_INSERT				0	en-GB	Insert				2002-02-02 02:02:02
