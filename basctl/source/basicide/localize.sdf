@@ -13,9 +13,9 @@
 #
 #   $RCSfile: localize.sdf,v $
 #
-#   $Revision: 1.27 $
+#   $Revision: 1.28 $
 #
-#   last change: $Author: vg $ $Date: 2007-02-02 16:59:29 $
+#   last change: $Author: ihi $ $Date: 2007-04-19 13:46:17 $
 #
 #   The Contents of this file are made available subject to
 #   the terms of GNU Lesser General Public License Version 2.1.
@@ -52,6 +52,7 @@ basctl	source\basicide\basidesh.src	0	imagebutton	RID_IMGBTN_REMOVEWATCH		HID_BA
 basctl	source\basicide\basidesh.src	0	imagebutton	RID_IMGBTN_REMOVEWATCH		HID_BASICIDE_REMOVEWATCH		80	cs	-		Odstranit kukátko		2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	imagebutton	RID_IMGBTN_REMOVEWATCH		HID_BASICIDE_REMOVEWATCH		80	cy	-		Tynnu Gwylio		2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	imagebutton	RID_IMGBTN_REMOVEWATCH		HID_BASICIDE_REMOVEWATCH		80	da	-		Fjern observatør		2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	imagebutton	RID_IMGBTN_REMOVEWATCH		HID_BASICIDE_REMOVEWATCH		0	de	-		Beobachter entfernen		2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	imagebutton	RID_IMGBTN_REMOVEWATCH		HID_BASICIDE_REMOVEWATCH		80	dz	-		བལྟ་ཞིབ་འབད་ནི་ རྩ་བསྐྲད་གཏང་།		2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	imagebutton	RID_IMGBTN_REMOVEWATCH		HID_BASICIDE_REMOVEWATCH		0	el	-		Κατάργηση παρατηρητή		2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	imagebutton	RID_IMGBTN_REMOVEWATCH		HID_BASICIDE_REMOVEWATCH		0	en-GB	-		Remove Watch		2002-02-02 02:02:02
@@ -127,6 +128,7 @@ basctl	source\basicide\basidesh.src	0	menu	RID_POPUP_BRKDLG				80	ca	Gestiona el
 basctl	source\basicide\basidesh.src	0	menu	RID_POPUP_BRKDLG				80	cs	Správa bodů přerušení				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menu	RID_POPUP_BRKDLG				80	cy	Rheoli Torbwyntiau				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menu	RID_POPUP_BRKDLG				80	da	Ret pausepunkter				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	menu	RID_POPUP_BRKDLG				0	de	Haltepunkte verwalten				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menu	RID_POPUP_BRKDLG				80	dz	བི་རེག་པོ་ཡིནཊསི་ འཛིན་སྐྱོང་འཐབ།				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menu	RID_POPUP_BRKDLG				0	el	Διαχείριση σημείων στάσης...				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menu	RID_POPUP_BRKDLG				0	en-GB	Manage Breakpoints				2002-02-02 02:02:02
@@ -199,6 +201,7 @@ basctl	source\basicide\basidesh.src	0	menu	RID_POPUP_BRKPROPS				80	ca	Propietat
 basctl	source\basicide\basidesh.src	0	menu	RID_POPUP_BRKPROPS				80	cs	Vlastnosti				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menu	RID_POPUP_BRKPROPS				80	cy	Priodweddau				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menu	RID_POPUP_BRKPROPS				80	da	Egenskaber				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	menu	RID_POPUP_BRKPROPS				0	de	Eigenschaften				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menu	RID_POPUP_BRKPROPS				80	dz	རྒྱུ་དངོས་ཚུ།				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menu	RID_POPUP_BRKPROPS				0	el	Ιδιότητες				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menu	RID_POPUP_BRKPROPS				0	en-GB	Properties				2002-02-02 02:02:02
@@ -574,6 +577,7 @@ basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_BRKDLG	RID_BRKDLG	HID_B
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_BRKDLG	RID_BRKDLG	HID_BASICIDE_BRKDLG		13691	cs	Správa bodů přerušení...				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_BRKDLG	RID_BRKDLG	HID_BASICIDE_BRKDLG		13691	cy	Torbwyntiau.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_BRKDLG	RID_BRKDLG	HID_BASICIDE_BRKDLG		13691	da	Ret pausepunkter...				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_BRKDLG	RID_BRKDLG	HID_BASICIDE_BRKDLG		0	de	Haltepunkte verwalten...				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_BRKDLG	RID_BRKDLG	HID_BASICIDE_BRKDLG		13691	dz	བི་རེག་པོ་ཡིནཊསི་ འཛིན་སྐྱོང་འཐབ་་་་་་				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_BRKDLG	RID_BRKDLG	HID_BASICIDE_BRKDLG		0	el	Σημεία στάσης...				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_BRKDLG	RID_BRKDLG	HID_BASICIDE_BRKDLG		0	en-GB	Manage Breakpoints...				2002-02-02 02:02:02
@@ -648,6 +652,7 @@ basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_BRKPROPS	RID_ACTIV	HID_
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_BRKPROPS	RID_ACTIV	HID_BASICIDE_ACTIV		13691	cs	Aktivní				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_BRKPROPS	RID_ACTIV	HID_BASICIDE_ACTIV		13691	cy	Gweithredol				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_BRKPROPS	RID_ACTIV	HID_BASICIDE_ACTIV		13691	da	Aktiv				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_BRKPROPS	RID_ACTIV	HID_BASICIDE_ACTIV		0	de	Aktiv				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_BRKPROPS	RID_ACTIV	HID_BASICIDE_ACTIV		13691	dz	ཤུགས་ལྡན།				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_BRKPROPS	RID_ACTIV	HID_BASICIDE_ACTIV		0	el	Ενεργό				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_BRKPROPS	RID_ACTIV	HID_BASICIDE_ACTIV		0	en-GB	Active				2002-02-02 02:02:02
@@ -722,6 +727,7 @@ basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_BRKPROPS	RID_BRKPROPS	H
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_BRKPROPS	RID_BRKPROPS	HID_BASICIDE_BRKPROPS		13691	cs	Vlastnosti...				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_BRKPROPS	RID_BRKPROPS	HID_BASICIDE_BRKPROPS		13691	cy	Priodweddau...				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_BRKPROPS	RID_BRKPROPS	HID_BASICIDE_BRKPROPS		13691	da	Egenskaber...				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_BRKPROPS	RID_BRKPROPS	HID_BASICIDE_BRKPROPS		0	de	Eigenschaften...				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_BRKPROPS	RID_BRKPROPS	HID_BASICIDE_BRKPROPS		13691	dz	རྒྱུ་དངོས་ཚུ་་་་་				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_BRKPROPS	RID_BRKPROPS	HID_BASICIDE_BRKPROPS		0	el	Ιδιότητες...				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_BRKPROPS	RID_BRKPROPS	HID_BASICIDE_BRKPROPS		0	en-GB	Properties...				2002-02-02 02:02:02
@@ -797,6 +803,7 @@ basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_DLGED	SID_SHOW_PROPERTY
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_DLGED	SID_SHOW_PROPERTYBROWSER	SID_SHOW_PROPERTYBROWSER		13691	cs	Vlastnosti...				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_DLGED	SID_SHOW_PROPERTYBROWSER	SID_SHOW_PROPERTYBROWSER		13691	cy	Priodweddau...				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_DLGED	SID_SHOW_PROPERTYBROWSER	SID_SHOW_PROPERTYBROWSER		13691	da	Egenskaber...				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_DLGED	SID_SHOW_PROPERTYBROWSER	SID_SHOW_PROPERTYBROWSER		0	de	Eigenschaften...				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_DLGED	SID_SHOW_PROPERTYBROWSER	SID_SHOW_PROPERTYBROWSER		13691	dz	རྒྱུ་དངོས་ཚུ་་་་				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_DLGED	SID_SHOW_PROPERTYBROWSER	SID_SHOW_PROPERTYBROWSER		0	el	Ιδιότητες...				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_DLGED	SID_SHOW_PROPERTYBROWSER	SID_SHOW_PROPERTYBROWSER		0	en-GB	Properties...				2002-02-02 02:02:02
@@ -872,6 +879,7 @@ basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	RID_INSERT			136
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	RID_INSERT			13691	cs	Vložit				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	RID_INSERT			13691	cy	Mewnosod				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	RID_INSERT			13691	da	Indsæt				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	RID_INSERT			0	de	Einfügen				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	RID_INSERT			13691	dz	བཙུགས།				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	RID_INSERT			0	el	Εισαγωγή				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	RID_INSERT			0	en-GB	Insert				2002-02-02 02:02:02
@@ -949,6 +957,7 @@ basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_DEL
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_DELETECURRENT	SID_BASICIDE_DELETECURRENT		13691	cs	Odstranit				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_DELETECURRENT	SID_BASICIDE_DELETECURRENT		13691	cy	Dileu				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_DELETECURRENT	SID_BASICIDE_DELETECURRENT		13691	da	Slet				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_DELETECURRENT	SID_BASICIDE_DELETECURRENT		0	de	Löschen				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_DELETECURRENT	SID_BASICIDE_DELETECURRENT		13691	dz	བཏོན་གཏང་།				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_DELETECURRENT	SID_BASICIDE_DELETECURRENT		0	el	Διαγραφή				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_DELETECURRENT	SID_BASICIDE_DELETECURRENT		0	en-GB	Delete				2002-02-02 02:02:02
@@ -1026,6 +1035,7 @@ basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_HID
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_HIDECURPAGE	SID_BASICIDE_HIDECURPAGE		13691	cs	Skrýt				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_HIDECURPAGE	SID_BASICIDE_HIDECURPAGE		13691	cy	Cuddio				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_HIDECURPAGE	SID_BASICIDE_HIDECURPAGE		13691	da	Skjul				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_HIDECURPAGE	SID_BASICIDE_HIDECURPAGE		0	de	Ausblenden				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_HIDECURPAGE	SID_BASICIDE_HIDECURPAGE		13691	dz	སྦ།				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_HIDECURPAGE	SID_BASICIDE_HIDECURPAGE		0	el	Απόκρυψη				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_HIDECURPAGE	SID_BASICIDE_HIDECURPAGE		0	en-GB	Hide				2002-02-02 02:02:02
@@ -1103,6 +1113,7 @@ basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_MOD
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_MODULEDLG	SID_BASICIDE_MODULEDLG		13691	cs	Moduly...				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_MODULEDLG	SID_BASICIDE_MODULEDLG		13691	cy	Modiwlau...				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_MODULEDLG	SID_BASICIDE_MODULEDLG		13691	da	Moduler...				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_MODULEDLG	SID_BASICIDE_MODULEDLG		0	de	Module...				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_MODULEDLG	SID_BASICIDE_MODULEDLG		13691	dz	ཚད་གཞི་་ཚུ་་་་				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_MODULEDLG	SID_BASICIDE_MODULEDLG		0	el	Λειτουργικές μονάδες...				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_MODULEDLG	SID_BASICIDE_MODULEDLG		0	en-GB	Modules...				2002-02-02 02:02:02
@@ -1179,6 +1190,7 @@ basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_REN
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_RENAMECURRENT	SID_BASICIDE_RENAMECURRENT		13691	cs	Přejmenovat				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_RENAMECURRENT	SID_BASICIDE_RENAMECURRENT		13691	cy	Ailenwi				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_RENAMECURRENT	SID_BASICIDE_RENAMECURRENT		13691	da	Omdøb				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_RENAMECURRENT	SID_BASICIDE_RENAMECURRENT		0	de	Umbenennen				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_RENAMECURRENT	SID_BASICIDE_RENAMECURRENT		13691	dz	བསྐྱར་མིང་བཏགས།				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_RENAMECURRENT	SID_BASICIDE_RENAMECURRENT		0	el	Μετονομασία				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_RENAMECURRENT	SID_BASICIDE_RENAMECURRENT		0	en-GB	Rename				2002-02-02 02:02:02
@@ -1255,6 +1267,7 @@ basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR.RID_INSERT	SID_B
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR.RID_INSERT	SID_BASICIDE_NEWDIALOG	SID_BASICIDE_NEWDIALOG		0	cs	BASIC dialog				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR.RID_INSERT	SID_BASICIDE_NEWDIALOG	SID_BASICIDE_NEWDIALOG		0	cy	Deialog BASIC				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR.RID_INSERT	SID_BASICIDE_NEWDIALOG	SID_BASICIDE_NEWDIALOG		0	da	BASIC-dialog				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR.RID_INSERT	SID_BASICIDE_NEWDIALOG	SID_BASICIDE_NEWDIALOG		0	de	BASIC-Dialog				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR.RID_INSERT	SID_BASICIDE_NEWDIALOG	SID_BASICIDE_NEWDIALOG		0	dz	གཞི་རྩའི་ཌའི་ལོག				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR.RID_INSERT	SID_BASICIDE_NEWDIALOG	SID_BASICIDE_NEWDIALOG		0	el	Διάλογος BASIC				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR.RID_INSERT	SID_BASICIDE_NEWDIALOG	SID_BASICIDE_NEWDIALOG		0	en-GB	BASIC Dialogue				2002-02-02 02:02:02
@@ -1330,6 +1343,7 @@ basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR.RID_INSERT	SID_B
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR.RID_INSERT	SID_BASICIDE_NEWMODULE	SID_BASICIDE_NEWMODULE		0	cs	Modul BASIC				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR.RID_INSERT	SID_BASICIDE_NEWMODULE	SID_BASICIDE_NEWMODULE		0	cy	Modiwl BASIC				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR.RID_INSERT	SID_BASICIDE_NEWMODULE	SID_BASICIDE_NEWMODULE		0	da	BASIC-modul				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR.RID_INSERT	SID_BASICIDE_NEWMODULE	SID_BASICIDE_NEWMODULE		0	de	BASIC-Modul				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR.RID_INSERT	SID_BASICIDE_NEWMODULE	SID_BASICIDE_NEWMODULE		0	dz	གཞི་རྩའི་ཚད་གཞི།				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR.RID_INSERT	SID_BASICIDE_NEWMODULE	SID_BASICIDE_NEWMODULE		0	el	Λειτουργική μονάδα BASIC				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR.RID_INSERT	SID_BASICIDE_NEWMODULE	SID_BASICIDE_NEWMODULE		0	en-GB	BASIC Module				2002-02-02 02:02:02
@@ -1404,6 +1418,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_BASICIDE_OBJECTBAR				13691	ca	
 basctl	source\basicide\basidesh.src	0	string	RID_BASICIDE_OBJECTBAR				13691	cs	Panel maker				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_BASICIDE_OBJECTBAR				13691	cy	Bar Macro				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_BASICIDE_OBJECTBAR				13691	da	Makrolinje				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_BASICIDE_OBJECTBAR				0	de	Makro-Leiste				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_BASICIDE_OBJECTBAR				13691	dz	མེཀ་ཀོརོ་ ཕྲ་རིང་།				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_BASICIDE_OBJECTBAR				0	el	 Γραμμή μακροεντολής				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_BASICIDE_OBJECTBAR				0	en-GB	Macro Bar				2002-02-02 02:02:02
@@ -1478,6 +1493,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_ALL				13691	ca	Tot				2002
 basctl	source\basicide\basidesh.src	0	string	RID_STR_ALL				13691	cs	Vše				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_ALL				13691	cy	Popeth				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_ALL				13691	da	Alle				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_ALL				0	de	Alle				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_ALL				13691	dz	ཆ་མཉམ།				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_ALL				0	el	Όλα				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_ALL				0	en-GB	All				2002-02-02 02:02:02
@@ -1553,6 +1569,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_APPENDLIBS				13691	ca	Impo
 basctl	source\basicide\basidesh.src	0	string	RID_STR_APPENDLIBS				13691	cs	Importovat knihovny				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_APPENDLIBS				13691	cy	Mewnforio Llyfrgelloedd				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_APPENDLIBS				13691	da	Importer biblioteker				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_APPENDLIBS				0	de	Bibliotheken importieren				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_APPENDLIBS				13691	dz	དཔེ་མཛོད་ཚུ་ནང་འདྲེན་འབད།				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_APPENDLIBS				0	el	Εισαγωγή βιβλιοθηκών				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_APPENDLIBS				0	en-GB	Append Libraries				2002-02-02 02:02:02
@@ -1624,6 +1641,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_BADSBXNAME				13691	ca	El n
 basctl	source\basicide\basidesh.src	0	string	RID_STR_BADSBXNAME				13691	cs	Neplatný název				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_BADSBXNAME				13691	cy	Enw Annilys				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_BADSBXNAME				13691	da	Ugyldigt navn				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_BADSBXNAME				0	de	Ungültiger Bezeichner				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_BADSBXNAME				13691	dz	ནུས་མེད་ཀྱི་མིང་།				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_BADSBXNAME				0	el	Μη αποδεκτό όνομα				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_BADSBXNAME				0	en-GB	Invalid Name				2002-02-02 02:02:02
@@ -1701,6 +1719,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_BASIC				13691	ca	BASIC				
 basctl	source\basicide\basidesh.src	0	string	RID_STR_BASIC				13691	cs	BASIC				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_BASIC				13691	cy	BASIC				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_BASIC				13691	da	BASIC				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_BASIC				0	de	BASIC				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_BASIC				13691	dz	གཞི་རྩ།				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_BASIC				0	el	BASIC				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_BASIC				0	en-GB	BASIC				2002-02-02 02:02:02
@@ -1777,6 +1796,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTCHANGENAMEREFLIB				1
 basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTCHANGENAMEREFLIB				13691	cs	Název odkazované knihovny nelze změnit.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTCHANGENAMEREFLIB				13691	cy	Methu newid enw'r llyfrgell gyfeiriedig.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTCHANGENAMEREFLIB				13691	da	Navnet på et henvist bibliotek kan ikke ændres.				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTCHANGENAMEREFLIB				0	de	Der Name einer referenzierten Bibliothek kann nicht geändert werden				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTCHANGENAMEREFLIB				13691	dz	གཞི་བསྟུན་འབད་ཡོད་པའི་དཔེ་མཛོད་ཀྱི་མིང་འདི་ བསྒྱུར་བཅོས་རྐྱབ་མི་ཚུགས།				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTCHANGENAMEREFLIB				0	el	Δεν είναι δυνατόν να αλλάξει το όνομα μιας βιβλιοθήκης η οποία είναι προορισμός κάποιας παραπομπής				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTCHANGENAMEREFLIB				0	en-GB	The name of a referenced library cannot be changed.				2002-02-02 02:02:02
@@ -1853,6 +1873,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTCHANGENAMESTDLIB				1
 basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTCHANGENAMESTDLIB				13691	cs	Název výchozí knihovny nelze změnit.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTCHANGENAMESTDLIB				13691	cy	Methu newid enw'r llyfrgell rhagosodedig.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTCHANGENAMESTDLIB				13691	da	Navnet på standardbiblioteket kan ikke ændres.				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTCHANGENAMESTDLIB				0	de	Der Name der Standard-Bibliothek kann nicht geändert werden				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTCHANGENAMESTDLIB				13691	dz	སྔོན་སྒྲིག་དཔེ་མཛོད་ཀྱི་མིང་འདི་ བསྒྱུར་བཅོས་རྐྱབ་མི་ཚུགས།				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTCHANGENAMESTDLIB				0	el	Δεν είναι δυνατόν να αλλάξει το όνομα της προεπιλεγμένης βιβλιοθήκης.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTCHANGENAMESTDLIB				0	en-GB	The name of the default library cannot be changed.				2002-02-02 02:02:02
@@ -1930,6 +1951,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTCLOSE				13691	ca	La 
 basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTCLOSE				13691	cs	Okno nelze zavřít, dokud běží kód BASIC.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTCLOSE				13691	cy	Nid oes modd cau'r ffenestr tra bo BASIC yn rhedeg.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTCLOSE				13691	da	Vinduet kan ikke lukkes, mens BASIC-programmet kører.				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTCLOSE				0	de	Das Fenster kann nicht geschlossen werden,\nwährend das BASIC-Programm läuft.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTCLOSE				13691	dz	གཞི་རྩ་འདི་གཡོག་བཀོལ་བའི་བསྒང་ སྒོ་སྒྲིག་འདི་ཁ་བསྡམ་མི་ཚུགས།				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTCLOSE				0	el	Δεν είναι δυνατόν να κλείσετε το παράθυρο \nκατά τη διάρκεια εκτέλεσης του προγράμματος BASIC.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTCLOSE				0	en-GB	The window cannot be closed while BASIC is running.				2002-02-02 02:02:02
@@ -2004,6 +2026,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTRUNMACRO				13691	ca	
 basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTRUNMACRO				13691	cs	Z bezpečnostních důvodů není možné spustit toto makro.\n\nPro další informace ověřte nastavení zabezpečení.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTRUNMACRO				13691	cy	Am resymau diogelwch nid oes modd i chi redeg y macro.\n\nAm ragor o wybodaeth, gwiriwch y gosodiadau diogelwch.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTRUNMACRO				13691	da	Af sikkerhedshensyn kan du ikke udføre denne makro.\n\nFor yderligere information, kontroller sikkerhedsindstillingerne.				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTRUNMACRO				0	de	Aus Sicherheitsgründen ist dieses Makro nicht ausführbar.\n\nFür weitere Informationen überprüfen Sie die Sicherheitseinstellungen.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTRUNMACRO				13691	dz	མཐའ་བཙན་རྒྱུ་མཚན་ཚུའི་དོན་ལུ་ མེཀ་ཀོརོ་འདི་ཁྱོད་ཀྱིས་ གཡོག་བཀོལ་མི་ཚུགས།\n\nབརྡ་དོན་ཁ་གསལ་གྱི་དོན་ལུ་ མཐའ་བཙན་གཞི་སྒྲིག་འབད་མི་ཚུ་ ཞིབ་དཔྱད་འབད།				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTRUNMACRO				0	el	Για λόγους ασφαλείας δεν μπορείτε να εκτελέσετε αυτή την μακροεντολή.\n\nΓια περισσότερες πληροφορίες, ελέγξτε τις ρυθμίσεις ασφαλείας.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTRUNMACRO				0	en-GB	For security reasons, you cannot run this macro.\n\nFor more information, check the security settings.				2002-02-02 02:02:02
@@ -2078,6 +2101,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTUNLOADSTDLIB				13691
 basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTUNLOADSTDLIB				13691	cs	Výchozí knihovnu nelze deaktivovat				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTUNLOADSTDLIB				13691	cy	Methu dadweithredu'r llyfrgell rhagosodedig				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTUNLOADSTDLIB				13691	da	Standardbiblioteket kan ikke deaktiveres				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTUNLOADSTDLIB				0	de	Die Standard-Bibliothek kann nicht deaktiviert werden				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTUNLOADSTDLIB				13691	dz	སྔོན་སྒྲིག་དཔེ་མཛོད་འདི་ ཤུགས་མེད་བཟོ་མི་ཚུགས།				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTUNLOADSTDLIB				0	el	Δεν είναι δυνατόν να απενεργοποιηθεί η βασική βιβλιοθήκη				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTUNLOADSTDLIB				0	en-GB	The default library cannot be deactivated				2002-02-02 02:02:02
@@ -2153,6 +2177,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_COLUMN				13691	ca	Col				2
 basctl	source\basicide\basidesh.src	0	string	RID_STR_COLUMN				13691	cs	Sloupec				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_COLUMN				13691	cy	Col				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_COLUMN				13691	da	Kol				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_COLUMN				0	de	Sp				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_COLUMN				13691	dz	སི་ཨོ་ཨེལ།				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_COLUMN				0	el	Στ				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_COLUMN				0	en-GB	Col				2002-02-02 02:02:02
@@ -2228,6 +2253,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_COMPILEERROR				13691	ca	S'
 basctl	source\basicide\basidesh.src	0	string	RID_STR_COMPILEERROR				13691	cs	Chyba v kompilaci: 				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_COMPILEERROR				13691	cy	Gwall Crynhoi				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_COMPILEERROR				13691	da	Oversætterfejl: 				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_COMPILEERROR				0	de	Übersetzungs-Fehler: 				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_COMPILEERROR				13691	dz	འཛོལ་བ་ ཕྱོགས་སྒྲིག་འབད: 				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_COMPILEERROR				0	el	Σφάλμα μεταγλώττισης: 				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_COMPILEERROR				0	en-GB	Compile Error: 				2002-02-02 02:02:02
@@ -2304,6 +2330,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_COULDNTREAD				13691	ca	El 
 basctl	source\basicide\basidesh.src	0	string	RID_STR_COULDNTREAD				13691	cs	Soubor nelze přečíst				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_COULDNTREAD				13691	cy	Methu darllen y ffeil				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_COULDNTREAD				13691	da	Filen kunne ikke læses				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_COULDNTREAD				0	de	Die Datei konnte nicht gelesen werden				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_COULDNTREAD				13691	dz	ཡིག་སྣོད་འདི་ ལྷག་མ་ཚུགས།				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_COULDNTREAD				0	el	Δεν ήταν δυνατόν να γίνει η ανάγνωση του αρχείου				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_COULDNTREAD				0	en-GB	The file could not be read				2002-02-02 02:02:02
@@ -2381,6 +2408,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_COULDNTWRITE				13691	ca	El
 basctl	source\basicide\basidesh.src	0	string	RID_STR_COULDNTWRITE				13691	cs	Soubor nelze uložit				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_COULDNTWRITE				13691	cy	Methu cadw'r ffeil				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_COULDNTWRITE				13691	da	Filen kunne ikke gemmes				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_COULDNTWRITE				0	de	Die Datei konnte nicht gespeichert werden				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_COULDNTWRITE				13691	dz	ཡིག་སྣོད་འདི་ སྲུང་མ་ཚུགས།				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_COULDNTWRITE				0	el	Δεν ήταν δυνατή η αποθήκευση του αρχείου				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_COULDNTWRITE				0	en-GB	The file could not be saved				2002-02-02 02:02:02
@@ -2458,6 +2486,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_DOC				13691	ca	Document			
 basctl	source\basicide\basidesh.src	0	string	RID_STR_DOC				13691	cs	Dokument				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_DOC				13691	cy	Dogfen				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_DOC				13691	da	Dokument				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_DOC				0	de	Dokument				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_DOC				13691	dz	ཡིག་ཆ།				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_DOC				0	el	Έγγραφο				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_DOC				0	en-GB	Document				2002-02-02 02:02:02
@@ -2533,6 +2562,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_ENTERPASSWORD				13691	ca	I
 basctl	source\basicide\basidesh.src	0	string	RID_STR_ENTERPASSWORD				13691	cs	Zadejte heslo pro 'XX'				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_ENTERPASSWORD				13691	cy	Rhowch gyfrinair am 'XX'				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_ENTERPASSWORD				13691	da	Indtast adgangskode for 'XX'				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_ENTERPASSWORD				0	de	Kennwort eingeben für 'XX'				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_ENTERPASSWORD				13691	dz	'ཨེགསི་ཨེགསི'གི་དོན་ལུ་  ཆོག་ཡིག་བཙུགས།				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_ENTERPASSWORD				0	el	Εισαγάγετε κωδικό πρόσβασης για το 'XX'				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_ENTERPASSWORD				0	en-GB	Enter password for 'XX'				2002-02-02 02:02:02
@@ -2610,6 +2640,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_ERRORCHOOSEMACRO				13691	c
 basctl	source\basicide\basidesh.src	0	string	RID_STR_ERRORCHOOSEMACRO				13691	cs	Makra z jiných dokumentů nejsou dostupná.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_ERRORCHOOSEMACRO				13691	cy	Nid oes modd estyn at facros o ddogfennau eraill.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_ERRORCHOOSEMACRO				13691	da	Makroer fra andre dokumenter er ikke tilgængelige.				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_ERRORCHOOSEMACRO				0	de	Auf Makros anderer Dokumente kann nicht zugegriffen werden.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_ERRORCHOOSEMACRO				13691	dz	ཡིག་ཆ་གཞན་ལས་ཨིན་པའི་ མེཀ་ཀོརོསི་ཚུ་ འཛུལ་སྤྱོད་འབད་མི་ཚུགས།				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_ERRORCHOOSEMACRO				0	el	Οι μακροεντολές από άλλα έγγραφα δεν είναι προσπελάσιμες.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_ERRORCHOOSEMACRO				0	en-GB	Macros from other documents are not accessible.				2002-02-02 02:02:02
@@ -2685,6 +2716,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_ERROROPENLIB				13691	ca	S'
 basctl	source\basicide\basidesh.src	0	string	RID_STR_ERROROPENLIB				13691	cs	Chyba při načítání knihovny				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_ERROROPENLIB				13691	cy	Gwall wrth agor llyfrgell				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_ERROROPENLIB				13691	da	Fejl ved indlæsning af biblioteket				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_ERROROPENLIB				0	de	Fehler beim Laden der Bibliothek				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_ERROROPENLIB				13691	dz	དཔེ་མཛོད་མངོན་གསལ་འབད་ནི་ལུ་ འཛོལ་བ།				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_ERROROPENLIB				0	el	Σφάλμα κατά τη φόρτωση της βιβλιοθήκης				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_ERROROPENLIB				0	en-GB	Error loading library				2002-02-02 02:02:02
@@ -2762,6 +2794,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_ERROROPENSTORAGE				13691	c
 basctl	source\basicide\basidesh.src	0	string	RID_STR_ERROROPENSTORAGE				13691	cs	Chyba při otevírání souboru				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_ERROROPENSTORAGE				13691	cy	Gwall wrth agor ffeil				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_ERROROPENSTORAGE				13691	da	Fejl ved åbning af filen				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_ERROROPENSTORAGE				0	de	Fehler beim Öffnen der Datei				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_ERROROPENSTORAGE				13691	dz	ཡིག་སྣོད་ཁ་ཕྱེ་ནི་ལུ་ འཛོལ་བ།				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_ERROROPENSTORAGE				0	el	Σφάλμα κατά το άνοιγμα του αρχείου				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_ERROROPENSTORAGE				0	en-GB	Error opening file				2002-02-02 02:02:02
@@ -2839,6 +2872,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_FILEEXISTS				13691	ca	El f
 basctl	source\basicide\basidesh.src	0	string	RID_STR_FILEEXISTS				13691	cs	Soubor 'XX' již existuje				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_FILEEXISTS				13691	cy	Mae ffeil 'XX' yn bodoli'n barod				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_FILEEXISTS				13691	da	Filen 'XX' findes allerede				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_FILEEXISTS				0	de	Die Datei 'XX' existiert schon				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_FILEEXISTS				13691	dz	 'ཨེགསི་ཨེགསི' ཡིག་སྣོད་འདི་ ཧེ་མ་ལས་རང་ཡོདཔ་ཨིན།				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_FILEEXISTS				0	el	Το αρχείο 'XX' υπάρχει ήδη				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_FILEEXISTS				0	en-GB	The 'XX' file already exists				2002-02-02 02:02:02
@@ -2916,6 +2950,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_FILENAME				13691	ca	Nom de
 basctl	source\basicide\basidesh.src	0	string	RID_STR_FILENAME				13691	cs	Název souboru:				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_FILENAME				13691	cy	Enw ffeil:				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_FILENAME				13691	da	Filnavn:				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_FILENAME				0	de	Dateiname: 				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_FILENAME				13691	dz	ཡིག་སྣོད་ཀྱི་མིང་:				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_FILENAME				0	el	Όνομα αρχείου: 				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_FILENAME				0	en-GB	File name:				2002-02-02 02:02:02
@@ -2992,6 +3027,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_FILTER_ALLFILES				13691	ca
 basctl	source\basicide\basidesh.src	0	string	RID_STR_FILTER_ALLFILES				13691	cs	<Vše>				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_FILTER_ALLFILES				13691	cy	<Pob>				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_FILTER_ALLFILES				13691	da	<Alle>				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_FILTER_ALLFILES				0	de	<Alle>				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_FILTER_ALLFILES				13691	dz	<All>				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_FILTER_ALLFILES				0	el	<Όλα>				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_FILTER_ALLFILES				0	en-GB	<All>				2002-02-02 02:02:02
@@ -3068,6 +3104,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_GENERATESOURCE				13691	ca	
 basctl	source\basicide\basidesh.src	0	string	RID_STR_GENERATESOURCE				13691	cs	Generuji zdroj				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_GENERATESOURCE				13691	cy	Cynhyrchu'r ffynhonnell				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_GENERATESOURCE				13691	da	Genererer kildetekst				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_GENERATESOURCE				0	de	Erzeuge Quelltext				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_GENERATESOURCE				13691	dz	འབྱུང་ཁུངས་བཟོ་བཏོན་འབད་དོ།				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_GENERATESOURCE				0	el	Δημιουργία πηγαίου κώδικα				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_GENERATESOURCE				0	en-GB	Generating source				2002-02-02 02:02:02
@@ -3143,6 +3180,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_IMPORTNOTPOSSIBLE				13691	
 basctl	source\basicide\basidesh.src	0	string	RID_STR_IMPORTNOTPOSSIBLE				13691	cs	Nelze přidat 'XX'.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_IMPORTNOTPOSSIBLE				13691	cy	Methu ychwanegu 'XX'.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_IMPORTNOTPOSSIBLE				13691	da	'XX' kan ikke tilføjes.				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_IMPORTNOTPOSSIBLE				0	de	Hinzufügen von 'XX' nicht möglich.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_IMPORTNOTPOSSIBLE				13691	dz	'ཨེགསི་ཨེགསི' ཁ་སྐོང་རྐྱབ་མི་ཚུགས། 				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_IMPORTNOTPOSSIBLE				0	el	Δεν είναι δυνατή η προσθήκη του 'XX'.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_IMPORTNOTPOSSIBLE				0	en-GB	'XX' cannot be added.				2002-02-02 02:02:02
@@ -3219,6 +3257,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_INITIDE				13691	ca	Inicial
 basctl	source\basicide\basidesh.src	0	string	RID_STR_INITIDE				13691	cs	BASIC - inicializace				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_INITIDE				13691	cy	Cychwyn BASIC				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_INITIDE				13691	da	Initialisering af BASIC				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_INITIDE				0	de	Initialisierung BASIC				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_INITIDE				13691	dz	གཞི་རྩའི་འགོ་བྱེད།				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_INITIDE				0	el	Αρχικοποίηση BASIC				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_INITIDE				0	en-GB	BASIC Initialisation				2002-02-02 02:02:02
@@ -3294,6 +3333,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_LIBISREADONLY				13691	ca	A
 basctl	source\basicide\basidesh.src	0	string	RID_STR_LIBISREADONLY				13691	cs	Tato knihovna je pouze pro čtení.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_LIBISREADONLY				13691	cy	Darllen yn unig yw'r llyfrgell.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_LIBISREADONLY				13691	da	Dette bibliotek er skrivebeskyttet.				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_LIBISREADONLY				0	de	Diese Bibliothek ist schreibgeschützt.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_LIBISREADONLY				13691	dz	དཔེ་མཛོད་འདི་ ལྷག་ནི་-རྐྱངམ་ཅིག་ཨིན།				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_LIBISREADONLY				0	el	Αυτή η βιβλιοθήκη είναι μόνο για ανάγνωση.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_LIBISREADONLY				0	en-GB	This library is read-only.				2002-02-02 02:02:02
@@ -3371,6 +3411,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_LIBNAMETOLONG				13691	ca	U
 basctl	source\basicide\basidesh.src	0	string	RID_STR_LIBNAMETOLONG				13691	cs	Název knihovny může obsahovat maximálně 30 znaků.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_LIBNAMETOLONG				13691	cy	Mae enw llyfrgell yn gallu cael hyd at 30 nod.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_LIBNAMETOLONG				13691	da	Navnet på et bibliotek må højst være på 30 tegn.				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_LIBNAMETOLONG				0	de	Der Name einer Bibliothek darf maximal 30 Zeichen lang sein.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_LIBNAMETOLONG				13691	dz	དཔེ་མཛོད་ཀྱི་མིང་འདི་ལུ་ ཡིག་འབྲུ་སུམ་ཅུ་ཚུན་ཚོད་ཡོད།				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_LIBNAMETOLONG				0	el	Το μήκος του ονόματος μιας βιβλιοθήκης δεν πρέπει να υπερβαίνει τους 30 χαρακτήρες.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_LIBNAMETOLONG				0	en-GB	A library name can have up to 30 characters.				2002-02-02 02:02:02
@@ -3448,6 +3489,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_LINE				13691	ca	Lín				20
 basctl	source\basicide\basidesh.src	0	string	RID_STR_LINE				13691	cs	Řádek				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_LINE				13691	cy	Ln				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_LINE				13691	da	Ln				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_LINE				0	de	Zl				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_LINE				13691	dz	ཨེལ་ཨེན།				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_LINE				0	el	Γρ				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_LINE				0	en-GB	Ln				2002-02-02 02:02:02
@@ -3523,6 +3565,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_MACRONAMEREQ				13691	ca	S'
 basctl	source\basicide\basidesh.src	0	string	RID_STR_MACRONAMEREQ				13691	cs	Musí být zadán název.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_MACRONAMEREQ				13691	cy	Rhaid cynnig enw.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_MACRONAMEREQ				13691	da	Et navn skal indtastes.				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_MACRONAMEREQ				0	de	Es muss ein Name angegeben werden.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_MACRONAMEREQ				13691	dz	མིང་ ཐོ་བཀོད་འབད་དགོ				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_MACRONAMEREQ				0	el	Πρέπει να εισάγετε ένα όνομα.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_MACRONAMEREQ				0	en-GB	A name must be entered.				2002-02-02 02:02:02
@@ -3598,6 +3641,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_NEWDLG				13691	ca	Diàleg 
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NEWDLG				13691	cs	Nový dialog				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NEWDLG				13691	cy	Deialog Newydd				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NEWDLG				13691	da	Ny dialog				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_NEWDLG				0	de	Neuer Dialog				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NEWDLG				13691	dz	ཌའི་ལོག་ གསརཔ།				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NEWDLG				0	el	Δημιουργία διαλόγου				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NEWDLG				0	en-GB	New Dialogue				2002-02-02 02:02:02
@@ -3673,6 +3717,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_NEWLIB				13691	ca	Bibliote
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NEWLIB				13691	cs	Nová knihovna				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NEWLIB				13691	cy	Llyfrgell Newydd				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NEWLIB				13691	da	Nyt bibliotek				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_NEWLIB				0	de	Neue Bibliothek				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NEWLIB				13691	dz	ཌའི་ལོག་ གསརཔ།				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NEWLIB				0	el	Δημιουργία βιβλιοθήκης				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NEWLIB				0	en-GB	New Library				2002-02-02 02:02:02
@@ -3748,6 +3793,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_NEWMOD				13691	ca	Mòdul n
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NEWMOD				13691	cs	Nový modul				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NEWMOD				13691	cy	Modiwl Newydd 				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NEWMOD				13691	da	Nyt modul				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_NEWMOD				0	de	Neues Modul				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NEWMOD				13691	dz	ཚད་གཞི་ གསརཔ།				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NEWMOD				0	el	Νέα λειτουργική μονάδα				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NEWMOD				0	en-GB	New Module				2002-02-02 02:02:02
@@ -3823,6 +3869,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_NOIMPORT				13691	ca	No s'h
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NOIMPORT				13691	cs	'XX' nebylo přidáno.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NOIMPORT				13691	cy	Nid oedd 'XX' wedi ei ychwanegu.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NOIMPORT				13691	da	'XX' blev ikke tilføjet.				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_NOIMPORT				0	de	'XX' wurde nicht hinzugefügt.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NOIMPORT				13691	dz	'ཨེགསི་ཨེགསི'  ཁ་སྐོང་མ་བརྐྱབས།				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NOIMPORT				0	el	Το 'XX' δεν προστέθηκε.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NOIMPORT				0	en-GB	'XX' was not added.				2002-02-02 02:02:02
@@ -3899,6 +3946,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_NOLIBINSTORAGE				13691	ca	
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NOLIBINSTORAGE				13691	cs	Soubor neobsahuje žádné knihovny BASIC				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NOLIBINSTORAGE				13691	cy	Nid yw'r ffeil yn cynnwys unrhyw lyfrgelloedd BASIC				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NOLIBINSTORAGE				13691	da	Filen indeholder ingen BASIC-biblioteker				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_NOLIBINSTORAGE				0	de	Die Datei enthält keine BASIC-Bibliotheken				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NOLIBINSTORAGE				13691	dz	ཡིག་སྣོད་འདི་ནང་ གཞི་རྩའི་དཔེ་མཛོད་ཚུ་ ག་ནི་ཡང་མིན་འདུག				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NOLIBINSTORAGE				0	el	Το αρχείο δεν περιέχει βιβλιοθήκες του BASIC				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NOLIBINSTORAGE				0	en-GB	The file does not contain any BASIC libraries				2002-02-02 02:02:02
@@ -3975,6 +4023,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_NOMODULE				13691	ca	<Cap m
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NOMODULE				13691	cs	<Žádný modul>				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NOMODULE				13691	cy	< Dim Modiwl >				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NOMODULE				13691	da	< Intet modul >				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_NOMODULE				0	de	< Kein Modul >				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NOMODULE				13691	dz	< No Module >				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NOMODULE				0	el	< Καμία λειτουργική μονάδα >				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NOMODULE				0	en-GB	< No Module >				2002-02-02 02:02:02
@@ -4050,6 +4099,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_OBJNOTFOUND				13691	ca	No 
 basctl	source\basicide\basidesh.src	0	string	RID_STR_OBJNOTFOUND				13691	cs	Objekt nebo metoda nenalezeny				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_OBJNOTFOUND				13691	cy	Heb ganfod gwrthrych na dull				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_OBJNOTFOUND				13691	da	Objektet eller metoden blev ikke fundet				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_OBJNOTFOUND				0	de	Objekt oder Methode nicht gefunden				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_OBJNOTFOUND				13691	dz	དངོས་པོ་ ཡང་ན་ ཐབས་ལམ་  མ་ཐོབ།				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_OBJNOTFOUND				0	el	Δεν βρέθηκε το αντικείμενο ή η μέθοδος				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_OBJNOTFOUND				0	en-GB	Object or method not found				2002-02-02 02:02:02
@@ -4125,6 +4175,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_OPEN				13691	ca	Carrega			
 basctl	source\basicide\basidesh.src	0	string	RID_STR_OPEN				13691	cs	Načíst				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_OPEN				13691	cy	Llwytho				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_OPEN				13691	da	Indlæs				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_OPEN				0	de	Laden				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_OPEN				13691	dz	མངོན་གསལ་འབད་ནི།				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_OPEN				0	el	Φόρτωση				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_OPEN				0	en-GB	Load				2002-02-02 02:02:02
@@ -4202,6 +4253,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_PAGE				13691	ca	Pàgina			
 basctl	source\basicide\basidesh.src	0	string	RID_STR_PAGE				13691	cs	Stránka				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_PAGE				13691	cy	Tudalen				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_PAGE				13691	da	Side				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_PAGE				0	de	Seite				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_PAGE				13691	dz	ཤོག་ལེབ།				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_PAGE				0	el	Σελίδα				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_PAGE				0	en-GB	Page				2002-02-02 02:02:02
@@ -4277,6 +4329,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELDIALOG				13691	ca	
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELDIALOG				13691	cs	Přejete si odstranit dialog XX?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELDIALOG				13691	cy	Hoffech chi ddileu'r deialog XX ?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELDIALOG				13691	da	Vil du slette dialogen XX?				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELDIALOG				0	de	Möchten Sie den Dialog XX löschen ?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELDIALOG				13691	dz	ཁྱོད་  ཨེསགི་ཨེགསི་ ཌའི་ལོག་འདི་བཏོན་གཏང་ནི་ཨིན་ན?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELDIALOG				0	el	Θέλετε να διαγραφεί ο διάλογος XX;				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELDIALOG				0	en-GB	Do you want to delete the XX dialogue?				2002-02-02 02:02:02
@@ -4352,6 +4405,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELLIB				13691	ca	Vol
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELLIB				13691	cs	Přejete si odstranit knihovnu XX?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELLIB				13691	cy	Hoffech chi ddileu'r llyfrgell xx ?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELLIB				13691	da	Vil du slette biblioteket XX?				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELLIB				0	de	Möchten Sie die Bibliothek XX löschen ?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELLIB				13691	dz	ཁྱོད་   ཨེགསི་ཨེགསི་ དཔེ་མཛོད་འདི་ བཏོན་གཏང་ནི་ཨིན་ན?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELLIB				0	el	Θέλετε να διαγραφεί η βιβλιοθήκη XX;				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELLIB				0	en-GB	Do you want to delete the XX library?				2002-02-02 02:02:02
@@ -4427,6 +4481,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELLIBREF				13691	ca	
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELLIBREF				13691	cs	Přejete si odstranit odkaz na knihovnu XX?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELLIBREF				13691	cy	Hoffech chi ddileu'r cyfeiriad at lyfrgell XX ?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELLIBREF				13691	da	Vil du slette referencen til biblioteket XX?				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELLIBREF				0	de	Möchten Sie die Referenz auf die Bibliothek XX löschen ?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELLIBREF				13691	dz	ཁྱོད་  ཨེགསི་ཨེགསི དཔེ་མཛོད་ལུ་ གཞི་བསྟུན་བཏོན་བཏང་ནི་ཨིན་ན?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELLIBREF				0	el	Θέλετε να διαγραφεί η παραπομπή προς τη βιβλιοθήκη XX;				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELLIBREF				0	en-GB	Do you want to delete the reference to the XX library?				2002-02-02 02:02:02
@@ -4502,6 +4557,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELMACRO				13691	ca	V
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELMACRO				13691	cs	Přejete si odstranit makro XX?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELMACRO				13691	cy	Hoffech chi ddileu'r macro XX ?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELMACRO				13691	da	Vil du slette makroen XX?				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELMACRO				0	de	Möchten Sie das Makro XX löschen ?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELMACRO				13691	dz	ཁྱོད་  མེཀ་ཀོརོ ཨེགསི་ཨེགསི་འདི་  བཏོན་གཏང་ནི་ཨིན་ན?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELMACRO				0	el	Θέλετε να διαγραφεί η μακροεντολή XX;				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELMACRO				0	en-GB	Do you want to delete the macro XX ?				2002-02-02 02:02:02
@@ -4577,6 +4633,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELMODULE				13691	ca	
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELMODULE				13691	cs	Přejete si odstranit modul XX?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELMODULE				13691	cy	Hoffech chi ddileu'r modiwl XX ?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELMODULE				13691	da	Vil du slette modulet XX?				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELMODULE				0	de	Möchten Sie das Modul XX löschen ?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELMODULE				13691	dz	ཁྱོད་  ཨེགསི་ཨེགསི་ ཚད་གཞི་  བཏོན་གཏང་ནི་ཨིན་ན?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELMODULE				0	el	Θέλετε να διαγραφεί η λειτουργική μονάδα XX;				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELMODULE				0	en-GB	Do you want to delete the XX module?				2002-02-02 02:02:02
@@ -4652,6 +4709,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYREPLACEMACRO				80	ca	
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYREPLACEMACRO				80	cs	Chcete nahradit makro XX?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYREPLACEMACRO				80	cy	Hoffech chi dros ysgrifennu'r macro XX ?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYREPLACEMACRO				80	da	Ønsker du at overskrive makroen XX?				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYREPLACEMACRO				0	de	Möchten Sie das Makro XX überschreiben ?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYREPLACEMACRO				80	dz	ཁྱོད་  ཨེགསི་ཨེགསི་ མེཀ་ཀོརོ་ སླར་སྲུང་འབད་ནི་་ཨིན་ན?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYREPLACEMACRO				0	el	Do you want to overwrite the macro XX ?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYREPLACEMACRO				0	en-GB	Do you want to overwrite the XX macro?				2002-02-02 02:02:02
@@ -4727,6 +4785,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_REFNOTPOSSIBLE				13691	ca	
 basctl	source\basicide\basidesh.src	0	string	RID_STR_REFNOTPOSSIBLE				13691	cs	Odkaz na 'XX' není k dispozici.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_REFNOTPOSSIBLE				13691	cy	Methu cyfeirio at 'XX'.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_REFNOTPOSSIBLE				13691	da	Reference til 'XX' ikke mulig.				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_REFNOTPOSSIBLE				0	de	Referenz auf 'XX' nicht möglich.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_REFNOTPOSSIBLE				13691	dz	'ཨེགསི་ཨེགསི'ལུ་ གཞི་བསྟུན་འབད་མི་ཚུགས།				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_REFNOTPOSSIBLE				0	el	Δεν είναι δυνατή η παραπομπή στο 'XX' .				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_REFNOTPOSSIBLE				0	en-GB	Reference to 'XX' not possible.				2002-02-02 02:02:02
@@ -4802,6 +4861,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_REMOVEWATCH				80	ca	Observ
 basctl	source\basicide\basidesh.src	0	string	RID_STR_REMOVEWATCH				80	cs	Kukátko:				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_REMOVEWATCH				80	cy	Gwylio:				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_REMOVEWATCH				80	da	Observatør:				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_REMOVEWATCH				0	de	Beobachter: 				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_REMOVEWATCH				80	dz	བལྟ་ཞིབ་འབད་ནི:				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_REMOVEWATCH				0	el	Παρατηρητής: 				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_REMOVEWATCH				0	en-GB	Watch:				2002-02-02 02:02:02
@@ -4877,6 +4937,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_REPLACELIB				13691	ca	No e
 basctl	source\basicide\basidesh.src	0	string	RID_STR_REPLACELIB				13691	cs	Nelze nahradit 'XX'.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_REPLACELIB				13691	cy	Methu adfer 'XX'				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_REPLACELIB				13691	da	'XX' kan ikke erstattes.				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_REPLACELIB				0	de	'XX' kann nicht ersetzt werden.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_REPLACELIB				13691	dz	'ཨེགསི་ཨེགསི' ཚབ་བཙུགས་མི་ཚུགས།				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_REPLACELIB				0	el	Δεν είναι δυνατή η αντικατάσταση του 'XX'.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_REPLACELIB				0	en-GB	'XX' cannot be replaced.				2002-02-02 02:02:02
@@ -4954,6 +5015,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_REPLACESTDLIB				13691	ca	L
 basctl	source\basicide\basidesh.src	0	string	RID_STR_REPLACESTDLIB				13691	cs	Výchozí knihovnu nelze nahradit.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_REPLACESTDLIB				13691	cy	Methu amnewid y llyfrgell rhagosodedig.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_REPLACESTDLIB				13691	da	Standardbiblioteket kan ikke erstattes.				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_REPLACESTDLIB				0	de	Die Standard-Bibliothek kann nicht ersetzt werden.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_REPLACESTDLIB				13691	dz	སྔོན་སྒྲིག་དཔེ་མཛོད་འདི་ ཚབ་བཙུགས་མི་ཚུགས།				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_REPLACESTDLIB				0	el	Δεν είναι δυνατόν να αντικατασταθεί η βασική βιβλιοθήκη.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_REPLACESTDLIB				0	en-GB	The default library cannot be replaced.				2002-02-02 02:02:02
@@ -5029,6 +5091,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_RUNTIMEERROR				13691	ca	S'
 basctl	source\basicide\basidesh.src	0	string	RID_STR_RUNTIMEERROR				13691	cs	Chyba při běhu: #				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_RUNTIMEERROR				13691	cy	Gwall Amser Rhedeg: #				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_RUNTIMEERROR				13691	da	Kørselsfejl: #				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_RUNTIMEERROR				0	de	Laufzeit-Fehler: #				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_RUNTIMEERROR				13691	dz	གཡོག་བཀོལ་དུས་ཚོད་ཀྱི་འཛོལ་བ: #				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_RUNTIMEERROR				0	el	Σφάλμα χρόνου εκτέλεσης: #				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_RUNTIMEERROR				0	en-GB	Runtime Error: #				2002-02-02 02:02:02
@@ -5104,6 +5167,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_SAVE				13691	ca	Desa				20
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SAVE				13691	cs	Uložit				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SAVE				13691	cy	Cadw				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SAVE				13691	da	Gem				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_SAVE				0	de	Speichern				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SAVE				13691	dz	སྲུངས།				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SAVE				0	el	Αποθήκευση				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SAVE				0	en-GB	Save				2002-02-02 02:02:02
@@ -5181,6 +5245,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_SBXNAMEALLREADYUSED				1369
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SBXNAMEALLREADYUSED				13691	cs	Název již existuje				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SBXNAMEALLREADYUSED				13691	cy	Enw'n bodoli'n barod				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SBXNAMEALLREADYUSED				13691	da	Navnet findes allerede				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_SBXNAMEALLREADYUSED				0	de	Name bereits vergeben				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SBXNAMEALLREADYUSED				13691	dz	མིང་འདི་ཧེ་མ་ལས་རང་ ཡོདཔ་ཨིན།				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SBXNAMEALLREADYUSED				0	el	Το όνομα αυτό υπάρχει ήδη				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SBXNAMEALLREADYUSED				0	en-GB	Name already exists				2002-02-02 02:02:02
@@ -5258,6 +5323,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_SBXNAMEALLREADYUSED2				136
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SBXNAMEALLREADYUSED2				13691	cs	Objekt s takovým názvem již existuje				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SBXNAMEALLREADYUSED2				13691	cy	Mae gwrthrych gyda'r un enw'n bodoli'n barod				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SBXNAMEALLREADYUSED2				13691	da	Der findes allerede et objekt med dette navn				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_SBXNAMEALLREADYUSED2				0	de	Objekt mit dem Namen existiert schon				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SBXNAMEALLREADYUSED2				13691	dz	མིང་གཅིག་པའི་དངོས་པོ་འདི་ ཧེ་མ་ལས་རང་ཡོདཔ་ཨིན།				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SBXNAMEALLREADYUSED2				0	el	Υπάρχει ήδη ένα αντικείμενο με αυτό το όνομα				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SBXNAMEALLREADYUSED2				0	en-GB	Object with same name already exists				2002-02-02 02:02:02
@@ -5334,6 +5400,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_SEARCHALLMODULES				13691	c
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SEARCHALLMODULES				13691	cs	Přejete si nahradit text ve všech aktivních modulech?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SEARCHALLMODULES				13691	cy	Hoffech chi ailosod y testun ym mhob modiwl gweithredol?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SEARCHALLMODULES				13691	da	Skal teksten erstattes i alle aktive moduler?				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_SEARCHALLMODULES				0	de	Soll der Text in allen aktiven Modulen ersetzt werden?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SEARCHALLMODULES				13691	dz	ཁྱོད་ཀྱིས་  ཤུགས་ལྡན་གྱི་ཚད་གཞི་ཆ་མཉམ་ནང་ ཚིག་ཡིག་ཚབ་ བཙུགས་ནི་ཨིན་ན?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SEARCHALLMODULES				0	el	Να αντικατασταθεί το κείμενο σε όλες τις ενεργές λειτουργικές μονάδες;				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SEARCHALLMODULES				0	en-GB	Do you want to replace the text in all active modules?				2002-02-02 02:02:02
@@ -5409,6 +5476,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_SEARCHFROMSTART				13691	ca
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SEARCHFROMSTART				13691	cs	Hledání dokončeno až k poslednímu modulu. Pokračovat od prvního modulu?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SEARCHFROMSTART				13691	cy	Chwilio'r modiwl cyfan olaf. Parhau o'r modiwl cyntaf?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SEARCHFROMSTART				13691	da	Søgningen har nået sidste modul. Ønsker du at fortsætte søgningen ved første modul?				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_SEARCHFROMSTART				0	de	Es wurde bis zum letzten Modul gesucht. Möchten Sie die Suche beim ersten Modul fortsetzen?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SEARCHFROMSTART				13691	dz	མཇུག་གི་ཚད་གཞི་ལུ་ཞིབ་འཚོལ་འབད་མི་འདི་ མཇུག་བསྡུ་ཡི།  ཚད་གཞི་དང་པམ་ལུ་འཕྲོ་མཐུད་ནི་ཨིན་ན?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SEARCHFROMSTART				0	el	Η αναζήτηση έως την τελευταία λειτουργική μονάδα ολοκληρώθηκε. Θέλετε να συνεχιστεί η αναζήτηση από τη πρώτη λειτουργική μονάδα;				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SEARCHFROMSTART				0	en-GB	Search to last module complete. Continue at first module?				2002-02-02 02:02:02
@@ -5485,6 +5553,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_SEARCHNOTFOUND				13691	ca	
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SEARCHNOTFOUND				13691	cs	Hledané klíčové slovo nenalezeno				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SEARCHNOTFOUND				13691	cy	Allwedd chwilio heb ei ganfod				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SEARCHNOTFOUND				13691	da	Søgeordet ikke fundet				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_SEARCHNOTFOUND				0	de	Suchbegriff nicht gefunden				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SEARCHNOTFOUND				13691	dz	འཚོལ་ཞིབ་ལྡེ་མིག་ མ་ཐོབ།				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SEARCHNOTFOUND				0	el	Δεν βρέθηκε ο ζητούμενος όρος				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SEARCHNOTFOUND				0	en-GB	Search key not found				2002-02-02 02:02:02
@@ -5562,6 +5631,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_SEARCHREPLACES				13691	ca	
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SEARCHREPLACES				13691	cs	Hledané klíčové slovo bylo XX-krát nahrazeno				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SEARCHREPLACES				13691	cy	Allwedd chwilio wedi ei amnewid XX gwaith				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SEARCHREPLACES				13691	da	Søgeord erstattet XX gange				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_SEARCHREPLACES				0	de	Suchbegriff XXmal ersetzt				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SEARCHREPLACES				13691	dz	འཚོལ་ཞིབ་ལྡེ་མིག་  ཐེངས་ ཨེགསི་ཨེགསི་ ཚབ་བཙུགས་ཅི།				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SEARCHREPLACES				0	el	Ο ζητούμενος όρος αντικαταστάθηκε XX φορές				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SEARCHREPLACES				0	en-GB	Search key replaced XX times				2002-02-02 02:02:02
@@ -5637,6 +5707,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_SHAREDIALOGS				80	ca	Diàl
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SHAREDIALOGS				80	cs	Dialogy %PRODUCTNAME				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SHAREDIALOGS				80	cy	De~fnyddio deialogau %PRODUCTNAME				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SHAREDIALOGS				80	da	%PRODUCTNAME-dialoger				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_SHAREDIALOGS				0	de	%PRODUCTNAME Dialoge				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SHAREDIALOGS				80	dz	%PRODUCTNAME   ཌའི་ལོགསི།				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SHAREDIALOGS				0	el	Διάλογοι %PRODUCTNAME				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SHAREDIALOGS				0	en-GB	%PRODUCTNAME Dialogues				2002-02-02 02:02:02
@@ -5710,6 +5781,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_SHAREMACROS				80	ca	Macros
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SHAREMACROS				80	cs	Makra %PRODUCTNAME				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SHAREMACROS				80	cy	Golygu Macro				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SHAREMACROS				80	da	%PRODUCTNAME-makroer				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_SHAREMACROS				0	de	%PRODUCTNAME Makros				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SHAREMACROS				80	dz	%PRODUCTNAME མེཀ་ཀོརོསི།				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SHAREMACROS				0	el	Μακροεντολές %PRODUCTNAME				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SHAREMACROS				0	en-GB	%PRODUCTNAME Macros				2002-02-02 02:02:02
@@ -5783,6 +5855,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_SHAREMACROSDIALOGS				80	ca
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SHAREMACROSDIALOGS				80	cs	Makra a dialogy %PRODUCTNAME				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SHAREMACROSDIALOGS				80	cy	De~fnyddio deialogau %PRODUCTNAME				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SHAREMACROSDIALOGS				80	da	%PRODUCTNAME-makroer og dialoger				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_SHAREMACROSDIALOGS				0	de	%PRODUCTNAME Makros & Dialoge				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SHAREMACROSDIALOGS				80	dz	%PRODUCTNAME མེཀ་ཀོརོསི་དང་ཌའི་ལོགསི།				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SHAREMACROSDIALOGS				0	el	Μακροεντολές και διάλογοι %PRODUCTNAME				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SHAREMACROSDIALOGS				0	en-GB	%PRODUCTNAME Macros & Dialogues				2002-02-02 02:02:02
@@ -5855,6 +5928,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_SIGNED				13691	ca	(Signat)
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SIGNED				13691	cs	(Podepsaný)				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SIGNED				13691	cy	(Llofnodwyd)				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SIGNED				13691	da	(Signeret)				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_SIGNED				0	de	(Signiert)				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SIGNED				13691	dz	(མིང་རྟགས་བཀོད་ཡི།)				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SIGNED				0	el	(Υπογεγραμμένο)				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SIGNED				0	en-GB	(Signed)				2002-02-02 02:02:02
@@ -5929,6 +6003,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_SOURCETOBIG				13691	ca	El 
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SOURCETOBIG				13691	cs	Zdrojový text je příliš velký a nemůže být přeložen ani uložen.\nSmažte některé z komentářů nebo převeďte některé metody do jiného modulu.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SOURCETOBIG				13691	cy	Mae'r testun ffynhonnell yn rhy fawr ac nid oes modd ei grynhoi na'i gadw.\nRhaid dileu rhai o'r sylwadau neu drosglwyddo rhai dulliau i fodiwl arall.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SOURCETOBIG				13691	da	Kildeteksten er for stor og kan hverken gemmes eller oversættes.\nSlet nogle kommentarer, eller overfør nogle metoder til et andet modul.				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_SOURCETOBIG				0	de	Der Quelltext ist zu groß und kann weder gespeichert noch compiliert werden.\nLöschen Sie einige Kommentare oder übertragen Sie einige Methoden in ein anderes Modul.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SOURCETOBIG				13691	dz	འབྱུང་ཁུངས་ཀྱི་ཚིག་ཡིག་འདི་ རིང་དྲགས་ནི་འདི་གིས་ ཕྱོགས་སྒྲིག་དང་སྲུང་བཞག་་འབད་མི་ཚུགས་པས།\nབརྡ་བཀོད་ཚུ ལ་ལུ་ཅིག བཏོན་གཏང་ ཡང་ན ཐབས་ལམ་ལ་ལུ་ཅིག ཚད་གཞི་གཞན་ཅིག་ནང་ལུ  གནས་སོར་གཏང་།				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SOURCETOBIG				0	el	 Το κείμενο προέλευσης είναι υπερβολικά μεγάλο και δεν είναι δυνατή η μεταγλώτισση ή η αποθήκευση του.\nΔιαγράψτε μερικά σχόλια ή μετακινήστε ορισμένες μεθόδους σε κάποια άλλη λειτουργική μονάδα.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SOURCETOBIG				0	en-GB	The source text is too long and can be neither compiled nor saved.\nDelete some comments or transfer some methods into another module.				2002-02-02 02:02:02
@@ -6004,6 +6079,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_STACK				80	ca	Crides: 				
 basctl	source\basicide\basidesh.src	0	string	RID_STR_STACK				80	cs	Volání: 				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_STACK				80	cy	Galwadau:				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_STACK				80	da	Kommandoer: 				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_STACK				0	de	Aufrufe: 				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_STACK				80	dz	བོད་བརྡ་ཚུ: 				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_STACK				0	el	Κλήσεις: 				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_STACK				0	en-GB	Calls: 				2002-02-02 02:02:02
@@ -6079,6 +6155,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_STACKNAME				13691	ca	Pila 
 basctl	source\basicide\basidesh.src	0	string	RID_STR_STACKNAME				13691	cs	Zásobník volání				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_STACKNAME				13691	cy	Galw Stac				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_STACKNAME				13691	da	Kommandostak				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_STACKNAME				0	de	Kommandostapel				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_STACKNAME				13691	dz	བོད་བརྡའི་བརྩེགས་ཕུང་།				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_STACKNAME				0	el	Στοίβα εντολών				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_STACKNAME				0	en-GB	Call Stack				2002-02-02 02:02:02
@@ -6153,6 +6230,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_STDDIALOGNAME				13691	ca	Q
 basctl	source\basicide\basidesh.src	0	string	RID_STR_STDDIALOGNAME				13691	cs	Dialog				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_STDDIALOGNAME				13691	cy	Deialog				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_STDDIALOGNAME				13691	da	Dialog				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_STDDIALOGNAME				0	de	Dialog				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_STDDIALOGNAME				13691	dz	ཌའི་ལོག				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_STDDIALOGNAME				0	el	Διάλογος				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_STDDIALOGNAME				0	en-GB	Dialogue				2002-02-02 02:02:02
@@ -6228,6 +6306,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_STDLIBNAME				13691	ca	Bibl
 basctl	source\basicide\basidesh.src	0	string	RID_STR_STDLIBNAME				13691	cs	Knihovna				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_STDLIBNAME				13691	cy	Llyfrgell				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_STDLIBNAME				13691	da	Bibliotek				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_STDLIBNAME				0	de	Bibliothek				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_STDLIBNAME				13691	dz	དཔེ་མཛོད།				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_STDLIBNAME				0	el	Βιβλιοθήκη				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_STDLIBNAME				0	en-GB	Library				2002-02-02 02:02:02
@@ -6303,6 +6382,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_STDMODULENAME				13691	ca	M
 basctl	source\basicide\basidesh.src	0	string	RID_STR_STDMODULENAME				13691	cs	Modul				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_STDMODULENAME				13691	cy	Modiwl				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_STDMODULENAME				13691	da	Modul				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_STDMODULENAME				0	de	Modul				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_STDMODULENAME				13691	dz	ཚད་གཞི།				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_STDMODULENAME				0	el	Λειτουργική μονάδα				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_STDMODULENAME				0	en-GB	Module				2002-02-02 02:02:02
@@ -6373,6 +6453,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_TRANSLATION_DEFAULT				80	c
 basctl	source\basicide\basidesh.src	0	string	RID_STR_TRANSLATION_DEFAULT				80	cs	[Výchozí jazyk]				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_TRANSLATION_DEFAULT				80	cy	[iaith Rhagosodedig]				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_TRANSLATION_DEFAULT				80	da	[Standardsprog]				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_TRANSLATION_DEFAULT				80	de	[Standardsprache]				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_TRANSLATION_DEFAULT				80	dz	[སྔོན་སྒྲིག་ཁ་སྐད།]				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_TRANSLATION_DEFAULT				80	es	[Idioma predeterminado]				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_TRANSLATION_DEFAULT				80	et	[Vaikekeel]				2002-02-02 02:02:02
@@ -6406,6 +6487,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_TRANSLATION_NOTLOCALIZED			
 basctl	source\basicide\basidesh.src	0	string	RID_STR_TRANSLATION_NOTLOCALIZED				80	cs	<Nelokalizováno>				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_TRANSLATION_NOTLOCALIZED				80	cy	<Heb ei leoleiddio>				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_TRANSLATION_NOTLOCALIZED				80	da	<Ikke lokaliseret>				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_TRANSLATION_NOTLOCALIZED				80	de	<Nicht lokalisiert>				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_TRANSLATION_NOTLOCALIZED				80	dz	<Not localized>				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_TRANSLATION_NOTLOCALIZED				80	es	<No localizado>				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_TRANSLATION_NOTLOCALIZED				80	et	<Tõlkimata>				2002-02-02 02:02:02
@@ -6443,6 +6525,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_USERDIALOGS				80	ca	Els me
 basctl	source\basicide\basidesh.src	0	string	RID_STR_USERDIALOGS				80	cs	Moje dialogy				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_USERDIALOGS				80	cy	Deialogau				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_USERDIALOGS				80	da	Mine dialoger				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_USERDIALOGS				0	de	Meine Dialoge				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_USERDIALOGS				80	dz	ངེ་གི་ ཌའི་ལོགསི།				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_USERDIALOGS				0	el	Οι διάλογοι μου				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_USERDIALOGS				0	en-GB	My Dialogues				2002-02-02 02:02:02
@@ -6516,6 +6599,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_USERMACROS				80	ca	Les mev
 basctl	source\basicide\basidesh.src	0	string	RID_STR_USERMACROS				80	cs	Moje makra				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_USERMACROS				80	cy	Golygu Macro				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_USERMACROS				80	da	Mine makroer				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_USERMACROS				0	de	Meine Makros				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_USERMACROS				80	dz	ངེ་གི་ མེཀ་ཀོརོསི།				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_USERMACROS				0	el	Οι μακροεντολές μου				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_USERMACROS				0	en-GB	My Macros				2002-02-02 02:02:02
@@ -6589,6 +6673,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_USERMACROSDIALOGS				80	ca	
 basctl	source\basicide\basidesh.src	0	string	RID_STR_USERMACROSDIALOGS				80	cs	Moje makra a dialogy				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_USERMACROSDIALOGS				80	cy	Deialogau Agor/Cadw				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_USERMACROSDIALOGS				80	da	Mine makroer og dialoger				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_USERMACROSDIALOGS				0	de	Meine Makros & Dialoge				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_USERMACROSDIALOGS				80	dz	ངེ་གི་  མེཀ་ཀོརོསི་དང་ཌའི་ལོགསི།				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_USERMACROSDIALOGS				0	el	Οι μακροεντολές και οι διάλογοι μου				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_USERMACROSDIALOGS				0	en-GB	My Macros & Dialogues				2002-02-02 02:02:02
@@ -6662,6 +6747,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_WATCHNAME				13691	ca	Obser
 basctl	source\basicide\basidesh.src	0	string	RID_STR_WATCHNAME				13691	cs	Kukátko				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_WATCHNAME				13691	cy	Gwylio				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_WATCHNAME				13691	da	Observatør				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_WATCHNAME				0	de	Beobachter				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_WATCHNAME				13691	dz	བལྟ་ཞིབ་འབད་ནི།				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_WATCHNAME				0	el	Παρατηρητής				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_WATCHNAME				0	en-GB	Watch				2002-02-02 02:02:02
@@ -6736,6 +6822,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_WATCHTYPE				13691	ca	Tipus
 basctl	source\basicide\basidesh.src	0	string	RID_STR_WATCHTYPE				13691	cs	Typ				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_WATCHTYPE				13691	cy	Math				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_WATCHTYPE				13691	da	Type				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_WATCHTYPE				0	de	Typ				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_WATCHTYPE				13691	dz	དབྱེ་བ།				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_WATCHTYPE				0	el	Τύπος				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_WATCHTYPE				0	en-GB	Type				2002-02-02 02:02:02
@@ -6810,6 +6897,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_WATCHVALUE				13691	ca	Valo
 basctl	source\basicide\basidesh.src	0	string	RID_STR_WATCHVALUE				13691	cs	Hodnota				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_WATCHVALUE				13691	cy	Gwerth				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_WATCHVALUE				13691	da	Værdi				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_WATCHVALUE				0	de	Wert				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_WATCHVALUE				13691	dz	བེ་ལུ།				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_WATCHVALUE				0	el	Τιμή				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_WATCHVALUE				0	en-GB	Value				2002-02-02 02:02:02
@@ -6885,6 +6973,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_WATCHVARIABLE				13691	ca	V
 basctl	source\basicide\basidesh.src	0	string	RID_STR_WATCHVARIABLE				13691	cs	Proměnná				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_WATCHVARIABLE				13691	cy	Amrywiolyn				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_WATCHVARIABLE				13691	da	Variabel				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_WATCHVARIABLE				0	de	Variable				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_WATCHVARIABLE				13691	dz	འགྱུར་ཅན།				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_WATCHVARIABLE				0	el	Μεταβλητή				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_WATCHVARIABLE				0	en-GB	Variable				2002-02-02 02:02:02
@@ -6958,6 +7047,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_WILLSTOPPRG				13691	ca	Hau
 basctl	source\basicide\basidesh.src	0	string	RID_STR_WILLSTOPPRG				13691	cs	Po této úpravě budete muset restartovat program.\nPokračovat?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_WILLSTOPPRG				13691	cy	Rhaid ailgychwyn y rhaglen ar ï¿½l golygu\nParhau?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_WILLSTOPPRG				13691	da	Programmet skal genstartes efter denne ændring.\nFortsæt?				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_WILLSTOPPRG				0	de	Sie müssen nach dieser Änderung Ihr Programm neu starten.\nForfahren?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_WILLSTOPPRG				13691	dz	ཁྱོད་ཀྱིས་  ཞུན་དག་གི་ཤུལ་ལུ་ ལས་རིམ་འདི་ལོག་འགོ་བཙུགས་དགོ\nའཕྲོ་མཐུད་ན?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_WILLSTOPPRG				0	el	Μετά από αυτή την αλλαγή θα πρέπει να εκκινήσετε το πρόγραμμα ξανά.\nΣυνέχεια;				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_WILLSTOPPRG				0	en-GB	You will have to restart the program after this edit.\nContinue?				2002-02-02 02:02:02
@@ -7032,6 +7122,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_WRONGPASSWORD				13691	ca	C
 basctl	source\basicide\basidesh.src	0	string	RID_STR_WRONGPASSWORD				13691	cs	Neplatné heslo				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_WRONGPASSWORD				13691	cy	Cyfrinair Anghywir				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_WRONGPASSWORD				13691	da	Forkert adgangskode				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_WRONGPASSWORD				0	de	Fehlerhaftes Kennwort.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_WRONGPASSWORD				13691	dz	བདེན་མེད་ཀྱི་ཆོག་ཡིག།				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_WRONGPASSWORD				0	el	Εσφαλμένος κωδικός πρόσβασης.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_WRONGPASSWORD				0	en-GB	Incorrect Password				2002-02-02 02:02:02
@@ -7594,6 +7685,7 @@ basctl	source\basicide\brkdlg.src	0	checkbox	RID_BASICIDE_BREAKPOINTDLG	RID_CHKB
 basctl	source\basicide\brkdlg.src	0	checkbox	RID_BASICIDE_BREAKPOINTDLG	RID_CHKB_ACTIVE			40	cs	Aktivní				2002-02-02 02:02:02
 basctl	source\basicide\brkdlg.src	0	checkbox	RID_BASICIDE_BREAKPOINTDLG	RID_CHKB_ACTIVE			40	cy	Gweithredol				2002-02-02 02:02:02
 basctl	source\basicide\brkdlg.src	0	checkbox	RID_BASICIDE_BREAKPOINTDLG	RID_CHKB_ACTIVE			40	da	Aktiv				2002-02-02 02:02:02
+basctl	source\basicide\brkdlg.src	0	checkbox	RID_BASICIDE_BREAKPOINTDLG	RID_CHKB_ACTIVE			40	de	Aktiv				2002-02-02 02:02:02
 basctl	source\basicide\brkdlg.src	0	checkbox	RID_BASICIDE_BREAKPOINTDLG	RID_CHKB_ACTIVE			40	dz	ཤུགས་ལྡན།				2002-02-02 02:02:02
 basctl	source\basicide\brkdlg.src	0	checkbox	RID_BASICIDE_BREAKPOINTDLG	RID_CHKB_ACTIVE			40	el	Ενεργό				2002-02-02 02:02:02
 basctl	source\basicide\brkdlg.src	0	checkbox	RID_BASICIDE_BREAKPOINTDLG	RID_CHKB_ACTIVE			40	en-GB	Active				2002-02-02 02:02:02
@@ -7668,6 +7760,7 @@ basctl	source\basicide\brkdlg.src	0	fixedtext	RID_BASICIDE_BREAKPOINTDLG	RID_FT_
 basctl	source\basicide\brkdlg.src	0	fixedtext	RID_BASICIDE_BREAKPOINTDLG	RID_FT_BRKPOINTS			40	cs	Body přerušení				2002-02-02 02:02:02
 basctl	source\basicide\brkdlg.src	0	fixedtext	RID_BASICIDE_BREAKPOINTDLG	RID_FT_BRKPOINTS			40	cy	Torbwyntiau				2002-02-02 02:02:02
 basctl	source\basicide\brkdlg.src	0	fixedtext	RID_BASICIDE_BREAKPOINTDLG	RID_FT_BRKPOINTS			40	da	Pausepunkter				2002-02-02 02:02:02
+basctl	source\basicide\brkdlg.src	0	fixedtext	RID_BASICIDE_BREAKPOINTDLG	RID_FT_BRKPOINTS			40	de	Haltepunkte				2002-02-02 02:02:02
 basctl	source\basicide\brkdlg.src	0	fixedtext	RID_BASICIDE_BREAKPOINTDLG	RID_FT_BRKPOINTS			40	dz	བི་རེག་པོ་ཡིནཊསི།				2002-02-02 02:02:02
 basctl	source\basicide\brkdlg.src	0	fixedtext	RID_BASICIDE_BREAKPOINTDLG	RID_FT_BRKPOINTS			40	el	Σημεία στάσης				2002-02-02 02:02:02
 basctl	source\basicide\brkdlg.src	0	fixedtext	RID_BASICIDE_BREAKPOINTDLG	RID_FT_BRKPOINTS			40	en-GB	Breakpoints				2002-02-02 02:02:02
@@ -7743,6 +7836,7 @@ basctl	source\basicide\brkdlg.src	0	fixedtext	RID_BASICIDE_BREAKPOINTDLG	RID_FT_
 basctl	source\basicide\brkdlg.src	0	fixedtext	RID_BASICIDE_BREAKPOINTDLG	RID_FT_PASS			35	cs	Počet průběhů:				2002-02-02 02:02:02
 basctl	source\basicide\brkdlg.src	0	fixedtext	RID_BASICIDE_BREAKPOINTDLG	RID_FT_PASS			35	cy	Cyfrif Pasio:				2002-02-02 02:02:02
 basctl	source\basicide\brkdlg.src	0	fixedtext	RID_BASICIDE_BREAKPOINTDLG	RID_FT_PASS			35	da	Gennemløb:				2002-02-02 02:02:02
+basctl	source\basicide\brkdlg.src	0	fixedtext	RID_BASICIDE_BREAKPOINTDLG	RID_FT_PASS			35	de	Durchlauf:				2002-02-02 02:02:02
 basctl	source\basicide\brkdlg.src	0	fixedtext	RID_BASICIDE_BREAKPOINTDLG	RID_FT_PASS			35	dz	རྩིས་སྤྲོད་ཀྱི་གྱངས་ཁ:				2002-02-02 02:02:02
 basctl	source\basicide\brkdlg.src	0	fixedtext	RID_BASICIDE_BREAKPOINTDLG	RID_FT_PASS			35	el	Αριθμός διαδρομών:				2002-02-02 02:02:02
 basctl	source\basicide\brkdlg.src	0	fixedtext	RID_BASICIDE_BREAKPOINTDLG	RID_FT_PASS			35	en-GB	Pass Count:				2002-02-02 02:02:02
@@ -7817,6 +7911,7 @@ basctl	source\basicide\brkdlg.src	0	modaldialog	RID_BASICIDE_BREAKPOINTDLG				17
 basctl	source\basicide\brkdlg.src	0	modaldialog	RID_BASICIDE_BREAKPOINTDLG				178	cs	Správa bodů přerušení				2002-02-02 02:02:02
 basctl	source\basicide\brkdlg.src	0	modaldialog	RID_BASICIDE_BREAKPOINTDLG				178	cy	Rheoli Torbwyntiau				2002-02-02 02:02:02
 basctl	source\basicide\brkdlg.src	0	modaldialog	RID_BASICIDE_BREAKPOINTDLG				178	da	Ret pausepunkter				2002-02-02 02:02:02
+basctl	source\basicide\brkdlg.src	0	modaldialog	RID_BASICIDE_BREAKPOINTDLG				178	de	Haltepunkte verwalten				2002-02-02 02:02:02
 basctl	source\basicide\brkdlg.src	0	modaldialog	RID_BASICIDE_BREAKPOINTDLG				178	dz	ཡིག་ཚད་ཀྱི་མཚམས་ འཛིན་སྐྱོང་འཐབ།				2002-02-02 02:02:02
 basctl	source\basicide\brkdlg.src	0	modaldialog	RID_BASICIDE_BREAKPOINTDLG				178	el	Διαχείριση σημείων στάσης...				2002-02-02 02:02:02
 basctl	source\basicide\brkdlg.src	0	modaldialog	RID_BASICIDE_BREAKPOINTDLG				178	en-GB	Manage Breakpoints				2002-02-02 02:02:02
@@ -7889,6 +7984,7 @@ basctl	source\basicide\brkdlg.src	0	pushbutton	RID_BASICIDE_BREAKPOINTDLG	RID_PB
 basctl	source\basicide\brkdlg.src	0	pushbutton	RID_BASICIDE_BREAKPOINTDLG	RID_PB_DEL			50	cs	Odstranit				2002-02-02 02:02:02
 basctl	source\basicide\brkdlg.src	0	pushbutton	RID_BASICIDE_BREAKPOINTDLG	RID_PB_DEL			50	cy	Dileu				2002-02-02 02:02:02
 basctl	source\basicide\brkdlg.src	0	pushbutton	RID_BASICIDE_BREAKPOINTDLG	RID_PB_DEL			50	da	Slet				2002-02-02 02:02:02
+basctl	source\basicide\brkdlg.src	0	pushbutton	RID_BASICIDE_BREAKPOINTDLG	RID_PB_DEL			50	de	Löschen				2002-02-02 02:02:02
 basctl	source\basicide\brkdlg.src	0	pushbutton	RID_BASICIDE_BREAKPOINTDLG	RID_PB_DEL			50	dz	བཏོན་གཏང་།				2002-02-02 02:02:02
 basctl	source\basicide\brkdlg.src	0	pushbutton	RID_BASICIDE_BREAKPOINTDLG	RID_PB_DEL			50	el	Διαγραφή				2002-02-02 02:02:02
 basctl	source\basicide\brkdlg.src	0	pushbutton	RID_BASICIDE_BREAKPOINTDLG	RID_PB_DEL			50	en-GB	Delete				2002-02-02 02:02:02
@@ -7966,6 +8062,7 @@ basctl	source\basicide\brkdlg.src	0	pushbutton	RID_BASICIDE_BREAKPOINTDLG	RID_PB
 basctl	source\basicide\brkdlg.src	0	pushbutton	RID_BASICIDE_BREAKPOINTDLG	RID_PB_NEW			50	cs	Nový				2002-02-02 02:02:02
 basctl	source\basicide\brkdlg.src	0	pushbutton	RID_BASICIDE_BREAKPOINTDLG	RID_PB_NEW			50	cy	Newydd				2002-02-02 02:02:02
 basctl	source\basicide\brkdlg.src	0	pushbutton	RID_BASICIDE_BREAKPOINTDLG	RID_PB_NEW			50	da	Ny(t)				2002-02-02 02:02:02
+basctl	source\basicide\brkdlg.src	0	pushbutton	RID_BASICIDE_BREAKPOINTDLG	RID_PB_NEW			50	de	Neu				2002-02-02 02:02:02
 basctl	source\basicide\brkdlg.src	0	pushbutton	RID_BASICIDE_BREAKPOINTDLG	RID_PB_NEW			50	dz	གསརཔ།				2002-02-02 02:02:02
 basctl	source\basicide\brkdlg.src	0	pushbutton	RID_BASICIDE_BREAKPOINTDLG	RID_PB_NEW			50	el	Δημιουργία				2002-02-02 02:02:02
 basctl	source\basicide\brkdlg.src	0	pushbutton	RID_BASICIDE_BREAKPOINTDLG	RID_PB_NEW			50	en-GB	New				2002-02-02 02:02:02
@@ -8043,6 +8140,7 @@ basctl	source\basicide\macrodlg.src	0	cancelbutton	RID_MACROCHOOSER	RID_PB_CLOSE
 basctl	source\basicide\macrodlg.src	0	cancelbutton	RID_MACROCHOOSER	RID_PB_CLOSE			50	cs	Zavřít				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	cancelbutton	RID_MACROCHOOSER	RID_PB_CLOSE			50	cy	Cau				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	cancelbutton	RID_MACROCHOOSER	RID_PB_CLOSE			50	da	Luk				2002-02-02 02:02:02
+basctl	source\basicide\macrodlg.src	0	cancelbutton	RID_MACROCHOOSER	RID_PB_CLOSE			50	de	Schließen				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	cancelbutton	RID_MACROCHOOSER	RID_PB_CLOSE			50	dz	ཁ་བསྡམ།				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	cancelbutton	RID_MACROCHOOSER	RID_PB_CLOSE			50	el	Κλείσιμο				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	cancelbutton	RID_MACROCHOOSER	RID_PB_CLOSE			50	en-GB	Close				2002-02-02 02:02:02
@@ -8118,6 +8216,7 @@ basctl	source\basicide\macrodlg.src	0	fixedtext	RID_MACROCHOOSER	RID_TXT_DESCRIP
 basctl	source\basicide\macrodlg.src	0	fixedtext	RID_MACROCHOOSER	RID_TXT_DESCRIPTION			100	cs	Popis				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	fixedtext	RID_MACROCHOOSER	RID_TXT_DESCRIPTION			100	cy	Di~sgrifiad				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	fixedtext	RID_MACROCHOOSER	RID_TXT_DESCRIPTION			100	da	Be~skrivelse				2002-02-02 02:02:02
+basctl	source\basicide\macrodlg.src	0	fixedtext	RID_MACROCHOOSER	RID_TXT_DESCRIPTION			100	de	Be~schreibung				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	fixedtext	RID_MACROCHOOSER	RID_TXT_DESCRIPTION			100	dz	འགྲེལ་བཤད།(~s)				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	fixedtext	RID_MACROCHOOSER	RID_TXT_DESCRIPTION			100	el	Περιγραφή				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	fixedtext	RID_MACROCHOOSER	RID_TXT_DESCRIPTION			100	en-GB	De~scription				2002-02-02 02:02:02
@@ -8194,6 +8293,7 @@ basctl	source\basicide\macrodlg.src	0	fixedtext	RID_MACROCHOOSER	RID_TXT_MACROFR
 basctl	source\basicide\macrodlg.src	0	fixedtext	RID_MACROCHOOSER	RID_TXT_MACROFROM			100	cs	Makro z				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	fixedtext	RID_MACROCHOOSER	RID_TXT_MACROFROM			100	cy	Macro ~o				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	fixedtext	RID_MACROCHOOSER	RID_TXT_MACROFROM			100	da	Ma~kro fra				2002-02-02 02:02:02
+basctl	source\basicide\macrodlg.src	0	fixedtext	RID_MACROCHOOSER	RID_TXT_MACROFROM			100	de	Makro a~us				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	fixedtext	RID_MACROCHOOSER	RID_TXT_MACROFROM			100	dz	་་ལས་  མེཀ་ཀོརོ།(~f)				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	fixedtext	RID_MACROCHOOSER	RID_TXT_MACROFROM			100	el	Μακροεντολή από				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	fixedtext	RID_MACROCHOOSER	RID_TXT_MACROFROM			100	en-GB	Macro ~from				2002-02-02 02:02:02
@@ -8269,6 +8369,7 @@ basctl	source\basicide\macrodlg.src	0	fixedtext	RID_MACROCHOOSER	RID_TXT_MACRONA
 basctl	source\basicide\macrodlg.src	0	fixedtext	RID_MACROCHOOSER	RID_TXT_MACRONAME			100	cs	Název makra				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	fixedtext	RID_MACROCHOOSER	RID_TXT_MACRONAME			100	cy	~Enw macro				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	fixedtext	RID_MACROCHOOSER	RID_TXT_MACRONAME			100	da	~Makronavn				2002-02-02 02:02:02
+basctl	source\basicide\macrodlg.src	0	fixedtext	RID_MACROCHOOSER	RID_TXT_MACRONAME			100	de	~Makroname				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	fixedtext	RID_MACROCHOOSER	RID_TXT_MACRONAME			100	dz	མེཀ་ཀོརོ་ མིང་།(~M)				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	fixedtext	RID_MACROCHOOSER	RID_TXT_MACRONAME			100	el	Όνομα ~μακροεντολής				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	fixedtext	RID_MACROCHOOSER	RID_TXT_MACRONAME			100	en-GB	~Macro name				2002-02-02 02:02:02
@@ -8344,6 +8445,7 @@ basctl	source\basicide\macrodlg.src	0	fixedtext	RID_MACROCHOOSER	RID_TXT_MACROSI
 basctl	source\basicide\macrodlg.src	0	fixedtext	RID_MACROCHOOSER	RID_TXT_MACROSIN			100	cs	Existující makra v:				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	fixedtext	RID_MACROCHOOSER	RID_TXT_MACROSIN			100	cy	Macros ~presennol yn:				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	fixedtext	RID_MACROCHOOSER	RID_TXT_MACROSIN			100	da	Eksisterende makroer ~i:				2002-02-02 02:02:02
+basctl	source\basicide\macrodlg.src	0	fixedtext	RID_MACROCHOOSER	RID_TXT_MACROSIN			100	de	Vorhandene Makros ~in:				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	fixedtext	RID_MACROCHOOSER	RID_TXT_MACROSIN			100	dz	ནང་ན་ ཡོད་བཞིན་པའི་ མེཀ་ཀོརོསི། (~i)				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	fixedtext	RID_MACROCHOOSER	RID_TXT_MACROSIN			100	el	Μακροεντολές ~στο 				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	fixedtext	RID_MACROCHOOSER	RID_TXT_MACROSIN			100	en-GB	Existing macros ~in:				2002-02-02 02:02:02
@@ -8419,6 +8521,7 @@ basctl	source\basicide\macrodlg.src	0	fixedtext	RID_MACROCHOOSER	RID_TXT_SAVEMAC
 basctl	source\basicide\macrodlg.src	0	fixedtext	RID_MACROCHOOSER	RID_TXT_SAVEMACRO			100	cs	Uložit makro do				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	fixedtext	RID_MACROCHOOSER	RID_TXT_SAVEMACRO			100	cy	Cadw ~macro yn				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	fixedtext	RID_MACROCHOOSER	RID_TXT_SAVEMACRO			100	da	Gem m~akroer i				2002-02-02 02:02:02
+basctl	source\basicide\macrodlg.src	0	fixedtext	RID_MACROCHOOSER	RID_TXT_SAVEMACRO			100	de	M~akro speichern in				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	fixedtext	RID_MACROCHOOSER	RID_TXT_SAVEMACRO			100	dz	ནང་ན་ མེཀ་ཀོརོ སྲུང་།(~a)				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	fixedtext	RID_MACROCHOOSER	RID_TXT_SAVEMACRO			100	el	Αποθήκευση μακροεντολών στο				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	fixedtext	RID_MACROCHOOSER	RID_TXT_SAVEMACRO			100	en-GB	Save m~acro in				2002-02-02 02:02:02
@@ -8494,6 +8597,7 @@ basctl	source\basicide\macrodlg.src	0	modaldialog	RID_MACROCHOOSER				287	ca	Mac
 basctl	source\basicide\macrodlg.src	0	modaldialog	RID_MACROCHOOSER				287	cs	Makra v %PRODUCTNAME Basic				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	modaldialog	RID_MACROCHOOSER				287	cy	Cymorth Elfennol %PRODUCTNAME				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	modaldialog	RID_MACROCHOOSER				287	da	%PRODUCTNAME Basic-makroer				2002-02-02 02:02:02
+basctl	source\basicide\macrodlg.src	0	modaldialog	RID_MACROCHOOSER				287	de	%PRODUCTNAME Basic Makros				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	modaldialog	RID_MACROCHOOSER				287	dz	%PRODUCTNAME  གཞི་རྩའི་མེཀ་ཀོརོསི།				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	modaldialog	RID_MACROCHOOSER				287	el	Μακροεντολές basic %PRODUCTNAME				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	modaldialog	RID_MACROCHOOSER				287	en-GB	%PRODUCTNAME Basic Macros				2002-02-02 02:02:02
@@ -8567,6 +8671,7 @@ basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_ASSIGN	
 basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_ASSIGN			50	cs	Přiřadit...				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_ASSIGN			50	cy	~Neilltuo...				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_ASSIGN			50	da	~Tildel...				2002-02-02 02:02:02
+basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_ASSIGN			50	de	~Zuordnen...				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_ASSIGN			50	dz	འགན་སྤྱོད་་་་་(~A)				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_ASSIGN			50	el	Ανάθεση...				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_ASSIGN			50	en-GB	~Assign...				2002-02-02 02:02:02
@@ -8642,6 +8747,7 @@ basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_DEL			5
 basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_DEL			50	cs	Odstranit				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_DEL			50	cy	~Dileu				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_DEL			50	da	~Slet				2002-02-02 02:02:02
+basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_DEL			50	de	~Löschen				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_DEL			50	dz	བཏོན་གཏང་།(~D)				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_DEL			50	el	~Διαγραφή				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_DEL			50	en-GB	~Delete				2002-02-02 02:02:02
@@ -8718,6 +8824,7 @@ basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_EDIT			
 basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_EDIT			50	cs	Upravit				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_EDIT			50	cy	~Golygu				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_EDIT			50	da	~Rediger				2002-02-02 02:02:02
+basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_EDIT			50	de	~Bearbeiten				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_EDIT			50	dz	ཞུན་དག(~E)				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_EDIT			50	el	Επε~ξεργασία				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_EDIT			50	en-GB	~Edit				2002-02-02 02:02:02
@@ -8791,6 +8898,7 @@ basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_NEWLIB	
 basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_NEWLIB			50	cs	Nová knihovna				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_NEWLIB			50	cy	~Llyfrgell Newydd				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_NEWLIB			50	da	Nyt ~bibliotek				2002-02-02 02:02:02
+basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_NEWLIB			50	de	Neue ~Bibliothek				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_NEWLIB			50	dz	དཔེ་མཛོད་གསརཔ།(~L)				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_NEWLIB			50	el	Νέα ~βιβλιοθήκη				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_NEWLIB			50	en-GB	New ~Library				2002-02-02 02:02:02
@@ -8867,6 +8975,7 @@ basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_NEWMOD	
 basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_NEWMOD			50	cs	Nový modul				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_NEWMOD			50	cy	~Modiwl Newydd				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_NEWMOD			50	da	Nyt ~modul				2002-02-02 02:02:02
+basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_NEWMOD			50	de	Neues M~odul				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_NEWMOD			50	dz	ཚད་གཞི་གསརཔ།(~o)				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_NEWMOD			50	el	Νέα Λειτ. Μονάδα				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_NEWMOD			50	en-GB	New M~odule				2002-02-02 02:02:02
@@ -8943,6 +9052,7 @@ basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_ORG			5
 basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_ORG			50	cs	Organizátor...				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_ORG			50	cy	~Trefnydd....				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_ORG			50	da	~Administration...				2002-02-02 02:02:02
+basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_ORG			50	de	~Verwalten...				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_ORG			50	dz	འགོ་འདྲེན་པ་་་་(~O)				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_ORG			50	el	Δια~χείριση...				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_ORG			50	en-GB	~Organiser...				2002-02-02 02:02:02
@@ -9018,6 +9128,7 @@ basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_RUN			5
 basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_RUN			50	cs	Spustit				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_RUN			50	cy	~Rhedeg				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_RUN			50	da	~Udfør				2002-02-02 02:02:02
+basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_RUN			50	de	Aus~führen				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_RUN			50	dz	གཡོག་བཀོལ།(~u)				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_RUN			50	el	Εκτέλεση				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_RUN			50	en-GB	R~un				2002-02-02 02:02:02
@@ -9095,6 +9206,7 @@ basctl	source\basicide\macrodlg.src	0	string	RID_STR_BTNDEL				287	ca	~Suprimeix
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_BTNDEL				287	cs	Odstranit				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_BTNDEL				287	cy	~Dileu				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_BTNDEL				287	da	~Slet				2002-02-02 02:02:02
+basctl	source\basicide\macrodlg.src	0	string	RID_STR_BTNDEL				0	de	~Löschen				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_BTNDEL				287	dz	བཏོན་གཏང་།(~D)				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_BTNDEL				0	el	~Διαγραφή				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_BTNDEL				0	en-GB	~Delete				2002-02-02 02:02:02
@@ -9171,6 +9283,7 @@ basctl	source\basicide\macrodlg.src	0	string	RID_STR_BTNNEW				287	ca	~Nou				20
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_BTNNEW				287	cs	Nový				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_BTNNEW				287	cy	~Newydd				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_BTNNEW				287	da	~Ny(t)				2002-02-02 02:02:02
+basctl	source\basicide\macrodlg.src	0	string	RID_STR_BTNNEW				0	de	~Neu				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_BTNNEW				287	dz	གསརཔ།(~N)				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_BTNNEW				0	el	Δημιουργία				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_BTNNEW				0	en-GB	~New				2002-02-02 02:02:02
@@ -9246,6 +9359,7 @@ basctl	source\basicide\macrodlg.src	0	string	RID_STR_CHOOSE				287	ca	Seleccione
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_CHOOSE				287	cs	Vybrat				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_CHOOSE				287	cy	Dewis				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_CHOOSE				287	da	Vælg				2002-02-02 02:02:02
+basctl	source\basicide\macrodlg.src	0	string	RID_STR_CHOOSE				0	de	Auswählen				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_CHOOSE				287	dz	གདམ།				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_CHOOSE				0	el	Επιλογή				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_CHOOSE				0	en-GB	Choose				2002-02-02 02:02:02
@@ -9321,6 +9435,7 @@ basctl	source\basicide\macrodlg.src	0	string	RID_STR_CLOSE				287	ca	Tanca				20
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_CLOSE				287	cs	Zavřít				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_CLOSE				287	cy	Cau				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_CLOSE				287	da	Luk				2002-02-02 02:02:02
+basctl	source\basicide\macrodlg.src	0	string	RID_STR_CLOSE				0	de	Schließen				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_CLOSE				287	dz	ཁ་བསྡམ།				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_CLOSE				0	el	Κλείσιμο				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_CLOSE				0	en-GB	Close				2002-02-02 02:02:02
@@ -9396,6 +9511,7 @@ basctl	source\basicide\macrodlg.src	0	string	RID_STR_RECORD				287	ca	~Desa				2
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_RECORD				287	cs	Uložit				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_RECORD				287	cy	~Cadw				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_RECORD				287	da	~Gem				2002-02-02 02:02:02
+basctl	source\basicide\macrodlg.src	0	string	RID_STR_RECORD				0	de	~Speichern				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_RECORD				287	dz	སྲུང་།(~S)				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_RECORD				0	el	Εγγραφή				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_RECORD				0	en-GB	~Save				2002-02-02 02:02:02
@@ -9472,6 +9588,7 @@ basctl	source\basicide\macrodlg.src	0	string	RID_STR_RUN				287	ca	Executa				20
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_RUN				287	cs	Spustit				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_RUN				287	cy	Rhedeg				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_RUN				287	da	Udfør				2002-02-02 02:02:02
+basctl	source\basicide\macrodlg.src	0	string	RID_STR_RUN				0	de	Ausführen				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_RUN				287	dz	གཡོག་བཀོལ།				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_RUN				0	el	Εκτέλεση				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_RUN				0	en-GB	Run				2002-02-02 02:02:02
@@ -9548,6 +9665,7 @@ basctl	source\basicide\macrodlg.src	0	string	RID_STR_STDMACRONAME				287	ca	Macr
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_STDMACRONAME				287	cs	Makro				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_STDMACRONAME				287	cy	Macro				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_STDMACRONAME				287	da	Makro				2002-02-02 02:02:02
+basctl	source\basicide\macrodlg.src	0	string	RID_STR_STDMACRONAME				0	de	Makro				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_STDMACRONAME				287	dz	མེཀ་ཀོརོ།				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_STDMACRONAME				0	el	Μακροεντολές				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_STDMACRONAME				0	en-GB	Macro				2002-02-02 02:02:02
@@ -9621,6 +9739,7 @@ basctl	source\basicide\moduldlg.src	0	cancelbutton	RID_TP_DLGS	RID_PB_CLOSE			60
 basctl	source\basicide\moduldlg.src	0	cancelbutton	RID_TP_DLGS	RID_PB_CLOSE			60	cs	Zavřít				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	cancelbutton	RID_TP_DLGS	RID_PB_CLOSE			60	cy	Cau				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	cancelbutton	RID_TP_DLGS	RID_PB_CLOSE			60	da	Luk				2002-02-02 02:02:02
+basctl	source\basicide\moduldlg.src	0	cancelbutton	RID_TP_DLGS	RID_PB_CLOSE			60	de	Schließen				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	cancelbutton	RID_TP_DLGS	RID_PB_CLOSE			60	dz	ཁ་བསྡམ།				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	cancelbutton	RID_TP_DLGS	RID_PB_CLOSE			60	el	Κλείσιμο				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	cancelbutton	RID_TP_DLGS	RID_PB_CLOSE			60	en-GB	Close				2002-02-02 02:02:02
@@ -9696,6 +9815,7 @@ basctl	source\basicide\moduldlg.src	0	cancelbutton	RID_TP_LIBS	RID_PB_CLOSE			60
 basctl	source\basicide\moduldlg.src	0	cancelbutton	RID_TP_LIBS	RID_PB_CLOSE			60	cs	Zavřít				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	cancelbutton	RID_TP_LIBS	RID_PB_CLOSE			60	cy	Cau				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	cancelbutton	RID_TP_LIBS	RID_PB_CLOSE			60	da	Luk				2002-02-02 02:02:02
+basctl	source\basicide\moduldlg.src	0	cancelbutton	RID_TP_LIBS	RID_PB_CLOSE			60	de	Schließen				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	cancelbutton	RID_TP_LIBS	RID_PB_CLOSE			60	dz	ཁ་བསྡམ།				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	cancelbutton	RID_TP_LIBS	RID_PB_CLOSE			60	el	Κλείσιμο				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	cancelbutton	RID_TP_LIBS	RID_PB_CLOSE			60	en-GB	Close				2002-02-02 02:02:02
@@ -9771,6 +9891,7 @@ basctl	source\basicide\moduldlg.src	0	cancelbutton	RID_TP_MODULS	RID_PB_CLOSE			
 basctl	source\basicide\moduldlg.src	0	cancelbutton	RID_TP_MODULS	RID_PB_CLOSE			60	cs	Zavřít				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	cancelbutton	RID_TP_MODULS	RID_PB_CLOSE			60	cy	Cau				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	cancelbutton	RID_TP_MODULS	RID_PB_CLOSE			60	da	Luk				2002-02-02 02:02:02
+basctl	source\basicide\moduldlg.src	0	cancelbutton	RID_TP_MODULS	RID_PB_CLOSE			60	de	Schließen				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	cancelbutton	RID_TP_MODULS	RID_PB_CLOSE			60	dz	ཁ་བསྡམ།				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	cancelbutton	RID_TP_MODULS	RID_PB_CLOSE			60	el	Κλείσιμο				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	cancelbutton	RID_TP_MODULS	RID_PB_CLOSE			60	en-GB	Close				2002-02-02 02:02:02
@@ -9846,6 +9967,7 @@ basctl	source\basicide\moduldlg.src	0	checkbox	RID_DLG_LIBS	RID_CB_REF			146	ca	
 basctl	source\basicide\moduldlg.src	0	checkbox	RID_DLG_LIBS	RID_CB_REF			146	cs	Vložit jako odkaz (pouze pro čtení)				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	checkbox	RID_DLG_LIBS	RID_CB_REF			146	cy	Mewnosod fel cyfeirnod (darllen yn unig)				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	checkbox	RID_DLG_LIBS	RID_CB_REF			146	da	Indsæt som reference (skrivebeskyttet)				2002-02-02 02:02:02
+basctl	source\basicide\moduldlg.src	0	checkbox	RID_DLG_LIBS	RID_CB_REF			146	de	Als Referenz einfügen (nur lesen)				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	checkbox	RID_DLG_LIBS	RID_CB_REF			146	dz	གཞི་བསྟུན་འབད་ བཙུགས།(ལྷག་ནི་-རྐྱངམ་ཅིག)				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	checkbox	RID_DLG_LIBS	RID_CB_REF			146	el	Εισαγωγή ως παραπομπή (μόνο ανάγνωσης)				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	checkbox	RID_DLG_LIBS	RID_CB_REF			146	en-GB	Insert as reference (read-only)				2002-02-02 02:02:02
@@ -9921,6 +10043,7 @@ basctl	source\basicide\moduldlg.src	0	checkbox	RID_DLG_LIBS	RID_CB_REPL			146	ca
 basctl	source\basicide\moduldlg.src	0	checkbox	RID_DLG_LIBS	RID_CB_REPL			146	cs	Nahradit stávající knihovny				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	checkbox	RID_DLG_LIBS	RID_CB_REPL			146	cy	Ailosod y llyfrgelloedd presennol				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	checkbox	RID_DLG_LIBS	RID_CB_REPL			146	da	Erstat eksisterende biblioteker				2002-02-02 02:02:02
+basctl	source\basicide\moduldlg.src	0	checkbox	RID_DLG_LIBS	RID_CB_REPL			146	de	Existierende Bibliotheken ersetzen				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	checkbox	RID_DLG_LIBS	RID_CB_REPL			146	dz	ཡོད་བཞིན་པའི་དཔེ་མཛོད་ཚུ་ ཚབ་མ་བཙུགས།				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	checkbox	RID_DLG_LIBS	RID_CB_REPL			146	el	Αντικατάσταση υπαρχουσών βιβλιοθηκών				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	checkbox	RID_DLG_LIBS	RID_CB_REPL			146	en-GB	Replace existing libraries				2002-02-02 02:02:02
@@ -9996,6 +10119,7 @@ basctl	source\basicide\moduldlg.src	0	fixedline	RID_DLG_LIBS	RID_FL_OPTIONS			15
 basctl	source\basicide\moduldlg.src	0	fixedline	RID_DLG_LIBS	RID_FL_OPTIONS			156	cs	Volby				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	fixedline	RID_DLG_LIBS	RID_FL_OPTIONS			156	cy	Dewisiadau				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	fixedline	RID_DLG_LIBS	RID_FL_OPTIONS			156	da	Indstillinger				2002-02-02 02:02:02
+basctl	source\basicide\moduldlg.src	0	fixedline	RID_DLG_LIBS	RID_FL_OPTIONS			156	de	Optionen				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	fixedline	RID_DLG_LIBS	RID_FL_OPTIONS			156	dz	གདམ་ཁ་ཚུ།				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	fixedline	RID_DLG_LIBS	RID_FL_OPTIONS			156	el	Επιλογές				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	fixedline	RID_DLG_LIBS	RID_FL_OPTIONS			156	en-GB	Options				2002-02-02 02:02:02
@@ -10071,6 +10195,7 @@ basctl	source\basicide\moduldlg.src	0	fixedtext	RID_DLG_NEWLIB	RID_FT_NEWLIB			1
 basctl	source\basicide\moduldlg.src	0	fixedtext	RID_DLG_NEWLIB	RID_FT_NEWLIB			100	cs	Název:				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	fixedtext	RID_DLG_NEWLIB	RID_FT_NEWLIB			100	cy	~Enw:				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	fixedtext	RID_DLG_NEWLIB	RID_FT_NEWLIB			100	da	~Navn:				2002-02-02 02:02:02
+basctl	source\basicide\moduldlg.src	0	fixedtext	RID_DLG_NEWLIB	RID_FT_NEWLIB			100	de	~Name:				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	fixedtext	RID_DLG_NEWLIB	RID_FT_NEWLIB			100	dz	མིང:(~N)				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	fixedtext	RID_DLG_NEWLIB	RID_FT_NEWLIB			100	el	Ό~νομα:				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	fixedtext	RID_DLG_NEWLIB	RID_FT_NEWLIB			100	en-GB	~Name:				2002-02-02 02:02:02
@@ -10145,6 +10270,7 @@ basctl	source\basicide\moduldlg.src	0	fixedtext	RID_TP_DLGS	RID_STR_LIB			130	ca
 basctl	source\basicide\moduldlg.src	0	fixedtext	RID_TP_DLGS	RID_STR_LIB			130	cs	Dialog				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	fixedtext	RID_TP_DLGS	RID_STR_LIB			130	cy	Deialog				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	fixedtext	RID_TP_DLGS	RID_STR_LIB			130	da	Dialog				2002-02-02 02:02:02
+basctl	source\basicide\moduldlg.src	0	fixedtext	RID_TP_DLGS	RID_STR_LIB			130	de	Dialog				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	fixedtext	RID_TP_DLGS	RID_STR_LIB			130	dz	ཌའི་ལོག				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	fixedtext	RID_TP_DLGS	RID_STR_LIB			130	el	Διάλογος				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	fixedtext	RID_TP_DLGS	RID_STR_LIB			130	en-GB	Dialogue				2002-02-02 02:02:02
@@ -10220,6 +10346,7 @@ basctl	source\basicide\moduldlg.src	0	fixedtext	RID_TP_LIBS	RID_STR_BASICS			130
 basctl	source\basicide\moduldlg.src	0	fixedtext	RID_TP_LIBS	RID_STR_BASICS			130	cs	Umístění				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	fixedtext	RID_TP_LIBS	RID_STR_BASICS			130	cy	L~leoliad				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	fixedtext	RID_TP_LIBS	RID_STR_BASICS			130	da	~Placering				2002-02-02 02:02:02
+basctl	source\basicide\moduldlg.src	0	fixedtext	RID_TP_LIBS	RID_STR_BASICS			130	de	~Ort				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	fixedtext	RID_TP_LIBS	RID_STR_BASICS			130	dz	གནས་ཁོངས།(~o)				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	fixedtext	RID_TP_LIBS	RID_STR_BASICS			130	el	Το~ποθεσία				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	fixedtext	RID_TP_LIBS	RID_STR_BASICS			130	en-GB	L~ocation				2002-02-02 02:02:02
@@ -10294,6 +10421,7 @@ basctl	source\basicide\moduldlg.src	0	fixedtext	RID_TP_LIBS	RID_STR_LIB			130	ca
 basctl	source\basicide\moduldlg.src	0	fixedtext	RID_TP_LIBS	RID_STR_LIB			130	cs	Knihovna				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	fixedtext	RID_TP_LIBS	RID_STR_LIB			130	cy	~Llyfrgell				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	fixedtext	RID_TP_LIBS	RID_STR_LIB			130	da	~Bibliotek				2002-02-02 02:02:02
+basctl	source\basicide\moduldlg.src	0	fixedtext	RID_TP_LIBS	RID_STR_LIB			130	de	Bibliothe~k				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	fixedtext	RID_TP_LIBS	RID_STR_LIB			130	dz	དཔེ་མཛོད།(~L)				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	fixedtext	RID_TP_LIBS	RID_STR_LIB			130	el	Βιβλιοθή~κη				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	fixedtext	RID_TP_LIBS	RID_STR_LIB			130	en-GB	~Library				2002-02-02 02:02:02
@@ -10369,6 +10497,7 @@ basctl	source\basicide\moduldlg.src	0	fixedtext	RID_TP_MODULS	RID_STR_LIB			130	
 basctl	source\basicide\moduldlg.src	0	fixedtext	RID_TP_MODULS	RID_STR_LIB			130	cs	Modul				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	fixedtext	RID_TP_MODULS	RID_STR_LIB			130	cy	~Modiwl Newydd				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	fixedtext	RID_TP_MODULS	RID_STR_LIB			130	da	~Modul				2002-02-02 02:02:02
+basctl	source\basicide\moduldlg.src	0	fixedtext	RID_TP_MODULS	RID_STR_LIB			130	de	M~odul				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	fixedtext	RID_TP_MODULS	RID_STR_LIB			130	dz	ཚད་གཞི།(~o)				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	fixedtext	RID_TP_MODULS	RID_STR_LIB			130	el	Λειτουρ~γική μονάδα				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	fixedtext	RID_TP_MODULS	RID_STR_LIB			130	en-GB	M~odule				2002-02-02 02:02:02
@@ -10439,6 +10568,7 @@ basctl	source\basicide\moduldlg.src	0	modaldialog	RID_DLG_EXPORT				115	ca	Expor
 basctl	source\basicide\moduldlg.src	0	modaldialog	RID_DLG_EXPORT				115	cs	Exportovat knihovnu BASIC				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	modaldialog	RID_DLG_EXPORT				115	cy	Allforio llyfrgell Basic				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	modaldialog	RID_DLG_EXPORT				115	da	Eksporter Basic-bibliotek				2002-02-02 02:02:02
+basctl	source\basicide\moduldlg.src	0	modaldialog	RID_DLG_EXPORT				115	de	Basic Bibliothek exportieren				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	modaldialog	RID_DLG_EXPORT				115	dz	གཞི་རིམ་དཔེ་མཛོད་ཕྱིར་འདྲེན་འབད།				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	modaldialog	RID_DLG_EXPORT				115	el	Εξαγωγή βιβλιοθήκης basic				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	modaldialog	RID_DLG_EXPORT				115	eo	Export Basic library				2002-02-02 02:02:02
@@ -10490,6 +10620,7 @@ basctl	source\basicide\moduldlg.src	0	pageitem	RID_TD_ORGANIZE.RID_TC_ORGANIZE	R
 basctl	source\basicide\moduldlg.src	0	pageitem	RID_TD_ORGANIZE.RID_TC_ORGANIZE	RID_TP_DLG			0	cs	Dialogy				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pageitem	RID_TD_ORGANIZE.RID_TC_ORGANIZE	RID_TP_DLG			0	cy	Deialogau				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pageitem	RID_TD_ORGANIZE.RID_TC_ORGANIZE	RID_TP_DLG			0	da	Dialoger				2002-02-02 02:02:02
+basctl	source\basicide\moduldlg.src	0	pageitem	RID_TD_ORGANIZE.RID_TC_ORGANIZE	RID_TP_DLG			0	de	Dialoge				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pageitem	RID_TD_ORGANIZE.RID_TC_ORGANIZE	RID_TP_DLG			0	dz	ཌའི་ལོགསི།				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pageitem	RID_TD_ORGANIZE.RID_TC_ORGANIZE	RID_TP_DLG			0	el	Διάλογοι				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pageitem	RID_TD_ORGANIZE.RID_TC_ORGANIZE	RID_TP_DLG			0	en-GB	Dialogues				2002-02-02 02:02:02
@@ -10564,6 +10695,7 @@ basctl	source\basicide\moduldlg.src	0	pageitem	RID_TD_ORGANIZE.RID_TC_ORGANIZE	R
 basctl	source\basicide\moduldlg.src	0	pageitem	RID_TD_ORGANIZE.RID_TC_ORGANIZE	RID_TP_LIB			0	cs	Knihovny				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pageitem	RID_TD_ORGANIZE.RID_TC_ORGANIZE	RID_TP_LIB			0	cy	Llyfrgelloedd				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pageitem	RID_TD_ORGANIZE.RID_TC_ORGANIZE	RID_TP_LIB			0	da	Biblioteker				2002-02-02 02:02:02
+basctl	source\basicide\moduldlg.src	0	pageitem	RID_TD_ORGANIZE.RID_TC_ORGANIZE	RID_TP_LIB			0	de	Bibliotheken				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pageitem	RID_TD_ORGANIZE.RID_TC_ORGANIZE	RID_TP_LIB			0	dz	དཔེ་མཛོད་ཚུ།				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pageitem	RID_TD_ORGANIZE.RID_TC_ORGANIZE	RID_TP_LIB			0	el	Βιβλιοθήκες				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pageitem	RID_TD_ORGANIZE.RID_TC_ORGANIZE	RID_TP_LIB			0	en-GB	Libraries				2002-02-02 02:02:02
@@ -10639,6 +10771,7 @@ basctl	source\basicide\moduldlg.src	0	pageitem	RID_TD_ORGANIZE.RID_TC_ORGANIZE	R
 basctl	source\basicide\moduldlg.src	0	pageitem	RID_TD_ORGANIZE.RID_TC_ORGANIZE	RID_TP_MOD			0	cs	Moduly				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pageitem	RID_TD_ORGANIZE.RID_TC_ORGANIZE	RID_TP_MOD			0	cy	Modiwlau				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pageitem	RID_TD_ORGANIZE.RID_TC_ORGANIZE	RID_TP_MOD			0	da	Moduler				2002-02-02 02:02:02
+basctl	source\basicide\moduldlg.src	0	pageitem	RID_TD_ORGANIZE.RID_TC_ORGANIZE	RID_TP_MOD			0	de	Module				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pageitem	RID_TD_ORGANIZE.RID_TC_ORGANIZE	RID_TP_MOD			0	dz	ཚད་གཞི་ཚུ།				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pageitem	RID_TD_ORGANIZE.RID_TC_ORGANIZE	RID_TP_MOD			0	el	Λειτουργικές μονάδες				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pageitem	RID_TD_ORGANIZE.RID_TC_ORGANIZE	RID_TP_MOD			0	en-GB	Modules				2002-02-02 02:02:02
@@ -10714,6 +10847,7 @@ basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_DLGS	RID_PB_DELETE			60	
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_DLGS	RID_PB_DELETE			60	cs	Odstranit				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_DLGS	RID_PB_DELETE			60	cy	~Dileu				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_DLGS	RID_PB_DELETE			60	da	~Slet				2002-02-02 02:02:02
+basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_DLGS	RID_PB_DELETE			60	de	~Löschen				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_DLGS	RID_PB_DELETE			60	dz	བཏོན་གཏང་།(~D)				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_DLGS	RID_PB_DELETE			60	el	~Διαγραφή				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_DLGS	RID_PB_DELETE			60	en-GB	~Delete				2002-02-02 02:02:02
@@ -10789,6 +10923,7 @@ basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_DLGS	RID_PB_EDIT			60	ca
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_DLGS	RID_PB_EDIT			60	cs	Upravit				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_DLGS	RID_PB_EDIT			60	cy	~Golygu				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_DLGS	RID_PB_EDIT			60	da	~Rediger				2002-02-02 02:02:02
+basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_DLGS	RID_PB_EDIT			60	de	~Bearbeiten				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_DLGS	RID_PB_EDIT			60	dz	ཞུན་དག(~E)				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_DLGS	RID_PB_EDIT			60	el	Επε~ξεργασία				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_DLGS	RID_PB_EDIT			60	en-GB	~Edit				2002-02-02 02:02:02
@@ -10861,6 +10996,7 @@ basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_DLGS	RID_PB_NEWDLG			60	
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_DLGS	RID_PB_NEWDLG			60	cs	Nový...				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_DLGS	RID_PB_NEWDLG			60	cy	~Newydd...				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_DLGS	RID_PB_NEWDLG			60	da	~Ny...				2002-02-02 02:02:02
+basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_DLGS	RID_PB_NEWDLG			60	de	~Neu...				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_DLGS	RID_PB_NEWDLG			60	dz	གསརཔ་་་་(~N)				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_DLGS	RID_PB_NEWDLG			60	el	Δημιουργία...				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_DLGS	RID_PB_NEWDLG			60	en-GB	~New...				2002-02-02 02:02:02
@@ -10935,6 +11071,7 @@ basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_DLGS	RID_PB_NEWMOD			60	
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_DLGS	RID_PB_NEWMOD			60	cs	Nový...				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_DLGS	RID_PB_NEWMOD			60	cy	~Newydd...				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_DLGS	RID_PB_NEWMOD			60	da	~Nyt...				2002-02-02 02:02:02
+basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_DLGS	RID_PB_NEWMOD			60	de	~Neu...				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_DLGS	RID_PB_NEWMOD			60	dz	གསརཔ་་་་་(~N)				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_DLGS	RID_PB_NEWMOD			60	el	Δημιουργία...				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_DLGS	RID_PB_NEWMOD			60	en-GB	~New...				2002-02-02 02:02:02
@@ -11009,6 +11146,7 @@ basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_APPEND			60	
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_APPEND			60	cs	Import...				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_APPEND			60	cy	~Mewnforio...				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_APPEND			60	da	~Importer...				2002-02-02 02:02:02
+basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_APPEND			60	de	~Importieren...				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_APPEND			60	dz	ནང་འདྲེན...(~I)				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_APPEND			60	el	Ε~ισαγωγή...				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_APPEND			60	en-GB	~Append...				2002-02-02 02:02:02
@@ -11080,6 +11218,7 @@ basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_DELETE			60	
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_DELETE			60	cs	Odstranit				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_DELETE			60	cy	~Dileu				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_DELETE			60	da	~Slet				2002-02-02 02:02:02
+basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_DELETE			60	de	~Löschen				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_DELETE			60	dz	བཏོན་གཏང་།(~D)				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_DELETE			60	el	~Διαγραφή				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_DELETE			60	en-GB	~Delete				2002-02-02 02:02:02
@@ -11156,6 +11295,7 @@ basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_EDIT			60	ca
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_EDIT			60	cs	Upravit				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_EDIT			60	cy	~Golygu				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_EDIT			60	da	~Rediger				2002-02-02 02:02:02
+basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_EDIT			60	de	~Bearbeiten				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_EDIT			60	dz	ཞུན་དག(~E)				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_EDIT			60	el	Επε~ξεργασία				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_EDIT			60	en-GB	~Edit				2002-02-02 02:02:02
@@ -11225,6 +11365,7 @@ basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_EXPORT			60	
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_EXPORT			60	cs	Export...				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_EXPORT			60	cy	A~llforio				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_EXPORT			60	da	~Eksporter...				2002-02-02 02:02:02
+basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_EXPORT			60	de	E~xport...				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_EXPORT			60	dz	ཕྱིར་འདྲེན...(~x)				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_EXPORT			60	el	Ε~ξαγωγή...				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_EXPORT			60	eo	Eksporti...				2002-02-02 02:02:02
@@ -11277,6 +11418,7 @@ basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_NEWLIB			60	
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_NEWLIB			60	cs	Nový...				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_NEWLIB			60	cy	~Newydd...				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_NEWLIB			60	da	~Nyt...				2002-02-02 02:02:02
+basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_NEWLIB			60	de	~Neu...				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_NEWLIB			60	dz	གསརཔ་་་(~N)				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_NEWLIB			60	el	Δημιουργία...				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_NEWLIB			60	en-GB	~New...				2002-02-02 02:02:02
@@ -11352,6 +11494,7 @@ basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_PASSWORD			6
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_PASSWORD			60	cs	Heslo...				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_PASSWORD			60	cy	C~yfrinair...				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_PASSWORD			60	da	~Adgangskode...				2002-02-02 02:02:02
+basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_PASSWORD			60	de	K~ennwort...				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_PASSWORD			60	dz	ཆོག་ཡིག་་་་་་(~P)				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_PASSWORD			60	el	Κωδικός ~πρόσβασης...				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_PASSWORD			60	en-GB	~Password...				2002-02-02 02:02:02
@@ -11427,6 +11570,7 @@ basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_MODULS	RID_PB_DELETE			6
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_MODULS	RID_PB_DELETE			60	cs	Odstranit				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_MODULS	RID_PB_DELETE			60	cy	~Dileu				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_MODULS	RID_PB_DELETE			60	da	~Slet				2002-02-02 02:02:02
+basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_MODULS	RID_PB_DELETE			60	de	~Löschen				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_MODULS	RID_PB_DELETE			60	dz	བཏོན་གཏང་།(~D)				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_MODULS	RID_PB_DELETE			60	el	~Διαγραφή				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_MODULS	RID_PB_DELETE			60	en-GB	~Delete				2002-02-02 02:02:02
@@ -11503,6 +11647,7 @@ basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_MODULS	RID_PB_EDIT			60	
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_MODULS	RID_PB_EDIT			60	cs	Upravit				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_MODULS	RID_PB_EDIT			60	cy	~Golygu				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_MODULS	RID_PB_EDIT			60	da	~Rediger				2002-02-02 02:02:02
+basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_MODULS	RID_PB_EDIT			60	de	~Bearbeiten				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_MODULS	RID_PB_EDIT			60	dz	ཞུན་དག(~E)				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_MODULS	RID_PB_EDIT			60	el	Επε~ξεργασία				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_MODULS	RID_PB_EDIT			60	en-GB	~Edit				2002-02-02 02:02:02
@@ -11576,6 +11721,7 @@ basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_MODULS	RID_PB_NEWDLG			6
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_MODULS	RID_PB_NEWDLG			60	cs	Nový...				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_MODULS	RID_PB_NEWDLG			60	cy	~Newydd...				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_MODULS	RID_PB_NEWDLG			60	da	~Ny...				2002-02-02 02:02:02
+basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_MODULS	RID_PB_NEWDLG			60	de	~Neu...				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_MODULS	RID_PB_NEWDLG			60	dz	གསརཔ།(~N)				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_MODULS	RID_PB_NEWDLG			60	el	Δημιουργία...				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_MODULS	RID_PB_NEWDLG			60	en-GB	~New...				2002-02-02 02:02:02
@@ -11651,6 +11797,7 @@ basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_MODULS	RID_PB_NEWMOD			6
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_MODULS	RID_PB_NEWMOD			60	cs	Nový...				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_MODULS	RID_PB_NEWMOD			60	cy	~Newydd...				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_MODULS	RID_PB_NEWMOD			60	da	~Nyt...				2002-02-02 02:02:02
+basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_MODULS	RID_PB_NEWMOD			60	de	~Neu...				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_MODULS	RID_PB_NEWMOD			60	dz	གསརཔ་་་་་(~N)				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_MODULS	RID_PB_NEWMOD			60	el	Δημιουργία...				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_MODULS	RID_PB_NEWMOD			60	en-GB	~New...				2002-02-02 02:02:02
@@ -11722,6 +11869,7 @@ basctl	source\basicide\moduldlg.src	0	radiobutton	RID_DLG_EXPORT	RB_EXPORTASBASI
 basctl	source\basicide\moduldlg.src	0	radiobutton	RID_DLG_EXPORT	RB_EXPORTASBASIC			103	cs	Exportovat jako knihovnu BASIC				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	radiobutton	RID_DLG_EXPORT	RB_EXPORTASBASIC			103	cy	Allforio fel llyfrgell BASIC				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	radiobutton	RID_DLG_EXPORT	RB_EXPORTASBASIC			103	da	Eksporter som BASIC-bibliotek				2002-02-02 02:02:02
+basctl	source\basicide\moduldlg.src	0	radiobutton	RID_DLG_EXPORT	RB_EXPORTASBASIC			103	de	Als ~BASIC Bibliothek exportieren				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	radiobutton	RID_DLG_EXPORT	RB_EXPORTASBASIC			103	dz	_: moduldlg.src#RID_DLG_EXPORT.RB_EXPORTASBASIC.radiobutton.text\nགཞི་རིམ་དཔེ་མཛོད་སྦེ་ཕྱིར་འདྲེན་འབད།				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	radiobutton	RID_DLG_EXPORT	RB_EXPORTASBASIC			103	el	Εξαγωγή ως βιβλιοθήκη BASIC				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	radiobutton	RID_DLG_EXPORT	RB_EXPORTASBASIC			103	eo	Export as BASIC library				2002-02-02 02:02:02
@@ -11769,6 +11917,7 @@ basctl	source\basicide\moduldlg.src	0	radiobutton	RID_DLG_EXPORT	RB_EXPORTASPACK
 basctl	source\basicide\moduldlg.src	0	radiobutton	RID_DLG_EXPORT	RB_EXPORTASPACKAGE			103	cs	Exportovat jako rozšíření				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	radiobutton	RID_DLG_EXPORT	RB_EXPORTASPACKAGE			103	cy	Allforio fel ~estyniad				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	radiobutton	RID_DLG_EXPORT	RB_EXPORTASPACKAGE			103	da	~Eksporter som udvidelse				2002-02-02 02:02:02
+basctl	source\basicide\moduldlg.src	0	radiobutton	RID_DLG_EXPORT	RB_EXPORTASPACKAGE			103	de	Als ~Extension exportieren				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	radiobutton	RID_DLG_EXPORT	RB_EXPORTASPACKAGE			103	dz	 ~རྒྱ་བསྐྱེད་བཟུམ་སྦེ་ཕྱིར་འདྲེན་འབད།				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	radiobutton	RID_DLG_EXPORT	RB_EXPORTASPACKAGE			103	el	~Εξαγωγή ως πακέτο				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	radiobutton	RID_DLG_EXPORT	RB_EXPORTASPACKAGE			103	eo	Export as ~extension				2002-02-02 02:02:02
@@ -11817,6 +11966,7 @@ basctl	source\basicide\moduldlg.src	0	string	RID_STR_EXPORTBASIC				115	ca	Expor
 basctl	source\basicide\moduldlg.src	0	string	RID_STR_EXPORTBASIC				115	cs	Exportovat jako knihovnu BASIC				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	string	RID_STR_EXPORTBASIC				115	cy	Allforio fel llyfrgell BASIC				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	string	RID_STR_EXPORTBASIC				115	da	Eksporter som BASIC-bibliotek				2002-02-02 02:02:02
+basctl	source\basicide\moduldlg.src	0	string	RID_STR_EXPORTBASIC				0	de	Als BASIC Bibliothek exportieren				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	string	RID_STR_EXPORTBASIC				115	dz	_: moduldlg.src#RID_STR_EXPORTBASIC.string.text\nགཞི་རིམ་དཔེ་མཛོད་སྦེ་ཕྱིར་འདྲེན་འབད།				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	string	RID_STR_EXPORTBASIC				0	el	Εξαγωγή ως βιβλιοθήκη BASIC				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	string	RID_STR_EXPORTBASIC				115	eo	Export as BASIC library				2002-02-02 02:02:02
@@ -11864,6 +12014,7 @@ basctl	source\basicide\moduldlg.src	0	string	RID_STR_EXPORTPACKAGE				115	ca	Exp
 basctl	source\basicide\moduldlg.src	0	string	RID_STR_EXPORTPACKAGE				115	cs	Exportovat knihovnu jako rozšíření				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	string	RID_STR_EXPORTPACKAGE				115	cy	Allforio llyfrgell fel estyniad				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	string	RID_STR_EXPORTPACKAGE				115	da	Eksporter bibliotek som udvidelse				2002-02-02 02:02:02
+basctl	source\basicide\moduldlg.src	0	string	RID_STR_EXPORTPACKAGE				0	de	Bibliothek als Extension exportieren				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	string	RID_STR_EXPORTPACKAGE				115	dz	དཔེ་མཛོད་རྒྱ་བསྐྱེད་བཟུམ་སྦེ་ཕྱིར་འདྲེན།				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	string	RID_STR_EXPORTPACKAGE				0	el	Εξαγωγή βιβλιοθήκης ως πακέτο				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	string	RID_STR_EXPORTPACKAGE				115	eo	Export library as extension				2002-02-02 02:02:02
@@ -11912,6 +12063,7 @@ basctl	source\basicide\moduldlg.src	0	string	RID_STR_PACKAGE_BUNDLE				115	ca	Co
 basctl	source\basicide\moduldlg.src	0	string	RID_STR_PACKAGE_BUNDLE				115	cs	Rozšíření				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	string	RID_STR_PACKAGE_BUNDLE				115	cy	Estyniad				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	string	RID_STR_PACKAGE_BUNDLE				115	da	Udvidelse				2002-02-02 02:02:02
+basctl	source\basicide\moduldlg.src	0	string	RID_STR_PACKAGE_BUNDLE				0	de	Extension				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	string	RID_STR_PACKAGE_BUNDLE				115	dz	རྒྱ་བསྐྱེད།				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	string	RID_STR_PACKAGE_BUNDLE				0	el	UNO Package Bundle				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	string	RID_STR_PACKAGE_BUNDLE				115	eo	Sufikso				2002-02-02 02:02:02
@@ -11964,6 +12116,7 @@ basctl	source\basicide\moduldlg.src	0	tabdialog	RID_TD_ORGANIZE				13691	ca	Orga
 basctl	source\basicide\moduldlg.src	0	tabdialog	RID_TD_ORGANIZE				13691	cs	Organizátor maker %PRODUCTNAME Basic				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	tabdialog	RID_TD_ORGANIZE				13691	cy	Cymorth am Basic %PRODUCTNAME				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	tabdialog	RID_TD_ORGANIZE				13691	da	%PRODUCTNAME Basic-makroadministration				2002-02-02 02:02:02
+basctl	source\basicide\moduldlg.src	0	tabdialog	RID_TD_ORGANIZE				0	de	%PRODUCTNAME Basic Makros verwalten				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	tabdialog	RID_TD_ORGANIZE				13691	dz	%PRODUCTNAME  གཞི་རྩའི་མེཀ་ཀོརོ་ འགོ་འདྲེན་པ།				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	tabdialog	RID_TD_ORGANIZE				0	el	Διαχείριση μακροεντολών Basic %PRODUCTNAME 				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	tabdialog	RID_TD_ORGANIZE				0	en-GB	%PRODUCTNAME Basic Macro Organiser				2002-02-02 02:02:02
@@ -12037,6 +12190,7 @@ basctl	source\basicide\moptions.src	0	fixedline	RID_MACROOPTIONS	RID_FL_HELP			2
 basctl	source\basicide\moptions.src	0	fixedline	RID_MACROOPTIONS	RID_FL_HELP			212	cs	Nápověda				2002-02-02 02:02:02
 basctl	source\basicide\moptions.src	0	fixedline	RID_MACROOPTIONS	RID_FL_HELP			212	cy	Gwybodaeth Cymorth				2002-02-02 02:02:02
 basctl	source\basicide\moptions.src	0	fixedline	RID_MACROOPTIONS	RID_FL_HELP			212	da	Hjælpeinformation				2002-02-02 02:02:02
+basctl	source\basicide\moptions.src	0	fixedline	RID_MACROOPTIONS	RID_FL_HELP			212	de	Hilfe-Informationen				2002-02-02 02:02:02
 basctl	source\basicide\moptions.src	0	fixedline	RID_MACROOPTIONS	RID_FL_HELP			212	dz	བརྡ་དོན་ གྲོགས་རམ་འབད།				2002-02-02 02:02:02
 basctl	source\basicide\moptions.src	0	fixedline	RID_MACROOPTIONS	RID_FL_HELP			212	el	Πληροφορίες βοήθειας				2002-02-02 02:02:02
 basctl	source\basicide\moptions.src	0	fixedline	RID_MACROOPTIONS	RID_FL_HELP			212	en-GB	Help information				2002-02-02 02:02:02
@@ -12112,6 +12266,7 @@ basctl	source\basicide\moptions.src	0	fixedtext	RID_MACROOPTIONS	RID_FT_DESCR			
 basctl	source\basicide\moptions.src	0	fixedtext	RID_MACROOPTIONS	RID_FT_DESCR			69	cs	Popis				2002-02-02 02:02:02
 basctl	source\basicide\moptions.src	0	fixedtext	RID_MACROOPTIONS	RID_FT_DESCR			69	cy	Disgrifiad				2002-02-02 02:02:02
 basctl	source\basicide\moptions.src	0	fixedtext	RID_MACROOPTIONS	RID_FT_DESCR			69	da	Beskrivelse				2002-02-02 02:02:02
+basctl	source\basicide\moptions.src	0	fixedtext	RID_MACROOPTIONS	RID_FT_DESCR			69	de	Beschreibung				2002-02-02 02:02:02
 basctl	source\basicide\moptions.src	0	fixedtext	RID_MACROOPTIONS	RID_FT_DESCR			69	dz	འགྲེལ་བཤད།				2002-02-02 02:02:02
 basctl	source\basicide\moptions.src	0	fixedtext	RID_MACROOPTIONS	RID_FT_DESCR			69	el	Περιγραφή				2002-02-02 02:02:02
 basctl	source\basicide\moptions.src	0	fixedtext	RID_MACROOPTIONS	RID_FT_DESCR			69	en-GB	Description				2002-02-02 02:02:02
@@ -12187,6 +12342,7 @@ basctl	source\basicide\moptions.src	0	fixedtext	RID_MACROOPTIONS	RID_FT_HELPID		
 basctl	source\basicide\moptions.src	0	fixedtext	RID_MACROOPTIONS	RID_FT_HELPID			80	cs	ID nápovědy				2002-02-02 02:02:02
 basctl	source\basicide\moptions.src	0	fixedtext	RID_MACROOPTIONS	RID_FT_HELPID			80	cy	Enw Cymorth				2002-02-02 02:02:02
 basctl	source\basicide\moptions.src	0	fixedtext	RID_MACROOPTIONS	RID_FT_HELPID			80	da	Hjælpeidentifikation				2002-02-02 02:02:02
+basctl	source\basicide\moptions.src	0	fixedtext	RID_MACROOPTIONS	RID_FT_HELPID			80	de	Hilfe-Identifikation				2002-02-02 02:02:02
 basctl	source\basicide\moptions.src	0	fixedtext	RID_MACROOPTIONS	RID_FT_HELPID			80	dz	ཨའི་ཌི་  གྲོགས་རམ་འབད།				2002-02-02 02:02:02
 basctl	source\basicide\moptions.src	0	fixedtext	RID_MACROOPTIONS	RID_FT_HELPID			80	el	Αναγνωριστικό βοήθειας				2002-02-02 02:02:02
 basctl	source\basicide\moptions.src	0	fixedtext	RID_MACROOPTIONS	RID_FT_HELPID			80	en-GB	Help ID				2002-02-02 02:02:02
@@ -12262,6 +12418,7 @@ basctl	source\basicide\moptions.src	0	fixedtext	RID_MACROOPTIONS	RID_FT_HELPNAME
 basctl	source\basicide\moptions.src	0	fixedtext	RID_MACROOPTIONS	RID_FT_HELPNAME			80	cs	Název souboru s nápovědou				2002-02-02 02:02:02
 basctl	source\basicide\moptions.src	0	fixedtext	RID_MACROOPTIONS	RID_FT_HELPNAME			80	cy	Enw'r ffeil Cymorth				2002-02-02 02:02:02
 basctl	source\basicide\moptions.src	0	fixedtext	RID_MACROOPTIONS	RID_FT_HELPNAME			80	da	Hjælpefilnavn				2002-02-02 02:02:02
+basctl	source\basicide\moptions.src	0	fixedtext	RID_MACROOPTIONS	RID_FT_HELPNAME			80	de	Hilfe-Dateiname				2002-02-02 02:02:02
 basctl	source\basicide\moptions.src	0	fixedtext	RID_MACROOPTIONS	RID_FT_HELPNAME			80	dz	ཡིག་སྣོད་མིང་གྲོགས་རམ་འབད།				2002-02-02 02:02:02
 basctl	source\basicide\moptions.src	0	fixedtext	RID_MACROOPTIONS	RID_FT_HELPNAME			80	el	Όνομα αρχείου βοήθειας				2002-02-02 02:02:02
 basctl	source\basicide\moptions.src	0	fixedtext	RID_MACROOPTIONS	RID_FT_HELPNAME			80	en-GB	Help file name				2002-02-02 02:02:02
@@ -12337,6 +12494,7 @@ basctl	source\basicide\moptions.src	0	modaldialog	RID_MACROOPTIONS				224	ca	Des
 basctl	source\basicide\moptions.src	0	modaldialog	RID_MACROOPTIONS				224	cs	Popis				2002-02-02 02:02:02
 basctl	source\basicide\moptions.src	0	modaldialog	RID_MACROOPTIONS				224	cy	Disgrifiad				2002-02-02 02:02:02
 basctl	source\basicide\moptions.src	0	modaldialog	RID_MACROOPTIONS				224	da	Beskrivelse				2002-02-02 02:02:02
+basctl	source\basicide\moptions.src	0	modaldialog	RID_MACROOPTIONS				224	de	Beschreibung				2002-02-02 02:02:02
 basctl	source\basicide\moptions.src	0	modaldialog	RID_MACROOPTIONS				224	dz	འགྲེལ་བཤད།				2002-02-02 02:02:02
 basctl	source\basicide\moptions.src	0	modaldialog	RID_MACROOPTIONS				224	el	Περιγραφή				2002-02-02 02:02:02
 basctl	source\basicide\moptions.src	0	modaldialog	RID_MACROOPTIONS				224	en-GB	Description				2002-02-02 02:02:02
@@ -12412,6 +12570,7 @@ basctl	source\basicide\objdlg.src	0	floatingwindow	RID_BASICIDE_OBJCAT				191	ca
 basctl	source\basicide\objdlg.src	0	floatingwindow	RID_BASICIDE_OBJCAT				191	cs	Objekty				2002-02-02 02:02:02
 basctl	source\basicide\objdlg.src	0	floatingwindow	RID_BASICIDE_OBJCAT				191	cy	Gwrthrychau				2002-02-02 02:02:02
 basctl	source\basicide\objdlg.src	0	floatingwindow	RID_BASICIDE_OBJCAT				191	da	Objekter				2002-02-02 02:02:02
+basctl	source\basicide\objdlg.src	0	floatingwindow	RID_BASICIDE_OBJCAT				191	de	Objekte				2002-02-02 02:02:02
 basctl	source\basicide\objdlg.src	0	floatingwindow	RID_BASICIDE_OBJCAT				191	dz	རྒྱུ་དངོས་ཚུ།				2002-02-02 02:02:02
 basctl	source\basicide\objdlg.src	0	floatingwindow	RID_BASICIDE_OBJCAT				191	el	Αντικείμενα				2002-02-02 02:02:02
 basctl	source\basicide\objdlg.src	0	floatingwindow	RID_BASICIDE_OBJCAT				191	en-GB	Objects				2002-02-02 02:02:02
@@ -12488,6 +12647,7 @@ basctl	source\basicide\objdlg.src	0	toolboxitem	RID_BASICIDE_OBJCAT.RID_TB_TOOLB
 basctl	source\basicide\objdlg.src	0	toolboxitem	RID_BASICIDE_OBJCAT.RID_TB_TOOLBOX	TBITEM_SHOW	HID_BASICIDE_OBJCAT_SHOW		13691	cs	Zobrazit				2002-02-02 02:02:02
 basctl	source\basicide\objdlg.src	0	toolboxitem	RID_BASICIDE_OBJCAT.RID_TB_TOOLBOX	TBITEM_SHOW	HID_BASICIDE_OBJCAT_SHOW		13691	cy	Dangos				2002-02-02 02:02:02
 basctl	source\basicide\objdlg.src	0	toolboxitem	RID_BASICIDE_OBJCAT.RID_TB_TOOLBOX	TBITEM_SHOW	HID_BASICIDE_OBJCAT_SHOW		13691	da	Vis				2002-02-02 02:02:02
+basctl	source\basicide\objdlg.src	0	toolboxitem	RID_BASICIDE_OBJCAT.RID_TB_TOOLBOX	TBITEM_SHOW	HID_BASICIDE_OBJCAT_SHOW		0	de	Zeigen				2002-02-02 02:02:02
 basctl	source\basicide\objdlg.src	0	toolboxitem	RID_BASICIDE_OBJCAT.RID_TB_TOOLBOX	TBITEM_SHOW	HID_BASICIDE_OBJCAT_SHOW		13691	dz	སྟོན།				2002-02-02 02:02:02
 basctl	source\basicide\objdlg.src	0	toolboxitem	RID_BASICIDE_OBJCAT.RID_TB_TOOLBOX	TBITEM_SHOW	HID_BASICIDE_OBJCAT_SHOW		0	el	Εμφάνιση				2002-02-02 02:02:02
 basctl	source\basicide\objdlg.src	0	toolboxitem	RID_BASICIDE_OBJCAT.RID_TB_TOOLBOX	TBITEM_SHOW	HID_BASICIDE_OBJCAT_SHOW		0	en-GB	Show				2002-02-02 02:02:02
@@ -12563,6 +12723,7 @@ basctl	source\basicide\tbxctl.src	0	floatingwindow	RID_TBXCONTROLS		HID_BASICIDE
 basctl	source\basicide\tbxctl.src	0	floatingwindow	RID_TBXCONTROLS		HID_BASICIDE_CONTROLS		13691	cs	Ovládací prvky				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	floatingwindow	RID_TBXCONTROLS		HID_BASICIDE_CONTROLS		13691	cy	Rheolydd				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	floatingwindow	RID_TBXCONTROLS		HID_BASICIDE_CONTROLS		13691	da	Kontrolelementer				2002-02-02 02:02:02
+basctl	source\basicide\tbxctl.src	0	floatingwindow	RID_TBXCONTROLS		HID_BASICIDE_CONTROLS		0	de	Kontrollfelder				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	floatingwindow	RID_TBXCONTROLS		HID_BASICIDE_CONTROLS		13691	dz	ཚད་འཛིན་ཚུ།				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	floatingwindow	RID_TBXCONTROLS		HID_BASICIDE_CONTROLS		0	el	Γραφικό πεδίο ελέγχου				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	floatingwindow	RID_TBXCONTROLS		HID_BASICIDE_CONTROLS		0	en-GB	Controls				2002-02-02 02:02:02
@@ -12638,6 +12799,7 @@ basctl	source\basicide\tbxctl.src	0	string	RID_TBXCONTROLS	RID_TOOLBOX			13691	c
 basctl	source\basicide\tbxctl.src	0	string	RID_TBXCONTROLS	RID_TOOLBOX			13691	cs	Ovládací prvky				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	string	RID_TBXCONTROLS	RID_TOOLBOX			13691	cy	Rheolydd				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	string	RID_TBXCONTROLS	RID_TOOLBOX			13691	da	Kontrolelementer				2002-02-02 02:02:02
+basctl	source\basicide\tbxctl.src	0	string	RID_TBXCONTROLS	RID_TOOLBOX			0	de	Kontrollfelder				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	string	RID_TBXCONTROLS	RID_TOOLBOX			13691	dz	ཚད་འཛིན་ཚུ།				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	string	RID_TBXCONTROLS	RID_TOOLBOX			0	el	Γραφικό πεδίο ελέγχου				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	string	RID_TBXCONTROLS	RID_TOOLBOX			0	en-GB	Controls				2002-02-02 02:02:02
@@ -12713,6 +12875,7 @@ basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_DIALOG_TESTMODE	
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_DIALOG_TESTMODE	SID_DIALOG_TESTMODE		13691	cs	Aktivovat testovací režim				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_DIALOG_TESTMODE	SID_DIALOG_TESTMODE		13691	cy	Modd Prawf Gweithredu 				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_DIALOG_TESTMODE	SID_DIALOG_TESTMODE		13691	da	Aktiver testtilstand				2002-02-02 02:02:02
+basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_DIALOG_TESTMODE	SID_DIALOG_TESTMODE		0	de	Testmodus aktivieren				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_DIALOG_TESTMODE	SID_DIALOG_TESTMODE		13691	dz	བརྟག་ཞིབ་ཐབས་ལམ་ཤུགས་ལྡན་བཟོ།				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_DIALOG_TESTMODE	SID_DIALOG_TESTMODE		0	el	Ενεργοποίηση κατάστασης δοκιμής				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_DIALOG_TESTMODE	SID_DIALOG_TESTMODE		0	en-GB	Activate Test Mode				2002-02-02 02:02:02
@@ -12787,6 +12950,7 @@ basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_CHECKBOX	
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_CHECKBOX	SID_INSERT_CHECKBOX		13691	cs	Zaškrtávací políčko				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_CHECKBOX	SID_INSERT_CHECKBOX		13691	cy	Blwch Ticio				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_CHECKBOX	SID_INSERT_CHECKBOX		13691	da	Afkrydsningsfelt				2002-02-02 02:02:02
+basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_CHECKBOX	SID_INSERT_CHECKBOX		0	de	Markierfeld				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_CHECKBOX	SID_INSERT_CHECKBOX		13691	dz	ཞིབ་དཔྱད་སྒྲོམ།				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_CHECKBOX	SID_INSERT_CHECKBOX		0	el	Πλαίσιο επιλογής				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_CHECKBOX	SID_INSERT_CHECKBOX		0	en-GB	Select Box				2002-02-02 02:02:02
@@ -12862,6 +13026,7 @@ basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_COMBOBOX	
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_COMBOBOX	SID_INSERT_COMBOBOX		13691	cs	Kombinované pole				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_COMBOBOX	SID_INSERT_COMBOBOX		13691	cy	Blwch Cyfun				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_COMBOBOX	SID_INSERT_COMBOBOX		13691	da	Kombinationsfelt				2002-02-02 02:02:02
+basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_COMBOBOX	SID_INSERT_COMBOBOX		0	de	Kombinationsfeld				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_COMBOBOX	SID_INSERT_COMBOBOX		13691	dz	ཀོམ་བོ་སྒྲོམ།				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_COMBOBOX	SID_INSERT_COMBOBOX		0	el	Πεδίο συνδυασμού				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_COMBOBOX	SID_INSERT_COMBOBOX		0	en-GB	Combo Box				2002-02-02 02:02:02
@@ -12937,6 +13102,7 @@ basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_CURRENCYF
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_CURRENCYFIELD	SID_INSERT_CURRENCYFIELD		13691	cs	Měnové pole				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_CURRENCYFIELD	SID_INSERT_CURRENCYFIELD		13691	cy	Maes Arian				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_CURRENCYFIELD	SID_INSERT_CURRENCYFIELD		13691	da	Valutafelt				2002-02-02 02:02:02
+basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_CURRENCYFIELD	SID_INSERT_CURRENCYFIELD		0	de	Währungsfeld				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_CURRENCYFIELD	SID_INSERT_CURRENCYFIELD		13691	dz	དངུལ་གྱི་ས་སྒོ།				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_CURRENCYFIELD	SID_INSERT_CURRENCYFIELD		0	el	Πεδίο νομίσματος				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_CURRENCYFIELD	SID_INSERT_CURRENCYFIELD		0	en-GB	Currency Field				2002-02-02 02:02:02
@@ -13012,6 +13178,7 @@ basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_DATEFIELD
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_DATEFIELD	SID_INSERT_DATEFIELD		13691	cs	Pole pro datum				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_DATEFIELD	SID_INSERT_DATEFIELD		13691	cy	Maes Dyddiad				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_DATEFIELD	SID_INSERT_DATEFIELD		13691	da	Datofelt				2002-02-02 02:02:02
+basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_DATEFIELD	SID_INSERT_DATEFIELD		0	de	Datumsfeld				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_DATEFIELD	SID_INSERT_DATEFIELD		13691	dz	ཚེས་གྲངས་ས་སྒོ།				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_DATEFIELD	SID_INSERT_DATEFIELD		0	el	Πεδίο ημερομηνίας				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_DATEFIELD	SID_INSERT_DATEFIELD		0	en-GB	Date Field				2002-02-02 02:02:02
@@ -13087,6 +13254,7 @@ basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_EDIT	SID_
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_EDIT	SID_INSERT_EDIT		13691	cs	Textové pole				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_EDIT	SID_INSERT_EDIT		13691	cy	Blwch Testun				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_EDIT	SID_INSERT_EDIT		13691	da	Tekstfelt				2002-02-02 02:02:02
+basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_EDIT	SID_INSERT_EDIT		0	de	Textfeld				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_EDIT	SID_INSERT_EDIT		13691	dz	ཚིག་ཡིག་སྒྲོམ།				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_EDIT	SID_INSERT_EDIT		0	el	Πλαίσιο κειμένου				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_EDIT	SID_INSERT_EDIT		0	en-GB	Text Box				2002-02-02 02:02:02
@@ -13162,6 +13330,7 @@ basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_FILECONTR
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_FILECONTROL	SID_INSERT_FILECONTROL		13691	cs	Výběr souboru				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_FILECONTROL	SID_INSERT_FILECONTROL		13691	cy	Dewis Ffeil				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_FILECONTROL	SID_INSERT_FILECONTROL		13691	da	Filvalg				2002-02-02 02:02:02
+basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_FILECONTROL	SID_INSERT_FILECONTROL		0	de	Dateiauswahl				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_FILECONTROL	SID_INSERT_FILECONTROL		13691	dz	ཡིག་སྣོད་སེལ་འཐུ།				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_FILECONTROL	SID_INSERT_FILECONTROL		0	el	Επιλογή αρχείου				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_FILECONTROL	SID_INSERT_FILECONTROL		0	en-GB	File Selection				2002-02-02 02:02:02
@@ -13237,6 +13406,7 @@ basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_FIXEDTEXT
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_FIXEDTEXT	SID_INSERT_FIXEDTEXT		13691	cs	Popisek				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_FIXEDTEXT	SID_INSERT_FIXEDTEXT		13691	cy	Maes label				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_FIXEDTEXT	SID_INSERT_FIXEDTEXT		13691	da	Etiketfelt				2002-02-02 02:02:02
+basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_FIXEDTEXT	SID_INSERT_FIXEDTEXT		0	de	Beschriftungsfeld				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_FIXEDTEXT	SID_INSERT_FIXEDTEXT		13691	dz	ཁ་ཡིག་ས་སྒོ།				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_FIXEDTEXT	SID_INSERT_FIXEDTEXT		0	el	Πεδίο επισήμανσης				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_FIXEDTEXT	SID_INSERT_FIXEDTEXT		0	en-GB	Label field				2002-02-02 02:02:02
@@ -13312,6 +13482,7 @@ basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_FORMATTED
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_FORMATTEDFIELD	SID_INSERT_FORMATTEDFIELD		13691	cs	Formátované pole				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_FORMATTEDFIELD	SID_INSERT_FORMATTEDFIELD		13691	cy	Maes wedi ei Fformatio				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_FORMATTEDFIELD	SID_INSERT_FORMATTEDFIELD		13691	da	Formateret felt				2002-02-02 02:02:02
+basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_FORMATTEDFIELD	SID_INSERT_FORMATTEDFIELD		0	de	Formatiertes Feld				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_FORMATTEDFIELD	SID_INSERT_FORMATTEDFIELD		13691	dz	རྩ་སྒྲིག་འབད་ཡོད་པའི་ས་སྒོ།				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_FORMATTEDFIELD	SID_INSERT_FORMATTEDFIELD		0	el	Μορφοποιημένο πεδίο				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_FORMATTEDFIELD	SID_INSERT_FORMATTEDFIELD		0	en-GB	Formatted Field				2002-02-02 02:02:02
@@ -13387,6 +13558,7 @@ basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_GROUPBOX	
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_GROUPBOX	SID_INSERT_GROUPBOX		13691	cs	Seskupení				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_GROUPBOX	SID_INSERT_GROUPBOX		13691	cy	Blwch GrÅµp				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_GROUPBOX	SID_INSERT_GROUPBOX		13691	da	Gruppefelt				2002-02-02 02:02:02
+basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_GROUPBOX	SID_INSERT_GROUPBOX		0	de	Gruppierungsrahmen				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_GROUPBOX	SID_INSERT_GROUPBOX		13691	dz	སྡེ་ཚན་སྒྲོམ།				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_GROUPBOX	SID_INSERT_GROUPBOX		0	el	Πλαίσιο ομαδοποίησης				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_GROUPBOX	SID_INSERT_GROUPBOX		0	en-GB	Group Box				2002-02-02 02:02:02
@@ -13462,6 +13634,7 @@ basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_HFIXEDLIN
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_HFIXEDLINE	SID_INSERT_HFIXEDLINE		13691	cs	Vodorovná čára				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_HFIXEDLINE	SID_INSERT_HFIXEDLINE		13691	cy	Llinell Lorweddol				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_HFIXEDLINE	SID_INSERT_HFIXEDLINE		13691	da	Vandret linje				2002-02-02 02:02:02
+basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_HFIXEDLINE	SID_INSERT_HFIXEDLINE		0	de	Horizontale Linie				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_HFIXEDLINE	SID_INSERT_HFIXEDLINE		13691	dz	ཐད་སྙོམས་གྲལ་ཐིག				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_HFIXEDLINE	SID_INSERT_HFIXEDLINE		0	el	Οριζόντια γραμμή				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_HFIXEDLINE	SID_INSERT_HFIXEDLINE		0	en-GB	Horizontal Line				2002-02-02 02:02:02
@@ -13537,6 +13710,7 @@ basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_HSCROLLBA
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_HSCROLLBAR	SID_INSERT_HSCROLLBAR		13691	cs	Vodorovný posuvník				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_HSCROLLBAR	SID_INSERT_HSCROLLBAR		13691	cy	Bar Sgrolio Llorweddol				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_HSCROLLBAR	SID_INSERT_HSCROLLBAR		13691	da	Vandret rullebjælke				2002-02-02 02:02:02
+basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_HSCROLLBAR	SID_INSERT_HSCROLLBAR		0	de	Horizontale Bildlaufleiste				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_HSCROLLBAR	SID_INSERT_HSCROLLBAR		13691	dz	ཐད་སྙོམས་་བཤུད་སྒྲིལ་ཕྲ་རིང་།				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_HSCROLLBAR	SID_INSERT_HSCROLLBAR		0	el	Οριζόντια γραμμή κύλισης				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_HSCROLLBAR	SID_INSERT_HSCROLLBAR		0	en-GB	Horizontal Scroll Bar				2002-02-02 02:02:02
@@ -13612,6 +13786,7 @@ basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_IMAGECONT
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_IMAGECONTROL	SID_INSERT_IMAGECONTROL		13691	cs	Ovládací pole obrázku				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_IMAGECONTROL	SID_INSERT_IMAGECONTROL		13691	cy	Rheolaeth Delwedd				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_IMAGECONTROL	SID_INSERT_IMAGECONTROL		13691	da	Grafisk kontrolelement				2002-02-02 02:02:02
+basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_IMAGECONTROL	SID_INSERT_IMAGECONTROL		0	de	Grafisches Kontrollfeld				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_IMAGECONTROL	SID_INSERT_IMAGECONTROL		13691	dz	གཟུགས་བརྙན་ཚད་འཛིན།				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_IMAGECONTROL	SID_INSERT_IMAGECONTROL		0	el	Γραφικό πεδίο ελέγχου				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_IMAGECONTROL	SID_INSERT_IMAGECONTROL		0	en-GB	Image Control				2002-02-02 02:02:02
@@ -13687,6 +13862,7 @@ basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_LISTBOX	S
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_LISTBOX	SID_INSERT_LISTBOX		13691	cs	Seznam				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_LISTBOX	SID_INSERT_LISTBOX		13691	cy	Blwch Rhestr				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_LISTBOX	SID_INSERT_LISTBOX		13691	da	Rulleliste				2002-02-02 02:02:02
+basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_LISTBOX	SID_INSERT_LISTBOX		0	de	Listenfeld				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_LISTBOX	SID_INSERT_LISTBOX		13691	dz	ཐོ་ཡིག་སྒྲོམ།				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_LISTBOX	SID_INSERT_LISTBOX		0	el	Πλαίσιο καταλόγου				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_LISTBOX	SID_INSERT_LISTBOX		0	en-GB	List Box				2002-02-02 02:02:02
@@ -13762,6 +13938,7 @@ basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_NUMERICFI
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_NUMERICFIELD	SID_INSERT_NUMERICFIELD		13691	cs	Číselné pole				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_NUMERICFIELD	SID_INSERT_NUMERICFIELD		13691	cy	Maes Rhifol				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_NUMERICFIELD	SID_INSERT_NUMERICFIELD		13691	da	Numerisk felt				2002-02-02 02:02:02
+basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_NUMERICFIELD	SID_INSERT_NUMERICFIELD		0	de	Numerisches Feld				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_NUMERICFIELD	SID_INSERT_NUMERICFIELD		13691	dz	ཨང་གྲངས་ཀྱི་ས་སྒོ།				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_NUMERICFIELD	SID_INSERT_NUMERICFIELD		0	el	Αριθμητικό πεδίο				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_NUMERICFIELD	SID_INSERT_NUMERICFIELD		0	en-GB	Numeric Field				2002-02-02 02:02:02
@@ -13837,6 +14014,7 @@ basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_PATTERNFI
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_PATTERNFIELD	SID_INSERT_PATTERNFIELD		13691	cs	Pole vzorku				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_PATTERNFIELD	SID_INSERT_PATTERNFIELD		13691	cy	Maes Patrwm				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_PATTERNFIELD	SID_INSERT_PATTERNFIELD		13691	da	Felt med mønster				2002-02-02 02:02:02
+basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_PATTERNFIELD	SID_INSERT_PATTERNFIELD		0	de	Maskiertes Feld				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_PATTERNFIELD	SID_INSERT_PATTERNFIELD		13691	dz	དཔེ་གཞིའི་ས་སྒོ།				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_PATTERNFIELD	SID_INSERT_PATTERNFIELD		0	el	Πεδίο μοτίβου				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_PATTERNFIELD	SID_INSERT_PATTERNFIELD		0	en-GB	Pattern Field				2002-02-02 02:02:02
@@ -13912,6 +14090,7 @@ basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_PROGRESSB
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_PROGRESSBAR	SID_INSERT_PROGRESSBAR		13691	cs	Panel průběhu				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_PROGRESSBAR	SID_INSERT_PROGRESSBAR		13691	cy	Bar Cynnydd				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_PROGRESSBAR	SID_INSERT_PROGRESSBAR		13691	da	Statuslinje				2002-02-02 02:02:02
+basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_PROGRESSBAR	SID_INSERT_PROGRESSBAR		0	de	Fortschrittsbalken				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_PROGRESSBAR	SID_INSERT_PROGRESSBAR		13691	dz	ཡར་འཕེལ་ཕྲ་རིང་།				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_PROGRESSBAR	SID_INSERT_PROGRESSBAR		0	el	Γραμμή προόδου				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_PROGRESSBAR	SID_INSERT_PROGRESSBAR		0	en-GB	Progress Bar				2002-02-02 02:02:02
@@ -13987,6 +14166,7 @@ basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_PUSHBUTTO
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_PUSHBUTTON	SID_INSERT_PUSHBUTTON		13691	cs	Tlačítko				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_PUSHBUTTON	SID_INSERT_PUSHBUTTON		13691	cy	Botwm				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_PUSHBUTTON	SID_INSERT_PUSHBUTTON		13691	da	Knap				2002-02-02 02:02:02
+basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_PUSHBUTTON	SID_INSERT_PUSHBUTTON		0	de	Schaltfläche				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_PUSHBUTTON	SID_INSERT_PUSHBUTTON		13691	dz	ཨེབ་རྟ།				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_PUSHBUTTON	SID_INSERT_PUSHBUTTON		0	el	Κουμπί				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_PUSHBUTTON	SID_INSERT_PUSHBUTTON		0	en-GB	Button				2002-02-02 02:02:02
@@ -14064,6 +14244,7 @@ basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_RADIOBUTT
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_RADIOBUTTON	SID_INSERT_RADIOBUTTON		13691	cs	Tlačítko volby				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_RADIOBUTTON	SID_INSERT_RADIOBUTTON		13691	cy	Botwm Dewis				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_RADIOBUTTON	SID_INSERT_RADIOBUTTON		13691	da	Alternativknap				2002-02-02 02:02:02
+basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_RADIOBUTTON	SID_INSERT_RADIOBUTTON		0	de	Optionsfeld				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_RADIOBUTTON	SID_INSERT_RADIOBUTTON		13691	dz	གདམ་ཁའི་ཨེབ་རྟ།				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_RADIOBUTTON	SID_INSERT_RADIOBUTTON		0	el	Κουμπί επιλογών				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_RADIOBUTTON	SID_INSERT_RADIOBUTTON		0	en-GB	Option Button				2002-02-02 02:02:02
@@ -14139,6 +14320,7 @@ basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_SELECT	SI
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_SELECT	SID_INSERT_SELECT		13691	cs	Vybrat				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_SELECT	SID_INSERT_SELECT		13691	cy	Dewis				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_SELECT	SID_INSERT_SELECT		13691	da	Marker				2002-02-02 02:02:02
+basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_SELECT	SID_INSERT_SELECT		0	de	Auswahl				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_SELECT	SID_INSERT_SELECT		13691	dz	སེལ་འཐུ་འབད།				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_SELECT	SID_INSERT_SELECT		0	el	Επιλογή				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_SELECT	SID_INSERT_SELECT		0	en-GB	Select				2002-02-02 02:02:02
@@ -14215,6 +14397,7 @@ basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_TIMEFIELD
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_TIMEFIELD	SID_INSERT_TIMEFIELD		13691	cs	Pole pro čas				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_TIMEFIELD	SID_INSERT_TIMEFIELD		13691	cy	Maes Amser				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_TIMEFIELD	SID_INSERT_TIMEFIELD		13691	da	Klokkeslætsfelt				2002-02-02 02:02:02
+basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_TIMEFIELD	SID_INSERT_TIMEFIELD		0	de	Zeitfeld				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_TIMEFIELD	SID_INSERT_TIMEFIELD		13691	dz	དུས་ཚོད་ས་སྒོ།				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_TIMEFIELD	SID_INSERT_TIMEFIELD		0	el	Πεδίο ώρας				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_TIMEFIELD	SID_INSERT_TIMEFIELD		0	en-GB	Time Field				2002-02-02 02:02:02
@@ -14290,6 +14473,7 @@ basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_VFIXEDLIN
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_VFIXEDLINE	SID_INSERT_VFIXEDLINE		13691	cs	Svislá čára				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_VFIXEDLINE	SID_INSERT_VFIXEDLINE		13691	cy	Llinell Fertigol				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_VFIXEDLINE	SID_INSERT_VFIXEDLINE		13691	da	Lodret linje				2002-02-02 02:02:02
+basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_VFIXEDLINE	SID_INSERT_VFIXEDLINE		0	de	Vertikale Linie				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_VFIXEDLINE	SID_INSERT_VFIXEDLINE		13691	dz	ཀེར་ཕྲང་གྲལ་ཐིག				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_VFIXEDLINE	SID_INSERT_VFIXEDLINE		0	el	Κατακόρυφη γραμμή				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_VFIXEDLINE	SID_INSERT_VFIXEDLINE		0	en-GB	Vertical Line				2002-02-02 02:02:02
@@ -14365,6 +14549,7 @@ basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_VSCROLLBA
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_VSCROLLBAR	SID_INSERT_VSCROLLBAR		13691	cs	Svislý posuvník				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_VSCROLLBAR	SID_INSERT_VSCROLLBAR		13691	cy	Bar Sgrolio Fertigol				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_VSCROLLBAR	SID_INSERT_VSCROLLBAR		13691	da	Lodret rullebjælke				2002-02-02 02:02:02
+basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_VSCROLLBAR	SID_INSERT_VSCROLLBAR		0	de	Vertikale Bildlaufleiste				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_VSCROLLBAR	SID_INSERT_VSCROLLBAR		13691	dz	ཀེར་ཕྲང་བཤུད་སྒྲིལ་ཕྲ་རིང་།				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_VSCROLLBAR	SID_INSERT_VSCROLLBAR		0	el	Κατακόρυφη γραμμή κύλισης				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_INSERT_VSCROLLBAR	SID_INSERT_VSCROLLBAR		0	en-GB	Vertical Scroll Bar				2002-02-02 02:02:02
@@ -14440,6 +14625,7 @@ basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_SHOW_PROPERTYBRO
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_SHOW_PROPERTYBROWSER	SID_SHOW_PROPERTYBROWSER		13691	cs	Vlastnosti				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_SHOW_PROPERTYBROWSER	SID_SHOW_PROPERTYBROWSER		13691	cy	Priodweddau				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_SHOW_PROPERTYBROWSER	SID_SHOW_PROPERTYBROWSER		13691	da	Egenskaber				2002-02-02 02:02:02
+basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_SHOW_PROPERTYBROWSER	SID_SHOW_PROPERTYBROWSER		0	de	Eigenschaften				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_SHOW_PROPERTYBROWSER	SID_SHOW_PROPERTYBROWSER		13691	dz	རྒྱུ་དངོས་ཚུ།				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_SHOW_PROPERTYBROWSER	SID_SHOW_PROPERTYBROWSER		0	el	Ιδιότητες				2002-02-02 02:02:02
 basctl	source\basicide\tbxctl.src	0	toolboxitem	RID_TOOLBOX	SID_SHOW_PROPERTYBROWSER	SID_SHOW_PROPERTYBROWSER		0	en-GB	Properties				2002-02-02 02:02:02
