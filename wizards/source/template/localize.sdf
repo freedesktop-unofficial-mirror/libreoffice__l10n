@@ -13,9 +13,9 @@
 #
 #   $RCSfile: localize.sdf,v $
 #
-#   $Revision: 1.22 $
+#   $Revision: 1.23 $
 #
-#   last change: $Author: vg $ $Date: 2007-02-02 19:40:42 $
+#   last change: $Author: ihi $ $Date: 2007-04-19 17:01:28 $
 #
 #   The Contents of this file are made available subject to
 #   the terms of GNU Lesser General Public License Version 2.1.
@@ -52,6 +52,7 @@ wizards	source\template\template.src	0	string	AgendaDlgButton1				13691	ca	Actes
 wizards	source\template\template.src	0	string	AgendaDlgButton1				13691	cs	Přijatá usnesení				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgButton1				13691	cy	Cofnodion Canlyniadau				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgButton1				13691	da	Beslutningsreferat				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	AgendaDlgButton1				0	de	Ergebnisprotokoll				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgButton1				13691	dz	གྲུབ་འབྲས་ཚུ་གི་གྲོས་ཆོད་ཚུ།				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgButton1				0	el	Πρωτόκολλο αποτελεσμάτων				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgButton1				0	en-GB	Results Minutes				2002-02-02 02:02:02
@@ -126,6 +127,7 @@ wizards	source\template\template.src	0	string	AgendaDlgButton2				13691	ca	Proto
 wizards	source\template\template.src	0	string	AgendaDlgButton2				13691	cs	Průběh zasedání				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgButton2				13691	cy	Cofnodion Gwerthuso				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgButton2				13691	da	Evalueringsreferat				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	AgendaDlgButton2				0	de	Verlaufsprotokoll				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgButton2				13691	dz	བརྟག་ཞིབ་གྲོས་ཆོད་ཚུ།				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgButton2				0	el	Πρωτόκολλο εξέλιξης				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgButton2				0	en-GB	Evaluation Minutes				2002-02-02 02:02:02
@@ -200,6 +202,7 @@ wizards	source\template\template.src	0	string	AgendaDlgFrame				13691	ca	Tipus d
 wizards	source\template\template.src	0	string	AgendaDlgFrame				13691	cs	Typ protokolu				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgFrame				13691	cy	Math o Gofnodion				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgFrame				13691	da	Referattype				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	AgendaDlgFrame				0	de	Protokolltyp				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgFrame				13691	dz	གྲོས་ཆོད་ཚུའི་དབྱེ་བ།				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgFrame				0	el	Τύπος πρωτόκολλου				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgFrame				0	en-GB	Minutes Type				2002-02-02 02:02:02
@@ -274,6 +277,7 @@ wizards	source\template\template.src	0	string	AgendaDlgName				13691	ca	Plantill
 wizards	source\template\template.src	0	string	AgendaDlgName				13691	cs	Šablona protokolu				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgName				13691	cy	Templed Cofnodion				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgName				13691	da	Referatskabelon				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	AgendaDlgName				0	de	Protokollvorlage				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgName				13691	dz	གྲོས་ཆོད་ ཊེམ་པེལེཊི།				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgName				0	el	Πρότυπο πρωτόκολλου				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgName				0	en-GB	Minutes Template				2002-02-02 02:02:02
@@ -349,6 +353,7 @@ wizards	source\template\template.src	0	string	AgendaDlgNoCancel				13691	ca	Heu 
 wizards	source\template\template.src	0	string	AgendaDlgNoCancel				13691	cs	Volba musí být potvrzena				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgNoCancel				13691	cy	Rhaid cadarnhau'r dewis.				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgNoCancel				13691	da	Du skal bekræfte en indstilling.				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	AgendaDlgNoCancel				0	de	Es muss eine Option bestätigt werden.				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgNoCancel				13691	dz	གདམ་ཁ་འདི་ངེས་དཔྱད་འབད་དགོཔ་ཨིན།				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgNoCancel				0	el	Πρέπει να γίνει επιβεβαίωση μιας επιλογής.				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgNoCancel				0	en-GB	An option must be confirmed.				2002-02-02 02:02:02
@@ -424,6 +429,7 @@ wizards	source\template\template.src	0	string	CorrespondenceDialog				13691	ca	D
 wizards	source\template\template.src	0	string	CorrespondenceDialog				13691	cs	Příjemce				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceDialog				13691	cy	Cyfeiriad				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceDialog				13691	da	Modtager				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceDialog				0	de	Empfänger				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceDialog				13691	dz	ཡི་གེ་གཏོང་ཡུལ།				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceDialog				0	el	Παραλήπτης				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceDialog				0	en-GB	Addressee				2002-02-02 02:02:02
@@ -500,6 +506,7 @@ wizards	source\template\template.src	0	string	CorrespondenceDialog+1				13691	ca
 wizards	source\template\template.src	0	string	CorrespondenceDialog+1				13691	cs	Jeden příjemce				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceDialog+1				13691	cy	Un derbynnydd				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceDialog+1				13691	da	Én modtager				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceDialog+1				0	de	Ein Empfänger				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceDialog+1				13691	dz	ལེན་མཁན་གཅིག				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceDialog+1				0	el	Ένας παραλήπτης				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceDialog+1				0	en-GB	One recipient				2002-02-02 02:02:02
@@ -575,6 +582,7 @@ wizards	source\template\template.src	0	string	CorrespondenceDialog+2				13691	ca
 wizards	source\template\template.src	0	string	CorrespondenceDialog+2				13691	cs	Několik příjemců (databáze adres)				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceDialog+2				13691	cy	Nifer o dderbynwyr (cronfa ddata cyfeiriadau)				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceDialog+2				13691	da	Flere modtagere (adressedatabase)				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceDialog+2				0	de	Mehrere Empfänger (Adressdatenbank)				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceDialog+2				13691	dz	ལེན་མཁན་ལེ་ཤ་ཅིག་(ཁ་བྱང་གནད་སྡུད་གཞི་རྟེན་)།				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceDialog+2				0	el	Πολλοί παραλήπτες (βάση δεδομένων διευθύνσεων)				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceDialog+2				0	en-GB	Several recipients (address database)				2002-02-02 02:02:02
@@ -650,6 +658,7 @@ wizards	source\template\template.src	0	string	CorrespondenceDialog+3				13691	ca
 wizards	source\template\template.src	0	string	CorrespondenceDialog+3				13691	cs	Použít tuto šablonu				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceDialog+3				13691	cy	Defnyddio'r Templed				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceDialog+3				13691	da	Anvendelse af skabelonen				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceDialog+3				0	de	Verwendung der Vorlage				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceDialog+3				13691	dz	ཊེམ་པེལེཊི་གི་ལག་ལེན།				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceDialog+3				0	el	Χρήση αυτού του προτύπου				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceDialog+3				0	en-GB	Use of This Template				2002-02-02 02:02:02
@@ -726,6 +735,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields				13691	ca	F
 wizards	source\template\template.src	0	string	CorrespondenceFields				13691	cs	Klepněte na naznačené místo a vepište vlastní text				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields				13691	cy	Clicio'r deilydd ac ysgrifennu drosodd				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields				13691	da	Klik på pladsholder, og overskriv				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields				0	de	Platzhalter anklicken und überschreiben				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields				13691	dz	ས་གནས་འཛིན་མི་དང་ཚབ་སྲུང་ལུ་ ཨེབ་གཏང་འབད།				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields				0	el	Κάντε κλικ στο πλαίσιο δείκτη τοποθέτησης και αντικαταστήστε τον				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields				0	en-GB	Click placeholder and overwrite				2002-02-02 02:02:02
@@ -801,6 +811,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+1				13691	ca
 wizards	source\template\template.src	0	string	CorrespondenceFields+1				13691	cs	Společnost				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+1				13691	cy	Cwmni				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+1				13691	da	Firma				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+1				0	de	Firma				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+1				13691	dz	ཚོང་སྡེ།				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+1				0	el	Εταιρεία				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+1				0	en-GB	Company				2002-02-02 02:02:02
@@ -877,6 +888,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+10				13691	c
 wizards	source\template\template.src	0	string	CorrespondenceFields+10				13691	cs	Umístění				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+10				13691	cy	Safle				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+10				13691	da	Stilling				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+10				0	de	Position				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+10				13691	dz	གནས་ས།				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+10				0	el	Θέση				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+10				0	en-GB	Position				2002-02-02 02:02:02
@@ -954,6 +966,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+11				13691	c
 wizards	source\template\template.src	0	string	CorrespondenceFields+11				13691	cs	Forma adresy				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+11				13691	cy	Ffurf Cyfeiriad				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+11				13691	da	Tiltale				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+11				0	de	Anrede				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+11				13691	dz	ཁ་བྱང་གི་འབྲི་ཤོག				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+11				0	el	Προσφώνηση				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+11				0	en-GB	Form of Address				2002-02-02 02:02:02
@@ -1030,6 +1043,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+12				13691	c
 wizards	source\template\template.src	0	string	CorrespondenceFields+12				13691	cs	Iniciály				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+12				13691	cy	Llythrennau Blaen				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+12				13691	da	Initialer				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+12				0	de	Kürzel				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+12				13691	dz	མིང་རྟགས་བསྡུས་པ་ཚུ།				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+12				0	el	Αρχικά				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+12				0	en-GB	Initials				2002-02-02 02:02:02
@@ -1105,6 +1119,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+13				13691	c
 wizards	source\template\template.src	0	string	CorrespondenceFields+13				13691	cs	Oslovení				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+13				13691	cy	Cyfarchiad				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+13				13691	da	Starthilsen				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+13				0	de	Briefanrede				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+13				13691	dz	གུས་བཏུད།				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+13				0	el	Χαιρετισμός				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+13				0	en-GB	Salutation				2002-02-02 02:02:02
@@ -1181,6 +1196,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+14				13691	c
 wizards	source\template\template.src	0	string	CorrespondenceFields+14				13691	cs	Telefon domů				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+14				13691	cy	Ffôn Cartref				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+14				13691	da	Tlf. privat				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+14				0	de	Tel. privat				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+14				13691	dz	ཁྱིམ་གྱི་བརྒྱུད་འཕྲིན།				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+14				0	el	Τηλέφωνο οικίας				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+14				0	en-GB	Home Phone				2002-02-02 02:02:02
@@ -1256,6 +1272,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+15				13691	c
 wizards	source\template\template.src	0	string	CorrespondenceFields+15				13691	cs	Telefon do zaměstnání				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+15				13691	cy	Ffôn Gwaith				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+15				13691	da	Tlf. arbejde				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+15				0	de	Tel. gesch.				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+15				13691	dz	ལཱ་གཡོག་བརྒྱུད་འཕྲིན།				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+15				0	el	Τηλέφωνο εργασίας				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+15				0	en-GB	Work Phone				2002-02-02 02:02:02
@@ -1331,6 +1348,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+16				13691	c
 wizards	source\template\template.src	0	string	CorrespondenceFields+16				13691	cs	Fax				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+16				13691	cy	Ffacs				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+16				13691	da	Fax				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+16				0	de	Fax				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+16				13691	dz	དཔར་འཕྲིན།				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+16				0	el	Φαξ				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+16				0	en-GB	Fax				2002-02-02 02:02:02
@@ -1407,6 +1425,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+17				13691	c
 wizards	source\template\template.src	0	string	CorrespondenceFields+17				13691	cs	E-mail				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+17				13691	cy	E-bost				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+17				13691	da	E-mail				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+17				0	de	E-Mail				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+17				13691	dz	གློག་འཕྲིན།				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+17				0	el	Διεύθυνση ηλεκτρονικού ταχυδρομείου				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+17				0	en-GB	E-Mail				2002-02-02 02:02:02
@@ -1483,6 +1502,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+18				13691	c
 wizards	source\template\template.src	0	string	CorrespondenceFields+18				13691	cs	URL				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+18				13691	cy	URL				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+18				13691	da	URL				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+18				0	de	URL				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+18				13691	dz	ཡུ་ཨར་ཨེལ།				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+18				0	el	URL				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+18				0	en-GB	URL				2002-02-02 02:02:02
@@ -1558,6 +1578,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+19				13691	c
 wizards	source\template\template.src	0	string	CorrespondenceFields+19				13691	cs	Poznámky				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+19				13691	cy	Nodiadau				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+19				13691	da	Noter				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+19				0	de	Notiz				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+19				13691	dz	དྲན་འཛིན་ཚུ།				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+19				0	el	Σημειώσεις				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+19				0	en-GB	Notes				2002-02-02 02:02:02
@@ -1634,6 +1655,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+2				13691	ca
 wizards	source\template\template.src	0	string	CorrespondenceFields+2				13691	cs	Oddělení				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+2				13691	cy	Adran				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+2				13691	da	Afdeling				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+2				0	de	Abteilung				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+2				13691	dz	ལས་ཁུངས།				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+2				0	el	Τμήμα				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+2				0	en-GB	Department				2002-02-02 02:02:02
@@ -1710,6 +1732,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+20				13691	c
 wizards	source\template\template.src	0	string	CorrespondenceFields+20				13691	cs	Vlastní pole 1				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+20				13691	cy	Alt. Maes 1				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+20				13691	da	Alt. felt 1				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+20				0	de	Alt. Feld 1				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+20				13691	dz	གདམ་ལྡེ་ ས་སྒོ་ ༡།				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+20				0	el	Εναλλακτικό πεδίο 1				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+20				0	en-GB	Alt. Field 1				2002-02-02 02:02:02
@@ -1784,6 +1807,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+21				13691	c
 wizards	source\template\template.src	0	string	CorrespondenceFields+21				13691	cs	Vlastní pole 2				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+21				13691	cy	Alt. Maes 2				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+21				13691	da	Alt. felt 2				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+21				0	de	Alt. Feld 2				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+21				13691	dz	གདམ་ལྡེ་ ས་སྒོ་ ༢།				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+21				0	el	Εναλλακτικό πεδίο 2				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+21				0	en-GB	Alt. Field 2				2002-02-02 02:02:02
@@ -1858,6 +1882,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+22				13691	c
 wizards	source\template\template.src	0	string	CorrespondenceFields+22				13691	cs	Vlastní pole 3				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+22				13691	cy	Alt. Maes 3				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+22				13691	da	Alt. felt 3				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+22				0	de	Alt. Feld 3				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+22				13691	dz	གདམ་ལྡེ་ ས་སྒོ་ ༣།				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+22				0	el	Εναλλακτικό πεδίο 3				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+22				0	en-GB	Alt. Field 3				2002-02-02 02:02:02
@@ -1932,6 +1957,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+23				13691	c
 wizards	source\template\template.src	0	string	CorrespondenceFields+23				13691	cs	Vlastní pole 4				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+23				13691	cy	Alt. Maes 4				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+23				13691	da	Alt. felt 4				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+23				0	de	Alt. Feld 4				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+23				13691	dz	གདམ་ལྡེ་ ས་སྒོ་ ༤།				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+23				0	el	Εναλλακτικό πεδίο 4				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+23				0	en-GB	Alt. Field 4				2002-02-02 02:02:02
@@ -2006,6 +2032,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+24				13691	c
 wizards	source\template\template.src	0	string	CorrespondenceFields+24				13691	cs	ID				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+24				13691	cy	Enw				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+24				13691	da	ID				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+24				0	de	ID				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+24				13691	dz	ཨའི་ཌི།				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+24				0	el	Αναγνωριστικό				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+24				0	en-GB	ID				2002-02-02 02:02:02
@@ -2082,6 +2109,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+25				13691	c
 wizards	source\template\template.src	0	string	CorrespondenceFields+25				13691	cs	Stát				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+25				13691	cy	Sir/Talaith				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+25				13691	da	Delstat				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+25				0	de	Bundesland				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+25				13691	dz	མངའ་སྡེ།				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+25				0	el	Νομός				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+25				0	en-GB	Region				2002-02-02 02:02:02
@@ -2157,6 +2185,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+26				13691	c
 wizards	source\template\template.src	0	string	CorrespondenceFields+26				13691	cs	Telefon do kanceláře				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+26				13691	cy	Ffôn Swyddfa				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+26				13691	da	Tlf. kontor				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+26				0	de	Tel. Büro				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+26				13691	dz	ཡིག་ཚང་གི་བརྒྱུད་འཕྲིན།				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+26				0	el	Τηλέφωνο γραφείου				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+26				0	en-GB	Office Phone				2002-02-02 02:02:02
@@ -2232,6 +2261,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+27				13691	c
 wizards	source\template\template.src	0	string	CorrespondenceFields+27				13691	cs	Pager				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+27				13691	cy	Swnyn				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+27				13691	da	Personsøger				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+27				0	de	Pager				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+27				13691	dz	པེ་ཇར།				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+27				0	el	Τηλεειδοποίηση				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+27				0	en-GB	Pager				2002-02-02 02:02:02
@@ -2307,6 +2337,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+28				13691	c
 wizards	source\template\template.src	0	string	CorrespondenceFields+28				13691	cs	Mobilní telefon				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+28				13691	cy	Ffôn Symudol				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+28				13691	da	Mobiltelefon				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+28				0	de	Tel. Mobil				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+28				13691	dz	འགྲུལ་འཕྲིན།				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+28				0	el	Κινητό τηλέφωνο				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+28				0	en-GB	Mobile Phone				2002-02-02 02:02:02
@@ -2383,6 +2414,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+29				13691	c
 wizards	source\template\template.src	0	string	CorrespondenceFields+29				13691	cs	Další telefon				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+29				13691	cy	Ffôn Arall				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+29				13691	da	Tlf. øvrige				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+29				0	de	Tel. Andere				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+29				13691	dz	བརྒྱུད་འཕྲིན་གཞན།				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+29				0	el	Άλλο τηλέφωνο				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+29				0	en-GB	Other Phone				2002-02-02 02:02:02
@@ -2459,6 +2491,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+3				13691	ca
 wizards	source\template\template.src	0	string	CorrespondenceFields+3				13691	cs	Jméno				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+3				13691	cy	Enw Cyntaf				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+3				13691	da	Fornavn				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+3				0	de	Vorname				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+3				13691	dz	འགོ་མིང་།				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+3				0	el	Όνομα				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+3				0	en-GB	Forename				2002-02-02 02:02:02
@@ -2535,6 +2568,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+30				13691	c
 wizards	source\template\template.src	0	string	CorrespondenceFields+30				13691	cs	Kalendář URL				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+30				13691	cy	URL Calendr				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+30				13691	da	Kalender-URL				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+30				0	de	Kalender URL				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+30				13691	dz	ཟླ་ཐོ་ ཡུ་ཨར་ཨེལ།				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+30				0	el	URL ημερολογίου				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+30				0	en-GB	Calendar URL				2002-02-02 02:02:02
@@ -2611,6 +2645,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+31				13691	c
 wizards	source\template\template.src	0	string	CorrespondenceFields+31				13691	cs	Pozvat				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+31				13691	cy	Gwahoddiad				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+31				13691	da	Inviter				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+31				0	de	Einladen				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+31				13691	dz	མགྲོན་བརྡ་འབད་ནི།				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+31				0	el	Πρόσκληση				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+31				0	en-GB	Invite				2002-02-02 02:02:02
@@ -2687,6 +2722,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+4				13691	ca
 wizards	source\template\template.src	0	string	CorrespondenceFields+4				13691	cs	Příjmení				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+4				13691	cy	Enw Olaf				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+4				13691	da	Efternavn				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+4				0	de	Nachname				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+4				13691	dz	མཇུག་མིང་།				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+4				0	el	Επώνυμο				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+4				0	en-GB	Surname				2002-02-02 02:02:02
@@ -2763,6 +2799,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+5				13691	ca
 wizards	source\template\template.src	0	string	CorrespondenceFields+5				13691	cs	Ulice				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+5				13691	cy	Stryd				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+5				13691	da	Gade				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+5				0	de	Straße				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+5				13691	dz	ཁྲོམ་ལམ།				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+5				0	el	Οδός				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+5				0	en-GB	Street				2002-02-02 02:02:02
@@ -2839,6 +2876,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+6				13691	ca
 wizards	source\template\template.src	0	string	CorrespondenceFields+6				13691	cs	Země				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+6				13691	cy	Gwlad				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+6				13691	da	Land				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+6				0	de	Land				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+6				13691	dz	རྒྱལ་ཁབ།				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+6				0	el	Χώρα				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+6				0	en-GB	Country				2002-02-02 02:02:02
@@ -2915,6 +2953,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+7				13691	ca
 wizards	source\template\template.src	0	string	CorrespondenceFields+7				13691	cs	PSČ				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+7				13691	cy	Cod Post/ZIP				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+7				13691	da	Postnr.				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+7				0	de	PLZ				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+7				13691	dz	གནས་ཡུལ་/འགྲེམ་ཨང་།				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+7				0	el	Ταχυδρομικός κώδικας				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+7				0	en-GB	Postcode				2002-02-02 02:02:02
@@ -2989,6 +3028,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+8				13691	ca
 wizards	source\template\template.src	0	string	CorrespondenceFields+8				13691	cs	Obec				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+8				13691	cy	Tref/Dinas				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+8				13691	da	By				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+8				0	de	Ort				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+8				13691	dz	གྲོང་སྡེ།				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+8				0	el	Πόλη				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+8				0	en-GB	City				2002-02-02 02:02:02
@@ -3066,6 +3106,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+9				13691	ca
 wizards	source\template\template.src	0	string	CorrespondenceFields+9				13691	cs	Titulek				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+9				13691	cy	Teitl				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+9				13691	da	Titel				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+9				0	de	Titel				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+9				13691	dz	མགོ་མིང་།				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+9				0	el	Τίτλος				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+9				0	en-GB	Title				2002-02-02 02:02:02
@@ -3143,6 +3184,7 @@ wizards	source\template\template.src	0	string	CorrespondenceMsgError				13691	ca
 wizards	source\template\template.src	0	string	CorrespondenceMsgError				13691	cs	Chyba				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceMsgError				13691	cy	Digwyddodd gwall.				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceMsgError				13691	da	Der opstod en fejl				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceMsgError				0	de	Es ist ein Fehler aufgetreten!				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceMsgError				13691	dz	འཛོལ་བ་ཅིག་བྱུང་ནུག				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceMsgError				0	el	Σφάλμα				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceMsgError				0	en-GB	An error has occurred.				2002-02-02 02:02:02
@@ -3218,6 +3260,7 @@ wizards	source\template\template.src	0	string	CorrespondenceNoTextmark				13691	
 wizards	source\template\template.src	0	string	CorrespondenceNoTextmark				13691	cs	Chybí složka 'Příjemci'.				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceNoTextmark				13691	cy	Mae'r nod tudalen 'Derbynnydd' ar goll				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceNoTextmark				13691	da	Bogmærket 'Modtager' mangler.				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceNoTextmark				0	de	Die Textmarke 'Recipient' fehlt.				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceNoTextmark				13691	dz	དེབ་རྟགས་ 'ལེན་མཁན་' འདི་ བརླག་སྟོར་ཞུགས་པ།				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceNoTextmark				0	el	Λείπει το σημάδι του κειμένου 'Recipient' (Παραλήπτης).				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceNoTextmark				0	en-GB	The bookmark 'Recipient' is missing.				2002-02-02 02:02:02
@@ -3293,6 +3336,7 @@ wizards	source\template\template.src	0	string	CorrespondenceNoTextmark+1				1369
 wizards	source\template\template.src	0	string	CorrespondenceNoTextmark+1				13691	cs	Pole formulářového dopisu nemohou být zahrnuta.				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceNoTextmark+1				13691	cy	Methu cynnwys meysydd ffurflen llythyr.				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceNoTextmark+1				13691	da	Det er ikke muligt at inkludere formularbrevsfelter.				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceNoTextmark+1				0	de	Serienbrieffelder können nicht eingefügt werden.				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceNoTextmark+1				13691	dz	འབྲི་ཤོག་ཡི་གུའི་ས་སྒོ་ཚུ་ གྲངས་སུ་བཙུགས་མི་ཚུགས།				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceNoTextmark+1				0	el	Δεν είναι δυνατόν να γίνει εισαγωγή των πεδίων των εγκυκλίων επιστολών.				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceNoTextmark+1				0	en-GB	Form letter fields can not be included.				2002-02-02 02:02:02
@@ -3368,6 +3412,7 @@ wizards	source\template\template.src	0	string	Newsletter				13691	ca	Disseny gen
 wizards	source\template\template.src	0	string	Newsletter				13691	cs	Všeobecný vzhled				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter				13691	cy	Cynllun cyffredinol				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter				13691	da	Generelt layout				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	Newsletter				0	de	Allgemeines Layout				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter				13691	dz	ཡོངས་ཁྱབ་སྒྲིག་བཀོད།				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter				0	el	Γενική διάταξη				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter				0	en-GB	General layout				2002-02-02 02:02:02
@@ -3444,6 +3489,7 @@ wizards	source\template\template.src	0	string	Newsletter + 1				13691	ca	Disseny
 wizards	source\template\template.src	0	string	Newsletter + 1				13691	cs	Výchozí vzhled				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 1				13691	cy	Cynllun rhagosodedig				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 1				13691	da	Standardlayout				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	Newsletter + 1				0	de	Standard Layout				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 1				13691	dz	སྔོན་སྒྲིག་སྒྲིག་བཀོད།				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 1				0	el	Προεπιλεγμένη διάταξη				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 1				0	en-GB	Default layout				2002-02-02 02:02:02
@@ -3519,6 +3565,7 @@ wizards	source\template\template.src	0	string	Newsletter + 10				13691	ca	Format
 wizards	source\template\template.src	0	string	Newsletter + 10				13691	cs	Formát				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 10				13691	cy	Fformat				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 10				13691	da	Format				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	Newsletter + 10				0	de	Format				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 10				13691	dz	རྩ་སྒྲིག				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 10				0	el	Μορφή				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 10				0	en-GB	Format				2002-02-02 02:02:02
@@ -3595,6 +3642,7 @@ wizards	source\template\template.src	0	string	Newsletter + 11				13691	ca	Una ca
 wizards	source\template\template.src	0	string	Newsletter + 11				13691	cs	Jednostranný				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 11				13691	cy	Unochrog				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 11				13691	da	Enkeltsidet				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	Newsletter + 11				0	de	Einseitig				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 11				13691	dz	ཟུར་གཅིགམ།				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 11				0	el	Μονής όψης				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 11				0	en-GB	Single-sided				2002-02-02 02:02:02
@@ -3670,6 +3718,7 @@ wizards	source\template\template.src	0	string	Newsletter + 12				13691	ca	Dues c
 wizards	source\template\template.src	0	string	Newsletter + 12				13691	cs	Oboustranný				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 12				13691	cy	Dwy ochr				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 12				13691	da	Dobbeltsidet				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	Newsletter + 12				0	de	Doppelseitig				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 12				13691	dz	ཟེར་གཉིསམ།				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 12				0	el	Διπλής όψης				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 12				0	en-GB	Double-sided				2002-02-02 02:02:02
@@ -3745,6 +3794,7 @@ wizards	source\template\template.src	0	string	Newsletter + 2				13691	ca	Disseny
 wizards	source\template\template.src	0	string	Newsletter + 2				13691	cs	Vzhled upomínkové publikace				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 2				13691	cy	Cynllun cyhoeddiad coffaol				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 2				13691	da	Festskrift				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	Newsletter + 2				0	de	Festschrift				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 2				13691	dz	རྗེས་དྲན་གྱི་པར་འགྲེམས་སྒྲིག་བཀོད།				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 2				0	el	Διάταξη δημοσίευσης υπενθύμισης				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 2				0	en-GB	Commemorative publication layout				2002-02-02 02:02:02
@@ -3819,6 +3869,7 @@ wizards	source\template\template.src	0	string	Newsletter + 3				13691	ca	Disseny
 wizards	source\template\template.src	0	string	Newsletter + 3				13691	cs	Vzhled brožury				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 3				13691	cy	Cynllun llyfryn				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 3				13691	da	Brochurelayout				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	Newsletter + 3				0	de	Prospekt Layout				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 3				13691	dz	དེབ་ཆུང་སྒྲིག་བཀོད།				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 3				0	el	Διάταξη φυλλαδίου				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 3				0	en-GB	Brochure layout				2002-02-02 02:02:02
@@ -3893,6 +3944,7 @@ wizards	source\template\template.src	0	string	SAMPLES				13691	ca	Per tal d'util
 wizards	source\template\template.src	0	string	SAMPLES				13691	cs	Abyste si mohli vyzkoušet plnou funkcionalitu této ukázky, musíte vytvořit dokument založený na této šabloně:				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	SAMPLES				13691	cy	Er mwyn defnyddio swyddogaeth lawn y sampl, rhaid creu dogfen yn seiliedig ar y templed hwn.				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	SAMPLES				13691	da	For at kunne udnytte dette eksempels fulde funktionsmuligheder skal der oprettes et nyt dokument på grundlag af denne skabelon.				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	SAMPLES				0	de	Damit die volle Funktionalität dieses Beispiels zur Verfügung steht, muss ein neues Dokument auf Basis dieser Vorlage erstellt werden.				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	SAMPLES				13691	dz	དཔེ་ཚད་འདི་གི་ལས་འགན་ཆ་ཚང་ལག་ལེན་འཐབ་ནིའི་དོན་ལུ་ ཊེམ་པེལེཊི་གུ་ལུ་གཞི་བཞག་ཡོད་པའི་ཡིག་ཆ་ཅིག་ གསར་བསྐྲུན་འབད།				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	SAMPLES				0	el	Για να μπορέσετε να χρησιμοποιήσετε όλες τις λειτουργίες αυτού του παραδείγματος θα πρέπει να δημιουργήσετε ένα νέο έγγραφο βασισμένο σε αυτό το πρότυπο.				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	SAMPLES				0	en-GB	In order to use the full functionality of this sample, create a document that is based on this template.				2002-02-02 02:02:02
@@ -3967,6 +4019,7 @@ wizards	source\template\template.src	0	string	SAMPLES + 1				13691	ca	Comentaris
 wizards	source\template\template.src	0	string	SAMPLES + 1				13691	cs	Rady				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	SAMPLES + 1				13691	cy	Sylwadau				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	SAMPLES + 1				13691	da	Bemærkninger				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	SAMPLES + 1				0	de	Hinweis				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	SAMPLES + 1				13691	dz	དྲན་གསོ།				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	SAMPLES + 1				0	el	Συμβουλή				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	SAMPLES + 1				0	en-GB	Remarks				2002-02-02 02:02:02
@@ -4042,6 +4095,7 @@ wizards	source\template\template.src	0	string	STYLES				13691	ca	Selecció de te
 wizards	source\template\template.src	0	string	STYLES				13691	cs	Výběr tématu				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	STYLES				13691	cy	Dewis Thema				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	STYLES				13691	da	Temaudvalg				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	STYLES				0	de	Themen-Auswahl				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	STYLES				13691	dz	བརྗོད་དོན་སེལ་འཐུ།				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	STYLES				0	el	Επιλογή θεμάτων				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	STYLES				0	en-GB	Theme Selection				2002-02-02 02:02:02
@@ -4117,6 +4171,7 @@ wizards	source\template\template.src	0	string	STYLES + 1				13691	ca	S'ha produ�
 wizards	source\template\template.src	0	string	STYLES + 1				13691	cs	Při ukládání dokumentu do schránky došlo k chybě. Následující akce nemůže být vrácena.				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	STYLES + 1				13691	cy	Gwall wrth gadw'r ddogfen i'r clipfwrdd! Nid oes modd dadwneud y weithred ganlynol.				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	STYLES + 1				13691	da	Fejl under forsøg på at gemme dokumentet i udklipsholderen! Den følgende handling kan ikke fortrydes.				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	STYLES + 1				0	de	Fehler beim Zwischenspeichern des aktuellen Dokumentes! Die folgende Aktion kann nicht rückgängig gemacht werden.				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	STYLES + 1				13691	dz	ཡིག་ཆ་འདི་འཛིན་པང་ལུ་སྲུང་པའི་བསྒང་ལུ་ འཛོལ་བ་! འོག་གི་བྱ་བ་འདི་འབད་བཤོལ་ མི་བཏུབ་པས།				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	STYLES + 1				0	el	Σφάλμα κατά την προσωρινή αποθήκευση του τρέχοντος εγγράφου! Δεν είναι δυνατή η αναίρεση της ακόλουθης ενέργειας.				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	STYLES + 1				0	en-GB	Error while saving the document to the clipboard! The following action cannot be undone.				2002-02-02 02:02:02
@@ -4191,6 +4246,7 @@ wizards	source\template\template.src	0	string	STYLES + 2				13691	ca	~Cancel·la
 wizards	source\template\template.src	0	string	STYLES + 2				13691	cs	Zrušit				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	STYLES + 2				13691	cy	~Diddymu				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	STYLES + 2				13691	da	~Annuller				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	STYLES + 2				0	de	~Abbrechen				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	STYLES + 2				13691	dz	ཆ་མེད་གཏང་།(~C)				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	STYLES + 2				0	el	~Άκυρο				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	STYLES + 2				0	en-GB	~Cancel				2002-02-02 02:02:02
@@ -4267,6 +4323,7 @@ wizards	source\template\template.src	0	string	STYLES + 3				13691	ca	~D'acord			
 wizards	source\template\template.src	0	string	STYLES + 3				13691	cs	OK				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	STYLES + 3				13691	cy	~Iawn				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	STYLES + 3				13691	da	~OK				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	STYLES + 3				0	de	~OK				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	STYLES + 3				13691	dz	བཏུབ།(~O)				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	STYLES + 3				0	el	~OK				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	STYLES + 3				0	en-GB	~OK				2002-02-02 02:02:02
@@ -4342,6 +4399,7 @@ wizards	source\template\template.src	0	string	TextField				13691	ca	No s'ha defi
 wizards	source\template\template.src	0	string	TextField				13691	cs	Pole s daty uživatele není definováno!				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	TextField				13691	cy	Heb ddiffinio maes data defnyddiwr!				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	TextField				13691	da	Brugerdatafeltet er ikke defineret!				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	TextField				0	de	Benutzerdatenfeld ist nicht definiert!				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	TextField				13691	dz	ལག་ལེན་པའི་གནད་སྡུད་ས་སྒོ་འདི་ ངེས་འཛིན་མ་འབད་བས་!				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	TextField				0	el	Δεν ορίστηκε το πεδίο των δεδομένων του χρήστη				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	TextField				0	en-GB	User data field is not defined!				2002-02-02 02:02:02
