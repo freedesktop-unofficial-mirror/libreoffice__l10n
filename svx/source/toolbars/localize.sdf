@@ -13,9 +13,9 @@
 #
 #   $RCSfile: localize.sdf,v $
 #
-#   $Revision: 1.22 $
+#   $Revision: 1.23 $
 #
-#   last change: $Author: vg $ $Date: 2007-02-02 17:17:35 $
+#   last change: $Author: ihi $ $Date: 2007-04-19 14:44:50 $
 #
 #   The Contents of this file are made available subject to
 #   the terms of GNU Lesser General Public License Version 2.1.
@@ -51,6 +51,7 @@ svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_BR
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_BRIGHTNESS				13691	cs	Změnit jas				2002-02-02 02:02:02
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_BRIGHTNESS				13691	cy	Newid Disgleirdeb				2002-02-02 02:02:02
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_BRIGHTNESS				13691	da	Skift lysstyrke				2002-02-02 02:02:02
+svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_BRIGHTNESS				0	de	Helligkeit ändern				2002-02-02 02:02:02
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_BRIGHTNESS				13691	dz	དཀར་མདངས་བསྒྱུར་བཅོས་འབད།				2002-02-02 02:02:02
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_BRIGHTNESS				0	el	Αλλαγή φωτεινότητας				2002-02-02 02:02:02
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_BRIGHTNESS				0	en-GB	Change Brightness				2002-02-02 02:02:02
@@ -123,6 +124,7 @@ svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_CO
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_COLOR				13691	cs	Změnit barvu povrchu 3D objektu				2002-02-02 02:02:02
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_COLOR				13691	cy	Newid Lliw Allwthiad				2002-02-02 02:02:02
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_COLOR				13691	da	Skift ekstruderingsfarve				2002-02-02 02:02:02
+svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_COLOR				0	de	Extrusionsfarbe wechseln				2002-02-02 02:02:02
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_COLOR				13691	dz	བཙིར་བཏོན་ཚོས་གཞི་བསྒྱུར་བཅོས་འབད།				2002-02-02 02:02:02
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_COLOR				0	el	Αλλαγή χρώματος εξώθησης				2002-02-02 02:02:02
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_COLOR				0	en-GB	Change Extrusion Colour				2002-02-02 02:02:02
@@ -195,6 +197,7 @@ svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_DE
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_DEPTH				13691	cs	Změnit hloubku 3D objektu				2002-02-02 02:02:02
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_DEPTH				13691	cy	Newid Dyfnder Allwthiad				2002-02-02 02:02:02
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_DEPTH				13691	da	Skift ekstruderingsdybde				2002-02-02 02:02:02
+svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_DEPTH				0	de	Extrusions Tiefe ändern				2002-02-02 02:02:02
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_DEPTH				13691	dz	བཙིར་བཏོན་གཏིང་ཚད་བསྒྱུར་བཅོས་འབད།				2002-02-02 02:02:02
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_DEPTH				0	el	Αλλαγή βάθους εξώθησης				2002-02-02 02:02:02
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_DEPTH				0	en-GB	Change Extrusion Depth				2002-02-02 02:02:02
@@ -267,6 +270,7 @@ svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_LI
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_LIGHTING				13691	cs	Změnit osvětlení				2002-02-02 02:02:02
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_LIGHTING				13691	cy	Newid Goleuo				2002-02-02 02:02:02
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_LIGHTING				13691	da	Skift belysning				2002-02-02 02:02:02
+svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_LIGHTING				0	de	Beläuchtung ändern				2002-02-02 02:02:02
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_LIGHTING				13691	dz	མེ་བཏེག་ནི་བསྒྱུར་བཅོས་འབད།				2002-02-02 02:02:02
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_LIGHTING				0	el	Αλλαγή φωτισμού				2002-02-02 02:02:02
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_LIGHTING				0	en-GB	Change Lighting				2002-02-02 02:02:02
@@ -340,6 +344,7 @@ svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_ON
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_ON_OFF				13691	cs	Zapnout/Vypnout 3D				2002-02-02 02:02:02
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_ON_OFF				13691	cy	Gosod Allwthiad Ymlaen/Diffodd 				2002-02-02 02:02:02
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_ON_OFF				13691	da	Anvend ekstrudering til/fra				2002-02-02 02:02:02
+svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_ON_OFF				0	de	Extrusion ein/aus anwenden				2002-02-02 02:02:02
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_ON_OFF				13691	dz	བཙིར་བཏོན་ ཨཱོན་/ཨོཕ་ འཇུག་སྤྱོད་འབད།				2002-02-02 02:02:02
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_ON_OFF				0	el	Εφαρμογή εξώθησης Ναι/Όχι				2002-02-02 02:02:02
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_ON_OFF				0	en-GB	Apply Extrusion On/Off				2002-02-02 02:02:02
@@ -412,6 +417,7 @@ svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_OR
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_ORIENTATION				13691	cs	Změnit orientaci				2002-02-02 02:02:02
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_ORIENTATION				13691	cy	Newid Cyfeiriadedd				2002-02-02 02:02:02
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_ORIENTATION				13691	da	Skift retning				2002-02-02 02:02:02
+svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_ORIENTATION				0	de	Richtung ändern				2002-02-02 02:02:02
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_ORIENTATION				13691	dz	ཕྱོགས་བསྒྱུར་བཅོས་འབད།				2002-02-02 02:02:02
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_ORIENTATION				0	el	Αλλαγή προσανατολισμού				2002-02-02 02:02:02
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_ORIENTATION				0	en-GB	Change Orientation				2002-02-02 02:02:02
@@ -484,6 +490,7 @@ svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_PR
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_PROJECTION				13691	cs	Změnit typ projekce				2002-02-02 02:02:02
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_PROJECTION				13691	cy	Newid Math o Dafluniad				2002-02-02 02:02:02
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_PROJECTION				13691	da	Skift projektionstype				2002-02-02 02:02:02
+svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_PROJECTION				0	de	Projektionsmodus wechseln				2002-02-02 02:02:02
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_PROJECTION				13691	dz	སྙན་འཆར་བཀོད་ནི་དབྱེ་བ་བསྒྱུར་བཅོས་འབད།				2002-02-02 02:02:02
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_PROJECTION				0	el	Αλλαγή τύπου προβολής				2002-02-02 02:02:02
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_PROJECTION				0	en-GB	Change Projection Type				2002-02-02 02:02:02
@@ -556,6 +563,7 @@ svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_RO
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_ROTATE_DOWN				13691	cs	Naklonit dolů				2002-02-02 02:02:02
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_ROTATE_DOWN				13691	cy	Gogwyddo i Lawr				2002-02-02 02:02:02
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_ROTATE_DOWN				13691	da	Tilt nedad				2002-02-02 02:02:02
+svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_ROTATE_DOWN				0	de	Nach unten kippen				2002-02-02 02:02:02
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_ROTATE_DOWN				13691	dz	མར་གཡོ་				2002-02-02 02:02:02
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_ROTATE_DOWN				0	el	Απομάκρυνση με κίνηση προς τα κάτω				2002-02-02 02:02:02
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_ROTATE_DOWN				0	en-GB	Tilt Down				2002-02-02 02:02:02
@@ -629,6 +637,7 @@ svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_RO
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_ROTATE_LEFT				13691	cs	Naklonit doleva				2002-02-02 02:02:02
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_ROTATE_LEFT				13691	cy	Gogwyddo i'r Chwith				2002-02-02 02:02:02
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_ROTATE_LEFT				13691	da	Tilt til venstre				2002-02-02 02:02:02
+svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_ROTATE_LEFT				0	de	Nach links kippen				2002-02-02 02:02:02
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_ROTATE_LEFT				13691	dz	གཡོན་ལུ་གཡོ་				2002-02-02 02:02:02
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_ROTATE_LEFT				0	el	Απομάκρυνση με κίνηση προς τα αριστερά				2002-02-02 02:02:02
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_ROTATE_LEFT				0	en-GB	Tilt Left				2002-02-02 02:02:02
@@ -702,6 +711,7 @@ svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_RO
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_ROTATE_RIGHT				13691	cs	Naklonit doprava				2002-02-02 02:02:02
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_ROTATE_RIGHT				13691	cy	Gogwyddo i'r Dde				2002-02-02 02:02:02
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_ROTATE_RIGHT				13691	da	Tilt til højre				2002-02-02 02:02:02
+svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_ROTATE_RIGHT				0	de	Nach rechts kippen				2002-02-02 02:02:02
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_ROTATE_RIGHT				13691	dz	གཡས་ལུ་གཡོ་				2002-02-02 02:02:02
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_ROTATE_RIGHT				0	el	Απομάκρυνση με κίνηση προς τα δεξιά				2002-02-02 02:02:02
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_ROTATE_RIGHT				0	en-GB	Tilt Right				2002-02-02 02:02:02
@@ -775,6 +785,7 @@ svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_RO
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_ROTATE_UP				13691	cs	Naklonit nahoru				2002-02-02 02:02:02
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_ROTATE_UP				13691	cy	Gogwyddo i Fyny				2002-02-02 02:02:02
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_ROTATE_UP				13691	da	Tilt opad				2002-02-02 02:02:02
+svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_ROTATE_UP				0	de	Nach oben kippen				2002-02-02 02:02:02
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_ROTATE_UP				13691	dz	ཡར་གཡོ་				2002-02-02 02:02:02
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_ROTATE_UP				0	el	Απομάκρυνση με κίνηση προς τα πάνω				2002-02-02 02:02:02
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_ROTATE_UP				0	en-GB	Tilt Up				2002-02-02 02:02:02
@@ -848,6 +859,7 @@ svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_SU
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_SURFACE				13691	cs	Změnit povrch 3D objektu				2002-02-02 02:02:02
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_SURFACE				13691	cy	Newid Gwyneb Allwthiad				2002-02-02 02:02:02
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_SURFACE				13691	da	Skift ekstruderingsoverflade				2002-02-02 02:02:02
+svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_SURFACE				0	de	Oberfläche ändern				2002-02-02 02:02:02
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_SURFACE				13691	dz	ཕྱི་ངོས་བཙིར་བཏོན་བསྒྱུར་བཅོས་འབད།				2002-02-02 02:02:02
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_SURFACE				0	el	Αλλαγή επιφάνειας εξώθησης				2002-02-02 02:02:02
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVXSTR_UNDO_APPLY_EXTRUSION_SURFACE				0	en-GB	Change Extrusion Surface				2002-02-02 02:02:02
@@ -920,6 +932,7 @@ svx	source\toolbars\extrusionbar.src	0	string	RID_SVX_EXTRUSION_BAR				13691	ca	
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVX_EXTRUSION_BAR				13691	cs	3D				2002-02-02 02:02:02
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVX_EXTRUSION_BAR				13691	cy	Allwthiad				2002-02-02 02:02:02
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVX_EXTRUSION_BAR				13691	da	Ekstrudering				2002-02-02 02:02:02
+svx	source\toolbars\extrusionbar.src	0	string	RID_SVX_EXTRUSION_BAR				0	de	Extrusion				2002-02-02 02:02:02
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVX_EXTRUSION_BAR				13691	dz	བཙིར་བཏོན།				2002-02-02 02:02:02
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVX_EXTRUSION_BAR				0	el	Εξώθηση				2002-02-02 02:02:02
 svx	source\toolbars\extrusionbar.src	0	string	RID_SVX_EXTRUSION_BAR				0	en-GB	Extrusion				2002-02-02 02:02:02
@@ -993,6 +1006,7 @@ svx	source\toolbars\fontworkbar.src	0	string	RID_SVXSTR_UNDO_APPLY_FONTWORK_ALIG
 svx	source\toolbars\fontworkbar.src	0	string	RID_SVXSTR_UNDO_APPLY_FONTWORK_ALIGNMENT				13691	cs	Nastavit zarovnání písmomalby				2002-02-02 02:02:02
 svx	source\toolbars\fontworkbar.src	0	string	RID_SVXSTR_UNDO_APPLY_FONTWORK_ALIGNMENT				13691	cy	Gosod Aliniad Fontwork				2002-02-02 02:02:02
 svx	source\toolbars\fontworkbar.src	0	string	RID_SVXSTR_UNDO_APPLY_FONTWORK_ALIGNMENT				13691	da	Anvend Fontwork-justering				2002-02-02 02:02:02
+svx	source\toolbars\fontworkbar.src	0	string	RID_SVXSTR_UNDO_APPLY_FONTWORK_ALIGNMENT				0	de	Fontwork-Ausrichtung anwenden				2002-02-02 02:02:02
 svx	source\toolbars\fontworkbar.src	0	string	RID_SVXSTR_UNDO_APPLY_FONTWORK_ALIGNMENT				13691	dz	ཡིག་གཟུགས་ལཱ་གི་ཕྲང་སྒྲིག་འཇུག་སྤྱོད་འབད།				2002-02-02 02:02:02
 svx	source\toolbars\fontworkbar.src	0	string	RID_SVXSTR_UNDO_APPLY_FONTWORK_ALIGNMENT				0	el	Εφαρμογή στοίχισης Fontwork 				2002-02-02 02:02:02
 svx	source\toolbars\fontworkbar.src	0	string	RID_SVXSTR_UNDO_APPLY_FONTWORK_ALIGNMENT				0	en-GB	Apply Fontwork Alignment				2002-02-02 02:02:02
@@ -1065,6 +1079,7 @@ svx	source\toolbars\fontworkbar.src	0	string	RID_SVXSTR_UNDO_APPLY_FONTWORK_CHAR
 svx	source\toolbars\fontworkbar.src	0	string	RID_SVXSTR_UNDO_APPLY_FONTWORK_CHARACTER_SPACING				13691	cs	Nastavit mezery mezi znaky u písmomalby				2002-02-02 02:02:02
 svx	source\toolbars\fontworkbar.src	0	string	RID_SVXSTR_UNDO_APPLY_FONTWORK_CHARACTER_SPACING				13691	cy	Gosod Bylchu Nod Fontwork				2002-02-02 02:02:02
 svx	source\toolbars\fontworkbar.src	0	string	RID_SVXSTR_UNDO_APPLY_FONTWORK_CHARACTER_SPACING				13691	da	Anvend Fontwork-tegnafstand				2002-02-02 02:02:02
+svx	source\toolbars\fontworkbar.src	0	string	RID_SVXSTR_UNDO_APPLY_FONTWORK_CHARACTER_SPACING				0	de	Fontwork-Zeichenabstand anwenden				2002-02-02 02:02:02
 svx	source\toolbars\fontworkbar.src	0	string	RID_SVXSTR_UNDO_APPLY_FONTWORK_CHARACTER_SPACING				13691	dz	ཡིག་གཟུགས་ལཱ་གི་ཡིག་འབྲུའི་བར་སྟོང་བཞག་ཐངས་འཇུག་སྤྱོད་འབད།				2002-02-02 02:02:02
 svx	source\toolbars\fontworkbar.src	0	string	RID_SVXSTR_UNDO_APPLY_FONTWORK_CHARACTER_SPACING				0	el	Εφαρμογή απόστασης χαρακτήρων Fontwork 				2002-02-02 02:02:02
 svx	source\toolbars\fontworkbar.src	0	string	RID_SVXSTR_UNDO_APPLY_FONTWORK_CHARACTER_SPACING				0	en-GB	Apply Fontwork Character Spacing				2002-02-02 02:02:02
@@ -1137,6 +1152,7 @@ svx	source\toolbars\fontworkbar.src	0	string	RID_SVXSTR_UNDO_APPLY_FONTWORK_SAME
 svx	source\toolbars\fontworkbar.src	0	string	RID_SVXSTR_UNDO_APPLY_FONTWORK_SAME_LETTER_HEIGHT				13691	cs	Nastavit stejnou velikost písmen u písmomalby				2002-02-02 02:02:02
 svx	source\toolbars\fontworkbar.src	0	string	RID_SVXSTR_UNDO_APPLY_FONTWORK_SAME_LETTER_HEIGHT				13691	cy	Gosod Llythrennau Fontwork yr Un Uchder				2002-02-02 02:02:02
 svx	source\toolbars\fontworkbar.src	0	string	RID_SVXSTR_UNDO_APPLY_FONTWORK_SAME_LETTER_HEIGHT				13691	da	Anvend ens bogstavshøjde i Fontwork				2002-02-02 02:02:02
+svx	source\toolbars\fontworkbar.src	0	string	RID_SVXSTR_UNDO_APPLY_FONTWORK_SAME_LETTER_HEIGHT				0	de	Fontwork-Buchstaben mit gleicher Höhe anwenden				2002-02-02 02:02:02
 svx	source\toolbars\fontworkbar.src	0	string	RID_SVXSTR_UNDO_APPLY_FONTWORK_SAME_LETTER_HEIGHT				13691	dz	ཡིག་གཟུགས་ལཱ་གི་མིང་ཚིག་མཐོ་ཚད་ཚུ་གཅིག་པ་འཇུག་སྤྱོད་འབད།				2002-02-02 02:02:02
 svx	source\toolbars\fontworkbar.src	0	string	RID_SVXSTR_UNDO_APPLY_FONTWORK_SAME_LETTER_HEIGHT				0	el	Εφαρμογή ίδιου ύψους γραμμάτων για Fontwork 				2002-02-02 02:02:02
 svx	source\toolbars\fontworkbar.src	0	string	RID_SVXSTR_UNDO_APPLY_FONTWORK_SAME_LETTER_HEIGHT				0	en-GB	Apply Fontwork Same Letter Heights				2002-02-02 02:02:02
@@ -1209,6 +1225,7 @@ svx	source\toolbars\fontworkbar.src	0	string	RID_SVXSTR_UNDO_APPLY_FONTWORK_SHAP
 svx	source\toolbars\fontworkbar.src	0	string	RID_SVXSTR_UNDO_APPLY_FONTWORK_SHAPE				13691	cs	Nastavit tvar písmomalby				2002-02-02 02:02:02
 svx	source\toolbars\fontworkbar.src	0	string	RID_SVXSTR_UNDO_APPLY_FONTWORK_SHAPE				13691	cy	Gosod Siâp Fontwork				2002-02-02 02:02:02
 svx	source\toolbars\fontworkbar.src	0	string	RID_SVXSTR_UNDO_APPLY_FONTWORK_SHAPE				13691	da	Anvend Fontwork-figur				2002-02-02 02:02:02
+svx	source\toolbars\fontworkbar.src	0	string	RID_SVXSTR_UNDO_APPLY_FONTWORK_SHAPE				0	de	Fontwork-Form anwenden				2002-02-02 02:02:02
 svx	source\toolbars\fontworkbar.src	0	string	RID_SVXSTR_UNDO_APPLY_FONTWORK_SHAPE				13691	dz	ཡིག་གཟུགས་ལཱ་གི་དབྱིབས་འཇུག་སྤྱོད་འབད།				2002-02-02 02:02:02
 svx	source\toolbars\fontworkbar.src	0	string	RID_SVXSTR_UNDO_APPLY_FONTWORK_SHAPE				0	el	Εφαρμογή FontWork				2002-02-02 02:02:02
 svx	source\toolbars\fontworkbar.src	0	string	RID_SVXSTR_UNDO_APPLY_FONTWORK_SHAPE				0	en-GB	Apply Fontwork Shape				2002-02-02 02:02:02
@@ -1281,6 +1298,7 @@ svx	source\toolbars\fontworkbar.src	0	string	RID_SVX_FONTWORK_BAR				13691	ca	Fo
 svx	source\toolbars\fontworkbar.src	0	string	RID_SVX_FONTWORK_BAR				13691	cs	Písmomalba				2002-02-02 02:02:02
 svx	source\toolbars\fontworkbar.src	0	string	RID_SVX_FONTWORK_BAR				13691	cy	Fontwork				2002-02-02 02:02:02
 svx	source\toolbars\fontworkbar.src	0	string	RID_SVX_FONTWORK_BAR				13691	da	Fontwork				2002-02-02 02:02:02
+svx	source\toolbars\fontworkbar.src	0	string	RID_SVX_FONTWORK_BAR				0	de	Fontwork				2002-02-02 02:02:02
 svx	source\toolbars\fontworkbar.src	0	string	RID_SVX_FONTWORK_BAR				13691	dz	ཡིག་གཟུགས་ལཱ།				2002-02-02 02:02:02
 svx	source\toolbars\fontworkbar.src	0	string	RID_SVX_FONTWORK_BAR				0	el	Fontwork				2002-02-02 02:02:02
 svx	source\toolbars\fontworkbar.src	0	string	RID_SVX_FONTWORK_BAR				0	en-GB	Fontwork				2002-02-02 02:02:02
