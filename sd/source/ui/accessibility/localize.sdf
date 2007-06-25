@@ -13,9 +13,9 @@
 #
 #   $RCSfile: localize.sdf,v $
 #
-#   $Revision: 1.23 $
+#   $Revision: 1.24 $
 #
-#   last change: $Author: ihi $ $Date: 2007-04-19 12:14:07 $
+#   last change: $Author: vg $ $Date: 2007-06-25 14:39:03 $
 #
 #   The Contents of this file are made available subject to
 #   the terms of GNU Lesser General Public License Version 2.1.
@@ -41,7 +41,7 @@
 #     MA  02111-1307  USA
 #
 #*************************************************************************
-sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_D_DRAWVIEW_D				0	af	Dit is waar jy tekeninge skep en redigeer.				2002-02-02 02:02:02
+sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_D_DRAWVIEW_D				1	af	Dit is waar jy tekeninge skep en redigeer.				2002-02-02 02:02:02
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_D_DRAWVIEW_D				0	ar	This is where you create and edit drawings.				20040507 14:24:14
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_D_DRAWVIEW_D				0	as-IN	এইখিনিতেই আপুনি ড্ৰয়িংবোৰ সৃষ্টি আৰু সম্পাদনা কৰে.				2002-02-02 02:02:02
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_D_DRAWVIEW_D				13691	be-BY	Тут вы можаце ствараць і правіць рысункі.				2002-02-02 02:02:02
@@ -118,7 +118,7 @@ sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_D_DRAWVIEW_D		
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_D_DRAWVIEW_D				0	zh-CN	在这里您能够创建和编辑绘图。				2002-02-02 02:02:02
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_D_DRAWVIEW_D				0	zh-TW	在此您能夠新增和編輯繪圖文件。				2002-02-02 02:02:02
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_D_DRAWVIEW_D				0	zu	La ilapho odala khona futhi ulungise imidwebo.				2002-02-02 02:02:02
-sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_D_DRAWVIEW_N				0	af	Tekenaansig				2002-02-02 02:02:02
+sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_D_DRAWVIEW_N				1	af	Tekenaansig				2002-02-02 02:02:02
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_D_DRAWVIEW_N				0	ar	عرض الرسم				20040507 14:24:14
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_D_DRAWVIEW_N				0	as-IN	ড্ৰয়িং দৃশ্য				2002-02-02 02:02:02
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_D_DRAWVIEW_N				13691	be-BY	Пагляд на рысункі				2002-02-02 02:02:02
@@ -194,7 +194,7 @@ sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_D_DRAWVIEW_N		
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_D_DRAWVIEW_N				0	zh-CN	绘图视图				2002-02-02 02:02:02
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_D_DRAWVIEW_N				0	zh-TW	繪圖預覽				2002-02-02 02:02:02
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_D_DRAWVIEW_N				0	zu	Umbukiso Wokudweba				2002-02-02 02:02:02
-sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_DRAWVIEW_D				0	af	Dit is waar jy skyfies skep en redigeer.				2002-02-02 02:02:02
+sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_DRAWVIEW_D				1	af	Dit is waar jy skyfies skep en redigeer.				2002-02-02 02:02:02
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_DRAWVIEW_D				0	ar	This is where you create and edit slides.				20040507 14:24:14
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_DRAWVIEW_D				0	as-IN	এইখিনিতেই আপুনি শ্লাইডবোৰ সৃষ্টি আৰু সম্পাদনা কৰে.				2002-02-02 02:02:02
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_DRAWVIEW_D				13691	be-BY	Тут вы можаце ствараць і правіць слайды.				2002-02-02 02:02:02
@@ -271,7 +271,7 @@ sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_DRAWVIEW_D		
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_DRAWVIEW_D				0	zh-CN	在这里您能够创建和编辑幻灯片。				2002-02-02 02:02:02
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_DRAWVIEW_D				0	zh-TW	在此您能夠新增和編輯投影片。				2002-02-02 02:02:02
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_DRAWVIEW_D				0	zu	La ilapho odala khona futhi ulungise izithombe eziyizicaba.				2002-02-02 02:02:02
-sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_DRAWVIEW_N				0	af	Tekenaansig				2002-02-02 02:02:02
+sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_DRAWVIEW_N				1	af	Tekenaansig				2002-02-02 02:02:02
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_DRAWVIEW_N				0	ar	عرض الرسم				20040507 14:24:14
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_DRAWVIEW_N				0	as-IN	ড্ৰয়িং দৃশ্য				2002-02-02 02:02:02
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_DRAWVIEW_N				13691	be-BY	Пагляд на рысункі				2002-02-02 02:02:02
@@ -347,7 +347,7 @@ sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_DRAWVIEW_N		
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_DRAWVIEW_N				0	zh-CN	绘图视图				2002-02-02 02:02:02
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_DRAWVIEW_N				0	zh-TW	繪圖預覽				2002-02-02 02:02:02
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_DRAWVIEW_N				0	zu	Umbukiso Wokudweba				2002-02-02 02:02:02
-sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_HANDOUTVIEW_D				0	af	Dit is waar jy besluit oor die uitleg van uitdeelstukke.				2002-02-02 02:02:02
+sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_HANDOUTVIEW_D				1	af	Dit is waar jy besluit oor die uitleg van uitdeelstukke.				2002-02-02 02:02:02
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_HANDOUTVIEW_D				0	ar	This is where you decide on the layout for handouts.				20040507 14:24:14
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_HANDOUTVIEW_D				0	as-IN	এইখিনিতেই আপুনি হেণ্ডআউটৰ কাৰণে খচৰাৰ ওপৰত সিদ্ধান্ত লয়.				2002-02-02 02:02:02
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_HANDOUTVIEW_D				13691	be-BY	Тут вы можаце выбіраць выгляд раздаткаў.				2002-02-02 02:02:02
@@ -423,7 +423,7 @@ sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_HANDOUTVIEW_
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_HANDOUTVIEW_D				0	zh-CN	在这里您能够编辑讲义的版式。				2002-02-02 02:02:02
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_HANDOUTVIEW_D				0	zh-TW	在此您能夠編輯講義的版式。				2002-02-02 02:02:02
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_HANDOUTVIEW_D				0	zu	La ilapho ocabanga khona isakhiwo somphumela wangaphandle wolwazi.				2002-02-02 02:02:02
-sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_HANDOUTVIEW_N				0	af	Uitdeelstuk-aansig				2002-02-02 02:02:02
+sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_HANDOUTVIEW_N				1	af	Uitdeelstuk-aansig				2002-02-02 02:02:02
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_HANDOUTVIEW_N				0	ar	عرض النشرة				20040507 14:24:14
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_HANDOUTVIEW_N				0	as-IN	এইখিনিতেই দৃশ্য				2002-02-02 02:02:02
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_HANDOUTVIEW_N				13691	be-BY	Пагляд на раздаткі				2002-02-02 02:02:02
@@ -499,7 +499,7 @@ sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_HANDOUTVIEW_
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_HANDOUTVIEW_N				0	zh-CN	讲义视图				2002-02-02 02:02:02
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_HANDOUTVIEW_N				0	zh-TW	講義預覽				2002-02-02 02:02:02
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_HANDOUTVIEW_N				0	zu	Umbukiso Wokuphiwa				2002-02-02 02:02:02
-sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_NOTESVIEW_D				0	af	Dit is waar jy aantekeninge intik en redigeer.				2002-02-02 02:02:02
+sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_NOTESVIEW_D				1	af	Dit is waar jy aantekeninge intik en redigeer.				2002-02-02 02:02:02
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_NOTESVIEW_D				0	ar	This is where you enter and view notes.				20040507 14:24:14
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_NOTESVIEW_D				0	as-IN	এইখিনিতেই আপুনি টিপ্পনীবোৰ ভৰায় আৰু দৰ্শন কৰে.				2002-02-02 02:02:02
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_NOTESVIEW_D				13691	be-BY	Тут вы можаце ўводзіць і праглядаць нататкі.				2002-02-02 02:02:02
@@ -576,7 +576,7 @@ sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_NOTESVIEW_D	
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_NOTESVIEW_D				0	zh-CN	在这里您能够输入和查看批注。				2002-02-02 02:02:02
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_NOTESVIEW_D				0	zh-TW	在此您能夠輸入和編輯備註。				2002-02-02 02:02:02
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_NOTESVIEW_D				0	zu	La ilapho ocabanga khona isakhiwo somphumela wangaphandle wolwazi.				2002-02-02 02:02:02
-sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_NOTESVIEW_N				0	af	Aantekening-aansig				2002-02-02 02:02:02
+sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_NOTESVIEW_N				1	af	Aantekening-aansig				2002-02-02 02:02:02
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_NOTESVIEW_N				0	ar	عرض الملاحظات				20040507 14:24:14
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_NOTESVIEW_N				0	as-IN	টিপ্পনী দৃশ্য				2002-02-02 02:02:02
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_NOTESVIEW_N				13691	be-BY	Пагляд на нататкі				2002-02-02 02:02:02
@@ -653,7 +653,7 @@ sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_NOTESVIEW_N	
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_NOTESVIEW_N				0	zh-CN	批注视图				2002-02-02 02:02:02
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_NOTESVIEW_N				0	zh-TW	備註預覽				2002-02-02 02:02:02
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_NOTESVIEW_N				0	zu	Amapheshana Ombukiso				2002-02-02 02:02:02
-sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_OUTLINEVIEW_D				0	af	Dit is waar jy teks in lysvorm intik of redigeer.				2002-02-02 02:02:02
+sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_OUTLINEVIEW_D				1	af	Dit is waar jy teks in lysvorm intik of redigeer.				2002-02-02 02:02:02
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_OUTLINEVIEW_D				0	ar	This is where you enter or edit text in list form.				20040507 14:24:14
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_OUTLINEVIEW_D				0	as-IN	এইটোৱেই য'ত আপুনি টেক্সট তালিকাৰ ৰূপত ভৰায় বা সম্পাদনা কৰে. 				2002-02-02 02:02:02
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_OUTLINEVIEW_D				13691	be-BY	Тут вы можаце ўводзіць або правіць тэкст у форме спісу.				2002-02-02 02:02:02
@@ -730,7 +730,7 @@ sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_OUTLINEVIEW_
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_OUTLINEVIEW_D				0	zh-CN	在这里您能够在列表框中输入和编辑文字。				2002-02-02 02:02:02
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_OUTLINEVIEW_D				0	zh-TW	在此您能夠在大綱預覽之中輸入和編輯文字。				2002-02-02 02:02:02
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_OUTLINEVIEW_D				0	zu	La ilapho ocabanga khona isakhiwo somphumela wangaphandle wolwazi.				2002-02-02 02:02:02
-sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_OUTLINEVIEW_N				0	af	Skema-aansig				2002-02-02 02:02:02
+sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_OUTLINEVIEW_N				1	af	Skema-aansig				2002-02-02 02:02:02
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_OUTLINEVIEW_N				0	ar	عرض التقسيم				20040507 14:24:14
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_OUTLINEVIEW_N				0	as-IN	ৰূপৰেখা দৃশ্য				2002-02-02 02:02:02
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_OUTLINEVIEW_N				13691	be-BY	Пагляд на структуру				2002-02-02 02:02:02
@@ -807,7 +807,7 @@ sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_OUTLINEVIEW_
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_OUTLINEVIEW_N				0	zh-CN	大纲视图				2002-02-02 02:02:02
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_OUTLINEVIEW_N				0	zh-TW	大綱預覽				2002-02-02 02:02:02
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_OUTLINEVIEW_N				0	zu	Umbukiso Wokwelekayo				2002-02-02 02:02:02
-sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_SLIDEVIEW_D				0	af	Dit is waar jy skyfies sorteer.				2002-02-02 02:02:02
+sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_SLIDEVIEW_D				1	af	Dit is waar jy skyfies sorteer.				2002-02-02 02:02:02
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_SLIDEVIEW_D				0	ar	This is where you sort slides.				20040507 14:24:14
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_SLIDEVIEW_D				0	as-IN	এইখিনিতেই আপুনি শ্লাইডবোৰৰ বৰ্গীকৰণ কৰে.				2002-02-02 02:02:02
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_SLIDEVIEW_D				13691	be-BY	Тут вы можаце парадкаваць слайды.				2002-02-02 02:02:02
@@ -884,7 +884,7 @@ sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_SLIDEVIEW_D	
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_SLIDEVIEW_D				0	zh-CN	在这里您能够对幻灯片排序。				2002-02-02 02:02:02
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_SLIDEVIEW_D				0	zh-TW	在此您能夠排序頁面。				2002-02-02 02:02:02
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_SLIDEVIEW_D				0	zu	La ila ohlela khona izithombe eziyizicaba.				2002-02-02 02:02:02
-sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_SLIDEVIEW_N				0	af	Skyfiesaansig				2002-02-02 02:02:02
+sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_SLIDEVIEW_N				1	af	Skyfiesaansig				2002-02-02 02:02:02
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_SLIDEVIEW_N				0	ar	عرض الشرائح				20040507 14:24:14
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_SLIDEVIEW_N				0	as-IN	শ্লাইডবোৰৰ দৰ্শন				2002-02-02 02:02:02
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_SLIDEVIEW_N				13691	be-BY	Пагляд на слайды				2002-02-02 02:02:02
