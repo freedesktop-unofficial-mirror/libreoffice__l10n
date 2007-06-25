@@ -13,9 +13,9 @@
 #
 #   $RCSfile: localize.sdf,v $
 #
-#   $Revision: 1.29 $
+#   $Revision: 1.30 $
 #
-#   last change: $Author: ihi $ $Date: 2007-04-19 12:01:33 $
+#   last change: $Author: vg $ $Date: 2007-06-25 11:37:07 $
 #
 #   The Contents of this file are made available subject to
 #   the terms of GNU Lesser General Public License Version 2.1.
@@ -506,7 +506,7 @@ uui	source\cookiedg.src	0	radiobutton	DLG_COOKIES	RB_INFUTURE_SEND			52	xh	~Thum
 uui	source\cookiedg.src	0	radiobutton	DLG_COOKIES	RB_INFUTURE_SEND			52	zh-CN	发送(~S)				2002-02-02 02:02:02
 uui	source\cookiedg.src	0	radiobutton	DLG_COOKIES	RB_INFUTURE_SEND			52	zh-TW	接受(~S)				2002-02-02 02:02:02
 uui	source\cookiedg.src	0	radiobutton	DLG_COOKIES	RB_INFUTURE_SEND			52	zu	~Thumela				2002-02-02 02:02:02
-uui	source\cookiedg.src	0	string	STR_COOKIES_RECV_COOKIES				0	af	Domein: ${DOMAIN}, Pad: ${PATH}, Koekie: ${COOKIE}.\n				2002-02-02 02:02:02
+uui	source\cookiedg.src	0	string	STR_COOKIES_RECV_COOKIES				295	af	Domein: ${DOMAIN}, Pad: ${PATH}, Koekie: ${COOKIE}.\n				2002-02-02 02:02:02
 uui	source\cookiedg.src	0	string	STR_COOKIES_RECV_COOKIES				0	ar	النطاق: ${DOMAIN}, المسار: ${PATH}, الكوكي: ${COOKIE}.\n				20040507 14:27:11
 uui	source\cookiedg.src	0	string	STR_COOKIES_RECV_COOKIES				295	be-BY	Дамен: ${DOMAIN}, Сцежка: ${PATH}, Квіток: ${COOKIE}.\n				2002-02-02 02:02:02
 uui	source\cookiedg.src	0	string	STR_COOKIES_RECV_COOKIES				0	bg	Домен: ${DOMAIN}, Път: ${PATH}, Бисквитки: ${COOKIE}.\n				2002-02-02 02:02:02
@@ -580,7 +580,7 @@ uui	source\cookiedg.src	0	string	STR_COOKIES_RECV_COOKIES				0	xh	Ummandla: ${DO
 uui	source\cookiedg.src	0	string	STR_COOKIES_RECV_COOKIES				0	zh-CN	域：${DOMAIN}， 路径：${PATH}，Cookie：${COOKIE}。\n				2002-02-02 02:02:02
 uui	source\cookiedg.src	0	string	STR_COOKIES_RECV_COOKIES				0	zh-TW	領域：${DOMAIN}，路徑：${PATH}, Cookie：${COOKIE}。\n				2002-02-02 02:02:02
 uui	source\cookiedg.src	0	string	STR_COOKIES_RECV_COOKIES				0	zu	IDomeyni : ${DOMAIN}, Indlela: ${PATH}, Ikuki: ${COOKIE}.\n				2002-02-02 02:02:02
-uui	source\cookiedg.src	0	string	STR_COOKIES_RECV_START				0	af	Die '${HOST}'-bediener wil een of meer koekies stel.\nKoekies bevat inligting wat na sekere URL-klasse verwys. Indien %PRODUCTNAME later 'n dokument versoek met 'n URL wat met die klas van 'n voorheen gestelde koekie ooreenstem, sal %PRODUCTNAME hierdie inligting aan die bediener stuur. Dit stel die bediener in staat om die status van die WWW-toepassing te herken, byvoorbeeld wanneer 'n mens aanlyn inkopies doen.\n\nDie volgende koekies moet gestel word:\n\n				2002-02-02 02:02:02
+uui	source\cookiedg.src	0	string	STR_COOKIES_RECV_START				295	af	Die '${HOST}'-bediener wil een of meer koekies stel.\nKoekies bevat inligting wat na sekere URL-klasse verwys. Indien %PRODUCTNAME later 'n dokument versoek met 'n URL wat met die klas van 'n voorheen gestelde koekie ooreenstem, sal %PRODUCTNAME hierdie inligting aan die bediener stuur. Dit stel die bediener in staat om die status van die WWW-toepassing te herken, byvoorbeeld wanneer 'n mens aanlyn inkopies doen.\n\nDie volgende koekies moet gestel word:\n\n				2002-02-02 02:02:02
 uui	source\cookiedg.src	0	string	STR_COOKIES_RECV_START				0	ar	???? ?????? '${HOST}' ????? ???? ???? ?? ????.\n??????? (Cookies) ?? ??????? ???? ????? ????? ?? ???????? (URLs). ??? ??? %PRODUCTNAME ?????? ??????? ?????? ?????? ?? ??? ????? ?? ????????? ?? ??? ???? %PRODUCTNAME ?????? ??? ????????? ??? ??????. ???? ??????? ???? ???????? ????? ?????? ?? ????????? WWW (????? ????????? ???????? ?? ????? ?????? ????? ?????? ??? ????????).\n\n????? ????? ???????? ???????:\n\n				20040507 14:27:11
 uui	source\cookiedg.src	0	string	STR_COOKIES_RECV_START				0	as-IN	'${HOST}' ছাৰ্ভাৰটোৱে এটা বা বেছি কুকী ছেট কৰিবলৈ ইচ্ছা কৰে.\nকুকীজত  নিৰ্দিষ্ট URL শ্ৰেণীবোৰ প্ৰসংগ কৰা তথ্য আছে. যদি %PRODUCTNAMEএ পিছত আগতে ছেট কৰা কুকীৰ লগত সামঞ্জস্য থকা URLৰ সৈতে  ডকুমেন্ট অনুৰোধ কৰে,%PRODUCTNAMEএ এই তথ্যটো ছাৰ্ভাৰলৈ পথাই দিব. ই ছাৰ্ভাৰ এটাক %PRODUCTNAMEএ এই তথ্যটো সেই ছাৰ্ভাৰটোলৈ পথাব. ই ছাৰ্ভাৰ এটাক WWW প্ৰয়োগ এটাৰ স্থিতি চিনাক্ত কৰিবলৈ অনুমতি দিয়ে, উদাহৰণ স্বৰূপে, শ্বপিং অনলাইনৰ সময়ত.\n\nতলত দিয়া কুকীজ ছেট কৰিব লাগিব:\n\n				2002-02-02 02:02:02
 uui	source\cookiedg.src	0	string	STR_COOKIES_RECV_START				295	be-BY	Сервер '${HOST}' прапануе адзін або некалькі квіткоў.\nКвіткі ўтрымліваюць звесткі, якія спасылаюцца на пэўныя класы адрасаў (URL).  Калі %PRODUCTNAME атрымлівае дакумент, які, паводле URL, адпавядае класу ў адным з раней атрыманых квіткоў, %PRODUCTNAME адсылае гэтыя звесткі на гэты сервер. Такім чынам сервер улічвае стан рэчаў ў задачы WWW, напр., у час купляння ў Сеціве.\n\nБудуць запісаны наступныя квіткі:\n\n				2002-02-02 02:02:02
@@ -654,7 +654,7 @@ uui	source\cookiedg.src	0	string	STR_COOKIES_RECV_START				0	xh	Iseva ye-'${HOST
 uui	source\cookiedg.src	0	string	STR_COOKIES_RECV_START				0	zh-CN	'${HOST}' 服务器要设置一个或多个 Cookie。\nCookie 包含与特定 URL 类有关的信息。如果 %PRODUCTNAME 以后请求一个文档，该文档的 URL 对应于以前设置的某个 Cookie 的类，则 %PRODUCTNAME 将向服务器发送此信息。这样服务器就能够识别 WWW 应用程序的状态（如在线购物时）。\n\n应设置以下 Cookie：\n\n				2002-02-02 02:02:02
 uui	source\cookiedg.src	0	string	STR_COOKIES_RECV_START				0	zh-TW	'${HOST}' 伺服器希望設定一或多個 cookies。\nCookies 會包含參照特定 URL 類別的資訊。如果 %PRODUCTNAME 稍後要求包含 URL 的文件，且此 URL 須與先前設定的 Cookie 類別相對應，則 %PRODUCTNAME 會將此資訊傳送到伺服器。這可以讓伺服器辨識 WWW 應用程式的狀態，例如當您在線上購物時。\n\n應該要設定下列Cookie：\n\n				2002-02-02 02:02:02
 uui	source\cookiedg.src	0	string	STR_COOKIES_RECV_START				0	zu	Iseva i-'${HOST}' ifuna ukusetha amakukisi eyodwa noma engeziwe.\nAmakukisi anokwaziswa okubhekisela ezigabeni ezithile zama-URL. Uma i-%PRODUCTNAME kamuva ifuna ifayela eline-URL ehambisana nesigaba lekuki eyayisethiwe ngokwedlule, i-%PRODUCTNAME izothumela lokhu kwaziswa kuyiseva. Lokhu kwenza iseva ikwazi ukubona isimo esiluhlelo lwe-WWW ngokwesibonelo, lapho uthenga nge-intanethi.\n\nLamakuki alandelayo kufanele asethwe:\n\n				2002-02-02 02:02:02
-uui	source\cookiedg.src	0	string	STR_COOKIES_RECV_TITLE				0	af	Koekieontvangs				2002-02-02 02:02:02
+uui	source\cookiedg.src	0	string	STR_COOKIES_RECV_TITLE				295	af	Koekieontvangs				2002-02-02 02:02:02
 uui	source\cookiedg.src	0	string	STR_COOKIES_RECV_TITLE				0	ar	استقبال كوكي				20040507 14:27:11
 uui	source\cookiedg.src	0	string	STR_COOKIES_RECV_TITLE				0	as-IN	কুকী অভ্যৰ্থনা				2002-02-02 02:02:02
 uui	source\cookiedg.src	0	string	STR_COOKIES_RECV_TITLE				295	be-BY	Прыйманне квітка				2002-02-02 02:02:02
@@ -731,7 +731,7 @@ uui	source\cookiedg.src	0	string	STR_COOKIES_RECV_TITLE				0	xh	Ulwamkelo LweeNk
 uui	source\cookiedg.src	0	string	STR_COOKIES_RECV_TITLE				0	zh-CN	接受 Cookie				2002-02-02 02:02:02
 uui	source\cookiedg.src	0	string	STR_COOKIES_RECV_TITLE				0	zh-TW	接受 Cookie				2002-02-02 02:02:02
 uui	source\cookiedg.src	0	string	STR_COOKIES_RECV_TITLE				0	zu	Ukwamukelwa kwe-cookie				2002-02-02 02:02:02
-uui	source\cookiedg.src	0	string	STR_COOKIES_SEND_COOKIES				0	af	Domein: ${DOMAIN}, Pad: ${PATH}, Koekie: ${COOKIE}.\n				2002-02-02 02:02:02
+uui	source\cookiedg.src	0	string	STR_COOKIES_SEND_COOKIES				295	af	Domein: ${DOMAIN}, Pad: ${PATH}, Koekie: ${COOKIE}.\n				2002-02-02 02:02:02
 uui	source\cookiedg.src	0	string	STR_COOKIES_SEND_COOKIES				0	ar	النطاق: ${DOMAIN}, المسار: ${PATH}, الكوكي: ${COOKIE}.\n				20040507 14:27:11
 uui	source\cookiedg.src	0	string	STR_COOKIES_SEND_COOKIES				295	be-BY	Дамен: ${DOMAIN}, Сцежка: ${PATH}, Квіток: ${COOKIE}.\n				2002-02-02 02:02:02
 uui	source\cookiedg.src	0	string	STR_COOKIES_SEND_COOKIES				0	bg	Домен: ${DOMAIN}, Път: ${PATH}, Бисквитки: ${COOKIE}.\n				2002-02-02 02:02:02
@@ -805,7 +805,7 @@ uui	source\cookiedg.src	0	string	STR_COOKIES_SEND_COOKIES				0	xh	Ummandla: ${DO
 uui	source\cookiedg.src	0	string	STR_COOKIES_SEND_COOKIES				0	zh-CN	域：${DOMAIN}，路径：${PATH}，Cookie：${COOKIE}。\n				2002-02-02 02:02:02
 uui	source\cookiedg.src	0	string	STR_COOKIES_SEND_COOKIES				0	zh-TW	領域：${DOMAIN}，路徑：${PATH}，Cookie ：${COOKIE}。\n				2002-02-02 02:02:02
 uui	source\cookiedg.src	0	string	STR_COOKIES_SEND_COOKIES				0	zu	IDomeyni : ${DOMAIN}, Indlela: ${PATH}, Ikuki: ${COOKIE}.\n				2002-02-02 02:02:02
-uui	source\cookiedg.src	0	string	STR_COOKIES_SEND_START				0	af	%PRODUCTNAME het gestoorde koekies vir die bediener '${HOST}' wat gestuur sal word wanneer die dokument ${PATH} aangevra word.\nKoekies bevat inligting wat na sekere URL-klasse verwys. Hulle word deur sommige bedieners aan %PRODUCTNAME gestuur, waar hulle gestoor word wanneer sekere dokumente gelees word. Indien %PRODUCTNAME 'n dokument laai wat, volgens die URL met 'n klas van een van die voorheen ontvangde koekie ooreenstem, sal %PRODUCTNAME hierdie inligting aan die bediener stuur. Dit stel die bediener in staat om die status van die WWW-toepassing na te speur, byvoorbeeld wanneer 'n mens aanlyn inkopies doen.\n\nDie volgende koekies moet gestel word:\n\n				2002-02-02 02:02:02
+uui	source\cookiedg.src	0	string	STR_COOKIES_SEND_START				295	af	%PRODUCTNAME het gestoorde koekies vir die bediener '${HOST}' wat gestuur sal word wanneer die dokument ${PATH} aangevra word.\nKoekies bevat inligting wat na sekere URL-klasse verwys. Hulle word deur sommige bedieners aan %PRODUCTNAME gestuur, waar hulle gestoor word wanneer sekere dokumente gelees word. Indien %PRODUCTNAME 'n dokument laai wat, volgens die URL met 'n klas van een van die voorheen ontvangde koekie ooreenstem, sal %PRODUCTNAME hierdie inligting aan die bediener stuur. Dit stel die bediener in staat om die status van die WWW-toepassing na te speur, byvoorbeeld wanneer 'n mens aanlyn inkopies doen.\n\nDie volgende koekies moet gestel word:\n\n				2002-02-02 02:02:02
 uui	source\cookiedg.src	0	string	STR_COOKIES_SEND_START				0	ar	قام %PRODUCTNAME بتخزي كوكيز (Cookies) للمزود '${HOST}'. سوف يتم إرسال هذه الـكوكيز عند طلب المستند.${PATH}\nالكوكيز هي معلومات خاصة بفئات معينة من العناوين .(URLs) يتم إرسال هذه المعلومات من قبل بعض المزودات إلى %PRODUCTNAME عند استدعاء مستندات خاصة، حيث يتم تخزين هذه المعلومات في %PRODUCTNAME. إذا طلب %PRODUCTNAME لاحقاً مستنداً يتطابق عنوانه مع فئة كوكيز تم استقبالها من قبل، يقوم %PRODUCTNAME بإرسال هذه المعلومات إلى المزود. بهذه الطريقة يمكن للمزودات معرفة بيانات عن استخدامات WWW (مثلاً المشتريات الموجودة في حقيبة الشراء أثناء التسوق عبر الإنترنت).\n\nيُراد تعيين الـكوكيز التالية:\n\n				20040507 14:27:11
 uui	source\cookiedg.src	0	string	STR_COOKIES_SEND_START				0	as-IN	'${HOST}' ছাৰ্ভাৰৰ বাবে %PRODUCTNAMEএ কুকীজ ছেভ কৰিছে যিটোক  ${PATH}ডকুমেন্টটো অনুৰোধ কৰোঁতে পথাই দিয়া হ'ব.\nকুকীজত তথ্য আছে যিবোৰে নিৰ্দিষ্ট URL শ্ৰেণীবোৰ প্ৰসংগ কৰে. সেইবোৰক কিছুমান ছাৰ্ভাৰৰ দ্বাৰা %PRODUCTNAMEলৈ পথোৱা হ'ল য'ত সেইবোৰক নিৰ্দিষ্ট ডকুমেন্ট প্ৰবেশ কঁৰোতে ছেভ কৰা হ'ল. যদি  %PRODUCTNAMEএ এটা ডকুমেন্ট ল'ড কৰে যিটো, URLটোৰ মতে, আগতে গ্ৰহণ কৰা কুকীজৰ এটা শ্ৰেণীৰ লগত সামঞ্জস্য আছে, %PRODUCTNAMEএ এই তথ্যটো সেই ছাৰ্ভাৰটোলৈ পথাব. ই ছাৰ্ভাৰ এটাক WWW প্ৰয়োগ এটাৰ স্থিতিৰ ট্ৰেক ৰাখিবলৈ সক্ষম কৰে, উদাহৰণ স্বৰূপে, শ্বপিং অনলাইনৰ সময়ত.\n\nতলত দিয়া কুকীজ ছেট কৰিব লাগিব:\n\n				2002-02-02 02:02:02
 uui	source\cookiedg.src	0	string	STR_COOKIES_SEND_START				295	be-BY	%PRODUCTNAME запісаў квіткі дзеля сервера '${HOST}', якія будуць адсылацца пры звароце да дакументу ${PATH}.\nКвіткі ўтрымліваюць звесткі, якія спасылаюцца на пэўныя класы адрасаў (URL). Яны прысылаюцца пэўнымі серверамі ў %PRODUCTNAME, які запісвае іх, калі асягаюцца пэўныя дакументы. Калі %PRODUCTNAME атрымлівае дакумент, які, паводле URL, адпавядае класу ў адным з раней атрыманых квіткоў, %PRODUCTNAME адсылае гэтыя звесткі на гэты сервер. Такім чынам сервер улічвае стан рэчаў ў задачы WWW, напр., у час купляння ў Сеціве.\n\nБудуць запісаны наступныя квіткі:\n\n				2002-02-02 02:02:02
@@ -853,7 +853,7 @@ uui	source\cookiedg.src	0	string	STR_COOKIES_SEND_START				295	pa-IN	%PRODUCTNAM
 uui	source\cookiedg.src	0	string	STR_COOKIES_SEND_START				0	pl	%PRODUCTNAME zapisał na potrzeby serwera '${HOST}' pliki cookie, które zostaną wysłane po zażądaniu dokumentu ${PATH}.\nPliki cookie zawierają informacje dotyczące określonych klas adresów URL. Informacje te są wysyłane przez niektóre serwery do programu %PRODUCTNAME, który zapisuje je podczas odwoływania się do niektórych dokumentów. Jeżeli %PRODUCTNAME ładuje dokument, którego adres URL odpowiada klasie wcześniej otrzymanych plików cookie, %PRODUCTNAME wysyła te informacje na właściwy serwer. W ten sposób serwer może śledzić stan aplikacji WWW, na przykład podczas zakupów online.\n\nNależy ustawić następujące pliki cookie:\n\n				2002-02-02 02:02:02
 uui	source\cookiedg.src	0	string	STR_COOKIES_SEND_START				0	pt	%PRODUCTNAME guardou cookies relativos ao '${HOST}', os quais serão enviados no pedido do documento ${PATH}.\nOs cookies contêm informações que se referem a determinadas classes de URL. Estes são enviados por alguns servidores ao %PRODUCTNAME, onde são guardados quando determinados documentos são acedidos. Se o %PRODUCTNAME carregar um documento que, de acordo com o URL, corresponda a uma classe de um dos cookies anteriormente recebidos, o %PRODUCTNAME enviará estas informações a esse servidor. Este procedimento permite ao servidor fazer o rastreio do estado de uma aplicação da WWW; por exemplo, nas compras online.\n\nDevem ser definidos os seguintes cookies:\n\n				2002-02-02 02:02:02
 uui	source\cookiedg.src	0	string	STR_COOKIES_SEND_START				0	pt-BR	O %PRODUCTNAME salvou no servidor '${HOST}' cookies que serão enviados quando você solicitar o documento ${PATH}.\nOs cookies contêm informações referentes a certas classes de URLs. Eles são enviados por alguns servidores para o %PRODUCTNAME, onde serão salvos quando determinados documentos forem acessados. Se o %PRODUCTNAME carregar um documento que, de acordo com o URL, corresponda à classe de um dos Cookies anteriormente recebidos, o %PRODUCTNAME enviará essas informações ao servidor. Isso permitirá que o servidor controle o status de um aplicativo WWW, por exemplo, quando fizer compras on-line.\n\nOs seguintes Cookies devem ser utilizados:\n\n				2002-02-02 02:02:02
-uui	source\cookiedg.src	0	string	STR_COOKIES_SEND_START				295	ru	%PRODUCTNAME сохранил для сервера "${HOST}" файлы Cookie, которые будут отправляться обратно на сервер при каждом открытии документа "${PATH}".\nЭти файлы обычно содержат информацию, о том какие параметры были выбраны пользователем при посещении данного URL. Если впоследствии, в %PRODUCTNAME будет открыт документ, полученный с URL, сервер которого сохранил на вашем компьютере Cookie, то %PRODUCTNAME направит информацию из Cookie на этот сервер. Таким образом, сервер получит состояние приложения и ваши настройки (это может использоваться, например при совершении покупок в Интернете).\n\nБудут сохранены следующие файлы Cookie:\n\n				2002-02-02 02:02:02
+uui	source\cookiedg.src	0	string	STR_COOKIES_SEND_START				0	ru	%PRODUCTNAME сохранил для сервера "${HOST}" файлы Cookie, которые будут отправляться обратно на сервер при каждом открытии документа "${PATH}".\nЭти файлы обычно содержат информацию, о том какие параметры были выбраны пользователем при посещении данного URL. Если впоследствии, в %PRODUCTNAME будет открыт документ, полученный с URL, сервер которого сохранил на вашем компьютере Cookie, то %PRODUCTNAME направит информацию из Cookie на этот сервер. Таким образом, сервер получит состояние приложения и ваши настройки (это может использоваться, например при совершении покупок в Интернете).\n\nБудут сохранены следующие файлы Cookie:\n\n				2002-02-02 02:02:02
 uui	source\cookiedg.src	0	string	STR_COOKIES_SEND_START				0	rw	%PRODUCTNAME yabitse inyandikonyakwirema za seriveri '${HOST}' zikazoherezwa igihe hasabwe inyandiko ${PATH}.\nInyandikonyakwirema zifite ibisobanuro byibanda ku nzego URL. Zoherezwa na seriveri ku %PRODUCTNAME aho zibikwa igihe inyandiko zimwe na zimwe zigezweho. Niba %PRODUCTNAME itangije inyandiko ihura, hashingiwe kuri URL,  n'urwego rw'imwe mu nyandikonyakwiremazimaze kwakirwa, %PRODUCTNAME izohereza aya makuru kuri iyo seriveri. Ibi bituma seriveri ibasha kumenya uko porogaramu WWW zimeze, urugero, iyo bagura kuri interineti. \n\nInyandikonyakwirema zikurikira zishobora kubonezwa: \n\n				2002-02-02 02:02:02
 uui	source\cookiedg.src	0	string	STR_COOKIES_SEND_START				0	sh-YU	%PRODUCTNAME je sačuvao kolačiće na serveru „${HOST}“ koji će biti poslati kada se zatraži dokument ${PATH}.\nKolačići sadrže informacije koje se odnose na pojedine URL klase. %PRODUCTNAME ih prima od nekih servera gdese čuvaju kada se pristupa pojedinim dokumentma. Ako %PRODUCTNAME učita dokument koji po URL-u odgovara klasi jednog od prethodno primljenih kolačića, %PRODUCTNAME će poslati ovu informaciju na taj server. Ovo omogućava serveru da prati status veb programa, npr. prilikom kupovine preko mreže.\n\nSledeće kolačiće bi trebalo postaviti:\n\n				2002-02-02 02:02:02
 uui	source\cookiedg.src	0	string	STR_COOKIES_SEND_START				295	sk	%PRODUCTNAME uložil cookies pre server '${HOST}', ktoré budú odoslané pri požiadavke o dokument ${PATH}.\n Cookies obsahujú informácie, ktoré sa vzťahujú k určitým triedam URL.  Sú odosielané do programu %PRODUCTNAME, kde sú uložené, pokiaľ sa  pristupuje k určitým dokumentom. Keď %PRODUCTNAME načíta dokument, ktorého URL sa zhoduje s triedou predtým prijatého cookie, odošle sa táto  informácia na tento server. Toto umožňuje udržovať stav WWW aplikácie,  napríklad pri online nakupovaní.\n\n Majú byť nastavené tieto cookies:\n\n				2002-02-02 02:02:02
@@ -878,7 +878,7 @@ uui	source\cookiedg.src	0	string	STR_COOKIES_SEND_START				0	xh	I-%PRODUCTNAME i
 uui	source\cookiedg.src	0	string	STR_COOKIES_SEND_START				0	zh-CN	%PRODUCTNAME 为服务器 '${HOST}' 保存了 Cookie，下次请求文档 ${PATH} 时将发送这些 Cookie。\nCookie 包含与特定 URL 类有关的信息。访问特定文档时，某些服务器会向 %PRODUCTNAME 发送这些 Cookie，并将其保存在 %PRODUCTNAME 中。如果 %PRODUCTNAME 加载一个文档，该文档的 URL 对应于以前收到的某个 Cookie 的类，则 %PRODUCTNAME 将向服务器发送此信息。这样服务器就能够追踪 WWW 应用程序的状态（如在线购物时）。\n\n应设置以下 Cookie：\n\n				2002-02-02 02:02:02
 uui	source\cookiedg.src	0	string	STR_COOKIES_SEND_START				0	zh-TW	%PRODUCTNAME 已經保存了伺服器${HOST}傳送的 cookie 。%PRODUCTNAME 在下一次請求裝載相同的文件資料${PATH}時就會按照程式庫檢查URL相符的cookie并將有關訊息傳送給對方伺服器。這樣，對方伺服器就能夠知道您使用的瀏覽器的有關資料(如線上銷售系統的采購籃含有的物品名稱)。\n\n現在要建立如下的 cookie:\n\n				2002-02-02 02:02:02
 uui	source\cookiedg.src	0	string	STR_COOKIES_SEND_START				0	zu	I-%PRODUCTNAME iwaseyvile amakuki eseva i-'${HOST}' azothunyelwa lapho kucelwa ifayela i-${PATH}.\nAmakuki anokwaziswa okubhekisela ezigabeni ezithile zama-URL. Athunyelwa ngamaseva athile kwi- %PRODUCTNAME lapho aseyvwa khona lapho amafayela athile evulwa. Uma i-%PRODUCTNAME ifaka ifayela, okuthi ngokwe-URL, lihambisana nesigaba selinye lamaKuki ake atholwa esikhathini esidlule, i-%PRODUCTNAME izothumela lokhu kwaziswa kuleyo seva. Lokhu kwenza iseva ikwazi ukulandelela isimo sohlelo lwe-WWW, ngokwesibonelo, lapho uthenga nge-intanethi.\n\nAmaKuki alandelayo kumele asethwe:\n\n				2002-02-02 02:02:02
-uui	source\cookiedg.src	0	string	STR_COOKIES_SEND_TITLE				0	af	Stuur koekies				2002-02-02 02:02:02
+uui	source\cookiedg.src	0	string	STR_COOKIES_SEND_TITLE				295	af	Stuur koekies				2002-02-02 02:02:02
 uui	source\cookiedg.src	0	string	STR_COOKIES_SEND_TITLE				0	ar	إرسال الكوكيز				20040507 14:27:11
 uui	source\cookiedg.src	0	string	STR_COOKIES_SEND_TITLE				0	as-IN	কুকীজ পথাওক				2002-02-02 02:02:02
 uui	source\cookiedg.src	0	string	STR_COOKIES_SEND_TITLE				295	be-BY	Адсылаць квіткі				2002-02-02 02:02:02
@@ -1237,7 +1237,7 @@ uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_BADPARTNERSHIP & ERRCODE
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_BADPARTNERSHIP & ERRCODE_RES_MASK)			0	ns	Tsebišo yeo e tswalanego le tirišano e senyegile.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_BADPARTNERSHIP & ERRCODE_RES_MASK)			0	or-IN	ଅଶୀଂଦାର ସହିତ ସପୃକ୍ତ ହୋଇ ଥିବା ତାରିଖ ଭ୍ରଷ୍ଟ ହୋଇଛି୤				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_BADPARTNERSHIP & ERRCODE_RES_MASK)			13691	pa-IN	ਸਾਂਝ ਨਾਲ ਸੰਬੰਧਤ ਡਾਟਾ ਨਿਕਾਰਾ ਹੋ ਗਿਆ ਹੈ।				2002-02-02 02:02:02
-uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_BADPARTNERSHIP & ERRCODE_RES_MASK)			0	pl	Zapisane dane dotyczące relacji są uszkodzone				2002-02-02 02:02:02
+uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_BADPARTNERSHIP & ERRCODE_RES_MASK)			0	pl	Zapisane dane dotyczące relacji są uszkodzone.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_BADPARTNERSHIP & ERRCODE_RES_MASK)			0	pt	Os dados associados à parceria estão danificados.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_BADPARTNERSHIP & ERRCODE_RES_MASK)			0	pt-BR	Os dados associados à parceria estão corrompidos.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_BADPARTNERSHIP & ERRCODE_RES_MASK)			0	ru	Повреждены данные, сохраненные для партнерства.				2002-02-02 02:02:02
@@ -1314,7 +1314,7 @@ uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_BADPARTNERSHIP_NAME & ER
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_BADPARTNERSHIP_NAME & ERRCODE_RES_MASK)			0	ns	Tsebišo yeo e tswalanego le tirišano ya $(ARG1) e senyegile.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_BADPARTNERSHIP_NAME & ERRCODE_RES_MASK)			0	or-IN	$(ARG1) ଅଶୀଂଦାର ସହିତ ସପୃକ୍ତ ହୋଇ ଥିବା ତାରିଖ ଭ୍ରଷ୍ଟ ହୋଇଛି୤				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_BADPARTNERSHIP_NAME & ERRCODE_RES_MASK)			13691	pa-IN	ਸਾਂਝ $(ARG1) ਨਾਲ ਸਬੰਧਿਤ ਡਾਟਾ ਨਿਕਾਰਾ ਹੋ ਗਿਆ ਹੈ।				2002-02-02 02:02:02
-uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_BADPARTNERSHIP_NAME & ERRCODE_RES_MASK)			0	pl	Zapisane dane dotyczące relacji $(ARG1) są uszkodzone				2002-02-02 02:02:02
+uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_BADPARTNERSHIP_NAME & ERRCODE_RES_MASK)			0	pl	Zapisane dane dotyczące relacji $(ARG1) są uszkodzone.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_BADPARTNERSHIP_NAME & ERRCODE_RES_MASK)			0	pt	Os dados associados à parceria $(ARG1) estão danificados.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_BADPARTNERSHIP_NAME & ERRCODE_RES_MASK)			0	pt-BR	Os dados associados à parceria $(ARG1) estão corrompidos.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_BADPARTNERSHIP_NAME & ERRCODE_RES_MASK)			0	ru	Повреждены данные, сохраненные для партнерства $(ARG1).				2002-02-02 02:02:02
@@ -1759,7 +1759,7 @@ uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_ABORT & ERRCODE_RES_M
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_ABORT & ERRCODE_RES_MASK)			0	ns	Modiro wo o phethilwego go $(ARG1) o ntšhitšwe				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_ABORT & ERRCODE_RES_MASK)			0	or-IN	$(ARG1)ରେ କାର୍ୟ୍ଯକାରୀହୋଇଥିବା କାର୍ୟ୍ଯକ୍ରମ ଅସଫଳ ହୋଇ ଥିଲା 				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_ABORT & ERRCODE_RES_MASK)			13691	pa-IN	$(ARG1) ਤੇ ਕਾਰਵਾਈ ਨੂੰ ਅਧੂਰਾ ਛੱਡਿਆ ਗਿਆ				2002-02-02 02:02:02
-uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_ABORT & ERRCODE_RES_MASK)			0	pl	Operacja wykonywana na $(ARG1) została przerwana				2002-02-02 02:02:02
+uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_ABORT & ERRCODE_RES_MASK)			0	pl	Operacja wykonywana na $(ARG1) została przerwana.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_ABORT & ERRCODE_RES_MASK)			0	pt	A operação executada em $(ARG1) foi cancelada.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_ABORT & ERRCODE_RES_MASK)			0	pt-BR	A operação executada em $(ARG1) foi anulada.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_ABORT & ERRCODE_RES_MASK)			0	ru	Выполняемая на $(ARG1) операция прервана.				2002-02-02 02:02:02
@@ -1832,7 +1832,7 @@ uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_ACCESSDENIED & ERRCOD
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_ACCESSDENIED & ERRCODE_RES_MASK)			0	ns	Go tsena go $(ARG1) go gannwe				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_ACCESSDENIED & ERRCODE_RES_MASK)			0	or-IN	$(ARG1) କୁ ପ୍ରବେଶ ଅସ୍ବୀକାର ହୋଇଛି				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_ACCESSDENIED & ERRCODE_RES_MASK)			13691	pa-IN	$(ARG1) ਲਈ ਪਹੁੰਚ ਤੇ ਪਾਬੰਦੀ ਹੈ				2002-02-02 02:02:02
-uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_ACCESSDENIED & ERRCODE_RES_MASK)			0	pl	Brak dostępu do $(ARG1)				2002-02-02 02:02:02
+uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_ACCESSDENIED & ERRCODE_RES_MASK)			0	pl	Brak dostępu do $(ARG1).				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_ACCESSDENIED & ERRCODE_RES_MASK)			0	pt	Acesso a $(ARG1) recusado.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_ACCESSDENIED & ERRCODE_RES_MASK)			0	pt-BR	O acesso a $(ARG1) foi negado.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_ACCESSDENIED & ERRCODE_RES_MASK)			0	ru	Доступ к $(ARG1) запрещен.				2002-02-02 02:02:02
@@ -1905,7 +1905,7 @@ uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_ALREADYEXISTS & ERRCO
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_ALREADYEXISTS & ERRCODE_RES_MASK)			0	ns	$(ARG1) e šetše e le gona				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_ALREADYEXISTS & ERRCODE_RES_MASK)			0	or-IN	$(ARG1) ପୂର୍ବରୁ ବିଦ୍ଯମାନ ଅଟେ				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_ALREADYEXISTS & ERRCODE_RES_MASK)			13691	pa-IN	$(ARG1) ਪਹਿਲਾਂ ਹੀ ਮੌਜੂਦ ਹੈ				2002-02-02 02:02:02
-uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_ALREADYEXISTS & ERRCODE_RES_MASK)			0	pl	$(ARG1) już istnieje				2002-02-02 02:02:02
+uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_ALREADYEXISTS & ERRCODE_RES_MASK)			0	pl	$(ARG1) już istnieje.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_ALREADYEXISTS & ERRCODE_RES_MASK)			0	pt	$(ARG1) já existe.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_ALREADYEXISTS & ERRCODE_RES_MASK)			0	pt-BR	$(ARG1) já existe.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_ALREADYEXISTS & ERRCODE_RES_MASK)			0	ru	$(ARG1) уже существует.				2002-02-02 02:02:02
@@ -1977,7 +1977,7 @@ uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_BADCRC & ERRCODE_RES_
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_BADCRC & ERRCODE_RES_MASK)			0	ns	Tsebišo e tšwago go $(ARG1) e na le palomoka ya go lekola e sa nepagalago				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_BADCRC & ERRCODE_RES_MASK)			0	or-IN	 $(ARG1) ରୁ ତାରିଖ ଗୋଟିଏ ଭୂଲ ୟାଞ୍ଚସମଷ୍ଟି ଅଟେ				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_BADCRC & ERRCODE_RES_MASK)			13691	pa-IN	$(ARG1) ਤੋਂ ਪ੍ਰਾਪਤ ਡਾਟੇ ਲਈ ਗਲਤ ਚੈੱਕਸਮ ਹੈ				2002-02-02 02:02:02
-uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_BADCRC & ERRCODE_RES_MASK)			0	pl	Dane z $(ARG1) mają nieprawidłową sumę kontrolną				2002-02-02 02:02:02
+uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_BADCRC & ERRCODE_RES_MASK)			0	pl	Dane z $(ARG1) mają nieprawidłową sumę kontrolną.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_BADCRC & ERRCODE_RES_MASK)			0	pt	A soma de verificação dos dados de $(ARG1) está incorrecta.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_BADCRC & ERRCODE_RES_MASK)			0	pt-BR	A soma de verificação dos dados do $(ARG1) está incorreta				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_BADCRC & ERRCODE_RES_MASK)			0	ru	Данные $(ARG1) содержат неправильную контрольную сумму.				2002-02-02 02:02:02
@@ -2205,7 +2205,7 @@ uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_CANTCREATE & ERRCODE_
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_CANTCREATE & ERRCODE_RES_MASK)			0	ns	Sedirišwa sa $(ARG1) se ka se bopše tšhupetšong $(ARG2)				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_CANTCREATE & ERRCODE_RES_MASK)			0	or-IN	 $(ARG2) ବସ୍ତୁ $(ARG1) ବିବରଣୀପଞ୍ଜିକାରେ ସୃଷ୍ଟି ହୋଇ ପାରିବ ନାହିଁ				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_CANTCREATE & ERRCODE_RES_MASK)			13691	pa-IN	ਇਕਾਈ $(ARG1) ਨੂੰ ਡਾਇਰੈਕਟਰੀ $(ARG2) ਵਿੱਚ ਬਣਾਇਆ ਨਹੀਂ ਜਾ ਸਕਦਾ				2002-02-02 02:02:02
-uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_CANTCREATE & ERRCODE_RES_MASK)			0	pl	Utworzenie obiektu $(ARG1) w katalogu $(ARG2) nie jest możliwe				2002-02-02 02:02:02
+uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_CANTCREATE & ERRCODE_RES_MASK)			0	pl	Utworzenie obiektu $(ARG1) w katalogu $(ARG2) nie jest możliwe.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_CANTCREATE & ERRCODE_RES_MASK)			0	pt	Não é possível criar o objecto $(ARG1) no directório $(ARG2).				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_CANTCREATE & ERRCODE_RES_MASK)			0	pt-BR	Não é possível criar o objeto $(ARG1) no diretório $(ARG2)				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_CANTCREATE & ERRCODE_RES_MASK)			0	ru	Невозможно создать объект $(ARG1) в каталоге $(ARG2).				2002-02-02 02:02:02
@@ -2277,7 +2277,7 @@ uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_CANTCREATE_NONAME & E
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_CANTCREATE_NONAME & ERRCODE_RES_MASK)			0	ns	Sedirišwa se ka se bopše tšhupetšong ya $(ARG1)				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_CANTCREATE_NONAME & ERRCODE_RES_MASK)			0	or-IN	 $(ARG1) ବିବରଣୀପଞ୍ଜିକାରେ ଏହି ବସ୍ତୁ ସୃଷ୍ଟି ହୋଇ ପାରିବ ନାହିଁ				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_CANTCREATE_NONAME & ERRCODE_RES_MASK)			13691	pa-IN	ਡਾਇਰੈਕਟਰੀ $(ARG1) ਵਿੱਚ ਇਕਾਈ ਨਹੀਂ ਬਣਾਈ ਜਾ ਸਕਦੀ ਹੈ।				2002-02-02 02:02:02
-uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_CANTCREATE_NONAME & ERRCODE_RES_MASK)			0	pl	Utworzenie obiektu w katalogu $(ARG2) nie jest możliwe				2002-02-02 02:02:02
+uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_CANTCREATE_NONAME & ERRCODE_RES_MASK)			0	pl	Utworzenie obiektu w katalogu $(ARG2) nie jest możliwe.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_CANTCREATE_NONAME & ERRCODE_RES_MASK)			0	pt	Não é possível criar o objecto no directório $(ARG1).				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_CANTCREATE_NONAME & ERRCODE_RES_MASK)			0	pt-BR	Não é possível criar o objeto no diretório $(ARG1).				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_CANTCREATE_NONAME & ERRCODE_RES_MASK)			0	ru	Невозможно создать объект в каталоге $(ARG1).				2002-02-02 02:02:02
@@ -2350,7 +2350,7 @@ uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_CANTREAD & ERRCODE_RE
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_CANTREAD & ERRCODE_RES_MASK)			0	ns	Tsebišo ya $(ARG1) ga e balege				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_CANTREAD & ERRCODE_RES_MASK)			0	or-IN	$(ARG1)ର ତାରିଖ ପଢି ହେଉ ନାହିଁ				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_CANTREAD & ERRCODE_RES_MASK)			13691	pa-IN	$(ARG1) ਤੋਂ ਡਾਟੇ ਨੂੰ ਪੜਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ ਹੈ				2002-02-02 02:02:02
-uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_CANTREAD & ERRCODE_RES_MASK)			0	pl	Nie można odczytać danych o $(ARG1)				2002-02-02 02:02:02
+uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_CANTREAD & ERRCODE_RES_MASK)			0	pl	Nie można odczytać danych o $(ARG1).				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_CANTREAD & ERRCODE_RES_MASK)			0	pt	Não foi possível ler os dados de $(ARG1).				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_CANTREAD & ERRCODE_RES_MASK)			0	pt-BR	Não foi possível ler os dados do $(ARG1)				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_CANTREAD & ERRCODE_RES_MASK)			0	ru	Невозможно считать данные $(ARG1).				2002-02-02 02:02:02
@@ -2423,7 +2423,7 @@ uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_CANTSEEK & ERRCODE_RE
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_CANTSEEK & ERRCODE_RES_MASK)			0	ns	Modiro wa go nyaka go $(ARG1) o be o ka se dirwe				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_CANTSEEK & ERRCODE_RES_MASK)			0	or-IN	 $(ARG1) ରେ ଖୋଜିବା କାର୍ୟ୍ଯକ୍ରମ ସମ୍ପାଦନ ହୋଇ ପାରିବ ନାହିଁ				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_CANTSEEK & ERRCODE_RES_MASK)			13691	pa-IN	$(ARG1) ਤੇ ਪ੍ਰਾਪਤੀ ਕਾਰਵਾਈ ਨਹੀਂ ਕੀਤੀ ਜਾ ਸਕਦੀ ਹੈ				2002-02-02 02:02:02
-uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_CANTSEEK & ERRCODE_RES_MASK)			0	pl	Nie można przeprowadzić na $(ARG1) operacji ustawienia wskaźnika				2002-02-02 02:02:02
+uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_CANTSEEK & ERRCODE_RES_MASK)			0	pl	Nie można przeprowadzić na $(ARG1) operacji ustawienia wskaźnika.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_CANTSEEK & ERRCODE_RES_MASK)			0	pt	Não foi possível executar a operação seek em $(ARG1).				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_CANTSEEK & ERRCODE_RES_MASK)			0	pt-BR	Não foi possível executar a operação de procura no $(ARG1)				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_CANTSEEK & ERRCODE_RES_MASK)			0	ru	Невозможно выполнить операцию seek на $(ARG1).				2002-02-02 02:02:02
@@ -2496,7 +2496,7 @@ uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_CANTTELL & ERRCODE_RE
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_CANTTELL & ERRCODE_RES_MASK)			0	ns	Modiro wa go botša go $(ARG1) o be o ka se dirwe				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_CANTTELL & ERRCODE_RES_MASK)			0	or-IN	 $(ARG1) ରେ କହିବା କାର୍ୟ୍ଯକ୍ରମ ସମ୍ପାଦନ ହୋଇ ପାରିବ ନାହିଁ				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_CANTTELL & ERRCODE_RES_MASK)			13691	pa-IN	$(ARG1) ਤੇ ਟੈੱਲ ਕਾਰਵਾਈ ਨਹੀਂ ਕੀਤੀ ਜਾ ਸਕਦੀ ਹੈ				2002-02-02 02:02:02
-uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_CANTTELL & ERRCODE_RES_MASK)			0	pl	Nie można przeprowadzić na $(ARG1) operacji pobrania wskaźnika				2002-02-02 02:02:02
+uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_CANTTELL & ERRCODE_RES_MASK)			0	pl	Nie można przeprowadzić na $(ARG1) operacji pobrania wskaźnika.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_CANTTELL & ERRCODE_RES_MASK)			0	pt	Não foi possível executar a operação tell em $(ARG1).				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_CANTTELL & ERRCODE_RES_MASK)			0	pt-BR	Não foi possível executar a operação de informação no $(ARG1)				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_CANTTELL & ERRCODE_RES_MASK)			0	ru	Невозможно выполнить операцию tell на $(ARG1).				2002-02-02 02:02:02
@@ -2569,7 +2569,7 @@ uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_CANTWRITE & ERRCODE_R
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_CANTWRITE & ERRCODE_RES_MASK)			0	ns	Tsebišo bakeng sa $(ARG1) ga o ngwalege				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_CANTWRITE & ERRCODE_RES_MASK)			0	or-IN	 $(ARG1) ପାଇଁ ତାରିଖ ଲେଖା ହୋଇ ପାରିବ ନାହିଁ				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_CANTWRITE & ERRCODE_RES_MASK)			13691	pa-IN	$(ARG1) ਲਈ ਡਾਟਾ ਲਿਖਿਆ ਨਹੀਂ ਜਾ ਸਕਿਆ				2002-02-02 02:02:02
-uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_CANTWRITE & ERRCODE_RES_MASK)			0	pl	Nie można zapisać danych dla $(ARG1)				2002-02-02 02:02:02
+uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_CANTWRITE & ERRCODE_RES_MASK)			0	pl	Nie można zapisać danych dla $(ARG1).				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_CANTWRITE & ERRCODE_RES_MASK)			0	pt	Não foi possível escrever os dados para $(ARG1).				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_CANTWRITE & ERRCODE_RES_MASK)			0	pt-BR	Não foi possível gravar os dados do $(ARG1)				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_CANTWRITE & ERRCODE_RES_MASK)			0	ru	Записать данные для $(ARG1) невозможно.				2002-02-02 02:02:02
@@ -2642,7 +2642,7 @@ uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_CURRENTDIR & ERRCODE_
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_CURRENTDIR & ERRCODE_RES_MASK)			0	ns	Mogato ga o kgonege: $(ARG1) ke tšhupetšo ya gona bjale				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_CURRENTDIR & ERRCODE_RES_MASK)			0	or-IN	କାର୍ୟ୍ଯ ଅସମ୍ଭବ ଅଟେ: $(ARG1) ଚଳିତ ବିବରଣୀପଞ୍ଜିକା ଅଟେ				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_CURRENTDIR & ERRCODE_RES_MASK)			13691	pa-IN	ਕਾਰਵਾਈ ਅਸੰਭਵ: $(ARG1) ਮੌਜੂਦਾ ਡਾਇਰੈਕਟਰੀ ਹੈ				2002-02-02 02:02:02
-uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_CURRENTDIR & ERRCODE_RES_MASK)			0	pl	Nie można wykonać akcji: $(ARG1) jest katalogiem bieżącym				2002-02-02 02:02:02
+uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_CURRENTDIR & ERRCODE_RES_MASK)			0	pl	Nie można wykonać akcji: $(ARG1) jest katalogiem bieżącym.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_CURRENTDIR & ERRCODE_RES_MASK)			0	pt	Acção impossível: $(ARG1) é o directório actual.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_CURRENTDIR & ERRCODE_RES_MASK)			0	pt-BR	Ação impossível: $(ARG1) é o diretório atual.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_CURRENTDIR & ERRCODE_RES_MASK)			0	ru	Данная операция невыполнима: $(ARG1) является текущим каталогом.				2002-02-02 02:02:02
@@ -2787,7 +2787,7 @@ uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_INVALIDACCESS & ERRCO
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_INVALIDACCESS & ERRCODE_RES_MASK)			0	ns	Go dirilwe maiteko a go tsena go $(ARG1) ka tsela yeo e sego ya kgonthe				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_INVALIDACCESS & ERRCODE_RES_MASK)			0	or-IN	ଗୋଟିଏ ଉଦ୍ଯ ତିଆରି ହୋଇଥଇଲା ଗୋଟିଏ ଅମାନ୍ଯ ପଥରେ $(ARG1)କୁ ପ୍ରବେଶକରିବା ପାଇଁ  				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_INVALIDACCESS & ERRCODE_RES_MASK)			13691	pa-IN	$(ARG1) ਨੂੰ ਖੋਲਣ ਲ਼ਈ ਗਲਤ ਢੰਗ ਨਾਲ ਕੋਸ਼ਿਸ ਕੀਤੀ ਗਈ ਹੈ				2002-02-02 02:02:02
-uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_INVALIDACCESS & ERRCODE_RES_MASK)			0	pl	Nieprawidłowa próba dostępu do $(ARG1)				2002-02-02 02:02:02
+uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_INVALIDACCESS & ERRCODE_RES_MASK)			0	pl	Nieprawidłowa próba dostępu do $(ARG1).				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_INVALIDACCESS & ERRCODE_RES_MASK)			0	pt	Tentativa inválida de acesso a $(ARG1).				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_INVALIDACCESS & ERRCODE_RES_MASK)			0	pt-BR	Foi feita uma tentativa de acessar $(ARG1) de maneira inválida				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_INVALIDACCESS & ERRCODE_RES_MASK)			0	ru	Попытка получить доступ к $(ARG1) некорректным способом.				2002-02-02 02:02:02
@@ -2860,7 +2860,7 @@ uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_INVALIDCHAR & ERRCODE
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_INVALIDCHAR & ERRCODE_RES_MASK)			0	ns	$(ARG1) e na le dika tšeo e sego tša kgonthe				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_INVALIDCHAR & ERRCODE_RES_MASK)			0	or-IN	$(ARG1)ରେ ଅମାନ୍ଯ ଅକ୍ଷରଗୁଡିକ ଅଛି				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_INVALIDCHAR & ERRCODE_RES_MASK)			13691	pa-IN	$(ARG1) ਵਿੱਚ ਗਲਤ ਅੱਖਰ ਹਨ				2002-02-02 02:02:02
-uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_INVALIDCHAR & ERRCODE_RES_MASK)			0	pl	$(ARG1) zawiera niedozwolone znaki				2002-02-02 02:02:02
+uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_INVALIDCHAR & ERRCODE_RES_MASK)			0	pl	$(ARG1) zawiera niedozwolone znaki.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_INVALIDCHAR & ERRCODE_RES_MASK)			0	pt	$(ARG1) contém caracteres inválidos.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_INVALIDCHAR & ERRCODE_RES_MASK)			0	pt-BR	$(ARG1) contém caracteres inválidos.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_INVALIDCHAR & ERRCODE_RES_MASK)			0	ru	$(ARG1) содержит недопустимые символы.				2002-02-02 02:02:02
@@ -2933,7 +2933,7 @@ uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_INVALIDDEVICE & ERRCO
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_INVALIDDEVICE & ERRCODE_RES_MASK)			0	ns	Thušo (mootledi) ya $(ARG1) ga se ya kgonthe				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_INVALIDDEVICE & ERRCODE_RES_MASK)			0	or-IN	$(ARG1) (ଡ୍ରାଇଭ) ୟନ୍ତ୍ର ଅମାନ୍ଯ ଅଟେ				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_INVALIDDEVICE & ERRCODE_RES_MASK)			13691	pa-IN	ਜੰਤਰ (ਡਰਾਈਵ) $(ARG1) ਠੀਕ ਨਹੀਂ ਹੈ				2002-02-02 02:02:02
-uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_INVALIDDEVICE & ERRCODE_RES_MASK)			0	pl	Nieprawidłowe urządzenie (dysk) $(ARG1)				2002-02-02 02:02:02
+uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_INVALIDDEVICE & ERRCODE_RES_MASK)			0	pl	Nieprawidłowe urządzenie (dysk) $(ARG1).				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_INVALIDDEVICE & ERRCODE_RES_MASK)			0	pt	O dispositivo (unidade) $(ARG1) é inválido.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_INVALIDDEVICE & ERRCODE_RES_MASK)			0	pt-BR	O dispositivo (unidade) $(ARG1) é inválido.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_INVALIDDEVICE & ERRCODE_RES_MASK)			0	ru	Устройство $(ARG1) недоступно.				2002-02-02 02:02:02
@@ -3005,7 +3005,7 @@ uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_INVALIDLENGTH & ERRCO
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_INVALIDLENGTH & ERRCODE_RES_MASK)			0	ns	Tsebišo e tšwago go $(ARG1) e na le botelele bjo e sego bja kgonthe				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_INVALIDLENGTH & ERRCODE_RES_MASK)			0	or-IN	$(ARG1)ରୁ ତଥ୍ଯର ଗୋଟିଏ ଅମାନ୍ଯ ଲମ୍ବ ଅଛି				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_INVALIDLENGTH & ERRCODE_RES_MASK)			13691	pa-IN	$(ARG1) ਤੋਂ ਲੰਬਾਈ ਗਲਤ ਹੈ				2002-02-02 02:02:02
-uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_INVALIDLENGTH & ERRCODE_RES_MASK)			0	pl	Dane z $(ARG1) są nieprawidłowej długości				2002-02-02 02:02:02
+uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_INVALIDLENGTH & ERRCODE_RES_MASK)			0	pl	Dane z $(ARG1) są nieprawidłowej długości.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_INVALIDLENGTH & ERRCODE_RES_MASK)			0	pt	Os dados de $(ARG1) têm um comprimento inválido.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_INVALIDLENGTH & ERRCODE_RES_MASK)			0	pt-BR	Os dados do $(ARG1) têm um comprimento inválido				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_INVALIDLENGTH & ERRCODE_RES_MASK)			0	ru	Недопустимый размер данных с $(ARG1).				2002-02-02 02:02:02
@@ -3078,7 +3078,7 @@ uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_INVALIDPARAMETER & ER
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_INVALIDPARAMETER & ERRCODE_RES_MASK)			0	ns	Modiro go $(ARG1) o thomilwe ka parameter yeo e sego ya kgonthe				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_INVALIDPARAMETER & ERRCODE_RES_MASK)			0	or-IN	$(ARG1)ରେ କାର୍ୟ୍ଯକ୍ରମ ଗୋଟିଏ ଅମାନ୍ଯ ପାରାମିଟର ସହିତ ଆରମ୍ଭ ହୋଇଥିଲା				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_INVALIDPARAMETER & ERRCODE_RES_MASK)			13691	pa-IN	$(ARG1) ਤੇ ਕਾਰਵਾਈ ਨੂੰ ਗਲਤ ਪੈਰਾਮੀਟਰ ਨਾਲ ਸ਼ੁਰੂ ਕੀਤਾ ਗਿਆ				2002-02-02 02:02:02
-uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_INVALIDPARAMETER & ERRCODE_RES_MASK)			0	pl	Operację na $(ARG1) uruchomiono podając nieprawidłowy parametr				2002-02-02 02:02:02
+uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_INVALIDPARAMETER & ERRCODE_RES_MASK)			0	pl	Operację na $(ARG1) uruchomiono podając nieprawidłowy parametr.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_INVALIDPARAMETER & ERRCODE_RES_MASK)			0	pt	A operação em $(ARG1) foi iniciada com um parâmetro inválido.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_INVALIDPARAMETER & ERRCODE_RES_MASK)			0	pt-BR	A operação no $(ARG1) foi iniciada com um parâmetro inválido				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_INVALIDPARAMETER & ERRCODE_RES_MASK)			0	ru	Операция на $(ARG1) запущена при помощи недопустимого параметра.				2002-02-02 02:02:02
@@ -3150,7 +3150,7 @@ uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_ISWILDCARD & ERRCODE_
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_ISWILDCARD & ERRCODE_RES_MASK)			0	ns	Modiro o ka se dirwe ka gobane $(ARG1) e na le dikarata tše šele				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_ISWILDCARD & ERRCODE_RES_MASK)			0	or-IN	 କାର୍ୟ୍ଯକ୍ରମ ସମ୍ପାଦନହୋଇପାରିବ ନାହିଁ କାରଣ  $(ARG1)ରେ ଉଆଇଲଡ କାର୍ଡଗୁଡିକ ଅଛି				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_ISWILDCARD & ERRCODE_RES_MASK)			13691	pa-IN	ਕਾਰਵਾਈ ਨਹੀਂ ਕੀਤੀ ਜਾ ਸਕਦੀ ਹੈ, ਕਿਉਂਕਿ $(ARG1) ਵਿੱਚ ਵਾਇਲਡ ਕਾਰਡ ਹਨ				2002-02-02 02:02:02
-uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_ISWILDCARD & ERRCODE_RES_MASK)			0	pl	Wykonanie operacji nie jest możliwe, ponieważ $(ARG1) zawiera symbole wieloznaczne				2002-02-02 02:02:02
+uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_ISWILDCARD & ERRCODE_RES_MASK)			0	pl	Wykonanie operacji nie jest możliwe, ponieważ $(ARG1) zawiera symbole wieloznaczne.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_ISWILDCARD & ERRCODE_RES_MASK)			0	pt	Não é possível executar a operação, porque $(ARG1) contém caracteres universais.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_ISWILDCARD & ERRCODE_RES_MASK)			0	pt-BR	Não é possível executar a operação porque $(ARG1) contém curingas				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_ISWILDCARD & ERRCODE_RES_MASK)			0	ru	Невозможно выполнить операцию из-за содержащихся в $(ARG1) символов шаблона.				2002-02-02 02:02:02
@@ -3299,7 +3299,7 @@ uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_MISPLACEDCHAR & ERRCO
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_MISPLACEDCHAR & ERRCODE_RES_MASK)			0	ns	$(ARG1) e na le dika tšeo di sa bewago gabotse				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_MISPLACEDCHAR & ERRCODE_RES_MASK)			0	or-IN	$(ARG1)ରେ ଭୂଲ ସ୍ଥାନରେ ରହିଥିବା ଅକ୍ଷରଗୁଡିକ ଅଛି				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_MISPLACEDCHAR & ERRCODE_RES_MASK)			13691	pa-IN	$(ARG1) ਵਿੱਚ ਗਲਤ ਸ਼ਬਦ-ਜੋੜ ਹੈ				2002-02-02 02:02:02
-uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_MISPLACEDCHAR & ERRCODE_RES_MASK)			0	pl	$(ARG1) zawiera znaki w niewłaściwym miejscu				2002-02-02 02:02:02
+uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_MISPLACEDCHAR & ERRCODE_RES_MASK)			0	pl	$(ARG1) zawiera znaki w niewłaściwym miejscu.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_MISPLACEDCHAR & ERRCODE_RES_MASK)			0	pt	$(ARG1) contém caracteres incorrectamente posicionados.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_MISPLACEDCHAR & ERRCODE_RES_MASK)			0	pt-BR	$(ARG1) contém caracteres no local errado				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_MISPLACEDCHAR & ERRCODE_RES_MASK)			0	ru	$(ARG1) содержит неправильно расположенные символы.				2002-02-02 02:02:02
@@ -3411,7 +3411,7 @@ uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NAMETOOLONG & ERRCODE
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NAMETOOLONG & ERRCODE_RES_MASK)			0	ns	Leina la $(ARG1) le na le dika tše ntšhi kudu				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NAMETOOLONG & ERRCODE_RES_MASK)			0	or-IN	$(ARG1) ବହୁତଗୁଡିଏ ଅକ୍ଷର ଏହି ନାମରେ ଅଛି				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NAMETOOLONG & ERRCODE_RES_MASK)			13691	pa-IN	$(ARG1) ਨਾਂ ਵਿੱਚ ਬਹੁਤ ਅੱਖਰ ਹਨ				2002-02-02 02:02:02
-uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NAMETOOLONG & ERRCODE_RES_MASK)			0	pl	Nazwa $(ARG1) zawiera za dużo znaków				2002-02-02 02:02:02
+uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NAMETOOLONG & ERRCODE_RES_MASK)			0	pl	Nazwa $(ARG1) zawiera za dużo znaków.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NAMETOOLONG & ERRCODE_RES_MASK)			0	pt	O nome $(ARG1) contém demasiados caracteres.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NAMETOOLONG & ERRCODE_RES_MASK)			0	pt-BR	O nome $(ARG1) contém muitos caracteres				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NAMETOOLONG & ERRCODE_RES_MASK)			0	ru	Имя $(ARG1) содержит слишком много символов.				2002-02-02 02:02:02
@@ -3484,7 +3484,7 @@ uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTADIRECTORY & ERRCO
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTADIRECTORY & ERRCODE_RES_MASK)			0	ns	$(ARG1) ga se tšhupetšo				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTADIRECTORY & ERRCODE_RES_MASK)			0	or-IN	$(ARG1) ଗୋଟିଏ ବିବରଣୀପଞ୍ଜିକା ନୁହେଁ				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTADIRECTORY & ERRCODE_RES_MASK)			13691	pa-IN	$(ARG1) ਡਾਇਰੈਕਟਰੀ ਨਹੀਂ ਹੈ।				2002-02-02 02:02:02
-uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTADIRECTORY & ERRCODE_RES_MASK)			0	pl	$(ARG1) nie jest katalogiem				2002-02-02 02:02:02
+uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTADIRECTORY & ERRCODE_RES_MASK)			0	pl	$(ARG1) nie jest katalogiem.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTADIRECTORY & ERRCODE_RES_MASK)			0	pt	$(ARG1) não é um directório.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTADIRECTORY & ERRCODE_RES_MASK)			0	pt-BR	$(ARG1) não é um diretório.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTADIRECTORY & ERRCODE_RES_MASK)			0	ru	$(ARG1) не является каталогом.				2002-02-02 02:02:02
@@ -3557,7 +3557,7 @@ uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTAFILE & ERRCODE_RE
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTAFILE & ERRCODE_RES_MASK)			0	ns	$(ARG1) ga se faele				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTAFILE & ERRCODE_RES_MASK)			0	or-IN	$(ARG1) ଗୋଟିଏ ଫାଇଲ ନୁହେଁ				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTAFILE & ERRCODE_RES_MASK)			13691	pa-IN	$(ARG1) ਫਾਇਲ ਨਹੀਂ ਹੈ।				2002-02-02 02:02:02
-uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTAFILE & ERRCODE_RES_MASK)			0	pl	$(ARG1) nie jest plikiem				2002-02-02 02:02:02
+uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTAFILE & ERRCODE_RES_MASK)			0	pl	$(ARG1) nie jest plikiem.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTAFILE & ERRCODE_RES_MASK)			0	pt	$(ARG1) não é um ficheiro.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTAFILE & ERRCODE_RES_MASK)			0	pt-BR	$(ARG1) não é um arquivo.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTAFILE & ERRCODE_RES_MASK)			0	ru	$(ARG1) не является файлом.				2002-02-02 02:02:02
@@ -3630,7 +3630,7 @@ uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTEXISTS & ERRCODE_R
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTEXISTS & ERRCODE_RES_MASK)			0	ns	$(ARG1) ga e gona				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTEXISTS & ERRCODE_RES_MASK)			0	or-IN	$(ARG1) ରହି ନାହିଁ				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTEXISTS & ERRCODE_RES_MASK)			13691	pa-IN	$(ARG1) ਮੌਜੂਦ ਨਹੀਂ ਹੈ				2002-02-02 02:02:02
-uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTEXISTS & ERRCODE_RES_MASK)			0	pl	$(ARG1) nie istnieje				2002-02-02 02:02:02
+uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTEXISTS & ERRCODE_RES_MASK)			0	pl	$(ARG1) nie istnieje.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTEXISTS & ERRCODE_RES_MASK)			0	pt	$(ARG1) não existe.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTEXISTS & ERRCODE_RES_MASK)			0	pt-BR	$(ARG1) não existe.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTEXISTS & ERRCODE_RES_MASK)			0	ru	$(ARG1) не существует.				2002-02-02 02:02:02
@@ -3703,7 +3703,7 @@ uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTEXISTSPATH & ERRCO
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTEXISTSPATH & ERRCODE_RES_MASK)			0	ns	Tsejana ya $(ARG1) ga e gona				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTEXISTSPATH & ERRCODE_RES_MASK)			0	or-IN	$(ARG1) ପଥ ରହି ନାହିଁ				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTEXISTSPATH & ERRCODE_RES_MASK)			13691	pa-IN	ਮਾਰਗ $(ARG1) ਮੌਜੂਦ ਨਹੀਂ ਹੈ				2002-02-02 02:02:02
-uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTEXISTSPATH & ERRCODE_RES_MASK)			0	pl	Ścieżka $(ARG1) nie istnieje				2002-02-02 02:02:02
+uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTEXISTSPATH & ERRCODE_RES_MASK)			0	pl	Ścieżka $(ARG1) nie istnieje.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTEXISTSPATH & ERRCODE_RES_MASK)			0	pt	O caminho $(ARG1) não existe.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTEXISTSPATH & ERRCODE_RES_MASK)			0	pt-BR	O caminho $(ARG1) não existe.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTEXISTSPATH & ERRCODE_RES_MASK)			0	ru	Путь к $(ARG1) не существует.				2002-02-02 02:02:02
@@ -3776,7 +3776,7 @@ uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTEXISTS_FOLDER & ER
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTEXISTS_FOLDER & ERRCODE_RES_MASK)			0	ns	Sephuthedi sa $(ARG1) ga se gona				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTEXISTS_FOLDER & ERRCODE_RES_MASK)			0	or-IN	ଫୋଲଡର $(ARG1) ରହି ନାହିଁ				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTEXISTS_FOLDER & ERRCODE_RES_MASK)			13691	pa-IN	ਫੋਲਡਰ $(ARG1) ਮੌਜੂਦ ਨਹੀਂ ਹੈ।				2002-02-02 02:02:02
-uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTEXISTS_FOLDER & ERRCODE_RES_MASK)			0	pl	Folder $(ARG1) nie istnieje				2002-02-02 02:02:02
+uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTEXISTS_FOLDER & ERRCODE_RES_MASK)			0	pl	Folder $(ARG1) nie istnieje.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTEXISTS_FOLDER & ERRCODE_RES_MASK)			0	pt	A pasta $(ARG1) não existe.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTEXISTS_FOLDER & ERRCODE_RES_MASK)			0	pt-BR	A pasta $(ARG1) não existe.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTEXISTS_FOLDER & ERRCODE_RES_MASK)			0	ru	Каталог  $(ARG1) не существует.				2002-02-02 02:02:02
@@ -3849,7 +3849,7 @@ uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTEXISTS_VOLUME & ER
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTEXISTS_VOLUME & ERRCODE_RES_MASK)			0	ns	Drive $(ARG1) ga e gona				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTEXISTS_VOLUME & ERRCODE_RES_MASK)			0	or-IN	ଡ୍ରାଇଭ $(ARG1) ରହି ନାହିଁ				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTEXISTS_VOLUME & ERRCODE_RES_MASK)			13691	pa-IN	ਜੰਤਰ $(ARG1) ਮੌਜੂਦ ਨਹੀਂ ਹੈ।				2002-02-02 02:02:02
-uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTEXISTS_VOLUME & ERRCODE_RES_MASK)			0	pl	Napęd $(ARG1) nie istnieje				2002-02-02 02:02:02
+uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTEXISTS_VOLUME & ERRCODE_RES_MASK)			0	pl	Napęd $(ARG1) nie istnieje.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTEXISTS_VOLUME & ERRCODE_RES_MASK)			0	pt	A unidade $(ARG1)não existe.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTEXISTS_VOLUME & ERRCODE_RES_MASK)			0	pt-BR	A unidade $(ARG1) não existe.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTEXISTS_VOLUME & ERRCODE_RES_MASK)			0	ru	Диск $(ARG1) не существует.				2002-02-02 02:02:02
@@ -3922,7 +3922,7 @@ uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTREADY & ERRCODE_RE
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTREADY & ERRCODE_RES_MASK)			0	ns	$(ARG1) ga e sešo ya loka				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTREADY & ERRCODE_RES_MASK)			0	or-IN	$(ARG1) ପ୍ରସ୍ତୁତ ହୋଇ ନାହିଁ				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTREADY & ERRCODE_RES_MASK)			13691	pa-IN	$(ARG1) ਤਿਆਰ ਨਹੀਂ ਹੈ				2002-02-02 02:02:02
-uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTREADY & ERRCODE_RES_MASK)			0	pl	$(ARG1) nie jest gotowy				2002-02-02 02:02:02
+uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTREADY & ERRCODE_RES_MASK)			0	pl	$(ARG1) nie jest gotowy.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTREADY & ERRCODE_RES_MASK)			0	pt	O dispositivo $(ARG1) não está preparado.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTREADY & ERRCODE_RES_MASK)			0	pt-BR	$(ARG1) não está pronto.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTREADY & ERRCODE_RES_MASK)			0	ru	Устройство $(ARG1) не готово.				2002-02-02 02:02:02
@@ -3995,7 +3995,7 @@ uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTREADY_REMOVABLE & 
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTREADY_REMOVABLE & ERRCODE_RES_MASK)			0	ns	$(ARG1) ga e sešo e loke, hle tsenya thušo ya go bolokela				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTREADY_REMOVABLE & ERRCODE_RES_MASK)			0	or-IN	ଖଣ୍ଡ $(ARG1) ପ୍ରସ୍ତୁତ ନାହିଁ ; ଦଯାକରି ଗୋଟିଏ ସଂରକ୍ଷିତ ମାଧ୍ଯମ ଭର୍ତ୍ତି କର				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTREADY_REMOVABLE & ERRCODE_RES_MASK)			13691	pa-IN	$(ARG1) ਤਿਆਰ ਨਹੀਂ ਹੈ; ਸੰਭਾਲਣ ਭੰਡਾਰ ਵਿੱਚ ਪਾਓ।				2002-02-02 02:02:02
-uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTREADY_REMOVABLE & ERRCODE_RES_MASK)			0	pl	$(ARG1) nie jest gotowy; włóż nośnik danych				2002-02-02 02:02:02
+uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTREADY_REMOVABLE & ERRCODE_RES_MASK)			0	pl	$(ARG1) nie jest gotowy; włóż nośnik danych.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTREADY_REMOVABLE & ERRCODE_RES_MASK)			0	pt	$(ARG1) não está preparado; introduza outro suporte de armazenamento.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTREADY_REMOVABLE & ERRCODE_RES_MASK)			0	pt-BR	$(ARG1) não está pronto; insira uma mídia de armazenamento.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTREADY_REMOVABLE & ERRCODE_RES_MASK)			0	ru	$(ARG1) не готово. Вставьте носитель.				2002-02-02 02:02:02
@@ -4068,7 +4068,7 @@ uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTREADY_VOLUME & ERR
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTREADY_VOLUME & ERRCODE_RES_MASK)			0	ns	Volume ya $(ARG1) ga e sešo e loke				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTREADY_VOLUME & ERRCODE_RES_MASK)			0	or-IN	ଖଣ୍ଡ $(ARG1) ପ୍ରସ୍ତୁତ ନାହିଁ 				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTREADY_VOLUME & ERRCODE_RES_MASK)			13691	pa-IN	ਵਾਲੀਅਮ $(ARG1) ਤਿਆਰ ਨਹੀਂ ਹੈ।				2002-02-02 02:02:02
-uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTREADY_VOLUME & ERRCODE_RES_MASK)			0	pl	Wolumin $(ARG1) nie jest gotowy				2002-02-02 02:02:02
+uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTREADY_VOLUME & ERRCODE_RES_MASK)			0	pl	Wolumin $(ARG1) nie jest gotowy.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTREADY_VOLUME & ERRCODE_RES_MASK)			0	pt	O volume $(ARG1) não está preparado.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTREADY_VOLUME & ERRCODE_RES_MASK)			0	pt-BR	$(ARG1) não está pronto				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTREADY_VOLUME & ERRCODE_RES_MASK)			0	ru	Устройство $(ARG1) не готово.				2002-02-02 02:02:02
@@ -4141,7 +4141,7 @@ uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTREADY_VOLUME_REMOV
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTREADY_VOLUME_REMOVABLE & ERRCODE_RES_MASK)			0	ns	Volume ya $(ARG1) ga e sešo e loke, hle tsenya thušo ya go bolokela				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTREADY_VOLUME_REMOVABLE & ERRCODE_RES_MASK)			0	or-IN	ଖଣ୍ଡ $(ARG1) ପ୍ରସ୍ତୁତ ନାହିଁ ; ଦଯାକରି ଗୋଟିଏ ସଂରକ୍ଷିତ ମାଧ୍ଯମ ଭର୍ତ୍ତି କର				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTREADY_VOLUME_REMOVABLE & ERRCODE_RES_MASK)			13691	pa-IN	ਵਾਲੀਅਮ $(ARG1) ਤਿਆਰ ਨਹੀਂ ਹੈ; ਕਿਰਪਾ ਕਰਕੇ ਹੋਰ ਭੰਡਾਰਨ ਮਾਧਿਅਮ ਪਾਓ।				2002-02-02 02:02:02
-uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTREADY_VOLUME_REMOVABLE & ERRCODE_RES_MASK)			0	pl	Wolumin $(ARG1) nie jest gotowy; włóż nośnik danych				2002-02-02 02:02:02
+uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTREADY_VOLUME_REMOVABLE & ERRCODE_RES_MASK)			0	pl	Wolumin $(ARG1) nie jest gotowy; włóż nośnik danych.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTREADY_VOLUME_REMOVABLE & ERRCODE_RES_MASK)			0	pt	A unidade $(ARG1) não está preparada; introduza um suporte de armazenamento.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTREADY_VOLUME_REMOVABLE & ERRCODE_RES_MASK)			0	pt-BR	O volume do $(ARG1) não está pronto; insira uma mídia de armazenamento				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTREADY_VOLUME_REMOVABLE & ERRCODE_RES_MASK)			0	ru	Устройство $(ARG1) не готово; вставьте носитель.				2002-02-02 02:02:02
@@ -4214,7 +4214,7 @@ uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTSAMEDEVICE & ERRCO
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTSAMEDEVICE & ERRCODE_RES_MASK)			0	ns	Mogato ga o kgonege: $(ARG1) le $(ARG2) ke dithušo tše fapanego (baotledi)				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTSAMEDEVICE & ERRCODE_RES_MASK)			0	or-IN	କାର୍ୟ୍ଯ ଅସମ୍ଭବ ଅଟେ: $(ARG1) ଏବଂ $(ARG2) ଭିନ୍ନ ୟନ୍ତ୍ରଗୁଡିକ ଅଟେ (ଡ୍ରାଇଭ)				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTSAMEDEVICE & ERRCODE_RES_MASK)			13691	pa-IN	ਅਸੰਭਵ ਕਾਰਵਾਈ: $(ARG1) ਅਤੇ $(ARG2) ਦੋ ਵੱਖਰੇ ਜੰਤਰ ਹਨ (ਡਰਾਈਵਰ)				2002-02-02 02:02:02
-uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTSAMEDEVICE & ERRCODE_RES_MASK)			0	pl	Nie można wykonać akcji: $(ARG1) i $(ARG2) są różnymi urządzeniami (napędami)				2002-02-02 02:02:02
+uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTSAMEDEVICE & ERRCODE_RES_MASK)			0	pl	Nie można wykonać akcji: $(ARG1) i $(ARG2) są różnymi urządzeniami (napędami).				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTSAMEDEVICE & ERRCODE_RES_MASK)			0	pt	Acção impossível: $(ARG1) e $(ARG2) são dispositivos diferentes (unidades).				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTSAMEDEVICE & ERRCODE_RES_MASK)			0	pt-BR	Ação impossível: $(ARG1) e $(ARG2) são dispositivos diferentes (unidades).				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTSAMEDEVICE & ERRCODE_RES_MASK)			0	ru	Данная операция невыполнима: $(ARG1) и $(ARG2) являются различными устройствами.				2002-02-02 02:02:02
@@ -4285,7 +4285,7 @@ uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTSUPPORTED & ERRCOD
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTSUPPORTED & ERRCODE_RES_MASK)			0	ns	Modiro go $(ARG1) ga o thekgwe tshepedišong ya go dira				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTSUPPORTED & ERRCODE_RES_MASK)			0	or-IN	 $(ARG1) ଏହି କାର୍ୟ୍ଯକରିବା ସିସ୍ଟମରେ କାର୍ୟ୍ଯକ୍ରମ ସମର୍ଥିତ ନୁହେଁ				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTSUPPORTED & ERRCODE_RES_MASK)			13691	pa-IN	$(ARG1) ਤੇ ਇਸ ਓਪਰੇਟਿੰਗ ਸਿਸਟਮ ਲਈ ਕਾਰਵਾਈ ਸਹਾਇਕ ਨਹੀਂ ਹੈ।				2002-02-02 02:02:02
-uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTSUPPORTED & ERRCODE_RES_MASK)			0	pl	Operacja $(ARG1) nie jest obsługiwana przez ten system operacyjny				2002-02-02 02:02:02
+uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTSUPPORTED & ERRCODE_RES_MASK)			0	pl	Operacja $(ARG1) nie jest obsługiwana przez ten system operacyjny.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTSUPPORTED & ERRCODE_RES_MASK)			0	pt	O actual sistema operativo não tem suporte para a operação em $(ARG1).				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTSUPPORTED & ERRCODE_RES_MASK)			0	pt-BR	Este sistema operacional não dá suporte para a operação no $(ARG1)				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_NOTSUPPORTED & ERRCODE_RES_MASK)			0	ru	Данной операционной системой не поддерживается операция на $(ARG1).				2002-02-02 02:02:02
@@ -4358,7 +4358,7 @@ uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_OUTOFMEMORY & ERRCODE
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_OUTOFMEMORY & ERRCODE_RES_MASK)			0	ns	Modiro go $(ARG1) o ka se dirwe ka gobane ga go na kgopolo e nngwe yeo e lego gona				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_OUTOFMEMORY & ERRCODE_RES_MASK)			0	or-IN	$(ARG1) ରେ କାର୍ୟ୍ଯକ୍ରମ ସମ୍ପାଦନ ହୋଇପାରିବନାହିଁ କାରଣ ଅଧିକ ସ୍ମୃତିଶକ୍ତି ଉପଲବ୍ଧ ନାହିଁ				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_OUTOFMEMORY & ERRCODE_RES_MASK)			13691	pa-IN	$(ARG1) ਤੇ ਕਾਰਵਾਈ ਨੂੰ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ, ਕਿਉਂਕਿ ਮੈਮੋਰੀ ਉਪਲੱਬਧ ਨਹੀਂ ਹੈ।				2002-02-02 02:02:02
-uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_OUTOFMEMORY & ERRCODE_RES_MASK)			0	pl	Wykonanie operacji na $(ARG1) nie jest możliwe z powodu braku pamięci				2002-02-02 02:02:02
+uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_OUTOFMEMORY & ERRCODE_RES_MASK)			0	pl	Wykonanie operacji na $(ARG1) nie jest możliwe z powodu braku pamięci.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_OUTOFMEMORY & ERRCODE_RES_MASK)			0	pt	Não é possível executar a operação em $(ARG1) porque não existe memória adicional disponível.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_OUTOFMEMORY & ERRCODE_RES_MASK)			0	pt-BR	Não é possível executar a operação no $(ARG1) porque não há memória disponível				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_OUTOFMEMORY & ERRCODE_RES_MASK)			0	ru	Недостаточно памяти для выполнения операции на $(ARG1).				2002-02-02 02:02:02
@@ -4431,7 +4431,7 @@ uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_OUTOFSPACE & ERRCODE_
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_OUTOFSPACE & ERRCODE_RES_MASK)			0	ns	Ga go na sekgoba seo se šetšego thušong ya $(ARG1)				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_OUTOFSPACE & ERRCODE_RES_MASK)			0	or-IN	$(ARG1) ୟନ୍ତ୍ରରେ ଆଉ କୌଣସି ସ୍ଥାନ ନାହିଁ				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_OUTOFSPACE & ERRCODE_RES_MASK)			13691	pa-IN	ਜੰਤਰ $(ARG1) ਤੇ ਕੋਈ ਥਾਂ ਬਾਕੀ ਨਹੀਂ ਰਹੀ ਹੈ।				2002-02-02 02:02:02
-uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_OUTOFSPACE & ERRCODE_RES_MASK)			0	pl	Brak miejsca na urządzeniu $(ARG1)				2002-02-02 02:02:02
+uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_OUTOFSPACE & ERRCODE_RES_MASK)			0	pl	Brak miejsca na urządzeniu $(ARG1).				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_OUTOFSPACE & ERRCODE_RES_MASK)			0	pt	Não existe espaço disponível no dispositivo $(ARG1).				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_OUTOFSPACE & ERRCODE_RES_MASK)			0	pt-BR	Não há espaço no dispositivo $(ARG1)				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_OUTOFSPACE & ERRCODE_RES_MASK)			0	ru	На устройстве $(ARG1) нет свободного места.				2002-02-02 02:02:02
@@ -4503,7 +4503,7 @@ uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_PENDING & ERRCODE_RES
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_PENDING & ERRCODE_RES_MASK)			0	ns	Modiro go $(ARG1) o ka se tšwele pele ka gobane tsebišo e ntšhi e sa šaletše				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_PENDING & ERRCODE_RES_MASK)			0	or-IN	 $(ARG1) ରେ କାର୍ୟ୍ଯକ୍ରମ ଚାଲୁ ହୋଇ ପାରିବ ନାହିଁ କାରଣ ଅଧିକ ତଥ୍ଯ ଅମିମାଂଶିତ ହୋଇରହିଛି				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_PENDING & ERRCODE_RES_MASK)			13691	pa-IN	$(ARG1) ਤੇ ਕਾਰਵਾਈ ਨਹੀਂ ਕੀਤੀ ਜਾ ਸਕਦੀ ਹੈ, ਕਿਉਂਕਿ ਹੋਰ ਡਾਟਾ ਬਕਾਇਆ ਪਿਆ ਹੈ।				2002-02-02 02:02:02
-uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_PENDING & ERRCODE_RES_MASK)			0	pl	Kontynuowanie operacji na $(ARG1) nie jest możliwe, ponieważ w kolejce czekają dalsze dane				2002-02-02 02:02:02
+uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_PENDING & ERRCODE_RES_MASK)			0	pl	Kontynuowanie operacji na $(ARG1) nie jest możliwe, ponieważ w kolejce czekają dalsze dane.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_PENDING & ERRCODE_RES_MASK)			0	pt	Não é possível executar a operação em $(ARG1) porque existem dados adicionais pendentes.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_PENDING & ERRCODE_RES_MASK)			0	pt-BR	A operação no $(ARG1) não pode continuar porque há mais dados pendentes				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_PENDING & ERRCODE_RES_MASK)			0	ru	Невозможно продолжить операцию на $(ARG1), поскольку ожидаются еще данные.				2002-02-02 02:02:02
@@ -4576,7 +4576,7 @@ uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_RECURSIVE & ERRCODE_R
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_RECURSIVE & ERRCODE_RES_MASK)			0	ns	$(ARG1) e ka se kopišwe go yona ka noši				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_RECURSIVE & ERRCODE_RES_MASK)			0	or-IN	$(ARG1)କୁ ଏହାଭିତରେ ନକଲ ହୋଇ ପାରିବ ନାହିଁ				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_RECURSIVE & ERRCODE_RES_MASK)			13691	pa-IN	$(ARG1) ਖੁਦ ਨੂੰ ਖੁਦ ਤੇ ਨਕਲ ਨਹੀਂ ਕਰ ਸਕਦਾ ਹੈ।				2002-02-02 02:02:02
-uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_RECURSIVE & ERRCODE_RES_MASK)			0	pl	Nie można skopiować $(ARG1) na niego samego				2002-02-02 02:02:02
+uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_RECURSIVE & ERRCODE_RES_MASK)			0	pl	Nie można skopiować $(ARG1) na niego samego.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_RECURSIVE & ERRCODE_RES_MASK)			0	pt	Não é possível copiar $(ARG1) para si próprio.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_RECURSIVE & ERRCODE_RES_MASK)			0	pt-BR	Não é possível copiar $(ARG1) em si mesmo				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_RECURSIVE & ERRCODE_RES_MASK)			0	ru	Невозможно скопировать $(ARG1) в самого себя.				2002-02-02 02:02:02
@@ -4649,7 +4649,7 @@ uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_TARGETALREADYEXISTS &
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_TARGETALREADYEXISTS & ERRCODE_RES_MASK)			0	ns	Seo se lebantšwego se šetše se le gona				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_TARGETALREADYEXISTS & ERRCODE_RES_MASK)			0	or-IN	ଲକ୍ଷ୍ଯ ପୂର୍ବରୁ ଅଛି				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_TARGETALREADYEXISTS & ERRCODE_RES_MASK)			13691	pa-IN	ਨਿਯਤ ਪਹਿਲਾਂ ਹੀ ਮੌਜੂਦ ਹੈ				2002-02-02 02:02:02
-uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_TARGETALREADYEXISTS & ERRCODE_RES_MASK)			0	pl	Element docelowy już istnieje				2002-02-02 02:02:02
+uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_TARGETALREADYEXISTS & ERRCODE_RES_MASK)			0	pl	Cel już istnieje.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_TARGETALREADYEXISTS & ERRCODE_RES_MASK)			0	pt	O destino já existe				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_TARGETALREADYEXISTS & ERRCODE_RES_MASK)			0	pt-BR	O destino já existe.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_TARGETALREADYEXISTS & ERRCODE_RES_MASK)			0	ru	Цель уже существует.				2002-02-02 02:02:02
@@ -4722,7 +4722,7 @@ uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_TOOMANYOPENFILES & ER
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_TOOMANYOPENFILES & ERRCODE_RES_MASK)			0	ns	Modiro go $(ARG1) o ka se dirwe ka gobane difaele tše dintšhi kudu di šetše di bulegile				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_TOOMANYOPENFILES & ERRCODE_RES_MASK)			0	or-IN	 $(ARG1) ରେ କାର୍ୟ୍ଯକ୍ରମ ସମ୍ପାଦନ ହୋଇପାରିବନାହିଁ କାରଣ ବହୁତଗୁଡିଏ ଫାଇଲଗୁଡିକ ପୂର୍ବରୁ ଖୋଲାଅଛି				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_TOOMANYOPENFILES & ERRCODE_RES_MASK)			13691	pa-IN	$(ARG1) ਤੇ ਕਾਰਵਾਈ ਨੂੰ ਕੀਤਾ ਨਹੀਂ ਜਾ ਸਕਦਾ ਹੈ, ਕਿਉਂਕਿ ਕਈ ਫਾਇਲਾਂ ਖੁੱਲੀਆਂ ਹਨ।				2002-02-02 02:02:02
-uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_TOOMANYOPENFILES & ERRCODE_RES_MASK)			0	pl	Wykonanie operacji na $(ARG1) nie jest możliwe, ponieważ otwarto zbyt wiele plików				2002-02-02 02:02:02
+uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_TOOMANYOPENFILES & ERRCODE_RES_MASK)			0	pl	Wykonanie operacji na $(ARG1) nie jest możliwe, ponieważ otwarto zbyt wiele plików.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_TOOMANYOPENFILES & ERRCODE_RES_MASK)			0	pt	Não é possível executar a operação em $(ARG1) porque já existem demasiados ficheiros abertos.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_TOOMANYOPENFILES & ERRCODE_RES_MASK)			0	pt-BR	Não é possível executar a operação no $(ARG1) porque muitos arquivos já estão abertos				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_TOOMANYOPENFILES & ERRCODE_RES_MASK)			0	ru	Невозможно выполнить операцию на $(ARG1), так как открыто слишком много файлов.				2002-02-02 02:02:02
@@ -4794,7 +4794,7 @@ uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_UNKNOWN & ERRCODE_RES
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_UNKNOWN & ERRCODE_RES_MASK)			0	ns	Bothata bja go tsenya/go ntšha bjo bo sa tsejwego ge go dutše go tsenwa go $(ARG1)				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_UNKNOWN & ERRCODE_RES_MASK)			0	or-IN	$(ARG1) ପ୍ରବେଶକରିବା ସମଯରେ ଅଜ୍ଞାତ ଇନପୁଟ/ଆଉଟପୁଟ				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_UNKNOWN & ERRCODE_RES_MASK)			13691	pa-IN	$(ARG1) ਨੂੰ ਵਰਤਣ ਦੌਰਾਨ ਅਣਜਾਣੀ ਇੰਪੁੱਟ/ਆਉਟਪੁੱਟ ਗਲਤੀ ਹੈ।				2002-02-02 02:02:02
-uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_UNKNOWN & ERRCODE_RES_MASK)			0	pl	Nieznany błąd wejścia/wyjścia podczas próby uzyskania dostępu do $(ARG1)				2002-02-02 02:02:02
+uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_UNKNOWN & ERRCODE_RES_MASK)			0	pl	Nieznany błąd wejścia/wyjścia podczas próby uzyskania dostępu do $(ARG1).				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_UNKNOWN & ERRCODE_RES_MASK)			0	pt	Erro de entrada/saída ao aceder a $(ARG1).				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_UNKNOWN & ERRCODE_RES_MASK)			0	pt-BR	Erro desconhecido de entrada/saída ao acessar $(ARG1).				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_UNKNOWN & ERRCODE_RES_MASK)			0	ru	Неизвестная ошибка ввода/вывода при доступе к $(ARG1).				2002-02-02 02:02:02
@@ -4944,7 +4944,7 @@ uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_WRITEPROTECTED & ERRC
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_WRITEPROTECTED & ERRCODE_RES_MASK)			0	ns	$(ARG1) e šireleditšwe ka mongwalo				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_WRITEPROTECTED & ERRCODE_RES_MASK)			0	or-IN	$(ARG1) ରାଇଟ ସୁରକ୍ଷିତ ହୋଇଛି				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_WRITEPROTECTED & ERRCODE_RES_MASK)			13691	pa-IN	$(ARG1) ਅਸੁਰੱਖਿਅਤ ਹੈ।				2002-02-02 02:02:02
-uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_WRITEPROTECTED & ERRCODE_RES_MASK)			0	pl	$(ARG1) jest chroniony przed zapisem				2002-02-02 02:02:02
+uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_WRITEPROTECTED & ERRCODE_RES_MASK)			0	pl	$(ARG1) jest chroniony przed zapisem.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_WRITEPROTECTED & ERRCODE_RES_MASK)			0	pt	$(ARG1) está protegido contra escrita.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_WRITEPROTECTED & ERRCODE_RES_MASK)			0	pt-BR	$(ARG1) está protegido contra gravação				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_WRITEPROTECTED & ERRCODE_RES_MASK)			0	ru	$(ARG1) только для чтения.				2002-02-02 02:02:02
@@ -5017,7 +5017,7 @@ uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_WRONGFORMAT & ERRCODE
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_WRONGFORMAT & ERRCODE_RES_MASK)			0	ns	$(ARG1) ga e ka sebopego se nepagetšego				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_WRONGFORMAT & ERRCODE_RES_MASK)			0	or-IN	$(ARG1) ଠିକ ଫର୍ମାଟ ନୁହେଁ				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_WRONGFORMAT & ERRCODE_RES_MASK)			13691	pa-IN	$(ARG1) ਠੀਕ ਫਾਰਮੈਟ ਨਹੀਂ ਹੈ।				2002-02-02 02:02:02
-uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_WRONGFORMAT & ERRCODE_RES_MASK)			0	pl	$(ARG1) ma nieprawidłowy format				2002-02-02 02:02:02
+uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_WRONGFORMAT & ERRCODE_RES_MASK)			0	pl	$(ARG1) ma nieprawidłowy format.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_WRONGFORMAT & ERRCODE_RES_MASK)			0	pt	$(ARG1) não está no formato correcto.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_WRONGFORMAT & ERRCODE_RES_MASK)			0	pt-BR	$(ARG1) não está no formato correto.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_WRONGFORMAT & ERRCODE_RES_MASK)			0	ru	Неправильный формат $(ARG1).				2002-02-02 02:02:02
@@ -5090,7 +5090,7 @@ uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_WRONGVERSION & ERRCOD
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_WRONGVERSION & ERRCODE_RES_MASK)			0	ns	Tlhagišo ya $(ARG1) ga e a nepagala				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_WRONGVERSION & ERRCODE_RES_MASK)			0	or-IN	ଭାଷାନ୍ତର $(ARG1) ଠିକ ନାହିଁ 				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_WRONGVERSION & ERRCODE_RES_MASK)			13691	pa-IN	$(ARG1) ਦਾ ਵਰਜਨ ਠੀਕ ਨਹੀਂ ਹੈ।				2002-02-02 02:02:02
-uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_WRONGVERSION & ERRCODE_RES_MASK)			0	pl	Wersja $(ARG1) jest nieprawidłowa				2002-02-02 02:02:02
+uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_WRONGVERSION & ERRCODE_RES_MASK)			0	pl	Wersja $(ARG1) jest nieprawidłowa.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_WRONGVERSION & ERRCODE_RES_MASK)			0	pt	A versão de $(ARG1) está incorrecta.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_WRONGVERSION & ERRCODE_RES_MASK)			0	pt-BR	A versão do $(ARG1) não está correta				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_IO_WRONGVERSION & ERRCODE_RES_MASK)			0	ru	Неправильная версия $(ARG1).				2002-02-02 02:02:02
@@ -5163,7 +5163,7 @@ uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_WRONGJAVA & ERRCODE_RES_
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_WRONGJAVA & ERRCODE_RES_MASK)			0	ns	Tlhagišo yeo e tsentšhitšwego ya Java ga e thekgwe				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_WRONGJAVA & ERRCODE_RES_MASK)			0	or-IN	ପ୍ରତିଷ୍ଠାପିତ ଜାଭା ଭାଷାନ୍ତର ସମର୍ଥିତ ହୋଇ ନାହିଁ				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_WRONGJAVA & ERRCODE_RES_MASK)			13691	pa-IN	ਇੰਸਟਾਲ ਜਾਵਾ ਸਹਾਇਕ ਨਹੀਂ ਹੈ।				2002-02-02 02:02:02
-uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_WRONGJAVA & ERRCODE_RES_MASK)			0	pl	Zainstalowana wersja Java nie jest obsługiwana				2002-02-02 02:02:02
+uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_WRONGJAVA & ERRCODE_RES_MASK)			0	pl	Zainstalowana wersja Java nie jest obsługiwana.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_WRONGJAVA & ERRCODE_RES_MASK)			0	pt	A versão Java instalada não é suportada.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_WRONGJAVA & ERRCODE_RES_MASK)			0	pt-BR	A versão Java instalada não é suportada				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_WRONGJAVA & ERRCODE_RES_MASK)			0	ru	Не поддерживается установленная версия Java.				2002-02-02 02:02:02
@@ -5236,7 +5236,7 @@ uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_WRONGJAVA_MIN & ERRCODE_
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_WRONGJAVA_MIN & ERRCODE_RES_MASK)			0	ns	Tlhagišo yeo e tsentšhitšwego ya Java ga e thekgwe, bonyenyane tlhagišo ya $(ARG1) e a nyakega				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_WRONGJAVA_MIN & ERRCODE_RES_MASK)			0	or-IN	ପ୍ରତିଷ୍ଠାପିତ ଜାଭା ଭାଷାନ୍ତର ସମର୍ଥିତ ହୋଇ ନାହିଁ, ଅତିକମରେ  $(ARG1)  ଭାଷାନ୍ତର ଆବଶ୍ଯକ 				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_WRONGJAVA_MIN & ERRCODE_RES_MASK)			13691	pa-IN	ਇੰਸਟਾਲ ਜਾਵਾ ਵਰਜਨ ਸਹਿਯੋਗੀ ਨਹੀਂ ਹੈ, ਘੱਟੋ-ਘੱਟ ਵਰਜਨ $(ARG1) ਲੋੜੀਂਦਾ ਹੈ।				2002-02-02 02:02:02
-uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_WRONGJAVA_MIN & ERRCODE_RES_MASK)			0	pl	Zainstalowana wersja Java nie jest obsługiwana, jest wymagana wersja co najmniej $(ARG1)				2002-02-02 02:02:02
+uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_WRONGJAVA_MIN & ERRCODE_RES_MASK)			0	pl	Zainstalowana wersja Java nie jest obsługiwana, jest wymagana wersja co najmniej $(ARG1).				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_WRONGJAVA_MIN & ERRCODE_RES_MASK)			0	pt	A versão Java instalada não é suportada. A versão mínima requerida é $(ARG1)				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_WRONGJAVA_MIN & ERRCODE_RES_MASK)			0	pt-BR	A versão Java instalada não é suportada, pelo menos a versão $(ARG1) é necessária				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_WRONGJAVA_MIN & ERRCODE_RES_MASK)			0	ru	Не поддерживается установленная версия Java. Требуется версия, начиная с $(ARG1).				2002-02-02 02:02:02
@@ -5309,7 +5309,7 @@ uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_WRONGJAVA_VERSION & ERRC
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_WRONGJAVA_VERSION & ERRCODE_RES_MASK)			0	ns	Tlhagišo yeo e tsentšhitšwego ya Java ya $(ARG1) ga e thekgwe				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_WRONGJAVA_VERSION & ERRCODE_RES_MASK)			0	or-IN	$(ARG1) ପ୍ରତିଷ୍ଠାପିତ ଜାଭା ଭାଷାନ୍ତର ସମର୍ଥିତ ହୋଇ ନାହିଁ				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_WRONGJAVA_VERSION & ERRCODE_RES_MASK)			13691	pa-IN	ਇੰਸਟਾਲ ਜਾਵਾ ਵਰਜਨ $(ARG1) ਸਹਿਯੋਗੀ ਨਹੀਂ ਹੈ।				2002-02-02 02:02:02
-uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_WRONGJAVA_VERSION & ERRCODE_RES_MASK)			0	pl	Zainstalowana wersja Java $(ARG1) nie jest obsługiwana				2002-02-02 02:02:02
+uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_WRONGJAVA_VERSION & ERRCODE_RES_MASK)			0	pl	Zainstalowana wersja Java $(ARG1) nie jest obsługiwana.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_WRONGJAVA_VERSION & ERRCODE_RES_MASK)			0	pt	A versão Java instalada $(ARG1) não é suportada.				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_WRONGJAVA_VERSION & ERRCODE_RES_MASK)			0	pt-BR	A versão Java instalada do $(ARG1) não é suportada				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_WRONGJAVA_VERSION & ERRCODE_RES_MASK)			0	ru	Не поддерживается установленная версия Java $(ARG1).				2002-02-02 02:02:02
@@ -5382,7 +5382,7 @@ uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_WRONGJAVA_VERSION_MIN & 
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_WRONGJAVA_VERSION_MIN & ERRCODE_RES_MASK)			0	ns	Tlhagišo yeo e tsentšhitšwego ya Java ya $(ARG1) ga e thekgwe, bonyenyane tlhagišo ya $(ARG2) e a nyakega				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_WRONGJAVA_VERSION_MIN & ERRCODE_RES_MASK)			0	or-IN	 $(ARG1) ପ୍ରତିଷ୍ଠାପିତ ଜାଭା ଭାଷାନ୍ତର ସମର୍ଥିତ ହୋଇ ନାହିଁ,ଅତିକମରେ  $(ARG2) ଭାଷାନ୍ତର ଆବଶ୍ଯକ 				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_WRONGJAVA_VERSION_MIN & ERRCODE_RES_MASK)			13691	pa-IN	ਇੰਟਸਟਾਲ ਕੀਤਾ ਜਾਵਾ ਵਰਜਨ $(ARG1) ਸਹਿਯੋਗੀ ਨਹੀਂ ਹੈ, ਨਵਾਂ ਵਰਜਨ $(ARG2) ਲੋੜੀਂਦਾ ਹੈ।				2002-02-02 02:02:02
-uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_WRONGJAVA_VERSION_MIN & ERRCODE_RES_MASK)			0	pl	Zainstalowana wersja Java $(ARG1) nie jest obsługiwana, jest wymagana wersja co najmniej $(ARG2)				2002-02-02 02:02:02
+uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_WRONGJAVA_VERSION_MIN & ERRCODE_RES_MASK)			0	pl	Zainstalowana wersja Java $(ARG1) nie jest obsługiwana, jest wymagana wersja co najmniej $(ARG2).				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_WRONGJAVA_VERSION_MIN & ERRCODE_RES_MASK)			0	pt	A versão Java instalada $(ARG1) não é suportada. A versão mínima requerida é $(ARG2)				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_WRONGJAVA_VERSION_MIN & ERRCODE_RES_MASK)			0	pt-BR	A versão Java instalada do $(ARG1) não é suportada, pelo menos a versão $(ARG2) é necessária				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_WRONGJAVA_VERSION_MIN & ERRCODE_RES_MASK)			0	ru	Не поддерживается установленная версия Java $(ARG1). Требуется версия, начиная с $(ARG2).				2002-02-02 02:02:02
@@ -5455,7 +5455,7 @@ uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_WRONGMEDIUM & ERRCODE_RE
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_WRONGMEDIUM & ERRCODE_RES_MASK)			0	ns	Hle tsenya disk ya $(ARG1)				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_WRONGMEDIUM & ERRCODE_RES_MASK)			0	or-IN	ଦଯାକରି ଡିକ୍ସ $(ARG1) ଭର୍ତ୍ତି କର				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_WRONGMEDIUM & ERRCODE_RES_MASK)			13691	pa-IN	ਕਿਰਪਾ ਕਰਕੇ ਡਿਸਕ $(ARG1) ਪਾਓ।				2002-02-02 02:02:02
-uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_WRONGMEDIUM & ERRCODE_RES_MASK)			0	pl	Włóż dysk do $(ARG1)				2002-02-02 02:02:02
+uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_WRONGMEDIUM & ERRCODE_RES_MASK)			0	pl	Włóż dysk do $(ARG1).				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_WRONGMEDIUM & ERRCODE_RES_MASK)			0	pt	Introduza um disco $(ARG1).				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_WRONGMEDIUM & ERRCODE_RES_MASK)			0	pt-BR	Insira o disco $(ARG1).				2002-02-02 02:02:02
 uui	source\ids.src	0	string	RID_UUI_ERRHDL	(ERRCODE_UUI_WRONGMEDIUM & ERRCODE_RES_MASK)			0	ru	Вставьте носитель $(ARG1).				2002-02-02 02:02:02
@@ -6186,7 +6186,7 @@ uui	source\logindlg.src	0	modaldialog	DLG_UUI_LOGIN		HID_DLG_LOGIN		265	xh	Kufun
 uui	source\logindlg.src	0	modaldialog	DLG_UUI_LOGIN		HID_DLG_LOGIN		265	zh-CN	要求输入用户名和密码				2002-02-02 02:02:02
 uui	source\logindlg.src	0	modaldialog	DLG_UUI_LOGIN		HID_DLG_LOGIN		265	zh-TW	必須輸入使用名稱和密碼				2002-02-02 02:02:02
 uui	source\logindlg.src	0	modaldialog	DLG_UUI_LOGIN		HID_DLG_LOGIN		265	zu	Igama Lomsebenzisi kanye Negama lokudlula Liyadingeka				2002-02-02 02:02:02
-uui	source\logindlg.src	0	string	DLG_UUI_LOGIN	STR_LOGIN_REALM			0	af	Tik asseblief die gebruikernaam en wagwoord vir "%2" op %1 hier in.				2002-02-02 02:02:02
+uui	source\logindlg.src	0	string	DLG_UUI_LOGIN	STR_LOGIN_REALM			50	af	Tik asseblief die gebruikernaam en wagwoord vir "%2" op %1 hier in.				2002-02-02 02:02:02
 uui	source\logindlg.src	0	string	DLG_UUI_LOGIN	STR_LOGIN_REALM			0	ar	على				20040507 14:27:12
 uui	source\logindlg.src	0	string	DLG_UUI_LOGIN	STR_LOGIN_REALM			0	as-IN	 ইয়াত %1ত"%2"ৰ বাবে ব্যৱহাৰকৰ্তাৰ নাম আৰু পাছৱর্ড ভৰাওক.				2002-02-02 02:02:02
 uui	source\logindlg.src	0	string	DLG_UUI_LOGIN	STR_LOGIN_REALM			50	be-BY	Увядзіце імя карыстальніка і пароль дзеля "%2" на %1.				2002-02-02 02:02:02
@@ -7073,7 +7073,7 @@ uui	source\passworderrs.src	0	string	STR_ERROR_MASTERPASSWORD_WRONG				0	nr	Kufa
 uui	source\passworderrs.src	0	string	STR_ERROR_MASTERPASSWORD_WRONG				0	ns	Go tsentšhitšwe lentšuphetišo la master leo le sa nepagalago. Hle le tsenye gape.				2002-02-02 02:02:02
 uui	source\passworderrs.src	0	string	STR_ERROR_MASTERPASSWORD_WRONG				0	or-IN	ଗୋଟିଏ ଭୂଲ ମାଷ୍ଟର ଗୁପ୍ତଶବ୍ଦ ପ୍ରବେଶ ହୋଇଛି ୤ ଦଯାକରି ଏହାକୁ ଆଉଥରେ ପ୍ରବେଶ କର୤				2002-02-02 02:02:02
 uui	source\passworderrs.src	0	string	STR_ERROR_MASTERPASSWORD_WRONG				13691	pa-IN	ਗਲਤ ਮਾਸਟਰ ਗੁਪਤ-ਕੋਡ ਦਿੱਤਾ ਗਿਆ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਮੁੜ ਕੋਸ਼ਿਸ ਕਰੋ।				2002-02-02 02:02:02
-uui	source\passworderrs.src	0	string	STR_ERROR_MASTERPASSWORD_WRONG				0	pl	Nieprawidłowe hasło główne! Wpisz ponownie				2002-02-02 02:02:02
+uui	source\passworderrs.src	0	string	STR_ERROR_MASTERPASSWORD_WRONG				0	pl	Podano nieprawidłowe hasło główne. Proszę wpisać hasło ponownie.				2002-02-02 02:02:02
 uui	source\passworderrs.src	0	string	STR_ERROR_MASTERPASSWORD_WRONG				0	pt	Foi introduzida uma palavra-passe principal incorrecta. Introduza-a de novo, por favor.				2002-02-02 02:02:02
 uui	source\passworderrs.src	0	string	STR_ERROR_MASTERPASSWORD_WRONG				0	pt-BR	Senha principal incorreta. Insira novamente a senha				2002-02-02 02:02:02
 uui	source\passworderrs.src	0	string	STR_ERROR_MASTERPASSWORD_WRONG				0	ru	Вы ввели неправильный пароль. Повторите ввод пароля.				2002-02-02 02:02:02
