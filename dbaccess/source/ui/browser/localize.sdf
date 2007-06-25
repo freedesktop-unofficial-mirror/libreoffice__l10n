@@ -13,9 +13,9 @@
 #
 #   $RCSfile: localize.sdf,v $
 #
-#   $Revision: 1.27 $
+#   $Revision: 1.28 $
 #
-#   last change: $Author: ihi $ $Date: 2007-04-19 14:54:35 $
+#   last change: $Author: vg $ $Date: 2007-06-25 11:19:50 $
 #
 #   The Contents of this file are made available subject to
 #   the terms of GNU Lesser General Public License Version 2.1.
@@ -68,7 +68,7 @@ dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_QRY_TITLE				0	th	แบ
 dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_QRY_TITLE				0	tr	Sogrulama #				20040507 14:21:28
 dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_QRY_TITLE				0	zh-CN	查询 #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_QRY_TITLE				0	zh-TW	查詢 #				2002-02-02 02:02:02
-dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_TBL_TITLE				0	af	Tabel #				2002-02-02 02:02:02
+dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_TBL_TITLE				1	af	Tabel #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_TBL_TITLE				0	ar	الجدول #				20040507 14:21:28
 dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_TBL_TITLE				0	as-IN	টেবুল #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\bcommon.src	0	string	RID_STR_TBL_TITLE				13691	be-BY	Табліца #				2002-02-02 02:02:02
@@ -240,7 +240,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DS
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	zh-CN	已注册的数据库...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	zh-TW	已註冊的資料庫...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_ADMINISTRATE		HID_BROWSER_DSADMINISTRATE		0	zu	Lungisa ~Ifayela Ledatabheysi...				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_CLOSECONN		HID_BROWSER_CLOSECONN		0	af	Ontko~ppel				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_CLOSECONN		HID_BROWSER_CLOSECONN		1	af	Ontko~ppel				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_CLOSECONN		HID_BROWSER_CLOSECONN		0	ar	قطع الاتصال				20040507 14:21:28
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_CLOSECONN		HID_BROWSER_CLOSECONN		0	as-IN	সংযোগবিহীন কৰক				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_CLOSECONN		HID_BROWSER_CLOSECONN		13691	be-BY	Адлучыцца				2002-02-02 02:02:02
@@ -344,6 +344,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_DIRECT_SQL		HID_DSBROWSER_DI
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_DIRECT_SQL		HID_DSBROWSER_DIRECTSQL		0	tr	SQL...				20040507 14:21:28
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_DIRECT_SQL		HID_DSBROWSER_DIRECTSQL		0	zh-CN	SQL...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_DIRECT_SQL		HID_DSBROWSER_DIRECTSQL		0	zh-TW	SQL...				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_EDIT_DATABASE		HID_BROWSER_EDIT_DATABASE		1	af	Redigeer ~databasislêer...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_EDIT_DATABASE		HID_BROWSER_EDIT_DATABASE		13691	be-BY	Правіць файл базы дадзеных...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_EDIT_DATABASE		HID_BROWSER_EDIT_DATABASE		13691	bg	Редактиране на файла на ~базата от данни...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_EDIT_DATABASE		HID_BROWSER_EDIT_DATABASE		0	br	Embann restr ~stennvon...				2002-02-02 02:02:02
@@ -366,7 +367,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_EDIT_DATABASE		HID_BROWSER_E
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_EDIT_DATABASE		HID_BROWSER_EDIT_DATABASE		13691	ka	~მონაცემთა ფაილის რედაქტირება...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_EDIT_DATABASE		HID_BROWSER_EDIT_DATABASE		13691	km	កែ​សម្រួល​ឯកសារ​មូល​ដ្ឋាន​ទិន្នន័យ... 				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_EDIT_DATABASE		HID_BROWSER_EDIT_DATABASE		0	ko	데이터베이스 파일 편집(~D)...				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_EDIT_DATABASE		HID_BROWSER_EDIT_DATABASE		13691	ku	Pela  ~danegehe serrast bike...				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_EDIT_DATABASE		HID_BROWSER_EDIT_DATABASE		13691	ku	Pelê ~Danegehê Sererast bike...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_EDIT_DATABASE		HID_BROWSER_EDIT_DATABASE		13691	lt	Taisyti ~duomenų bazės failą				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_EDIT_DATABASE		HID_BROWSER_EDIT_DATABASE		13691	mk	Уреди ~база на податоци...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_EDIT_DATABASE		HID_BROWSER_EDIT_DATABASE		13691	nb	Rediger ~databasefil ...				2002-02-02 02:02:02
@@ -387,7 +388,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_EDIT_DATABASE		HID_BROWSER_E
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_EDIT_DATABASE		HID_BROWSER_EDIT_DATABASE		13691	vi	Sửa tập tin co sở ~dữ liệu...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_EDIT_DATABASE		HID_BROWSER_EDIT_DATABASE		0	zh-CN	编辑数据库文件(~D)...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_EDIT_DATABASE		HID_BROWSER_EDIT_DATABASE		0	zh-TW	編輯資料庫檔案(~D)...				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REFRESHCONN		0	af	~Verfris verbinding				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REFRESHCONN		1	af	~Verfris verbinding				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REFRESHCONN		0	ar	تحديث الاتصال				20040507 14:21:28
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REFRESHCONN		0	as-IN	সংযোগ পুনৰ সজীৱ কৰক				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	#define	MID_REFRESHCONN		HID_BROWSER_REFRESHCONN		13691	be-BY	Абнавіць далучэнне				2002-02-02 02:02:02
@@ -572,7 +573,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT.RID_M
 dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT.RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	tr	Yeniden İnşa Et				20040507 14:21:28
 dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT.RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	zh-CN	重建				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	menuitem	MENU_BROWSER_TABLECONTEXT.RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	zh-TW	重建				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbabrw.src	0	menuitem	RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	af	Herbou				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	menuitem	RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		1	af	Herbou				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	menuitem	RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		0	as-IN	পুনৰ নিৰ্মাণ				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	menuitem	RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		13691	be-BY	Перабудаваць				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	menuitem	RID_MENU_REFRESH_DATA	ID_BROWSER_REFRESH_REBUILD	HID_BROWSER_REFRESH_REBUILDVIEW		13691	bg	Прегенериране				2002-02-02 02:02:02
@@ -702,7 +703,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	querybox	MENU_BROWSER_TABLECONTEXT	QUERY
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	MENU_BROWSER_TABLECONTEXT	QUERY_CONNECTION_LOST			0	tr	Veritabanına bağlantı kesildi. Yeniden bağlanmak istiyor musunuz?				20040507 14:21:28
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	MENU_BROWSER_TABLECONTEXT	QUERY_CONNECTION_LOST			0	zh-CN	和数据库的连接已经中断。是否要重新连接数据库？				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	MENU_BROWSER_TABLECONTEXT	QUERY_CONNECTION_LOST			0	zh-TW	和資料庫的連線已經關閉。要重新連線？				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_QUERY_CONFIRM				0	af	Die navraag bestaan reeds. Wil u dit skrap?				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_QUERY_CONFIRM				1	af	Die navraag bestaan reeds. Wil u dit skrap?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_QUERY_CONFIRM				0	as-IN	প্ৰশ্নটো আগৰেপৰাই আছে. আপুনি এইটো ডিলিট কৰিবলৈ বিচাৰেনেকি?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_QUERY_CONFIRM				13691	be-BY	Зварот ужо існуе. Ці хочаце яго сцерці?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_QUERY_CONFIRM				13691	bg	Заявката вече съществува. Желаете ли да бъде изтрита?				2002-02-02 02:02:02
@@ -778,7 +779,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_QUERY_CONFIRM	
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_QUERY_CONFIRM				0	zh-CN	查询已经存在。是否要删除它？				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_QUERY_CONFIRM				0	zh-TW	查詢已經存在。您是否要刪除？				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_QUERY_CONFIRM				0	zu	Umbuzo usukhona. Ufuna ukuwucisha?				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_ROWS				0	af	Wil u die gemerkte data skrap?				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_ROWS				1	af	Wil u die gemerkte data skrap?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_ROWS				0	ar	هل تريد حذف البيانات المحددة؟				20040507 14:21:28
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_ROWS				0	as-IN	আপুনি নিৰ্বাচিত ডাটাটো ডিলিট কৰিব বিচাৰেনেকি ?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_ROWS				13691	be-BY	Ці хочаце сцерці азначаныя дадзеныя?				2002-02-02 02:02:02
@@ -855,7 +856,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_ROWS				0	xh	I
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_ROWS				0	zh-CN	是否要删除选中的数据？				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_ROWS				0	zh-TW	您要刪除選中的資料﹖				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_DELETE_ROWS				0	zu	Ufuna ukucisha ulwazi olukhethiwe?				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	af	Die huidige rekord is gewysig.\nWil u die veranderinge stoor?				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				1	af	Die huidige rekord is gewysig.\nWil u die veranderinge stoor?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	ar	تم تغيير السجل الحالي.\nهل تريد حفظ التغييرات‎؟				20040507 14:21:28
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	as-IN	চলিত ৰেকৰ্ড'টো সলনি হৈছে.\nআপুনি সলনি কৰাখিনি ছেভ কৰিবলৈ বিচাৰেনেকি?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				13691	be-BY	Актыўны запіс быў зменены.\nЦі жадаеце замацаваць змены?				2002-02-02 02:02:02
@@ -931,7 +932,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	xh	
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	zh-CN	当前的数据条目已经被修改。\n是否要保存修改后的数据条目？				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	zh-TW	目前的資料已經變更。要儲存變更的資料條目？				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_BRW_SAVEMODIFIED				0	zu	Irekhodi lamanje lishintshiwe.\nUfuna ukuseyva izinguquko?				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_CONNECTION_LOST				0	af	Die verbinding met die databasis het gebreek. Wil u weer verbind?				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_CONNECTION_LOST				1	af	Die verbinding met die databasis het gebreek. Wil u weer verbind?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_CONNECTION_LOST				0	as-IN	ডাটাবেছটোলৈ সংযোগ হেৰাই গৈছে. আপুনি পুনৰ সংযোগ কৰিবলৈ বিচাৰেনেকি?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_CONNECTION_LOST				13691	be-BY	Далучэнне да базы дадзеных было разарвана. Ці хочаце далучыцца да базы нанова?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	querybox	QUERY_CONNECTION_LOST				13691	bg	Връзката към базата от данни е загубена. Желаете ли да подновите връзката?				2002-02-02 02:02:02
@@ -1331,7 +1332,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_BOOKMARKS_CONTAINER				0	
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_BOOKMARKS_CONTAINER				0	tr	Bağlantılar				20040507 14:21:28
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_BOOKMARKS_CONTAINER				0	zh-CN	链接				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_BOOKMARKS_CONTAINER				0	zh-TW	捷徑				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_CONNECTION_LOST				0	af	Verbinding gebreek				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_CONNECTION_LOST				1	af	Verbinding gebreek				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_CONNECTION_LOST				0	ar	تم فقدان الاتصال				20040507 14:21:28
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_CONNECTION_LOST				0	as-IN	সংযোগ নষ্ট হ'ল				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_CONNECTION_LOST				13691	be-BY	Страчана далучэнне				2002-02-02 02:02:02
@@ -1408,7 +1409,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_CONNECTION_LOST				0	xh	U
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_CONNECTION_LOST				0	zh-CN	失去连接				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_CONNECTION_LOST				0	zh-TW	連線已經中斷				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_CONNECTION_LOST				0	zu	Uxhumano lulahlekile				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_DATABROWSER_FILTERED				0	af	(gefilter)				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_DATABROWSER_FILTERED				1	af	(gefilter)				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_DATABROWSER_FILTERED				0	ar	(مُصفّى)				20040507 14:21:28
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_DATABROWSER_FILTERED				0	as-IN	 (ফিল্টাৰ কৰা হ'ল )				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_DATABROWSER_FILTERED				13691	be-BY	(фільтраванае)				2002-02-02 02:02:02
@@ -1540,7 +1541,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_LOADING_DATASOURCE				0	x
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_LOADING_DATASOURCE				0	zh-CN	下载数据				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_LOADING_DATASOURCE				0	zh-TW	下載資料				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_LOADING_DATASOURCE				0	zu	Layisha ulwazi				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_QUERIES_CONTAINER				0	af	Navrae				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_QUERIES_CONTAINER				1	af	Navrae				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_QUERIES_CONTAINER				0	ar	استفسارات				20040507 14:21:28
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_QUERIES_CONTAINER				0	as-IN	প্ৰশ্নবোৰ				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_QUERIES_CONTAINER				13691	be-BY	Звароты				2002-02-02 02:02:02
@@ -1618,7 +1619,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_QUERIES_CONTAINER				0	xh
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_QUERIES_CONTAINER				0	zh-CN	查询				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_QUERIES_CONTAINER				0	zh-TW	查詢				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_QUERIES_CONTAINER				0	zu	Imibuzo				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_TABLES_CONTAINER				0	af	Tabelle				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_TABLES_CONTAINER				1	af	Tabelle				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_TABLES_CONTAINER				0	ar	Tables				20040507 14:21:28
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_TABLES_CONTAINER				0	as-IN	টেবুলবোৰ				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_TABLES_CONTAINER				13691	be-BY	Табліцы				2002-02-02 02:02:02
@@ -1696,7 +1697,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_TABLES_CONTAINER				0	xh	
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_TABLES_CONTAINER				0	zh-CN	表格				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_TABLES_CONTAINER				0	zh-TW	表格				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	RID_STR_TABLES_CONTAINER				0	zu	Amatafula				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_FILTER				0	af	Kon nie die filterkriteria stel nie				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_FILTER				1	af	Kon nie die filterkriteria stel nie				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_FILTER				0	ar	حدث خطأ أثناء تعيين معايير التصفية				20040507 14:21:28
 dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_FILTER				0	as-IN	ফিল্টাৰ নিৰ্ণায়কটো ছেটিং কৰোঁতে ভুল হৈছে				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_FILTER				13691	be-BY	Памылка пры ўстанаўленні ладу фільтравання				2002-02-02 02:02:02
@@ -1773,7 +1774,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_FILTER				0	x
 dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_FILTER				0	zh-CN	在设置筛选条件时发生错误				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_FILTER				0	zh-TW	設定篩選條件時發生一個錯誤				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_FILTER				0	zu	Iphutha ekumiseni uhlu lokuhluza				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				0	af	Kon nie die sorteerkriteria stel nie				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				1	af	Kon nie die sorteerkriteria stel nie				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				0	ar	حدث خطأ أثناء تعيين معايير الفرز				20040507 14:21:28
 dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				0	as-IN	বৰ্গীকৰণ নিৰ্ণায়কটো ছেটিং কৰোঁতে ভুল হৈছে				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				13691	be-BY	Памылка пры ўстанаўленні ладу парадкавання				2002-02-02 02:02:02
@@ -1850,7 +1851,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				0	xh
 dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				0	zh-CN	在设置排序条件时发生错误				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				0	zh-TW	設定編排條件時發生一個錯誤				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	SBA_BROWSER_SETTING_ORDER				0	zu	Iphutha ekumiseni uhlelo lokuhlaziya				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbabrw.src	0	string	STR_CONNECTING_DATASOURCE				0	af	Verbind tans aan "$name$" ...				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_CONNECTING_DATASOURCE				1	af	Verbind tans aan "$name$" ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_CONNECTING_DATASOURCE				0	as-IN	"$name$" লৈ ল'ড কৰি আছে ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_CONNECTING_DATASOURCE				13691	be-BY	Далучаецца да "$name$" ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_CONNECTING_DATASOURCE				13691	bg	Протича свързване с "$name$"...				2002-02-02 02:02:02
@@ -1883,7 +1884,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	STR_CONNECTING_DATASOURCE				0	ja
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_CONNECTING_DATASOURCE				13691	ka	"$name$"-სთან დაკავშირება...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_CONNECTING_DATASOURCE				13691	km	កំពុង​​ត​​ភ្ជាប់​​ទៅ​ "$name$"...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_CONNECTING_DATASOURCE				0	ko	"$name$"에 연결 중...				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbabrw.src	0	string	STR_CONNECTING_DATASOURCE				13691	ku	Bi "$name$" ra tê girêdan...				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_CONNECTING_DATASOURCE				13691	ku	Bi "$name$" ra tê girêdan ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_CONNECTING_DATASOURCE				13691	lt	Jungiamasi prie „$name$“ ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_CONNECTING_DATASOURCE				13691	mk	Се поврзувам со „$name$“ ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_CONNECTING_DATASOURCE				0	ml-IN	കണക്ട്"$name$"  ചെയ്യുന്നു ...				2002-02-02 02:02:02
@@ -1926,7 +1927,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	STR_CONNECTING_DATASOURCE				0	xh
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_CONNECTING_DATASOURCE				0	zh-CN	和 "$name$" 连接...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_CONNECTING_DATASOURCE				0	zh-TW	連線到 "$name$" ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_CONNECTING_DATASOURCE				0	zu	Ixhumanisa kwi-"$name$" ...				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbabrw.src	0	string	STR_COULDNOTCONNECT_DATASOURCE				0	af	Die verbinding met die databron "$name$" kon nie gemaak word nie.				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_COULDNOTCONNECT_DATASOURCE				1	af	Die verbinding met die databron "$name$" kon nie gemaak word nie.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_COULDNOTCONNECT_DATASOURCE				0	as-IN	ডাটা উত্স"$name$" টো স্থাপন কৰিব পৰা নগ'ল.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_COULDNOTCONNECT_DATASOURCE				13691	be-BY	Не ўдалося наладзіць далучэння да крыніцы дадзеных "$name$".				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_COULDNOTCONNECT_DATASOURCE				13691	bg	Не може да бъде установена връзка с източника на данни "$name$".				2002-02-02 02:02:02
@@ -2002,7 +2003,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	STR_COULDNOTCONNECT_DATASOURCE			
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_COULDNOTCONNECT_DATASOURCE				0	zh-CN	无法建立指向数据源 $name$ 的连接。				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_COULDNOTCONNECT_DATASOURCE				0	zh-TW	無法建立與資料來源「$name$」的連接。				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_COULDNOTCONNECT_DATASOURCE				0	zu	Uxhumano lwemvelaphi yolwazi lwe-"$name$" alusungulwanga.				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbabrw.src	0	string	STR_DSBROWSER_TITLE				0	af	Databronne-aansig				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_DSBROWSER_TITLE				1	af	Databronne-aansig				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_DSBROWSER_TITLE				0	as-IN	ডাটা উত্সবোৰ দৃশ্য				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_DSBROWSER_TITLE				13691	be-BY	Пагляд на крыніцы дадзеных				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_DSBROWSER_TITLE				13691	bg	Преглед на източниците на данни				2002-02-02 02:02:02
@@ -2078,7 +2079,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	STR_DSBROWSER_TITLE				0	xh	Ukujo
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_DSBROWSER_TITLE				0	zh-CN	数据源视图				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_DSBROWSER_TITLE				0	zh-TW	資料來源檢視				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_DSBROWSER_TITLE				0	zu	Umbukiso wezimvelaphi zolwazi				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_QUERY				0	af	Laai tans navraag $name$ ...				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_QUERY				1	af	Laai tans navraag $name$ ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_QUERY				0	as-IN	$name$ ল'ড কৰি আছে ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_QUERY				13691	be-BY	Чытаецца зварот $name$ ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_QUERY				13691	bg	Зарежда се заявката $name$...				2002-02-02 02:02:02
@@ -2154,7 +2155,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_QUERY				0	xh	Kulayis
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_QUERY				0	zh-CN	正在载入查询 $name$ ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_QUERY				0	zh-TW	載入查詢 $name$ ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_QUERY				0	zu	Ilayisha umbuzo we-$name$ ...				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_TABLE				0	af	Laai tans tabel $name$ ...				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_TABLE				1	af	Laai tans tabel $name$ ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_TABLE				0	as-IN	$name$ টেবুল ল'ড কৰি আছে ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_TABLE				13691	be-BY	Чытаецца табліца $name$ ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_TABLE				13691	bg	Зарежда се таблицата $name$...				2002-02-02 02:02:02
@@ -2230,7 +2231,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_TABLE				0	xh	Kulayis
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_TABLE				0	zh-CN	正在载入表格 $name$ ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_TABLE				0	zh-TW	載入表格 $name$ ...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_LOADING_TABLE				0	zu	Ilayisha itafula le-$name$ ...				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbabrw.src	0	string	STR_NO_TABLE_FORMAT_INSIDE				0	af	Geen tabelformaat kon gevind word nie.				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_NO_TABLE_FORMAT_INSIDE				1	af	Geen tabelformaat kon gevind word nie.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_NO_TABLE_FORMAT_INSIDE				0	as-IN	কোনো টেবুল ফৰমেট পাব পৰা নগ'ল.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_NO_TABLE_FORMAT_INSIDE				13691	be-BY	Не ўдалося знайсці ніводнага фармату табліцы.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_NO_TABLE_FORMAT_INSIDE				13691	bg	Не може да бъде намерен табличен формат.				2002-02-02 02:02:02
@@ -2306,7 +2307,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	STR_NO_TABLE_FORMAT_INSIDE				0	x
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_NO_TABLE_FORMAT_INSIDE				0	zh-CN	未找到任何表格格式。				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_NO_TABLE_FORMAT_INSIDE				0	zh-TW	找不到表格格式。				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_NO_TABLE_FORMAT_INSIDE				0	zu	Asikho isakhiwo esitholakele.				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS				0	af	Daar was waarskuwings				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS				1	af	Daar was waarskuwings				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS				0	as-IN	সঁকিয়নিবোৰৰ সন্মুখীন হ'ল				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS				13691	be-BY	Папярэджанні				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS				13691	bg	Срещнати са предупреждения				2002-02-02 02:02:02
@@ -2382,7 +2383,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS				0	xh	K
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS				0	zh-CN	遇到警告				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS				0	zh-TW	遇到警告訊息				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS				0	zu	Kutholakale izxwayiso				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS_DETAILS				0	af	Waarskuwings is deur die databasisverbinding gerapporteer terwyl die tabelle herwin is.				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS_DETAILS				1	af	Waarskuwings is deur die databasisverbinding gerapporteer terwyl die tabelle herwin is.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS_DETAILS				0	as-IN	টেবুলবোৰ সংশোধন কৰোতে, সঁকিয়নিবোৰ ডাটাবেছ সংযোগটোৰ দ্বাৰা ৰিপৰ্ট কৰা হ'ল.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS_DETAILS				13691	be-BY	Пры чытанні табліц, былі атрыманыя папярэджанні з боку далучэння да базы дадзеных.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_OPENTABLES_WARNINGS_DETAILS				13691	bg	При извличане на таблиците са получени предупреждения от връзката с базата от данни.				2002-02-02 02:02:02
@@ -2471,7 +2472,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_QUERY				0	ru	У
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_QUERY				0	sv	Ska sökningen '%1' raderas?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_QUERY				0	zh-CN	是否要删除查询 %1？				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_QUERY				0	zh-TW	您是否要刪除查詢「%1」？				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_TABLE				0	af	Wil u die tabel '%1' skrap?				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_TABLE				1	af	Wil u die tabel '%1' skrap?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_TABLE				0	as-IN	'%1' টেবুলখন আপুনি ডিলিট কৰিবলৈ বিচাৰেনেকি?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_TABLE				13691	be-BY	Ці хочаце сцерці табліцу '%1'?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_TABLE				13691	bg	Желаете ли таблицата "%1" да бъде изтрита?				2002-02-02 02:02:02
@@ -2547,7 +2548,7 @@ dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_TABLE				0	xh	In
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_TABLE				0	zh-CN	是否要删除这个表格 '%1'？				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_TABLE				0	zh-TW	要刪除表格 '%1'?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_QUERY_DELETE_TABLE				0	zu	Ufuna ukucisha itafula '%1'?				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbabrw.src	0	string	STR_TITLE_CONFIRM_DELETION				0	af	Bevestig skrapping				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbabrw.src	0	string	STR_TITLE_CONFIRM_DELETION				1	af	Bevestig skrapping				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_TITLE_CONFIRM_DELETION				0	as-IN	ডিলিট কৰাটো নিশ্চিত কৰক				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_TITLE_CONFIRM_DELETION				13691	be-BY	Пацвердзіць сціранне				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbabrw.src	0	string	STR_TITLE_CONFIRM_DELETION				13691	bg	Потвърдете изтриването				2002-02-02 02:02:02
@@ -2935,7 +2936,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BRO
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_TABLEATTR	HID_BROWSER_TABLEFORMAT		0	zh-CN	表格格式...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_TABLEATTR	HID_BROWSER_TABLEFORMAT		0	zh-TW	工作表格式...				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	menuitem	RID_SBA_GRID_ROWCTXMENU	ID_BROWSER_TABLEATTR	HID_BROWSER_TABLEFORMAT		0	zu	Isakhiwo Setafula...				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_SAVE_CURRENT_RECORD				0	af	Stoor huidige rekord				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_SAVE_CURRENT_RECORD				1	af	Stoor huidige rekord				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_SAVE_CURRENT_RECORD				0	ar	حفظ السجل الحالي				20040507 14:21:28
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_SAVE_CURRENT_RECORD				0	as-IN	চলিত ৰেকৰ্ড ছেভ কৰক				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_SAVE_CURRENT_RECORD				13691	be-BY	Замацаваць гэты запіс				2002-02-02 02:02:02
@@ -3012,7 +3013,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_SAVE_CURRENT_RECORD				0
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_SAVE_CURRENT_RECORD				0	zh-CN	保存当前的数据条目				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_SAVE_CURRENT_RECORD				0	zh-TW	儲存目前的資料條目				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_SAVE_CURRENT_RECORD				0	zu	Gcina irekhodi lamanje				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	af	Ontdoen: data toevoer				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				1	af	Ontdoen: data toevoer				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	ar	تراجع: إدخال بيانات				20040507 14:21:28
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	as-IN	পূৰ্ব নিৰ্দেশ বাতিল কৰক: ডাটা ইনপুট্				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				13691	be-BY	Адкаціць: увод дадзеных				2002-02-02 02:02:02
@@ -3089,7 +3090,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	zh-CN	撤消: 输入数据				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	zh-TW	還原：資料輸入				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	RID_STR_UNDO_MODIFY_RECORD				0	zu	Qaqa: Umphumela Wangaphakathi				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				0	af	Vertoon die geselekteerde tabel of navraag.				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				1	af	Vertoon die geselekteerde tabel of navraag.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				0	ar	Shows the selected table/query.				20040507 14:21:28
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				0	as-IN	নিৰ্বাচিত টেবুল বা প্ৰশ্ন.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				13691	be-BY	Паказвае азначаную табліцу або зварот.				2002-02-02 02:02:02
@@ -3166,7 +3167,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC	
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				0	zh-CN	显示已经选择的表格或查询。				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				0	zh-TW	顯示已選擇的表格/查詢。				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_DESC				0	zu	Khombisa ifatula elikhethiwe noma umbuzo.				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				0	af	Databrontabel-aansig				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				1	af	Databrontabel-aansig				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				0	ar	Datasource tableview				20040507 14:21:28
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				0	as-IN	ডাটা উত্স টেবুলৰ দৃশ্য 				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				13691	be-BY	Табліцавы від крыніцы дадзеных				2002-02-02 02:02:02
@@ -3243,7 +3244,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME	
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				0	zh-CN	数据源的表格视图				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				0	zh-TW	資料來源的表格檢視				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_DATASOURCE_GRIDCONTROL_NAME				0	zu	Umbukiso wetafula lemvelaphi yolwazi				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbagrid.src	0	string	STR_ERROR_OCCURED_WHILE_COPYING				0	af	'n Fout het plaasgevind. Wil u voortgaan om te kopieer?				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_ERROR_OCCURED_WHILE_COPYING				1	af	'n Fout het plaasgevind. Wil u voortgaan om te kopieer?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_ERROR_OCCURED_WHILE_COPYING				0	ar	A error occured. Would you like to continue the copying?				20040507 14:21:28
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_ERROR_OCCURED_WHILE_COPYING				0	as-IN	এটা ভুল হ'ল. আপুনি প্ৰতিলিপিকৰণ অব্যাহত ৰাখিবলৈ বিচাৰেনেকি?				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_ERROR_OCCURED_WHILE_COPYING				13691	be-BY	Здарылася памылка. Ці будзеце працягваць капіраванне?				2002-02-02 02:02:02
@@ -3320,6 +3321,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	string	STR_ERROR_OCCURED_WHILE_COPYING	
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_ERROR_OCCURED_WHILE_COPYING				0	zh-CN	出现一个错误！是否要继续复制？				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_ERROR_OCCURED_WHILE_COPYING				0	zh-TW	已經發生一個錯誤。要繼續複製？				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_ERROR_OCCURED_WHILE_COPYING				0	zu	Iphutha lenzekile. Ufuna ukuqhubeka nokukhipha?				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NAME_ALREADY_EXISTS				1	af	Die naam "#" bestaan reeds.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NAME_ALREADY_EXISTS				13691	be-BY	Назва "#" ужо існуе.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NAME_ALREADY_EXISTS				13691	bg	Името "#" вече съществува.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NAME_ALREADY_EXISTS				58536	br	An anv "#" zo anezhañ endeo.				2002-02-02 02:02:02
@@ -3363,7 +3365,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NAME_ALREADY_EXISTS				13691
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NAME_ALREADY_EXISTS				13691	vi	Tên « # » đã có.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NAME_ALREADY_EXISTS				58536	zh-CN	名称 "#" 已经存在。				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NAME_ALREADY_EXISTS				58536	zh-TW	名稱「#」已經存在。				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				0	af	Geen passende kolomname is gevind nie.				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				1	af	Geen passende kolomname is gevind nie.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				0	ar	No matching column names found.				20040507 14:21:28
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				0	as-IN	কোনো মিল থকা স্তম্ভৰ নামবোৰ পোৱা নগ'ল.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				13691	be-BY	Не знойдзена адпаведных назваў калонак.				2002-02-02 02:02:02
@@ -3410,7 +3412,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				0	
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				0	ns	Ga go maina a kholomo a go nyalelana a hweditšwego.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				0	or-IN	କୌଣସି ଏକା ସ୍ତମ୍ଭର ନାମଗୁଡିକ ମିଳୁନାହିଁ୤				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				13691	pa-IN	ਕੋਈ ਮੇਲ ਖਾਂਦਾ ਕਾਲਮ ਨਾਂ ਨਹੀਂ ਲੱਭਿਆ।				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				0	pl	Nie znaleziono pasujących nazw kolumn				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				0	pl	Nie znaleziono pasujących nazw kolumn.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				0	pt	Não foi possível encontrar nomes de colunas correspondentes.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				0	pt-BR	Não foram encontrados nomes de coluna compatíveis.				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_NO_COLUMNNAME_MATCHING				0	ru	Не найдено соответствующих имен столбцов.				2002-02-02 02:02:02
@@ -3508,7 +3510,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	string	STR_OBJECT_ALREADY_EXISTS				0	x
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_OBJECT_ALREADY_EXISTS				0	zh-CN	名称 # 已经存在。				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_OBJECT_ALREADY_EXISTS				0	zh-TW	名稱「#」已經存在。				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_OBJECT_ALREADY_EXISTS				0	zu	Igama "#" selivele likhona.				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbagrid.src	0	string	STR_QRY_TITLE				0	af	Navraag #				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_QRY_TITLE				1	af	Navraag #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_QRY_TITLE				0	ar	الاستفسار #				20040507 14:21:28
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_QRY_TITLE				0	as-IN	প্ৰশ্ন #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_QRY_TITLE				13691	be-BY	Зварот № 				2002-02-02 02:02:02
@@ -3584,7 +3586,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	string	STR_QRY_TITLE				0	xh	Intandabuz
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_QRY_TITLE				0	zh-CN	查询 #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_QRY_TITLE				0	zh-TW	查詢 #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_QRY_TITLE				0	zu	Umbuzo #				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbagrid.src	0	string	STR_TBL_TITLE				0	af	Tabel #				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_TBL_TITLE				1	af	Tabel #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_TBL_TITLE				0	ar	الجدول #				20040507 14:21:28
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_TBL_TITLE				0	as-IN	টেবুল #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_TBL_TITLE				13691	be-BY	Табліца № 				2002-02-02 02:02:02
@@ -3660,7 +3662,7 @@ dbaccess	source\ui\browser\sbagrid.src	0	string	STR_TBL_TITLE				0	xh	Itheyibhil
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_TBL_TITLE				0	zh-CN	表格 #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_TBL_TITLE				0	zh-TW	表格 #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_TBL_TITLE				0	zu	Ithebula #				2002-02-02 02:02:02
-dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				0	af	Bekyk #				2002-02-02 02:02:02
+dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				1	af	Bekyk #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				0	ar	View #				20040507 14:21:28
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				0	as-IN	দৃশ্য #				2002-02-02 02:02:02
 dbaccess	source\ui\browser\sbagrid.src	0	string	STR_VIEW_TITLE				13691	be-BY	Від № 				2002-02-02 02:02:02
