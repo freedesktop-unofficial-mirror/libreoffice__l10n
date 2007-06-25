@@ -13,9 +13,9 @@
 #
 #   $RCSfile: localize.sdf,v $
 #
-#   $Revision: 1.25 $
+#   $Revision: 1.26 $
 #
-#   last change: $Author: ihi $ $Date: 2007-04-19 13:04:12 $
+#   last change: $Author: vg $ $Date: 2007-06-25 14:51:47 $
 #
 #   The Contents of this file are made available subject to
 #   the terms of GNU Lesser General Public License Version 2.1.
@@ -378,7 +378,7 @@ sw	source\ui\docvw\access.src	0	string	STR_ACCESS_FOOTER_DESC				0	ja	フッタ�
 sw	source\ui\docvw\access.src	0	string	STR_ACCESS_FOOTER_DESC				13691	ka	ქვედა კოლონტიტულის გვერდი $(ARG1)				2002-02-02 02:02:02
 sw	source\ui\docvw\access.src	0	string	STR_ACCESS_FOOTER_DESC				13691	km	​ទំព័រ​បាតកថា $(ARG1)				2002-02-02 02:02:02
 sw	source\ui\docvw\access.src	0	string	STR_ACCESS_FOOTER_DESC				0	ko	바닥글 페이지 $(ARG1)				2002-02-02 02:02:02
-sw	source\ui\docvw\access.src	0	string	STR_ACCESS_FOOTER_DESC				13691	ku	Rûpela agahiya binî  $(ARG1)				2002-02-02 02:02:02
+sw	source\ui\docvw\access.src	0	string	STR_ACCESS_FOOTER_DESC				13691	ku	Rûpela agahiya binî $(ARG1)				2002-02-02 02:02:02
 sw	source\ui\docvw\access.src	0	string	STR_ACCESS_FOOTER_DESC				13691	lt	Poraštės puslapis $(ARG1)				2002-02-02 02:02:02
 sw	source\ui\docvw\access.src	0	string	STR_ACCESS_FOOTER_DESC				13691	mk	Подножје на страница $(ARG1)				2002-02-02 02:02:02
 sw	source\ui\docvw\access.src	0	string	STR_ACCESS_FOOTER_DESC				0	ml-IN	അടിക്കുറിപ്പ് പേജ് $(ARG1)				2002-02-02 02:02:02
@@ -2294,6 +2294,7 @@ sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_OPENURLNEW
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_OPENURLNEW	SID_OPENDOC		0	zh-CN	在新窗口中打开				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_OPENURLNEW	SID_OPENDOC		0	zh-TW	用新視窗開啟				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_OPENURLNEW	SID_OPENDOC		0	zu	Vula Kiw-window Entsha				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_PLUGINOFF	HID_MN_READONLY_PLUGINOFF		0	af	Inproppe af				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_PLUGINOFF	HID_MN_READONLY_PLUGINOFF		0	as-IN	প্লাগ-ইনবোৰ অফ 				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_PLUGINOFF	HID_MN_READONLY_PLUGINOFF		13691	be-BY	Без плугінаў				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_PLUGINOFF	HID_MN_READONLY_PLUGINOFF		13691	bg	Изключване на приставките				2002-02-02 02:02:02
@@ -2867,7 +2868,7 @@ sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_SOURCEVIEW
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_SOURCEVIEW	HID_SOURCEVIEW		0	ve	Tshiko tsha HT~ML				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_SOURCEVIEW	HID_SOURCEVIEW		13691	vi	Mã nguồn HT~ML				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_SOURCEVIEW	HID_SOURCEVIEW		0	xh	Umthombo weHT~ML				2002-02-02 02:02:02
-sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_SOURCEVIEW	HID_SOURCEVIEW		0	zh-CN	HTML 源文本(~M)				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_SOURCEVIEW	HID_SOURCEVIEW		0	zh-CN	HT~ML 源文本				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_SOURCEVIEW	HID_SOURCEVIEW		0	zh-TW	HT~ML 原始檔				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_SOURCEVIEW	HID_SOURCEVIEW		0	zu	~Imvelephi ye-HTML				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	SID_WIN_FULLSCREEN	SID_WIN_FULLSCREEN		0	af	Verlaat volskermmodus				2002-02-02 02:02:02
