@@ -13,9 +13,9 @@
 #
 #   $RCSfile: localize.sdf,v $
 #
-#   $Revision: 1.28 $
+#   $Revision: 1.29 $
 #
-#   last change: $Author: ihi $ $Date: 2007-04-19 13:46:17 $
+#   last change: $Author: vg $ $Date: 2007-06-25 15:01:51 $
 #
 #   The Contents of this file are made available subject to
 #   the terms of GNU Lesser General Public License Version 2.1.
@@ -41,7 +41,7 @@
 #     MA  02111-1307  USA
 #
 #*************************************************************************
-basctl	source\basicide\basidesh.src	0	imagebutton	RID_IMGBTN_REMOVEWATCH		HID_BASICIDE_REMOVEWATCH		0	af	-		Verwyder horlosie		2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	imagebutton	RID_IMGBTN_REMOVEWATCH		HID_BASICIDE_REMOVEWATCH		80	af	-		Verwyder horlosie		2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	imagebutton	RID_IMGBTN_REMOVEWATCH		HID_BASICIDE_REMOVEWATCH		0	ar	-		إزالة المراقب		20040507 14:21:2
 basctl	source\basicide\basidesh.src	0	imagebutton	RID_IMGBTN_REMOVEWATCH		HID_BASICIDE_REMOVEWATCH		0	as-IN	-		ঘড়ী আঁতৰাওক		2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	imagebutton	RID_IMGBTN_REMOVEWATCH		HID_BASICIDE_REMOVEWATCH		80	be-BY	-		Выдаліць назіральніка		2002-02-02 02:02:02
@@ -118,7 +118,7 @@ basctl	source\basicide\basidesh.src	0	imagebutton	RID_IMGBTN_REMOVEWATCH		HID_BA
 basctl	source\basicide\basidesh.src	0	imagebutton	RID_IMGBTN_REMOVEWATCH		HID_BASICIDE_REMOVEWATCH		0	zh-CN	-		隐入查看		2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	imagebutton	RID_IMGBTN_REMOVEWATCH		HID_BASICIDE_REMOVEWATCH		0	zh-TW	-		隱入檢視		2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	imagebutton	RID_IMGBTN_REMOVEWATCH		HID_BASICIDE_REMOVEWATCH		0	zu	-		Gudluza Iwashi		2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	menu	RID_POPUP_BRKDLG				0	af	Organiseer breekpunte				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	menu	RID_POPUP_BRKDLG				80	af	Organiseer breekpunte				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menu	RID_POPUP_BRKDLG				0	ar	نقاط الإيقاف				20040507 14:21:2
 basctl	source\basicide\basidesh.src	0	menu	RID_POPUP_BRKDLG				80	be-BY	Распараджацца перапынкамі				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menu	RID_POPUP_BRKDLG				0	bg	Управление на точките на прекъсване				2002-02-02 02:02:02
@@ -190,7 +190,7 @@ basctl	source\basicide\basidesh.src	0	menu	RID_POPUP_BRKDLG				0	xh	Lawula Iinda
 basctl	source\basicide\basidesh.src	0	menu	RID_POPUP_BRKDLG				0	zh-CN	管理断点				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menu	RID_POPUP_BRKDLG				0	zh-TW	管理中斷點				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menu	RID_POPUP_BRKDLG				0	zu	Phatha Amakhefu				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	menu	RID_POPUP_BRKPROPS				0	af	Eienskappe				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	menu	RID_POPUP_BRKPROPS				80	af	Eienskappe				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menu	RID_POPUP_BRKPROPS				0	ar	خصائص				20040507 14:21:2
 basctl	source\basicide\basidesh.src	0	menu	RID_POPUP_BRKPROPS				0	as-IN	বৈশিষ্ট্যবোৰ				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menu	RID_POPUP_BRKPROPS				80	be-BY	Уласцівасці				2002-02-02 02:02:02
@@ -566,7 +566,7 @@ basctl	source\basicide\basidesh.src	0	menuitem	RID_BASICPLUGINMENU.MN_PLVIEW.S~y
 basctl	source\basicide\basidesh.src	0	menuitem	RID_BASICPLUGINMENU.MN_PLVIEW.S~ymbolleisten	SID_TOGGLETOOLBAR	SID_TOGGLETOOLBAR		0	tr	Ana ~Araç Çubuğu				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_BASICPLUGINMENU.MN_PLVIEW.S~ymbolleisten	SID_TOGGLETOOLBAR	SID_TOGGLETOOLBAR		0	zh-CN	主工具栏(~T)				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_BASICPLUGINMENU.MN_PLVIEW.S~ymbolleisten	SID_TOGGLETOOLBAR	SID_TOGGLETOOLBAR		0	zh-TW	主工具列(~T)				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_BRKDLG	RID_BRKDLG	HID_BASICIDE_BRKDLG		0	af	Organiseer breekpunte...				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_BRKDLG	RID_BRKDLG	HID_BASICIDE_BRKDLG		1	af	Organiseer breekpunte...				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_BRKDLG	RID_BRKDLG	HID_BASICIDE_BRKDLG		0	ar	...نقاط الإيقاف				20040507 14:21:2
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_BRKDLG	RID_BRKDLG	HID_BASICIDE_BRKDLG		0	as-IN	ব্ৰেকপইন্টবোৰ পৰিচালনা কৰক...				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_BRKDLG	RID_BRKDLG	HID_BASICIDE_BRKDLG		13691	be-BY	Распараджацца перапынкамі...				2002-02-02 02:02:02
@@ -642,7 +642,7 @@ basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_BRKDLG	RID_BRKDLG	HID_B
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_BRKDLG	RID_BRKDLG	HID_BASICIDE_BRKDLG		0	zh-CN	管理断点...				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_BRKDLG	RID_BRKDLG	HID_BASICIDE_BRKDLG		0	zh-TW	管理中斷點...				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_BRKDLG	RID_BRKDLG	HID_BASICIDE_BRKDLG		0	zu	Phatha Amakhefu...				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_BRKPROPS	RID_ACTIV	HID_BASICIDE_ACTIV		0	af	Aktief				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_BRKPROPS	RID_ACTIV	HID_BASICIDE_ACTIV		1	af	Aktief				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_BRKPROPS	RID_ACTIV	HID_BASICIDE_ACTIV		0	ar	نشط				20040507 14:21:2
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_BRKPROPS	RID_ACTIV	HID_BASICIDE_ACTIV		13691	be-BY	Актыўныя				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_BRKPROPS	RID_ACTIV	HID_BASICIDE_ACTIV		13691	bg	Активен				2002-02-02 02:02:02
@@ -716,7 +716,7 @@ basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_BRKPROPS	RID_ACTIV	HID_
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_BRKPROPS	RID_ACTIV	HID_BASICIDE_ACTIV		0	zh-CN	使用中				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_BRKPROPS	RID_ACTIV	HID_BASICIDE_ACTIV		0	zh-TW	使用中				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_BRKPROPS	RID_ACTIV	HID_BASICIDE_ACTIV		0	zu	Kuyasebenza				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_BRKPROPS	RID_BRKPROPS	HID_BASICIDE_BRKPROPS		0	af	Eienskappe...				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_BRKPROPS	RID_BRKPROPS	HID_BASICIDE_BRKPROPS		1	af	Eienskappe...				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_BRKPROPS	RID_BRKPROPS	HID_BASICIDE_BRKPROPS		0	ar	...خصائص				20040507 14:21:2
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_BRKPROPS	RID_BRKPROPS	HID_BASICIDE_BRKPROPS		0	as-IN	বৈশিষ্ট্যবোৰ...				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_BRKPROPS	RID_BRKPROPS	HID_BASICIDE_BRKPROPS		13691	be-BY	Уласцівасці...				2002-02-02 02:02:02
@@ -792,7 +792,7 @@ basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_BRKPROPS	RID_BRKPROPS	H
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_BRKPROPS	RID_BRKPROPS	HID_BASICIDE_BRKPROPS		0	zh-CN	属性...				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_BRKPROPS	RID_BRKPROPS	HID_BASICIDE_BRKPROPS		0	zh-TW	屬性...				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_BRKPROPS	RID_BRKPROPS	HID_BASICIDE_BRKPROPS		0	zu	Izinkomba zobunini...				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_DLGED	SID_SHOW_PROPERTYBROWSER	SID_SHOW_PROPERTYBROWSER		0	af	Eienskappe...				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_DLGED	SID_SHOW_PROPERTYBROWSER	SID_SHOW_PROPERTYBROWSER		1	af	Eienskappe...				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_DLGED	SID_SHOW_PROPERTYBROWSER	SID_SHOW_PROPERTYBROWSER		0	ar	...خصائص				20040507 14:21:2
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_DLGED	SID_SHOW_PROPERTYBROWSER	SID_SHOW_PROPERTYBROWSER		0	as-IN	বৈশিষ্ট্যবোৰ...				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_DLGED	SID_SHOW_PROPERTYBROWSER	SID_SHOW_PROPERTYBROWSER		13691	be-BY	Уласцівасці...				2002-02-02 02:02:02
@@ -868,7 +868,7 @@ basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_DLGED	SID_SHOW_PROPERTY
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_DLGED	SID_SHOW_PROPERTYBROWSER	SID_SHOW_PROPERTYBROWSER		0	zh-CN	属性...				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_DLGED	SID_SHOW_PROPERTYBROWSER	SID_SHOW_PROPERTYBROWSER		0	zh-TW	屬性...				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_DLGED	SID_SHOW_PROPERTYBROWSER	SID_SHOW_PROPERTYBROWSER		0	zu	Izinkomba zobunini...				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	RID_INSERT			0	af	Invoeg				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	RID_INSERT			1	af	Invoeg				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	RID_INSERT			0	ar	إدراج				20040507 14:21:2
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	RID_INSERT			0	as-IN	ভৰাওক				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	RID_INSERT			13691	be-BY	Уставіць				2002-02-02 02:02:02
@@ -946,7 +946,7 @@ basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	RID_INSERT			0	x
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	RID_INSERT			0	zh-CN	插入				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	RID_INSERT			0	zh-TW	插入				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	RID_INSERT			0	zu	Faka				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_DELETECURRENT	SID_BASICIDE_DELETECURRENT		0	af	Skrap				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_DELETECURRENT	SID_BASICIDE_DELETECURRENT		1	af	Skrap				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_DELETECURRENT	SID_BASICIDE_DELETECURRENT		0	ar	حذف				20040507 14:21:2
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_DELETECURRENT	SID_BASICIDE_DELETECURRENT		0	as-IN	ডিলিট কৰক				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_DELETECURRENT	SID_BASICIDE_DELETECURRENT		13691	be-BY	Сцерці				2002-02-02 02:02:02
@@ -1024,7 +1024,7 @@ basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_DEL
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_DELETECURRENT	SID_BASICIDE_DELETECURRENT		0	zh-CN	删除				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_DELETECURRENT	SID_BASICIDE_DELETECURRENT		0	zh-TW	刪除				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_DELETECURRENT	SID_BASICIDE_DELETECURRENT		0	zu	Cisha				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_HIDECURPAGE	SID_BASICIDE_HIDECURPAGE		0	af	Verskuil				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_HIDECURPAGE	SID_BASICIDE_HIDECURPAGE		1	af	Verskuil				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_HIDECURPAGE	SID_BASICIDE_HIDECURPAGE		0	ar	إخفاء				20040507 14:21:2
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_HIDECURPAGE	SID_BASICIDE_HIDECURPAGE		0	as-IN	লুকুৱাই থওক				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_HIDECURPAGE	SID_BASICIDE_HIDECURPAGE		13691	be-BY	Не паказваць				2002-02-02 02:02:02
@@ -1102,7 +1102,7 @@ basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_HID
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_HIDECURPAGE	SID_BASICIDE_HIDECURPAGE		0	zh-CN	隐藏				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_HIDECURPAGE	SID_BASICIDE_HIDECURPAGE		0	zh-TW	隱入				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_HIDECURPAGE	SID_BASICIDE_HIDECURPAGE		0	zu	Fihla				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_MODULEDLG	SID_BASICIDE_MODULEDLG		0	af	Modules...				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_MODULEDLG	SID_BASICIDE_MODULEDLG		1	af	Modules...				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_MODULEDLG	SID_BASICIDE_MODULEDLG		0	ar	...وحدات نمطية				20040507 14:21:2
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_MODULEDLG	SID_BASICIDE_MODULEDLG		0	as-IN	মডিয়ুলবোৰ...				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_MODULEDLG	SID_BASICIDE_MODULEDLG		13691	be-BY	Модулі...				2002-02-02 02:02:02
@@ -1179,7 +1179,7 @@ basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_MOD
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_MODULEDLG	SID_BASICIDE_MODULEDLG		0	zh-CN	模块...				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_MODULEDLG	SID_BASICIDE_MODULEDLG		0	zh-TW	模塊...				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_MODULEDLG	SID_BASICIDE_MODULEDLG		0	zu	Izingxenye...				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_RENAMECURRENT	SID_BASICIDE_RENAMECURRENT		0	af	Hernoem				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_RENAMECURRENT	SID_BASICIDE_RENAMECURRENT		1	af	Hernoem				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_RENAMECURRENT	SID_BASICIDE_RENAMECURRENT		0	ar	إعادة تسمية				20040507 14:21:2
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_RENAMECURRENT	SID_BASICIDE_RENAMECURRENT		0	as-IN	পুনৰ নাম দিয়ক				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR	SID_BASICIDE_RENAMECURRENT	SID_BASICIDE_RENAMECURRENT		13691	be-BY	Назваць				2002-02-02 02:02:02
@@ -1408,7 +1408,7 @@ basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR.RID_INSERT	SID_B
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR.RID_INSERT	SID_BASICIDE_NEWMODULE	SID_BASICIDE_NEWMODULE		0	zh-CN	BASIC 模块				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR.RID_INSERT	SID_BASICIDE_NEWMODULE	SID_BASICIDE_NEWMODULE		0	zh-TW	BASIC 模組				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	menuitem	RID_POPUP_TABBAR.RID_INSERT	SID_BASICIDE_NEWMODULE	SID_BASICIDE_NEWMODULE		0	zu	Ingxenye ye-BASIC				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_BASICIDE_OBJECTBAR				0	af	Makrobalk				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_BASICIDE_OBJECTBAR				1	af	Makrobalk				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_BASICIDE_OBJECTBAR				0	as-IN	মেক্ৰ' বাৰ				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_BASICIDE_OBJECTBAR				13691	be-BY	Стужка макрасаў				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_BASICIDE_OBJECTBAR				13691	bg	Лента Макроси				2002-02-02 02:02:02
@@ -1482,7 +1482,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_BASICIDE_OBJECTBAR				0	xh	Isix
 basctl	source\basicide\basidesh.src	0	string	RID_BASICIDE_OBJECTBAR				0	zh-CN	宏栏				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_BASICIDE_OBJECTBAR				0	zh-TW	巨集列				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_BASICIDE_OBJECTBAR				0	zu	Uphawu Olukhulu				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_ALL				0	af	Almal				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_ALL				1	af	Almal				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_ALL				0	ar	الكل				20040507 14:21:2
 basctl	source\basicide\basidesh.src	0	string	RID_STR_ALL				0	as-IN	সকলো				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_ALL				13691	be-BY	Усе				2002-02-02 02:02:02
@@ -1630,7 +1630,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_APPENDLIBS				0	xh	Hlomela 
 basctl	source\basicide\basidesh.src	0	string	RID_STR_APPENDLIBS				0	zh-CN	导入程序库				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_APPENDLIBS				0	zh-TW	匯入程式庫				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_APPENDLIBS				0	zu	Namathisela Imitapo yolwazi				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_BADSBXNAME				0	af	Ongeldige naam				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_BADSBXNAME				1	af	Ongeldige naam				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_BADSBXNAME				0	ar	اسم غير صالح				20040507 14:21:1
 basctl	source\basicide\basidesh.src	0	string	RID_STR_BADSBXNAME				0	as-IN	অকার্যকৰী নাম				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_BADSBXNAME				13691	be-BY	Недапушчальная назва				2002-02-02 02:02:02
@@ -1708,7 +1708,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_BADSBXNAME				0	xh	Igama El
 basctl	source\basicide\basidesh.src	0	string	RID_STR_BADSBXNAME				0	zh-CN	无效的名称				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_BADSBXNAME				0	zh-TW	名稱無效				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_BADSBXNAME				0	zu	Igama elingasebenzi				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_BASIC				0	af	BASIC				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_BASIC				1	af	BASIC				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_BASIC				0	ar	BASIC				20040507 14:21:2
 basctl	source\basicide\basidesh.src	0	string	RID_STR_BASIC				0	as-IN	BASIC				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_BASIC				13691	be-BY	Бэйсік				2002-02-02 02:02:02
@@ -1785,7 +1785,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_BASIC				0	xh	BASIC				2002
 basctl	source\basicide\basidesh.src	0	string	RID_STR_BASIC				0	zh-CN	BASIC				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_BASIC				0	zh-TW	BASIC				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_BASIC				0	zu	BASIC				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTCHANGENAMEREFLIB				0	af	Die naam van 'n biblioteek waarna verwys word kan nie verander word nie.				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTCHANGENAMEREFLIB				1	af	Die naam van 'n biblioteek waarna verwys word kan nie verander word nie.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTCHANGENAMEREFLIB				0	ar	.لا يمكن تغيير اسم مكتبة مرجعية				20040507 14:21:2
 basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTCHANGENAMEREFLIB				0	as-IN	উল্লেখিত লাইব্ৰেৰীটোৰ নামটো সলনি কৰিব নোৱাৰি.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTCHANGENAMEREFLIB				13691	be-BY	Нельга змяніць назву бібліятэкі, на якую паказвае спасылка.				2002-02-02 02:02:02
@@ -1862,7 +1862,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTCHANGENAMEREFLIB				0
 basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTCHANGENAMEREFLIB				0	zh-CN	无法修改引用程序库的名称。				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTCHANGENAMEREFLIB				0	zh-TW	無法變更參照程式庫的名稱。				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTCHANGENAMEREFLIB				0	zu	Igama lomtapo wolwazi onikeziwe angeke ushintshwe.				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTCHANGENAMESTDLIB				0	af	Die naam van die verstekbiblioteek kan nie verander word nie.				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTCHANGENAMESTDLIB				1	af	Die naam van die verstekbiblioteek kan nie verander word nie.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTCHANGENAMESTDLIB				0	ar	لا يمكن تغيير اسم المكتبة الافتراضية				20040507 14:21:2
 basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTCHANGENAMESTDLIB				0	as-IN	ডিফল্ট লাইব্ৰেৰীৰ নামটো সলনি কৰিব নোৱাৰি.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTCHANGENAMESTDLIB				13691	be-BY	Нельга змяніць назву прадвызначанай бібліятэкі.				2002-02-02 02:02:02
@@ -1940,7 +1940,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTCHANGENAMESTDLIB				0
 basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTCHANGENAMESTDLIB				0	zh-CN	无法修改默认程序库的名称。				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTCHANGENAMESTDLIB				0	zh-TW	無法變更這個標準程式庫的名稱。				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTCHANGENAMESTDLIB				0	zu	Igama lomtapo wolwazi wendalo angeke ushintshwe.				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTCLOSE				0	af	Die venster kan nie gesluit word terwyl BASIC loop nie.				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTCLOSE				1	af	Die venster kan nie gesluit word terwyl BASIC loop nie.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTCLOSE				0	ar	لا يمكن إغلاق النافذة،\nبينما برنامج BASIC قيد التشغيل.				20040507 14:21:2
 basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTCLOSE				0	as-IN	BASIC চলি থকা সময়ত উইণ্ড'টো বন্ধ কৰিব নোৱাৰি.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTCLOSE				13691	be-BY	Нельга закрыць гэта ваконца, пакуль працуе Бэйсік.				2002-02-02 02:02:02
@@ -2016,7 +2016,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTCLOSE				0	xh	Ifestil
 basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTCLOSE				0	zh-CN	在 BASIC 程序运行时\n无法关闭窗口。				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTCLOSE				0	zh-TW	在 BASIC 程式運行時\n無法關閉視窗。				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTCLOSE				0	zu	I-window angeke livalwe ngenkathi i-BASIC isasebenza.				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTRUNMACRO				0	af	Om sekuriteitsredes kan u nie hierdie makro loop nie.\n\nKontroleer die sekuriteitinstelling vir meer inligting.				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTRUNMACRO				1	af	Om sekuriteitsredes kan u nie hierdie makro loop nie.\n\nKontroleer die sekuriteitinstelling vir meer inligting.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTRUNMACRO				0	as-IN	সুৰক্ষাৰ কাৰণে আপুনি এই মেক্ৰটো ৰান কৰিব নোৱাৰে. \n\nঅধিক তথ্যৰ বাবে নিৰাপত্তা ছেটিংছ্ পৰীক্ষা কৰক.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTRUNMACRO				13691	be-BY	Немагчыма выканаць гэты макрас з меркаванняў бяспекі.\n\nБольш падрабязна гл. у настаўленнях бяспекі.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTRUNMACRO				13691	bg	Не можете да стартирате този макрос поради мерките за сигурност.\n\nЗа повече информация, проверете настройките за сигурност.				2002-02-02 02:02:02
@@ -2090,7 +2090,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTRUNMACRO				0	xh	Ngez
 basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTRUNMACRO				0	zh-CN	为了安全起见，您不能运行此宏。\n\n有关详细信息，请检查安全设置。				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTRUNMACRO				0	zh-TW	為了安全的原因，您不可以執行此巨集。\n\n如需更多資訊，請檢查安全設定。				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTRUNMACRO				0	zu	Ngenxa yezizathu zokuphepha, awunakukwazi ukusebenzisa lemakhro.\n\nUkuze uthole ukwaziswa okwengeziwe, hlola amasethingi ezokuphepha.				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTUNLOADSTDLIB				0	af	Die verstekbiblioteek kan nie gedeaktiveer word nie				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTUNLOADSTDLIB				1	af	Die verstekbiblioteek kan nie gedeaktiveer word nie				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTUNLOADSTDLIB				0	ar	لا يمكن إلغاء تنشيط المكتبة الافتراضية				20040507 14:21:2
 basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTUNLOADSTDLIB				0	as-IN	ডিফল্ট লাইব্ৰেৰীটো নিষ্ক্ৰিয় কৰিব নোৱাৰি				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTUNLOADSTDLIB				13691	be-BY	Нельга дэактываваць прадвызначаную бібліятэку				2002-02-02 02:02:02
@@ -2166,7 +2166,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTUNLOADSTDLIB				0	xh	
 basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTUNLOADSTDLIB				0	zh-CN	无法关闭默认程序库				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTUNLOADSTDLIB				0	zh-TW	無法關閉這個標準程式庫				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_CANNOTUNLOADSTDLIB				0	zu	Umtapo wolwazi				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_COLUMN				0	af	Kol				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_COLUMN				1	af	Kol				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_COLUMN				0	ar	عمود				20040507 14:21:2
 basctl	source\basicide\basidesh.src	0	string	RID_STR_COLUMN				0	as-IN	Col				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_COLUMN				13691	be-BY	Кл				2002-02-02 02:02:02
@@ -2242,7 +2242,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_COLUMN				0	xh	Uluhlu olweh
 basctl	source\basicide\basidesh.src	0	string	RID_STR_COLUMN				0	zh-CN	列				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_COLUMN				0	zh-TW	欄				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_COLUMN				0	zu	Uhlu				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_COMPILEERROR				0	af	Kompileringsfout: 				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_COMPILEERROR				1	af	Kompileringsfout: 				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_COMPILEERROR				0	ar	:خطأ في الترجمة				20040507 14:21:2
 basctl	source\basicide\basidesh.src	0	string	RID_STR_COMPILEERROR				0	as-IN	সংকলন ত্রুটি:				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_COMPILEERROR				13691	be-BY	Памылка кампілявання: 				2002-02-02 02:02:02
@@ -2319,7 +2319,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_COMPILEERROR				0	xh	Hlanga
 basctl	source\basicide\basidesh.src	0	string	RID_STR_COMPILEERROR				0	zh-CN	编译错误： 				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_COMPILEERROR				0	zh-TW	編譯錯誤: 				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_COMPILEERROR				0	zu	Iphutha Lokusungula: 				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_COULDNTREAD				0	af	Die lêer kon nie gelees word nie				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_COULDNTREAD				1	af	Die lêer kon nie gelees word nie				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_COULDNTREAD				0	ar	تعذر قراءة الملف				20040507 14:21:2
 basctl	source\basicide\basidesh.src	0	string	RID_STR_COULDNTREAD				0	as-IN	ফাইলটো পঢ়িব পৰা নগল				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_COULDNTREAD				13691	be-BY	Не ўдалося прачытаць файл				2002-02-02 02:02:02
@@ -2397,7 +2397,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_COULDNTREAD				0	xh	Ifayili
 basctl	source\basicide\basidesh.src	0	string	RID_STR_COULDNTREAD				0	zh-CN	无法读取文件。				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_COULDNTREAD				0	zh-TW	無法讀取這個檔案。				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_COULDNTREAD				0	zu	Ifayela alifundekanga				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_COULDNTWRITE				0	af	Die lêer kon nie gestoor word nie				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_COULDNTWRITE				1	af	Die lêer kon nie gestoor word nie				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_COULDNTWRITE				0	ar	تعذر حفظ الملف				20040507 14:21:2
 basctl	source\basicide\basidesh.src	0	string	RID_STR_COULDNTWRITE				0	as-IN	ফাইলটো ছেভ কৰিব পৰা নগল				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_COULDNTWRITE				13691	be-BY	Не ўдалося запісаць файл				2002-02-02 02:02:02
@@ -2475,7 +2475,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_COULDNTWRITE				0	xh	Ifayil
 basctl	source\basicide\basidesh.src	0	string	RID_STR_COULDNTWRITE				0	zh-CN	无法保存文件。				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_COULDNTWRITE				0	zh-TW	無法儲存這個檔案。				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_COULDNTWRITE				0	zu	Ifayela aligcinekanga				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_DOC				0	af	Dokument				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_DOC				1	af	Dokument				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_DOC				0	ar	المستند				20040507 14:21:2
 basctl	source\basicide\basidesh.src	0	string	RID_STR_DOC				0	as-IN	ডকুমেন্ট 				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_DOC				13691	be-BY	Дакумент				2002-02-02 02:02:02
@@ -2551,7 +2551,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_DOC				0	xh	Uxwebhu				2002
 basctl	source\basicide\basidesh.src	0	string	RID_STR_DOC				0	zh-CN	文档				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_DOC				0	zh-TW	文件				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_DOC				0	zu	Ushicilelo				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_ENTERPASSWORD				0	af	Tik wagwoord vir 'XX'				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_ENTERPASSWORD				1	af	Tik wagwoord vir 'XX'				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_ENTERPASSWORD				0	ar	Enter password for 'XX'				20040507 14:21:1
 basctl	source\basicide\basidesh.src	0	string	RID_STR_ENTERPASSWORD				0	as-IN	 'XX' ৰ বাবে পাছৱৰ্ড ভৰাওক				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_ENTERPASSWORD				13691	be-BY	Увядзіце пароль дзеля 'XX'				2002-02-02 02:02:02
@@ -2629,7 +2629,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_ENTERPASSWORD				0	xh	Ngeni
 basctl	source\basicide\basidesh.src	0	string	RID_STR_ENTERPASSWORD				0	zh-CN	为 'XX' 键入密码。				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_ENTERPASSWORD				0	zh-TW	為 'XX' 鍵入密碼				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_ENTERPASSWORD				0	zu	Ngenisa igama lokudlula le-'XX'				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_ERRORCHOOSEMACRO				0	af	Makro's in ander dokumente is nie toeganklik nie.				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_ERRORCHOOSEMACRO				1	af	Makro's in ander dokumente is nie toeganklik nie.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_ERRORCHOOSEMACRO				0	ar	Macros from other documents are not accessible.				20040507 14:21:1
 basctl	source\basicide\basidesh.src	0	string	RID_STR_ERRORCHOOSEMACRO				0	as-IN	অন্য ডকুমেন্টবোৰৰ পৰা মেক্ৰছ প্ৰৱেশযোগ্য নহয়.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_ERRORCHOOSEMACRO				13691	be-BY	Немагчыма асягаць макрасы з іншых дакументаў.				2002-02-02 02:02:02
@@ -2705,7 +2705,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_ERRORCHOOSEMACRO				0	xh	Ii
 basctl	source\basicide\basidesh.src	0	string	RID_STR_ERRORCHOOSEMACRO				0	zh-CN	无法读取其它文档的宏。				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_ERRORCHOOSEMACRO				0	zh-TW	無法存取其他文件的巨集。				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_ERRORCHOOSEMACRO				0	zu	I-Macros kolunye ushicilelo angeke lutholakale.				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_ERROROPENLIB				0	af	Fout met laai van biblioteek				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_ERROROPENLIB				1	af	Fout met laai van biblioteek				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_ERROROPENLIB				0	ar	خطأ أثناء تحميل المكتبة				20040507 14:21:1
 basctl	source\basicide\basidesh.src	0	string	RID_STR_ERROROPENLIB				0	as-IN	লাইব্রেৰী ল'ড কৰোতে ভুল হৈছে				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_ERROROPENLIB				13691	be-BY	Памылка пры чытанні бібліятэкі				2002-02-02 02:02:02
@@ -2783,7 +2783,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_ERROROPENLIB				0	xh	Iayibr
 basctl	source\basicide\basidesh.src	0	string	RID_STR_ERROROPENLIB				0	zh-CN	在装入程序库时发生错误。				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_ERROROPENLIB				0	zh-TW	載入程式庫時發生錯誤。				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_ERROROPENLIB				0	zu	Iphutha ekulayisheni umtapo wolwazi				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_ERROROPENSTORAGE				0	af	Fout met oopmaak van lêer				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_ERROROPENSTORAGE				1	af	Fout met oopmaak van lêer				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_ERROROPENSTORAGE				0	ar	خطأ أثناء فتح الملف				20040507 14:21:1
 basctl	source\basicide\basidesh.src	0	string	RID_STR_ERROROPENSTORAGE				0	as-IN	ফাইল খোলোতে ভুল হৈছে				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_ERROROPENSTORAGE				13691	be-BY	Памылка пры адкрыванні файла				2002-02-02 02:02:02
@@ -2861,7 +2861,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_ERROROPENSTORAGE				0	xh	If
 basctl	source\basicide\basidesh.src	0	string	RID_STR_ERROROPENSTORAGE				0	zh-CN	打开文件时发生错误。				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_ERROROPENSTORAGE				0	zh-TW	開啟檔案時發生錯誤。				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_ERROROPENSTORAGE				0	zu	Iphutha ekuvuleni ifayela				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_FILEEXISTS				0	af	Die lêer 'XX' bestaan reeds				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_FILEEXISTS				1	af	Die lêer 'XX' bestaan reeds				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_FILEEXISTS				0	ar	موجود مسبقاً 'XX' الملف				20040507 14:21:2
 basctl	source\basicide\basidesh.src	0	string	RID_STR_FILEEXISTS				0	as-IN	'XX' ফাইল ইতিমধ্যে আছে				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_FILEEXISTS				13691	be-BY	Файл 'XX' ужо існуе				2002-02-02 02:02:02
@@ -2939,7 +2939,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_FILEEXISTS				0	xh	Ifayili 
 basctl	source\basicide\basidesh.src	0	string	RID_STR_FILEEXISTS				0	zh-CN	文件 'XX' 已经存在。				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_FILEEXISTS				0	zh-TW	檔案<XX>已經存在。				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_FILEEXISTS				0	zu	Ifayela elingu-'XX' selikhona				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_FILENAME				0	af	Lêernaam:				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_FILENAME				1	af	Lêernaam:				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_FILENAME				0	ar	:اسم الملف				20040507 14:21:2
 basctl	source\basicide\basidesh.src	0	string	RID_STR_FILENAME				0	as-IN	ফাইলৰ নাম:				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_FILENAME				13691	be-BY	Назва файла:				2002-02-02 02:02:02
@@ -3016,7 +3016,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_FILENAME				0	xh	Igama lefa
 basctl	source\basicide\basidesh.src	0	string	RID_STR_FILENAME				0	zh-CN	文件名： 				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_FILENAME				0	zh-TW	檔案名: 				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_FILENAME				0	zu	Igama lefayela:				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_FILTER_ALLFILES				0	af	<Almal>				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_FILTER_ALLFILES				1	af	<Almal>				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_FILTER_ALLFILES				0	ar	<الكل>				20040507 14:21:1
 basctl	source\basicide\basidesh.src	0	string	RID_STR_FILTER_ALLFILES				0	as-IN	<All>				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_FILTER_ALLFILES				13691	be-BY	<усе>				2002-02-02 02:02:02
@@ -3051,7 +3051,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_FILTER_ALLFILES				0	ja	<�
 basctl	source\basicide\basidesh.src	0	string	RID_STR_FILTER_ALLFILES				13691	ka	<ყველა>				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_FILTER_ALLFILES				13691	km	<ទាំងអស់​>				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_FILTER_ALLFILES				0	ko	<모두>				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_FILTER_ALLFILES				13691	ku	<Hemû>				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_FILTER_ALLFILES				13691	ku	<All>				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_FILTER_ALLFILES				13691	lt	<Viskas>				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_FILTER_ALLFILES				13691	mk	<Сите>				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_FILTER_ALLFILES				0	ml-IN	<എല്ലാം>				2002-02-02 02:02:02
@@ -3093,7 +3093,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_FILTER_ALLFILES				0	xh	<Ko
 basctl	source\basicide\basidesh.src	0	string	RID_STR_FILTER_ALLFILES				0	zh-CN	<全部>				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_FILTER_ALLFILES				0	zh-TW	<全部>				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_FILTER_ALLFILES				0	zu	<Konke>				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_GENERATESOURCE				0	af	Genereer tans bron				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_GENERATESOURCE				1	af	Genereer tans bron				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_GENERATESOURCE				0	ar	إنشاء نص مصدر				20040507 14:21:2
 basctl	source\basicide\basidesh.src	0	string	RID_STR_GENERATESOURCE				0	as-IN	উত্স উত্পন্ন কৰি আছে				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_GENERATESOURCE				13691	be-BY	Генеруецца вытокавы тэкст				2002-02-02 02:02:02
@@ -3169,7 +3169,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_GENERATESOURCE				0	xh	Kuyi
 basctl	source\basicide\basidesh.src	0	string	RID_STR_GENERATESOURCE				0	zh-CN	生成源文本				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_GENERATESOURCE				0	zh-TW	建立原始檔				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_GENERATESOURCE				0	zu	Isungula imvelaphi				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_IMPORTNOTPOSSIBLE				0	af	'XX' kan nie bygevoeg word nie.				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_IMPORTNOTPOSSIBLE				1	af	'XX' kan nie bygevoeg word nie.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_IMPORTNOTPOSSIBLE				0	ar	Import of 'XX' not possible.				20040507 14:21:1
 basctl	source\basicide\basidesh.src	0	string	RID_STR_IMPORTNOTPOSSIBLE				0	as-IN	'XX' যোগ কৰিব নোৱাৰি.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_IMPORTNOTPOSSIBLE				13691	be-BY	Немагчыма дадаць 'XX'.				2002-02-02 02:02:02
@@ -3246,7 +3246,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_IMPORTNOTPOSSIBLE				0	xh	'
 basctl	source\basicide\basidesh.src	0	string	RID_STR_IMPORTNOTPOSSIBLE				0	zh-CN	无法增加 'XX' 。				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_IMPORTNOTPOSSIBLE				0	zh-TW	無法新增 XX 。				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_IMPORTNOTPOSSIBLE				0	zu	I-'XX' angeke yongezwe.				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_INITIDE				0	af	BASIC-inisialisering				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_INITIDE				1	af	BASIC-inisialisering				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_INITIDE				0	ar	BASIC تهيئة				20040507 14:21:2
 basctl	source\basicide\basidesh.src	0	string	RID_STR_INITIDE				0	as-IN	BASIC ইনিশ্ব্যীয়েলাইজেশ্বন্				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_INITIDE				13691	be-BY	Ініцыялізацыя Бэйсіка				2002-02-02 02:02:02
@@ -3322,7 +3322,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_INITIDE				0	xh	Ukundulula 
 basctl	source\basicide\basidesh.src	0	string	RID_STR_INITIDE				0	zh-CN	初始化 BASIC				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_INITIDE				0	zh-TW	初始化 BASIC				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_INITIDE				0	zu	Ukuqaliswa kwe-BASIC				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_LIBISREADONLY				0	af	Hierdie biblioteek is leesalleen.				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_LIBISREADONLY				1	af	Hierdie biblioteek is leesalleen.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_LIBISREADONLY				0	ar	This library is readonly.				20040507 14:21:1
 basctl	source\basicide\basidesh.src	0	string	RID_STR_LIBISREADONLY				0	as-IN	এই লাইব্ৰেৰী কেৱল পঢ়িবৰ বাবে.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_LIBISREADONLY				13691	be-BY	Бібліятэка з'яўляецца толькі-чытанай.				2002-02-02 02:02:02
@@ -3400,7 +3400,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_LIBISREADONLY				0	xh	Le la
 basctl	source\basicide\basidesh.src	0	string	RID_STR_LIBISREADONLY				0	zh-CN	这个程序类是防改写的。				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_LIBISREADONLY				0	zh-TW	程式類是唯讀的。				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_LIBISREADONLY				0	zu	Umtapo wolwazi uyafundwa kuphela.				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_LIBNAMETOLONG				0	af	'n Biblioteeknaam kan tot 30 karakters bevat.				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_LIBNAMETOLONG				1	af	'n Biblioteeknaam kan tot 30 karakters bevat.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_LIBNAMETOLONG				0	ar	يجب ألا يزيد اسم المكتبة عن 30 حرفاً.				20040507 14:21:1
 basctl	source\basicide\basidesh.src	0	string	RID_STR_LIBNAMETOLONG				0	as-IN	এটা লাইব্ৰেৰীৰ নামত 30 টালৈকে আখৰ থাকিব পাৰে.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_LIBNAMETOLONG				13691	be-BY	Назва бібліятэкі можа ўтрымліваць да 30 знакаў.				2002-02-02 02:02:02
@@ -3478,7 +3478,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_LIBNAMETOLONG				0	xh	Igama
 basctl	source\basicide\basidesh.src	0	string	RID_STR_LIBNAMETOLONG				0	zh-CN	程序库名称最多只允许由30个字符组成。				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_LIBNAMETOLONG				0	zh-TW	程式庫名稱最長不得超過30個字元。				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_LIBNAMETOLONG				0	zu	Igama lomtapo wolwazi lingaba nezimpawu ezingu-30.				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_LINE				0	af	Rl				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_LINE				1	af	Rl				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_LINE				0	ar	سطر				20040507 14:21:2
 basctl	source\basicide\basidesh.src	0	string	RID_STR_LINE				0	as-IN	Ln				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_LINE				13691	be-BY	Рд				2002-02-02 02:02:02
@@ -3554,7 +3554,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_LINE				0	xh	Umgca				2002-
 basctl	source\basicide\basidesh.src	0	string	RID_STR_LINE				0	zh-CN	行				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_LINE				0	zh-TW	行				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_LINE				0	zu	Ulayini				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_MACRONAMEREQ				0	af	'n Naam moet ingetik word.				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_MACRONAMEREQ				1	af	'n Naam moet ingetik word.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_MACRONAMEREQ				0	ar	.يجب إدخال اسم				20040507 14:21:2
 basctl	source\basicide\basidesh.src	0	string	RID_STR_MACRONAMEREQ				0	as-IN	এটা নাম ভৰোৱাটো অপৰিহাৰ্য.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_MACRONAMEREQ				13691	be-BY	Патрабуецца ўведзеная назва.				2002-02-02 02:02:02
@@ -3630,7 +3630,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_MACRONAMEREQ				0	xh	Makung
 basctl	source\basicide\basidesh.src	0	string	RID_STR_MACRONAMEREQ				0	zh-CN	必须给定一个名称。				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_MACRONAMEREQ				0	zh-TW	必須輸入一個名稱。				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_MACRONAMEREQ				0	zu	Igama kumele lingeniswe.				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_NEWDLG				0	af	Nuwe dialoog				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_NEWDLG				1	af	Nuwe dialoog				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NEWDLG				0	ar	مربع حوار جديد				20040507 14:21:2
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NEWDLG				0	as-IN	নতুন সংলাপ				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NEWDLG				13691	be-BY	Новы дыялог				2002-02-02 02:02:02
@@ -3706,7 +3706,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_NEWDLG				0	xh	Ingxoxo Ents
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NEWDLG				0	zh-CN	新的对话框				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NEWDLG				0	zh-TW	新的對話方塊				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NEWDLG				0	zu	Ingxoxo Entsha				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_NEWLIB				0	af	Nuwe biblioteek				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_NEWLIB				1	af	Nuwe biblioteek				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NEWLIB				0	ar	مكتبة جديدة				20040507 14:21:2
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NEWLIB				0	as-IN	নতুন লাইব্রেৰী				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NEWLIB				13691	be-BY	Новая бібліятэка				2002-02-02 02:02:02
@@ -3782,7 +3782,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_NEWLIB				0	xh	Ilayibrari E
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NEWLIB				0	zh-CN	新的程序库				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NEWLIB				0	zh-TW	新的程式庫				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NEWLIB				0	zu	Umtapo wolwazi Omusha				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_NEWMOD				0	af	Nuwe module				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_NEWMOD				1	af	Nuwe module				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NEWMOD				0	ar	وحدة نمطية جديدة				20040507 14:21:2
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NEWMOD				0	as-IN	নতুন মডিয়ুল				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NEWMOD				13691	be-BY	Новы модуль				2002-02-02 02:02:02
@@ -3858,7 +3858,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_NEWMOD				0	xh	Imodyuli Ent
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NEWMOD				0	zh-CN	新的模块				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NEWMOD				0	zh-TW	新的模塊				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NEWMOD				0	zu	Ingxenye Entsha				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_NOIMPORT				0	af	'XX' is nie bygevoeg nie.				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_NOIMPORT				1	af	'XX' is nie bygevoeg nie.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NOIMPORT				0	ar	'XX' was not imported.				20040507 14:21:1
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NOIMPORT				0	as-IN	'XX' যোগ কৰা নহল.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NOIMPORT				13691	be-BY	'XX' не было дададзена.				2002-02-02 02:02:02
@@ -3935,7 +3935,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_NOIMPORT				0	xh	'XX' ayifa
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NOIMPORT				0	zh-CN	没有增加 'XX' 。				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NOIMPORT				0	zh-TW	沒有增加 'XX' 。				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NOIMPORT				0	zu	I-'XX' ayongezwanga.				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_NOLIBINSTORAGE				0	af	Die lêer bevat gaan BASIC-biblioteke nie				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_NOLIBINSTORAGE				1	af	Die lêer bevat gaan BASIC-biblioteke nie				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NOLIBINSTORAGE				0	ar	.BASIC لا يحتوي الملف على أية مكتبات				20040507 14:21:1
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NOLIBINSTORAGE				0	as-IN	 ফাইলটোৱে কোনো BASIC লাইব্ৰেৰী নাৰাখে				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NOLIBINSTORAGE				13691	be-BY	Файл не утрымлівае бібліятэк Бэйсіка				2002-02-02 02:02:02
@@ -4012,7 +4012,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_NOLIBINSTORAGE				0	xh	Ifay
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NOLIBINSTORAGE				0	zh-CN	这个文件没有 BASIC 程序库。				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NOLIBINSTORAGE				0	zh-TW	這個檔案沒有 BASIC-程式庫。				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NOLIBINSTORAGE				0	zu	Ifayela aliqukethe imitapo yolwazi ye-BASIC				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_NOMODULE				0	af	< Geen module >				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_NOMODULE				1	af	< Geen module >				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NOMODULE				0	ar	< بدون وحدة نمطية >				20040507 14:21:1
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NOMODULE				0	as-IN	< No Module >				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NOMODULE				13691	be-BY	< без модуля >				2002-02-02 02:02:02
@@ -4046,7 +4046,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_NOMODULE				0	ja	<モジュ
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NOMODULE				13691	ka	< უმოდულო >				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NOMODULE				13691	km	<​គ្មាន​​ម៉ូ​ឌុល​​>				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NOMODULE				0	ko	< 모듈 없음 >				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_NOMODULE				13691	ku	< Modul Tune >				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_NOMODULE				13691	ku	< No Module >				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NOMODULE				13691	lt	< Nėra modulio >				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NOMODULE				13691	mk	< Нема модул >				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NOMODULE				0	ml-IN	< മോഡ്യൂള് ഇല്ല >				2002-02-02 02:02:02
@@ -4088,7 +4088,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_NOMODULE				0	xh	< Akukho M
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NOMODULE				0	zh-CN	< 无模块 >				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NOMODULE				0	zh-TW	< 無模塊 >				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_NOMODULE				0	zu	< Ayikho Ingxenye >				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_OBJNOTFOUND				0	af	Objek of metode nie gevind nie				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_OBJNOTFOUND				1	af	Objek of metode nie gevind nie				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_OBJNOTFOUND				0	ar	تعذر العثور على الكائن أو الأسلوب				20040507 14:21:2
 basctl	source\basicide\basidesh.src	0	string	RID_STR_OBJNOTFOUND				0	as-IN	বস্তু বা পদ্ধতি বিচাৰি পোৱা নগল				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_OBJNOTFOUND				13691	be-BY	Не знойдзены аб'ект або метад				2002-02-02 02:02:02
@@ -4164,7 +4164,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_OBJNOTFOUND				0	xh	Into ok
 basctl	source\basicide\basidesh.src	0	string	RID_STR_OBJNOTFOUND				0	zh-CN	没有找到对象或方法。				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_OBJNOTFOUND				0	zh-TW	沒有找到物件或方法。				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_OBJNOTFOUND				0	zu	Into noma indlela yokwenza akutholakali				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_OPEN				0	af	Laai				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_OPEN				1	af	Laai				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_OPEN				0	ar	تحميل				20040507 14:21:1
 basctl	source\basicide\basidesh.src	0	string	RID_STR_OPEN				0	as-IN	ল'ড কৰক				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_OPEN				13691	be-BY	Адкрыць				2002-02-02 02:02:02
@@ -4242,7 +4242,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_OPEN				0	xh	Layisha				200
 basctl	source\basicide\basidesh.src	0	string	RID_STR_OPEN				0	zh-CN	装入				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_OPEN				0	zh-TW	載入				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_OPEN				0	zu	Layisha				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_PAGE				0	af	Bladsy				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_PAGE				1	af	Bladsy				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_PAGE				0	ar	صفحة				20040507 14:21:2
 basctl	source\basicide\basidesh.src	0	string	RID_STR_PAGE				0	as-IN	পৃষ্ঠা				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_PAGE				13691	be-BY	Старонка				2002-02-02 02:02:02
@@ -4318,7 +4318,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_PAGE				0	xh	Ikhasi				2002
 basctl	source\basicide\basidesh.src	0	string	RID_STR_PAGE				0	zh-CN	页				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_PAGE				0	zh-TW	頁				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_PAGE				0	zu	Ikhasi				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELDIALOG				0	af	Wil u die XX-dialoog skrap?				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELDIALOG				1	af	Wil u die XX-dialoog skrap?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELDIALOG				0	ar	؟ XX هل تريد حذف مربع الحوار				20040507 14:21:2
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELDIALOG				0	as-IN	আপুনি XX সংলাপটো ডিলিট কৰিব বিচাৰেনেকি?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELDIALOG				13691	be-BY	Ці хочаце сцерці дыялог XX?				2002-02-02 02:02:02
@@ -4394,7 +4394,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELDIALOG				0	xh	Inga
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELDIALOG				0	zh-CN	您要删除对话 XX ？				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELDIALOG				0	zh-TW	您要刪除對話 XX ﹖				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELDIALOG				0	zu	Ufuna ukucisha ingxoxo ye-XX?				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELLIB				0	af	Wil u die XX-biblioteek skrap?				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELLIB				1	af	Wil u die XX-biblioteek skrap?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELLIB				0	ar	؟ XX هل تريد حذف المكتبة				20040507 14:21:2
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELLIB				0	as-IN	আপুনি XX লাইব্ৰেৰীটো ডিলিট কৰিব বিচাৰেনেকি?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELLIB				13691	be-BY	Ці хочаце сцерці бібліятэку XX?				2002-02-02 02:02:02
@@ -4470,7 +4470,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELLIB				0	xh	Ingaba 
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELLIB				0	zh-CN	您要删除程序库 XX ？				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELLIB				0	zh-TW	您要刪除這個程式庫 XX ﹖				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELLIB				0	zu	Ufuna ukucisha umtapo wolwazi we-XX?				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELLIBREF				0	af	Wil u die verwysing na die XX-biblioteek skrap?				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELLIBREF				1	af	Wil u die verwysing na die XX-biblioteek skrap?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELLIBREF				0	ar	؟ XX هل تريد حذف المرجع إلى المكتبة				20040507 14:21:2
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELLIBREF				0	as-IN	আপুনি XX লাইব্ৰেৰীলৈ প্ৰসংগটো ডিলিট কৰিব বিচাৰেনেকি?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELLIBREF				13691	be-BY	Ці хочаце сцерці спасылкі на бібліятэку XX?				2002-02-02 02:02:02
@@ -4546,7 +4546,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELLIBREF				0	xh	Inga
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELLIBREF				0	zh-CN	您要删除程序库 XX 的引用？				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELLIBREF				0	zh-TW	您要刪除程式庫 XX 的參照﹖				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELLIBREF				0	zu	Ufuna ukucisha okukhonjiwe komtapo wolwazi lwe-XX?				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELMACRO				0	af	Wil u die XX-makro skrap?				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELMACRO				1	af	Wil u die XX-makro skrap?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELMACRO				0	ar	؟ XX هل تريد حذف الماكرو				20040507 14:21:2
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELMACRO				0	as-IN	আপুনি XX মেক্ৰ'টো ডিলিট কৰিব বিচাৰেনেকি?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELMACRO				13691	be-BY	Ці хочаце сцерці макрас XX?				2002-02-02 02:02:02
@@ -4622,7 +4622,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELMACRO				0	xh	Ingab
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELMACRO				0	zh-CN	您要删除宏 XX ？				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELMACRO				0	zh-TW	您要刪除這個巨集 XX ﹖				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELMACRO				0	zu	Ufuna ukucisha umyalelo omkhulu we-XX ?				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELMODULE				0	af	Wil u die XX-module skrap?				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELMODULE				1	af	Wil u die XX-module skrap?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELMODULE				0	ar	؟ XX هل تريد حذف الوحدة النمطية				20040507 14:21:2
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELMODULE				0	as-IN	আপুনি XX মডিয়ুলটো ডিলিট কৰিব বিচাৰেনেকি?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELMODULE				13691	be-BY	Ці хочаце сцерці модуль XX?				2002-02-02 02:02:02
@@ -4698,7 +4698,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELMODULE				0	xh	Inga
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELMODULE				0	zh-CN	您要删除模块 XX ？				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELMODULE				0	zh-TW	您要刪除這個模塊 XX ﹖				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYDELMODULE				0	zu	Ufuna ukucisha ingxenye ka-XX?				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYREPLACEMACRO				0	af	Wil u die XX-makro oorheenskryf?				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYREPLACEMACRO				80	af	Wil u die XX-makro oorheenskryf?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYREPLACEMACRO				0	ar	Do you want to overwrite the macro XX ?				20040507 14:21:2
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYREPLACEMACRO				0	as-IN	আপুনি XX মেক্ৰ'টো অভাৰৰাইট কৰিব বিচাৰেনেকি?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYREPLACEMACRO				80	be-BY	Ці хочаце запісаць паўзверх макрасу XX?				2002-02-02 02:02:02
@@ -4774,7 +4774,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYREPLACEMACRO				0	xh	I
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYREPLACEMACRO				0	zh-CN	您要改写宏 XX ？				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYREPLACEMACRO				0	zh-TW	您要覆寫 XX 巨集 ?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_QUERYREPLACEMACRO				0	zu	Ufuna ukubhala ngaphezulu kwale-XX enkulu?				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_REFNOTPOSSIBLE				0	af	Verwysing na 'XX' nie moontlik nie.				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_REFNOTPOSSIBLE				1	af	Verwysing na 'XX' nie moontlik nie.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_REFNOTPOSSIBLE				0	ar	.غير ممكن 'XX' المرجع إلى				20040507 14:21:2
 basctl	source\basicide\basidesh.src	0	string	RID_STR_REFNOTPOSSIBLE				0	as-IN	'XX' লৈ প্ৰসংগ সম্ভৱ নহয়.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_REFNOTPOSSIBLE				13691	be-BY	Спасылка на 'XX' немагчымая.				2002-02-02 02:02:02
@@ -4850,7 +4850,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_REFNOTPOSSIBLE				0	xh	Isal
 basctl	source\basicide\basidesh.src	0	string	RID_STR_REFNOTPOSSIBLE				0	zh-CN	无法引用 'XX' 。				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_REFNOTPOSSIBLE				0	zh-TW	無法引用<XX>。				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_REFNOTPOSSIBLE				0	zu	Ukukhonjiswa kwe-'XX' akwenzeki.				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_REMOVEWATCH				0	af	Horlosie:				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_REMOVEWATCH				80	af	Horlosie:				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_REMOVEWATCH				0	ar	المراقب: 				20040507 14:21:2
 basctl	source\basicide\basidesh.src	0	string	RID_STR_REMOVEWATCH				0	as-IN	ঘড়ী:				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_REMOVEWATCH				80	be-BY	Назіральнік:				2002-02-02 02:02:02
@@ -4926,7 +4926,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_REMOVEWATCH				0	xh	Umlindo
 basctl	source\basicide\basidesh.src	0	string	RID_STR_REMOVEWATCH				0	zh-CN	查看： 				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_REMOVEWATCH				0	zh-TW	檢視: 				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_REMOVEWATCH				0	zu	Bheka:				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_REPLACELIB				0	af	'XX' kan nie vervang word nie.				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_REPLACELIB				1	af	'XX' kan nie vervang word nie.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_REPLACELIB				0	ar	'XX' can't be replaced.				20040507 14:21:1
 basctl	source\basicide\basidesh.src	0	string	RID_STR_REPLACELIB				0	as-IN	'XX' প্ৰতিস্থাপিত কৰিব নোৱাৰি.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_REPLACELIB				13691	be-BY	Немагчыма замяніць 'XX'.				2002-02-02 02:02:02
@@ -5004,7 +5004,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_REPLACELIB				0	xh	'XX' ayi
 basctl	source\basicide\basidesh.src	0	string	RID_STR_REPLACELIB				0	zh-CN	无法替换 'XX' 。				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_REPLACELIB				0	zh-TW	無法取代 XX 。				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_REPLACELIB				0	zu	I-'XX' angeke ishintshwe.				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_REPLACESTDLIB				0	af	Die verstekbiblioteek kan nie vervang word nie.				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_REPLACESTDLIB				1	af	Die verstekbiblioteek kan nie vervang word nie.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_REPLACESTDLIB				0	ar	.لا يمكن استبدال المكتبة الافتراضية				20040507 14:21:2
 basctl	source\basicide\basidesh.src	0	string	RID_STR_REPLACESTDLIB				0	as-IN	ডিফল্ট লাইব্ৰেৰীটো প্ৰতিস্থাপিত কৰিব নোৱাৰি.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_REPLACESTDLIB				13691	be-BY	Нельга замяніць прадвызначаную бібліятэку.				2002-02-02 02:02:02
@@ -5080,7 +5080,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_REPLACESTDLIB				0	xh	Ilayi
 basctl	source\basicide\basidesh.src	0	string	RID_STR_REPLACESTDLIB				0	zh-CN	无法替换默认程序库。				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_REPLACESTDLIB				0	zh-TW	無法取代這個標準程式庫。				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_REPLACESTDLIB				0	zu	Umtapo wolwazi wendalo angeke ushintshiwe.				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_RUNTIMEERROR				0	af	Intydse fout: #				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_RUNTIMEERROR				1	af	Intydse fout: #				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_RUNTIMEERROR				0	ar	# :خطأ في وقت التشغيل				20040507 14:21:2
 basctl	source\basicide\basidesh.src	0	string	RID_STR_RUNTIMEERROR				0	as-IN	চলোৱাৰ সময়ত ভুল: #				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_RUNTIMEERROR				13691	be-BY	Памылка выканання: #				2002-02-02 02:02:02
@@ -5156,7 +5156,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_RUNTIMEERROR				0	xh	Imposi
 basctl	source\basicide\basidesh.src	0	string	RID_STR_RUNTIMEERROR				0	zh-CN	运行时间错误: #				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_RUNTIMEERROR				0	zh-TW	運轉時間錯誤: #				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_RUNTIMEERROR				0	zu	Iphutha Lesikhathi sokusebenza: #				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_SAVE				0	af	Stoor				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_SAVE				1	af	Stoor				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SAVE				0	ar	حفظ				20040507 14:21:1
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SAVE				0	as-IN	ছেভ কৰক				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SAVE				13691	be-BY	Запісаць				2002-02-02 02:02:02
@@ -5234,7 +5234,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_SAVE				0	xh	Gcina				2002-
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SAVE				0	zh-CN	保存				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SAVE				0	zh-TW	儲存				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SAVE				0	zu	Gcina				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_SBXNAMEALLREADYUSED				0	af	Naam bestaan reeds				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_SBXNAMEALLREADYUSED				1	af	Naam bestaan reeds				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SBXNAMEALLREADYUSED				0	ar	هذا الاسم موجود مسبقاً				20040507 14:21:1
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SBXNAMEALLREADYUSED				0	as-IN	নাম ইতিমধ্যে আছে				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SBXNAMEALLREADYUSED				13691	be-BY	Такая назва ўжо існуе				2002-02-02 02:02:02
@@ -5312,7 +5312,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_SBXNAMEALLREADYUSED				0	xh
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SBXNAMEALLREADYUSED				0	zh-CN	名称已经存在。				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SBXNAMEALLREADYUSED				0	zh-TW	名稱已經指定。				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SBXNAMEALLREADYUSED				0	zu	Igama selikhona				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_SBXNAMEALLREADYUSED2				0	af	Objek met dieselfde naam bestaan reeds				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_SBXNAMEALLREADYUSED2				1	af	Objek met dieselfde naam bestaan reeds				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SBXNAMEALLREADYUSED2				0	ar	يوجد مسبقاً كائن له نفس الاسم				20040507 14:21:1
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SBXNAMEALLREADYUSED2				0	as-IN	একে নামৰ বস্তু ইতিমধ্যে আছে				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SBXNAMEALLREADYUSED2				13691	be-BY	Аб'ект з такой назвай ужо існуе				2002-02-02 02:02:02
@@ -5389,7 +5389,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_SBXNAMEALLREADYUSED2				0	x
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SBXNAMEALLREADYUSED2				0	zh-CN	对象已经存在。				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SBXNAMEALLREADYUSED2				0	zh-TW	物件已經存在。				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SBXNAMEALLREADYUSED2				0	zu	Ilunga elinaleli gama selivele likhona				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_SEARCHALLMODULES				0	af	Wil u die teks in alle aktiewe modules vervang?				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_SEARCHALLMODULES				1	af	Wil u die teks in alle aktiewe modules vervang?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SEARCHALLMODULES				0	ar	هل تريد استبدال النص في كل الوحدات النمطية النشطة؟				20040507 14:21:2
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SEARCHALLMODULES				0	as-IN	আপুনি সকলো সক্ৰিয় মডিয়ুলত টেক্সট্ প্ৰতিস্থাপন কৰিবলৈ বিচাৰেনেকি?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SEARCHALLMODULES				13691	be-BY	Ці хочаце замяніць тэкст у ўсіх актыўных модулях?				2002-02-02 02:02:02
@@ -5465,7 +5465,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_SEARCHALLMODULES				0	xh	In
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SEARCHALLMODULES				0	zh-CN	是否要替换所有使用中的模块的文字？				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SEARCHALLMODULES				0	zh-TW	您要取代在所有啟動模塊中的文字﹖				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SEARCHALLMODULES				0	zu	Ufuna ukushintsha umbhalo kuzozonke izingxenye ezisebenzayo?				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_SEARCHFROMSTART				0	af	Soektog tot by laaste module is voltooi. Gaan voort met eerste module?				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_SEARCHFROMSTART				1	af	Soektog tot by laaste module is voltooi. Gaan voort met eerste module?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SEARCHFROMSTART				0	ar	تم البحث حتى الوحدة النمطية الأخيرة. هل تريد مواصلة البحث عند الوحدة النمطية الأولى؟				20040507 14:21:2
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SEARCHFROMSTART				0	as-IN	শেষ মডিউললৈ সন্ধান সম্পূৰ্ণ হল. প্ৰথম মডিয়ুল চলাই থাকিব বিচাৰেনেকি?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SEARCHFROMSTART				13691	be-BY	Пошук скончаны ў апошнім модулі. Ці працягваць пошук у першым модулі?				2002-02-02 02:02:02
@@ -5542,7 +5542,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_SEARCHFROMSTART				0	xh	Uku
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SEARCHFROMSTART				0	zh-CN	已经查找至最后一个模块。要从第一个模块开始查找？				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SEARCHFROMSTART				0	zh-TW	已經搜尋至最後一個模塊。您要從第一個模塊開始搜尋﹖				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SEARCHFROMSTART				0	zu	Funa kuze kube indlela yokugcina iqediwe. Qhubeka nendlela yokuqala?				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_SEARCHNOTFOUND				0	af	Soeksleutel nie gevind nie				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_SEARCHNOTFOUND				1	af	Soeksleutel nie gevind nie				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SEARCHNOTFOUND				0	ar	تعذر العثور على البيانات التي تبحث عنها.				20040507 14:21:2
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SEARCHNOTFOUND				0	as-IN	সন্ধান কৰা চাবি পোৱা নগল				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SEARCHNOTFOUND				13691	be-BY	Шуканае не знойдзена				2002-02-02 02:02:02
@@ -5620,7 +5620,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_SEARCHNOTFOUND				0	xh	Iqho
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SEARCHNOTFOUND				0	zh-CN	没有找到要查找的条目				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SEARCHNOTFOUND				0	zh-TW	沒有找到搜尋項目				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SEARCHNOTFOUND				0	zu	Ukhiye wokufuna awutholakalanga				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_SEARCHREPLACES				0	af	Soeksleutel is XX maal vervang				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_SEARCHREPLACES				1	af	Soeksleutel is XX maal vervang				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SEARCHREPLACES				0	ar	تم استبدال بيانات البحث ××× مرة				20040507 14:21:2
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SEARCHREPLACES				0	as-IN	সন্ধান চাবিৰে XX সময় সলনি কৰা হল				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SEARCHREPLACES				13691	be-BY	Шуканае заменена XX разоў				2002-02-02 02:02:02
@@ -5697,7 +5697,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_SEARCHREPLACES				0	xh	Iqho
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SEARCHREPLACES				0	zh-CN	替换查找条目 XX 次				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SEARCHREPLACES				0	zh-TW	搜尋項目 XX 次取代				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SEARCHREPLACES				0	zu	Igama lokusesha lishintshwe izikhathi ezingu-XX				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_SHAREDIALOGS				0	af	%PRODUCTNAME-dialoë				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_SHAREDIALOGS				80	af	%PRODUCTNAME-dialoë				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SHAREDIALOGS				0	as-IN	%PRODUCTNAME সংলাপবোৰ				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SHAREDIALOGS				80	be-BY	Дыялогі %PRODUCTNAME				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SHAREDIALOGS				0	bg	Диалогови прозорци на %PRODUCTNAME				2002-02-02 02:02:02
@@ -5771,7 +5771,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_SHAREDIALOGS				0	xh	Iingxo
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SHAREDIALOGS				0	zh-CN	%PRODUCTNAME 对话框				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SHAREDIALOGS				0	zh-TW	%PRODUCTNAME 對話方塊				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SHAREDIALOGS				0	zu	Amabhokisi E-%PRODUCTNAME				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_SHAREMACROS				0	af	%PRODUCTNAME-makro's				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_SHAREMACROS				80	af	%PRODUCTNAME-makro's				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SHAREMACROS				0	as-IN	%PRODUCTNAME  মেক্র'ছ   				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SHAREMACROS				80	be-BY	Макрасы %PRODUCTNAME				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SHAREMACROS				0	bg	Макроси на %PRODUCTNAME				2002-02-02 02:02:02
@@ -5845,7 +5845,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_SHAREMACROS				0	xh	Ii-Macr
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SHAREMACROS				0	zh-CN	%PRODUCTNAME 宏				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SHAREMACROS				0	zh-TW	%PRODUCTNAME 巨集				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SHAREMACROS				0	zu	AmaMakhro E-%PRODUCTNAME				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_SHAREMACROSDIALOGS				0	af	%PRODUCTNAME-makro's en -dialoë				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_SHAREMACROSDIALOGS				80	af	%PRODUCTNAME-makro's en -dialoë				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SHAREMACROSDIALOGS				0	as-IN	%PRODUCTNAME  মেক্র'ছ আৰু সংলাপবোৰ				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SHAREMACROSDIALOGS				80	be-BY	Макрасы і Дыялогі %PRODUCTNAME				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SHAREMACROSDIALOGS				0	bg	Макроси и диалогови прозорци на %PRODUCTNAME				2002-02-02 02:02:02
@@ -5918,7 +5918,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_SHAREMACROSDIALOGS				0	xh	
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SHAREMACROSDIALOGS				0	zh-CN	%PRODUCTNAME 宏和对话框				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SHAREMACROSDIALOGS				0	zh-TW	%PRODUCTNAME 巨集與對話方塊				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SHAREMACROSDIALOGS				0	zu	AmaMakhro Namabhokisi E-%PRODUCTNAME				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_SIGNED				0	af	(Onderteken)				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_SIGNED				1	af	(Onderteken)				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SIGNED				0	as-IN	(স্বাক্ষৰিত) 				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SIGNED				13691	be-BY	(падпісана)				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SIGNED				13691	bg	(подписан)				2002-02-02 02:02:02
@@ -5992,7 +5992,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_SIGNED				0	xh	(Kusayiniwe)
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SIGNED				0	zh-CN	（已签名）				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SIGNED				0	zh-TW	(已簽名)				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SIGNED				0	zu	(Kusayiniwe)				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_SOURCETOBIG				0	af	Die bronteks is te groot en kon nie gekompileer of gestoor word nie.\nSkrap van die opmerkings of dra van die metodes oor na 'n ander module.				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_SOURCETOBIG				1	af	Die bronteks is te groot en kon nie gekompileer of gestoor word nie.\nSkrap van die opmerkings of dra van die metodes oor na 'n ander module.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SOURCETOBIG				0	ar	نص المصدر كبير لدرجة يتعذر معها حفظه، أو ترجمته.\nقم بحذف بعض التعليقات، أو انقل بعض الأساليب إلى وحدة نمطية أخرى.				20040507 14:21:1
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SOURCETOBIG				0	as-IN	উত্স টেক্সটটো বহুত ডাঙৰ আৰু ইয়াক সংকলন আৰু ছেভ কৰিব নোৱাৰি.\nকিছুমান মন্তব্য ডিলিট কৰক নাইবা কিছুমান পদ্ধতি অন্য মডিউললৈ বদলি কৰক.				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SOURCETOBIG				13691	be-BY	Выточны тэкст занадта ёмісты, і яго немагчыма ані запісаць, ані скампіляваць.\nСцярыце з яго частку каментароў, або перанясіце частку метадаў у іншы модуль.				2002-02-02 02:02:02
@@ -6068,7 +6068,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_SOURCETOBIG				0	xh	Isiqend
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SOURCETOBIG				0	zh-CN	源文本太大，无法保存和编译。\n请删除一些注解或者将几个方法转移到其他的模块中。				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SOURCETOBIG				0	zh-TW	原始檔太大﹐無法儲存編譯。\n請刪除一些註解或者將幾個方法轉移到一個其他的模塊之中。				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_SOURCETOBIG				0	zu	Umbhalo owumthombo mkhulu kakhulu futhi awunakuhlanganisa noma useyvwe.\nCisha okunye kokuphawula noma udlulisele ezinye zezindlela kwenye imojuli.				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_STACK				0	af	Roepe: 				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_STACK				80	af	Roepe: 				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_STACK				0	ar	:استدعاءات				20040507 14:21:2
 basctl	source\basicide\basidesh.src	0	string	RID_STR_STACK				0	as-IN	ক'লবোৰ:				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_STACK				80	be-BY	Выклікі: 				2002-02-02 02:02:02
@@ -6144,7 +6144,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_STACK				0	xh	Amaxa okubiza
 basctl	source\basicide\basidesh.src	0	string	RID_STR_STACK				0	zh-CN	呼叫： 				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_STACK				0	zh-TW	呼叫: 				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_STACK				0	zu	Izingcingo: 				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_STACKNAME				0	af	Roepstapel				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_STACKNAME				1	af	Roepstapel				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_STACKNAME				0	ar	استدعاء المكَّدس				20040507 14:21:2
 basctl	source\basicide\basidesh.src	0	string	RID_STR_STACKNAME				0	as-IN	ক'ল ষ্টেক				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_STACKNAME				13691	be-BY	Стос (стэк) выклікаў				2002-02-02 02:02:02
@@ -6219,7 +6219,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_STACKNAME				0	xh	Ukubizwa 
 basctl	source\basicide\basidesh.src	0	string	RID_STR_STACKNAME				0	zh-CN	呼叫堆叠				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_STACKNAME				0	zh-TW	呼叫堆疊				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_STACKNAME				0	zu	Biza Isigaxa				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_STDDIALOGNAME				0	af	Dialoog				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_STDDIALOGNAME				1	af	Dialoog				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_STDDIALOGNAME				0	ar	مربع حوار				20040507 14:21:2
 basctl	source\basicide\basidesh.src	0	string	RID_STR_STDDIALOGNAME				0	as-IN	সংলাপ				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_STDDIALOGNAME				13691	be-BY	Дыялог				2002-02-02 02:02:02
@@ -6295,7 +6295,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_STDDIALOGNAME				0	xh	Ingxo
 basctl	source\basicide\basidesh.src	0	string	RID_STR_STDDIALOGNAME				0	zh-CN	对话框				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_STDDIALOGNAME				0	zh-TW	對話方塊				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_STDDIALOGNAME				0	zu	Ingxoxo				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_STDLIBNAME				0	af	Biblioteek				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_STDLIBNAME				1	af	Biblioteek				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_STDLIBNAME				0	ar	مكتبة				20040507 14:21:2
 basctl	source\basicide\basidesh.src	0	string	RID_STR_STDLIBNAME				0	as-IN	লাইব্রেৰী				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_STDLIBNAME				13691	be-BY	Бібліятэка				2002-02-02 02:02:02
@@ -6371,7 +6371,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_STDLIBNAME				0	xh	Ilayibra
 basctl	source\basicide\basidesh.src	0	string	RID_STR_STDLIBNAME				0	zh-CN	程序库				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_STDLIBNAME				0	zh-TW	程式庫				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_STDLIBNAME				0	zu	Umtapo				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_STDMODULENAME				0	af	Module				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_STDMODULENAME				1	af	Module				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_STDMODULENAME				0	ar	وحدة نمطية				20040507 14:21:2
 basctl	source\basicide\basidesh.src	0	string	RID_STR_STDMODULENAME				0	as-IN	মডিয়ুল  				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_STDMODULENAME				13691	be-BY	Модуль				2002-02-02 02:02:02
@@ -6472,7 +6472,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_TRANSLATION_DEFAULT				80	p
 basctl	source\basicide\basidesh.src	0	string	RID_STR_TRANSLATION_DEFAULT				80	pl	[Język domyślny]				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_TRANSLATION_DEFAULT				80	pt	[Idioma predefinido]				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_TRANSLATION_DEFAULT				80	pt-BR	[Idioma padrão]				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_TRANSLATION_DEFAULT				0	ru	[Язык по умолчанию]				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_TRANSLATION_DEFAULT				80	ru	[Язык по умолчанию]				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_TRANSLATION_DEFAULT				80	sk	[Východzí jazyk]				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_TRANSLATION_DEFAULT				80	sl	[Privzeti jezik]				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_TRANSLATION_DEFAULT				80	sv	[Standardspråk]				2002-02-02 02:02:02
@@ -6506,7 +6506,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_TRANSLATION_NOTLOCALIZED			
 basctl	source\basicide\basidesh.src	0	string	RID_STR_TRANSLATION_NOTLOCALIZED				80	pl	<Nie zlokalizowany>				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_TRANSLATION_NOTLOCALIZED				80	pt	<Não foi localizada>				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_TRANSLATION_NOTLOCALIZED				80	pt-BR	<Não traduzido>				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_TRANSLATION_NOTLOCALIZED				0	ru	<Не локализировано>				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_TRANSLATION_NOTLOCALIZED				80	ru	<Не локализировано>				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_TRANSLATION_NOTLOCALIZED				80	sk	<Nelokalizované>				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_TRANSLATION_NOTLOCALIZED				80	sl	<Ni lokalizirano>				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_TRANSLATION_NOTLOCALIZED				80	sv	<Inte lokaliserad>				2002-02-02 02:02:02
@@ -6515,7 +6515,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_TRANSLATION_NOTLOCALIZED			
 basctl	source\basicide\basidesh.src	0	string	RID_STR_TRANSLATION_NOTLOCALIZED				80	vi	<chưa bản địa hoá>				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_TRANSLATION_NOTLOCALIZED				80	zh-CN	<未本地化>				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_TRANSLATION_NOTLOCALIZED				80	zh-TW	<未本土化>				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_USERDIALOGS				0	af	My dialoë				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_USERDIALOGS				80	af	My dialoë				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_USERDIALOGS				0	as-IN	মোৰ সংলাপবোৰ  				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_USERDIALOGS				80	be-BY	Свае Дыялогі				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_USERDIALOGS				0	bg	Моите диалогови прозорци				2002-02-02 02:02:02
@@ -6589,7 +6589,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_USERDIALOGS				0	xh	Iingxox
 basctl	source\basicide\basidesh.src	0	string	RID_STR_USERDIALOGS				0	zh-CN	我的对话框				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_USERDIALOGS				0	zh-TW	我的對話方塊				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_USERDIALOGS				0	zu	Amabhokisi Ami				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_USERMACROS				0	af	My makro's				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_USERMACROS				80	af	My makro's				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_USERMACROS				0	as-IN	মোৰ মেক্র'ছ  				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_USERMACROS				80	be-BY	Свае Макрасы				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_USERMACROS				0	bg	Моите макроси				2002-02-02 02:02:02
@@ -6663,7 +6663,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_USERMACROS				0	xh	Ii-macro
 basctl	source\basicide\basidesh.src	0	string	RID_STR_USERMACROS				0	zh-CN	我的宏				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_USERMACROS				0	zh-TW	我的巨集				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_USERMACROS				0	zu	AmaMakhro Ami				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_USERMACROSDIALOGS				0	af	My makro's en dialoë				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_USERMACROSDIALOGS				80	af	My makro's en dialoë				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_USERMACROSDIALOGS				0	as-IN	মোৰ মেক্র'ছ আৰু সংলাপবোৰ				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_USERMACROSDIALOGS				80	be-BY	Свае Макрасы і Дыялогі				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_USERMACROSDIALOGS				0	bg	Моите макроси и диалогови прозорци				2002-02-02 02:02:02
@@ -6736,7 +6736,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_USERMACROSDIALOGS				0	xh	I
 basctl	source\basicide\basidesh.src	0	string	RID_STR_USERMACROSDIALOGS				0	zh-CN	我的宏和对话框				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_USERMACROSDIALOGS				0	zh-TW	我的巨集與對話方塊				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_USERMACROSDIALOGS				0	zu	AmaMakhro Namabhokisi Ami				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_WATCHNAME				0	af	Horlosie				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_WATCHNAME				1	af	Horlosie				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_WATCHNAME				0	ar	مراقب				20040507 14:21:2
 basctl	source\basicide\basidesh.src	0	string	RID_STR_WATCHNAME				0	as-IN	ঘড়ী				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_WATCHNAME				13691	be-BY	Назіраць				2002-02-02 02:02:02
@@ -6812,7 +6812,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_WATCHNAME				0	xh	Umlindo		
 basctl	source\basicide\basidesh.src	0	string	RID_STR_WATCHNAME				0	zh-CN	查看				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_WATCHNAME				0	zh-TW	檢視				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_WATCHNAME				0	zu	Bheka				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_WATCHTYPE				0	af	Soort				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_WATCHTYPE				1	af	Soort				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_WATCHTYPE				0	as-IN	প্ৰকাৰ				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_WATCHTYPE				13691	be-BY	Тып				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_WATCHTYPE				13691	bg	Тип				2002-02-02 02:02:02
@@ -6887,7 +6887,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_WATCHTYPE				0	xh	Isimbo			
 basctl	source\basicide\basidesh.src	0	string	RID_STR_WATCHTYPE				0	zh-CN	类型				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_WATCHTYPE				0	zh-TW	類型				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_WATCHTYPE				0	zu	Uhlobo				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_WATCHVALUE				0	af	Waarde				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_WATCHVALUE				1	af	Waarde				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_WATCHVALUE				0	as-IN	মূল্য				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_WATCHVALUE				13691	be-BY	Значэнне				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_WATCHVALUE				13691	bg	Стойност				2002-02-02 02:02:02
@@ -6963,7 +6963,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_WATCHVALUE				0	xh	Ixabiso	
 basctl	source\basicide\basidesh.src	0	string	RID_STR_WATCHVALUE				0	zh-CN	值				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_WATCHVALUE				0	zh-TW	數值				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_WATCHVALUE				0	zu	Inani				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_WATCHVARIABLE				0	af	Veranderlike				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_WATCHVARIABLE				1	af	Veranderlike				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_WATCHVARIABLE				0	as-IN	চলক				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_WATCHVARIABLE				13691	be-BY	Зменная				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_WATCHVARIABLE				13691	bg	Променлива				2002-02-02 02:02:02
@@ -7036,7 +7036,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_WATCHVARIABLE				0	xh	Ixabi
 basctl	source\basicide\basidesh.src	0	string	RID_STR_WATCHVARIABLE				0	zh-CN	可变				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_WATCHVARIABLE				0	zh-TW	可變				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_WATCHVARIABLE				0	zu	Okushintshayo				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_WILLSTOPPRG				0	af	U sal die program moet herbegin na hierdie redigering.\nWil u voortgaan?				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_WILLSTOPPRG				1	af	U sal die program moet herbegin na hierdie redigering.\nWil u voortgaan?				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_WILLSTOPPRG				0	ar	بعد هذا التغيير، يجب عليك إعادة تشغيل برنامجك.\nهل تريد المتابعة؟				20040507 14:21:2
 basctl	source\basicide\basidesh.src	0	string	RID_STR_WILLSTOPPRG				0	as-IN	এই সম্পাদনাটোৰ পাছত আপুনি প্ৰগ্ৰেমটো পুনৰ আৰম্ভ কৰিব লাগিব.\nআপুনি অব্যাহত ৰাখিবনে? 				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_WILLSTOPPRG				13691	be-BY	Пасля гэтага выпраўлення трэба будзе перастартаваць праграму.\nЦі жадаеце працягваць?				2002-02-02 02:02:02
@@ -7111,7 +7111,7 @@ basctl	source\basicide\basidesh.src	0	string	RID_STR_WILLSTOPPRG				0	xh	Kuya ku
 basctl	source\basicide\basidesh.src	0	string	RID_STR_WILLSTOPPRG				0	zh-CN	修改之后您必须重新启动这个程序。\n您要继续吗？				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_WILLSTOPPRG				0	zh-TW	變更程式後必須重新啟動這個程式。\n要繼續﹖				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_WILLSTOPPRG				0	zu	Kuyodingeka uluqale phansi uhlelo ngemva kwalokhu kulungisa.\nUyaqhubeka?				2002-02-02 02:02:02
-basctl	source\basicide\basidesh.src	0	string	RID_STR_WRONGPASSWORD				0	af	Verkeerde wagwoord				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_WRONGPASSWORD				1	af	Verkeerde wagwoord				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_WRONGPASSWORD				0	ar	كلمة السر غير صحيحة.				20040507 14:21:1
 basctl	source\basicide\basidesh.src	0	string	RID_STR_WRONGPASSWORD				0	as-IN	অশুদ্ধ পাছৱর্ড				2002-02-02 02:02:02
 basctl	source\basicide\basidesh.src	0	string	RID_STR_WRONGPASSWORD				13691	be-BY	Несапраўдны пароль				2002-02-02 02:02:02
@@ -9195,7 +9195,7 @@ basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_RUN			5
 basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_RUN			50	zh-CN	执行(~U)				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_RUN			50	zh-TW	執行(~U)				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	pushbutton	RID_MACROCHOOSER	RID_PB_RUN			50	zu	Se~benzisa				2002-02-02 02:02:02
-basctl	source\basicide\macrodlg.src	0	string	RID_STR_BTNDEL				0	af	~Skrap				2002-02-02 02:02:02
+basctl	source\basicide\macrodlg.src	0	string	RID_STR_BTNDEL				287	af	~Skrap				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_BTNDEL				0	ar	حذف				20040507 14:21:3
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_BTNDEL				0	as-IN	ডিলিট কৰক				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_BTNDEL				287	be-BY	Сцерці				2002-02-02 02:02:02
@@ -9272,7 +9272,7 @@ basctl	source\basicide\macrodlg.src	0	string	RID_STR_BTNDEL				0	xh	~Cima				200
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_BTNDEL				0	zh-CN	删除(~D)				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_BTNDEL				0	zh-TW	刪除(~D)				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_BTNDEL				0	zu	~Cisha				2002-02-02 02:02:02
-basctl	source\basicide\macrodlg.src	0	string	RID_STR_BTNNEW				0	af	~Nuwe				2002-02-02 02:02:02
+basctl	source\basicide\macrodlg.src	0	string	RID_STR_BTNNEW				287	af	~Nuwe				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_BTNNEW				0	ar	جديد				20040507 14:21:3
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_BTNNEW				0	as-IN	নতুন				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_BTNNEW				287	be-BY	Дадаць				2002-02-02 02:02:02
@@ -9348,7 +9348,7 @@ basctl	source\basicide\macrodlg.src	0	string	RID_STR_BTNNEW				0	xh	~Entsha				2
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_BTNNEW				0	zh-CN	新建(~N)				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_BTNNEW				0	zh-TW	開啟新檔(~N)				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_BTNNEW				0	zu	~Okusha				2002-02-02 02:02:02
-basctl	source\basicide\macrodlg.src	0	string	RID_STR_CHOOSE				0	af	Kies				2002-02-02 02:02:02
+basctl	source\basicide\macrodlg.src	0	string	RID_STR_CHOOSE				287	af	Kies				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_CHOOSE				0	ar	اختيار				20040507 14:21:3
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_CHOOSE				0	as-IN	বাছনী কৰক  				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_CHOOSE				287	be-BY	Выбраць				2002-02-02 02:02:02
@@ -9424,7 +9424,7 @@ basctl	source\basicide\macrodlg.src	0	string	RID_STR_CHOOSE				0	xh	Khetha				20
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_CHOOSE				0	zh-CN	选择				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_CHOOSE				0	zh-TW	選擇				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_CHOOSE				0	zu	Khetha				2002-02-02 02:02:02
-basctl	source\basicide\macrodlg.src	0	string	RID_STR_CLOSE				0	af	Sluit				2002-02-02 02:02:02
+basctl	source\basicide\macrodlg.src	0	string	RID_STR_CLOSE				287	af	Sluit				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_CLOSE				0	ar	إغلاق				20040507 14:21:3
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_CLOSE				0	as-IN	বন্ধ কৰক				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_CLOSE				287	be-BY	Закрыць				2002-02-02 02:02:02
@@ -9500,7 +9500,7 @@ basctl	source\basicide\macrodlg.src	0	string	RID_STR_CLOSE				0	xh	Vala				2002-
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_CLOSE				0	zh-CN	关闭				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_CLOSE				0	zh-TW	關閉				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_CLOSE				0	zu	Vala				2002-02-02 02:02:02
-basctl	source\basicide\macrodlg.src	0	string	RID_STR_RECORD				0	af	~Stoor				2002-02-02 02:02:02
+basctl	source\basicide\macrodlg.src	0	string	RID_STR_RECORD				287	af	~Stoor				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_RECORD				0	ar	تسجيل				20040507 14:21:3
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_RECORD				0	as-IN	ছেভ কৰক				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_RECORD				287	be-BY	Запісаць				2002-02-02 02:02:02
@@ -9577,7 +9577,7 @@ basctl	source\basicide\macrodlg.src	0	string	RID_STR_RECORD				0	xh	~Gcina				20
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_RECORD				0	zh-CN	保存(~S)				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_RECORD				0	zh-TW	儲存(~S)				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_RECORD				0	zu	~Gcina				2002-02-02 02:02:02
-basctl	source\basicide\macrodlg.src	0	string	RID_STR_RUN				0	af	Loop				2002-02-02 02:02:02
+basctl	source\basicide\macrodlg.src	0	string	RID_STR_RUN				287	af	Loop				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_RUN				0	ar	تنفيذ				20040507 14:21:3
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_RUN				0	as-IN	চলাওক				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_RUN				287	be-BY	Выканаць				2002-02-02 02:02:02
@@ -9654,7 +9654,7 @@ basctl	source\basicide\macrodlg.src	0	string	RID_STR_RUN				0	xh	Qhuba				2002-0
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_RUN				0	zh-CN	执行				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_RUN				0	zh-TW	執行				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_RUN				0	zu	Sebenzisa				2002-02-02 02:02:02
-basctl	source\basicide\macrodlg.src	0	string	RID_STR_STDMACRONAME				0	af	Makro				2002-02-02 02:02:02
+basctl	source\basicide\macrodlg.src	0	string	RID_STR_STDMACRONAME				287	af	Makro				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_STDMACRONAME				0	ar	ماكرو				20040507 14:21:3
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_STDMACRONAME				0	as-IN	মেক্ৰ'				2002-02-02 02:02:02
 basctl	source\basicide\macrodlg.src	0	string	RID_STR_STDMACRONAME				287	be-BY	Макрас				2002-02-02 02:02:02
@@ -11179,7 +11179,7 @@ basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_APPEND			60	
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_APPEND			60	ns	~Mamatlela...				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_APPEND			60	or-IN	ୟୋଗ କର				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_APPEND			60	pa-IN	ਸ਼ਾਮਿਲ(~A)...				2002-02-02 02:02:02
-basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_APPEND			60	pl	~Dołącz...				2002-02-02 02:02:02
+basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_APPEND			60	pl	~Importuj...				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_APPEND			60	pt	~Importar...				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_APPEND			60	pt-BR	~Importar...				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_APPEND			60	ru	Добавить...				2002-02-02 02:02:02
@@ -11391,7 +11391,7 @@ basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_EXPORT			60	
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_EXPORT			60	nl	E~xporteren...				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_EXPORT			60	nn	E~ksporter ...				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_EXPORT			60	pa-IN	ਨਿਰਯਾਤ(~x)...				2002-02-02 02:02:02
-basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_EXPORT			60	pl	E~ksportuj				2002-02-02 02:02:02
+basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_EXPORT			60	pl	E~ksportuj...				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_EXPORT			60	pt	E~xportar...				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_EXPORT			60	pt-BR	E~xportar...				2002-02-02 02:02:02
 basctl	source\basicide\moduldlg.src	0	pushbutton	RID_TP_LIBS	RID_PB_EXPORT			60	ru	Экспорт...				2002-02-02 02:02:02
