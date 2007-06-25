@@ -13,9 +13,9 @@
 #
 #   $RCSfile: localize.sdf,v $
 #
-#   $Revision: 1.22 $
+#   $Revision: 1.23 $
 #
-#   last change: $Author: ihi $ $Date: 2007-04-19 14:55:46 $
+#   last change: $Author: vg $ $Date: 2007-06-25 11:20:09 $
 #
 #   The Contents of this file are made available subject to
 #   the terms of GNU Lesser General Public License Version 2.1.
@@ -41,7 +41,7 @@
 #     MA  02111-1307  USA
 #
 #*************************************************************************
-dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_ALTER				0	af	Verander struktuur				2002-02-02 02:02:02
+dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_ALTER				1	af	Verander struktuur				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_ALTER				0	ar	تعديل البنية				20040507 14:21:28
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_ALTER				0	as-IN	গাঁথনিক পৰিৱর্তন				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_ALTER				13691	be-BY	Змяніць структуру				2002-02-02 02:02:02
@@ -118,7 +118,7 @@ dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_ALTER				0
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_ALTER				0	zh-CN	修改结构				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_ALTER				0	zh-TW	變更結构				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_ALTER				0	zu	Phazamisa isakhiwo				2002-02-02 02:02:02
-dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DELETE				0	af	Skrap data				2002-02-02 02:02:02
+dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DELETE				1	af	Skrap data				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DELETE				0	ar	حذف				20040507 14:21:28
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DELETE				0	as-IN	ডাটা ডিলিট কৰক				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DELETE				13691	be-BY	Сцерці дадзеныя				2002-02-02 02:02:02
@@ -196,7 +196,7 @@ dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DELETE				
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DELETE				0	zh-CN	删除数据				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DELETE				0	zh-TW	刪除資料				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DELETE				0	zu	Susa ulwazi				2002-02-02 02:02:02
-dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DROP				0	af	Sak struktuur				2002-02-02 02:02:02
+dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DROP				1	af	Sak struktuur				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DROP				0	ar	Droping				20040507 14:21:28
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DROP				0	as-IN	গাঁথনি আঁতৰ কৰক				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DROP				13691	be-BY	Выдаліць структуру				2002-02-02 02:02:02
@@ -273,7 +273,7 @@ dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DROP				0	
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DROP				0	zh-CN	删除结构				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DROP				0	zh-TW	刪除結構				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DROP				0	zu	Dedela isakhiwo				2002-02-02 02:02:02
-dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_INSERT				0	af	Voeg data in				2002-02-02 02:02:02
+dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_INSERT				1	af	Voeg data in				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_INSERT				0	ar	إدراج				20040507 14:21:28
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_INSERT				0	as-IN	ডাটা ভৰাওক				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_INSERT				13691	be-BY	Уставіць дадзеныя				2002-02-02 02:02:02
@@ -351,7 +351,7 @@ dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_INSERT				
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_INSERT				0	zh-CN	插入数据				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_INSERT				0	zh-TW	插入資料				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_INSERT				0	zu	Faka ulwazi				2002-02-02 02:02:02
-dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_NAME				0	af	Tabelnaam				2002-02-02 02:02:02
+dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_NAME				1	af	Tabelnaam				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_NAME				0	ar	اسم الجدول				20040507 14:21:28
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_NAME				0	as-IN	টেবুলৰ নাম				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_NAME				13691	be-BY	Назва табліцы				2002-02-02 02:02:02
@@ -429,7 +429,7 @@ dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_NAME				0	
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_NAME				0	zh-CN	表格名称				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_NAME				0	zh-TW	表格名稱				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_NAME				0	zu	Igama letafula				2002-02-02 02:02:02
-dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_REFERENCE				0	af	Wysig verwysings				2002-02-02 02:02:02
+dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_REFERENCE				1	af	Wysig verwysings				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_REFERENCE				0	ar	تعديل المراجع				20040507 14:21:28
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_REFERENCE				0	as-IN	প্রসংগবোৰ ৰূপান্তৰ  কৰক				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_REFERENCE				13691	be-BY	Правіць спасылкі				2002-02-02 02:02:02
@@ -506,7 +506,7 @@ dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_REFERENCE	
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_REFERENCE				0	zh-CN	修改引用				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_REFERENCE				0	zh-TW	變更引用				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_REFERENCE				0	zu	Lungisa okokukhombisa				2002-02-02 02:02:02
-dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_SELECT				0	af	Lees data				2002-02-02 02:02:02
+dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_SELECT				1	af	Lees data				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_SELECT				0	ar	قراءة				20040507 14:21:28
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_SELECT				0	as-IN	ডাটা পঢ়ক				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_SELECT				13691	be-BY	Чытаць дадзеныя				2002-02-02 02:02:02
@@ -584,7 +584,7 @@ dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_SELECT				
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_SELECT				0	zh-CN	读取数据				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_SELECT				0	zh-TW	讀取資料				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_SELECT				0	zu	Funda ulwazi				2002-02-02 02:02:02
-dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_UPDATE				0	af	Wysig data				2002-02-02 02:02:02
+dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_UPDATE				1	af	Wysig data				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_UPDATE				0	ar	تعديل				20040507 14:21:28
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_UPDATE				0	as-IN	ডাটা ৰূপান্তৰ কৰক				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_UPDATE				13691	be-BY	Правіць дадзеныя				2002-02-02 02:02:02
@@ -818,7 +818,7 @@ dbaccess	source\ui\control\tabletree.src	0	menuitem	MENU_TABLETREE_POPUP	MID_SOR
 dbaccess	source\ui\control\tabletree.src	0	menuitem	MENU_TABLETREE_POPUP	MID_SORT_DECENDING			0	zh-CN	向下排序				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	menuitem	MENU_TABLETREE_POPUP	MID_SORT_DECENDING			0	zh-TW	向下排序				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	menuitem	MENU_TABLETREE_POPUP	MID_SORT_DECENDING			0	zu	Hlela Ngokwehlela				2002-02-02 02:02:02
-dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_TABLES				0	af	Alle tabelle				2002-02-02 02:02:02
+dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_TABLES				1	af	Alle tabelle				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_TABLES				0	ar	كل الجداول				20040507 14:21:29
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_TABLES				0	as-IN	সকলো টেবুল				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_TABLES				13691	be-BY	Усе табліцы				2002-02-02 02:02:02
@@ -896,7 +896,7 @@ dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_TABLES				0	xh	Zonke i
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_TABLES				0	zh-CN	全部的表格				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_TABLES				0	zh-TW	全部的表格				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_TABLES				0	zu	Wonke amatafula				2002-02-02 02:02:02
-dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_TABLES_AND_VIEWS				0	af	Alle tabelle en aanskoue				2002-02-02 02:02:02
+dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_TABLES_AND_VIEWS				1	af	Alle tabelle en aanskoue				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_TABLES_AND_VIEWS				0	ar	كافة الجداول وطرق عرضها				20040507 14:21:29
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_TABLES_AND_VIEWS				0	as-IN	সকলোবোৰ টেবুল আৰু দৃশ্য				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_TABLES_AND_VIEWS				13691	be-BY	Усе табліцы і віды				2002-02-02 02:02:02
@@ -974,7 +974,7 @@ dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_TABLES_AND_VIEWS				0	
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_TABLES_AND_VIEWS				0	zh-CN	全部的表格和表格视图				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_TABLES_AND_VIEWS				0	zh-TW	所有的表格和表格檢視				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_TABLES_AND_VIEWS				0	zu	Wonke amatafula kanye nemibukiso				2002-02-02 02:02:02
-dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_VIEWS				0	af	Alle aanskoue				2002-02-02 02:02:02
+dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_VIEWS				1	af	Alle aanskoue				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_VIEWS				0	ar	كافة طرق عرض الجداول				20040507 14:21:29
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_VIEWS				0	as-IN	সকলো দৃশ্য				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_VIEWS				13691	be-BY	Усе віды				2002-02-02 02:02:02
@@ -1052,7 +1052,7 @@ dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_VIEWS				0	xh	Zonke ii
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_VIEWS				0	zh-CN	全部的表格视图				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_VIEWS				0	zh-TW	所有的表格檢視				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_VIEWS				0	zu	Yonke imibukiso				2002-02-02 02:02:02
-dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT				0	af	Geen verbinding kon vir die URL #connurl# gemaak word nie.				2002-02-02 02:02:02
+dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT				1	af	Geen verbinding kon vir die URL #connurl# gemaak word nie.				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT				0	ar	تعذر تأسيس اتصال للـ URL #connurl#..				20040507 14:21:29
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT				0	as-IN	URL #connurl# টোৰ বাবে কোনো সংযোগ স্থাপন কৰিব পৰা নগ'ল.				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT				13691	be-BY	Не ўдалося наладзіць далучэння да URL #connurl#.				2002-02-02 02:02:02
@@ -1128,7 +1128,7 @@ dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT				0	xh	Ak
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT				0	zh-CN	无法和 URL #connurl# 建立连接。				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT				0	zh-TW	無法連線到 URL #connurl# 。				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT				0	zu	Alukho uxhumano olusunguliwe lwe-URL ye-#connurl#.				2002-02-02 02:02:02
-dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT_PLEASECHECK				0	af	Gaan asseblief die huidige opstelling na, bv. gebruikernaam en wagwoord.				2002-02-02 02:02:02
+dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT_PLEASECHECK				1	af	Gaan asseblief die huidige opstelling na, bv. gebruikernaam en wagwoord.				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT_PLEASECHECK				0	ar	الرجاء فحص الإعدادات الحالية، مثل اسم المستخدم وكلمة السر على سبيل المثال.				20040507 14:21:29
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT_PLEASECHECK				0	as-IN	বৰ্তমানৰ ছেটিংছ পৰীক্ষা কৰক, উদাহৰণস্বৰূপে ব্যৱহাৰকৰ্তাৰ নাম আৰু পাছৱৰ্ড.				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT_PLEASECHECK				13691	be-BY	Спраўдзіце дзейсныя настаўленні, напрыклад, імя карыстальніка і пароль.				2002-02-02 02:02:02
@@ -1205,7 +1205,7 @@ dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT_PLEASECHEC
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT_PLEASECHECK				0	zh-CN	请您检查当前的设置，如用户名和密码。				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT_PLEASECHECK				0	zh-TW	請您檢查目前的設定，如使用者和密碼。				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT_PLEASECHECK				0	zu	Siza ubheke izilungiselelo zamanje, njengesibonelo igama lomsebenzisi kanye negama lokudlula.				2002-02-02 02:02:02
-dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCREATE_DRIVERMANAGER				0	af	Kan nie aan die SDBC-drywerbestuurder verbind nie ( #servicename#).				2002-02-02 02:02:02
+dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCREATE_DRIVERMANAGER				1	af	Kan nie aan die SDBC-drywerbestuurder verbind nie ( #servicename#).				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCREATE_DRIVERMANAGER				0	ar	تعذر تأسيس الاتصال بـ (#servicename#) SDBC Driver Manager .				20040507 14:21:29
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCREATE_DRIVERMANAGER				0	as-IN	SDBC ড্ৰাইভাৰ পৰিচালক (#servicename#) টো সংযোগ কৰিব নোৱাৰি.				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCREATE_DRIVERMANAGER				13691	be-BY	Немагчыма далучыцца да распарадніка драйвераў SDBC (#servicename#).				2002-02-02 02:02:02
@@ -1281,7 +1281,7 @@ dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCREATE_DRIVERMANAG
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCREATE_DRIVERMANAGER				0	zh-CN	无法和 SDBC 驱动程式管理器(#servicename#)建立连接。				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCREATE_DRIVERMANAGER				0	zh-TW	無法連線到 SDBC 驅動程式管理(#servicename#) 。				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCREATE_DRIVERMANAGER				0	zu	Ayikwazi ukuxhuma kumphathi womshayeli we-SDBC (#servicename#).				2002-02-02 02:02:02
-dbaccess	source\ui\control\tabletree.src	0	string	STR_NOREGISTEREDDRIVER				0	af	'n Drywer is nie geregistreer vir die URL #connurl# nie.				2002-02-02 02:02:02
+dbaccess	source\ui\control\tabletree.src	0	string	STR_NOREGISTEREDDRIVER				1	af	'n Drywer is nie geregistreer vir die URL #connurl# nie.				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_NOREGISTEREDDRIVER				0	ar	لا يوجد برنامج تشغيل مسجل للـ URL #connurl#!				20040507 14:21:29
 dbaccess	source\ui\control\tabletree.src	0	string	STR_NOREGISTEREDDRIVER				0	as-IN	 URL #connurl# টোৰ বাবে এটা ড্ৰাইভাৰ ৰেজিষ্টাৰ কৰা নাই.				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_NOREGISTEREDDRIVER				13691	be-BY	Дзеля URL #connurl# драйвер не зарэгістраваны.				2002-02-02 02:02:02
@@ -1357,7 +1357,7 @@ dbaccess	source\ui\control\tabletree.src	0	string	STR_NOREGISTEREDDRIVER				0	xh
 dbaccess	source\ui\control\tabletree.src	0	string	STR_NOREGISTEREDDRIVER				0	zh-CN	没有为 URL #connurl# 登记驱动程序。				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_NOREGISTEREDDRIVER				0	zh-TW	不存在任何登記的 URL #connurl# 驅動程序。				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_NOREGISTEREDDRIVER				0	zu	Umshayeli akabhaliselwe i-URL ye-#connurl#.				2002-02-02 02:02:02
-dbaccess	source\ui\control\tabletree.src	0	string	STR_NOTABLEINFO				0	af	Suksesvol verbind, maar inligting oor databasistabelle is nie beskikbaar nie.				2002-02-02 02:02:02
+dbaccess	source\ui\control\tabletree.src	0	string	STR_NOTABLEINFO				1	af	Suksesvol verbind, maar inligting oor databasistabelle is nie beskikbaar nie.				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_NOTABLEINFO				0	ar	تم تأسيس الاتصال بنجاح، إلا أنه تعذر الحصول على معلومات بخصوص جداول قاعدة البيانات.				20040507 14:21:29
 dbaccess	source\ui\control\tabletree.src	0	string	STR_NOTABLEINFO				0	as-IN	সফলতাৰে সংযোগ কৰা হ'ল, কিন্তু ডাটাবেছ টেবুলবোৰৰ বিষয়ে তথ্য মজুত নাই.				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_NOTABLEINFO				13691	be-BY	Далучэнне наладжана, але інфармацыя пра табліцы базы дадзеных з'яўляецца недасягальнай.				2002-02-02 02:02:02
@@ -1434,7 +1434,7 @@ dbaccess	source\ui\control\tabletree.src	0	string	STR_NOTABLEINFO				0	xh	Kudity
 dbaccess	source\ui\control\tabletree.src	0	string	STR_NOTABLEINFO				0	zh-CN	连接已经成功，但是无法获得相关的数据库表格数据。				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_NOTABLEINFO				0	zh-TW	已經成功連線，但是沒有找到資料庫的表格內容。				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_NOTABLEINFO				0	zu	Kuxhunywe ngokunempumelelo, kodwa ulwazi mayelana namatafula esiqu solwazi alukho.				2002-02-02 02:02:02
-dbaccess	source\ui\control\undosqledit.src	0	string	STR_QUERY_UNDO_MODIFYSQLEDIT				0	af	Wysig SQL-stelling(s)				2002-02-02 02:02:02
+dbaccess	source\ui\control\undosqledit.src	0	string	STR_QUERY_UNDO_MODIFYSQLEDIT				1	af	Wysig SQL-stelling(s)				2002-02-02 02:02:02
 dbaccess	source\ui\control\undosqledit.src	0	string	STR_QUERY_UNDO_MODIFYSQLEDIT				0	ar	SQL تعديل				20040507 14:21:29
 dbaccess	source\ui\control\undosqledit.src	0	string	STR_QUERY_UNDO_MODIFYSQLEDIT				0	as-IN	SQLউক্তি (বোৰ) ৰূপান্তৰ কৰক				2002-02-02 02:02:02
 dbaccess	source\ui\control\undosqledit.src	0	string	STR_QUERY_UNDO_MODIFYSQLEDIT				13691	be-BY	Правіць сказ(ы) SQL				2002-02-02 02:02:02
