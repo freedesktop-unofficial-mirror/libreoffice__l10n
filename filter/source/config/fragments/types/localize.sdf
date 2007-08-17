@@ -13,9 +13,9 @@
 #
 #   $RCSfile: localize.sdf,v $
 #
-#   $Revision: 1.4 $
+#   $Revision: 1.5 $
 #
-#   last change: $Author: hr $ $Date: 2005-10-28 09:57:58 $
+#   last change: $Author: ihi $ $Date: 2007-08-17 12:39:25 $
 #
 #   The Contents of this file are made available subject to
 #   the terms of GNU Lesser General Public License Version 2.1.
@@ -41,13 +41,563 @@
 #     MA  02111-1307  USA
 #
 #*************************************************************************
-filter	source\config\fragments\types\StarBase.xcu	0	value	StarBase	UIName			0	es	Base de datos de Open Office				2002-02-02 02:02:02
-filter	source\config\fragments\types\StarBase.xcu	0	value	StarBase	UIName			0	fr	Base de données Open Office				2002-02-02 02:02:02
-filter	source\config\fragments\types\StarBase.xcu	0	value	StarBase	UIName			0	hu	Open Office Database				2002-02-02 02:02:02
-filter	source\config\fragments\types\StarBase.xcu	0	value	StarBase	UIName			0	it	Open Office - Database				2002-02-02 02:02:02
-filter	source\config\fragments\types\StarBase.xcu	0	value	StarBase	UIName			0	ja	Open Office のデータベース				2002-02-02 02:02:02
-filter	source\config\fragments\types\StarBase.xcu	0	value	StarBase	UIName			0	ko	Open Office 데이터베이스				2002-02-02 02:02:02
-filter	source\config\fragments\types\StarBase.xcu	0	value	StarBase	UIName			0	pt-BR	Banco de dados do Open Office				2002-02-02 02:02:02
-filter	source\config\fragments\types\StarBase.xcu	0	value	StarBase	UIName			0	sv	Open Office-databas				2002-02-02 02:02:02
-filter	source\config\fragments\types\StarBase.xcu	0	value	StarBase	UIName			0	zh-CN	Open Office 数据库				2002-02-02 02:02:02
+filter	source\config\fragments\types\StarBase.xcu	0	value	StarBase	UIName			0	be-BY	База даных OpenDocument				2002-02-02 02:02:02
+filter	source\config\fragments\types\StarBase.xcu	0	value	StarBase	UIName			0	bg	База от данни на OpenDocument				2002-02-02 02:02:02
+filter	source\config\fragments\types\StarBase.xcu	0	value	StarBase	UIName			0	br	Stlennvon OpenDocument				2002-02-02 02:02:02
+filter	source\config\fragments\types\StarBase.xcu	0	value	StarBase	UIName			0	cs	OpenDocument Database				2002-02-02 02:02:02
+filter	source\config\fragments\types\StarBase.xcu	0	value	StarBase	UIName			0	da	OpenDocument-database				2002-02-02 02:02:02
+filter	source\config\fragments\types\StarBase.xcu	0	value	StarBase	UIName			0	en-GB	OpenDocument Database				2002-02-02 02:02:02
+filter	source\config\fragments\types\StarBase.xcu	0	value	StarBase	UIName			0	eo	OpenDocument-datumbazo				2002-02-02 02:02:02
+filter	source\config\fragments\types\StarBase.xcu	0	value	StarBase	UIName			0	es	Base de datos de OpenDocument				2002-02-02 02:02:02
+filter	source\config\fragments\types\StarBase.xcu	0	value	StarBase	UIName			0	et	OpenDocument andmebaas				2002-02-02 02:02:02
+filter	source\config\fragments\types\StarBase.xcu	0	value	StarBase	UIName			0	fr	Base de données OpenDocument				2002-02-02 02:02:02
+filter	source\config\fragments\types\StarBase.xcu	0	value	StarBase	UIName			0	gl	Base de datos de OpenDocument				2002-02-02 02:02:02
+filter	source\config\fragments\types\StarBase.xcu	0	value	StarBase	UIName			0	gu	OpenDocument ડેટાબેઝ				2002-02-02 02:02:02
+filter	source\config\fragments\types\StarBase.xcu	0	value	StarBase	UIName			0	hr	OpenDocument baza podataka				2002-02-02 02:02:02
+filter	source\config\fragments\types\StarBase.xcu	0	value	StarBase	UIName			0	hu	OpenDocument-adatbázis				2002-02-02 02:02:02
+filter	source\config\fragments\types\StarBase.xcu	0	value	StarBase	UIName			0	it	OpenDocument Database				2002-02-02 02:02:02
+filter	source\config\fragments\types\StarBase.xcu	0	value	StarBase	UIName			0	ja	OpenDocument データベース				2002-02-02 02:02:02
+filter	source\config\fragments\types\StarBase.xcu	0	value	StarBase	UIName			0	km	មូលដ្ឋាន​ទិន្នន័យ​របស់ OpenDocument				2002-02-02 02:02:02
+filter	source\config\fragments\types\StarBase.xcu	0	value	StarBase	UIName			0	ko	OpenDocument 데이터베이스				2002-02-02 02:02:02
+filter	source\config\fragments\types\StarBase.xcu	0	value	StarBase	UIName			0	lt	„OpenDocument“ duomenų bazė				2002-02-02 02:02:02
+filter	source\config\fragments\types\StarBase.xcu	0	value	StarBase	UIName			0	mk	OpenDocument-база на податоци				2002-02-02 02:02:02
+filter	source\config\fragments\types\StarBase.xcu	0	value	StarBase	UIName			0	nb	OpenDocument-database				2002-02-02 02:02:02
+filter	source\config\fragments\types\StarBase.xcu	0	value	StarBase	UIName			0	nl	OpenDocument database				2002-02-02 02:02:02
+filter	source\config\fragments\types\StarBase.xcu	0	value	StarBase	UIName			0	nn	OpenDocument-database				2002-02-02 02:02:02
+filter	source\config\fragments\types\StarBase.xcu	0	value	StarBase	UIName			0	pa-IN	OpenDocument ਡਾਟਾਬੇਸ				2002-02-02 02:02:02
+filter	source\config\fragments\types\StarBase.xcu	0	value	StarBase	UIName			0	pl	Baza danych OpenDocument				2002-02-02 02:02:02
+filter	source\config\fragments\types\StarBase.xcu	0	value	StarBase	UIName			0	pt	Base de dados do OpenDocument				2002-02-02 02:02:02
+filter	source\config\fragments\types\StarBase.xcu	0	value	StarBase	UIName			0	pt-BR	Banco de dados OpenDocument				2002-02-02 02:02:02
+filter	source\config\fragments\types\StarBase.xcu	0	value	StarBase	UIName			0	rw	Amakurushingiro ya OpenDocument				2002-02-02 02:02:02
+filter	source\config\fragments\types\StarBase.xcu	0	value	StarBase	UIName			0	sl	Zbirka podatkov OpenDocument 				2002-02-02 02:02:02
+filter	source\config\fragments\types\StarBase.xcu	0	value	StarBase	UIName			0	sv	OpenDocument-databas				2002-02-02 02:02:02
+filter	source\config\fragments\types\StarBase.xcu	0	value	StarBase	UIName			0	ta	OpenDocument Database				2002-02-02 02:02:02
+filter	source\config\fragments\types\StarBase.xcu	0	value	StarBase	UIName			0	tr	OpenDocument Veritabanı				2002-02-02 02:02:02
+filter	source\config\fragments\types\StarBase.xcu	0	value	StarBase	UIName			0	vi	Cơ sở dữ liệu OpenDocument				2002-02-02 02:02:02
+filter	source\config\fragments\types\StarBase.xcu	0	value	StarBase	UIName			0	zh-CN	OpenDocument 数据库				2002-02-02 02:02:02
 filter	source\config\fragments\types\StarBase.xcu	0	value	StarBase	UIName			0	zh-TW	Open Office 資料庫				2002-02-02 02:02:02
+filter	source\config\fragments\types\StarBase_Report.xcu	0	value	StarBaseReport	UIName			0	be-BY	Справаздача базы даных OpenDocument				2002-02-02 02:02:02
+filter	source\config\fragments\types\StarBase_Report.xcu	0	value	StarBaseReport	UIName			0	bg	Справка за база от данни на OpenDocument				2002-02-02 02:02:02
+filter	source\config\fragments\types\StarBase_Report.xcu	0	value	StarBaseReport	UIName			0	br	Marilh stlennvon an OpenDocument				2002-02-02 02:02:02
+filter	source\config\fragments\types\StarBase_Report.xcu	0	value	StarBaseReport	UIName			0	cs	Sestava OpenDocument Database				2002-02-02 02:02:02
+filter	source\config\fragments\types\StarBase_Report.xcu	0	value	StarBaseReport	UIName			0	da	OpenDocument-databaserapport				2002-02-02 02:02:02
+filter	source\config\fragments\types\StarBase_Report.xcu	0	value	StarBaseReport	UIName			0	de	OpenDocument Datenbankbericht				2002-02-02 02:02:02
+filter	source\config\fragments\types\StarBase_Report.xcu	0	value	StarBaseReport	UIName			0	en-GB	OpenDocument Database Report				2002-02-02 02:02:02
+filter	source\config\fragments\types\StarBase_Report.xcu	0	value	StarBaseReport	UIName			0	eo	OpenDocument-a datumbaza raporto				2002-02-02 02:02:02
+filter	source\config\fragments\types\StarBase_Report.xcu	0	value	StarBaseReport	UIName			0	es	Informe de la base de datos de OpenDocument				2002-02-02 02:02:02
+filter	source\config\fragments\types\StarBase_Report.xcu	0	value	StarBaseReport	UIName			0	et	OpenDocument andmebaasi aruanne				2002-02-02 02:02:02
+filter	source\config\fragments\types\StarBase_Report.xcu	0	value	StarBaseReport	UIName			0	fr	Rapport de base de données OpenDocument				2002-02-02 02:02:02
+filter	source\config\fragments\types\StarBase_Report.xcu	0	value	StarBaseReport	UIName			0	gu	OpenDocument ડેટાબેઝ અહેવાલ				2002-02-02 02:02:02
+filter	source\config\fragments\types\StarBase_Report.xcu	0	value	StarBaseReport	UIName			0	hr	OpenDocument izvještaj baze				2002-02-02 02:02:02
+filter	source\config\fragments\types\StarBase_Report.xcu	0	value	StarBaseReport	UIName			0	it	OpenDocument Database Report				2002-02-02 02:02:02
+filter	source\config\fragments\types\StarBase_Report.xcu	0	value	StarBaseReport	UIName			0	ja	OpenDocument データベースレポート				2002-02-02 02:02:02
+filter	source\config\fragments\types\StarBase_Report.xcu	0	value	StarBaseReport	UIName			0	km	របាយការណ៍​មូលដ្ឋាន​ទិន្នន័យ​របស់ OpenDocument				2002-02-02 02:02:02
+filter	source\config\fragments\types\StarBase_Report.xcu	0	value	StarBaseReport	UIName			0	ko	OpenDocument 데이터베이스 보고서				2002-02-02 02:02:02
+filter	source\config\fragments\types\StarBase_Report.xcu	0	value	StarBaseReport	UIName			0	lt	„OpenDocument“ duomenų bazės ataskaita				2002-02-02 02:02:02
+filter	source\config\fragments\types\StarBase_Report.xcu	0	value	StarBaseReport	UIName			0	mk	OpenDocument - Извештај за база на податоци				2002-02-02 02:02:02
+filter	source\config\fragments\types\StarBase_Report.xcu	0	value	StarBaseReport	UIName			0	nb	OpenDocument-databaserapport				2002-02-02 02:02:02
+filter	source\config\fragments\types\StarBase_Report.xcu	0	value	StarBaseReport	UIName			0	nl	OpenDocument Databaserapport				2002-02-02 02:02:02
+filter	source\config\fragments\types\StarBase_Report.xcu	0	value	StarBaseReport	UIName			0	nn	OpenDocument-databaserapport				2002-02-02 02:02:02
+filter	source\config\fragments\types\StarBase_Report.xcu	0	value	StarBaseReport	UIName			0	pa-IN	OpenDocument ਡਾਟਾਬੇਸ ਰਿਪੋਰਟ				2002-02-02 02:02:02
+filter	source\config\fragments\types\StarBase_Report.xcu	0	value	StarBaseReport	UIName			0	pl	Raport bazy danych w formacie OpenDocument				2002-02-02 02:02:02
+filter	source\config\fragments\types\StarBase_Report.xcu	0	value	StarBaseReport	UIName			0	pt	Relatório da base de dados OpenDocument				2002-02-02 02:02:02
+filter	source\config\fragments\types\StarBase_Report.xcu	0	value	StarBaseReport	UIName			0	pt-BR	Relatório de banco de dados OpenDocument				2002-02-02 02:02:02
+filter	source\config\fragments\types\StarBase_Report.xcu	0	value	StarBaseReport	UIName			0	rw	Icyegeranyo cy'Ububikoshingiro OpenDocument				2002-02-02 02:02:02
+filter	source\config\fragments\types\StarBase_Report.xcu	0	value	StarBaseReport	UIName			0	sl	Poročilo zbirke podatkov OpenDocument 				2002-02-02 02:02:02
+filter	source\config\fragments\types\StarBase_Report.xcu	0	value	StarBaseReport	UIName			0	sv	OpenDocument-databasrapport				2002-02-02 02:02:02
+filter	source\config\fragments\types\StarBase_Report.xcu	0	value	StarBaseReport	UIName			0	ta	OpenDocument Database Report				2002-02-02 02:02:02
+filter	source\config\fragments\types\StarBase_Report.xcu	0	value	StarBaseReport	UIName			0	vi	Báo cáo cơ sở dữ liệu OpenDocument				2002-02-02 02:02:02
+filter	source\config\fragments\types\StarBase_Report.xcu	0	value	StarBaseReport	UIName			0	zh-CN	OpenDocument 数据库报表				2002-02-02 02:02:02
+filter	source\config\fragments\types\StarBase_Report.xcu	0	value	StarBaseReport	UIName			0	zh-TW	OpenDocument 資料庫報表				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc8.xcu	0	value	calc8	UIName			0	be-BY	Calc 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc8.xcu	0	value	calc8	UIName			0	bg	Calc 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc8.xcu	0	value	calc8	UIName			0	br	Calc 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc8.xcu	0	value	calc8	UIName			0	cs	Calc 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc8.xcu	0	value	calc8	UIName			0	da	Calc 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc8.xcu	0	value	calc8	UIName			0	de	Calc 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc8.xcu	0	value	calc8	UIName			0	en-GB	Calc 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc8.xcu	0	value	calc8	UIName			0	eo	Kalkulilo 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc8.xcu	0	value	calc8	UIName			0	es	Calc 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc8.xcu	0	value	calc8	UIName			0	et	Calc 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc8.xcu	0	value	calc8	UIName			0	fr	Calc 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc8.xcu	0	value	calc8	UIName			0	gu	Calc 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc8.xcu	0	value	calc8	UIName			0	hr	Calc 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc8.xcu	0	value	calc8	UIName			0	hu	Calc 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc8.xcu	0	value	calc8	UIName			0	it	Calc 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc8.xcu	0	value	calc8	UIName			0	ja	Calc 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc8.xcu	0	value	calc8	UIName			0	km	Calc 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc8.xcu	0	value	calc8	UIName			0	ko	Calc 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc8.xcu	0	value	calc8	UIName			0	lt	„Calc 8“				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc8.xcu	0	value	calc8	UIName			0	mk	Calc 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc8.xcu	0	value	calc8	UIName			0	nb	Calc 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc8.xcu	0	value	calc8	UIName			0	nl	Calc 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc8.xcu	0	value	calc8	UIName			0	nn	Calc 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc8.xcu	0	value	calc8	UIName			0	pa-IN	ਕੈਲਸ 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc8.xcu	0	value	calc8	UIName			0	pl	Calc 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc8.xcu	0	value	calc8	UIName			0	pt	Calc 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc8.xcu	0	value	calc8	UIName			0	pt-BR	Calc 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc8.xcu	0	value	calc8	UIName			0	rw	Calc 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc8.xcu	0	value	calc8	UIName			0	sl	Calc 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc8.xcu	0	value	calc8	UIName			0	sv	Calc 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc8.xcu	0	value	calc8	UIName			0	ta	Calc 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc8.xcu	0	value	calc8	UIName			0	tr	Calc 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc8.xcu	0	value	calc8	UIName			0	vi	Calc 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc8.xcu	0	value	calc8	UIName			0	zh-CN	Calc 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc8.xcu	0	value	calc8	UIName			0	zh-TW	Calc 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc8_template.xcu	0	value	calc8_template	UIName			0	be-BY	Шаблон Calc 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc8_template.xcu	0	value	calc8_template	UIName			0	bg	Шаблон на Calc 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc8_template.xcu	0	value	calc8_template	UIName			0	br	Patrom Calc 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc8_template.xcu	0	value	calc8_template	UIName			0	cs	Šablona Calc 8 				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc8_template.xcu	0	value	calc8_template	UIName			0	da	Calc 8-skabelon				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc8_template.xcu	0	value	calc8_template	UIName			0	de	Calc 8-Vorlage				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc8_template.xcu	0	value	calc8_template	UIName			0	en-GB	Calc 8 Template				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc8_template.xcu	0	value	calc8_template	UIName			0	eo	Sxablono de Tabelkalkulilo 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc8_template.xcu	0	value	calc8_template	UIName			0	es	Plantilla de Calc 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc8_template.xcu	0	value	calc8_template	UIName			0	et	Calc 8 mall				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc8_template.xcu	0	value	calc8_template	UIName			0	fr	Modèle Calc 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc8_template.xcu	0	value	calc8_template	UIName			0	gu	Calc 8 ટેમ્પલેટ				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc8_template.xcu	0	value	calc8_template	UIName			0	hr	Predložak Calc 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc8_template.xcu	0	value	calc8_template	UIName			0	hu	Calc 8-sablon				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc8_template.xcu	0	value	calc8_template	UIName			0	it	Calc 8 Template				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc8_template.xcu	0	value	calc8_template	UIName			0	ja	Calc 8 テンプレート				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc8_template.xcu	0	value	calc8_template	UIName			0	km	ពុម្ព Calc 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc8_template.xcu	0	value	calc8_template	UIName			0	ko	Calc 8 서식 파일				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc8_template.xcu	0	value	calc8_template	UIName			0	lt	„Calc 8“ šablonas				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc8_template.xcu	0	value	calc8_template	UIName			0	mk	Образец за Calc 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc8_template.xcu	0	value	calc8_template	UIName			0	nb	Calc 8-mal				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc8_template.xcu	0	value	calc8_template	UIName			0	nl	Calc 8-sjabloon				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc8_template.xcu	0	value	calc8_template	UIName			0	nn	Calc 8-mal				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc8_template.xcu	0	value	calc8_template	UIName			0	pa-IN	ਕੈਲਸ 8 ਟੈਪਲੇਟ				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc8_template.xcu	0	value	calc8_template	UIName			0	pl	Szablon Calc 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc8_template.xcu	0	value	calc8_template	UIName			0	pt	Modelo do Calc 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc8_template.xcu	0	value	calc8_template	UIName			0	pt-BR	Modelo de Calc 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc8_template.xcu	0	value	calc8_template	UIName			0	rw	Ugashusho rugero ka Calc 8 				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc8_template.xcu	0	value	calc8_template	UIName			0	sl	Predloga Calc 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc8_template.xcu	0	value	calc8_template	UIName			0	sv	Calc 8-mall				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc8_template.xcu	0	value	calc8_template	UIName			0	ta	Calc 8 Template				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc8_template.xcu	0	value	calc8_template	UIName			0	tr	Calc 8 Şablon				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc8_template.xcu	0	value	calc8_template	UIName			0	vi	Mẫu Calc 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc8_template.xcu	0	value	calc8_template	UIName			0	zh-CN	Calc 8 模板				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc8_template.xcu	0	value	calc8_template	UIName			0	zh-TW	Calc 8 範本				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc_MS_Excel_2003_XML.xcu	0	value	calc_MS_Excel_2003_XML	UIName			0	be-BY	Microsoft Excel 2003 XML				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc_MS_Excel_2003_XML.xcu	0	value	calc_MS_Excel_2003_XML	UIName			0	bg	Microsoft Excel 2003 XML				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc_MS_Excel_2003_XML.xcu	0	value	calc_MS_Excel_2003_XML	UIName			0	br	Microsoft Excel 2003 XML				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc_MS_Excel_2003_XML.xcu	0	value	calc_MS_Excel_2003_XML	UIName			0	cs	Microsoft Excel 2003 XML				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc_MS_Excel_2003_XML.xcu	0	value	calc_MS_Excel_2003_XML	UIName			0	da	Microsoft Excel 2003 XML				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc_MS_Excel_2003_XML.xcu	0	value	calc_MS_Excel_2003_XML	UIName			0	de	Microsoft Excel 2003 XML				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc_MS_Excel_2003_XML.xcu	0	value	calc_MS_Excel_2003_XML	UIName			0	en-GB	Microsoft Excel 2003 XML				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc_MS_Excel_2003_XML.xcu	0	value	calc_MS_Excel_2003_XML	UIName			0	eo	Microsoft Excel 2003 XML				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc_MS_Excel_2003_XML.xcu	0	value	calc_MS_Excel_2003_XML	UIName			0	es	Microsoft Excel 2003 XML				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc_MS_Excel_2003_XML.xcu	0	value	calc_MS_Excel_2003_XML	UIName			0	et	Microsoft Excel 2003 XML				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc_MS_Excel_2003_XML.xcu	0	value	calc_MS_Excel_2003_XML	UIName			0	fr	Microsoft Excel 2003 XML				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc_MS_Excel_2003_XML.xcu	0	value	calc_MS_Excel_2003_XML	UIName			0	gl	Microsoft Excel 2003 XML				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc_MS_Excel_2003_XML.xcu	0	value	calc_MS_Excel_2003_XML	UIName			0	gu	Microsoft Excel 2003 XML				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc_MS_Excel_2003_XML.xcu	0	value	calc_MS_Excel_2003_XML	UIName			0	hr	Microsoft Excel 2003 XML				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc_MS_Excel_2003_XML.xcu	0	value	calc_MS_Excel_2003_XML	UIName			0	hu	Microsoft Excel 2003 XML				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc_MS_Excel_2003_XML.xcu	0	value	calc_MS_Excel_2003_XML	UIName			0	it	Microsoft Excel 2003 XML				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc_MS_Excel_2003_XML.xcu	0	value	calc_MS_Excel_2003_XML	UIName			0	ja	Microsoft Excel 2003 XML				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc_MS_Excel_2003_XML.xcu	0	value	calc_MS_Excel_2003_XML	UIName			0	km	Microsoft Excel 2003 XML				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc_MS_Excel_2003_XML.xcu	0	value	calc_MS_Excel_2003_XML	UIName			0	ko	Microsoft Excel 2003 XML				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc_MS_Excel_2003_XML.xcu	0	value	calc_MS_Excel_2003_XML	UIName			0	lt	„Microsoft Excel 2003“ XML				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc_MS_Excel_2003_XML.xcu	0	value	calc_MS_Excel_2003_XML	UIName			0	mk	Microsoft Excel 2003 XML				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc_MS_Excel_2003_XML.xcu	0	value	calc_MS_Excel_2003_XML	UIName			0	nb	Microsoft Excel 2003 XML				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc_MS_Excel_2003_XML.xcu	0	value	calc_MS_Excel_2003_XML	UIName			0	nl	Microsoft Excel 2003 XML				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc_MS_Excel_2003_XML.xcu	0	value	calc_MS_Excel_2003_XML	UIName			0	nn	Microsoft Excel 2003 XML				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc_MS_Excel_2003_XML.xcu	0	value	calc_MS_Excel_2003_XML	UIName			0	pa-IN	Microsoft Excel 2003 XML				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc_MS_Excel_2003_XML.xcu	0	value	calc_MS_Excel_2003_XML	UIName			0	pl	Microsoft Excel 2003 XML				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc_MS_Excel_2003_XML.xcu	0	value	calc_MS_Excel_2003_XML	UIName			0	pt	XML do Microsoft Excel 2003				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc_MS_Excel_2003_XML.xcu	0	value	calc_MS_Excel_2003_XML	UIName			0	pt-BR	Microsoft Excel 2003 XML				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc_MS_Excel_2003_XML.xcu	0	value	calc_MS_Excel_2003_XML	UIName			0	rw	Microsoft Excel 2003 XML				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc_MS_Excel_2003_XML.xcu	0	value	calc_MS_Excel_2003_XML	UIName			0	sl	Microsoft Excel 2003 XML				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc_MS_Excel_2003_XML.xcu	0	value	calc_MS_Excel_2003_XML	UIName			0	sv	Microsoft Excel 2003 XML				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc_MS_Excel_2003_XML.xcu	0	value	calc_MS_Excel_2003_XML	UIName			0	ta	Microsoft Excel 2003 XML				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc_MS_Excel_2003_XML.xcu	0	value	calc_MS_Excel_2003_XML	UIName			0	tr	Microsoft Excel 2003 XML				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc_MS_Excel_2003_XML.xcu	0	value	calc_MS_Excel_2003_XML	UIName			0	vi	Microsoft Excel 2003 XML				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc_MS_Excel_2003_XML.xcu	0	value	calc_MS_Excel_2003_XML	UIName			0	zh-CN	Microsoft Excel 2003 XML				2002-02-02 02:02:02
+filter	source\config\fragments\types\calc_MS_Excel_2003_XML.xcu	0	value	calc_MS_Excel_2003_XML	UIName			0	zh-TW	Microsoft Excel 2003 XML				2002-02-02 02:02:02
+filter	source\config\fragments\types\chart8.xcu	0	value	chart8	UIName			0	be-BY	Chart 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\chart8.xcu	0	value	chart8	UIName			0	bg	Chart 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\chart8.xcu	0	value	chart8	UIName			0	br	Chart 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\chart8.xcu	0	value	chart8	UIName			0	cs	Chart 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\chart8.xcu	0	value	chart8	UIName			0	da	Diagram 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\chart8.xcu	0	value	chart8	UIName			0	de	Chart 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\chart8.xcu	0	value	chart8	UIName			0	en-GB	Chart 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\chart8.xcu	0	value	chart8	UIName			0	eo	Diagramilo 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\chart8.xcu	0	value	chart8	UIName			0	es	Chart 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\chart8.xcu	0	value	chart8	UIName			0	et	Chart 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\chart8.xcu	0	value	chart8	UIName			0	fr	Diagramme 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\chart8.xcu	0	value	chart8	UIName			0	gu	Chart 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\chart8.xcu	0	value	chart8	UIName			0	hr	Chart 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\chart8.xcu	0	value	chart8	UIName			0	hu	Chart 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\chart8.xcu	0	value	chart8	UIName			0	it	Chart 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\chart8.xcu	0	value	chart8	UIName			0	ja	Chart 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\chart8.xcu	0	value	chart8	UIName			0	km	Chart 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\chart8.xcu	0	value	chart8	UIName			0	ko	Chart 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\chart8.xcu	0	value	chart8	UIName			0	lt	„Chart 8“				2002-02-02 02:02:02
+filter	source\config\fragments\types\chart8.xcu	0	value	chart8	UIName			0	mk	Chart 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\chart8.xcu	0	value	chart8	UIName			0	nb	Chart 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\chart8.xcu	0	value	chart8	UIName			0	nl	Diagram 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\chart8.xcu	0	value	chart8	UIName			0	nn	Chart 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\chart8.xcu	0	value	chart8	UIName			0	pa-IN	ਚਾਰਟ 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\chart8.xcu	0	value	chart8	UIName			0	pl	Chart 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\chart8.xcu	0	value	chart8	UIName			0	pt	Chart 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\chart8.xcu	0	value	chart8	UIName			0	pt-BR	Chart 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\chart8.xcu	0	value	chart8	UIName			0	rw	Imbonerahamwe 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\chart8.xcu	0	value	chart8	UIName			0	sl	Chart 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\chart8.xcu	0	value	chart8	UIName			0	sv	Chart 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\chart8.xcu	0	value	chart8	UIName			0	ta	Chart 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\chart8.xcu	0	value	chart8	UIName			0	tr	Çizelge 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\chart8.xcu	0	value	chart8	UIName			0	vi	Chart 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\chart8.xcu	0	value	chart8	UIName			0	zh-CN	Chart 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\chart8.xcu	0	value	chart8	UIName			0	zh-TW	Chart 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\draw8.xcu	0	value	draw8	UIName			0	be-BY	Draw 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\draw8.xcu	0	value	draw8	UIName			0	bg	Draw 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\draw8.xcu	0	value	draw8	UIName			0	br	Draw 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\draw8.xcu	0	value	draw8	UIName			0	cs	Draw 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\draw8.xcu	0	value	draw8	UIName			0	da	Draw 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\draw8.xcu	0	value	draw8	UIName			0	de	Draw 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\draw8.xcu	0	value	draw8	UIName			0	en-GB	Draw 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\draw8.xcu	0	value	draw8	UIName			0	eo	Desegnilo 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\draw8.xcu	0	value	draw8	UIName			0	es	Draw 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\draw8.xcu	0	value	draw8	UIName			0	et	Draw 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\draw8.xcu	0	value	draw8	UIName			0	fr	Draw 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\draw8.xcu	0	value	draw8	UIName			0	gu	Draw 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\draw8.xcu	0	value	draw8	UIName			0	hr	Draw 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\draw8.xcu	0	value	draw8	UIName			0	hu	Draw 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\draw8.xcu	0	value	draw8	UIName			0	it	Draw 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\draw8.xcu	0	value	draw8	UIName			0	ja	Draw 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\draw8.xcu	0	value	draw8	UIName			0	km	Draw 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\draw8.xcu	0	value	draw8	UIName			0	ko	Draw 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\draw8.xcu	0	value	draw8	UIName			0	lt	„Draw 8“				2002-02-02 02:02:02
+filter	source\config\fragments\types\draw8.xcu	0	value	draw8	UIName			0	mk	Draw 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\draw8.xcu	0	value	draw8	UIName			0	nb	Draw 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\draw8.xcu	0	value	draw8	UIName			0	nl	Draw 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\draw8.xcu	0	value	draw8	UIName			0	nn	Draw 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\draw8.xcu	0	value	draw8	UIName			0	pa-IN	ਡਰਾਅ 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\draw8.xcu	0	value	draw8	UIName			0	pl	Draw 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\draw8.xcu	0	value	draw8	UIName			0	pt	Draw 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\draw8.xcu	0	value	draw8	UIName			0	pt-BR	Draw 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\draw8.xcu	0	value	draw8	UIName			0	rw	Draw 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\draw8.xcu	0	value	draw8	UIName			0	sl	Draw 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\draw8.xcu	0	value	draw8	UIName			0	sv	Draw 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\draw8.xcu	0	value	draw8	UIName			0	ta	Draw 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\draw8.xcu	0	value	draw8	UIName			0	tr	Draw 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\draw8.xcu	0	value	draw8	UIName			0	vi	Draw 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\draw8.xcu	0	value	draw8	UIName			0	zh-CN	Draw 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\draw8.xcu	0	value	draw8	UIName			0	zh-TW	Draw 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\draw8_template.xcu	0	value	draw8_template	UIName			0	be-BY	Шаблон Draw 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\draw8_template.xcu	0	value	draw8_template	UIName			0	bg	Шаблон на Draw 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\draw8_template.xcu	0	value	draw8_template	UIName			0	br	Patrom Draw 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\draw8_template.xcu	0	value	draw8_template	UIName			0	cs	Šablona Draw 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\draw8_template.xcu	0	value	draw8_template	UIName			0	da	Draw 8-skabelon				2002-02-02 02:02:02
+filter	source\config\fragments\types\draw8_template.xcu	0	value	draw8_template	UIName			0	de	Draw 8-Vorlage				2002-02-02 02:02:02
+filter	source\config\fragments\types\draw8_template.xcu	0	value	draw8_template	UIName			0	en-GB	Draw 8 Template				2002-02-02 02:02:02
+filter	source\config\fragments\types\draw8_template.xcu	0	value	draw8_template	UIName			0	eo	Sxablono de Desegnilo 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\draw8_template.xcu	0	value	draw8_template	UIName			0	es	Plantilla de Draw 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\draw8_template.xcu	0	value	draw8_template	UIName			0	et	Draw 8 mall				2002-02-02 02:02:02
+filter	source\config\fragments\types\draw8_template.xcu	0	value	draw8_template	UIName			0	fr	Modèle Draw 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\draw8_template.xcu	0	value	draw8_template	UIName			0	gu	Draw 8 ટેમ્પલેટ				2002-02-02 02:02:02
+filter	source\config\fragments\types\draw8_template.xcu	0	value	draw8_template	UIName			0	hr	Draw 8 predložak				2002-02-02 02:02:02
+filter	source\config\fragments\types\draw8_template.xcu	0	value	draw8_template	UIName			0	hu	Draw 8-sablon				2002-02-02 02:02:02
+filter	source\config\fragments\types\draw8_template.xcu	0	value	draw8_template	UIName			0	it	Draw 8 Template				2002-02-02 02:02:02
+filter	source\config\fragments\types\draw8_template.xcu	0	value	draw8_template	UIName			0	ja	Draw 8 テンプレート				2002-02-02 02:02:02
+filter	source\config\fragments\types\draw8_template.xcu	0	value	draw8_template	UIName			0	km	ពុម្ព Draw 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\draw8_template.xcu	0	value	draw8_template	UIName			0	ko	Draw 8 서식 파일				2002-02-02 02:02:02
+filter	source\config\fragments\types\draw8_template.xcu	0	value	draw8_template	UIName			0	lt	„Draw 8“ šablonas				2002-02-02 02:02:02
+filter	source\config\fragments\types\draw8_template.xcu	0	value	draw8_template	UIName			0	mk	Образец за Draw 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\draw8_template.xcu	0	value	draw8_template	UIName			0	nb	Draw 8-mal				2002-02-02 02:02:02
+filter	source\config\fragments\types\draw8_template.xcu	0	value	draw8_template	UIName			0	nl	Draw 8-sjabloon				2002-02-02 02:02:02
+filter	source\config\fragments\types\draw8_template.xcu	0	value	draw8_template	UIName			0	nn	Draw 8-mal				2002-02-02 02:02:02
+filter	source\config\fragments\types\draw8_template.xcu	0	value	draw8_template	UIName			0	pa-IN	ਡਰਾਅ 8 ਟੈਪਲੇਟ				2002-02-02 02:02:02
+filter	source\config\fragments\types\draw8_template.xcu	0	value	draw8_template	UIName			0	pl	Szablon Draw 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\draw8_template.xcu	0	value	draw8_template	UIName			0	pt	Modelo do Draw 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\draw8_template.xcu	0	value	draw8_template	UIName			0	pt-BR	Modelo de Draw 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\draw8_template.xcu	0	value	draw8_template	UIName			0	rw	Inyandikorugero ya Draw 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\draw8_template.xcu	0	value	draw8_template	UIName			0	sl	Predloga Draw 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\draw8_template.xcu	0	value	draw8_template	UIName			0	sv	Draw 8-mall				2002-02-02 02:02:02
+filter	source\config\fragments\types\draw8_template.xcu	0	value	draw8_template	UIName			0	ta	Draw 8 Template				2002-02-02 02:02:02
+filter	source\config\fragments\types\draw8_template.xcu	0	value	draw8_template	UIName			0	tr	Draw 8 Şablon				2002-02-02 02:02:02
+filter	source\config\fragments\types\draw8_template.xcu	0	value	draw8_template	UIName			0	vi	Mẫu Draw 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\draw8_template.xcu	0	value	draw8_template	UIName			0	zh-CN	Draw 8 模板				2002-02-02 02:02:02
+filter	source\config\fragments\types\draw8_template.xcu	0	value	draw8_template	UIName			0	zh-TW	Draw 8 範本				2002-02-02 02:02:02
+filter	source\config\fragments\types\impress8.xcu	0	value	impress8	UIName			0	be-BY	Impress 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\impress8.xcu	0	value	impress8	UIName			0	bg	Impress 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\impress8.xcu	0	value	impress8	UIName			0	br	Impress 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\impress8.xcu	0	value	impress8	UIName			0	cs	Impress 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\impress8.xcu	0	value	impress8	UIName			0	da	Impress 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\impress8.xcu	0	value	impress8	UIName			0	de	Impress 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\impress8.xcu	0	value	impress8	UIName			0	en-GB	Impress 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\impress8.xcu	0	value	impress8	UIName			0	eo	Prezentilo 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\impress8.xcu	0	value	impress8	UIName			0	es	Impress 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\impress8.xcu	0	value	impress8	UIName			0	et	Impress 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\impress8.xcu	0	value	impress8	UIName			0	fr	Impress 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\impress8.xcu	0	value	impress8	UIName			0	gu	Impress 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\impress8.xcu	0	value	impress8	UIName			0	hr	Impress 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\impress8.xcu	0	value	impress8	UIName			0	hu	Impress 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\impress8.xcu	0	value	impress8	UIName			0	it	Impress 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\impress8.xcu	0	value	impress8	UIName			0	ja	Impress 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\impress8.xcu	0	value	impress8	UIName			0	km	Impress 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\impress8.xcu	0	value	impress8	UIName			0	ko	Impress 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\impress8.xcu	0	value	impress8	UIName			0	lt	„Impress 8“				2002-02-02 02:02:02
+filter	source\config\fragments\types\impress8.xcu	0	value	impress8	UIName			0	mk	Impress 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\impress8.xcu	0	value	impress8	UIName			0	nb	Impress 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\impress8.xcu	0	value	impress8	UIName			0	nl	Impress 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\impress8.xcu	0	value	impress8	UIName			0	nn	Impress 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\impress8.xcu	0	value	impress8	UIName			0	pa-IN	ਐਮਪਰੈਸ 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\impress8.xcu	0	value	impress8	UIName			0	pl	Impress 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\impress8.xcu	0	value	impress8	UIName			0	pt	Impress 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\impress8.xcu	0	value	impress8	UIName			0	pt-BR	Impress 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\impress8.xcu	0	value	impress8	UIName			0	rw	Impress 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\impress8.xcu	0	value	impress8	UIName			0	sl	Impress 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\impress8.xcu	0	value	impress8	UIName			0	sv	Impress 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\impress8.xcu	0	value	impress8	UIName			0	ta	Impress 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\impress8.xcu	0	value	impress8	UIName			0	tr	Impress 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\impress8.xcu	0	value	impress8	UIName			0	vi	Impress 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\impress8.xcu	0	value	impress8	UIName			0	zh-CN	Impress 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\impress8.xcu	0	value	impress8	UIName			0	zh-TW	Impress 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\impress8_template.xcu	0	value	impress8_template	UIName			0	be-BY	Шаблон Impress 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\impress8_template.xcu	0	value	impress8_template	UIName			0	bg	Шаблон на Impress 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\impress8_template.xcu	0	value	impress8_template	UIName			0	br	Patrom Impress 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\impress8_template.xcu	0	value	impress8_template	UIName			0	cs	Šablona Impress 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\impress8_template.xcu	0	value	impress8_template	UIName			0	da	Impress 8-skabelon				2002-02-02 02:02:02
+filter	source\config\fragments\types\impress8_template.xcu	0	value	impress8_template	UIName			0	de	Impress 8-Vorlage				2002-02-02 02:02:02
+filter	source\config\fragments\types\impress8_template.xcu	0	value	impress8_template	UIName			0	en-GB	Impress 8 Template				2002-02-02 02:02:02
+filter	source\config\fragments\types\impress8_template.xcu	0	value	impress8_template	UIName			0	eo	Sxablono de Prezentilo 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\impress8_template.xcu	0	value	impress8_template	UIName			0	es	Plantilla de Impress 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\impress8_template.xcu	0	value	impress8_template	UIName			0	et	Impress 8 mall				2002-02-02 02:02:02
+filter	source\config\fragments\types\impress8_template.xcu	0	value	impress8_template	UIName			0	fr	Modèle Impress 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\impress8_template.xcu	0	value	impress8_template	UIName			0	gu	Impress 8 ટેમ્પલેટ				2002-02-02 02:02:02
+filter	source\config\fragments\types\impress8_template.xcu	0	value	impress8_template	UIName			0	hr	Predložak Impress 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\impress8_template.xcu	0	value	impress8_template	UIName			0	hu	Impress 8-sablon				2002-02-02 02:02:02
+filter	source\config\fragments\types\impress8_template.xcu	0	value	impress8_template	UIName			0	it	Impress 8 Template				2002-02-02 02:02:02
+filter	source\config\fragments\types\impress8_template.xcu	0	value	impress8_template	UIName			0	ja	Impress 8 テンプレート				2002-02-02 02:02:02
+filter	source\config\fragments\types\impress8_template.xcu	0	value	impress8_template	UIName			0	km	ពុម្ព Impress 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\impress8_template.xcu	0	value	impress8_template	UIName			0	ko	Impress 8 서식 파일				2002-02-02 02:02:02
+filter	source\config\fragments\types\impress8_template.xcu	0	value	impress8_template	UIName			0	lt	„Impress 8“ šablonas				2002-02-02 02:02:02
+filter	source\config\fragments\types\impress8_template.xcu	0	value	impress8_template	UIName			0	mk	Образец за Impress 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\impress8_template.xcu	0	value	impress8_template	UIName			0	nb	Impress 8-mal				2002-02-02 02:02:02
+filter	source\config\fragments\types\impress8_template.xcu	0	value	impress8_template	UIName			0	nl	Impress 8-sjabloon				2002-02-02 02:02:02
+filter	source\config\fragments\types\impress8_template.xcu	0	value	impress8_template	UIName			0	nn	Impress 8-mal				2002-02-02 02:02:02
+filter	source\config\fragments\types\impress8_template.xcu	0	value	impress8_template	UIName			0	pa-IN	ਐਮਪਰੈਸ 8 ਟੈਪਲੇਟ				2002-02-02 02:02:02
+filter	source\config\fragments\types\impress8_template.xcu	0	value	impress8_template	UIName			0	pl	Szablon Impress 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\impress8_template.xcu	0	value	impress8_template	UIName			0	pt	Modelo do Impress 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\impress8_template.xcu	0	value	impress8_template	UIName			0	pt-BR	Modelo de Impress 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\impress8_template.xcu	0	value	impress8_template	UIName			0	rw	Inyandikorugero ya Impress 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\impress8_template.xcu	0	value	impress8_template	UIName			0	sl	Predloga Impress 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\impress8_template.xcu	0	value	impress8_template	UIName			0	sv	Impress 8-mall				2002-02-02 02:02:02
+filter	source\config\fragments\types\impress8_template.xcu	0	value	impress8_template	UIName			0	ta	Impress 8 Template				2002-02-02 02:02:02
+filter	source\config\fragments\types\impress8_template.xcu	0	value	impress8_template	UIName			0	tr	Impress 8 Şablon				2002-02-02 02:02:02
+filter	source\config\fragments\types\impress8_template.xcu	0	value	impress8_template	UIName			0	vi	Mẫu Impress 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\impress8_template.xcu	0	value	impress8_template	UIName			0	zh-CN	Impress 8 模板				2002-02-02 02:02:02
+filter	source\config\fragments\types\impress8_template.xcu	0	value	impress8_template	UIName			0	zh-TW	Impress 8 範本				2002-02-02 02:02:02
+filter	source\config\fragments\types\math8.xcu	0	value	math8	UIName			0	be-BY	Math 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\math8.xcu	0	value	math8	UIName			0	bg	Math 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\math8.xcu	0	value	math8	UIName			0	br	Math 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\math8.xcu	0	value	math8	UIName			0	cs	Math 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\math8.xcu	0	value	math8	UIName			0	da	Math 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\math8.xcu	0	value	math8	UIName			0	de	Math 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\math8.xcu	0	value	math8	UIName			0	en-GB	Math 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\math8.xcu	0	value	math8	UIName			0	eo	Matematikilo 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\math8.xcu	0	value	math8	UIName			0	es	Math 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\math8.xcu	0	value	math8	UIName			0	et	Math 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\math8.xcu	0	value	math8	UIName			0	fr	Math 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\math8.xcu	0	value	math8	UIName			0	gu	Math 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\math8.xcu	0	value	math8	UIName			0	hr	Math 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\math8.xcu	0	value	math8	UIName			0	hu	Math 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\math8.xcu	0	value	math8	UIName			0	it	Math 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\math8.xcu	0	value	math8	UIName			0	ja	Math 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\math8.xcu	0	value	math8	UIName			0	km	Math 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\math8.xcu	0	value	math8	UIName			0	ko	Math 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\math8.xcu	0	value	math8	UIName			0	lt	„Math 8“				2002-02-02 02:02:02
+filter	source\config\fragments\types\math8.xcu	0	value	math8	UIName			0	mk	Math 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\math8.xcu	0	value	math8	UIName			0	nb	Math 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\math8.xcu	0	value	math8	UIName			0	nl	Math 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\math8.xcu	0	value	math8	UIName			0	nn	Math 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\math8.xcu	0	value	math8	UIName			0	pa-IN	ਮੈਥ 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\math8.xcu	0	value	math8	UIName			0	pl	Math 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\math8.xcu	0	value	math8	UIName			0	pt	Math 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\math8.xcu	0	value	math8	UIName			0	pt-BR	Math 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\math8.xcu	0	value	math8	UIName			0	rw	Imibare 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\math8.xcu	0	value	math8	UIName			0	sl	Math 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\math8.xcu	0	value	math8	UIName			0	sv	Math 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\math8.xcu	0	value	math8	UIName			0	ta	Math 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\math8.xcu	0	value	math8	UIName			0	tr	Math 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\math8.xcu	0	value	math8	UIName			0	vi	Math 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\math8.xcu	0	value	math8	UIName			0	zh-CN	Math 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\math8.xcu	0	value	math8	UIName			0	zh-TW	Math 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer8.xcu	0	value	writer8	UIName			0	be-BY	Writer 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer8.xcu	0	value	writer8	UIName			0	bg	Writer 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer8.xcu	0	value	writer8	UIName			0	br	Writer 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer8.xcu	0	value	writer8	UIName			0	cs	Writer 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer8.xcu	0	value	writer8	UIName			0	da	Writer 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer8.xcu	0	value	writer8	UIName			0	de	Writer 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer8.xcu	0	value	writer8	UIName			0	en-GB	Writer 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer8.xcu	0	value	writer8	UIName			0	eo	Verkilo 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer8.xcu	0	value	writer8	UIName			0	es	Writer 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer8.xcu	0	value	writer8	UIName			0	et	Writer 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer8.xcu	0	value	writer8	UIName			0	fr	Writer 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer8.xcu	0	value	writer8	UIName			0	gu	Writer 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer8.xcu	0	value	writer8	UIName			0	hr	Writer 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer8.xcu	0	value	writer8	UIName			0	hu	Writer 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer8.xcu	0	value	writer8	UIName			0	it	Writer 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer8.xcu	0	value	writer8	UIName			0	ja	Writer 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer8.xcu	0	value	writer8	UIName			0	km	Writer 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer8.xcu	0	value	writer8	UIName			0	ko	Writer 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer8.xcu	0	value	writer8	UIName			0	lt	„Writer 8“				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer8.xcu	0	value	writer8	UIName			0	mk	Writer 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer8.xcu	0	value	writer8	UIName			0	nb	Writer 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer8.xcu	0	value	writer8	UIName			0	nl	Writer 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer8.xcu	0	value	writer8	UIName			0	nn	Writer 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer8.xcu	0	value	writer8	UIName			0	pa-IN	ਰਾਇਟਰ 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer8.xcu	0	value	writer8	UIName			0	pl	Writer 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer8.xcu	0	value	writer8	UIName			0	pt	Writer 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer8.xcu	0	value	writer8	UIName			0	pt-BR	Writer 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer8.xcu	0	value	writer8	UIName			0	rw	Writer 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer8.xcu	0	value	writer8	UIName			0	sl	Writer 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer8.xcu	0	value	writer8	UIName			0	sv	Writer 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer8.xcu	0	value	writer8	UIName			0	ta	Writer 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer8.xcu	0	value	writer8	UIName			0	tr	Writer 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer8.xcu	0	value	writer8	UIName			0	vi	Writer 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer8.xcu	0	value	writer8	UIName			0	zh-CN	Writer 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer8.xcu	0	value	writer8	UIName			0	zh-TW	Writer 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer8_template.xcu	0	value	writer8_template	UIName			0	be-BY	Шаблон Writer 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer8_template.xcu	0	value	writer8_template	UIName			0	bg	Шаблон на Writer 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer8_template.xcu	0	value	writer8_template	UIName			0	br	Patrom Writer 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer8_template.xcu	0	value	writer8_template	UIName			0	cs	Šablona Writer 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer8_template.xcu	0	value	writer8_template	UIName			0	da	Writer 8-skabelon				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer8_template.xcu	0	value	writer8_template	UIName			0	de	Writer 8-Vorlage				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer8_template.xcu	0	value	writer8_template	UIName			0	en-GB	Writer 8 Template				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer8_template.xcu	0	value	writer8_template	UIName			0	eo	Sxablono de Verkilo 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer8_template.xcu	0	value	writer8_template	UIName			0	es	Plantilla de Writer 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer8_template.xcu	0	value	writer8_template	UIName			0	et	Writer 8 mall				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer8_template.xcu	0	value	writer8_template	UIName			0	fr	Modèle Writer 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer8_template.xcu	0	value	writer8_template	UIName			0	gu	Writer 8 ટેમ્પલેટ				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer8_template.xcu	0	value	writer8_template	UIName			0	hr	Writer 8 predložak				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer8_template.xcu	0	value	writer8_template	UIName			0	hu	Writer 8-sablon				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer8_template.xcu	0	value	writer8_template	UIName			0	it	Writer 8 Template				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer8_template.xcu	0	value	writer8_template	UIName			0	ja	Writer 8 テンプレート				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer8_template.xcu	0	value	writer8_template	UIName			0	km	ពុម្ព Writer 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer8_template.xcu	0	value	writer8_template	UIName			0	ko	Writer 8 서식 파일				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer8_template.xcu	0	value	writer8_template	UIName			0	lt	„Writer 8“ šablonas				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer8_template.xcu	0	value	writer8_template	UIName			0	mk	Образец за Writer 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer8_template.xcu	0	value	writer8_template	UIName			0	nb	Writer 8-mal				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer8_template.xcu	0	value	writer8_template	UIName			0	nl	Writer 8-sjabloon				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer8_template.xcu	0	value	writer8_template	UIName			0	nn	Writer 8-mal				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer8_template.xcu	0	value	writer8_template	UIName			0	pa-IN	ਰਾਇਟਰ 8 ਟੈਪਲੇਟ				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer8_template.xcu	0	value	writer8_template	UIName			0	pl	Szablon Writer 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer8_template.xcu	0	value	writer8_template	UIName			0	pt	Modelo do Writer 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer8_template.xcu	0	value	writer8_template	UIName			0	pt-BR	Modelo de Writer 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer8_template.xcu	0	value	writer8_template	UIName			0	rw	Inyandikorugero ya Writer 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer8_template.xcu	0	value	writer8_template	UIName			0	sl	Predloga Writer 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer8_template.xcu	0	value	writer8_template	UIName			0	sv	Writer 8-mall				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer8_template.xcu	0	value	writer8_template	UIName			0	ta	Writer 8 Template				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer8_template.xcu	0	value	writer8_template	UIName			0	tr	Writer 8 Şablon				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer8_template.xcu	0	value	writer8_template	UIName			0	vi	Mẫu Writer 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer8_template.xcu	0	value	writer8_template	UIName			0	zh-CN	Writer 8 模板				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer8_template.xcu	0	value	writer8_template	UIName			0	zh-TW	Writer 8 範本				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer_MS_Word_2003_XML.xcu	0	value	writer_MS_Word_2003_XML	UIName			0	be-BY	Microsoft Word 2003 XML				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer_MS_Word_2003_XML.xcu	0	value	writer_MS_Word_2003_XML	UIName			0	bg	Microsoft Word 2003 XML				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer_MS_Word_2003_XML.xcu	0	value	writer_MS_Word_2003_XML	UIName			0	br	Microsoft Word 2003 XML				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer_MS_Word_2003_XML.xcu	0	value	writer_MS_Word_2003_XML	UIName			0	cs	Microsoft Word 2003 XML				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer_MS_Word_2003_XML.xcu	0	value	writer_MS_Word_2003_XML	UIName			0	da	Microsoft Word 2003 XML				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer_MS_Word_2003_XML.xcu	0	value	writer_MS_Word_2003_XML	UIName			0	de	Microsoft Word 2003 XML				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer_MS_Word_2003_XML.xcu	0	value	writer_MS_Word_2003_XML	UIName			0	en-GB	Microsoft Word 2003 XML				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer_MS_Word_2003_XML.xcu	0	value	writer_MS_Word_2003_XML	UIName			0	eo	Microsoft Word 2003 XML				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer_MS_Word_2003_XML.xcu	0	value	writer_MS_Word_2003_XML	UIName			0	es	Microsoft Word 2003 XML				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer_MS_Word_2003_XML.xcu	0	value	writer_MS_Word_2003_XML	UIName			0	et	Microsoft Word 2003 XML				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer_MS_Word_2003_XML.xcu	0	value	writer_MS_Word_2003_XML	UIName			0	fr	Microsoft Word 2003 XML				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer_MS_Word_2003_XML.xcu	0	value	writer_MS_Word_2003_XML	UIName			0	gl	Microsoft Word 2003 XML				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer_MS_Word_2003_XML.xcu	0	value	writer_MS_Word_2003_XML	UIName			0	gu	Microsoft Word 2003 XML				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer_MS_Word_2003_XML.xcu	0	value	writer_MS_Word_2003_XML	UIName			0	hr	Microsoft Word 2003 XML				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer_MS_Word_2003_XML.xcu	0	value	writer_MS_Word_2003_XML	UIName			0	hu	Microsoft Word 2003 XML				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer_MS_Word_2003_XML.xcu	0	value	writer_MS_Word_2003_XML	UIName			0	it	Microsoft Word 2003 XML				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer_MS_Word_2003_XML.xcu	0	value	writer_MS_Word_2003_XML	UIName			0	ja	Microsoft Word 2003 XML				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer_MS_Word_2003_XML.xcu	0	value	writer_MS_Word_2003_XML	UIName			0	km	Microsoft Word 2003 XML				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer_MS_Word_2003_XML.xcu	0	value	writer_MS_Word_2003_XML	UIName			0	ko	Microsoft Word 2003 XML				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer_MS_Word_2003_XML.xcu	0	value	writer_MS_Word_2003_XML	UIName			0	lt	„Microsoft Word 2003“ XML				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer_MS_Word_2003_XML.xcu	0	value	writer_MS_Word_2003_XML	UIName			0	mk	Microsoft Word 2003 XML				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer_MS_Word_2003_XML.xcu	0	value	writer_MS_Word_2003_XML	UIName			0	nb	Microsoft Word 2003 XML				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer_MS_Word_2003_XML.xcu	0	value	writer_MS_Word_2003_XML	UIName			0	nl	Microsoft Word 2003 XML				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer_MS_Word_2003_XML.xcu	0	value	writer_MS_Word_2003_XML	UIName			0	nn	Microsoft Word 2003 XML				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer_MS_Word_2003_XML.xcu	0	value	writer_MS_Word_2003_XML	UIName			0	pa-IN	Microsoft Word 2003 XML				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer_MS_Word_2003_XML.xcu	0	value	writer_MS_Word_2003_XML	UIName			0	pl	Microsoft Word 2003 XML				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer_MS_Word_2003_XML.xcu	0	value	writer_MS_Word_2003_XML	UIName			0	pt	XML do Microsoft Word 2003				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer_MS_Word_2003_XML.xcu	0	value	writer_MS_Word_2003_XML	UIName			0	pt-BR	Microsoft Word 2003 XML				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer_MS_Word_2003_XML.xcu	0	value	writer_MS_Word_2003_XML	UIName			0	rw	Microsoft Word 2003 XML				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer_MS_Word_2003_XML.xcu	0	value	writer_MS_Word_2003_XML	UIName			0	sl	Microsoft Word 2003 XML				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer_MS_Word_2003_XML.xcu	0	value	writer_MS_Word_2003_XML	UIName			0	sv	Microsoft Word 2003 XML				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer_MS_Word_2003_XML.xcu	0	value	writer_MS_Word_2003_XML	UIName			0	ta	Microsoft Word 2003 XML				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer_MS_Word_2003_XML.xcu	0	value	writer_MS_Word_2003_XML	UIName			0	tr	Microsoft Word 2003 XML				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer_MS_Word_2003_XML.xcu	0	value	writer_MS_Word_2003_XML	UIName			0	vi	Microsoft Word 2003 XML				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer_MS_Word_2003_XML.xcu	0	value	writer_MS_Word_2003_XML	UIName			0	zh-CN	Microsoft Word 2003 XML				2002-02-02 02:02:02
+filter	source\config\fragments\types\writer_MS_Word_2003_XML.xcu	0	value	writer_MS_Word_2003_XML	UIName			0	zh-TW	Microsoft Word 2003 XML				2002-02-02 02:02:02
+filter	source\config\fragments\types\writerglobal8.xcu	0	value	writerglobal8	UIName			0	be-BY	Майстар-дакумент Writer 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writerglobal8.xcu	0	value	writerglobal8	UIName			0	bg	Главен документ на Writer 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writerglobal8.xcu	0	value	writerglobal8	UIName			0	br	Teul mestr Writer 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writerglobal8.xcu	0	value	writerglobal8	UIName			0	cs	Hlavní dokument Writer 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writerglobal8.xcu	0	value	writerglobal8	UIName			0	da	Writer 8-hoveddokument				2002-02-02 02:02:02
+filter	source\config\fragments\types\writerglobal8.xcu	0	value	writerglobal8	UIName			0	de	Writer 8-Hauptdokument				2002-02-02 02:02:02
+filter	source\config\fragments\types\writerglobal8.xcu	0	value	writerglobal8	UIName			0	en-GB	Writer 8 Master Document				2002-02-02 02:02:02
+filter	source\config\fragments\types\writerglobal8.xcu	0	value	writerglobal8	UIName			0	eo	Modela dokumento de Verkilo 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writerglobal8.xcu	0	value	writerglobal8	UIName			0	es	Documento maestro de Writer 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writerglobal8.xcu	0	value	writerglobal8	UIName			0	et	Writer 8 põhidokument				2002-02-02 02:02:02
+filter	source\config\fragments\types\writerglobal8.xcu	0	value	writerglobal8	UIName			0	fr	Document maître Writer 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writerglobal8.xcu	0	value	writerglobal8	UIName			0	gu	Writer 8 મુખ્ય દસ્તાવેજ				2002-02-02 02:02:02
+filter	source\config\fragments\types\writerglobal8.xcu	0	value	writerglobal8	UIName			0	hr	Dokument Writer 8 Master 				2002-02-02 02:02:02
+filter	source\config\fragments\types\writerglobal8.xcu	0	value	writerglobal8	UIName			0	hu	Writer 8-fődokumentum				2002-02-02 02:02:02
+filter	source\config\fragments\types\writerglobal8.xcu	0	value	writerglobal8	UIName			0	it	Writer 8 Master Document				2002-02-02 02:02:02
+filter	source\config\fragments\types\writerglobal8.xcu	0	value	writerglobal8	UIName			0	ja	Writer 8 マスタードキュメント				2002-02-02 02:02:02
+filter	source\config\fragments\types\writerglobal8.xcu	0	value	writerglobal8	UIName			0	km	ឯកសារ​មេ​របស់ Writer 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writerglobal8.xcu	0	value	writerglobal8	UIName			0	ko	Writer 8 마스터 문서				2002-02-02 02:02:02
+filter	source\config\fragments\types\writerglobal8.xcu	0	value	writerglobal8	UIName			0	lt	„Writer 8“ pagrindinis dokumentas				2002-02-02 02:02:02
+filter	source\config\fragments\types\writerglobal8.xcu	0	value	writerglobal8	UIName			0	mk	Главен документ за Writer 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writerglobal8.xcu	0	value	writerglobal8	UIName			0	nb	Writer 8-hoveddokument				2002-02-02 02:02:02
+filter	source\config\fragments\types\writerglobal8.xcu	0	value	writerglobal8	UIName			0	nl	Writer 8-hoofddocument				2002-02-02 02:02:02
+filter	source\config\fragments\types\writerglobal8.xcu	0	value	writerglobal8	UIName			0	nn	Writer 8-hovuddokument				2002-02-02 02:02:02
+filter	source\config\fragments\types\writerglobal8.xcu	0	value	writerglobal8	UIName			0	pa-IN	ਰਾਇਟਰ 8 ਮਾਸਟਰ ਦਸਤਾਵੇਜ਼				2002-02-02 02:02:02
+filter	source\config\fragments\types\writerglobal8.xcu	0	value	writerglobal8	UIName			0	pl	Dokument główny Writer 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writerglobal8.xcu	0	value	writerglobal8	UIName			0	pt	Documento principal do Writer 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writerglobal8.xcu	0	value	writerglobal8	UIName			0	pt-BR	Documento-mestre do Writer 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writerglobal8.xcu	0	value	writerglobal8	UIName			0	rw	Inyandiko ya Writer 8 Master				2002-02-02 02:02:02
+filter	source\config\fragments\types\writerglobal8.xcu	0	value	writerglobal8	UIName			0	sl	Glavni dokument Writer 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writerglobal8.xcu	0	value	writerglobal8	UIName			0	sv	Writer 8-samlingsdokument				2002-02-02 02:02:02
+filter	source\config\fragments\types\writerglobal8.xcu	0	value	writerglobal8	UIName			0	ta	Writer 8 Master Document				2002-02-02 02:02:02
+filter	source\config\fragments\types\writerglobal8.xcu	0	value	writerglobal8	UIName			0	tr	Writer 8 Ana Belge				2002-02-02 02:02:02
+filter	source\config\fragments\types\writerglobal8.xcu	0	value	writerglobal8	UIName			0	vi	Tài liệu chủ Writer 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writerglobal8.xcu	0	value	writerglobal8	UIName			0	zh-CN	Writer 8 主控文档				2002-02-02 02:02:02
+filter	source\config\fragments\types\writerglobal8.xcu	0	value	writerglobal8	UIName			0	zh-TW	Writer 8 主控文件				2002-02-02 02:02:02
+filter	source\config\fragments\types\writerweb8_writer_template.xcu	0	value	writerweb8_writer_template	UIName			0	be-BY	Шаблон Writer/Web 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writerweb8_writer_template.xcu	0	value	writerweb8_writer_template	UIName			0	bg	Шаблон на Writer/Web 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writerweb8_writer_template.xcu	0	value	writerweb8_writer_template	UIName			0	br	Patrom Writer/Web 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writerweb8_writer_template.xcu	0	value	writerweb8_writer_template	UIName			0	cs	Šablona Writer/Web 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writerweb8_writer_template.xcu	0	value	writerweb8_writer_template	UIName			0	da	Writer/Web 8-skabelon				2002-02-02 02:02:02
+filter	source\config\fragments\types\writerweb8_writer_template.xcu	0	value	writerweb8_writer_template	UIName			0	de	Writer/Web 8-Vorlage				2002-02-02 02:02:02
+filter	source\config\fragments\types\writerweb8_writer_template.xcu	0	value	writerweb8_writer_template	UIName			0	en-GB	Writer/Web 8 Template				2002-02-02 02:02:02
+filter	source\config\fragments\types\writerweb8_writer_template.xcu	0	value	writerweb8_writer_template	UIName			0	eo	Sxablono de Verkilo/TTT 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writerweb8_writer_template.xcu	0	value	writerweb8_writer_template	UIName			0	es	Plantilla de Writer/Web 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writerweb8_writer_template.xcu	0	value	writerweb8_writer_template	UIName			0	et	Writer/Web 8 mall				2002-02-02 02:02:02
+filter	source\config\fragments\types\writerweb8_writer_template.xcu	0	value	writerweb8_writer_template	UIName			0	fr	Modèle Writer/Web 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writerweb8_writer_template.xcu	0	value	writerweb8_writer_template	UIName			0	gu	Writer/Web 8 ટેમ્પલેટ				2002-02-02 02:02:02
+filter	source\config\fragments\types\writerweb8_writer_template.xcu	0	value	writerweb8_writer_template	UIName			0	hr	Predložak Writer/Web 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writerweb8_writer_template.xcu	0	value	writerweb8_writer_template	UIName			0	hu	Writer/Web 8-sablon				2002-02-02 02:02:02
+filter	source\config\fragments\types\writerweb8_writer_template.xcu	0	value	writerweb8_writer_template	UIName			0	it	Writer/Web 8 Template				2002-02-02 02:02:02
+filter	source\config\fragments\types\writerweb8_writer_template.xcu	0	value	writerweb8_writer_template	UIName			0	ja	Writer/Web 8 テンプレート				2002-02-02 02:02:02
+filter	source\config\fragments\types\writerweb8_writer_template.xcu	0	value	writerweb8_writer_template	UIName			0	km	ពុម្ព Writer/Web 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writerweb8_writer_template.xcu	0	value	writerweb8_writer_template	UIName			0	ko	Writer/Web 8 서식 파일				2002-02-02 02:02:02
+filter	source\config\fragments\types\writerweb8_writer_template.xcu	0	value	writerweb8_writer_template	UIName			0	lt	„Writer/Web 8“ šablonas				2002-02-02 02:02:02
+filter	source\config\fragments\types\writerweb8_writer_template.xcu	0	value	writerweb8_writer_template	UIName			0	mk	Образец за Writer/Web 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writerweb8_writer_template.xcu	0	value	writerweb8_writer_template	UIName			0	nb	Writer/Web 8-mal				2002-02-02 02:02:02
+filter	source\config\fragments\types\writerweb8_writer_template.xcu	0	value	writerweb8_writer_template	UIName			0	nl	Writer/Web 8-sjabloon				2002-02-02 02:02:02
+filter	source\config\fragments\types\writerweb8_writer_template.xcu	0	value	writerweb8_writer_template	UIName			0	nn	Writer/Web 8-mal				2002-02-02 02:02:02
+filter	source\config\fragments\types\writerweb8_writer_template.xcu	0	value	writerweb8_writer_template	UIName			0	pa-IN	ਰਾਇਟਰ/ਵੈੱਬ 8 ਟੈਪਲੇਟ				2002-02-02 02:02:02
+filter	source\config\fragments\types\writerweb8_writer_template.xcu	0	value	writerweb8_writer_template	UIName			0	pl	Szablon Writer/Web 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writerweb8_writer_template.xcu	0	value	writerweb8_writer_template	UIName			0	pt	Modelo do Writer/Web 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writerweb8_writer_template.xcu	0	value	writerweb8_writer_template	UIName			0	pt-BR	Modelo de Writer/Web 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writerweb8_writer_template.xcu	0	value	writerweb8_writer_template	UIName			0	rw	Inyandikorugero ya Writer/Web 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writerweb8_writer_template.xcu	0	value	writerweb8_writer_template	UIName			0	sl	Predloga Writer/Web 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writerweb8_writer_template.xcu	0	value	writerweb8_writer_template	UIName			0	sv	Writer/Web 8-mall				2002-02-02 02:02:02
+filter	source\config\fragments\types\writerweb8_writer_template.xcu	0	value	writerweb8_writer_template	UIName			0	ta	Writer/Web 8 Template				2002-02-02 02:02:02
+filter	source\config\fragments\types\writerweb8_writer_template.xcu	0	value	writerweb8_writer_template	UIName			0	tr	Writer/Web 8 Şablon				2002-02-02 02:02:02
+filter	source\config\fragments\types\writerweb8_writer_template.xcu	0	value	writerweb8_writer_template	UIName			0	vi	Mẫu Writer/Web 8				2002-02-02 02:02:02
+filter	source\config\fragments\types\writerweb8_writer_template.xcu	0	value	writerweb8_writer_template	UIName			0	zh-CN	Writer/Web 8 模板				2002-02-02 02:02:02
+filter	source\config\fragments\types\writerweb8_writer_template.xcu	0	value	writerweb8_writer_template	UIName			0	zh-TW	Writer/Web 8 範本				2002-02-02 02:02:02
