@@ -13,9 +13,9 @@
 #
 #   $RCSfile: localize.sdf,v $
 #
-#   $Revision: 1.32 $
+#   $Revision: 1.33 $
 #
-#   last change: $Author: ihi $ $Date: 2007-08-17 12:37:00 $
+#   last change: $Author: vg $ $Date: 2007-08-30 12:06:53 $
 #
 #   The Contents of this file are made available subject to
 #   the terms of GNU Lesser General Public License Version 2.1.
@@ -1322,7 +1322,7 @@ dbaccess	source\ui\tabledesign\table.src	0	string	STR_DEFAULT_VALUE				0	pl	Wart
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_DEFAULT_VALUE				0	pt	Valor ~predefinido				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_DEFAULT_VALUE				0	pt-BR	Valor pa~drão				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_DEFAULT_VALUE				40	ru	Значение по умолчанию				2002-02-02 02:02:02
-dbaccess	source\ui\tabledesign\table.src	0	string	STR_DEFAULT_VALUE				40	rw	Agaciro mburabuzi				2002-02-02 02:02:02
+dbaccess	source\ui\tabledesign\table.src	0	string	STR_DEFAULT_VALUE				0	rw	Agaciro gasanzweho				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_DEFAULT_VALUE				0	sh-YU	~Podrazumevana vrednost				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_DEFAULT_VALUE				40	sk	Východzia ho~dnota				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_DEFAULT_VALUE				40	sl	~Privzeta vrednost				2002-02-02 02:02:02
@@ -1783,7 +1783,7 @@ dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_BOOL_DEFAULT				0	pl	
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_BOOL_DEFAULT				0	pt	Seleccione o valor que pretende que seja apresentado em todos os novos registos como predefinição.\nSe não pretender que o campo tenha um valor predefinido, seleccione a cadeia vazia.				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_BOOL_DEFAULT				0	pt-BR	Selecione um valor que deverá aparecer em todos os registros como padrão. \nCaso o campo não deva ter um valor padrão, selecione uma seqüência de caracteres vazia.				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_BOOL_DEFAULT				40	ru	Выберите значение, которое будет присваиваться этому полю для каждой новой записи.\nВыберите пустую строку, если поле не будет содержать такого значения.				2002-02-02 02:02:02
-dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_BOOL_DEFAULT				40	rw	Hitamo agaciro kagomba kugaragara mu byabitswe bishya byose nka mburabuzi.\nNiba umwanya utagomba kugira agaciro mburabuzi, wahitamo ikurikiranyanyuguti ririmo ubusa.				2002-02-02 02:02:02
+dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_BOOL_DEFAULT				0	rw	Hitamo agaciro kagomba kugaragara mu byabitswe bishya byose nka gisanzweho.\nNiba umwanya utagomba kugira agaciro gasanzweho, wahitamo ikurikiranyanyuguti ririmo ubusa.				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_BOOL_DEFAULT				0	sh-YU	Izaberi vrednost koja bi se pojavla u svim novim zapisima kao podrazumevana.\nAko polje nema podrazumevanu vrednost, izaberi prazan red.				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_BOOL_DEFAULT				40	sk	Vyberte hodnotu, ktorá sa objaví v nových záznamoch ako predradená.\nak pole nemá obsahovať predradenú hodnotu, vyberte prázdny reťazec..				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_BOOL_DEFAULT				40	sl	Izberite vrednost, ki naj se privzeto pojavi v vseh novih zapisih.\nČe naj polje nima privzete vrednosti, izberite prazen niz.				2002-02-02 02:02:02
@@ -1858,7 +1858,7 @@ dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_DEFAULT_VALUE				0	pl
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_DEFAULT_VALUE				0	pt	Introduza um valor predefinido para este campo.\n\nQuando posteriormente introduzir dados na tabela, esta cadeia será utilizada em cada registo novo para o campo seleccionado. Por esta razão, deverá corresponder ao formato de célula a indicar mais abaixo.				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_DEFAULT_VALUE				0	pt-BR	Digite um valor padrão para esse campo.\n\nFuturamente, quando você inserir dados na tabela, essa seqüência de caracteres será utilizada em cada novo registro do campo selecionado. Portanto, esse valor deverá corresponder ao formato de célula a ser inserido abaixo.				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_DEFAULT_VALUE				40	ru	Задайте значение по умолчанию для этого поля.\n\nПри вводе данных в таблицу, это значение будет использоваться в каждой новой записи. Значение по умолчанию должно соответствовать формату ячеек, указываемому ниже.				2002-02-02 02:02:02
-dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_DEFAULT_VALUE				40	rw	Andika agaciro mburabuzi muri uyu mwanya.\nNyuma niwandika ibyatanzwe mu mbonerahamwe, iri kurikiranyanyuguti rizakoreshwa muri buri kintu cyabitswe gishya ku mwanya watoranijwe. Noneho,ishobora kuzahura  n'imiterere y'akazu ikeneye kwinjizwa mu mwanya ukurikira.				2002-02-02 02:02:02
+dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_DEFAULT_VALUE				0	rw	Andika agaciro gasanzweho muri uyu mwanya.\nNyuma niwandika ibyatanzwe mu mbonerahamwe, iri kurikiranyanyuguti rizakoreshwa muri buri kintu cyabitswe gishya ku mwanya watoranijwe. Noneho,ishobora kuzahura  n'imiterere y'akazu ikeneye kwinjizwa mu mwanya ukurikira.				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_DEFAULT_VALUE				0	sh-YU	Unesi podrazumevanu vrednost za ovo polje.\n\nKada kasnije uneseš podatke u tabelu, ova linija će biti korišćena u svakom novom zapisu za izabrano polje. Zato bi trebalo da odgovara formatu ćelije koje treba da se unese ispod.				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_DEFAULT_VALUE				40	sk	Vložte predradenú hodnotu pre toto pole.\n\nKeď neskôr budete vkladať dáta do tabuľky, tento reťazec sa použije v každom novom zázname pre toto pole. Musí preto zodpovedať formátu bunky, do ktorej bude dole vložený. 				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_DEFAULT_VALUE				40	sl	Vnesite privzeto vrednost za to polje.\n\nKo boste vnašali podatke v tabelo, se bo vrednost uporabila za vsak nov zapis. Zato mora ta vrednost zadoščati oblikovanju celice.				2002-02-02 02:02:02
