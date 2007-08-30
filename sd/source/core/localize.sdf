@@ -13,9 +13,9 @@
 #
 #   $RCSfile: localize.sdf,v $
 #
-#   $Revision: 1.31 $
+#   $Revision: 1.32 $
 #
-#   last change: $Author: ihi $ $Date: 2007-08-17 11:41:48 $
+#   last change: $Author: vg $ $Date: 2007-08-30 13:19:45 $
 #
 #   The Contents of this file are made available subject to
 #   the terms of GNU Lesser General Public License Version 2.1.
@@ -88,7 +88,7 @@ sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , E
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_FILE_ROWCOL )			0	pt	Erro de formato de ficheiro no subdocumento $(ARG1), na posição $(ARG2)(linha,col).				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_FILE_ROWCOL )			0	pt-BR	Erro de formato encontrado no arquivo no subdocumento $(ARG1) na posição $(ARG2)(linha,col)				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_FILE_ROWCOL )			13691	ru	Ошибка формата файла в поддокументе $(ARG1) в позиции $(ARG2)(строка, столбец).				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_FILE_ROWCOL )			13691	rw	Ikosa ry'imiterere ryavumbuwe mu dosiye mu nyandiko yungirije $(ARG1) ku mwanya$(ARG2)(row,col)				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_FILE_ROWCOL )			0	rw	Ikosa ry'imiterere ryavumbuwe mu dosiye mu nyandiko yungirije $(ARG1) ku mwanya$(ARG2)(row,col)				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_FILE_ROWCOL )			0	sh-YU	Nađena je greška u zapisu poddokumenta $(ARG1) na mestu $(ARG2)(row,col) 				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_FILE_ROWCOL )			13691	sk	Chybný formát súboru v sub-dokumente $(ARG1) na pozícii $(ARG2)(riadok,stĺpec).				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_FILE_ROWCOL )			13691	sl	Napaka v obliki datoteke v poddokumentu $(ARG1) na $(ARG2)(vrs,sto).				2002-02-02 02:02:02
@@ -160,7 +160,7 @@ sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , E
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_ROWCOL )			0	pt	Erro de formato de ficheiro em $(ARG1)(linha,col)				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_ROWCOL )			0	pt-BR	Erro de formato de arquivo encontrado no $(ARG1)(linha,col)				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_ROWCOL )			13691	ru	Ошибка формата в файле в позиции $(ARG1) (строка, столбец).				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_ROWCOL )			13691	rw	Ikosa ry'imiterere ya dosiye ryabonetse kuri $(ARG1)(row,col)				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_ROWCOL )			0	rw	Ikosa ry'imiterere ya dosiye ryabonetse kuri $(ARG1)(row,col)				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_ROWCOL )			0	sh-YU	Nađena je greška u zapisu datoteke u $(ARG1)(row,col)				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_ROWCOL )			13691	sk	Chybný formát súboru na $(ARG1)(riadok,stĺpec).				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_ROWCOL )			13691	sl	Napaka v obliki datoteke na $(ARG1)(vrs,sto).				2002-02-02 02:02:02
@@ -232,7 +232,7 @@ sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , W
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , WARN_FORMAT_FILE_ROWCOL )			0	pt	Erro de formato de ficheiro no subdocumento $(ARG1), na posição $(ARG2)(linha,col).				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , WARN_FORMAT_FILE_ROWCOL )			0	pt-BR	Erro de formato encontrado no arquivo no subdocumento $(ARG1) na posição $(ARG2)(linha,col)				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , WARN_FORMAT_FILE_ROWCOL )			13691	ru	Ошибка формата файла в поддокументе $(ARG1) в позиции $(ARG2)(строка, столбец).				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , WARN_FORMAT_FILE_ROWCOL )			13691	rw	Ikosa ry'imiterere ryavumbuwe mu dosiye mu nyandiko yungirije $(ARG1) ku mwanya$(ARG2)(row,col)				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , WARN_FORMAT_FILE_ROWCOL )			0	rw	Ikosa ry'imiterere ryavumbuwe mu dosiye mu nyandiko yungirije $(ARG1) ku mwanya$(ARG2)(row,col)				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , WARN_FORMAT_FILE_ROWCOL )			0	sh-YU	Nađena je greška u zapisu poddokumenta $(ARG1) na mestu $(ARG2)(row,col) 				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , WARN_FORMAT_FILE_ROWCOL )			13691	sk	Chybný formát súboru v sub-dokumente $(ARG1) na pozícii $(ARG2)(riadok,stĺpec).				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , WARN_FORMAT_FILE_ROWCOL )			13691	sl	Napaka v obliki datoteke v poddokumentu $(ARG1) na $(ARG2)(vrs,sto).				2002-02-02 02:02:02
@@ -308,7 +308,7 @@ sd	source\core\glob.src	0	string	STR_3DOBJECTBARSHELL				0	pl	Ustawienia 3-D				
 sd	source\core\glob.src	0	string	STR_3DOBJECTBARSHELL				0	pt	Definições 3D				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_3DOBJECTBARSHELL				0	pt-BR	Configurações 3D				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_3DOBJECTBARSHELL				13691	ru	Настройки 3D				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_3DOBJECTBARSHELL				13691	rw	Amagenamiterere nyamubyimba				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_3DOBJECTBARSHELL				0	rw	Amagenamiterere nyamubyimba				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_3DOBJECTBARSHELL				0	sh-YU	3-D podešavanja				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_3DOBJECTBARSHELL				13691	sk	3-D nastavenia				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_3DOBJECTBARSHELL				13691	sl	Nastavitve 3D				2002-02-02 02:02:02
@@ -385,7 +385,7 @@ sd	source\core\glob.src	0	string	STR_APPLICATIONOBJECTBAR				0	pl	StarImpress 4.
 sd	source\core\glob.src	0	string	STR_APPLICATIONOBJECTBAR				0	pt	StarImpress 4.0				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_APPLICATIONOBJECTBAR				0	pt-BR	StarImpress 4.0				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_APPLICATIONOBJECTBAR				13691	ru	StarImpress 4.0				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_APPLICATIONOBJECTBAR				13691	rw	StarImpress 4.0				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_APPLICATIONOBJECTBAR				0	rw	StarImpress 4.0				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_APPLICATIONOBJECTBAR				0	sh-YU	StarImpress 4.0				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_APPLICATIONOBJECTBAR				13691	sk	StarImpress 4.0				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_APPLICATIONOBJECTBAR				13691	sl	StarImpress 4.0				2002-02-02 02:02:02
@@ -462,7 +462,7 @@ sd	source\core\glob.src	0	string	STR_BAD_PASSWORD_OR_FILE_CORRUPTED				0	pl	Niep
 sd	source\core\glob.src	0	string	STR_BAD_PASSWORD_OR_FILE_CORRUPTED				0	pt	A palavra-passe está incorrecta ou o ficheiro está danificado.				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_BAD_PASSWORD_OR_FILE_CORRUPTED				0	pt-BR	A senha está incorreta ou o arquivo está corrompido.				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_BAD_PASSWORD_OR_FILE_CORRUPTED				13691	ru	Неправильный пароль или поврежден файл.				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_BAD_PASSWORD_OR_FILE_CORRUPTED				13691	rw	Ijambobanga siryo cyangwa dosiye yononekaye.				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_BAD_PASSWORD_OR_FILE_CORRUPTED				0	rw	Ijambobanga siryo cyangwa dosiye yononekaye.				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_BAD_PASSWORD_OR_FILE_CORRUPTED				0	sh-YU	Lozinka je netačna ili je datoteka oštećena.				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_BAD_PASSWORD_OR_FILE_CORRUPTED				13691	sk	Heslo je nesprávne alebo je poškodený súbor.				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_BAD_PASSWORD_OR_FILE_CORRUPTED				13691	sl	Napačno geslo ali pa je poškodovana datoteka.				2002-02-02 02:02:02
@@ -540,7 +540,7 @@ sd	source\core\glob.src	0	string	STR_BEZIEROBJECTBARSHELL				0	pl	Tryb Béziera	
 sd	source\core\glob.src	0	string	STR_BEZIEROBJECTBARSHELL				0	pt	Modo Bézier				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_BEZIEROBJECTBARSHELL				0	pt-BR	Modo Bézier				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_BEZIEROBJECTBARSHELL				13691	ru	Режим Безье				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_BEZIEROBJECTBARSHELL				13691	rw	Uburyo bwa bezier				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_BEZIEROBJECTBARSHELL				0	rw	Uburyo bwa bezier				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_BEZIEROBJECTBARSHELL				0	sh-YU	Rad sa Bezijerovim				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_BEZIEROBJECTBARSHELL				13691	sk	Bézierov režim				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_BEZIEROBJECTBARSHELL				13691	sl	Krivuljni način				2002-02-02 02:02:02
@@ -617,7 +617,7 @@ sd	source\core\glob.src	0	string	STR_DRAWVIEWSHELL				0	pl	Widok slajdu				2002-
 sd	source\core\glob.src	0	string	STR_DRAWVIEWSHELL				0	pt	Vista de desenho				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_DRAWVIEWSHELL				0	pt-BR	Exibição de Desenhos				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_DRAWVIEWSHELL				13691	ru	Режим рисования				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_DRAWVIEWSHELL				13691	rw	Igaragaza ry'Igishushanyo				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_DRAWVIEWSHELL				0	rw	Igaragaza ry'Igishushanyo				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_DRAWVIEWSHELL				0	sh-YU	Gledanje crteža				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_DRAWVIEWSHELL				13691	sk	Zobrazenie kresby				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_DRAWVIEWSHELL				13691	sl	Risalni pogled				2002-02-02 02:02:02
@@ -695,7 +695,7 @@ sd	source\core\glob.src	0	string	STR_EMPTY_STYLESHEET_NAME				0	pl	Pusty szablon
 sd	source\core\glob.src	0	string	STR_EMPTY_STYLESHEET_NAME				0	pt	Modelo vazio				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_EMPTY_STYLESHEET_NAME				0	pt-BR	Modelo em branco				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_EMPTY_STYLESHEET_NAME				13691	ru	Пустой шаблон				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_EMPTY_STYLESHEET_NAME				13691	rw	Inyandikorugero irimo ubusa				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_EMPTY_STYLESHEET_NAME				0	rw	Modeli irimo ubusa				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_EMPTY_STYLESHEET_NAME				0	sh-YU	Prazan šablon				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_EMPTY_STYLESHEET_NAME				13691	sk	Prázdna šablóna				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_EMPTY_STYLESHEET_NAME				13691	sl	Prazna predloga				2002-02-02 02:02:02
@@ -769,7 +769,7 @@ sd	source\core\glob.src	0	string	STR_FONTWORKOBJECTBARSHELL				0	pl	Fontwork				
 sd	source\core\glob.src	0	string	STR_FONTWORKOBJECTBARSHELL				0	pt	Fontwork				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_FONTWORKOBJECTBARSHELL				0	pt-BR	Trabalho fonte				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_FONTWORKOBJECTBARSHELL				13691	ru	Текстовые эффекты				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_FONTWORKOBJECTBARSHELL				13691	rw	Umukononkora				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_FONTWORKOBJECTBARSHELL				0	rw	Umukononkora				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_FONTWORKOBJECTBARSHELL				0	sh-YU	Rad sa fontovima				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_FONTWORKOBJECTBARSHELL				13691	sk	Písmomaľba				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_FONTWORKOBJECTBARSHELL				13691	sl	Fontwork				2002-02-02 02:02:02
@@ -845,7 +845,7 @@ sd	source\core\glob.src	0	string	STR_GLUEPOINTSOBJECTBARSHELL				0	pl	Tryb punkt
 sd	source\core\glob.src	0	string	STR_GLUEPOINTSOBJECTBARSHELL				0	pt	Modo de pontos de colagem				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_GLUEPOINTSOBJECTBARSHELL				0	pt-BR	Modo de Pontos de Colagem				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_GLUEPOINTSOBJECTBARSHELL				13691	ru	Режим точек соединения				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_GLUEPOINTSOBJECTBARSHELL				13691	rw	Uburyo bw'Utudomo Bujeni				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_GLUEPOINTSOBJECTBARSHELL				0	rw	Uburyo bw'Utudomo Bujeni				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_GLUEPOINTSOBJECTBARSHELL				0	sh-YU	Rad sa vezanim tačkama				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_GLUEPOINTSOBJECTBARSHELL				13691	sk	Režim záchytných bodov				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_GLUEPOINTSOBJECTBARSHELL				13691	sl	Način točk lepljenja				2002-02-02 02:02:02
@@ -922,7 +922,7 @@ sd	source\core\glob.src	0	string	STR_GRAFOBJECTBARSHELL				0	pl	Tryb graficzny		
 sd	source\core\glob.src	0	string	STR_GRAFOBJECTBARSHELL				0	pt	Modo de objectos gráficos				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_GRAFOBJECTBARSHELL				0	pt-BR	Modo gráfico				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_GRAFOBJECTBARSHELL				13691	ru	Режим графических объектов				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_GRAFOBJECTBARSHELL				13691	rw	Uburyo bw'Ibishushanyo				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_GRAFOBJECTBARSHELL				0	rw	Uburyo bw'Ibishushanyo				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_GRAFOBJECTBARSHELL				0	sh-YU	Rad sa grafikom				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_GRAFOBJECTBARSHELL				13691	sk	Grafický režim				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_GRAFOBJECTBARSHELL				13691	sl	Grafični način				2002-02-02 02:02:02
@@ -1000,7 +1000,7 @@ sd	source\core\glob.src	0	string	STR_HANDOUT				0	pl	Materiały informacyjne				
 sd	source\core\glob.src	0	string	STR_HANDOUT				0	pt	Folhetos				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_HANDOUT				0	pt-BR	Folhetos				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_HANDOUT				13691	ru	Тезисы				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_HANDOUT				13691	rw	Inyandiko				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_HANDOUT				0	rw	Inyandiko				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_HANDOUT				0	sh-YU	Brošure				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_HANDOUT				13691	sk	Tézy				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_HANDOUT				13691	sl	Izročki				2002-02-02 02:02:02
@@ -1077,7 +1077,7 @@ sd	source\core\glob.src	0	string	STR_LAYER_BCKGRND				0	pl	Tło				2002-02-02 02
 sd	source\core\glob.src	0	string	STR_LAYER_BCKGRND				0	pt	Fundo				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_BCKGRND				0	pt-BR	Plano de fundo				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_BCKGRND				13691	ru	Фон				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_LAYER_BCKGRND				13691	rw	Mbuganyuma				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_LAYER_BCKGRND				0	rw	Mbuganyuma				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_BCKGRND				0	sh-YU	Pozadina				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_BCKGRND				13691	sk	Pozadie				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_BCKGRND				13691	sl	Ozadje				2002-02-02 02:02:02
@@ -1153,7 +1153,7 @@ sd	source\core\glob.src	0	string	STR_LAYER_BCKGRNDOBJ				0	pl	Obiekty tła				20
 sd	source\core\glob.src	0	string	STR_LAYER_BCKGRNDOBJ				0	pt	Objectos de fundo				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_BCKGRNDOBJ				0	pt-BR	Objetos de plano de fundo				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_BCKGRNDOBJ				13691	ru	Объекты фона				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_LAYER_BCKGRNDOBJ				13691	rw	Ibikoresho mbuganyuma				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_LAYER_BCKGRNDOBJ				0	rw	Ibikoresho mbuganyuma				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_BCKGRNDOBJ				0	sh-YU	Objekti u pozadini				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_BCKGRNDOBJ				13691	sk	Objekty pozadia				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_BCKGRNDOBJ				13691	sl	Predmeti ozadja				2002-02-02 02:02:02
@@ -1230,7 +1230,7 @@ sd	source\core\glob.src	0	string	STR_LAYER_CONTROLS				0	pl	Formanty				2002-02-
 sd	source\core\glob.src	0	string	STR_LAYER_CONTROLS				0	pt	Controlos				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_CONTROLS				0	pt-BR	Controles				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_CONTROLS				13691	ru	Элементы управления				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_LAYER_CONTROLS				13691	rw	Amagenzura				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_LAYER_CONTROLS				0	rw	Amagenzura				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_CONTROLS				0	sh-YU	Kontrole				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_CONTROLS				13691	sk	Ovládacie prvky				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_CONTROLS				13691	sl	Kontrolniki				2002-02-02 02:02:02
@@ -1308,7 +1308,7 @@ sd	source\core\glob.src	0	string	STR_LAYER_LAYOUT				0	pl	Układ				2002-02-02 0
 sd	source\core\glob.src	0	string	STR_LAYER_LAYOUT				0	pt	Esquema				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_LAYOUT				0	pt-BR	Layout				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_LAYOUT				13691	ru	Разметка				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_LAYER_LAYOUT				13691	rw	Imigaragarire				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_LAYER_LAYOUT				0	rw	Imigaragarire				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_LAYOUT				0	sh-YU	Raspored				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_LAYOUT				13691	sk	Formát				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_LAYOUT				13691	sl	Postavitev				2002-02-02 02:02:02
@@ -1386,7 +1386,7 @@ sd	source\core\glob.src	0	string	STR_LAYER_MEASURELINES				0	pl	Linie wymiarowe	
 sd	source\core\glob.src	0	string	STR_LAYER_MEASURELINES				0	pt	Linhas de dimensão				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_MEASURELINES				0	pt-BR	Linhas de dimensionamento				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_MEASURELINES				13691	ru	Размерные линии				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_LAYER_MEASURELINES				13691	rw	Ingano Mirongo				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_LAYER_MEASURELINES				0	rw	Ingano Mirongo				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_MEASURELINES				0	sh-YU	Linije za dimenzije				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_MEASURELINES				13691	sk	Kótovacie čiary				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_MEASURELINES				13691	sl	Kotirne črte				2002-02-02 02:02:02
@@ -1462,7 +1462,7 @@ sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_NAME				0	pl	Domyślnie				2
 sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_NAME				0	pt	Predefinição				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_NAME				0	pt-BR	Padrão				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_NAME				13691	ru	Обычный				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_NAME				13691	rw	Mburabuzi				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_NAME				0	rw	Gisanzweho				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_NAME				0	sh-YU	Podrazumevan				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_NAME				13691	sk	Východzie				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_NAME				13691	sl	Privzeto				2002-02-02 02:02:02
@@ -1537,7 +1537,7 @@ sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_TITLE_NAME				0	pl	Tytuł			
 sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_TITLE_NAME				0	pt	Título				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_TITLE_NAME				0	pt-BR	Título				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_TITLE_NAME				13691	ru	Заголовок				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_TITLE_NAME				13691	rw	Umutwe				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_TITLE_NAME				0	rw	Umutwe				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_TITLE_NAME				0	sh-YU	Naslov				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_TITLE_NAME				13691	sk	Nadpis				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYOUT_DEFAULT_TITLE_NAME				13691	sl	Naslov				2002-02-02 02:02:02
@@ -1614,7 +1614,7 @@ sd	source\core\glob.src	0	string	STR_LOAD_DOC				0	pl	Ładuj dokument				2002-02
 sd	source\core\glob.src	0	string	STR_LOAD_DOC				0	pt	Carregar documento				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LOAD_DOC				0	pt-BR	Carregar documento				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LOAD_DOC				13691	ru	Загрузить документ				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_LOAD_DOC				13691	rw	Gutangiza Inyandiko				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_LOAD_DOC				0	rw	Gutangiza Inyandiko				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LOAD_DOC				0	sh-YU	Učitaj dokument				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LOAD_DOC				13691	sk	Načítavam dokument				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LOAD_DOC				13691	sl	Naloži dokument				2002-02-02 02:02:02
@@ -1692,7 +1692,7 @@ sd	source\core\glob.src	0	string	STR_MASTERPAGE				0	pl	Tło				2002-02-02 02:02
 sd	source\core\glob.src	0	string	STR_MASTERPAGE				0	pt	Fundo				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_MASTERPAGE				0	pt-BR	Plano de fundo				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_MASTERPAGE				13691	ru	Фон				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_MASTERPAGE				13691	rw	Mbuganyuma				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_MASTERPAGE				0	rw	Mbuganyuma				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_MASTERPAGE				0	sh-YU	Pozadina				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_MASTERPAGE				13691	sk	Pozadie				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_MASTERPAGE				13691	sl	Ozadje				2002-02-02 02:02:02
@@ -1768,7 +1768,7 @@ sd	source\core\glob.src	0	string	STR_MEDIAOBJECTBARSHELL				0	pl	Odtwarzanie mul
 sd	source\core\glob.src	0	string	STR_MEDIAOBJECTBARSHELL				0	pt	Reprodução de multimédia				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_MEDIAOBJECTBARSHELL				0	pt-BR	Reprodução de mídia				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_MEDIAOBJECTBARSHELL				13691	ru	Управление мультимедией				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_MEDIAOBJECTBARSHELL				13691	rw	Gusubizanyuma ry'ibitangazamakuru				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_MEDIAOBJECTBARSHELL				0	rw	Gusubizanyuma ry'ibitangazamakuru				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_MEDIAOBJECTBARSHELL				0	sh-YU	Puštanje medija				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_MEDIAOBJECTBARSHELL				13691	sk	Média Playback				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_MEDIAOBJECTBARSHELL				13691	sl	Predvajanje večpredstavnostnih datotek				2002-02-02 02:02:02
@@ -1844,7 +1844,7 @@ sd	source\core\glob.src	0	string	STR_NOTES				0	pl	(Notatki)				2002-02-02 02:02
 sd	source\core\glob.src	0	string	STR_NOTES				0	pt	(Notas)				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_NOTES				0	pt-BR	(Notas)				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_NOTES				13691	ru	(Примечания)				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_NOTES				13691	rw	(Impugukirwa)				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_NOTES				0	rw	(Impugukirwa)				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_NOTES				0	sh-YU	(Beleške)				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_NOTES				13691	sk	(Poznámky)				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_NOTES				13691	sl	(Opombe)				2002-02-02 02:02:02
@@ -1922,7 +1922,7 @@ sd	source\core\glob.src	0	string	STR_NOT_ENOUGH_MEMORY				0	pl	Za mało pamięci
 sd	source\core\glob.src	0	string	STR_NOT_ENOUGH_MEMORY				0	pt	Não existe memória suficiente!\nA acção será cancelada.				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_NOT_ENOUGH_MEMORY				0	pt-BR	Não há memória suficiente!\nA ação será cancelada.				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_NOT_ENOUGH_MEMORY				13691	ru	Недостаточно памяти!\nДействие будет прервано.				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_NOT_ENOUGH_MEMORY				13691	rw	Ububikoremezo ntibuhagije!\nIgikorwa ntikizakunda.				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_NOT_ENOUGH_MEMORY				0	rw	Ububikoremezo ntibuhagije!\nIgikorwa ntikizakunda.				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_NOT_ENOUGH_MEMORY				0	sh-YU	Nedovoljno memorije!\nAkcija će biti otkazana.				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_NOT_ENOUGH_MEMORY				13691	sk	Nedostatok pamäte!\nAkcia bude zrušená.				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_NOT_ENOUGH_MEMORY				13691	sl	Pomanjkanje pomnilnika!\nDejanje bo prekinjeno.				2002-02-02 02:02:02
@@ -1999,7 +1999,7 @@ sd	source\core\glob.src	0	string	STR_OUTLINEVIEWSHELL				0	pl	Widok konspektu			
 sd	source\core\glob.src	0	string	STR_OUTLINEVIEWSHELL				0	pt	Vista de destaques				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_OUTLINEVIEWSHELL				0	pt-BR	Exibição de Estrutura de Tópicos				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_OUTLINEVIEWSHELL				13691	ru	Режим структуры				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_OUTLINEVIEWSHELL				13691	rw	Igaragaza ry'Imbata				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_OUTLINEVIEWSHELL				0	rw	Igaragaza ry'Imbata				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_OUTLINEVIEWSHELL				0	sh-YU	Okvirni pregled				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_OUTLINEVIEWSHELL				13691	sk	Zobrazenie osnovy				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_OUTLINEVIEWSHELL				13691	sl	Orisni pogled				2002-02-02 02:02:02
@@ -2075,7 +2075,7 @@ sd	source\core\glob.src	0	string	STR_PAGE				0	pl	Slajd				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PAGE				0	pt	Diapositivo				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PAGE				0	pt-BR	Slide				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PAGE				13691	ru	Страница				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PAGE				13691	rw	Igice				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PAGE				0	rw	Igice				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PAGE				0	sh-YU	Slajd				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PAGE				13691	sk	Snímok				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PAGE				13691	sl	Prosojnica				2002-02-02 02:02:02
@@ -2152,7 +2152,7 @@ sd	source\core\glob.src	0	string	STR_PAGE_NAME				0	pl	Strona				2002-02-02 02:0
 sd	source\core\glob.src	0	string	STR_PAGE_NAME				0	pt	Página				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PAGE_NAME				0	pt-BR	Página				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PAGE_NAME				13691	ru	Страница				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PAGE_NAME				13691	rw	Ipaji				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PAGE_NAME				0	rw	Paji				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PAGE_NAME				0	sh-YU	Strana				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PAGE_NAME				13691	sk	Strana				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PAGE_NAME				13691	sl	Stran				2002-02-02 02:02:02
@@ -2230,7 +2230,7 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_ARROW				0	pl	Strzałka				2002-0
 sd	source\core\glob.src	0	string	STR_POOLSHEET_ARROW				0	pt	Seta				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_ARROW				0	pt-BR	Seta				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_ARROW				13691	ru	Стрелка				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_POOLSHEET_ARROW				13691	rw	Akambi				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_POOLSHEET_ARROW				0	rw	Akambi				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_ARROW				0	sh-YU	Strelica				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_ARROW				13691	sk	Šípka				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_ARROW				13691	sl	Puščica				2002-02-02 02:02:02
@@ -2308,7 +2308,7 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE				0	pl	Nagłówek				20
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE				0	pt	Cabeçalho				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE				0	pt-BR	Título				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE				13691	ru	Заголовок				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE				13691	rw	Umutwempangano				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE				0	rw	Umutwempangano				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE				0	sh-YU	Zaglavlje				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE				13691	sk	Nadpis				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE				13691	sl	Naslov				2002-02-02 02:02:02
@@ -2386,7 +2386,7 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE1				0	pl	Nagłówek1				
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE1				0	pt	Cabeçalho1				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE1				0	pt-BR	Título1				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE1				13691	ru	Заголовок 1				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE1				13691	rw	Umutwe1				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE1				0	rw	Umutwe1				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE1				0	sh-YU	Zaglavlje1				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE1				13691	sk	Nadpis1				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE1				13691	sl	Naslov1				2002-02-02 02:02:02
@@ -2464,7 +2464,7 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE2				0	pl	Nagłówek2				
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE2				0	pt	Cabeçalho2				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE2				0	pt-BR	Título2				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE2				13691	ru	Заголовок 2				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE2				13691	rw	Umutwe2				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE2				0	rw	Umutwe2				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE2				0	sh-YU	Zaglavlje2				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE2				13691	sk	Nadpis2				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE2				13691	sl	Glava2				2002-02-02 02:02:02
@@ -2542,7 +2542,7 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_MEASURE				0	pl	Linia wymiarowa		
 sd	source\core\glob.src	0	string	STR_POOLSHEET_MEASURE				0	pt	Linha de dimensão				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_MEASURE				0	pt-BR	Linha de Dimensão				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_MEASURE				13691	ru	Размерная линия				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_POOLSHEET_MEASURE				13691	rw	Ingano-murongo				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_POOLSHEET_MEASURE				0	rw	Ingano-murongo				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_MEASURE				0	sh-YU	Linija za dimenzije				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_MEASURE				13691	sk	Kótovacia čiara				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_MEASURE				13691	sl	Kotirna črta				2002-02-02 02:02:02
@@ -2620,7 +2620,7 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHARROW				0	pl	Obiekt ze st
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHARROW				0	pt	Objecto com seta				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHARROW				0	pt-BR	Objeto com seta				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHARROW				13691	ru	Объект со стрелкой				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHARROW				13691	rw	Igikoresho  gifite akambi				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHARROW				0	rw	Igikoresho  gifite akambi				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHARROW				0	sh-YU	Objekat sa strelicom				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHARROW				13691	sk	Objekt so šípkou				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHARROW				13691	sl	Predmet s puščico				2002-02-02 02:02:02
@@ -2698,7 +2698,7 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHOUTFILL				0	pl	Obiekt bez
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHOUTFILL				0	pt	Objecto sem preenchimento				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHOUTFILL				0	pt-BR	Objeto sem preenchimento				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHOUTFILL				13691	ru	Объект без заливки				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHOUTFILL				13691	rw	Ikikoresho nta kuzuza				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHOUTFILL				0	rw	Ikikoresho nta kuzuza				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHOUTFILL				0	sh-YU	Neobojeni objekat				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHOUTFILL				13691	sk	Objekt bez výplne				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHOUTFILL				13691	sl	Predmet brez polnila				2002-02-02 02:02:02
@@ -2776,7 +2776,7 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHSHADOW				0	pl	Obiekt z ci
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHSHADOW				0	pt	Objecto com sombra				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHSHADOW				0	pt-BR	Objeto com sombra				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHSHADOW				13691	ru	Объект с тенью				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHSHADOW				13691	rw	Igikoresho gifite igicucu				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHSHADOW				0	rw	Igikoresho gifite igicucu				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHSHADOW				0	sh-YU	Objekat sa senkom				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHSHADOW				13691	sk	Objekt s tieňovaním				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHSHADOW				13691	sl	Predmet s senčenjem				2002-02-02 02:02:02
@@ -2854,7 +2854,7 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXT				0	pl	Tekst				2002-02-02 
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXT				0	pt	Texto				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXT				0	pt-BR	Texto				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXT				13691	ru	Текст				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXT				13691	rw	Umwandiko				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXT				0	rw	Umwandiko				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXT				0	sh-YU	Tekst				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXT				13691	sk	Text				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXT				13691	sl	Besedilo				2002-02-02 02:02:02
@@ -2932,7 +2932,7 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY				0	pl	Treść tekstu		
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY				0	pt	Corpo do texto				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY				0	pt-BR	Corpo do texto				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY				13691	ru	Основной текст				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY				13691	rw	Igihimba cy'umwandiko				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY				0	rw	Igihimba cy'umwandiko				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY				0	sh-YU	Sadržaj teksta				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY				13691	sk	Telo textu				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY				13691	sl	Telo besedila				2002-02-02 02:02:02
@@ -3010,7 +3010,7 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_INDENT				0	pl	Wcięcie 
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_INDENT				0	pt	Avanço na primeira linha				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_INDENT				0	pt-BR	Recuo da primeira linha				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_INDENT				13691	ru	Первая строка с отступом				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_INDENT				13691	rw	Isunika ry'umurongo wa mbere				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_INDENT				0	rw	Isunika ry'umurongo wa mbere				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_INDENT				0	sh-YU	Uvlačenje početne linije				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_INDENT				13691	sk	Odsadenie prvého riadku				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_INDENT				13691	sl	Zamik prve vrstice				2002-02-02 02:02:02
@@ -3088,7 +3088,7 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_JUSTIFY				0	pl	Tekst wy
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_JUSTIFY				0	pt	Corpo do texto justificado				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_JUSTIFY				0	pt-BR	Corpo do texto justificado				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_JUSTIFY				13691	ru	Выравнивание текста по ширине				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_JUSTIFY				13691	rw	Igihimba cy'umwandiko kiringanijwe				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_JUSTIFY				0	rw	Igihimba cy'umwandiko kiringanijwe				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_JUSTIFY				0	sh-YU	Tekst poravnat				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_JUSTIFY				13691	sk	Telo textu do bloku				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_JUSTIFY				13691	sl	Poravnano telo besedila				2002-02-02 02:02:02
@@ -3163,7 +3163,7 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE				0	pl	Tytuł				2002-02-0
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE				0	pt	Título				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE				0	pt-BR	Título				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE				13691	ru	Заголовок				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE				13691	rw	Umutwe				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE				0	rw	Umutwe				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE				0	sh-YU	Naslov				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE				13691	sk	Nadpis				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE				13691	sl	Naslov				2002-02-02 02:02:02
@@ -3240,7 +3240,7 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE1				0	pl	Tytuł1				2002-02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE1				0	pt	Título1				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE1				0	pt-BR	Título1				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE1				13691	ru	Заголовок 1				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE1				13691	rw	Umutwe1				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE1				0	rw	Umutwe1				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE1				0	sh-YU	Naslov1				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE1				13691	sk	Titulok1				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE1				13691	sl	Naslov1				2002-02-02 02:02:02
@@ -3319,7 +3319,7 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE2				0	pl	Tytuł2				2002-02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE2				0	pt	Título2				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE2				0	pt-BR	Título2				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE2				13691	ru	Заголовок 2				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE2				13691	rw	Umutwe2				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE2				0	rw	Umutwe2				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE2				0	sh-YU	Naslov2				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE2				13691	sk	Titulok2				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TITLE2				13691	sl	Naslov2				2002-02-02 02:02:02
@@ -3398,7 +3398,7 @@ sd	source\core\glob.src	0	string	STR_POWERPOINT_IMPORT				0	pl	Import formatu Po
 sd	source\core\glob.src	0	string	STR_POWERPOINT_IMPORT				0	pt	Importar do PowerPoint				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POWERPOINT_IMPORT				0	pt-BR	Importar do PowerPoint				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POWERPOINT_IMPORT				13691	ru	Импорт PowerPoint				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_POWERPOINT_IMPORT				13691	rw	Kuzana PowerPoint				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_POWERPOINT_IMPORT				0	rw	Kuzana PowerPoint				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POWERPOINT_IMPORT				0	sh-YU	Uvoz iz PowerPoint-a				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POWERPOINT_IMPORT				13691	sk	Import z PowerPoint				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POWERPOINT_IMPORT				13691	sl	Uvoz v PowerPoint				2002-02-02 02:02:02
@@ -3475,7 +3475,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_CHART				0	pl	Dodaj wykres przez dw
 sd	source\core\glob.src	0	string	STR_PRESOBJ_CHART				0	pt	Faça duplo clique para adicionar um gráfico				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_CHART				0	pt-BR	Clique duas vezes para adicionar um gráfico				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_CHART				13691	ru	Добавьте диаграмму двойным щелчком				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PRESOBJ_CHART				13691	rw	Kanda kabiri wongeraho igishushanyo				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_CHART				0	rw	Kanda kabiri wongeraho igishushanyo				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_CHART				0	sh-YU	Dvoklikni da dodaš grafikon				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_CHART				13691	sk	Dvojitým kliknutím pridáte graf				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_CHART				13691	sl	Dvokliknite za dodajanje grafikona				2002-02-02 02:02:02
@@ -3553,7 +3553,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_GRAPHIC				0	pl	Dodaj grafikę prze
 sd	source\core\glob.src	0	string	STR_PRESOBJ_GRAPHIC				0	pt	Faça duplo clique para adicionar objectos gráficos				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_GRAPHIC				0	pt-BR	Clique duas vezes para adicionar figuras				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_GRAPHIC				13691	ru	Добавьте графический объект двойным щелчком мыши				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PRESOBJ_GRAPHIC				13691	rw	Kanda kabiri wongeraho ibishushanyo				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_GRAPHIC				0	rw	Kanda kabiri wongeraho ibishushanyo				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_GRAPHIC				0	sh-YU	Dvoklikni da dodaš grafik				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_GRAPHIC				13691	sk	Dvojitým kliknutím pridáte grafiku				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_GRAPHIC				13691	sl	Dvokliknite za dodajanje grafike				2002-02-02 02:02:02
@@ -3647,7 +3647,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_IMAGE			defined STARIMAGE_AVAILABLE
 sd	source\core\glob.src	0	string	STR_PRESOBJ_IMAGE			defined STARIMAGE_AVAILABLE	0	pt	Faça ~duplo clique para adicionar uma imagem				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_IMAGE			defined STARIMAGE_AVAILABLE	0	pt-BR	Clique duas vezes para adicionar uma imagem				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_IMAGE			defined STARIMAGE_AVAILABLE	13691	ru	Добавить картинку двойным щелчком				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PRESOBJ_IMAGE			defined STARIMAGE_AVAILABLE	13691	rw	Kanda kabiri wongeraho ishusho				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_IMAGE			defined STARIMAGE_AVAILABLE	0	rw	Kanda kabiri wongeraho ishusho				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_IMAGE			defined STARIMAGE_AVAILABLE	0	sh-YU	Dvokliknite da dodate sliku				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_IMAGE			defined STARIMAGE_AVAILABLE	13691	sk	Dvojitým kliknutím pridáte obrázok				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_IMAGE			defined STARIMAGE_AVAILABLE	13691	sl	Dvokliknite za dodajanje slike				2002-02-02 02:02:02
@@ -3725,7 +3725,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTEXT				0	pl	Kliknij, aby ed
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTEXT				0	pt	Faça clique para editar o formato de notas				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTEXT				0	pt-BR	Clique para editar o formato de notas				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTEXT				13691	ru	Для правки формата примечаний щелкните мышью				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTEXT				13691	rw	Kanda mu guhindura imiterere y'impugukirwa				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTEXT				0	rw	Kanda mu guhindura imiterere y'impugukirwa				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTEXT				0	sh-YU	Klikni da urediš oblik beleški				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTEXT				13691	sk	Kliknúť pre úpravu formátu poznámok				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTEXT				13691	sl	Kliknite za urejanje oblike opomb				2002-02-02 02:02:02
@@ -3803,7 +3803,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTITLE				0	pl	Kliknij, aby p
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTITLE				0	pt	Faça clique para mover o diapositivo				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTITLE				0	pt-BR	Clique para mover o slide				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTITLE				13691	ru	Для перемещения страницы щелкните мышью				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTITLE				13691	rw	Kanda wimure iki gice				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTITLE				0	rw	Kanda wimure iki gice				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTITLE				0	sh-YU	Klikni da premestiš slajd				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTITLE				13691	sk	Kliknúť pre presun snímku				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTITLE				13691	sl	Kliknite za premikanje prosojnice				2002-02-02 02:02:02
@@ -3881,7 +3881,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLINE				0	pl	Kliknij, aby edyt
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLINE				0	pt	Faça clique para editar o formato do texto do destaque				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLINE				0	pt-BR	Clique para editar o formato do texto em estrutura de tópicos				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLINE				13691	ru	Для правки структуры щелкните мышью				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLINE				13691	rw	Kanda mu kwandika imiterere y'imbata mwandiko				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLINE				0	rw	Kanda mu kwandika imiterere y'imbata mwandiko				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLINE				0	sh-YU	Klikni da urediš oblik istaknutog teksta				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLINE				13691	sk	Kliknúť na editáciu formátu textu osnovy				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLINE				13691	sl	Kliknite za urejanje oblike orisa				2002-02-02 02:02:02
@@ -3959,7 +3959,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER2				0	pl	Drugi poziom k
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER2				0	pt	Segundo nível de destaque				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER2				0	pt-BR	Segundo Nível da Estrutura de Tópicos				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER2				13691	ru	Второй уровень структуры				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER2				13691	rw	Urwego w'Imbata ya Kabiri				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER2				0	rw	Urwego w'Imbata ya Kabiri				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER2				0	sh-YU	Drugi nivo okvira				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER2				13691	sk	Druhá úroveň				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER2				13691	sl	Druga raven orisa				2002-02-02 02:02:02
@@ -4037,7 +4037,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER3				0	pl	Trzeci poziom 
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER3				0	pt	Terceiro nível de destaque				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER3				0	pt-BR	Terceiro Nível da Estrutura de Tópicos				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER3				13691	ru	Третий уровень структуры				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER3				13691	rw	Urwego w'Imbata ya Gatatu				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER3				0	rw	Urwego w'Imbata ya Gatatu				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER3				0	sh-YU	Treći nivo okvira				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER3				13691	sk	Tretia úroveň				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER3				13691	sl	Tretja raven orisa				2002-02-02 02:02:02
@@ -4115,7 +4115,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER4				0	pl	Czwarty poziom
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER4				0	pt	Quarto nível de destaque				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER4				0	pt-BR	Quarto Nível da Estrutura de Tópicos				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER4				13691	ru	Четвертый уровень структуры				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER4				13691	rw	Urwego w'Imbata ya Kane				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER4				0	rw	Urwego w'Imbata ya Kane				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER4				0	sh-YU	Četvrti nivo okvira				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER4				13691	sk	Štvrtá úroveň osnovy				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER4				13691	sl	Četrta raven orisa				2002-02-02 02:02:02
@@ -4193,7 +4193,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER5				0	pl	Piąty poziom 
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER5				0	pt	Quinto nível de destaque				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER5				0	pt-BR	Quinto Nível da Estrutura de Tópicos				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER5				13691	ru	Пятый уровень структуры				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER5				13691	rw	Urwego w'Imbata ya Gatanu				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER5				0	rw	Urwego w'Imbata ya Gatanu				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER5				0	sh-YU	Peti nivo okvira				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER5				13691	sk	Piata úroveň osnovy				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER5				13691	sl	Peta raven orisa				2002-02-02 02:02:02
@@ -4271,7 +4271,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER6				0	pl	Szósty poziom
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER6				0	pt	Sexto nível de destaque				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER6				0	pt-BR	Sexto Nível da Estrutura de Tópicos				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER6				13691	ru	Шестой уровень структуры				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER6				13691	rw	Urwego w'Imbata ya Gatandatu				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER6				0	rw	Urwego w'Imbata ya Gatandatu				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER6				0	sh-YU	Šesti nivo okvira				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER6				13691	sk	Šiesta úroveň				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER6				13691	sl	Šesta raven orisa				2002-02-02 02:02:02
@@ -4349,7 +4349,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER7				0	pl	Siódmy poziom
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER7				0	pt	Sétimo nível de destaque				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER7				0	pt-BR	Sétimo Nível da Estrutura de Tópicos				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER7				13691	ru	Седьмой уровень структуры				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER7				13691	rw	Urwego w'Imbata ya Karindwi				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER7				0	rw	Urwego w'Imbata ya Karindwi				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER7				0	sh-YU	Sedmi nivo okvira				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER7				13691	sk	Siedma úroveň				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER7				13691	sl	Sedma raven orisa				2002-02-02 02:02:02
@@ -4427,7 +4427,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER8				0	pl	Ósmy poziom k
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER8				0	pt	Oitavo nível de destaque				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER8				0	pt-BR	Oitavo Nível da Estrutura de Tópicos				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER8				13691	ru	Восьмой уровень структуры				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER8				13691	rw	Urwego w'Imbata ya Munani				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER8				0	rw	Urwego w'Imbata ya Munani				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER8				0	sh-YU	Osmi nivo okvira				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER8				13691	sk	ôsma úroveň textu				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER8				13691	sl	Osma raven orisa				2002-02-02 02:02:02
@@ -4505,7 +4505,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER9				0	pl	Dziewiąty poz
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER9				0	pt	Nono nível de destaque				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER9				0	pt-BR	Nono Nível da Estrutura de Tópicos				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER9				13691	ru	Девятый уровень структуры				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER9				13691	rw	Urwego w'Imbata ya Cyenda				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER9				0	rw	Urwego w'Imbata ya Cyenda				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER9				0	sh-YU	Deveti nivo okvira				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER9				13691	sk	Deviata úroveň				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPOUTLLAYER9				13691	sl	Deveta raven orisa				2002-02-02 02:02:02
@@ -4583,7 +4583,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_MPTITLE				0	pl	Kliknij, aby edytow
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPTITLE				0	pt	Faça clique para editar o formato do texto do título				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPTITLE				0	pt-BR	Clique para editar o formato do título de texto				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPTITLE				13691	ru	Для правки текста заголовка щелкните мышью				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PRESOBJ_MPTITLE				13691	rw	Kanda mu kwandika imiterere y'umutwe mwandiko				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_MPTITLE				0	rw	Kanda mu kwandika imiterere y'umutwe mwandiko				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPTITLE				0	sh-YU	Klikni da urediš oblik naslovnog teksta				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPTITLE				13691	sk	Kliknúť na editáciu formátu textu titulku				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPTITLE				13691	sl	Kliknite za urejanje oblike naslova				2002-02-02 02:02:02
@@ -4661,7 +4661,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_NOTESTEXT				0	pl	Kliknij, aby doda
 sd	source\core\glob.src	0	string	STR_PRESOBJ_NOTESTEXT				0	pt	Faça clique para adicionar notas				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_NOTESTEXT				0	pt-BR	Clique para adicionar notas				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_NOTESTEXT				13691	ru	Для добавления примечания щелкните мышью				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PRESOBJ_NOTESTEXT				13691	rw	Kanda wongeraho impugukirwa				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_NOTESTEXT				0	rw	Kanda wongeraho impugukirwa				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_NOTESTEXT				0	sh-YU	Klikni da dodaš beleške				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_NOTESTEXT				13691	sk	Kliknúť pre vloženie poznámok				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_NOTESTEXT				13691	sl	Kliknite za dodajanje opomb				2002-02-02 02:02:02
@@ -4739,7 +4739,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_OBJECT				0	pl	Dodaj obiekt przez d
 sd	source\core\glob.src	0	string	STR_PRESOBJ_OBJECT				0	pt	Faça duplo clique para adicionar um objecto				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_OBJECT				0	pt-BR	Clique duas vezes para adicionar um objeto				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_OBJECT				13691	ru	Добавьте объект двойным щелчком мыши				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PRESOBJ_OBJECT				13691	rw	Kanda kabiri wongeraho igikoresho				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_OBJECT				0	rw	Kanda kabiri wongeraho igikoresho				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_OBJECT				0	sh-YU	Dvoklikni da dodaš objekat				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_OBJECT				13691	sk	Dvojitým kliknutím pridáte objekt				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_OBJECT				13691	sl	Dvokliknite za dodajanje predmeta				2002-02-02 02:02:02
@@ -4817,7 +4817,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_ORGCHART				0	pl	Dodaj schemat orga
 sd	source\core\glob.src	0	string	STR_PRESOBJ_ORGCHART				0	pt	Faça duplo clique para adicionar um organograma				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_ORGCHART				0	pt-BR	Clique duas vezes para adicionar um fluxograma				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_ORGCHART				13691	ru	Добавьте организационную диаграмму двойным щелчком мыши				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PRESOBJ_ORGCHART				13691	rw	Kanda kabiri wongeraho ishusho ndangakigo				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_ORGCHART				0	rw	Kanda kabiri wongeraho ishusho ndangakigo				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_ORGCHART				0	sh-YU	Dvoklikni da dodaš organizacioni grafikon				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_ORGCHART				13691	sk	Dvojitým kliknutím pridáte organizačný graf				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_ORGCHART				13691	sl	Dvokliknite za dodajanje organigrama				2002-02-02 02:02:02
@@ -4895,7 +4895,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_OUTLINE				0	pl	Kliknij, aby dodać
 sd	source\core\glob.src	0	string	STR_PRESOBJ_OUTLINE				0	pt	Faça clique para adicionar um destaque				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_OUTLINE				0	pt-BR	Clique para adicionar uma estrutura de tópicos				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_OUTLINE				13691	ru	Для добавления структуры щелкните мышью				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PRESOBJ_OUTLINE				13691	rw	Kanda wongeraho imbata				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_OUTLINE				0	rw	Kanda wongeraho imbata				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_OUTLINE				0	sh-YU	Klikni da dodaš isticanje				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_OUTLINE				13691	sk	Kliknúť pre vloženie textu				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_OUTLINE				13691	sl	Kliknite za dodajanje orisa				2002-02-02 02:02:02
@@ -4973,7 +4973,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_TABLE				0	pl	Dodaj arkusz kalkulac
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TABLE				0	pt	Faça duplo clique para adicionar uma folha de cálculo				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TABLE				0	pt-BR	Clique duas vezes para adicionar uma planilha				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TABLE				13691	ru	Добавьте электронную таблицу двойным щелчком мыши				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PRESOBJ_TABLE				13691	rw	Kanda kabiri wongeraho urupapurorusesuye				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_TABLE				0	rw	Kanda kabiri wongeraho urupapurotuzu				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TABLE				0	sh-YU	Dvoklikni da dodaš tabelarni račun				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TABLE				13691	sk	Dvojitým kliknutím pridáte zošit				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TABLE				13691	sl	Dvokliknite za dodajanje preglednice				2002-02-02 02:02:02
@@ -5051,7 +5051,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_TEXT				0	pl	Kliknij, aby dodać te
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TEXT				0	pt	Faça clique para adicionar texto				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TEXT				0	pt-BR	Clique para adicionar texto				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TEXT				13691	ru	Для добавления текста щелкните мышью				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PRESOBJ_TEXT				13691	rw	Kanda wongeraho umwandiko				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_TEXT				0	rw	Kanda wongeraho umwandiko				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TEXT				0	sh-YU	Klikni da dodaš tekst				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TEXT				13691	sk	Kliknúť pre vloženie textu				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TEXT				13691	sl	Kliknite za dodajanje besedila				2002-02-02 02:02:02
@@ -5129,7 +5129,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_TITLE				0	pl	Kliknij, aby dodać t
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TITLE				0	pt	Faça clique para adicionar título				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TITLE				0	pt-BR	Clique para adicionar título				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TITLE				13691	ru	Для добавления заголовка щелкните мышью				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PRESOBJ_TITLE				13691	rw	Kanda wongereho umutwe				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_TITLE				0	rw	Kanda wongereho umutwe				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TITLE				0	sh-YU	Klikni da dodaš naslov				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TITLE				13691	sk	Kliknúť pre vloženie nadpisu				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_TITLE				13691	sl	Kliknite za dodajanje naslova				2002-02-02 02:02:02
@@ -5207,7 +5207,7 @@ sd	source\core\glob.src	0	string	STR_PRESVIEWSHELL				0	pl	Tryb prezentacji				2
 sd	source\core\glob.src	0	string	STR_PRESVIEWSHELL				0	pt	Modo de apresentação				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESVIEWSHELL				0	pt-BR	Modo de apresentação				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESVIEWSHELL				13691	ru	Режим презентации				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PRESVIEWSHELL				13691	rw	Uburyo bw'iyerekana				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESVIEWSHELL				0	rw	Uburyo bw'iyerekana				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESVIEWSHELL				0	sh-YU	Rad sa prezentacijom				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESVIEWSHELL				13691	sk	Prezentačný režim				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESVIEWSHELL				13691	sl	Predstavitveni način				2002-02-02 02:02:02
@@ -5285,7 +5285,7 @@ sd	source\core\glob.src	0	string	STR_PREVIEWVIEWSHELL				0	pl	Okno podglądu				
 sd	source\core\glob.src	0	string	STR_PREVIEWVIEWSHELL				0	pt	Janela de pré-visualização				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PREVIEWVIEWSHELL				0	pt-BR	Janela de visualização				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PREVIEWVIEWSHELL				13691	ru	Окно предварительного просмотра				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PREVIEWVIEWSHELL				13691	rw	Idirishya ry'igaragazambere				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PREVIEWVIEWSHELL				0	rw	Idirishya ry'igaragazambere				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PREVIEWVIEWSHELL				0	sh-YU	Prozor za pregled				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PREVIEWVIEWSHELL				13691	sk	Náhľadové okno				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PREVIEWVIEWSHELL				13691	sl	Okno za predogled				2002-02-02 02:02:02
@@ -5363,7 +5363,7 @@ sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUND				0	pl	Tło				2002
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUND				0	pt	Fundo				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUND				0	pt-BR	Plano de fundo				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUND				13691	ru	Фон				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUND				13691	rw	Mbuganyuma				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUND				0	rw	Mbuganyuma				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUND				0	sh-YU	Pozadina				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUND				13691	sk	Pozadie				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUND				13691	sl	Ozadje				2002-02-02 02:02:02
@@ -5439,7 +5439,7 @@ sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUNDOBJECTS				0	pl	Obiek
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUNDOBJECTS				0	pt	Objectos de fundo				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUNDOBJECTS				0	pt-BR	Objetos de plano de fundo				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUNDOBJECTS				13691	ru	Объекты фона				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUNDOBJECTS				13691	rw	Ibikoresho mbuganyuma				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUNDOBJECTS				0	rw	Ibikoresho mbuganyuma				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUNDOBJECTS				0	sh-YU	Objekti u pozadini				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUNDOBJECTS				13691	sk	Objekty pozadia				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_BACKGROUNDOBJECTS				13691	sl	Predmeti ozadja				2002-02-02 02:02:02
@@ -5516,7 +5516,7 @@ sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_NOTES				0	pl	Notatki				2002-0
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_NOTES				0	pt	Notas				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_NOTES				0	pt-BR	Notas				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_NOTES				13691	ru	Примечания				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_NOTES				13691	rw	Ibisobanuro				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_NOTES				0	rw	Ibisobanuro				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_NOTES				0	sh-YU	Beleške				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_NOTES				13691	sk	Poznámky				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_NOTES				13691	sl	Opombe				2002-02-02 02:02:02
@@ -5595,7 +5595,7 @@ sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_OUTLINE				0	pl	Konspekt				200
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_OUTLINE				0	pt	Destaque				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_OUTLINE				0	pt-BR	Estrutura de tópicos				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_OUTLINE				13691	ru	Структура				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_OUTLINE				13691	rw	Imbata				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_OUTLINE				0	rw	Imbata				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_OUTLINE				0	sh-YU	Okvirno				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_OUTLINE				13691	sk	Osnova				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_OUTLINE				13691	sl	Oris				2002-02-02 02:02:02
@@ -5673,7 +5673,7 @@ sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_SUBTITLE				0	pl	Podtytuł				2
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_SUBTITLE				0	pt	Subtítulo				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_SUBTITLE				0	pt-BR	Subtítulo				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_SUBTITLE				13691	ru	Подзаголовок				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_SUBTITLE				13691	rw	Umutwe wungirije				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_SUBTITLE				0	rw	Umutwe wungirije				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_SUBTITLE				0	sh-YU	Podnaslov				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_SUBTITLE				13691	sk	Podnadpis				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_SUBTITLE				13691	sl	Podnaslov				2002-02-02 02:02:02
@@ -5749,7 +5749,7 @@ sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_TITLE				0	pl	Tytuł				2002-02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_TITLE				0	pt	Título				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_TITLE				0	pt-BR	Título				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_TITLE				13691	ru	Заголовок				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_TITLE				13691	rw	Umutwe				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_TITLE				0	rw	Umutwe				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_TITLE				0	sh-YU	Naslov				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_TITLE				13691	sk	Nadpis				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PSEUDOSHEET_TITLE				13691	sl	Naslov				2002-02-02 02:02:02
@@ -5826,7 +5826,7 @@ sd	source\core\glob.src	0	string	STR_SAVE_DOC				0	pl	Zapisz dokument				2002-02
 sd	source\core\glob.src	0	string	STR_SAVE_DOC				0	pt	Guardar documento				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SAVE_DOC				0	pt-BR	Salvar documento				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SAVE_DOC				13691	ru	Сохранить документ				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_SAVE_DOC				13691	rw	Kubika inyandiko				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_SAVE_DOC				0	rw	Kubika inyandiko				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SAVE_DOC				0	sh-YU	Sačuvaj dokument				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SAVE_DOC				13691	sk	Uložiť dokument				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SAVE_DOC				13691	sl	Shrani dokument				2002-02-02 02:02:02
@@ -5905,7 +5905,7 @@ sd	source\core\glob.src	0	string	STR_SLIDEVIEWSHELL				0	pl	Tryb slajdu				2002-
 sd	source\core\glob.src	0	string	STR_SLIDEVIEWSHELL				0	pt	Modo de diapositivo				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SLIDEVIEWSHELL				0	pt-BR	Modo de Slide				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SLIDEVIEWSHELL				13691	ru	Режим слайдов				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_SLIDEVIEWSHELL				13691	rw	Uburyo bw'Igice				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_SLIDEVIEWSHELL				0	rw	Uburyo bw'Igice				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SLIDEVIEWSHELL				0	sh-YU	Rad sa slajdom				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SLIDEVIEWSHELL				13691	sk	Snímkový režim				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SLIDEVIEWSHELL				13691	sl	Način prosojnice				2002-02-02 02:02:02
@@ -5980,7 +5980,7 @@ sd	source\core\glob.src	0	string	STR_SLIDE_NAME				0	pl	Slajd				2002-02-02 02:0
 sd	source\core\glob.src	0	string	STR_SLIDE_NAME				0	pt	Diapositivo				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SLIDE_NAME				0	pt-BR	Slide				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SLIDE_NAME				13691	ru	Слайд				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_SLIDE_NAME				13691	rw	Igice				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_SLIDE_NAME				0	rw	Igice				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SLIDE_NAME				0	sh-YU	Slajd				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SLIDE_NAME				13691	sk	Snímok				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_SLIDE_NAME				13691	sl	Prosojnica				2002-02-02 02:02:02
@@ -6056,7 +6056,7 @@ sd	source\core\glob.src	0	string	STR_STANDARD_STYLESHEET_NAME				0	pl	Domyślnie
 sd	source\core\glob.src	0	string	STR_STANDARD_STYLESHEET_NAME				0	pt	Predefinição				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_STANDARD_STYLESHEET_NAME				0	pt-BR	Padrão				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_STANDARD_STYLESHEET_NAME				13691	ru	Базовый				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_STANDARD_STYLESHEET_NAME				13691	rw	Mburabuzi				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_STANDARD_STYLESHEET_NAME				0	rw	Gisanzweho				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_STANDARD_STYLESHEET_NAME				0	sh-YU	Podrazumevan				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_STANDARD_STYLESHEET_NAME				13691	sk	Východzie				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_STANDARD_STYLESHEET_NAME				13691	sl	Privzeto				2002-02-02 02:02:02
@@ -6133,7 +6133,7 @@ sd	source\core\glob.src	0	string	STR_STDOBJECTBARSHELL				0	pl	Tryb dokumentu			
 sd	source\core\glob.src	0	string	STR_STDOBJECTBARSHELL				0	pt	Modo de documento				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_STDOBJECTBARSHELL				0	pt-BR	Modo do Documento				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_STDOBJECTBARSHELL				13691	ru	Режим документа				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_STDOBJECTBARSHELL				13691	rw	Uburyo bw'Inyandiko				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_STDOBJECTBARSHELL				0	rw	Uburyo bw'Inyandiko				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_STDOBJECTBARSHELL				0	sh-YU	Režim dokumenta				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_STDOBJECTBARSHELL				13691	sk	Dokumentový režim				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_STDOBJECTBARSHELL				13691	sl	Način dokumenta				2002-02-02 02:02:02
@@ -6211,7 +6211,7 @@ sd	source\core\glob.src	0	string	STR_TEXTOBJECTBARSHELL				0	pl	Tryb tekstowy			
 sd	source\core\glob.src	0	string	STR_TEXTOBJECTBARSHELL				0	pt	Modo de texto				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_TEXTOBJECTBARSHELL				0	pt-BR	Modo de Texto				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_TEXTOBJECTBARSHELL				13691	ru	Режим текста				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_TEXTOBJECTBARSHELL				13691	rw	Uburyo bw'Umwandiko				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_TEXTOBJECTBARSHELL				0	rw	Uburyo bw'Umwandiko				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_TEXTOBJECTBARSHELL				0	sh-YU	Rad sa tekstom				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_TEXTOBJECTBARSHELL				13691	sk	Textový režim				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_TEXTOBJECTBARSHELL				13691	sl	Besedilni način				2002-02-02 02:02:02
@@ -6289,7 +6289,7 @@ sd	source\core\glob.src	0	string	STR_UNDO_MOVEPAGES				0	pl	Przenieś slajdy				
 sd	source\core\glob.src	0	string	STR_UNDO_MOVEPAGES				0	pt	Mover dispositivos				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_UNDO_MOVEPAGES				0	pt-BR	Mover slides				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_UNDO_MOVEPAGES				13691	ru	Переместить слайды				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_UNDO_MOVEPAGES				13691	rw	Kwimura ibice				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_UNDO_MOVEPAGES				0	rw	Kwimura ibice				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_UNDO_MOVEPAGES				0	sh-YU	Premesti slajdove				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_UNDO_MOVEPAGES				13691	sk	Presunúť snímky				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_UNDO_MOVEPAGES				13691	sl	Premakni prosojnice				2002-02-02 02:02:02
