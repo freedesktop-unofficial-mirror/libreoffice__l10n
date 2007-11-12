@@ -13,9 +13,9 @@
 #
 #   $RCSfile: localize.sdf,v $
 #
-#   $Revision: 1.3 $
+#   $Revision: 1.4 $
 #
-#   last change: $Author: vg $ $Date: 2007-08-30 14:36:22 $
+#   last change: $Author: rt $ $Date: 2007-11-12 08:39:15 $
 #
 #   The Contents of this file are made available subject to
 #   the terms of GNU Lesser General Public License Version 2.1.
@@ -41,6 +41,7 @@
 #     MA  02111-1307  USA
 #
 #*************************************************************************
+reportdesign	source\core\resource\strings.src	0	string	RID_STR_ARGUMENT_IS_NULL				0	ar	العنصر غير صالح.				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_ARGUMENT_IS_NULL				13691	be-BY	Недапушчальны элемент.				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_ARGUMENT_IS_NULL				0	br	Didalvoudek eo an ergorenn-mañ.				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_ARGUMENT_IS_NULL				13691	cs	Element je neplatný.				2002-02-02 02:02:02
@@ -72,6 +73,7 @@ reportdesign	source\core\resource\strings.src	0	string	RID_STR_ARGUMENT_IS_NULL	
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_ARGUMENT_IS_NULL				0	sv	Elementet är ogiltigt.				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_ARGUMENT_IS_NULL				0	zh-CN	此元素无效。				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_ARGUMENT_IS_NULL				0	zh-TW	元素無效。				2002-02-02 02:02:02
+reportdesign	source\core\resource\strings.src	0	string	RID_STR_DETAIL				0	ar	التفاصيل				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_DETAIL				13691	be-BY	Падрабязнасці				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_DETAIL				0	br	Munud				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_DETAIL				13691	cs	Podrobnosti				2002-02-02 02:02:02
@@ -103,6 +105,7 @@ reportdesign	source\core\resource\strings.src	0	string	RID_STR_DETAIL				13691	s
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_DETAIL				0	sv	Detalj				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_DETAIL				0	zh-CN	详细信息				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_DETAIL				0	zh-TW	細節				2002-02-02 02:02:02
+reportdesign	source\core\resource\strings.src	0	string	RID_STR_ERROR_WRONG_ARGUMENT				0	ar	انت حاولت لتعيين وسيط غير شرعي. رجاءا ألقي نظرة على '#1' للوسائط الصالحة.				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_ERROR_WRONG_ARGUMENT				13691	be-BY	Недапушчальны параметр. Пра дапушчальнасць параметраў чытайце '#1'.				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_ERROR_WRONG_ARGUMENT				0	br	Klasket hoc'h eus arventenniñ un arguzenn andezvek. Mar plij, taolit ur sell war '#1' evit an arguzennoù talvoudek.				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_ERROR_WRONG_ARGUMENT				13691	cs	Pokusil jste se nastavit neplatný argument. Platné argumenty naleznete v '#1'.				2002-02-02 02:02:02
@@ -133,6 +136,7 @@ reportdesign	source\core\resource\strings.src	0	string	RID_STR_ERROR_WRONG_ARGUM
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_ERROR_WRONG_ARGUMENT				0	sv	Du försökte ange ett otillåtet argument. Var vänlig och se '#1' för giltiga argument.				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_ERROR_WRONG_ARGUMENT				0	zh-CN	您试图设置一个非法参数。请参照 '#1' 设置有效参数。				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_ERROR_WRONG_ARGUMENT				0	zh-TW	您嘗試設定非法的引數。請參閱「#1」以取得有效的引數。				2002-02-02 02:02:02
+reportdesign	source\core\resource\strings.src	0	string	RID_STR_FIXEDLINE				0	ar	سطر ثابت				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_FIXEDLINE				13691	be-BY	ЛініяЗамацаваная*				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_FIXEDLINE				0	br	Linenn dizehan				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_FIXEDLINE				13691	cs	Čára				2002-02-02 02:02:02
@@ -150,6 +154,7 @@ reportdesign	source\core\resource\strings.src	0	string	RID_STR_FIXEDLINE				1369
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_FIXEDLINE				13691	nn	Fast linje				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_FIXEDLINE				1	pa-IN	ਸਥਿਰ ਲਾਇਨ				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_FIXEDLINE				0	rw	Umurongo udahinduka				2002-02-02 02:02:02
+reportdesign	source\core\resource\strings.src	0	string	RID_STR_FIXEDTEXT				0	ar	حقل التسمية				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_FIXEDTEXT				13691	be-BY	ПолеМеткі				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_FIXEDTEXT				0	br	MaeziennSkritell				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_FIXEDTEXT				13691	cs	Popisek				2002-02-02 02:02:02
@@ -167,6 +172,7 @@ reportdesign	source\core\resource\strings.src	0	string	RID_STR_FIXEDTEXT				1369
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_FIXEDTEXT				13691	nn	Etikettfelt				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_FIXEDTEXT				1	pa-IN	ਲੇਬਲ ਖੇਤਰ				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_FIXEDTEXT				0	rw	Amwanya w'akarango				2002-02-02 02:02:02
+reportdesign	source\core\resource\strings.src	0	string	RID_STR_FORMATTEDFIELD				0	ar	حقل التهيئة				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_FORMATTEDFIELD				13691	be-BY	ПолеАформленае				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_FORMATTEDFIELD				0	br	MaeziennMentrezhet				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_FORMATTEDFIELD				13691	cs	Formátované pole				2002-02-02 02:02:02
@@ -185,6 +191,7 @@ reportdesign	source\core\resource\strings.src	0	string	RID_STR_FORMATTEDFIELD			
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_FORMATTEDFIELD				1	pa-IN	ਫਾਰਮੈਟ ਕੀਤਾ ਖੇਤਰ				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_FORMATTEDFIELD				0	rw	Umwanya watunganyijwe				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_FORMATTEDFIELD				13691	sl	Oblikovano polje				2002-02-02 02:02:02
+reportdesign	source\core\resource\strings.src	0	string	RID_STR_GROUP_FOOTER				0	ar	تذييل مجموعة				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_GROUP_FOOTER				13691	be-BY	Група, калантытул ніжні				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_GROUP_FOOTER				0	br	Diaz pajenn ar strollad				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_GROUP_FOOTER				13691	cs	Zápatí skupiny				2002-02-02 02:02:02
@@ -216,6 +223,7 @@ reportdesign	source\core\resource\strings.src	0	string	RID_STR_GROUP_FOOTER				1
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_GROUP_FOOTER				0	sv	Gruppfot				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_GROUP_FOOTER				0	zh-CN	组合页脚				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_GROUP_FOOTER				0	zh-TW	群組尾				2002-02-02 02:02:02
+reportdesign	source\core\resource\strings.src	0	string	RID_STR_GROUP_HEADER				0	ar	ترويسة مجموعة				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_GROUP_HEADER				13691	be-BY	Група, калантытул верхні				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_GROUP_HEADER				0	br	Talbenn ar strollad				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_GROUP_HEADER				13691	cs	Záhlaví skupiny				2002-02-02 02:02:02
@@ -247,6 +255,7 @@ reportdesign	source\core\resource\strings.src	0	string	RID_STR_GROUP_HEADER				1
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_GROUP_HEADER				0	sv	Grupphuvud				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_GROUP_HEADER				0	zh-CN	组合页眉				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_GROUP_HEADER				0	zh-TW	群組首				2002-02-02 02:02:02
+reportdesign	source\core\resource\strings.src	0	string	RID_STR_IMAGECONTROL				0	ar	متحكم الصورة				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_IMAGECONTROL				13691	be-BY	КантрольнікГрафікі				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_IMAGECONTROL				0	br	MestroniañSkeudenn				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_IMAGECONTROL				13691	cs	Obrázek				2002-02-02 02:02:02
@@ -265,6 +274,7 @@ reportdesign	source\core\resource\strings.src	0	string	RID_STR_IMAGECONTROL				1
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_IMAGECONTROL				1	pa-IN	ਚਿੱਤਰ ਕੰਟਰੋਲ				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_IMAGECONTROL				0	rw	Igenzura ry'amashusho				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_IMAGECONTROL				13691	sl	Grafični kontrolnik				2002-02-02 02:02:02
+reportdesign	source\core\resource\strings.src	0	string	RID_STR_PAGE_FOOTER				0	ar	تذييل الصفحة				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_PAGE_FOOTER				13691	be-BY	Старонка, калантытул ніжні				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_PAGE_FOOTER				0	br	Diaz pajenn				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_PAGE_FOOTER				13691	cs	Zápatí stránky				2002-02-02 02:02:02
@@ -296,6 +306,7 @@ reportdesign	source\core\resource\strings.src	0	string	RID_STR_PAGE_FOOTER				13
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_PAGE_FOOTER				0	sv	Sidfot				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_PAGE_FOOTER				0	zh-CN	页脚				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_PAGE_FOOTER				0	zh-TW	頁尾				2002-02-02 02:02:02
+reportdesign	source\core\resource\strings.src	0	string	RID_STR_PAGE_HEADER				0	ar	ترويسة الصفحة				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_PAGE_HEADER				13691	be-BY	Старонка, калантытул верхні				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_PAGE_HEADER				0	br	Talbenn Pajenn				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_PAGE_HEADER				13691	cs	Záhlaví stránky				2002-02-02 02:02:02
@@ -327,6 +338,7 @@ reportdesign	source\core\resource\strings.src	0	string	RID_STR_PAGE_HEADER				13
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_PAGE_HEADER				0	sv	Sidhuvud				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_PAGE_HEADER				0	zh-CN	页眉				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_PAGE_HEADER				0	zh-TW	頁首				2002-02-02 02:02:02
+reportdesign	source\core\resource\strings.src	0	string	RID_STR_PROPERTY_CHANGE_NOT_ALLOWED				0	ar	الرقم '#1' بالفعل موجود و لا يمكن أن .تعيينه مرة آخرى.				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_PROPERTY_CHANGE_NOT_ALLOWED				13691	be-BY	Назва '#1' ужо занятая, і не можа быць паўторна выкарыстана.				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_PROPERTY_CHANGE_NOT_ALLOWED				0	br	An anv '#1' zo anezhañ endeo ha n'hall ket bezañ roet c'hoazh.				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_PROPERTY_CHANGE_NOT_ALLOWED				13691	cs	Název  '#1' již existuje a není možné jej přiřadit znovu.				2002-02-02 02:02:02
@@ -358,6 +370,7 @@ reportdesign	source\core\resource\strings.src	0	string	RID_STR_PROPERTY_CHANGE_N
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_PROPERTY_CHANGE_NOT_ALLOWED				0	sv	Namnet '#1' används redan och kan inte tillskrivas igen.				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_PROPERTY_CHANGE_NOT_ALLOWED				0	zh-CN	名字 '#1' 已经存在， 不能再分配。				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_PROPERTY_CHANGE_NOT_ALLOWED				0	zh-TW	名稱「#1」已存在，無法再指定一次。				2002-02-02 02:02:02
+reportdesign	source\core\resource\strings.src	0	string	RID_STR_REPORT				0	ar	التقرير				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_REPORT				13691	be-BY	Справаздача				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_REPORT				0	br	Rentañ-kont				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_REPORT				13691	cs	Sestava				2002-02-02 02:02:02
@@ -393,6 +406,7 @@ reportdesign	source\core\resource\strings.src	0	string	RID_STR_REPORT				0	tr	Ra
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_REPORT				13691	uz	Hisobot				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_REPORT				0	zh-CN	报表				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_REPORT				0	zh-TW	報表				2002-02-02 02:02:02
+reportdesign	source\core\resource\strings.src	0	string	RID_STR_REPORT_FOOTER				0	ar	تذييل التقرير				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_REPORT_FOOTER				13691	be-BY	Справаздача, калантытул ніжні				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_REPORT_FOOTER				0	br	Diaz ar marilh				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_REPORT_FOOTER				13691	cs	Zápatí sestavy				2002-02-02 02:02:02
@@ -424,6 +438,7 @@ reportdesign	source\core\resource\strings.src	0	string	RID_STR_REPORT_FOOTER				
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_REPORT_FOOTER				0	sv	Rapportfot				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_REPORT_FOOTER				0	zh-CN	报表页脚				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_REPORT_FOOTER				0	zh-TW	報表尾				2002-02-02 02:02:02
+reportdesign	source\core\resource\strings.src	0	string	RID_STR_REPORT_HEADER				0	ar	ترويسة التقرير				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_REPORT_HEADER				13691	be-BY	Справаздача, калантытул верхні				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_REPORT_HEADER				0	br	Talbenn ar marilh				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_REPORT_HEADER				13691	cs	Záhlaví sestavy				2002-02-02 02:02:02
@@ -455,6 +470,7 @@ reportdesign	source\core\resource\strings.src	0	string	RID_STR_REPORT_HEADER				
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_REPORT_HEADER				0	sv	Rapporthuvud				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_REPORT_HEADER				0	zh-CN	报表页眉				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_REPORT_HEADER				0	zh-TW	報表首				2002-02-02 02:02:02
+reportdesign	source\core\resource\strings.src	0	string	RID_STR_SHAPE				0	ar	الشكل				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_SHAPE				13691	be-BY	Абрыс				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_SHAPE				0	br	Stumm				2002-02-02 02:02:02
 reportdesign	source\core\resource\strings.src	0	string	RID_STR_SHAPE				13691	cs	Tvar				2002-02-02 02:02:02
