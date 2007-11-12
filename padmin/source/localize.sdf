@@ -13,9 +13,9 @@
 #
 #   $RCSfile: localize.sdf,v $
 #
-#   $Revision: 1.28 $
+#   $Revision: 1.29 $
 #
-#   last change: $Author: vg $ $Date: 2007-08-30 12:18:33 $
+#   last change: $Author: rt $ $Date: 2007-11-12 13:35:10 $
 #
 #   The Contents of this file are made available subject to
 #   the terms of GNU Lesser General Public License Version 2.1.
@@ -6852,7 +6852,7 @@ padmin	source\padialog.src	0	string	RID_ERR_NOPRINTER				0	zh-CN	无法开启打
 padmin	source\padialog.src	0	string	RID_ERR_NOPRINTER				0	zh-TW	無法開啟印表機 %s 。				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ERR_NOPRINTER				0	zu	Ayikwazi ukuvula umshicileli %s.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ERR_PRINTERNOTREMOVEABLE				265	af	Die drukker %s kan nie verwyder word nie.				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_ERR_PRINTERNOTREMOVEABLE				0	ar	لا يمكن إزالة الطابعة %s.				20040507 14:22:41
+padmin	source\padialog.src	0	string	RID_ERR_PRINTERNOTREMOVEABLE				265	ar	لا يمكن إزالة الطابعة %s.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ERR_PRINTERNOTREMOVEABLE				0	as-IN	%s মুদ্ৰকটো আঁতৰ কৰিব নোৱাৰি.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ERR_PRINTERNOTREMOVEABLE				265	be-BY	Немагчыма выдаліць прынтэр %s.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ERR_PRINTERNOTREMOVEABLE				0	bg	Принтерът %s не може да бъде премахнат.				2002-02-02 02:02:02
@@ -6930,7 +6930,7 @@ padmin	source\padialog.src	0	string	RID_ERR_PRINTERNOTREMOVEABLE				0	zh-CN	无�
 padmin	source\padialog.src	0	string	RID_ERR_PRINTERNOTREMOVEABLE				0	zh-TW	無法移除印表機 %s 。				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ERR_PRINTERNOTREMOVEABLE				0	zu	Umshicileli ongu-%s akagudluzeki.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ERR_REMOVEDEFAULTDRIVER				265	af	Die drywer "%s" word deur u verstekdrukker gebruik. Dit kan dus nie verwyder word nie.				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_ERR_REMOVEDEFAULTDRIVER				0	ar	يتم استخدام جهاز التشغيل "%s" من قِبَل طابعتك الافتراضية، لهذا لا يمكنك إزالته.				20040507 14:22:41
+padmin	source\padialog.src	0	string	RID_ERR_REMOVEDEFAULTDRIVER				265	ar	المُشغّل "%s" مستخدم من قبل طابعتك الافتراضية. لذا، لا يمكن إزالته.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ERR_REMOVEDEFAULTDRIVER				0	as-IN	"%s" ড্ৰাইভাৰটো আপোনাৰ ডিফল্ট মুদ্ৰকৰ দ্বাৰা ব্যৱহৃত হৈছে. সেইবাবে, ইয়াক আঁতৰাব নোৱাৰি. 				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ERR_REMOVEDEFAULTDRIVER				265	be-BY	Драйвер "%s" ужываецца прадвызначаным прынтэрам, таму яго немагчыма выдаліць.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ERR_REMOVEDEFAULTDRIVER				0	bg	Драйверът "%s" се използва от подразбирания принтер, поради което не може да бъде премахнат.				2002-02-02 02:02:02
@@ -7007,7 +7007,7 @@ padmin	source\padialog.src	0	string	RID_ERR_REMOVEDEFAULTDRIVER				0	zh-CN	您�
 padmin	source\padialog.src	0	string	RID_ERR_REMOVEDEFAULTDRIVER				0	zh-TW	預設印表機使用這個驅動程式<%s>。因此無法刪除這個驅動程式。				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ERR_REMOVEDEFAULTDRIVER				0	zu	Umshayeli we-"%s" uyatshenziswa ngumshicileli wendalo. Ngakho-ke ingagudluzwa.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ERR_REMOVEDRIVERFAILED				265	af	Die drywer "%s1" kon nie verwyder word nie. Dit was nie moontlik om die lêer \n\n%s2 te verwyder nie.				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_ERR_REMOVEDRIVERFAILED				0	ar	The driver "%s1" could not be removed. Removing the file\n\n%s2\n\nwas not possible.				20040507 14:22:41
+padmin	source\padialog.src	0	string	RID_ERR_REMOVEDRIVERFAILED				265	ar	تعذر إزالة المُشغّل "%s1". لم يكن ممكناً إزالة الملف\n\n%s2.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ERR_REMOVEDRIVERFAILED				0	as-IN	"%s1"ড্ৰাইভাৰটো আঁতৰ কৰিব পৰা নগ'ল. ফাইলটো আঁতৰোৱা সম্ভৱ নাছিল\n\n%s2.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ERR_REMOVEDRIVERFAILED				265	be-BY	Не ўдалося выдаліць драйвер "%s1", таму што не ўдалося сцерці файл\n\n%s2.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ERR_REMOVEDRIVERFAILED				0	bg	Премахването на драйвера "%s1" бе невъзможно. Не бе възможно премахването на файла\n\n%s2.				2002-02-02 02:02:02
@@ -7082,7 +7082,7 @@ padmin	source\padialog.src	0	string	RID_ERR_REMOVEDRIVERFAILED				0	zh-CN	无法
 padmin	source\padialog.src	0	string	RID_ERR_REMOVEDRIVERFAILED				0	zh-TW	這個驅動程式 "%s1" 無法被刪除。沒有成功地刪除檔案\n\n%s2\n\n				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ERR_REMOVEDRIVERFAILED				0	zu	Idrayva i-"%s1" ayizange isuswe. Akwenzekanga ukuba kususwe ifayela\n\n%s2.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ERR_REMOVESGENPRT				265	af	Die drywer "%s" is altyd nodig en kan dus nie verwyder word nie.				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_ERR_REMOVESGENPRT				0	ar	The driver "%s" is always needed and can therefore not be removed.				20040507 14:22:41
+padmin	source\padialog.src	0	string	RID_ERR_REMOVESGENPRT				265	ar	هناك حاجة دائمة للمُشغّل "%s" ولذا لا يمكن إزالته.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ERR_REMOVESGENPRT				0	as-IN	"%s" ড্ৰাইভাৰটো সদায় প্ৰয়োজনীয় আৰু সেইবাবে আঁতৰাব নোৱাৰি. 				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ERR_REMOVESGENPRT				265	be-BY	Драйвер "%s" патрэбны заўсёды, таму не можа быць выдалены.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ERR_REMOVESGENPRT				0	bg	Драйверът "%s" е нужен винаги и затова не може да бъде премахнат.				2002-02-02 02:02:02
@@ -7159,7 +7159,7 @@ padmin	source\padialog.src	0	string	RID_ERR_REMOVESGENPRT				0	zh-CN	这是一�
 padmin	source\padialog.src	0	string	RID_ERR_REMOVESGENPRT				0	zh-TW	這是一個必要的驅動程式 "%s" ，因此不能夠刪除。				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_ERR_REMOVESGENPRT				0	zu	Idrayva i-"%s" ihlale idingeka futhi ngenxa yalokho ayinakususwa.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_AFMCOPYFAILED			50	af	Die metriese lêer vir die fontlêer\n   %s\nkon nie gekopieer word nie. Die font kon nie geïnstalleer word nie.				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_AFMCOPYFAILED			0	ar	تعذر نسخ ملف وحدات القياس لملف الخط \n   %s\nلن يتم تثبيت الخط.				20040507 14:22:40
+padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_AFMCOPYFAILED			0	ar	تعذر نسخ الملف المتري لملف الخط\n   %s\n. لن يتم تثبيت الخط.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_AFMCOPYFAILED			0	as-IN	আখৰৰ ফাইলটোৰ কাৰণে মেট্ৰিক ফাইল\n   %s\nপ্ৰতিলিপি কৰিব পৰা নগ'ল. আখৰটো ইনষ্টল কৰা নহ'ব. 				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_AFMCOPYFAILED			50	be-BY	Не ўдалося скапіраваць \nфайл метрыкі для шрыфтавага файлу\n %s. Шрыфт не будзе ўстаноўлены.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_AFMCOPYFAILED			0	bg	Копирането на файла с метрики за шрифта\n   %s\nбе невъзможно. Шрифтът няма да бъде инсталиран.				2002-02-02 02:02:02
@@ -7234,7 +7234,7 @@ padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_AFMCOPYFA
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_AFMCOPYFAILED			0	zh-TW	無法复製字型度量檔案\n   %s\n。無法安裝這個字型。				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_AFMCOPYFAILED			0	zu	Ifayela lezilinganiso lefayela lohlobo lwamagama\n   %s\naluzange lukopishwe. Uhlobo lwamagama angeke lufakwe.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_FONTCOPYFAILED			50	af	Die fontlêer\n   %s\nkon nie gekopieer word nie. Die font sal nie geïnstalleer word nie.				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_FONTCOPYFAILED			0	ar	تعذر نسخ ملف الخط\n   \n%sلن يتم تثبيت الخط.				20040507 14:22:40
+padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_FONTCOPYFAILED			0	ar	ملف الخط\n   %s\nتعذر نسخه. لن يتم تثبيت الخط.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_FONTCOPYFAILED			0	as-IN	আখৰৰ ফাইলটো\n   %s\nপ্ৰতিলিপি কৰিব পৰা নগ'ল. আখৰটো ইনষ্টল কৰা নহ'ব. 				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_FONTCOPYFAILED			50	be-BY	Не ўдалося скапіраваць шрыфтавы файл \n%s\n. Шрыфт не будзе ўстаноўлены.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_FONTCOPYFAILED			0	bg	Копирането на файла с шрифт\n   %s\nбе невъзможно. Шрифтът няма да бъде инсталиран.				2002-02-02 02:02:02
@@ -7310,7 +7310,7 @@ padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_FONTCOPYF
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_FONTCOPYFAILED			0	zh-TW	無法复製字型檔案\n   %s\n。無法安裝這個字型。				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_FONTCOPYFAILED			0	zu	Ifayela lohlobo lwamagama\n   %s\naluzange lukopishwe. Uhlobo lwamagama angeke lufakwe.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_IMPORTOP			50	af	Voeg fonts by				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_IMPORTOP			0	ar	استيراد خطوط				20040507 14:22:40
+padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_IMPORTOP			0	ar	إضافة خطوط				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_IMPORTOP			0	as-IN	আখৰবোৰ যোগ কৰক				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_IMPORTOP			50	be-BY	Дадаць шрыфты				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_IMPORTOP			0	bg	Добавяне на шрифтове				2002-02-02 02:02:02
@@ -7388,7 +7388,7 @@ padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_IMPORTOP	
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_IMPORTOP			0	zh-TW	新增字型				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_IMPORTOP			0	zu	Yongeza izinhlobo zamagama				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_NOAFM			50	af	'n Formaatlêer (met 'n .afm-lêeruitgang) is nie vir die font\n%s\ngevind nie, en daarom kon die font nie geïnstalleer word nie. Formaatlêers kan byvoorbeeld met ghostscript geskep word en moet in dieselfde gids as die fontlêers of hul afm-subgids gestoor word.				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_NOAFM			0	ar	لم يتم العثور على ملف تنسيق (بالامتداد .afm) لملف الخط \n%s\nلهذا لن يمكن تثبيته. يمكن إنشاء ملفات التنسيق، على سبيل المثال، بـ ghostscript ، ويجب أن تك?				20040507 14:22:40
+padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_NOAFM			0	ar	لم يُعثر على ملف نسق (ذي امتداد .afm) للخط\n%s\nلذلك، لن يمكن تثبيت الخط. يمكن إنشاء ملفات النسق باستخدام ghostscript، مثلاً، ويجب أن تكون موجودة في نفس الدليل الموجود فيه ملفات الخطوط أو أدلة afm الفرعية الخاصة بها.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_NOAFM			0	as-IN	আখৰটোৰ কাৰণে এটা ফৰমেট ফাইল (এটা .afm প্ৰসাৰণৰ সৈতে) বিচাৰি পোৱা নগ'ল \n%s\nসেইবাবে, আখৰটো ইনষ্টল কৰিব নোৱাৰি. ফৰমেট ফাইলবোৰ ঘ'ষ্টস্ক্ৰিপ্তৰ সৈতে সৃষ্টি কৰিব পৰা যাব, উদাহৰণ স্বৰূপে, আৰু একেখন নিৰ্দেশিকাত আখৰৰ ফাইল বা ইয়াৰ afm উপনিৰ্দেশিকা হিচাপে স্থান নিৰূপণ কৰিব লাগিব. 				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_NOAFM			50	be-BY	Файл фармату (канчатак назвы .afm) не быў знойдзены для шрыфту\n%s\n, і з гэтай прычыны шрыфт нельга ўстанавіць. Файлы фармату можна ствараць, напрыклад, з дапамогаю ghostscript, і змяшчаць у тым самым каталогу, што і шрыфтавыя файлы, або ў ягоным падкаталогу afm.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_NOAFM			0	bg	За шрифта не е намерен форматен файл (с разширение .afm).\n%s\nПоради това шрифтът не може да бъде инсталиран. Форматните файлове могат да бъдат създавани например с ghostscript и трябва да се намират в директорията с шрифтове или в нейна поддиректория с име afm.				2002-02-02 02:02:02
@@ -7462,7 +7462,7 @@ padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_NOAFM			0
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_NOAFM			0	zh-TW	沒有找到字型\n%s\n的格式檔案(副檔名 .afm )，因此無法安裝這個字型。格式檔案是由 ghostscript 生成，并存放在相同的字型目錄或其子目錄 afm 之中。				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_NOAFM			0	zu	Ifayela lefomethi (elinesandiso esithi .afm) alitholakalanga kulolu hlobo lwamagama\n%s\nngakho-ke, lolu hlobo lwamagama angeke lufakwe. Amafayela efomethi awanakwenziwa ngombhalo-mbumbulu, ngokwesibonelo, futhi kumelwe afakwe ohlwini olufanayo lwezikhombo lwamafayela njengamafayela ohlobo lwamagama noma uhlu lwawo oluncane lwezikhombo lwe-afm.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_NOWRITEABLEFONTSDIR			50	af	'n Gids met 'n skryfbare font.dir-lêer is nie in die fontpad geleë nie. Fonts kan dus nie geïnstalleer word nie.				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_NOWRITEABLEFONTSDIR			0	ar	في مسار الخط، لم يتم العثور على دليل يحتوي على ملف fonts.dir قابل للكتابة. لهذا لا يمكن تثبيت الخطوط.				20040507 14:22:40
+padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_NOWRITEABLEFONTSDIR			0	ar	ليس هناك دليل يقع في Fontpath ويحتوي ملف fonts.dir قابل للكتابة. لذا، لا يمكن تثبيت الخطوط.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_NOWRITEABLEFONTSDIR			0	as-IN	এখন নিৰ্দেশিকাত থকা লিখিব পৰা fonts.dir ফাইল আখৰপথত অৱস্থিত নহয়. সেইবাবে, আখৰবোৰ ইলষ্টল কৰিব নোৱাৰি. 				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_NOWRITEABLEFONTSDIR			50	be-BY	У зборы сцежак Fontpath не знайшлося каталогу з файлам fonts.dir, у які можна запісваць. Таму, шрыфты немагчыма ўстанавіць.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_NOWRITEABLEFONTSDIR			0	bg	Във Fontpath не е намерена директория, съдържаща файл fonts.dir с право за писане. Поради това инсталирането на шрифтове е невъзможно.				2002-02-02 02:02:02
@@ -7538,7 +7538,7 @@ padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_NOWRITEAB
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_NOWRITEABLEFONTSDIR			0	zh-TW	字型路徑之中沒有有效的可讀寫的 fonts.dir 檔案。因此無法安裝任何字型。				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_NOWRITEABLEFONTSDIR			0	zu	Idayrekthri equkethe ifayela le-fonts.dir elibhalekayo ayibekwanga endaweni yendlela yohlobo lwamagama. Ngakho-ke, izinhlobo zamagama azinakufakwa emshinini.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_NUMBEROFFONTSIMPORTED			50	af	%d nuwe fonts is bygevoeg.				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_NUMBEROFFONTSIMPORTED			0	ar	تم تثبيت %d خطاَ (خطوط) جديداً (جديدة).				20040507 14:22:40
+padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_NUMBEROFFONTSIMPORTED			0	ar	تم تثبيت %d خطوط جديدة.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_NUMBEROFFONTSIMPORTED			0	as-IN	%d নতুন আখৰবোৰ যোগ কৰা হৈছিল. 				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_NUMBEROFFONTSIMPORTED			50	be-BY	%d новых шрыфтаў дададзена.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_NUMBEROFFONTSIMPORTED			0	bg	Добавени бяха %d нови шрифта.				2002-02-02 02:02:02
@@ -7616,7 +7616,7 @@ padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_NUMBEROFF
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_NUMBEROFFONTSIMPORTED			0	zh-TW	已經安裝 %d 新的字型。				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_NUMBEROFFONTSIMPORTED			0	zu	izihlobo zamagama ezingu- %d zongeziwe.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_OVERWRITEALL			50	af	Alles				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_OVERWRITEALL			0	ar	الكل				20040507 14:22:40
+padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_OVERWRITEALL			0	ar	الكل				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_OVERWRITEALL			0	as-IN	সকলো				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_OVERWRITEALL			50	be-BY	Усе				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_OVERWRITEALL			0	bg	Всички				2002-02-02 02:02:02
@@ -7694,7 +7694,7 @@ padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_OVERWRITE
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_OVERWRITEALL			0	zh-TW	全部				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_OVERWRITEALL			0	zu	Konke				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_OVERWRITENONE			50	af	Geen				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_OVERWRITENONE			0	ar	بدون				20040507 14:22:40
+padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_OVERWRITENONE			0	ar	لاشيء				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_OVERWRITENONE			0	as-IN	কোনো নহয়				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_OVERWRITENONE			50	be-BY	Няма				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_OVERWRITENONE			0	bg	Няма				2002-02-02 02:02:02
@@ -7772,7 +7772,7 @@ padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_OVERWRITE
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_OVERWRITENONE			0	zh-TW	無				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_OVERWRITENONE			0	zu	Lutho				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_QUERYOVERWRITE			50	af	Wil u werklik oor hierdie fontlêer skryf?\n  %s				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_QUERYOVERWRITE			0	ar	هل تريد بالفعل\n الكتابة فوق ملف الخط\n   %s؟				20040507 14:22:40
+padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_QUERYOVERWRITE			0	ar	هل تريد حقاً الكتابة على ملف الخطّ؟\n   %s				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_QUERYOVERWRITE			0	as-IN	আপুনি সঁচাকৈ আখৰৰ ফাইলটো পুনৰ লিখিব বিচাৰে নেকি?\n   %s				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_QUERYOVERWRITE			50	be-BY	Ці сапраўды жадаеце запісаць паўзверх гэтага шрыфтавага файла?\n   %s				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_FONTIMPORT_DIALOG	RID_FIMP_STR_QUERYOVERWRITE			0	bg	Наистина ли желаете файлът с шрифт да бъде презаписан?\n   %s				2002-02-02 02:02:02
@@ -8550,7 +8550,7 @@ padmin	source\padialog.src	0	string	RID_QRY_PRTNAME				0	zh-CN	新的打印机�
 padmin	source\padialog.src	0	string	RID_QRY_PRTNAME				0	zh-TW	新的印表機名稱(~N)				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_QRY_PRTNAME				0	zu	~Igama lomshicileli omusha				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_QUERY_DRIVERUSED				265	af	Daar is nog drukkers wat die drywer "%s" gebruik. Wil u dit werklik verwyder? Die ooreenstemmende drukkers sal ook verwyder word.				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_QUERY_DRIVERUSED				0	ar	مازالت هناك طابعات تستخدم برنامج التشغيل "%s". هل تريد حذفه بالفعل؟ سوف يؤدي ذلك لحذف الطابعات المعنية أيضاً.				20040507 14:22:41
+padmin	source\padialog.src	0	string	RID_QUERY_DRIVERUSED				265	ar	لا زالت هناك طابعات تستخدم المُشغّل "%s". هل فعلاًتريد إزالته؟ ستتم إزالة الطابعات الرتبطة كذلك.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_QUERY_DRIVERUSED				0	as-IN	এতিয়াও"%s" ড্ৰাইভাৰটো ব্যৱহাৰ কৰি থকা মুদ্ৰক আছে. আপুনি সঁচাকৈ ইয়াক আঁতৰাব বিচাৰে নেকি? সদৃশ মুদ্ৰকবোৰো আঁতৰ কৰা হ'ব. 				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_QUERY_DRIVERUSED				265	be-BY	Ёсць прынтэры, якія карыстаюцца драйверам "%s". Сапраўды хочаце выдаліць яго? Запісы пра адпаведныя прынтэры будуць таксама выдалены.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_QUERY_DRIVERUSED				0	bg	Все още има принтери, които ползват драйвера "%s". Наистина ли желаете премахването му? Съответните принтери също ще бъдат премахнати.				2002-02-02 02:02:02
@@ -8705,7 +8705,7 @@ padmin	source\padialog.src	0	string	RID_QUERY_REMOVEDRIVER				0	zh-CN	真的要�
 padmin	source\padialog.src	0	string	RID_QUERY_REMOVEDRIVER				0	zh-TW	真要移除驅動程式<%s>？				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_QUERY_REMOVEDRIVER				0	zu	Ufuna ngempela ukugudluza umshayeli "%s"?				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_QUERY_REMOVEFONTFROMLIST				265	af	Wil u werklik die gemerkte fonts verwyder?				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_QUERY_REMOVEFONTFROMLIST				0	ar	هل تريد بالفعل حذف الخطوط المحددة؟				20040507 14:22:41
+padmin	source\padialog.src	0	string	RID_QUERY_REMOVEFONTFROMLIST				265	ar	هل تريد بالفعل حذف الخطوط المحددة؟				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_QUERY_REMOVEFONTFROMLIST				0	as-IN	আপুনি সঁচাকৈ নিৰ্বাচিত আখৰবোৰ আঁতৰাব বিচাৰে নেকি?				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_QUERY_REMOVEFONTFROMLIST				265	be-BY	Сапраўды выдаліць пазначаныя шрыфты?				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_QUERY_REMOVEFONTFROMLIST				0	bg	Наистина ли желаете избраните шрифтове да бъдат премахнати?				2002-02-02 02:02:02
@@ -8783,7 +8783,7 @@ padmin	source\padialog.src	0	string	RID_QUERY_REMOVEFONTFROMLIST				0	zh-CN	真�
 padmin	source\padialog.src	0	string	RID_QUERY_REMOVEFONTFROMLIST				0	zh-TW	真要刪除選中的字型？				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_QUERY_REMOVEFONTFROMLIST				0	zu	Ufuna ngempela ukugudluza lezinhlobo zamagama ezikhethiwe ?				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_QUERY_REMOVEPRINTER				265	af	Wil u werklik hierdie drukker verwyder?				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_QUERY_REMOVEPRINTER				0	ar	هل تريد حذف هذه الطابعة بالفعل؟				20040507 14:22:41
+padmin	source\padialog.src	0	string	RID_QUERY_REMOVEPRINTER				265	ar	هل حقاً تريد إزالة هذه الطابعة؟				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_QUERY_REMOVEPRINTER				0	as-IN	আপুনি সঁচাকৈ এই মুদ্ৰকটো আঁতৰাব বিচাৰে নেকি?				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_QUERY_REMOVEPRINTER				265	be-BY	Сапраўды выдаліць гэты прынтэр?				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_QUERY_REMOVEPRINTER				0	bg	Наистина ли желаете принтерът да бъде премахнат?				2002-02-02 02:02:02
@@ -8861,7 +8861,7 @@ padmin	source\padialog.src	0	string	RID_QUERY_REMOVEPRINTER				0	zh-CN	真的要
 padmin	source\padialog.src	0	string	RID_QUERY_REMOVEPRINTER				0	zh-TW	真要移除這個印表機？				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_QUERY_REMOVEPRINTER				0	zu	Ufuna ngempela ukugudluza lo mshicileli ?				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_TXT_DRIVERDOESNOTEXIST				265	af	Die drywer vir die drukker "%s1" (%s2) is nie geïnstalleer nie. Die drukker kan dus nie ingetrek word nie.				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_TXT_DRIVERDOESNOTEXIST				0	ar	برنامج تشغيل الطابعة "%s1" (%s2) غير مُثتب. لهذا لا يمكن استيراد الطابعة.				20040507 14:22:41
+padmin	source\padialog.src	0	string	RID_TXT_DRIVERDOESNOTEXIST				265	ar	مُشغّل الطابعة "%s1" (%s2) غير مُثبّت. لذلك لا يمكن استيراد الطابعة.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_TXT_DRIVERDOESNOTEXIST				0	as-IN	"%s1" (%s2) ৰ কাৰণে ড্ৰাইভাৰটো ইনষ্টল কৰা হোৱা নাই. সেইবাবে মুদ্ৰকটো আমদানি কৰিব নোৱাৰি.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_TXT_DRIVERDOESNOTEXIST				265	be-BY	Драйвер прынтэра "%s1" (%s2) не ўстаноўлены, таму гэты прынтэр не будзе імпартавацца.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_TXT_DRIVERDOESNOTEXIST				0	bg	Драйверът за принтера "%s1" (%s2) не е инсталиран. Поради това принтерът не може да бъде импортиран.				2002-02-02 02:02:02
@@ -10320,6 +10320,7 @@ padmin	source\padialog.src	0	string	RID_TXT_FONT_ULTRALIGHT				0	zh-CN	超细体
 padmin	source\padialog.src	0	string	RID_TXT_FONT_ULTRALIGHT				0	zh-TW	超細體				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_TXT_FONT_ULTRALIGHT				0	zu	Ukukhanya okulula				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_TXT_PRINTERADDFAILED				265	af	Die drukker "%s" kon nie bygevoeg word nie.				2002-02-02 02:02:02
+padmin	source\padialog.src	0	string	RID_TXT_PRINTERADDFAILED				265	ar	تعذرت إضافة الطابعة "%s".				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_TXT_PRINTERADDFAILED				0	as-IN	"%s" মুদ্ৰকটো যোগ কৰিব পৰা নগ'ল.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_TXT_PRINTERADDFAILED				265	be-BY	Не ўдалося дадаць прынтэр "%s".				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_TXT_PRINTERADDFAILED				0	bg	Принтерът "%s" не може да бъде добавен.				2002-02-02 02:02:02
@@ -10396,7 +10397,7 @@ padmin	source\padialog.src	0	string	RID_TXT_PRINTERADDFAILED				0	zh-CN	无法�
 padmin	source\padialog.src	0	string	RID_TXT_PRINTERADDFAILED				0	zh-TW	無法增加印表機「%s」。				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_TXT_PRINTERADDFAILED				0	zu	Umshini wokuprinta i-"%s" awufakwanga.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_TXT_PRINTERALREADYEXISTS				265	af	Daar bestaan reeds 'n drukker genaamd "%s". Hierdie drukker sal nie ingetrek word nie.				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_TXT_PRINTERALREADYEXISTS				0	ar	توجد بالفعل طابعة بالاسم "%s". لن يتم استيراد هذه الطابعة.				20040507 14:22:41
+padmin	source\padialog.src	0	string	RID_TXT_PRINTERALREADYEXISTS				265	ar	توجد مسبقاً طابعة بالاسم "%s". لن يتم استيراد هذه الطابعة.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_TXT_PRINTERALREADYEXISTS				0	as-IN	"%s" নামৰ মুদ্ৰকটো ইতিমধ্যে আছে.এই মুদ্ৰকটো আমদানি কৰা নহ'ব. 				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_TXT_PRINTERALREADYEXISTS				265	be-BY	Прынтэр "%s" ужо існуе, таму такі прынтэр не будзе імпартавацца.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_TXT_PRINTERALREADYEXISTS				0	bg	Вече съществува принтер с име "%s". Принтерът няма да бъде импортиран.				2002-02-02 02:02:02
@@ -10474,7 +10475,7 @@ padmin	source\padialog.src	0	string	RID_TXT_PRINTERALREADYEXISTS				0	zh-CN	已�
 padmin	source\padialog.src	0	string	RID_TXT_PRINTERALREADYEXISTS				0	zh-TW	已經存在一個同名<%s>印表機。因此不加入這個設備。				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_TXT_PRINTERALREADYEXISTS				0	zu	Umshicileli oqanjwe "%s" usekhona. Lo mshicileli angeke ahwetshelwe ngaphakathi.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_TXT_PRINTERWITHOUTCOMMAND				265	af	Die drukker "%s" het geen geldige opstelling nie en kan dus nie ingetrek word nie.				2002-02-02 02:02:02
-padmin	source\padialog.src	0	string	RID_TXT_PRINTERWITHOUTCOMMAND				0	ar	لم يتم تكوين الطابعة "%s"   بشكل كامل، لهذا لن يتم استيرادها.				20040507 14:22:41
+padmin	source\padialog.src	0	string	RID_TXT_PRINTERWITHOUTCOMMAND				265	ar	ليست هناك تهيئة صالحة للطابعة "%s"، لذا لن يتم استيرادها.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_TXT_PRINTERWITHOUTCOMMAND				0	as-IN	"%s"মুদ্ৰকটোৰ কোনো বৈধ ৰূপৰেখা নাই আৰু সেইবাবে, মুদ্ৰকটো আমদানি কৰিব নোৱাৰি.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_TXT_PRINTERWITHOUTCOMMAND				265	be-BY	Прынтэр "%s" не мае карэктных настаўленняў, таму імпартавацца не будзе.				2002-02-02 02:02:02
 padmin	source\padialog.src	0	string	RID_TXT_PRINTERWITHOUTCOMMAND				0	bg	Принтерът "%s" няма валидна конфигурация, поради което не може да бъде импортиран.				2002-02-02 02:02:02
@@ -14353,7 +14354,7 @@ padmin	source\rtsetup.src	0	string	RID_RTS_COMMANDPAGE	RID_RTS_CMD_STR_CONFIGURE
 padmin	source\rtsetup.src	0	string	RID_RTS_COMMANDPAGE	RID_RTS_CMD_STR_CONFIGURE_PRINTER			0	zh-TW	印表機				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	string	RID_RTS_COMMANDPAGE	RID_RTS_CMD_STR_CONFIGURE_PRINTER			0	zu	Umshicileli				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	string	RID_RTS_COMMANDPAGE	RID_RTS_CMD_STR_FAXHELP			0	af	Die bevelreël vir fakstoestelle word as volg uitgevoer: vir elke faks wat gestuur word, word "(TMP)" in die bevelreël vervang deur 'n tydelike lêer en "(PHONE)" in die bevelreël deur die faksnommer. Indien "(TMP)" in die bevelreël voorkom, sal die PostScript-kode via die lêer ondersteun word, maar andersins sal dit as standaardtoevoer aangestuur word (d.i. as 'n pyp).				2002-02-02 02:02:02
-padmin	source\rtsetup.src	0	string	RID_RTS_COMMANDPAGE	RID_RTS_CMD_STR_FAXHELP			0	ar	سيتم تنفيذ سطر الأمر في أجهزة الفاكس كالآتي: في كل مرة يتم فيها إرسال رسالة فاكس، سوف يتم استبدال "(TMP)" بملف مؤقت و "(PHONE)" برقم الفاكس. إذا وردت "(TMP)" في سطر الأوامر، يتم تمرير شيفرةPostScript  في ملف، فيما عدا ذلك، يتم تمريرها كإدخال قياسي (هذا يعني كـ Pipe).				20040507 14:22:42
+padmin	source\rtsetup.src	0	string	RID_RTS_COMMANDPAGE	RID_RTS_CMD_STR_FAXHELP			50	ar	سيتم تنفيذ سطر الأمر في أجهزة الفاكس كالآتي: في كل مرة يتم فيها إرسال فاكس، سوف يتم استبدال "(TMP)" بملف مؤقت و "(PHONE)" برقم الفاكس. إذا وردت "(TMP)" في سطر الأوامر، يتم تمرير شيفرة PostScript عبر ملف، فيما عدا ذلك، يتم تمريرها كإدخال قياسي (هذا يعني كـ Pipe).				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	string	RID_RTS_COMMANDPAGE	RID_RTS_CMD_STR_FAXHELP			0	as-IN	ফেক্স সঁজুলিবোৰৰ কাৰণে নিৰ্দেশ শাৰীটো তলত দিয়া ধৰণে কাৰ্যকৰী কৰা হৈছে: প্ৰতিটো পঠিওৱা ফেক্সৰ কাৰণে, নিৰ্দেশ শাৰীটোত "(TMP)" সাময়িক ফাইলৰ দ্বাৰা প্ৰতিস্থাপন কৰা হৈছে আৰু নিৰ্দেশ শাৰীটোত "(PHONE)" ফেক্স নম্বৰৰ দ্বাৰা প্ৰতিস্থাপন কৰা হৈছে. যদি "(TMP)" নিৰ্দেশ শাৰীটোত আবিৰ্ভাৱ হয়, প'ষ্টস্ক্ৰিপ্ত ক'ডটো এটা ফাইলৰ জৰিয়তে যোগান ধৰা হ'ব. (যেনে, এডাল পাইপ হিচাপে).				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	string	RID_RTS_COMMANDPAGE	RID_RTS_CMD_STR_FAXHELP			50	be-BY	Камандавы радок для факсавых прылад выконваецца такім чынам: для кожнага адсыланага факса, "(TMP)" у камандавым радку мяняецца на назву тымчасовага файла, і "(PHONE)" у камандавым радку мяняецца на нумар факса. Калі "(TMP)" прысутнічае ў камандавым радку, код "PostScript" будзе пададзены ў файле, іначай у паток стандартнага ўводу (напр., як pipe).				2002-02-02 02:02:02
 padmin	source\rtsetup.src	0	string	RID_RTS_COMMANDPAGE	RID_RTS_CMD_STR_FAXHELP			50	bg	Командният ред за устройства - факсове се изпълнява както следва: за всеки изпратен факс, "(TMP)" в командния ред се заменя с временен файл, а "(PHONE)" с факсимилния номер. Ако в командния ред присъства  "(TMP)", кодът на PostScript ще бъде подаден чрез файл, в противен случай - чрез стандартния вход (като канал).				2002-02-02 02:02:02
