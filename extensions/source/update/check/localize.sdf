@@ -13,9 +13,9 @@
 #
 #   $RCSfile: localize.sdf,v $
 #
-#   $Revision: 1.12 $
+#   $Revision: 1.13 $
 #
-#   last change: $Author: vg $ $Date: 2007-08-30 12:09:33 $
+#   last change: $Author: rt $ $Date: 2007-11-12 13:30:19 $
 #
 #   The Contents of this file are made available subject to
 #   the terms of GNU Lesser General Public License Version 2.1.
@@ -244,6 +244,7 @@ extensions	source\update\check\Jobs.xcu	0	value	.Jobs.Jobs.UpdateCheck.Arguments
 extensions	source\update\check\Jobs.xcu	0	value	.Jobs.Jobs.UpdateCheck.Arguments	UpdateFoundText			0	vi	Có sẵn một bản cập nhật mới.\nHãy nhấn vào nút « Được » để tới nơi Mạng, nơi bạn có khả năng khởi chạy việc tải xuống.				2002-02-02 02:02:02
 extensions	source\update\check\Jobs.xcu	0	value	.Jobs.Jobs.UpdateCheck.Arguments	UpdateFoundText			0	zh-CN	有新的更新。\n请单击“确定”打开网站，可以从该网站中开始下载更新。				2002-02-02 02:02:02
 extensions	source\update\check\Jobs.xcu	0	value	.Jobs.Jobs.UpdateCheck.Arguments	UpdateFoundText			0	zh-TW	有新的更新可用。\n按一下 [確定] 可開啟網站，您可於該網站開始下載。				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_CANCEL				0	ar	ألغي				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_CANCEL				13691	be-BY	Нічога				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_CANCEL				13691	bg	Отказ				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_CANCEL				0	br	Nullañ				2002-02-02 02:02:02
@@ -279,6 +280,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_CANCEL				0
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_CANCEL				1	vi	Thôi				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_CANCEL				0	zh-CN	取消				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_CANCEL				0	zh-TW	取消				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_CLOSE				0	ar	أغلق				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_CLOSE				13691	be-BY	Закрыць				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_CLOSE				13691	bg	Затваряне				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_CLOSE				0	br	Serriñ				2002-02-02 02:02:02
@@ -315,6 +317,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_CLOSE				1	
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_CLOSE				0	zh-CN	关闭				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_CLOSE				0	zh-TW	關閉				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_DOWNLOAD				13691	be-BY	Атрымаць				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_DOWNLOAD				0	ar	~نزل				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_DOWNLOAD				13691	bg	Из~тегляне				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_DOWNLOAD				0	br	Pellgargañ				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_DOWNLOAD				13691	cs	Stáhnout				2002-02-02 02:02:02
@@ -348,6 +351,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_DOWNLOAD			
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_DOWNLOAD				1	vi	Tải ~về				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_DOWNLOAD				0	zh-CN	下载(~D)				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_DOWNLOAD				0	zh-TW	下載(~D)				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_INSTALL				0	ar	~ثبت				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_INSTALL				13691	be-BY	Устанавіць				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_INSTALL				13691	bg	~Инсталиране				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_INSTALL				0	br	~Staliañ				2002-02-02 02:02:02
@@ -384,6 +388,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_INSTALL				
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_INSTALL				0	zh-CN	安装(~I)				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_INSTALL				0	zh-TW	安裝(~I)				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_PAUSE				13691	be-BY	Прыпыніць				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_PAUSE				0	ar	~اوقف				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_PAUSE				13691	bg	~Пауза				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_PAUSE				0	br	Paouez				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_PAUSE				13691	cs	Pozastavit				2002-02-02 02:02:02
@@ -418,6 +423,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_PAUSE				1	
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_PAUSE				0	zh-CN	暂停(~P)				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_PAUSE				0	zh-TW	暫停(~P)				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_RESUME				13691	be-BY	Узнавіць				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_RESUME				0	ar	~استأنف				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_RESUME				13691	bg	~Продължаване				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_RESUME				0	br	Adkeme~r				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_RESUME				13691	cs	Pokračovat				2002-02-02 02:02:02
@@ -451,6 +457,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_RESUME				0
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_RESUME				1	vi	~Tiếp tục				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_RESUME				0	zh-CN	继续(~R)				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_RESUME				0	zh-TW	繼續(~R)				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_AUTO_START				0	ar	بداية تنزيل التحديث.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_AUTO_START				13691	be-BY	Пачатае атрыманне абнаўлення.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_AUTO_START				13691	bg	Започва изтегляне на обновяване.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_AUTO_START				0	br	Pellgargadur an hizivadenn a grog.				2002-02-02 02:02:02
@@ -486,6 +493,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_AUTO_STA
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_AUTO_START				1	vi	Tiến trình tải về bản cập nhật đã khởi chạy.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_AUTO_START				0	zh-CN	开始下载更新软件包。				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_AUTO_START				0	zh-TW	開始下載更新。				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_DOWNLOAD_AVAIL				0	ar	انقر هنا للبدء في التثبيت.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_DOWNLOAD_AVAIL				13691	be-BY	Націснуць тут, каб пачаць устанаўленне.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_DOWNLOAD_AVAIL				13691	bg	Щракнете тук, за да започне инсталирането.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_DOWNLOAD_AVAIL				0	br	Klikañ amañ evit kregiñ gant ar staliañ.				2002-02-02 02:02:02
@@ -521,6 +529,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_DOWNLOAD
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_DOWNLOAD_AVAIL				1	vi	Nhấn vào đây để khởi chạy tiến trình cài đặt.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_DOWNLOAD_AVAIL				0	zh-CN	单击这里开始安装。				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_DOWNLOAD_AVAIL				0	zh-TW	按一下此處以開始安裝。				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_DOWNLOAD_PAUSED				0	ar	انقر هنا للاستئناف				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_DOWNLOAD_PAUSED				13691	be-BY	Націснуць тут, каб узнавіць.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_DOWNLOAD_PAUSED				13691	bg	Щракнете тук, за да продъжите.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_DOWNLOAD_PAUSED				0	br	Klikañ amañ evit kenderc'hel ganti.				2002-02-02 02:02:02
@@ -556,6 +565,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_DOWNLOAD
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_DOWNLOAD_PAUSED				1	vi	Nhấn vào đây để tiếp tục.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_DOWNLOAD_PAUSED				0	zh-CN	单击这里继续安装。				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_DOWNLOAD_PAUSED				0	zh-TW	按一下此處以繼續。				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_ERROR_DOWNLOADING				0	ar	انقر هنا للمزيد من المعلومات.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_ERROR_DOWNLOADING				13691	be-BY	Націснуць тут, каб атрымаць больш інфармацыі.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_ERROR_DOWNLOADING				13691	bg	Щракнете тук за повече информация.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_ERROR_DOWNLOADING				0	br	Klikañ amañ evit gouzout muioc'h.				2002-02-02 02:02:02
@@ -591,6 +601,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_ERROR_DO
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_ERROR_DOWNLOADING				1	vi	Nhấn vào đây để xem thêm thông tin.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_ERROR_DOWNLOADING				0	zh-CN	单击这里获得更多信息。				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_ERROR_DOWNLOADING				0	zh-TW	按一下此處以取得更多資訊。				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_AUTO_START				0	ar	%PRODUCTNAME تحديث متوفر				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_AUTO_START				13691	be-BY	Ёсць абнаўленне %PRODUCTNAME				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_AUTO_START				13691	bg	Налице е обновяване на %PRODUCTNAME				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_AUTO_START				0	br	Hizivadenn %PRODUCTNAME hegerz				2002-02-02 02:02:02
@@ -626,6 +637,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_AUTO_S
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_AUTO_START				1	vi	Bản cập nhật %PRODUCTNAME sẵn sàng				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_AUTO_START				0	zh-CN	%PRODUCTNAME 更新可用				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_AUTO_START				0	zh-TW	有可用的 %PRODUCTNAME 更新				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLOADING				0	ar	تنزيل التحديث في تقدم				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLOADING				13691	be-BY	Адбываецца атрыманне абнаўлення				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLOADING				13691	bg	Изтегля се обновяване				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLOADING				0	br	Pellgargadur an hizivadenn o redek				2002-02-02 02:02:02
@@ -661,6 +673,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLO
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLOADING				1	vi	Tiến trình tải về bản cập nhật đang chạy				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLOADING				0	zh-CN	更新软件包下载中				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLOADING				0	zh-TW	正在下載更新				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLOAD_AVAIL				0	ar	تنزيل التحديث اكتمل.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLOAD_AVAIL				13691	be-BY	Атрыманне абнаўлення завершана				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLOAD_AVAIL				13691	bg	Свалянето на обновяването завърши				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLOAD_AVAIL				0	br	Pellgargadur an hizivadenn peurc'hraet				2002-02-02 02:02:02
@@ -696,6 +709,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLO
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLOAD_AVAIL				1	vi	Tiến trình tải về bản cập nhật đã chạy xong				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLOAD_AVAIL				0	zh-CN	更新软件包下载完毕				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLOAD_AVAIL				0	zh-TW	更新下載已完成				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLOAD_PAUSED				0	ar	تنزيل التحديث موقوف				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLOAD_PAUSED				13691	be-BY	Атрыманне абнаўлення прыпынена				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLOAD_PAUSED				13691	bg	Изтеглянето на обновяване е в пауза				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLOAD_PAUSED				0	br	Pellgargadur an hizivadenn war ehan				2002-02-02 02:02:02
@@ -730,6 +744,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLO
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLOAD_PAUSED				1	vi	Tiến trình tải về bản cập nhật bị tạm dừng				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLOAD_PAUSED				0	zh-CN	暂停下载更新软件包				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLOAD_PAUSED				0	zh-TW	更新下載已暫停				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_ERROR_DOWNLOADING				0	ar	تنزيل التحديث متوقف				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_ERROR_DOWNLOADING				13691	be-BY	Атрыманне абнаўлення затармазілася				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_ERROR_DOWNLOADING				13691	bg	Изтеглянето на обновяване блокира				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_ERROR_DOWNLOADING				0	br	Pellgargadur an hizivadenn gannet				2002-02-02 02:02:02
@@ -764,6 +779,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_ERROR_
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_ERROR_DOWNLOADING				1	vi	Tiến trình tải về bản cập nhật bị ngừng chạy				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_ERROR_DOWNLOADING				0	zh-CN	更新软件包下载停顿				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_ERROR_DOWNLOADING				0	zh-TW	更新下載已延遲				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_UPDATE_AVAIL				0	ar	%PRODUCTNAME تحديث متوفر				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_UPDATE_AVAIL				13691	be-BY	Ёсць абнаўленне %PRODUCTNAME				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_UPDATE_AVAIL				13691	bg	Налице е обновяване на %PRODUCTNAME				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_UPDATE_AVAIL				0	br	Hizivadenn %PRODUCTNAME hegerz				2002-02-02 02:02:02
@@ -799,6 +815,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_UPDATE
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_UPDATE_AVAIL				1	vi	Bản cập nhật %PRODUCTNAME sẵn sàng				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_UPDATE_AVAIL				0	zh-CN	%PRODUCTNAME 更新可用				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_UPDATE_AVAIL				0	zh-TW	有可用的 %PRODUCTNAME 更新				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_UPDATE_NO_DOWN				0	ar	%PRODUCTNAME تحديث متوفر				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_UPDATE_NO_DOWN				13691	be-BY	Ёсць абнаўленне %PRODUCTNAME				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_UPDATE_NO_DOWN				13691	bg	Налице е обновяване на %PRODUCTNAME				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_UPDATE_NO_DOWN				0	br	Hizivadenn %PRODUCTNAME hegerz				2002-02-02 02:02:02
@@ -834,6 +851,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_UPDATE
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_UPDATE_NO_DOWN				1	vi	Bản cập nhật %PRODUCTNAME sẵn sàng				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_UPDATE_NO_DOWN				0	zh-CN	%PRODUCTNAME 更新可用				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_UPDATE_NO_DOWN				0	zh-TW	有可用的 %PRODUCTNAME 更新				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_UPDATE_AVAIL				0	ar	انقر هنا للبدء في التنزيل				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_UPDATE_AVAIL				13691	be-BY	Націснуць тут, каб пачаць атрыманне.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_UPDATE_AVAIL				13691	bg	Щракнете, тук за да започне изтеглянето.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_UPDATE_AVAIL				0	br	Klikañ amañ evit kregiñ gant ar staliañ.				2002-02-02 02:02:02
@@ -869,6 +887,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_UPDATE_A
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_UPDATE_AVAIL				1	vi	Nhấn vào đây để khởi chạy tiến trình tải về.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_UPDATE_AVAIL				0	zh-CN	单击这里开始下载。				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_UPDATE_AVAIL				0	zh-TW	按一下此處以開始下載。				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_UPDATE_NO_DOWN				0	ar	انقر هنا للمزيد من المعلومات.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_UPDATE_NO_DOWN				13691	be-BY	Націснуць тут, каб прачытаць пра гэта больш.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_UPDATE_NO_DOWN				13691	bg	Щракнете тук за повече информация.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_UPDATE_NO_DOWN				0	br	Klikañ amañ evit gouzout muioc'h.				2002-02-02 02:02:02
@@ -904,6 +923,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_UPDATE_N
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_UPDATE_NO_DOWN				1	vi	Nhấn vào đây để xem thêm thông tin.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_UPDATE_NO_DOWN				0	zh-CN	单击这里获得更多信息。				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_UPDATE_NO_DOWN				0	zh-TW	按一下此處以取得更多資訊。				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_FT_DESCRIPTION				0	ar	الوصف				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_FT_DESCRIPTION				13691	be-BY	Апісанне				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_FT_DESCRIPTION				13691	bg	Описание				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_FT_DESCRIPTION				0	br	Deskrivadur				2002-02-02 02:02:02
@@ -939,6 +959,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_FT_DESCRIPTION	
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_FT_DESCRIPTION				1	vi	Mô tả				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_FT_DESCRIPTION				0	zh-CN	说明				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_FT_DESCRIPTION				0	zh-TW	描述				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_FT_STATUS				0	ar	الحالة				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_FT_STATUS				13691	be-BY	Статус				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_FT_STATUS				13691	bg	Състояние				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_FT_STATUS				0	br	Dezvad				2002-02-02 02:02:02
@@ -974,6 +995,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_FT_STATUS				0	
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_FT_STATUS				1	vi	Trạng thái				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_FT_STATUS				0	zh-CN	状态				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_FT_STATUS				0	zh-TW	狀態				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_BEGIN_INSTALL				0	ar	لتثبيت التحديث، %PRODUCTNAME %PRODUCTVERSION يحتاج ﻷن يكون مغلق. هل تريد أن تثبت التحديث اﻵن؟				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_BEGIN_INSTALL				13691	be-BY	Каб устанавіць абнаўленне, трэба закрыць %PRODUCTNAME %PRODUCTVERSION. Ці жадаеце ўстанавіць абнаўленне зараз?				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_BEGIN_INSTALL				13691	bg	За да инсталирате обновяването, трябва да затворите %PRODUCTNAME %PRODUCTVERSION. Желаете ли да инсталирате обновлението сега?				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_BEGIN_INSTALL				0	br	Evit staliañ an hizivadenn-mañ e rank %PRODUCTNAME %PRODUCTVERSION bezañ serret. Fellout a ra deoc'h staliañ an hizivadenn bremañ ?				2002-02-02 02:02:02
@@ -1007,6 +1029,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_BEGIN_INSTA
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_BEGIN_INSTALL				1	vi	Để cài đặt bản cập nhật, trước tiên cần phải đóng %PRODUCTNAME %PRODUCTVERSION. Bạn có muốn cài đặt bản cập nhật ngay bây giờ không?				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_BEGIN_INSTALL				0	zh-CN	要安装更新软件包，需关闭 %PRODUCTNAME %PRODUCTVERSION。您想现在就安装更新软件包吗？				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_BEGIN_INSTALL				0	zh-TW	若要安裝更新，需要關閉 %PRODUCTNAME %PRODUCTVERSION。您要立即安裝更新嗎？				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CANCEL_DOWNLOAD				0	ar	هل ترغب حقا في إلغاء التنزيل؟				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CANCEL_DOWNLOAD				13691	be-BY	Ці сапраўды жадаеце спыніць атрыманне?				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CANCEL_DOWNLOAD				13691	bg	Наистина ли желаете да прекъснете изтеглянето?				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CANCEL_DOWNLOAD				0	br	Dilezel ar pellgargañ a fell deoc'h da vat ?				2002-02-02 02:02:02
@@ -1042,6 +1065,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CANCEL_DOWN
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CANCEL_DOWNLOAD				1	vi	Bạn thực sự muốn thôi tiến trình tải về không?				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CANCEL_DOWNLOAD				0	zh-CN	您确实想取消下载吗？				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CANCEL_DOWNLOAD				0	zh-TW	您確定要取消下載？				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CANCEL_TITLE				0	ar	%PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CANCEL_TITLE				13691	be-BY	%PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CANCEL_TITLE				13691	bg	%PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CANCEL_TITLE				0	br	%PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
@@ -1077,6 +1101,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CANCEL_TITL
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CANCEL_TITLE				1	vi	%PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CANCEL_TITLE				0	zh-CN	%PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CANCEL_TITLE				0	zh-TW	%PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CHECKING				0	ar	يفحص...				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CHECKING				13691	be-BY	Спраўджваецца...				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CHECKING				13691	bg	Протича проверка...				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CHECKING				0	br	O wiriañ...				2002-02-02 02:02:02
@@ -1112,6 +1137,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CHECKING			
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CHECKING				1	vi	Đang kiểm tra...				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CHECKING				0	zh-CN	正在查看...				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CHECKING				0	zh-TW	檢查...				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CHECKING_ERR				0	ar	يفحص أي تحديث فاشل.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CHECKING_ERR				13691	be-BY	Не ўдалося праверыць наяўнасць абнаўлення.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CHECKING_ERR				13691	bg	Проверката за обновяване бе неуспешна.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CHECKING_ERR				0	br	O wiriañ un hizivadenn c'hwitet.				2002-02-02 02:02:02
@@ -1147,6 +1173,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CHECKING_ER
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CHECKING_ERR				1	vi	Lỗi kiểm tra có cập nhật.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CHECKING_ERR				0	zh-CN	查看更新软件包失败。				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CHECKING_ERR				0	zh-TW	檢查更新失敗。				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DLG_TITLE				0	ar	افحص للتحديثات				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DLG_TITLE				13691	be-BY	Спраўдзіць наяўнасць абнаўленняў				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DLG_TITLE				13691	bg	Проверка за обновяване				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DLG_TITLE				0	br	Gwiriañ an hivizadennoù				2002-02-02 02:02:02
@@ -1182,6 +1209,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DLG_TITLE		
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DLG_TITLE				1	vi	Kiểm tra có cập nhật				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DLG_TITLE				0	zh-CN	查看更新软件包				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DLG_TITLE				0	zh-TW	檢查是否有更新				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOADING				0	ar	تنزيل %PRODUCTNAME %NEXTVERSION ...				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOADING				13691	be-BY	Атрымліваецца %PRODUCTNAME %NEXTVERSION...				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOADING				13691	bg	Изтегля се %PRODUCTNAME %NEXTVERSION...				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOADING				0	br	O pellgargañ %PRODUCTNAME %NEXTVERSION...				2002-02-02 02:02:02
@@ -1217,6 +1245,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOADING
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOADING				1	vi	Đang tải về %PRODUCTNAME %NEXTVERSION...				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOADING				0	zh-CN	正在下载 %PRODUCTNAME %NEXTVERSION...				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOADING				0	zh-TW	正在下載 %PRODUCTNAME %NEXTVERSION...				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_DESCR				0	ar	%FILE_NAME نزل في %DOWNLOAD_PATH.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_DESCR				13691	be-BY	Быў атрыманы %FILE_NAME і запісаны ў %DOWNLOAD_PATH.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_DESCR				13691	bg	%FILE_NAME бе изтеглен в %DOWNLOAD_PATH.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_DESCR				0	br	%FILE_NAME zo bet pellgarget davit %DOWNLOAD_PATH.				2002-02-02 02:02:02
@@ -1251,6 +1280,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_DE
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_DESCR				1	vi	%FILE_NAME đã được tải về %DOWNLOAD_PATH.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_DESCR				0	zh-CN	已经将 %FILE_NAME 下载到 %DOWNLOAD_PATH。				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_DESCR				0	zh-TW	%FILE_NAME 已下載至 %DOWNLOAD_PATH。				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_ERR				0	ar	تنزيل %PRODUCTNAME %NEXTVERSION تباطأ في...				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_ERR				13691	be-BY	Атрыманне %PRODUCTNAME %NEXTVERSION затармазілася на				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_ERR				13691	bg	Изтеглянето на %PRODUCTNAME %NEXTVERSION блокира на				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_ERR				0	br	Pellgargadur eus %PRODUCTNAME %NEXTVERSION gannet e				2002-02-02 02:02:02
@@ -1285,6 +1315,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_ER
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_ERR				1	vi	Tiến trình tải về %PRODUCTNAME %NEXTVERSION bị ngừng chạy ở...				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_ERR				0	zh-CN	%PRODUCTNAME %NEXTVERSION 下载停顿在				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_ERR				0	zh-TW	正在下載延遲的 %PRODUCTNAME %NEXTVERSION 於				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_PAUSE				0	ar	تنزيل %PRODUCTNAME %NEXTVERSION متوقف في...				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_PAUSE				13691	be-BY	Атрыманне %PRODUCTNAME %NEXTVERSION прыпынена на...				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_PAUSE				13691	bg	Изтеглянето на %PRODUCTNAME %NEXTVERSION е спряно на...				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_PAUSE				0	br	Pellgargadur eus %PRODUCTNAME %NEXTVERSION lakaet war ehan e...				2002-02-02 02:02:02
@@ -1319,6 +1350,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_PA
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_PAUSE				1	vi	Tiến trình tải về %PRODUCTNAME %NEXTVERSION bị tạm dừng ở...				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_PAUSE				0	zh-CN	%PRODUCTNAME %NEXTVERSION 下载暂停在...				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_PAUSE				0	zh-TW	正在下載暫停的 %PRODUCTNAME %NEXTVERSION 於...				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_UNAVAIL				0	ar	التنزيل اﻵلي للتحديث غير متوفر حاليا. \n\nانقر ' نزل...' لتنزيل %PRODUCTNAME %NEXTVERSION يدويا من الموقع.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_UNAVAIL				13691	be-BY	Няма зараз магчымасці аўтаматычна атрымліваць абнаўленне.\n\nНацісніце 'Атрымаць...' каб самастойна ўзяць %PRODUCTNAME %NEXTVERSION з сеціўнай пляцоўкі.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_UNAVAIL				13691	bg	Автоматичното изтегляне на обновление не е достъпно в момента.\n\nНатиснете „Изтегляне...“ за да изтеглите ръчно %PRODUCTNAME %NEXTVERSION от уебсайта.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_UNAVAIL				0	br	N'eo ket hegerz evit bremañ pellgargañ emgefreek an hizivadennoù.\n\nKlikañ war 'Pellgargañ...' evit pellgargañ %PRODUCTNAME %NEXTVERSION dre zorn diouzh al load internet.				2002-02-02 02:02:02
@@ -1353,6 +1385,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_UN
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_UNAVAIL				1	vi	Khả năng tự động tải về bản cập nhật hiện thời không sẵn sàng.\n\nNhấn vào « Tải về... » để tự tải %PRODUCTNAME %NEXTVERSION xuống địa chỉ WWW.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_UNAVAIL				0	zh-CN	目前更新软件包自动下载功能还不可用。\n\n请单击“下载...”手动从网站下载 %PRODUCTNAME %NEXTVERSION。				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_UNAVAIL				0	zh-TW	目前沒有提供自動下載更新。\n\n請按一下 [下載...] 以手動從網站下載 %PRODUCTNAME %NEXTVERSION。				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_WARN				0	ar	مكان التنزيل هو: %DOWNLOAD_PATH.\n\nيمكنك تغيير مكان التنزيل من أدوات – خيارات... - %PRODUCTNAME – حدث مباشرة.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_WARN				13691	be-BY	Месца атрымання такое: %DOWNLOAD_PATH.\n\nЯго можна запісаць у пункт Прылады – Настаўленні... - %PRODUCTNAME – Сеціўнае абнаўленне і актуалізаваць тамтэйшыя звесткі.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_WARN				13691	bg	Местоположението за изтегляне е: %DOWNLOAD_PATH.\n\nМожете да го промените от Инструменти - Настройки... - %PRODUCTNAME - Обновяване по Интернет.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_WARN				0	br	The download location is: %DOWNLOAD_PATH.\n\nUnder Tools – Options... - %PRODUCTNAME – Online Update you can change the download location.				2002-02-02 02:02:02
@@ -1381,6 +1414,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_WA
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_WARN				0	sv	Hämtningsplatsen är: %DOWNLOAD_PATH.\n\nUnder Verktyg – Alternativ ... - %PRODUCTNAME – Online-uppdatering kan du ändra hämtningsplats.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_WARN				1	vi	Vị trí tải về: %DOWNLOAD_PATH.\n\nCũng có thể thay đổi vị trí tải về trong « Công cụ > Tùy chọn... > %PRODUCTNAME > Cập nhật trực tuyến ».				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_WARN				0	zh-CN	下载位置为：%DOWNLOAD_PATH。\n\n在“工具 - 选项... - %PRODUCTNAME - 联机更新”中，您可以修改下载位置。				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_ERROR				0	ar	لا يمكن تشغيل تطبيق المثبت، رجاءا شغل %FILE_NAME في %DOWNLOAD_PATH يدويا.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_ERROR				13691	be-BY	Не ўдалося пусціць праграму-інсталятар, вам давядзецца самастойна пусціць %FILE_NAME %DOWNLOAD_PATH.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_ERROR				13691	bg	Не може да се стартира приложението за инсталиране. Моля, стартирайте ръчно %FILE_NAME в %DOWNLOAD_PATH.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_ERROR				0	br	N'haller ket lañsañ ar meziant staliañ, mar plij, lañsit %FILE_NAME in %DOWNLOAD_PATH dre zorn.				2002-02-02 02:02:02
@@ -1415,6 +1449,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_ERR
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_ERROR				1	vi	Không thể chạy ứng dụng cài đặt; hãy tự chạy %FILE_NAME trong %DOWNLOAD_PATH.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_ERROR				0	zh-CN	如果无法运行安装程序，请手动运行 %DOWNLOAD_PATH 目录中的 %FILE_NAME。				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_ERROR				0	zh-TW	無法執行安裝應用程式，請手動執行 %DOWNLOAD_PATH 中的 %FILE_NAME。				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_LATER				0	ar	ثبت ~لاحقا				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_LATER				13691	be-BY	Устанавіць пазней				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_LATER				13691	bg	Инсталиране ~по-късно				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_LATER				0	br	Staliañ diwezhatoc'h				2002-02-02 02:02:02
@@ -1450,6 +1485,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_LAT
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_LATER				1	vi	Cài đặt ~sau				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_LATER				0	zh-CN	稍后安装(~L)				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_LATER				0	zh-TW	稍後安裝(~L)				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_NOW				0	ar	ثبت ~الآن				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_NOW				13691	be-BY	Устанавіць зараз				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_NOW				13691	bg	Инсталиране ~сега				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_NOW				0	br	Staliañ bremañ				2002-02-02 02:02:02
@@ -1485,6 +1521,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_NOW
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_NOW				1	vi	Cài đặt ~ngày				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_NOW				0	zh-CN	现在安装(~N)				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_NOW				0	zh-TW	立即安裝(~N)				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_NO_UPD_FOUND				0	ar	%PRODUCTNAME %PRODUCTVERSION محدث .				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_NO_UPD_FOUND				13691	be-BY	Версія %PRODUCTNAME %PRODUCTVERSION з'яўляецца актуальнай.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_NO_UPD_FOUND				13691	bg	%PRODUCTNAME %PRODUCTVERSION е последна версия.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_NO_UPD_FOUND				0	br	Hizivaet eo bet %PRODUCTNAME %PRODUCTVERSION.				2002-02-02 02:02:02
@@ -1520,6 +1557,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_NO_UPD_FOUN
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_NO_UPD_FOUND				1	vi	%PRODUCTNAME %PRODUCTVERSION là hiện thời.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_NO_UPD_FOUND				0	zh-CN	%PRODUCTNAME %PRODUCTVERSION 更新到最新版本。				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_NO_UPD_FOUND				0	zh-TW	%PRODUCTNAME %PRODUCTVERSION 已是最新版。				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_OVERWRITE_WARNING				0	ar	الملف بذاك الاسم موجود بالفعل ! هل تريد أن تعيد الكتابة فوق الملف الموجود؟ 				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_OVERWRITE_WARNING				13691	be-BY	Такая назва файла ўжо занятая! Ці жадаеце запісаць новы файл паўзверх старога?				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_OVERWRITE_WARNING				13691	bg	Файл с това име вече съществува! Желаете ли съществуващият файл да бъде презаписан?				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_OVERWRITE_WARNING				0	br	Ur restr gant an anv-mañ zo anezhi endeo ! Fellout a ra deoc'h flastrañ ar restr kozh ?				2002-02-02 02:02:02
@@ -1555,6 +1593,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_OVERWRITE_W
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_OVERWRITE_WARNING				1	vi	Một tập tin tên đó đã có. Bạn có muốn ghi đè lên nó không?				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_OVERWRITE_WARNING				0	zh-CN	该文件已经存在！您想要覆盖现有的文件吗？				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_OVERWRITE_WARNING				0	zh-TW	已存在同名的檔案！您要覆寫現有檔案嗎？				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_PERCENT				0	ar	%PERCENT%				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_PERCENT				13691	be-BY	%PERCENT%				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_PERCENT				13691	bg	%PERCENT%				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_PERCENT				0	br	%PERCENT%				2002-02-02 02:02:02
@@ -1590,6 +1629,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_PERCENT				
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_PERCENT				1	vi	%PERCENT%				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_PERCENT				0	zh-CN	%PERCENT%				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_PERCENT				0	zh-TW	%PERCENT%				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_READY_INSTALL				0	ar	تنزل %PRODUCTNAME %NEXTVERSION اكتمل. جاهز للتثبيت.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_READY_INSTALL				13691	be-BY	Атрыманне %PRODUCTNAME %NEXTVERSION завершана. Можна ўстанаўляць.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_READY_INSTALL				13691	bg	Изтеглянето на %PRODUCTNAME %NEXTVERSION завърши. Готов е за инсталиране.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_READY_INSTALL				0	br	Pellgargañ %PRODUCTNAME %NEXTVERSION kaset da benn. Prest da vezañ staliet.				2002-02-02 02:02:02
@@ -1625,6 +1665,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_READY_INSTA
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_READY_INSTALL				1	vi	Tiến trình %PRODUCTNAME %NEXTVERSION đã chạy xong. Sẵn sàng cài đặt.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_READY_INSTALL				0	zh-CN	%PRODUCTNAME %NEXTVERSION 下载完毕。准备安装。				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_READY_INSTALL				0	zh-TW	%PRODUCTNAME %NEXTVERSION 的下載已完成。準備進行安裝。				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_UPD_FOUND				0	ar	%PRODUCTNAME %NEXTVERSION متوفر.\n\nالاصدار المثبتة هي %PRODUCTNAME %PRODUCTVERSION.\n\nملاحظة: قبل تنزيل أي تحديث، رجاءا تأكد من أنك تملك حقوق الوصول الكافية لتثبيته.\nكلمة المرور، غالبا كلمة المرور للمدير أو الجذر مطلوبة.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_UPD_FOUND				13691	be-BY	Ёсць у наяўнасці %PRODUCTNAME %NEXTVERSION.\n\nУстаноўленая версія: %PRODUCTNAME %PRODUCTVERSION.\n\nЗаўважце, што перад атрыманнем абнаўлення, варта ўпэўніцца, што вы маеце дастаткова правоў доступу ў сістэме, каб устанавіць яго.\nМагчыма, спатрэбіцца пароль, звычайна гэта пароль Адміністратара ці Рута.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_UPD_FOUND				13691	bg	Налице е %PRODUCTNAME %NEXTVERSION.\n\nИнсталираната версия е %PRODUCTNAME %PRODUCTVERSION.\n\nБележка: Моля, преди изтеглянето на обновление се уверете, че имате достатъчни права за достъп, за да го инсталирате.\nМоже да се изисква парола, обикновено – администраторската.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_UPD_FOUND				0	br	Hegerz eo %PRODUCTNAME %NEXTVERSION.\n\nAn handelv staliet zo %PRODUCTNAME %PRODUCTVERSION.\n\nNotennit : Kent pellgargañ un hizivadenn, bezit asur hoc'h eus ar gwirioù haeziñ evit he staliañ.\nMarteze e vo goulennet ur ger tremen, ent boas hini an ardead pe ger tremen ar wrizienn.				2002-02-02 02:02:02
