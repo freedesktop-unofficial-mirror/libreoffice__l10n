@@ -13,9 +13,9 @@
 #
 #   $RCSfile: localize.sdf,v $
 #
-#   $Revision: 1.19 $
+#   $Revision: 1.20 $
 #
-#   last change: $Author: ihi $ $Date: 2007-08-17 15:22:45 $
+#   last change: $Author: hr $ $Date: 2007-12-17 16:31:14 $
 #
 #   The Contents of this file are made available subject to
 #   the terms of GNU Lesser General Public License Version 2.1.
@@ -42,7 +42,7 @@
 #
 #*************************************************************************
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	fixedline	DLG_EXPORT_EPGM	GRP_FORMAT			60	af	Lêerformaat				2002-02-02 02:02:02
-goodies	source\filter.vcl\epgm\dlgepgm.src	0	fixedline	DLG_EXPORT_EPGM	GRP_FORMAT			60	ar	تنسيق الملف				20040507 14:22:19
+goodies	source\filter.vcl\epgm\dlgepgm.src	0	fixedline	DLG_EXPORT_EPGM	GRP_FORMAT			60	ar	تنسيق الملف				2002-02-02 02:02:02
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	fixedline	DLG_EXPORT_EPGM	GRP_FORMAT			60	as-IN	ফাইল ফৰমেট				2002-02-02 02:02:02
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	fixedline	DLG_EXPORT_EPGM	GRP_FORMAT			60	be-BY	Фармат файла				2002-02-02 02:02:02
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	fixedline	DLG_EXPORT_EPGM	GRP_FORMAT			60	bg	Формат на файла				2002-02-02 02:02:02
@@ -121,7 +121,7 @@ goodies	source\filter.vcl\epgm\dlgepgm.src	0	fixedline	DLG_EXPORT_EPGM	GRP_FORMA
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	fixedline	DLG_EXPORT_EPGM	GRP_FORMAT			60	zh-TW	檔案格式				2002-02-02 02:02:02
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	fixedline	DLG_EXPORT_EPGM	GRP_FORMAT			60	zu	Isakhiwo sefayela				2002-02-02 02:02:02
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	modaldialog	DLG_EXPORT_EPGM				133	af	PGM-opsies				2002-02-02 02:02:02
-goodies	source\filter.vcl\epgm\dlgepgm.src	0	modaldialog	DLG_EXPORT_EPGM				133	ar	PGM خيارات				20040507 14:22:19
+goodies	source\filter.vcl\epgm\dlgepgm.src	0	modaldialog	DLG_EXPORT_EPGM				133	ar	خيارات PGM				2002-02-02 02:02:02
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	modaldialog	DLG_EXPORT_EPGM				133	as-IN	PGM বিকল্পবোৰ				2002-02-02 02:02:02
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	modaldialog	DLG_EXPORT_EPGM				133	be-BY	Магчымасці PGM				2002-02-02 02:02:02
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	modaldialog	DLG_EXPORT_EPGM				133	bg	Настройки за PGM				2002-02-02 02:02:02
@@ -200,7 +200,7 @@ goodies	source\filter.vcl\epgm\dlgepgm.src	0	modaldialog	DLG_EXPORT_EPGM				133	
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	modaldialog	DLG_EXPORT_EPGM				133	zh-TW	PGM選項				2002-02-02 02:02:02
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	modaldialog	DLG_EXPORT_EPGM				133	zu	Izinketho ze-PGM				2002-02-02 02:02:02
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	radiobutton	DLG_EXPORT_EPGM	RB_ASCII			45	af	~Teks				2002-02-02 02:02:02
-goodies	source\filter.vcl\epgm\dlgepgm.src	0	radiobutton	DLG_EXPORT_EPGM	RB_ASCII			45	ar	النص				20040507 14:22:19
+goodies	source\filter.vcl\epgm\dlgepgm.src	0	radiobutton	DLG_EXPORT_EPGM	RB_ASCII			45	ar	~نص				2002-02-02 02:02:02
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	radiobutton	DLG_EXPORT_EPGM	RB_ASCII			45	as-IN	~টেক্সট্				2002-02-02 02:02:02
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	radiobutton	DLG_EXPORT_EPGM	RB_ASCII			45	be-BY	Тэкст				2002-02-02 02:02:02
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	radiobutton	DLG_EXPORT_EPGM	RB_ASCII			45	bg	~Текстов				2002-02-02 02:02:02
@@ -250,7 +250,7 @@ goodies	source\filter.vcl\epgm\dlgepgm.src	0	radiobutton	DLG_EXPORT_EPGM	RB_ASCI
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	radiobutton	DLG_EXPORT_EPGM	RB_ASCII			45	pl	~Tekstowy				2002-02-02 02:02:02
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	radiobutton	DLG_EXPORT_EPGM	RB_ASCII			45	pt	~Texto				2002-02-02 02:02:02
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	radiobutton	DLG_EXPORT_EPGM	RB_ASCII			45	pt-BR	~Texto				2002-02-02 02:02:02
-goodies	source\filter.vcl\epgm\dlgepgm.src	0	radiobutton	DLG_EXPORT_EPGM	RB_ASCII			45	ru	Текст				2002-02-02 02:02:02
+goodies	source\filter.vcl\epgm\dlgepgm.src	0	radiobutton	DLG_EXPORT_EPGM	RB_ASCII			45	ru	Текстовый				2002-02-02 02:02:02
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	radiobutton	DLG_EXPORT_EPGM	RB_ASCII			45	rw	Inyandiko				2002-02-02 02:02:02
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	radiobutton	DLG_EXPORT_EPGM	RB_ASCII			45	sh-YU	~Tekst				2002-02-02 02:02:02
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	radiobutton	DLG_EXPORT_EPGM	RB_ASCII			45	sk	~Text				2002-02-02 02:02:02
@@ -279,7 +279,7 @@ goodies	source\filter.vcl\epgm\dlgepgm.src	0	radiobutton	DLG_EXPORT_EPGM	RB_ASCI
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	radiobutton	DLG_EXPORT_EPGM	RB_ASCII			45	zh-TW	文字(~T)				2002-02-02 02:02:02
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	radiobutton	DLG_EXPORT_EPGM	RB_ASCII			45	zu	~Umbhalo				2002-02-02 02:02:02
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	radiobutton	DLG_EXPORT_EPGM	RB_RAW			45	af	~Binêr				2002-02-02 02:02:02
-goodies	source\filter.vcl\epgm\dlgepgm.src	0	radiobutton	DLG_EXPORT_EPGM	RB_RAW			45	ar	ثنائي				20040507 14:22:19
+goodies	source\filter.vcl\epgm\dlgepgm.src	0	radiobutton	DLG_EXPORT_EPGM	RB_RAW			45	ar	~ثنائي				2002-02-02 02:02:02
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	radiobutton	DLG_EXPORT_EPGM	RB_RAW			45	as-IN	~বাইনেৰী				2002-02-02 02:02:02
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	radiobutton	DLG_EXPORT_EPGM	RB_RAW			45	be-BY	Двайковы				2002-02-02 02:02:02
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	radiobutton	DLG_EXPORT_EPGM	RB_RAW			45	bg	~Двоичен				2002-02-02 02:02:02
@@ -329,7 +329,7 @@ goodies	source\filter.vcl\epgm\dlgepgm.src	0	radiobutton	DLG_EXPORT_EPGM	RB_RAW	
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	radiobutton	DLG_EXPORT_EPGM	RB_RAW			45	pl	~Binarny				2002-02-02 02:02:02
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	radiobutton	DLG_EXPORT_EPGM	RB_RAW			45	pt	~Binário				2002-02-02 02:02:02
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	radiobutton	DLG_EXPORT_EPGM	RB_RAW			45	pt-BR	~Binário				2002-02-02 02:02:02
-goodies	source\filter.vcl\epgm\dlgepgm.src	0	radiobutton	DLG_EXPORT_EPGM	RB_RAW			45	ru	Бинарный				2002-02-02 02:02:02
+goodies	source\filter.vcl\epgm\dlgepgm.src	0	radiobutton	DLG_EXPORT_EPGM	RB_RAW			45	ru	Двоичный				2002-02-02 02:02:02
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	radiobutton	DLG_EXPORT_EPGM	RB_RAW			45	rw	Nyabibiri				2002-02-02 02:02:02
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	radiobutton	DLG_EXPORT_EPGM	RB_RAW			45	sh-YU	~Binarno				2002-02-02 02:02:02
 goodies	source\filter.vcl\epgm\dlgepgm.src	0	radiobutton	DLG_EXPORT_EPGM	RB_RAW			45	sk	~Binárny				2002-02-02 02:02:02
