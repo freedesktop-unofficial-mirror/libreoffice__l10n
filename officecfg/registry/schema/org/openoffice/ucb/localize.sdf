@@ -13,9 +13,9 @@
 #
 #   $RCSfile: localize.sdf,v $
 #
-#   $Revision: 1.7 $
+#   $Revision: 1.8 $
 #
-#   last change: $Author: rt $ $Date: 2005-09-08 15:47:11 $
+#   last change: $Author: hr $ $Date: 2007-12-17 13:09:16 $
 #
 #   The Contents of this file are made available subject to
 #   the terms of GNU Lesser General Public License Version 2.1.
@@ -42,7 +42,6 @@
 #
 #*************************************************************************
 #
-officecfg	registry\schema\org\openoffice\ucb\Configuration.xcs	0	desc	....ContentProviderData				0	ar	Contains data describing the configuration parameters of a Content Provider.				2003-10-21 15:24:56.263
 officecfg	registry\schema\org\openoffice\ucb\Configuration.xcs	0	desc	....ContentProviderData				0	ca	Contains data describing the configuration parameters of a Content Provider.				2003-10-21 15:24:56.263
 officecfg	registry\schema\org\openoffice\ucb\Configuration.xcs	0	desc	....ContentProviderData				0	cs	Contains data describing the configuration parameters of a Content Provider.				2003-10-21 15:24:56.263
 officecfg	registry\schema\org\openoffice\ucb\Configuration.xcs	0	desc	....ContentProviderData				0	da	Contains data describing the configuration parameters of a Content Provider.				2003-10-21 15:24:56.263
@@ -66,7 +65,6 @@ officecfg	registry\schema\org\openoffice\ucb\Configuration.xcs	0	desc	....Conten
 officecfg	registry\schema\org\openoffice\ucb\Configuration.xcs	0	desc	....ContentProviderData				0	tr	Contains data describing the configuration parameters of a Content Provider.				2003-10-21 16:54:08.14
 officecfg	registry\schema\org\openoffice\ucb\Configuration.xcs	0	desc	....ContentProviderData				0	zh-CN	含有描述内容提供程序的配置参数的数据。				2002-02-02 02:02:02
 officecfg	registry\schema\org\openoffice\ucb\Configuration.xcs	0	desc	....ContentProviderData				0	zh-TW	Contains data describing the configuration parameters of a Content Provider.				2002-02-02 02:02:02
-officecfg	registry\schema\org\openoffice\ucb\Configuration.xcs	0	desc	....ContentProviderData.Arguments				0	ar	Contains additional arguments for UCP creation.				2003-10-21 15:24:56.263
 officecfg	registry\schema\org\openoffice\ucb\Configuration.xcs	0	desc	....ContentProviderData.Arguments				0	ca	Contains additional arguments for UCP creation.				2003-10-21 15:24:56.263
 officecfg	registry\schema\org\openoffice\ucb\Configuration.xcs	0	desc	....ContentProviderData.Arguments				0	cs	Contains additional arguments for UCP creation.				2003-10-21 15:24:56.263
 officecfg	registry\schema\org\openoffice\ucb\Configuration.xcs	0	desc	....ContentProviderData.Arguments				0	da	Contains additional arguments for UCP creation.				2003-10-21 15:24:56.263
@@ -90,7 +88,6 @@ officecfg	registry\schema\org\openoffice\ucb\Configuration.xcs	0	desc	....Conten
 officecfg	registry\schema\org\openoffice\ucb\Configuration.xcs	0	desc	....ContentProviderData.Arguments				0	tr	Contains additional arguments for UCP creation.				2003-10-21 16:54:08.14
 officecfg	registry\schema\org\openoffice\ucb\Configuration.xcs	0	desc	....ContentProviderData.Arguments				0	zh-CN	含有用于建立 UCP 的其他变量。				2002-02-02 02:02:02
 officecfg	registry\schema\org\openoffice\ucb\Configuration.xcs	0	desc	....ContentProviderData.Arguments				0	zh-TW	Contains additional arguments for UCP creation.				2002-02-02 02:02:02
-officecfg	registry\schema\org\openoffice\ucb\Configuration.xcs	0	desc	....ContentProviderData.ServiceName				0	ar	Specifies the name of the UNO service to be used to instantiate the UCP.				2003-10-21 15:24:56.263
 officecfg	registry\schema\org\openoffice\ucb\Configuration.xcs	0	desc	....ContentProviderData.ServiceName				0	ca	Specifies the name of the UNO service to be used to instantiate the UCP.				2003-10-21 15:24:56.263
 officecfg	registry\schema\org\openoffice\ucb\Configuration.xcs	0	desc	....ContentProviderData.ServiceName				0	cs	Specifies the name of the UNO service to be used to instantiate the UCP.				2003-10-21 15:24:56.263
 officecfg	registry\schema\org\openoffice\ucb\Configuration.xcs	0	desc	....ContentProviderData.ServiceName				0	da	Specifies the name of the UNO service to be used to instantiate the UCP.				2003-10-21 15:24:56.263
@@ -114,7 +111,6 @@ officecfg	registry\schema\org\openoffice\ucb\Configuration.xcs	0	desc	....Conten
 officecfg	registry\schema\org\openoffice\ucb\Configuration.xcs	0	desc	....ContentProviderData.ServiceName				0	tr	Specifies the name of the UNO service to be used to instantiate the UCP.				2003-10-21 16:54:08.14
 officecfg	registry\schema\org\openoffice\ucb\Configuration.xcs	0	desc	....ContentProviderData.ServiceName				0	zh-CN	指定用于实例化 UCP 的 UNO 服务的名称。				2002-02-02 02:02:02
 officecfg	registry\schema\org\openoffice\ucb\Configuration.xcs	0	desc	....ContentProviderData.ServiceName				0	zh-TW	Specifies the name of the UNO service to be used to instantiate the UCP.				2002-02-02 02:02:02
-officecfg	registry\schema\org\openoffice\ucb\Configuration.xcs	0	desc	....ContentProviderData.URLTemplate				0	ar	Contains the URL template.				2003-10-21 15:24:56.263
 officecfg	registry\schema\org\openoffice\ucb\Configuration.xcs	0	desc	....ContentProviderData.URLTemplate				0	ca	Contains the URL template.				2003-10-21 15:24:56.263
 officecfg	registry\schema\org\openoffice\ucb\Configuration.xcs	0	desc	....ContentProviderData.URLTemplate				0	cs	Contains the URL template.				2003-10-21 15:24:56.263
 officecfg	registry\schema\org\openoffice\ucb\Configuration.xcs	0	desc	....ContentProviderData.URLTemplate				0	da	Contains the URL template.				2003-10-21 15:24:56.263
@@ -138,7 +134,6 @@ officecfg	registry\schema\org\openoffice\ucb\Configuration.xcs	0	desc	....Conten
 officecfg	registry\schema\org\openoffice\ucb\Configuration.xcs	0	desc	....ContentProviderData.URLTemplate				0	tr	Contains the URL template.				2003-10-21 16:54:08.14
 officecfg	registry\schema\org\openoffice\ucb\Configuration.xcs	0	desc	....ContentProviderData.URLTemplate				0	zh-CN	含有 URL 样式。				2002-02-02 02:02:02
 officecfg	registry\schema\org\openoffice\ucb\Configuration.xcs	0	desc	....ContentProviderData.URLTemplate				0	zh-TW	Contains the URL template.				2002-02-02 02:02:02
-officecfg	registry\schema\org\openoffice\ucb\Configuration.xcs	0	desc	....ContentProviders				0	ar	Contains a root entry for Content Provider configurations.				2003-10-21 15:24:56.263
 officecfg	registry\schema\org\openoffice\ucb\Configuration.xcs	0	desc	....ContentProviders				0	ca	Contains a root entry for Content Provider configurations.				2003-10-21 15:24:56.263
 officecfg	registry\schema\org\openoffice\ucb\Configuration.xcs	0	desc	....ContentProviders				0	cs	Contains a root entry for Content Provider configurations.				2003-10-21 15:24:56.263
 officecfg	registry\schema\org\openoffice\ucb\Configuration.xcs	0	desc	....ContentProviders				0	da	Contains a root entry for Content Provider configurations.				2003-10-21 15:24:56.263
@@ -162,7 +157,6 @@ officecfg	registry\schema\org\openoffice\ucb\Configuration.xcs	0	desc	....Conten
 officecfg	registry\schema\org\openoffice\ucb\Configuration.xcs	0	desc	....ContentProviders				0	tr	Contains a root entry for Content Provider configurations.				2003-10-21 16:54:08.14
 officecfg	registry\schema\org\openoffice\ucb\Configuration.xcs	0	desc	....ContentProviders				0	zh-CN	含有内容提供程序配置的根条目。				2002-02-02 02:02:02
 officecfg	registry\schema\org\openoffice\ucb\Configuration.xcs	0	desc	....ContentProviders				0	zh-TW	Contains a root entry for Content Provider configurations.				2002-02-02 02:02:02
-officecfg	registry\schema\org\openoffice\ucb\Configuration.xcs	0	desc	....ContentProvidersDataPrimaryKeys				0	ar	Specifies primary keys for Content Provider configuration data.				2003-10-21 15:24:56.263
 officecfg	registry\schema\org\openoffice\ucb\Configuration.xcs	0	desc	....ContentProvidersDataPrimaryKeys				0	ca	Specifies primary keys for Content Provider configuration data.				2003-10-21 15:24:56.263
 officecfg	registry\schema\org\openoffice\ucb\Configuration.xcs	0	desc	....ContentProvidersDataPrimaryKeys				0	cs	Specifies primary keys for Content Provider configuration data.				2003-10-21 15:24:56.263
 officecfg	registry\schema\org\openoffice\ucb\Configuration.xcs	0	desc	....ContentProvidersDataPrimaryKeys				0	da	Specifies primary keys for Content Provider configuration data.				2003-10-21 15:24:56.263
@@ -186,7 +180,6 @@ officecfg	registry\schema\org\openoffice\ucb\Configuration.xcs	0	desc	....Conten
 officecfg	registry\schema\org\openoffice\ucb\Configuration.xcs	0	desc	....ContentProvidersDataPrimaryKeys				0	tr	Specifies primary keys for Content Provider configuration data.				2003-10-21 16:54:08.14
 officecfg	registry\schema\org\openoffice\ucb\Configuration.xcs	0	desc	....ContentProvidersDataPrimaryKeys				0	zh-CN	指定内容提供程序的配置数据的主键。				2002-02-02 02:02:02
 officecfg	registry\schema\org\openoffice\ucb\Configuration.xcs	0	desc	....ContentProvidersDataPrimaryKeys				0	zh-TW	Specifies primary keys for Content Provider configuration data.				2002-02-02 02:02:02
-officecfg	registry\schema\org\openoffice\ucb\Configuration.xcs	0	desc	....ContentProvidersDataPrimaryKeys.SecondaryKeys				0	ar	Specifies a set of secondary keys for Content Provider configuration for the UCB.				2003-10-21 15:24:56.263
 officecfg	registry\schema\org\openoffice\ucb\Configuration.xcs	0	desc	....ContentProvidersDataPrimaryKeys.SecondaryKeys				0	ca	Specifies a set of secondary keys for Content Provider configuration for the UCB.				2003-10-21 15:24:56.263
 officecfg	registry\schema\org\openoffice\ucb\Configuration.xcs	0	desc	....ContentProvidersDataPrimaryKeys.SecondaryKeys				0	cs	Specifies a set of secondary keys for Content Provider configuration for the UCB.				2003-10-21 15:24:56.263
 officecfg	registry\schema\org\openoffice\ucb\Configuration.xcs	0	desc	....ContentProvidersDataPrimaryKeys.SecondaryKeys				0	da	Specifies a set of secondary keys for Content Provider configuration for the UCB.				2003-10-21 15:24:56.263
@@ -210,7 +203,6 @@ officecfg	registry\schema\org\openoffice\ucb\Configuration.xcs	0	desc	....Conten
 officecfg	registry\schema\org\openoffice\ucb\Configuration.xcs	0	desc	....ContentProvidersDataPrimaryKeys.SecondaryKeys				0	tr	Specifies a set of secondary keys for Content Provider configuration for the UCB.				2003-10-21 16:54:08.14
 officecfg	registry\schema\org\openoffice\ucb\Configuration.xcs	0	desc	....ContentProvidersDataPrimaryKeys.SecondaryKeys				0	zh-CN	指定 UCB 的内容提供程序配置的次键集合。				2002-02-02 02:02:02
 officecfg	registry\schema\org\openoffice\ucb\Configuration.xcs	0	desc	....ContentProvidersDataPrimaryKeys.SecondaryKeys				0	zh-TW	Specifies a set of secondary keys for Content Provider configuration for the UCB.				2002-02-02 02:02:02
-officecfg	registry\schema\org\openoffice\ucb\Configuration.xcs	0	desc	....ContentProvidersDataSecondaryKeys				0	ar	Specifies secondary keys for Content Provider configuration data.				2003-10-21 15:24:56.263
 officecfg	registry\schema\org\openoffice\ucb\Configuration.xcs	0	desc	....ContentProvidersDataSecondaryKeys				0	ca	Specifies secondary keys for Content Provider configuration data.				2003-10-21 15:24:56.263
 officecfg	registry\schema\org\openoffice\ucb\Configuration.xcs	0	desc	....ContentProvidersDataSecondaryKeys				0	cs	Specifies secondary keys for Content Provider configuration data.				2003-10-21 15:24:56.263
 officecfg	registry\schema\org\openoffice\ucb\Configuration.xcs	0	desc	....ContentProvidersDataSecondaryKeys				0	da	Specifies secondary keys for Content Provider configuration data.				2003-10-21 15:24:56.263
@@ -234,7 +226,6 @@ officecfg	registry\schema\org\openoffice\ucb\Configuration.xcs	0	desc	....Conten
 officecfg	registry\schema\org\openoffice\ucb\Configuration.xcs	0	desc	....ContentProvidersDataSecondaryKeys				0	tr	Specifies secondary keys for Content Provider configuration data.				2003-10-21 16:54:08.14
 officecfg	registry\schema\org\openoffice\ucb\Configuration.xcs	0	desc	....ContentProvidersDataSecondaryKeys				0	zh-CN	指定内容提供程序的配置数据的次键。				2002-02-02 02:02:02
 officecfg	registry\schema\org\openoffice\ucb\Configuration.xcs	0	desc	....ContentProvidersDataSecondaryKeys				0	zh-TW	Specifies secondary keys for Content Provider configuration data.				2002-02-02 02:02:02
-officecfg	registry\schema\org\openoffice\ucb\Configuration.xcs	0	desc	....ContentProvidersDataSecondaryKeys.ProviderData				0	ar	Specifies a set of Content Provider configuration data for the UCB.				2003-10-21 15:24:56.263
 officecfg	registry\schema\org\openoffice\ucb\Configuration.xcs	0	desc	....ContentProvidersDataSecondaryKeys.ProviderData				0	ca	Specifies a set of Content Provider configuration data for the UCB.				2003-10-21 15:24:56.263
 officecfg	registry\schema\org\openoffice\ucb\Configuration.xcs	0	desc	....ContentProvidersDataSecondaryKeys.ProviderData				0	cs	Specifies a set of Content Provider configuration data for the UCB.				2003-10-21 15:24:56.263
 officecfg	registry\schema\org\openoffice\ucb\Configuration.xcs	0	desc	....ContentProvidersDataSecondaryKeys.ProviderData				0	da	Specifies a set of Content Provider configuration data for the UCB.				2003-10-21 15:24:56.263
@@ -258,7 +249,6 @@ officecfg	registry\schema\org\openoffice\ucb\Configuration.xcs	0	desc	....Conten
 officecfg	registry\schema\org\openoffice\ucb\Configuration.xcs	0	desc	....ContentProvidersDataSecondaryKeys.ProviderData				0	tr	Specifies a set of Content Provider configuration data for the UCB.				2003-10-21 16:54:08.14
 officecfg	registry\schema\org\openoffice\ucb\Configuration.xcs	0	desc	....ContentProvidersDataSecondaryKeys.ProviderData				0	zh-CN	指定 UCB 的内容提供程序配置数据的集合。				2002-02-02 02:02:02
 officecfg	registry\schema\org\openoffice\ucb\Configuration.xcs	0	desc	....ContentProvidersDataSecondaryKeys.ProviderData				0	zh-TW	Specifies a set of Content Provider configuration data for the UCB.				2002-02-02 02:02:02
-officecfg	registry\schema\org\openoffice\ucb\Hierarchy.xcs	0	desc	....Entry				0	ar	Specifies an entry of the hierarchy. There are two types of entries: folders and links. Folders are containers for other hierarchy elements. Links are pointers to any other resource. 				2003-10-21 15:24:56.263
 officecfg	registry\schema\org\openoffice\ucb\Hierarchy.xcs	0	desc	....Entry				0	ca	Specifies an entry of the hierarchy. There are two types of entries: folders and links. Folders are containers for other hierarchy elements. Links are pointers to any other resource. 				2003-10-21 15:24:56.263
 officecfg	registry\schema\org\openoffice\ucb\Hierarchy.xcs	0	desc	....Entry				0	cs	Specifies an entry of the hierarchy. There are two types of entries: folders and links. Folders are containers for other hierarchy elements. Links are pointers to any other resource. 				2003-10-21 15:24:56.263
 officecfg	registry\schema\org\openoffice\ucb\Hierarchy.xcs	0	desc	....Entry				0	da	Specifies an entry of the hierarchy. There are two types of entries: folders and links. Folders are containers for other hierarchy elements. Links are pointers to any other resource. 				2003-10-21 15:24:56.263
@@ -282,7 +272,6 @@ officecfg	registry\schema\org\openoffice\ucb\Hierarchy.xcs	0	desc	....Entry				0
 officecfg	registry\schema\org\openoffice\ucb\Hierarchy.xcs	0	desc	....Entry				0	tr	Specifies an entry of the hierarchy. There are two types of entries: folders and links. Folders are containers for other hierarchy elements. Links are pointers to any other resource. 				2003-10-21 16:54:08.14
 officecfg	registry\schema\org\openoffice\ucb\Hierarchy.xcs	0	desc	....Entry				0	zh-CN	指定等级式结构的条目。有两种类型的条目：文件夹和链接。文件夹是其他等级式结构元素的容器。链接是指向其他资源的指针。 				2002-02-02 02:02:02
 officecfg	registry\schema\org\openoffice\ucb\Hierarchy.xcs	0	desc	....Entry				0	zh-TW	Specifies an entry of the hierarchy. There are two types of entries: folders and links. Folders are containers for other hierarchy elements. Links are pointers to any other resource. 				2002-02-02 02:02:02
-officecfg	registry\schema\org\openoffice\ucb\Hierarchy.xcs	0	desc	....Entry.Children				0	ar	Specifies the children (other hierarchy entries) of the item.				2003-10-21 15:24:56.263
 officecfg	registry\schema\org\openoffice\ucb\Hierarchy.xcs	0	desc	....Entry.Children				0	ca	Specifies the children (other hierarchy entries) of the item.				2003-10-21 15:24:56.263
 officecfg	registry\schema\org\openoffice\ucb\Hierarchy.xcs	0	desc	....Entry.Children				0	cs	Specifies the children (other hierarchy entries) of the item.				2003-10-21 15:24:56.263
 officecfg	registry\schema\org\openoffice\ucb\Hierarchy.xcs	0	desc	....Entry.Children				0	da	Specifies the children (other hierarchy entries) of the item.				2003-10-21 15:24:56.263
@@ -306,7 +295,6 @@ officecfg	registry\schema\org\openoffice\ucb\Hierarchy.xcs	0	desc	....Entry.Chil
 officecfg	registry\schema\org\openoffice\ucb\Hierarchy.xcs	0	desc	....Entry.Children				0	tr	Specifies the children (other hierarchy entries) of the item.				2003-10-21 16:54:08.14
 officecfg	registry\schema\org\openoffice\ucb\Hierarchy.xcs	0	desc	....Entry.Children				0	zh-CN	指定项的子项 (其他等级式结构条目)。				2002-02-02 02:02:02
 officecfg	registry\schema\org\openoffice\ucb\Hierarchy.xcs	0	desc	....Entry.Children				0	zh-TW	Specifies the children (other hierarchy entries) of the item.				2002-02-02 02:02:02
-officecfg	registry\schema\org\openoffice\ucb\Hierarchy.xcs	0	desc	....Entry.TargetURL				0	ar	Specifies the target URL of the entry of the hierarchy.				2003-10-21 15:24:56.263
 officecfg	registry\schema\org\openoffice\ucb\Hierarchy.xcs	0	desc	....Entry.TargetURL				0	ca	Specifies the target URL of the entry of the hierarchy.				2003-10-21 15:24:56.263
 officecfg	registry\schema\org\openoffice\ucb\Hierarchy.xcs	0	desc	....Entry.TargetURL				0	cs	Specifies the target URL of the entry of the hierarchy.				2003-10-21 15:24:56.263
 officecfg	registry\schema\org\openoffice\ucb\Hierarchy.xcs	0	desc	....Entry.TargetURL				0	da	Specifies the target URL of the entry of the hierarchy.				2003-10-21 15:24:56.263
@@ -330,7 +318,6 @@ officecfg	registry\schema\org\openoffice\ucb\Hierarchy.xcs	0	desc	....Entry.Targ
 officecfg	registry\schema\org\openoffice\ucb\Hierarchy.xcs	0	desc	....Entry.TargetURL				0	tr	Specifies the target URL of the entry of the hierarchy.				2003-10-21 16:54:08.14
 officecfg	registry\schema\org\openoffice\ucb\Hierarchy.xcs	0	desc	....Entry.TargetURL				0	zh-CN	指定等级式结构条目的目标 URL。				2002-02-02 02:02:02
 officecfg	registry\schema\org\openoffice\ucb\Hierarchy.xcs	0	desc	....Entry.TargetURL				0	zh-TW	Specifies the target URL of the entry of the hierarchy.				2002-02-02 02:02:02
-officecfg	registry\schema\org\openoffice\ucb\Hierarchy.xcs	0	desc	....Entry.Title				0	ar	Specifies the title of an entry of the hierarchy.				2003-10-21 15:24:56.263
 officecfg	registry\schema\org\openoffice\ucb\Hierarchy.xcs	0	desc	....Entry.Title				0	ca	Specifies the title of an entry of the hierarchy.				2003-10-21 15:24:56.263
 officecfg	registry\schema\org\openoffice\ucb\Hierarchy.xcs	0	desc	....Entry.Title				0	cs	Specifies the title of an entry of the hierarchy.				2003-10-21 15:24:56.263
 officecfg	registry\schema\org\openoffice\ucb\Hierarchy.xcs	0	desc	....Entry.Title				0	da	Specifies the title of an entry of the hierarchy.				2003-10-21 15:24:56.263
@@ -354,7 +341,6 @@ officecfg	registry\schema\org\openoffice\ucb\Hierarchy.xcs	0	desc	....Entry.Titl
 officecfg	registry\schema\org\openoffice\ucb\Hierarchy.xcs	0	desc	....Entry.Title				0	tr	Specifies the title of an entry of the hierarchy.				2003-10-21 16:54:08.14
 officecfg	registry\schema\org\openoffice\ucb\Hierarchy.xcs	0	desc	....Entry.Title				0	zh-CN	指定等级式结构条目的标题。				2002-02-02 02:02:02
 officecfg	registry\schema\org\openoffice\ucb\Hierarchy.xcs	0	desc	....Entry.Title				0	zh-TW	Specifies the title of an entry of the hierarchy.				2002-02-02 02:02:02
-officecfg	registry\schema\org\openoffice\ucb\Hierarchy.xcs	0	desc	....Entry.Type				0	ar	Specifies the type of the hierarchy entry. Currently supported: Link (0) and Folder (1).				2003-10-21 15:24:56.263
 officecfg	registry\schema\org\openoffice\ucb\Hierarchy.xcs	0	desc	....Entry.Type				0	ca	Specifies the type of the hierarchy entry. Currently supported: Link (0) and Folder (1).				2003-10-21 15:24:56.263
 officecfg	registry\schema\org\openoffice\ucb\Hierarchy.xcs	0	desc	....Entry.Type				0	cs	Specifies the type of the hierarchy entry. Currently supported: Link (0) and Folder (1).				2003-10-21 15:24:56.263
 officecfg	registry\schema\org\openoffice\ucb\Hierarchy.xcs	0	desc	....Entry.Type				0	da	Specifies the type of the hierarchy entry. Currently supported: Link (0) and Folder (1).				2003-10-21 15:24:56.263
@@ -378,7 +364,6 @@ officecfg	registry\schema\org\openoffice\ucb\Hierarchy.xcs	0	desc	....Entry.Type
 officecfg	registry\schema\org\openoffice\ucb\Hierarchy.xcs	0	desc	....Entry.Type				0	tr	Specifies the type of the hierarchy entry. Currently supported: Link (0) and Folder (1).				2003-10-21 16:54:08.14
 officecfg	registry\schema\org\openoffice\ucb\Hierarchy.xcs	0	desc	....Entry.Type				0	zh-CN	指定等级式结构条目的类型。当前支持：链接 (0) 和文件夹 (1)。				2002-02-02 02:02:02
 officecfg	registry\schema\org\openoffice\ucb\Hierarchy.xcs	0	desc	....Entry.Type				0	zh-TW	Specifies the type of the hierarchy entry. Currently supported: Link (0) and Folder (1).				2002-02-02 02:02:02
-officecfg	registry\schema\org\openoffice\ucb\Hierarchy.xcs	0	desc	....Root				0	ar	Contains a set of top-level entries of the hierarchy.				2003-10-21 15:24:56.263
 officecfg	registry\schema\org\openoffice\ucb\Hierarchy.xcs	0	desc	....Root				0	ca	Contains a set of top-level entries of the hierarchy.				2003-10-21 15:24:56.263
 officecfg	registry\schema\org\openoffice\ucb\Hierarchy.xcs	0	desc	....Root				0	cs	Contains a set of top-level entries of the hierarchy.				2003-10-21 15:24:56.263
 officecfg	registry\schema\org\openoffice\ucb\Hierarchy.xcs	0	desc	....Root				0	da	Contains a set of top-level entries of the hierarchy.				2003-10-21 15:24:56.263
@@ -402,7 +387,6 @@ officecfg	registry\schema\org\openoffice\ucb\Hierarchy.xcs	0	desc	....Root				0	
 officecfg	registry\schema\org\openoffice\ucb\Hierarchy.xcs	0	desc	....Root				0	tr	Contains a set of top-level entries of the hierarchy.				2003-10-21 16:54:08.14
 officecfg	registry\schema\org\openoffice\ucb\Hierarchy.xcs	0	desc	....Root				0	zh-CN	含有等级式结构顶层条目的集合。				2002-02-02 02:02:02
 officecfg	registry\schema\org\openoffice\ucb\Hierarchy.xcs	0	desc	....Root				0	zh-TW	Contains a set of top-level entries of the hierarchy.				2002-02-02 02:02:02
-officecfg	registry\schema\org\openoffice\ucb\Store.xcs	0	desc	....ContentProperties				0	ar	Specifies the root entry for stored content properties.				2003-10-21 15:24:56.263
 officecfg	registry\schema\org\openoffice\ucb\Store.xcs	0	desc	....ContentProperties				0	ca	Specifies the root entry for stored content properties.				2003-10-21 15:24:56.263
 officecfg	registry\schema\org\openoffice\ucb\Store.xcs	0	desc	....ContentProperties				0	cs	Specifies the root entry for stored content properties.				2003-10-21 15:24:56.263
 officecfg	registry\schema\org\openoffice\ucb\Store.xcs	0	desc	....ContentProperties				0	da	Specifies the root entry for stored content properties.				2003-10-21 15:24:56.263
@@ -426,7 +410,6 @@ officecfg	registry\schema\org\openoffice\ucb\Store.xcs	0	desc	....ContentPropert
 officecfg	registry\schema\org\openoffice\ucb\Store.xcs	0	desc	....ContentProperties				0	tr	Specifies the root entry for stored content properties.				2003-10-21 16:54:08.14
 officecfg	registry\schema\org\openoffice\ucb\Store.xcs	0	desc	....ContentProperties				0	zh-CN	指定已存储的内容属性的根条目。				2002-02-02 02:02:02
 officecfg	registry\schema\org\openoffice\ucb\Store.xcs	0	desc	....ContentProperties				0	zh-TW	Specifies the root entry for stored content properties.				2002-02-02 02:02:02
-officecfg	registry\schema\org\openoffice\ucb\Store.xcs	0	desc	....Properties				0	ar	Specifies a set of property values.				2003-10-21 15:24:56.263
 officecfg	registry\schema\org\openoffice\ucb\Store.xcs	0	desc	....Properties				0	ca	Specifies a set of property values.				2003-10-21 15:24:56.263
 officecfg	registry\schema\org\openoffice\ucb\Store.xcs	0	desc	....Properties				0	cs	Specifies a set of property values.				2003-10-21 15:24:56.263
 officecfg	registry\schema\org\openoffice\ucb\Store.xcs	0	desc	....Properties				0	da	Specifies a set of property values.				2003-10-21 15:24:56.263
@@ -450,7 +433,6 @@ officecfg	registry\schema\org\openoffice\ucb\Store.xcs	0	desc	....Properties				
 officecfg	registry\schema\org\openoffice\ucb\Store.xcs	0	desc	....Properties				0	tr	Specifies a set of property values.				2003-10-21 16:54:08.14
 officecfg	registry\schema\org\openoffice\ucb\Store.xcs	0	desc	....Properties				0	zh-CN	指定属性值集合。				2002-02-02 02:02:02
 officecfg	registry\schema\org\openoffice\ucb\Store.xcs	0	desc	....Properties				0	zh-TW	Specifies a set of property values.				2002-02-02 02:02:02
-officecfg	registry\schema\org\openoffice\ucb\Store.xcs	0	desc	....Properties.Values				0	ar	Specifies a set of property values.				2003-10-21 15:24:56.263
 officecfg	registry\schema\org\openoffice\ucb\Store.xcs	0	desc	....Properties.Values				0	ca	Specifies a set of property values.				2003-10-21 15:24:56.263
 officecfg	registry\schema\org\openoffice\ucb\Store.xcs	0	desc	....Properties.Values				0	cs	Specifies a set of property values.				2003-10-21 15:24:56.263
 officecfg	registry\schema\org\openoffice\ucb\Store.xcs	0	desc	....Properties.Values				0	da	Specifies a set of property values.				2003-10-21 15:24:56.263
@@ -474,7 +456,6 @@ officecfg	registry\schema\org\openoffice\ucb\Store.xcs	0	desc	....Properties.Val
 officecfg	registry\schema\org\openoffice\ucb\Store.xcs	0	desc	....Properties.Values				0	tr	Specifies a set of property values.				2003-10-21 16:54:08.14
 officecfg	registry\schema\org\openoffice\ucb\Store.xcs	0	desc	....Properties.Values				0	zh-CN	指定属性值集合。				2002-02-02 02:02:02
 officecfg	registry\schema\org\openoffice\ucb\Store.xcs	0	desc	....Properties.Values				0	zh-TW	Specifies a set of property values.				2002-02-02 02:02:02
-officecfg	registry\schema\org\openoffice\ucb\Store.xcs	0	desc	....PropertyValue				0	ar	Specifies a property value.				2003-10-21 15:24:56.263
 officecfg	registry\schema\org\openoffice\ucb\Store.xcs	0	desc	....PropertyValue				0	ca	Specifies a property value.				2003-10-21 15:24:56.263
 officecfg	registry\schema\org\openoffice\ucb\Store.xcs	0	desc	....PropertyValue				0	cs	Specifies a property value.				2003-10-21 15:24:56.263
 officecfg	registry\schema\org\openoffice\ucb\Store.xcs	0	desc	....PropertyValue				0	da	Specifies a property value.				2003-10-21 15:24:56.263
@@ -498,7 +479,6 @@ officecfg	registry\schema\org\openoffice\ucb\Store.xcs	0	desc	....PropertyValue	
 officecfg	registry\schema\org\openoffice\ucb\Store.xcs	0	desc	....PropertyValue				0	tr	Specifies a property value.				2003-10-21 16:54:08.14
 officecfg	registry\schema\org\openoffice\ucb\Store.xcs	0	desc	....PropertyValue				0	zh-CN	指定属性值。				2002-02-02 02:02:02
 officecfg	registry\schema\org\openoffice\ucb\Store.xcs	0	desc	....PropertyValue				0	zh-TW	Specifies a property value.				2002-02-02 02:02:02
-officecfg	registry\schema\org\openoffice\ucb\Store.xcs	0	desc	....PropertyValue.Attributes				0	ar	Specifies property attributes.				2003-10-21 15:24:56.263
 officecfg	registry\schema\org\openoffice\ucb\Store.xcs	0	desc	....PropertyValue.Attributes				0	ca	Specifies property attributes.				2003-10-21 15:24:56.263
 officecfg	registry\schema\org\openoffice\ucb\Store.xcs	0	desc	....PropertyValue.Attributes				0	cs	Specifies property attributes.				2003-10-21 15:24:56.263
 officecfg	registry\schema\org\openoffice\ucb\Store.xcs	0	desc	....PropertyValue.Attributes				0	da	Specifies property attributes.				2003-10-21 15:24:56.263
@@ -522,7 +502,6 @@ officecfg	registry\schema\org\openoffice\ucb\Store.xcs	0	desc	....PropertyValue.
 officecfg	registry\schema\org\openoffice\ucb\Store.xcs	0	desc	....PropertyValue.Attributes				0	tr	Specifies property attributes.				2003-10-21 16:54:08.14
 officecfg	registry\schema\org\openoffice\ucb\Store.xcs	0	desc	....PropertyValue.Attributes				0	zh-CN	指定属性的属性。				2002-02-02 02:02:02
 officecfg	registry\schema\org\openoffice\ucb\Store.xcs	0	desc	....PropertyValue.Attributes				0	zh-TW	Specifies property attributes.				2002-02-02 02:02:02
-officecfg	registry\schema\org\openoffice\ucb\Store.xcs	0	desc	....PropertyValue.Handle				0	ar	Specifies the numeric property identifier.				2003-10-21 15:24:56.263
 officecfg	registry\schema\org\openoffice\ucb\Store.xcs	0	desc	....PropertyValue.Handle				0	ca	Specifies the numeric property identifier.				2003-10-21 15:24:56.263
 officecfg	registry\schema\org\openoffice\ucb\Store.xcs	0	desc	....PropertyValue.Handle				0	cs	Specifies the numeric property identifier.				2003-10-21 15:24:56.263
 officecfg	registry\schema\org\openoffice\ucb\Store.xcs	0	desc	....PropertyValue.Handle				0	da	Specifies the numeric property identifier.				2003-10-21 15:24:56.263
@@ -546,7 +525,6 @@ officecfg	registry\schema\org\openoffice\ucb\Store.xcs	0	desc	....PropertyValue.
 officecfg	registry\schema\org\openoffice\ucb\Store.xcs	0	desc	....PropertyValue.Handle				0	tr	Specifies the numeric property identifier.				2003-10-21 16:54:08.14
 officecfg	registry\schema\org\openoffice\ucb\Store.xcs	0	desc	....PropertyValue.Handle				0	zh-CN	指定数字属性标志。				2002-02-02 02:02:02
 officecfg	registry\schema\org\openoffice\ucb\Store.xcs	0	desc	....PropertyValue.Handle				0	zh-TW	Specifies the numeric property identifier.				2002-02-02 02:02:02
-officecfg	registry\schema\org\openoffice\ucb\Store.xcs	0	desc	....PropertyValue.State				0	ar	Specifies the property state.				2003-10-21 15:24:56.263
 officecfg	registry\schema\org\openoffice\ucb\Store.xcs	0	desc	....PropertyValue.State				0	ca	Specifies the property state.				2003-10-21 15:24:56.263
 officecfg	registry\schema\org\openoffice\ucb\Store.xcs	0	desc	....PropertyValue.State				0	cs	Specifies the property state.				2003-10-21 15:24:56.263
 officecfg	registry\schema\org\openoffice\ucb\Store.xcs	0	desc	....PropertyValue.State				0	da	Specifies the property state.				2003-10-21 15:24:56.263
@@ -570,7 +548,6 @@ officecfg	registry\schema\org\openoffice\ucb\Store.xcs	0	desc	....PropertyValue.
 officecfg	registry\schema\org\openoffice\ucb\Store.xcs	0	desc	....PropertyValue.State				0	tr	Specifies the property state.				2003-10-21 16:54:08.14
 officecfg	registry\schema\org\openoffice\ucb\Store.xcs	0	desc	....PropertyValue.State				0	zh-CN	指定属性的状态。				2002-02-02 02:02:02
 officecfg	registry\schema\org\openoffice\ucb\Store.xcs	0	desc	....PropertyValue.State				0	zh-TW	Specifies the property state.				2002-02-02 02:02:02
-officecfg	registry\schema\org\openoffice\ucb\Store.xcs	0	desc	....PropertyValue.Value				0	ar	Specifies the Property value.				2003-10-21 15:24:56.263
 officecfg	registry\schema\org\openoffice\ucb\Store.xcs	0	desc	....PropertyValue.Value				0	ca	Specifies the Property value.				2003-10-21 15:24:56.263
 officecfg	registry\schema\org\openoffice\ucb\Store.xcs	0	desc	....PropertyValue.Value				0	cs	Specifies the Property value.				2003-10-21 15:24:56.263
 officecfg	registry\schema\org\openoffice\ucb\Store.xcs	0	desc	....PropertyValue.Value				0	da	Specifies the Property value.				2003-10-21 15:24:56.263
