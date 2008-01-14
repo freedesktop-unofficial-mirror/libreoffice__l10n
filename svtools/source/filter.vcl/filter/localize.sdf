@@ -13,9 +13,9 @@
 #
 #   $RCSfile: localize.sdf,v $
 #
-#   $Revision: 1.26 $
+#   $Revision: 1.27 $
 #
-#   last change: $Author: hr $ $Date: 2007-12-17 16:16:51 $
+#   last change: $Author: ihi $ $Date: 2008-01-14 19:36:51 $
 #
 #   The Contents of this file are made available subject to
 #   the terms of GNU Lesser General Public License Version 2.1.
@@ -114,7 +114,7 @@ svtools	source\filter.vcl\filter\dlgejpg.src	0	fixedline	DLG_EXPORT_JPG	GRP_COLO
 svtools	source\filter.vcl\filter\dlgejpg.src	0	fixedline	DLG_EXPORT_JPG	GRP_COLORS			90	ur-IN	تجزیئ رنگ				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgejpg.src	0	fixedline	DLG_EXPORT_JPG	GRP_COLORS			90	uz	Rang oʻlchami				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgejpg.src	0	fixedline	DLG_EXPORT_JPG	GRP_COLORS			90	ve	Thasululo ya muvhala				2002-02-02 02:02:02
-svtools	source\filter.vcl\filter\dlgejpg.src	0	fixedline	DLG_EXPORT_JPG	GRP_COLORS			90	vi	Độ phân giải màu				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\dlgejpg.src	0	fixedline	DLG_EXPORT_JPG	GRP_COLORS			90	vi	Phân giải màu				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgejpg.src	0	fixedline	DLG_EXPORT_JPG	GRP_COLORS			90	xh	Umbala ovelayo eskrinini				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgejpg.src	0	fixedline	DLG_EXPORT_JPG	GRP_COLORS			90	zh-CN	颜色分辨率				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgejpg.src	0	fixedline	DLG_EXPORT_JPG	GRP_COLORS			90	zh-TW	顏色解析度				2002-02-02 02:02:02
@@ -268,8 +268,9 @@ svtools	source\filter.vcl\filter\dlgejpg.src	0	fixedtext	DLG_EXPORT_JPG	FI_DESCR
 svtools	source\filter.vcl\filter\dlgejpg.src	0	fixedtext	DLG_EXPORT_JPG	FI_DESCR			81	ts	1: nhlayonts. nkoka\n100: nhlayonkul. nkoka				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgejpg.src	0	fixedtext	DLG_EXPORT_JPG	FI_DESCR			81	uk	1: мін. якість\n100: макс. якість				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgejpg.src	0	fixedtext	DLG_EXPORT_JPG	FI_DESCR			81	ur-IN	1: خوبی. کم\n100: خوبی. زیادہ				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\dlgejpg.src	0	fixedtext	DLG_EXPORT_JPG	FI_DESCR			81	uz	1: minimal sifat\n100: maksimal sifat				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgejpg.src	0	fixedtext	DLG_EXPORT_JPG	FI_DESCR			81	ve	1: min. ndeme\n100: max. ndeme				2002-02-02 02:02:02
-svtools	source\filter.vcl\filter\dlgejpg.src	0	fixedtext	DLG_EXPORT_JPG	FI_DESCR			81	vi	1: chất lượng tiểu\n100: chất lượng đại				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\dlgejpg.src	0	fixedtext	DLG_EXPORT_JPG	FI_DESCR			81	vi	1: chất lượng tối thiểu\n100: chất lượng tối đa				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgejpg.src	0	fixedtext	DLG_EXPORT_JPG	FI_DESCR			81	xh	1: obona buncinci. umgangatho\n100: obona bukhulu. umgangatho				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgejpg.src	0	fixedtext	DLG_EXPORT_JPG	FI_DESCR			81	zh-CN	1: 最差质量 \n100: 最佳质量				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgejpg.src	0	fixedtext	DLG_EXPORT_JPG	FI_DESCR			81	zh-TW	1: 最差品質 \n100: 最佳品質				2002-02-02 02:02:02
@@ -735,7 +736,7 @@ svtools	source\filter.vcl\filter\dlgepng.src	0	fixedtext	DLG_EXPORT_EPNG	FI_COMP
 svtools	source\filter.vcl\filter\dlgepng.src	0	fixedtext	DLG_EXPORT_EPNG	FI_COMPRESSION			80	ur-IN	دبانا 0..9				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgepng.src	0	fixedtext	DLG_EXPORT_EPNG	FI_COMPRESSION			80	uz	~Qisish 0..9				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgepng.src	0	fixedtext	DLG_EXPORT_EPNG	FI_COMPRESSION			80	ve	~Pwanyeledzda 0..9				2002-02-02 02:02:02
-svtools	source\filter.vcl\filter\dlgepng.src	0	fixedtext	DLG_EXPORT_EPNG	FI_COMPRESSION			80	vi	Độ ~nén 0..9				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\dlgepng.src	0	fixedtext	DLG_EXPORT_EPNG	FI_COMPRESSION			80	vi	Độ ~nén 0...9				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgepng.src	0	fixedtext	DLG_EXPORT_EPNG	FI_COMPRESSION			80	xh	~Uxinzelelo 0..9				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgepng.src	0	fixedtext	DLG_EXPORT_EPNG	FI_COMPRESSION			80	zh-CN	压缩 0..9(~C)				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgepng.src	0	fixedtext	DLG_EXPORT_EPNG	FI_COMPRESSION			80	zh-TW	壓縮 0..9(~C)				2002-02-02 02:02:02
@@ -889,6 +890,7 @@ svtools	source\filter.vcl\filter\dlgexpor.src	0	checkbox	DLG_EXPORT_PIX	CBX_RLE	
 svtools	source\filter.vcl\filter\dlgexpor.src	0	checkbox	DLG_EXPORT_PIX	CBX_RLE			98	ts	Ku nghenisa khodi ya RLE				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	checkbox	DLG_EXPORT_PIX	CBX_RLE			98	uk	RLE кодування				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	checkbox	DLG_EXPORT_PIX	CBX_RLE			98	ur-IN	کوڈینگRLE  				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\dlgexpor.src	0	checkbox	DLG_EXPORT_PIX	CBX_RLE			98	uz	RLE kodlash usuli				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	checkbox	DLG_EXPORT_PIX	CBX_RLE			98	ve	U khouda ha RLE				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	checkbox	DLG_EXPORT_PIX	CBX_RLE			98	vi	Mã hóa RLE				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	checkbox	DLG_EXPORT_PIX	CBX_RLE			98	xh	Ukufakwa kweekhowudi ze-RLE				2002-02-02 02:02:02
@@ -968,7 +970,7 @@ svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_PIX	GRP_COL
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_PIX	GRP_COLORS			110	ur-IN	تجزیئ رنگ				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_PIX	GRP_COLORS			110	uz	Rang oʻlchami				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_PIX	GRP_COLORS			110	ve	Thasululo ya muvhala				2002-02-02 02:02:02
-svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_PIX	GRP_COLORS			110	vi	Độ phân giải màu				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_PIX	GRP_COLORS			110	vi	Phân giải màu				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_PIX	GRP_COLORS			110	xh	Umbala ovelayo eskrinini				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_PIX	GRP_COLORS			110	zh-CN	彩色分辨率				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_PIX	GRP_COLORS			110	zh-TW	彩色解析度				2002-02-02 02:02:02
@@ -1199,7 +1201,7 @@ svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_VEC	GRP_SIZ
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_VEC	GRP_SIZE_VEC			110	ur-IN	سائز				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_VEC	GRP_SIZE_VEC			110	uz	Hajmi				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_VEC	GRP_SIZE_VEC			110	ve	Muelo				2002-02-02 02:02:02
-svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_VEC	GRP_SIZE_VEC			110	vi	Kích cỡ				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_VEC	GRP_SIZE_VEC			110	vi	Cỡ				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_VEC	GRP_SIZE_VEC			110	xh	Ubukhulu				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_VEC	GRP_SIZE_VEC			110	zh-CN	大小				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedline	DLG_EXPORT_VEC	GRP_SIZE_VEC			110	zh-TW	大小				2002-02-02 02:02:02
@@ -1329,7 +1331,7 @@ svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	DLG_EXPORT_VEC	FT_SIZE
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	DLG_EXPORT_VEC	FT_SIZEX_VEC			45	ur-IN	چوڑائی				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	DLG_EXPORT_VEC	FT_SIZEX_VEC			45	uz	Kengligi				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	DLG_EXPORT_VEC	FT_SIZEX_VEC			45	ve	Vhuphara				2002-02-02 02:02:02
-svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	DLG_EXPORT_VEC	FT_SIZEX_VEC			45	vi	Độ rộng				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	DLG_EXPORT_VEC	FT_SIZEX_VEC			45	vi	Rộng				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	DLG_EXPORT_VEC	FT_SIZEX_VEC			45	xh	Ububanzi				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	DLG_EXPORT_VEC	FT_SIZEX_VEC			45	zh-CN	宽度				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	DLG_EXPORT_VEC	FT_SIZEX_VEC			45	zh-TW	寬度				2002-02-02 02:02:02
@@ -1406,7 +1408,7 @@ svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	DLG_EXPORT_VEC	FT_SIZE
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	DLG_EXPORT_VEC	FT_SIZEY_VEC			45	ur-IN	اونچائی				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	DLG_EXPORT_VEC	FT_SIZEY_VEC			45	uz	Balandligi				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	DLG_EXPORT_VEC	FT_SIZEY_VEC			45	ve	Vhunṱha				2002-02-02 02:02:02
-svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	DLG_EXPORT_VEC	FT_SIZEY_VEC			45	vi	Độ cao				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	DLG_EXPORT_VEC	FT_SIZEY_VEC			45	vi	Cao				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	DLG_EXPORT_VEC	FT_SIZEY_VEC			45	xh	Ukuphakama				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	DLG_EXPORT_VEC	FT_SIZEY_VEC			45	zh-CN	高度				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	DLG_EXPORT_VEC	FT_SIZEY_VEC			45	zh-TW	高度				2002-02-02 02:02:02
@@ -1484,7 +1486,7 @@ svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	FT_SIZEX_PIX				41	uk	
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	FT_SIZEX_PIX				41	ur-IN	چوڑائی				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	FT_SIZEX_PIX				41	uz	Kengligi				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	FT_SIZEX_PIX				41	ve	Vhuphara				2002-02-02 02:02:02
-svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	FT_SIZEX_PIX				41	vi	Độ rộng				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	FT_SIZEX_PIX				41	vi	Rộng				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	FT_SIZEX_PIX				41	xh	Ububanzi				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	FT_SIZEX_PIX				41	zh-CN	宽度				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	FT_SIZEX_PIX				41	zh-TW	寬度				2002-02-02 02:02:02
@@ -1561,7 +1563,7 @@ svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	FT_SIZEY_PIX				41	uk	
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	FT_SIZEY_PIX				41	ur-IN	اونچائی				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	FT_SIZEY_PIX				41	uz	Balandligi				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	FT_SIZEY_PIX				41	ve	Vhunṱha				2002-02-02 02:02:02
-svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	FT_SIZEY_PIX				41	vi	Độ cao				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	FT_SIZEY_PIX				41	vi	Cao				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	FT_SIZEY_PIX				41	xh	Ukuphakama				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	FT_SIZEY_PIX				41	zh-CN	高度				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	fixedtext	FT_SIZEY_PIX				41	zh-TW	高度				2002-02-02 02:02:02
@@ -1898,7 +1900,7 @@ svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	DLG_EXPORT_VEC	RB_SI
 svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	DLG_EXPORT_VEC	RB_SIZE_VEC			98	ur-IN	سائز				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	DLG_EXPORT_VEC	RB_SIZE_VEC			98	uz	~Hajmi				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	DLG_EXPORT_VEC	RB_SIZE_VEC			98	ve	~Muelo				2002-02-02 02:02:02
-svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	DLG_EXPORT_VEC	RB_SIZE_VEC			98	vi	~Kích cỡ				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	DLG_EXPORT_VEC	RB_SIZE_VEC			98	vi	~Cỡ				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	DLG_EXPORT_VEC	RB_SIZE_VEC			98	xh	~Ubukhulu				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	DLG_EXPORT_VEC	RB_SIZE_VEC			98	zh-CN	大小(~S)				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	DLG_EXPORT_VEC	RB_SIZE_VEC			98	zh-TW	大小(~S)				2002-02-02 02:02:02
@@ -1976,7 +1978,7 @@ svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	RB_SIZE_PIX				98	uk
 svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	RB_SIZE_PIX				98	ur-IN	سائز				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	RB_SIZE_PIX				98	uz	~Hajmi				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	RB_SIZE_PIX				98	ve	~Muelo				2002-02-02 02:02:02
-svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	RB_SIZE_PIX				98	vi	~Kích cỡ				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	RB_SIZE_PIX				98	vi	~Cỡ				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	RB_SIZE_PIX				98	xh	~Ubukhulu				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	RB_SIZE_PIX				98	zh-CN	大小(~S)				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	radiobutton	RB_SIZE_PIX				98	zh-TW	大小(~S)				2002-02-02 02:02:02
@@ -2593,81 +2595,81 @@ svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COL
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	8			0	zh-CN	24 位仿真颜色				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	8			0	zh-TW	24 位元全彩				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\dlgexpor.src	0	stringlist	DLG_EXPORT_PIX.LB_COLORS	8			0	zu	24 Bit - Imibala Eyiqiniso				2002-02-02 02:02:02
-svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				1	af	 Opsies				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	af	 Opsies				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	ar	خيارات				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	as-IN	বিকল্পবোৰ 				2002-02-02 02:02:02
-svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				13691	be-BY	 Магчымасці				2002-02-02 02:02:02
-svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				13691	bg	 Настройки				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	be-BY	 Магчымасці				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	bg	 Настройки				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	br	[_]Dibarzhioù				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	bs	 Opcije				2002-02-02 02:02:02
-svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				1	ca	Opcions				2002-02-02 02:02:02
-svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				13691	cs	 Volby				2002-02-02 02:02:02
-svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				13691	cy	Dewisiadau				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	ca	Opcions				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	cs	 Volby				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	cy	Dewisiadau				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	da	Indstillinger				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	de	 Optionen				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				13691	dz	གདམ་ཁ།				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	el	 Επιλογές				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	en-GB	 Options				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	en-ZA	 Options				2002-02-02 02:02:02
-svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				1	eo	 Agordajxoj				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	eo	 Agordajxoj				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	es	  Opciones				2002-02-02 02:02:02
-svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				13691	et	 Sätted				2002-02-02 02:02:02
-svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				13691	fa	~گزینه‌ها				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	et	 Sätted				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	fa	~گزینه‌ها				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	fi	 Asetukset				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	fr	[_]Options				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				13691	ga	 Roghanna				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				13691	gl	Opcións				2002-02-02 02:02:02
-svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				13691	gu	 વિકલ્પો				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	gu	 વિકલ્પો				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				1	gu-IN	 વિકલ્પો				2002-02-02 02:02:02
-svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				13691	he	אפשרויות				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	he	אפשרויות				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				1	hi-IN	 विकल्प				2002-02-02 02:02:02
-svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	hr	Mogućnosti				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	hr	 Odrednice				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	hu	 Beállítások				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	it	 Opzioni				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	ja	 オプション				2002-02-02 02:02:02
-svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				13691	ka	 პარამეტრები				2002-02-02 02:02:02
-svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				13691	km	 ជម្រើស				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	ka	 პარამეტრები				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	km	 ជម្រើស				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	ko	 옵션				2002-02-02 02:02:02
-svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				13691	ku	 Vebijêrk				2002-02-02 02:02:02
-svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				1	lt	 Parinktys				2002-02-02 02:02:02
-svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				13691	mk	-опции				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	ku	 Vebijêrk				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	lt	 Parinktys				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	mk	-опции				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	ml-IN	ഐച്ഛികം				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	mr-IN	पर्याय				2002-02-02 02:02:02
-svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				13691	nb	 Valg				2002-02-02 02:02:02
-svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				13691	ne	विकल्प				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	nb	 Valg				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	ne	विकल्प				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	nl	Opties				2002-02-02 02:02:02
-svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				13691	nn	 Val				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	nn	 Val				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	nr	 Ukukhetha				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	ns	 Dikgetho				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	or-IN	ବିକଳ୍ପଗୁଡିକ				2002-02-02 02:02:02
-svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				1	pa-IN	 ਚੋਣ				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	pa-IN	 ਚੋਣ				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	pl	 Opcje				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	pt	 Opções				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	pt-BR	 Opções				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	ru	 Параметры				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	rw	Guhitamo				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	sh-YU	Opcije				2002-02-02 02:02:02
-svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				13691	sk	 Možnosti				2002-02-02 02:02:02
-svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				13691	sl	 Možnosti				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	sk	 Možnosti				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	sl	 Možnosti				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	sr-CS	Опције				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	ss	 Kwekutikhetsela				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	st	 Ditlhopho				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	sv	 -alternativ				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	sw-TZ	 Chaguzi				2002-02-02 02:02:02
-svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				13691	ta	விருப்பங்கள்				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	ta	விருப்பங்கள்				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				1	ta-IN	விருப்பங்கள்				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	te-IN	ఇచ్ఛాపూర్వకాలు				2002-02-02 02:02:02
-svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				1	tg	Параметрҳо				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	tg	Параметрҳо				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	th	 ตัวเลือก				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	ti-ER	ኣማራጺ				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	tn	 Dikgetho				2002-02-02 02:02:02
-svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	tr	 Seçenekler				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				13691	tr	 Seçenekler				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	ts	 Swo Tihlawulela				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	uk	 Параметри				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	ur-IN	متبادل				2002-02-02 02:02:02
-svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				13691	uz	 Parametrlar				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	uz	 Parametrlar				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	ve	 Dzikhetho				2002-02-02 02:02:02
-svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				1	vi	 Tùy chọn				2002-02-02 02:02:02
+svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	vi	 Tùy chọn				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	xh	 Ekukhethwa Kuko				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	zh-CN	 选项				2002-02-02 02:02:02
 svtools	source\filter.vcl\filter\strings.src	0	string	EXPORT_DIALOG_TITLE				0	zh-TW	 選項				2002-02-02 02:02:02
