@@ -13,9 +13,9 @@
 #
 #   $RCSfile: localize.sdf,v $
 #
-#   $Revision: 1.16 $
+#   $Revision: 1.17 $
 #
-#   last change: $Author: rt $ $Date: 2008-01-29 08:44:52 $
+#   last change: $Author: ihi $ $Date: 2008-02-04 16:44:14 $
 #
 #   The Contents of this file are made available subject to
 #   the terms of GNU Lesser General Public License Version 2.1.
@@ -403,7 +403,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_DOWNLOAD			
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_DOWNLOAD				0	nl	~Downloaden				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_DOWNLOAD				0	nn	~Last ned				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_DOWNLOAD				0	pa-IN	ਡਾਊਨਲੋਡ(~D)				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_DOWNLOAD				0	pl	~Ściągnij				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_DOWNLOAD				0	pl	~Pobierz				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_DOWNLOAD				0	pt	~Download				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_DOWNLOAD				0	pt-BR	~Download				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_DOWNLOAD				0	ru	Загрузить				2002-02-02 02:02:02
@@ -443,7 +443,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_INSTALL				
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_INSTALL				0	nl	~Installeren				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_INSTALL				0	nn	~Installer				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_INSTALL				0	pa-IN	ਇੰਸਟਾਲ(~I)				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_INSTALL				0	pl	~Pobierz i zainstaluj				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_INSTALL				0	pl	P~obierz i zainstaluj				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_INSTALL				0	pt	~Instalar				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_INSTALL				0	pt-BR	Instalar				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_INSTALL				0	ru	Установить				2002-02-02 02:02:02
@@ -1625,7 +1625,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_UN
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_UNAVAIL				13691	ne	अद्यावधिकको स्वचालित डाउनलोड हाल उपलब्ध छैन ।\n\nवेबसाइटबाट म्यानुअल्ली %PRODUCTNAME %NEXTVERSION डाउनलोड गर्न 'डाउनलोड...' बटन क्लिक गर्नुहोस् ।				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_UNAVAIL				0	nl	Het automatisch downloaden van de update is momenteel niet beschikbaar.\n\nKlik op 'Downloaden...' om %PRODUCTNAME %NEXTVERSION handmatig van de webpagina te downloaden.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_UNAVAIL				13691	nn	Automatisk nedlasting av oppdateringa er ikkje tilgjengeleg nett no.\n\nTrykk på «Last ned» for å lasta ned %PRODUCTNAME %NEXTVERSION manuelt frå nettsida.				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_UNAVAIL				0	pl	Automatyczne pobieranie aktualizacji nie jest obecnie dostępne.\n\nKliknij Pobierz..., aby pobrać oprogramowanie %PRODUCTNAME %NEXTVERSION ręcznie ze strony internetowej.				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_UNAVAIL				0	pl	Automatyczne pobieranie aktualizacji nie jest obecnie możliwe.\n\nKliknij Pobierz..., aby pobrać oprogramowanie %PRODUCTNAME %NEXTVERSION ze strony internetowej.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_UNAVAIL				0	pt	A transferência automática da actualização não está actualmente disponível.\n\nFaça clique em 'Transferir...' para transferir manualmente o %PRODUCTNAME %NEXTVERSION a partir do sítio da Web.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_UNAVAIL				0	pt-BR	O download automático da atualização não está disponível no momento.\n\nClique em 'Download...' para baixar o %PRODUCTNAME %NEXTVERSION manualmente do site da internet.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_UNAVAIL				0	ru	Автоматическая загрзука обновлений пока недоступна.\n\nЩелкните «Загрузить...» для загрузки %PRODUCTNAME %NEXTVERSION вручную с веб-сайта.				2002-02-02 02:02:02
@@ -1663,7 +1663,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_WA
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_WARN				13691	ne	डाउनलोड स्थान: %DOWNLOAD_PATH.\n\nउपकरण – विकल्प... - %PRODUCTNAME – अनलाइन अद्यावधिक अन्तर्गत तपाईँ आफ्नो डाउनलोड स्थान परिवर्तन गर्न सक्नुहुन्छ ।				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_WARN				0	nl	De downloadlocatie is: %DOWNLOAD_PATH.\n\nOnder Extra – Opties... - %PRODUCTNAME – Online-update kunt u de downloadlocatie wijzigen.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_WARN				13691	nn	Nedlastinga skjer til: %DOWNLOAD_PATH\n\nUnder «Verktøy – Innstillingar – %PRODUCTNAME – Nettoppdatering» kan du velja ein annan stad.				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_WARN				0	pl	Lokalizacja pobieranego pliku: %DOWNLOAD_PATH.\n\nZmiana lokalizacji pobieranego pliku jest możliwa po kliknięciu menu Narzędzia – Opcje... - %PRODUCTNAME – Aktualizacja internetowa.				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_WARN				0	pl	Plik zostanie pobrany do: %DOWNLOAD_PATH.\n\nAby zmienić tę lokalizację kliknij menu Narzędzia – Opcje... - %PRODUCTNAME – Aktualizacja online.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_WARN				0	pt	A localização da transferência é: %DOWNLOAD_PATH.\n\nEm Ferramentas – Opções... - %PRODUCTNAME – Actualização online, pode alterar a localização da transferência.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_WARN				0	pt-BR	The download location is: %DOWNLOAD_PATH.\n\nUnder Tools – Options... - %PRODUCTNAME – Online Update you can change the download location.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_WARN				0	ru	Адрес загрузки: %DOWNLOAD_PATH.\n\nВы можете изменить адрес загрузки в Сервис – Параметры... - %PRODUCTNAME – Проверка обновлений.				2002-02-02 02:02:02
@@ -1821,7 +1821,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_NO_UPD_FOUN
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_NO_UPD_FOUND				0	nl	%PRODUCTNAME %PRODUCTVERSION is actueel.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_NO_UPD_FOUND				13691	nn	%PRODUCTNAME %PRODUCTVERSION er allereie oppdatert.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_NO_UPD_FOUND				1	pa-IN	%PRODUCTNAME %PRODUCTVERSION ਅੱਪਡੇਟ ਹੈ				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_NO_UPD_FOUND				0	pl	Oprogramowanie %PRODUCTNAME %PRODUCTVERSION jest aktualne.				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_NO_UPD_FOUND				0	pl	Oprogramowanie %PRODUCTNAME %PRODUCTVERSION nie wymaga aktualizacji.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_NO_UPD_FOUND				0	pt	O %PRODUCTNAME %PRODUCTVERSION está actualizado.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_NO_UPD_FOUND				0	pt-BR	O %PRODUCTNAME %PRODUCTVERSION está atualizado.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_NO_UPD_FOUND				0	ru	%PRODUCTNAME %PRODUCTVERSION последней версии.				2002-02-02 02:02:02
@@ -1980,7 +1980,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_UPD_FOUND		
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_UPD_FOUND				13691	ne	%PRODUCTNAME %NEXTVERSION उपलब्ध छ ।\n\nस्थापना गरिएको संस्करण %PRODUCTNAME %PRODUCTVERSION हो ।\n\nद्रष्टब्य: एउटा अद्यावधिक डाउनलोड गर्नु अघि, कृपया तपाईँसँग यसलाई स्थापना गर्न पर्याप्त पहुँच अधिकार छ भन्ने निश्चित गर्नुहोस् ।\nखास गरेर, प्रशासकको वा मूल पासवर्ड आवश्यक पर्दछ ।				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_UPD_FOUND				0	nl	%PRODUCTNAME %NEXTVERSION is beschikbaar.\n\nDe geïnstalleerde versie is %PRODUCTNAME %PRODUCTVERSION.\n\nOpmerking: Zorg er alstublieft voor dat u voldoende toegangsrechten hebt om een update te installeren, vóór het downloaden daarvan.\nEen wachtwoord, gewoonlijk van de systeembeheerder, kan vereist zijn.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_UPD_FOUND				13691	nn	%PRODUCTNAME %NEXTVERSION er tilgjengeleg.\n\nDen installerte versjonen er %PRODUCTNAME %PRODUCTVERSION.\n\nMerk: Før du lastar ned ei oppdatering, sjå til at du har tilstrekkeleg tilgang til å installera henne.\nDet kan henda du treng eit passord, vanlegvis administrator- eller rotpassordet.				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_UPD_FOUND				0	pl	%PRODUCTNAME %NEXTVERSION jest dostępny.\n\nZainstalowana wersja to %PRODUCTNAME %PRODUCTVERSION.\n\nUwaga: Przed pobraniem aktualizacji sprawdź, czy posiadasz odpowiednie uprawnienia do instalacji.\nMoże być wymagane hasło, zazwyczaj hasło konta administracyjnego.				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_UPD_FOUND				0	pl	Dostępna jest nowsza wersja: %PRODUCTNAME %NEXTVERSION.\n\nAktualnie zainstalowana wersja to %PRODUCTNAME %PRODUCTVERSION.\n\nUwaga: Przed pobraniem aktualizacji sprawdź, czy posiadasz odpowiednie uprawnienia do instalacji.\nMoże być wymagane hasło konta administracyjnego.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_UPD_FOUND				0	pt	O %PRODUCTNAME %NEXTVERSION está disponível.\n\nA versão instalada é %PRODUCTNAME %PRODUCTVERSION.\n\nNota: Antes de transferir uma actualização, certifique-se de que tem direitos de acesso suficientes para a instalar.\nPoderá ser necessária uma palavra-passe, geralmente a palavra-passe raiz ou do administrador.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_UPD_FOUND				0	pt-BR	A atualização %PRODUCTNAME %NEXTVERSION está disponível.\n\nA versão instalada é %PRODUCTNAME %PRODUCTVERSION.\n\nAtenção: Antes baixar uma atualização, certifique-se que você tem as permissões para executar a instalação.\nUma senha de administrador ou de root poderá ser exigida.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_UPD_FOUND				0	ru	%PRODUCTNAME %NEXTVERSION доступен для загрузки.\n\nУстановленная версия %PRODUCTNAME %PRODUCTVERSION.\n\nПримечание: Прежде чем загружать обновления убедитесь, что вы имеете достаточно прав для установки.\nВозможно понадобится администраторский пароль.				2002-02-02 02:02:02
