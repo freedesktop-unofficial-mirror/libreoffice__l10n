@@ -17,7 +17,7 @@
 #
 # $RCSfile: localize.sdf,v $
 #
-# $Revision: 1.26 $
+# $Revision: 1.27 $
 #
 # This file is part of OpenOffice.org.
 #
@@ -185,11 +185,11 @@ sc	source\ui\docshell\tpstat.src	0	fixedtext	RID_SCPAGE_STAT	FT_CELLS_LBL			90	t
 sc	source\ui\docshell\tpstat.src	0	fixedtext	RID_SCPAGE_STAT	FT_CELLS_LBL			90	tn	Palo ya disele:				2002-02-02 02:02:02
 sc	source\ui\docshell\tpstat.src	0	fixedtext	RID_SCPAGE_STAT	FT_CELLS_LBL			90	tr	Hücre sayısı:				2002-02-02 02:02:02
 sc	source\ui\docshell\tpstat.src	0	fixedtext	RID_SCPAGE_STAT	FT_CELLS_LBL			90	ts	Nhlayo ya tisele:				2002-02-02 02:02:02
-sc	source\ui\docshell\tpstat.src	0	fixedtext	RID_SCPAGE_STAT	FT_CELLS_LBL			90	uk	Число комірок:				2002-02-02 02:02:02
+sc	source\ui\docshell\tpstat.src	0	fixedtext	RID_SCPAGE_STAT	FT_CELLS_LBL			90	uk	Кількість комірок:				2002-02-02 02:02:02
 sc	source\ui\docshell\tpstat.src	0	fixedtext	RID_SCPAGE_STAT	FT_CELLS_LBL			90	ur-IN	سیلس کی تعداد				2002-02-02 02:02:02
 sc	source\ui\docshell\tpstat.src	0	fixedtext	RID_SCPAGE_STAT	FT_CELLS_LBL			90	uz	Kataklar soni:				2002-02-02 02:02:02
 sc	source\ui\docshell\tpstat.src	0	fixedtext	RID_SCPAGE_STAT	FT_CELLS_LBL			90	ve	Nomboro ya dzisele:				2002-02-02 02:02:02
-sc	source\ui\docshell\tpstat.src	0	fixedtext	RID_SCPAGE_STAT	FT_CELLS_LBL			90	vi	Số ô :				2002-02-02 02:02:02
+sc	source\ui\docshell\tpstat.src	0	fixedtext	RID_SCPAGE_STAT	FT_CELLS_LBL			90	vi	S Tổng số ô bảng:				2002-02-02 02:02:02
 sc	source\ui\docshell\tpstat.src	0	fixedtext	RID_SCPAGE_STAT	FT_CELLS_LBL			90	xh	Inani leeseli:				2002-02-02 02:02:02
 sc	source\ui\docshell\tpstat.src	0	fixedtext	RID_SCPAGE_STAT	FT_CELLS_LBL			90	zh-CN	单元格的数目：				2002-02-02 02:02:02
 sc	source\ui\docshell\tpstat.src	0	fixedtext	RID_SCPAGE_STAT	FT_CELLS_LBL			90	zh-TW	儲存格的數目：				2002-02-02 02:02:02
@@ -266,9 +266,9 @@ sc	source\ui\docshell\tpstat.src	0	fixedtext	RID_SCPAGE_STAT	FT_PAGES_LBL			90	t
 sc	source\ui\docshell\tpstat.src	0	fixedtext	RID_SCPAGE_STAT	FT_PAGES_LBL			90	ts	Nhlayo ya mapheji:				2002-02-02 02:02:02
 sc	source\ui\docshell\tpstat.src	0	fixedtext	RID_SCPAGE_STAT	FT_PAGES_LBL			90	uk	Кількість сторінок:				2002-02-02 02:02:02
 sc	source\ui\docshell\tpstat.src	0	fixedtext	RID_SCPAGE_STAT	FT_PAGES_LBL			90	ur-IN	صفحات کی تعداد				2002-02-02 02:02:02
-sc	source\ui\docshell\tpstat.src	0	fixedtext	RID_SCPAGE_STAT	FT_PAGES_LBL			90	uz	Betlar soni:				2002-02-02 02:02:02
+sc	source\ui\docshell\tpstat.src	0	fixedtext	RID_SCPAGE_STAT	FT_PAGES_LBL			90	uz	Sahifalar soni:				2002-02-02 02:02:02
 sc	source\ui\docshell\tpstat.src	0	fixedtext	RID_SCPAGE_STAT	FT_PAGES_LBL			90	ve	Nomboro ya masiaṱiari:				2002-02-02 02:02:02
-sc	source\ui\docshell\tpstat.src	0	fixedtext	RID_SCPAGE_STAT	FT_PAGES_LBL			90	vi	Số trang:				2002-02-02 02:02:02
+sc	source\ui\docshell\tpstat.src	0	fixedtext	RID_SCPAGE_STAT	FT_PAGES_LBL			90	vi	Tổng số trang:				2002-02-02 02:02:02
 sc	source\ui\docshell\tpstat.src	0	fixedtext	RID_SCPAGE_STAT	FT_PAGES_LBL			90	xh	Inani lamakhasi:				2002-02-02 02:02:02
 sc	source\ui\docshell\tpstat.src	0	fixedtext	RID_SCPAGE_STAT	FT_PAGES_LBL			90	zh-CN	页数：				2002-02-02 02:02:02
 sc	source\ui\docshell\tpstat.src	0	fixedtext	RID_SCPAGE_STAT	FT_PAGES_LBL			90	zh-TW	頁數：				2002-02-02 02:02:02
@@ -327,7 +327,7 @@ sc	source\ui\docshell\tpstat.src	0	fixedtext	RID_SCPAGE_STAT	FT_TABLES_LBL			90	
 sc	source\ui\docshell\tpstat.src	0	fixedtext	RID_SCPAGE_STAT	FT_TABLES_LBL			90	rw	Umubare w'impapuro:				2002-02-02 02:02:02
 sc	source\ui\docshell\tpstat.src	0	fixedtext	RID_SCPAGE_STAT	FT_TABLES_LBL			90	sh	Broj listova:				2002-02-02 02:02:02
 sc	source\ui\docshell\tpstat.src	0	fixedtext	RID_SCPAGE_STAT	FT_TABLES_LBL			90	sk	Počet listov:				2002-02-02 02:02:02
-sc	source\ui\docshell\tpstat.src	0	fixedtext	RID_SCPAGE_STAT	FT_TABLES_LBL			90	sl	Število listov:				2002-02-02 02:02:02
+sc	source\ui\docshell\tpstat.src	0	fixedtext	RID_SCPAGE_STAT	FT_TABLES_LBL			90	sl	Število del. listov:				2002-02-02 02:02:02
 sc	source\ui\docshell\tpstat.src	0	fixedtext	RID_SCPAGE_STAT	FT_TABLES_LBL			90	sr	Број листова:				2002-02-02 02:02:02
 sc	source\ui\docshell\tpstat.src	0	fixedtext	RID_SCPAGE_STAT	FT_TABLES_LBL			90	ss	Inamba yemashithi:				2002-02-02 02:02:02
 sc	source\ui\docshell\tpstat.src	0	fixedtext	RID_SCPAGE_STAT	FT_TABLES_LBL			90	st	Nomoro ya dipampiri:				2002-02-02 02:02:02
@@ -341,11 +341,11 @@ sc	source\ui\docshell\tpstat.src	0	fixedtext	RID_SCPAGE_STAT	FT_TABLES_LBL			90	
 sc	source\ui\docshell\tpstat.src	0	fixedtext	RID_SCPAGE_STAT	FT_TABLES_LBL			90	tn	Palo ya matlhare:				2002-02-02 02:02:02
 sc	source\ui\docshell\tpstat.src	0	fixedtext	RID_SCPAGE_STAT	FT_TABLES_LBL			90	tr	Çalışma sayfası sayısı:				2002-02-02 02:02:02
 sc	source\ui\docshell\tpstat.src	0	fixedtext	RID_SCPAGE_STAT	FT_TABLES_LBL			90	ts	Nhlayo ya maphepha:				2002-02-02 02:02:02
-sc	source\ui\docshell\tpstat.src	0	fixedtext	RID_SCPAGE_STAT	FT_TABLES_LBL			90	uk	Число аркушів:				2002-02-02 02:02:02
+sc	source\ui\docshell\tpstat.src	0	fixedtext	RID_SCPAGE_STAT	FT_TABLES_LBL			90	uk	Кількість аркушів:				2002-02-02 02:02:02
 sc	source\ui\docshell\tpstat.src	0	fixedtext	RID_SCPAGE_STAT	FT_TABLES_LBL			90	ur-IN	شیٹس کی تعداد				2002-02-02 02:02:02
 sc	source\ui\docshell\tpstat.src	0	fixedtext	RID_SCPAGE_STAT	FT_TABLES_LBL			90	uz	Varaqlar soni:				2002-02-02 02:02:02
 sc	source\ui\docshell\tpstat.src	0	fixedtext	RID_SCPAGE_STAT	FT_TABLES_LBL			90	ve	Nomboro ya vhumveru:				2002-02-02 02:02:02
-sc	source\ui\docshell\tpstat.src	0	fixedtext	RID_SCPAGE_STAT	FT_TABLES_LBL			90	vi	Số tờ :				2002-02-02 02:02:02
+sc	source\ui\docshell\tpstat.src	0	fixedtext	RID_SCPAGE_STAT	FT_TABLES_LBL			90	vi	Tổng số bảng:				2002-02-02 02:02:02
 sc	source\ui\docshell\tpstat.src	0	fixedtext	RID_SCPAGE_STAT	FT_TABLES_LBL			90	xh	Inani lamacwecwe:				2002-02-02 02:02:02
 sc	source\ui\docshell\tpstat.src	0	fixedtext	RID_SCPAGE_STAT	FT_TABLES_LBL			90	zh-CN	工作表数目:				2002-02-02 02:02:02
 sc	source\ui\docshell\tpstat.src	0	fixedtext	RID_SCPAGE_STAT	FT_TABLES_LBL			90	zh-TW	工作表數目：				2002-02-02 02:02:02
