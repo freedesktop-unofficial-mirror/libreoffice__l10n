@@ -17,7 +17,7 @@
 #
 # $RCSfile: localize.sdf,v $
 #
-# $Revision: 1.3 $
+# $Revision: 1.4 $
 #
 # This file is part of OpenOffice.org.
 #
@@ -43,10 +43,12 @@ ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	fixedtext	DLG_STRINGINPUT	FT_STR
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	fixedtext	DLG_STRINGINPUT	FT_STRINGINPUT_DLG_NAME			0	br	Gwerzh				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	fixedtext	DLG_STRINGINPUT	FT_STRINGINPUT_DLG_NAME			28	ca	~Valor				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	fixedtext	DLG_STRINGINPUT	FT_STRINGINPUT_DLG_NAME			28	cs	Hodnota				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	fixedtext	DLG_STRINGINPUT	FT_STRINGINPUT_DLG_NAME			28	da	~Værdi				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	fixedtext	DLG_STRINGINPUT	FT_STRINGINPUT_DLG_NAME			28	de	~Wert				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	fixedtext	DLG_STRINGINPUT	FT_STRINGINPUT_DLG_NAME			28	es	~Valor				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	fixedtext	DLG_STRINGINPUT	FT_STRINGINPUT_DLG_NAME			28	et	Väärtus				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	fixedtext	DLG_STRINGINPUT	FT_STRINGINPUT_DLG_NAME			28	fr	~Valeur				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	fixedtext	DLG_STRINGINPUT	FT_STRINGINPUT_DLG_NAME			28	gl	~Valor				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	fixedtext	DLG_STRINGINPUT	FT_STRINGINPUT_DLG_NAME			28	hu	É~rték				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	fixedtext	DLG_STRINGINPUT	FT_STRINGINPUT_DLG_NAME			28	it	~Valore				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	fixedtext	DLG_STRINGINPUT	FT_STRINGINPUT_DLG_NAME			28	ja	値(~V)				2002-02-02 02:02:02
@@ -59,198 +61,210 @@ ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	fixedtext	DLG_STRINGINPUT	FT_STR
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	fixedtext	DLG_STRINGINPUT	FT_STRINGINPUT_DLG_NAME			28	nl	~Waarde				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	fixedtext	DLG_STRINGINPUT	FT_STRINGINPUT_DLG_NAME			28	pl	W~artość				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	fixedtext	DLG_STRINGINPUT	FT_STRINGINPUT_DLG_NAME			28	pt	~Valor				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	fixedtext	DLG_STRINGINPUT	FT_STRINGINPUT_DLG_NAME			28	pt-BR	~Value				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	fixedtext	DLG_STRINGINPUT	FT_STRINGINPUT_DLG_NAME			28	ru	~Значение				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	fixedtext	DLG_STRINGINPUT	FT_STRINGINPUT_DLG_NAME			28	pt-BR	~Valor				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	fixedtext	DLG_STRINGINPUT	FT_STRINGINPUT_DLG_NAME			28	ru	~Значение!				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	fixedtext	DLG_STRINGINPUT	FT_STRINGINPUT_DLG_NAME			28	sl	~Vrednost				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	fixedtext	DLG_STRINGINPUT	FT_STRINGINPUT_DLG_NAME			28	sv	~Värde				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	fixedtext	DLG_STRINGINPUT	FT_STRINGINPUT_DLG_NAME			28	tr	~Değer				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	fixedtext	DLG_STRINGINPUT	FT_STRINGINPUT_DLG_NAME			28	uz	~Qiymat				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	fixedtext	DLG_STRINGINPUT	FT_STRINGINPUT_DLG_NAME			28	vi	~Giá trị				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	fixedtext	DLG_STRINGINPUT	FT_STRINGINPUT_DLG_NAME			28	zh-CN	数值(~V)				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	fixedtext	DLG_STRINGINPUT	FT_STRINGINPUT_DLG_NAME			28	zh-TW	數值(~V)				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	fixedtext	DLG_STRINGINPUT	FT_STRINGINPUT_DLG_NAME			28	zh-TW	值(~V)				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN	MENU_FILE			0	ar	~ملف				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN	MENU_FILE			13691	be-BY	Файл				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN	MENU_FILE			13691	bg	~Файл				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN	MENU_FILE			0	be-BY	Файл				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN	MENU_FILE			0	bg	~Файл				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN	MENU_FILE			0	br	Restr				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN	MENU_FILE			0	ca	~Fitxer				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN	MENU_FILE			13691	cs	Soubor				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN	MENU_FILE			0	cs	Soubor				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN	MENU_FILE			0	da	~Fil				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN	MENU_FILE			0	de	~Datei				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN	MENU_FILE			0	es	~Archivo				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN	MENU_FILE			13691	et	~Fail				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN	MENU_FILE			0	et	~Fail				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN	MENU_FILE			0	fr	~Fichier				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN	MENU_FILE			0	gl	~Ficheiro				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN	MENU_FILE			0	hu	~Fájl				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN	MENU_FILE			0	it	~File				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN	MENU_FILE			0	ja	ファイル(~F)				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN	MENU_FILE			0	ko	파일(~F)				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN	MENU_FILE			0	ku	~Pel				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN	MENU_FILE			13691	lt	~Failas				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN	MENU_FILE			13691	mk	~Датотека				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN	MENU_FILE			13691	nb	~Fil				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN	MENU_FILE			0	lt	~Failas				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN	MENU_FILE			0	mk	~Датотека				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN	MENU_FILE			0	nb	~Fil				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN	MENU_FILE			0	ne	~File				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN	MENU_FILE			0	nl	~Bestand				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN	MENU_FILE			0	pl	~Plik				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN	MENU_FILE			0	pt	~Ficheiro				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN	MENU_FILE			0	pt-BR	~File				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN	MENU_FILE			0	ru	~Файл				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN	MENU_FILE			13691	sl	~Datoteka				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN	MENU_FILE			0	pt-BR	~Arquivo				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN	MENU_FILE			0	ru	~Файл!				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN	MENU_FILE			0	sl	~Datoteka				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN	MENU_FILE			0	sv	~Arkiv				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN	MENU_FILE			13691	tr	D~osya				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN	MENU_FILE			13691	uz	~Fayl				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN	MENU_FILE			0	tr	D~osya				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN	MENU_FILE			0	uz	~Fayl				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN	MENU_FILE			0	vi	~Tập tin				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN	MENU_FILE			0	zh-CN	文件(~F)				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN	MENU_FILE			0	zh-TW	檔案(~F)				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN.MENU_FILE	MENU_EXIT			0	ar	~خروج				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN.MENU_FILE	MENU_EXIT			13691	be-BY	Выйсці				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN.MENU_FILE	MENU_EXIT			13691	bg	~Изход				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN.MENU_FILE	MENU_EXIT			0	be-BY	Выйсці				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN.MENU_FILE	MENU_EXIT			0	bg	~Изход				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN.MENU_FILE	MENU_EXIT			0	br	K~uitaat				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN.MENU_FILE	MENU_EXIT			0	ca	S~urt				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN.MENU_FILE	MENU_EXIT			13691	cs	Ukončit				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN.MENU_FILE	MENU_EXIT			0	cs	Ukončit				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN.MENU_FILE	MENU_EXIT			0	da	~Afslut				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN.MENU_FILE	MENU_EXIT			0	de	~Beenden				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN.MENU_FILE	MENU_EXIT			0	es	S~alir				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN.MENU_FILE	MENU_EXIT			13691	et	Välju				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN.MENU_FILE	MENU_EXIT			0	et	Välju				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN.MENU_FILE	MENU_EXIT			0	fr	~Quitter				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN.MENU_FILE	MENU_EXIT			0	gl	~Saír				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN.MENU_FILE	MENU_EXIT			0	hu	~Kilépés				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN.MENU_FILE	MENU_EXIT			0	it	~Esci				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN.MENU_FILE	MENU_EXIT			0	ja	終了(~E)				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN.MENU_FILE	MENU_EXIT			0	ko	종료(~E)				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN.MENU_FILE	MENU_EXIT			0	ku	~Derketin				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN.MENU_FILE	MENU_EXIT			13691	lt	~Baigti				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN.MENU_FILE	MENU_EXIT			13691	mk	~Излези				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN.MENU_FILE	MENU_EXIT			13691	nb	~Avslutt				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN.MENU_FILE	MENU_EXIT			0	lt	~Baigti				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN.MENU_FILE	MENU_EXIT			0	mk	~Излези				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN.MENU_FILE	MENU_EXIT			0	nb	~Avslutt				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN.MENU_FILE	MENU_EXIT			0	ne	~Exit				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN.MENU_FILE	MENU_EXIT			0	nl	~Afsluiten				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN.MENU_FILE	MENU_EXIT			0	pl	~Zakończ				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN.MENU_FILE	MENU_EXIT			0	pt	~Sair				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN.MENU_FILE	MENU_EXIT			0	pt-BR	~Exit				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN.MENU_FILE	MENU_EXIT			0	ru	~Выход				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN.MENU_FILE	MENU_EXIT			13691	sl	I~zhod				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN.MENU_FILE	MENU_EXIT			0	pt-BR	~Sair				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN.MENU_FILE	MENU_EXIT			0	ru	~Выход!				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN.MENU_FILE	MENU_EXIT			0	sl	I~zhod				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN.MENU_FILE	MENU_EXIT			0	sv	~Avsluta				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN.MENU_FILE	MENU_EXIT			13691	tr	Çı~kış				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN.MENU_FILE	MENU_EXIT			13691	uz	~Chiqish				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN.MENU_FILE	MENU_EXIT			0	tr	Çı~kış				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN.MENU_FILE	MENU_EXIT			0	uz	~Chiqish				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN.MENU_FILE	MENU_EXIT			0	vi	T~hoát				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN.MENU_FILE	MENU_EXIT			0	zh-CN	退出(~E)				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN.MENU_FILE	MENU_EXIT			0	zh-TW	結束(~E)				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_DELETE			0	ar	احذ~ف				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_DELETE			13691	be-BY	Сцерці				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_DELETE			13691	bg	~Изтриване				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_DELETE			0	be-BY	Сцерці				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_DELETE			0	bg	~Изтриване				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_DELETE			0	br	Lemel kuit				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_DELETE			0	ca	~Suprimeix				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_DELETE			13691	cs	Smazat				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_DELETE			0	cs	Smazat				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_DELETE			0	da	~Slet				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_DELETE			0	de	~Löschen				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_DELETE			0	es	~Borrar				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_DELETE			13691	et	Kustuta				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_DELETE			0	et	Kustuta				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_DELETE			0	fr	~Supprimer				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_DELETE			0	gl	~Eliminar				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_DELETE			0	hu	~Törlés				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_DELETE			0	it	~Elimina				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_DELETE			0	ja	削除(~D)				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_DELETE			0	ko	삭제(~D)				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_DELETE			0	ku	~Jêbirin				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_DELETE			13691	lt	~Šalinti				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_DELETE			13691	mk	~Избриши				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_DELETE			13691	nb	~Slett				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_DELETE			0	lt	~Šalinti				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_DELETE			0	mk	~Избриши				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_DELETE			0	nb	~Slett				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_DELETE			0	ne	~Delete				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_DELETE			0	nl	~Verwijderen				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_DELETE			0	pl	~Skasuj				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_DELETE			0	pt	~Eliminar				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_DELETE			0	pt-BR	~Delete				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_DELETE			0	ru	~Удалить				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_DELETE			13691	sl	~Izbriši				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_DELETE			0	pt-BR	~Excluir				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_DELETE			0	ru	~Удалить!				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_DELETE			0	sl	~Izbriši				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_DELETE			0	sv	~Ta bort				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_DELETE			13691	tr	S~il				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_DELETE			13691	uz	~Olib tashlash				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_DELETE			0	tr	S~il				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_DELETE			0	uz	~Olib tashlash				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_DELETE			0	vi	~Xoá				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_DELETE			0	zh-CN	删除(~D)				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_DELETE			0	zh-TW	刪除(~D)				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_NEW			0	ar	~جديد				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_NEW			13691	be-BY	Дадаць				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_NEW			13691	bg	~Нов				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_NEW			0	be-BY	Новы				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_NEW			0	bg	~Нов				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_NEW			0	br	Ne~vez				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_NEW			0	ca	~Nou				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_NEW			13691	cs	Nový				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_NEW			0	cs	Nový				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_NEW			0	da	~Ny(t)				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_NEW			0	de	~Neu				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_NEW			0	es	~Nuevo				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_NEW			13691	et	Uus				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_NEW			0	et	Uus				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_NEW			0	fr	~Nouveau				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_NEW			0	gl	~Novo				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_NEW			0	hu	Ú~j				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_NEW			0	it	~Nuovo				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_NEW			0	ja	新規作成(~N)				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_NEW			0	ko	새로 만들기(~N)				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_NEW			0	ku	~Nû				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_NEW			13691	lt	~Naujas				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_NEW			13691	mk	~Ново				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_NEW			13691	nb	~Ny				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_NEW			0	lt	~Naujas				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_NEW			0	mk	~Ново				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_NEW			0	nb	~Ny				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_NEW			0	ne	~New				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_NEW			0	nl	~Nieuw				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_NEW			0	pl	~Nowy				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_NEW			0	pt	~Novo				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_NEW			0	pt-BR	~New				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_NEW			0	ru	~Создать				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_NEW			13691	sl	~Nov				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_NEW			0	pt-BR	~Novo				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_NEW			0	ru	~Создать!				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_NEW			0	sl	~Nov				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_NEW			0	sv	~Nytt				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_NEW			13691	tr	Ye~ni				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_NEW			13691	uz	~Yangi				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_NEW			0	tr	Ye~ni				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_NEW			0	uz	~Yangi				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_NEW			0	vi	Mớ~i				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_NEW			0	zh-CN	新建(~N)				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_NEW			0	zh-TW	開啟新檔(~N)				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_RENAME			0	ar	أ~عد التسمية				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_RENAME			13691	be-BY	Назваць				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_RENAME			13691	bg	~Преименуване				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_RENAME			0	be-BY	Назваць				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_RENAME			0	bg	~Преименуване				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_RENAME			0	br	Adenvel				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_RENAME			0	ca	~Reanomena				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_RENAME			13691	cs	Přejmenovat				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_RENAME			0	cs	Přejmenovat				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_RENAME			0	da	~Omdøb				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_RENAME			0	de	~Umbenennen				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_RENAME			0	es	~Renombrar				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_RENAME			13691	et	Muuda nime				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_RENAME			0	et	Muuda nime				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_RENAME			0	fr	~Renommer				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_RENAME			0	gl	~Renomear				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_RENAME			0	hu	Á~tnevezés				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_RENAME			0	it	~Rinomina				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_RENAME			0	ja	名前の変更(~R)				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_RENAME			0	ko	이름 변경(~R)				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_RENAME			0	ku	Na~vê nû				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_RENAME			13691	lt	~Pervadinti				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_RENAME			13691	mk	~Преименувај				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_RENAME			13691	nb	~Endre navn				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_RENAME			0	lt	~Pervadinti				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_RENAME			0	mk	~Преименувај				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_RENAME			0	nb	~Endre navn				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_RENAME			0	ne	~Rename				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_RENAME			0	nl	Naam ~wijzigen				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_RENAME			0	pl	Z~mień nazwę				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_RENAME			0	pt	Muda~r o nome				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_RENAME			0	pt-BR	~Rename				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_RENAME			0	ru	~Переименовать				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_RENAME			13691	sl	P~reimenuj				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_RENAME			0	pt-BR	~Renomear				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_RENAME			0	ru	~Переименовать!				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_RENAME			0	sl	P~reimenuj				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_RENAME			0	sv	~Byt namn				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_RENAME			13691	tr	Yeniden adlandı~r				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_RENAME			13691	uz	~Nomini oʻzgartirish				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_RENAME			0	tr	Yeniden adlandı~r				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_RENAME			0	uz	~Nomini oʻzgartirish				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_RENAME			0	vi	Tha~y tên				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_RENAME			0	zh-CN	重命名(~R)				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_RENAME			0	zh-TW	重新命名(~R)				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	string	TEXT_TITLEBAR				0	ar	مستكشف UCB				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	string	TEXT_TITLEBAR				218	be-BY	UCB Explorer				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	string	TEXT_TITLEBAR				218	bg	UCB Explorer				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	string	TEXT_TITLEBAR				0	be-BY	UCB Explorer				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	string	TEXT_TITLEBAR				0	bg	UCB Explorer				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	string	TEXT_TITLEBAR				0	br	Ergerzher UCB				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	string	TEXT_TITLEBAR				0	ca	Explorador UCB				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	string	TEXT_TITLEBAR				218	cs	UCB Explorer				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	string	TEXT_TITLEBAR				0	cs	UCB Explorer				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	string	TEXT_TITLEBAR				0	da	UCB Explorer				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	string	TEXT_TITLEBAR				0	de	UCB Explorer				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	string	TEXT_TITLEBAR				0	es	Explorador UCB				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	string	TEXT_TITLEBAR				218	et	UCB Explorer				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	string	TEXT_TITLEBAR				0	et	UCB Explorer				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	string	TEXT_TITLEBAR				0	fr	Explorateur UCB				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	string	TEXT_TITLEBAR				0	gl	Explorador UCB				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	string	TEXT_TITLEBAR				0	hu	UCB Explorer				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	string	TEXT_TITLEBAR				0	it	Navigatore UCB				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	string	TEXT_TITLEBAR				0	ja	UCB エクスプローラ				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	string	TEXT_TITLEBAR				0	ko	UCB 탐색기				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	string	TEXT_TITLEBAR				0	ku	Kaşîfê UCB				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	string	TEXT_TITLEBAR				218	lt	UCB naršyklė				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	string	TEXT_TITLEBAR				218	mk	UCB истражувач				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	string	TEXT_TITLEBAR				218	nb	UCB-utforsker				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	string	TEXT_TITLEBAR				0	lt	UCB naršyklė				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	string	TEXT_TITLEBAR				0	mk	UCB истражувач				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	string	TEXT_TITLEBAR				0	nb	UCB-utforsker				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	string	TEXT_TITLEBAR				0	ne	UCB Explorer				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	string	TEXT_TITLEBAR				0	nl	UCB-verkenner				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	string	TEXT_TITLEBAR				0	pl	Eksplorator UCB				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	string	TEXT_TITLEBAR				0	pt	Explorador UCB				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	string	TEXT_TITLEBAR				0	pt-BR	UCB Explorer				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	string	TEXT_TITLEBAR				0	ru	Проводник UCB				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	string	TEXT_TITLEBAR				218	sl	Brskalnik UPV				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	string	TEXT_TITLEBAR				0	pt-BR	Explorer UCB				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	string	TEXT_TITLEBAR				0	ru	Проводник UCB!				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	string	TEXT_TITLEBAR				0	sl	Brskalnik UPV				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	string	TEXT_TITLEBAR				0	sv	UCB Explorer				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	string	TEXT_TITLEBAR				218	tr	UCB Gezgini				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	string	TEXT_TITLEBAR				218	uz	UCB Explorer				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	string	TEXT_TITLEBAR				218	vi	Bộ thăm dò UCB				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	string	TEXT_TITLEBAR				0	tr	UCB Gezgini				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	string	TEXT_TITLEBAR				0	uz	UCB Explorer				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	string	TEXT_TITLEBAR				0	vi	Bộ thăm dò UCB				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	string	TEXT_TITLEBAR				0	zh-CN	UCB 资源管理器				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	string	TEXT_TITLEBAR				0	zh-TW	UCB 檔案總管				2002-02-02 02:02:02
