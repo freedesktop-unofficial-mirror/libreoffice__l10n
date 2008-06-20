@@ -17,7 +17,7 @@
 #
 # $RCSfile: localize.sdf,v $
 #
-# $Revision: 1.34 $
+# $Revision: 1.35 $
 #
 # This file is part of OpenOffice.org.
 #
@@ -910,7 +910,7 @@ sw	source\ui\docvw\access.src	0	string	STR_ACCESS_HEADING_WITH_NUM_DESC				0	pa-
 sw	source\ui\docvw\access.src	0	string	STR_ACCESS_HEADING_WITH_NUM_DESC				0	pl	Nagłówek numer $(ARG2): $(ARG1)				2002-02-02 02:02:02
 sw	source\ui\docvw\access.src	0	string	STR_ACCESS_HEADING_WITH_NUM_DESC				0	pt	Número de cabeçalho $(ARG2): $(ARG1)				2002-02-02 02:02:02
 sw	source\ui\docvw\access.src	0	string	STR_ACCESS_HEADING_WITH_NUM_DESC				0	pt-BR	Número do título $(ARG2): $(ARG1)				2002-02-02 02:02:02
-sw	source\ui\docvw\access.src	0	string	STR_ACCESS_HEADING_WITH_NUM_DESC				0	ru	Номер заголовка $(ARG2):$(ARG1)				2002-02-02 02:02:02
+sw	source\ui\docvw\access.src	0	string	STR_ACCESS_HEADING_WITH_NUM_DESC				0	ru	Номер заголовка $(ARG2): $(ARG1)				2002-02-02 02:02:02
 sw	source\ui\docvw\access.src	0	string	STR_ACCESS_HEADING_WITH_NUM_DESC				0	rw	Inomero y'umutwe $(ARG1):$(ARG1)				2002-02-02 02:02:02
 sw	source\ui\docvw\access.src	0	string	STR_ACCESS_HEADING_WITH_NUM_DESC				0	sh	Broj zaglavlja $(ARG2): $(ARG1)				2002-02-02 02:02:02
 sw	source\ui\docvw\access.src	0	string	STR_ACCESS_HEADING_WITH_NUM_DESC				0	sk	Nadpis číslo $(ARG2): $(ARG1)				2002-02-02 02:02:02
@@ -1556,7 +1556,7 @@ sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_BROWSE_STO
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_BROWSE_STOP	SID_BROWSE_STOP		0	et	Stopp				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_BROWSE_STOP	SID_BROWSE_STOP		0	fa	~توقف				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_BROWSE_STOP	SID_BROWSE_STOP		0	fi	~Pysähdy				2002-02-02 02:02:02
-sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_BROWSE_STOP	SID_BROWSE_STOP		0	fr	~Stop				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_BROWSE_STOP	SID_BROWSE_STOP		0	fr	~Arrêter				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_BROWSE_STOP	SID_BROWSE_STOP		13691	ga	~Stad				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_BROWSE_STOP	SID_BROWSE_STOP		0	gl	~Parar				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_BROWSE_STOP	SID_BROWSE_STOP		0	gu	બંધ કરો(~S)				2002-02-02 02:02:02
@@ -1743,10 +1743,10 @@ sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_COPYGRAPHI
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_COPYGRAPHIC	HID_MN_READONLY_COPYGRAPHIC		0	pt-BR	Copiar fi~gura				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_COPYGRAPHIC	HID_MN_READONLY_COPYGRAPHIC		0	ru	Копировать графический объект				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_COPYGRAPHIC	HID_MN_READONLY_COPYGRAPHIC		0	rw	Gukoporora ibishushanyo				2002-02-02 02:02:02
-sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_COPYGRAPHIC	HID_MN_READONLY_COPYGRAPHIC		0	sh	Umnoži ~Grafiku				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_COPYGRAPHIC	HID_MN_READONLY_COPYGRAPHIC		0	sh	Umnoži ~grafiku				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_COPYGRAPHIC	HID_MN_READONLY_COPYGRAPHIC		0	sk	Kopírovať ~obrázok				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_COPYGRAPHIC	HID_MN_READONLY_COPYGRAPHIC		0	sl	Kopiraj ~grafiko				2002-02-02 02:02:02
-sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_COPYGRAPHIC	HID_MN_READONLY_COPYGRAPHIC		0	sr	Умножи ~Графику				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_COPYGRAPHIC	HID_MN_READONLY_COPYGRAPHIC		0	sr	Умножи ~графику				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_COPYGRAPHIC	HID_MN_READONLY_COPYGRAPHIC		0	ss	Kopa ~emagrafiki				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_COPYGRAPHIC	HID_MN_READONLY_COPYGRAPHIC		0	st	Kopitsa ~Dikerafike				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_COPYGRAPHIC	HID_MN_READONLY_COPYGRAPHIC		0	sv	Kopiera ~grafik				2002-02-02 02:02:02
@@ -1867,7 +1867,7 @@ sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_EDITDOC	SI
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_EDITDOC	SID_EDITDOC		0	et	Redigeeri				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_EDITDOC	SID_EDITDOC		0	fa	~ویرایش				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_EDITDOC	SID_EDITDOC		0	fi	~Muokkaa				2002-02-02 02:02:02
-sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_EDITDOC	SID_EDITDOC		0	fr	~Édition				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_EDITDOC	SID_EDITDOC		0	fr	~Éditer				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_EDITDOC	SID_EDITDOC		13691	ga	~Eagar				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_EDITDOC	SID_EDITDOC		0	gl	~Editar				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_EDITDOC	SID_EDITDOC		0	gu	ફેરફાર(~E)				2002-02-02 02:02:02
@@ -1955,7 +1955,7 @@ sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_GRAPHICOFF
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_GRAPHICOFF	HID_MN_READONLY_GRAPHICOFF		0	hr	Grafike isključene				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_GRAPHICOFF	HID_MN_READONLY_GRAPHICOFF		0	hu	Képek kikapcsolva				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_GRAPHICOFF	HID_MN_READONLY_GRAPHICOFF		0	it	~Nascondi le immagini				2002-02-02 02:02:02
-sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_GRAPHICOFF	HID_MN_READONLY_GRAPHICOFF		0	ja	図の非表示				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_GRAPHICOFF	HID_MN_READONLY_GRAPHICOFF		0	ja	図を非表示				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_GRAPHICOFF	HID_MN_READONLY_GRAPHICOFF		0	ka	გრაფიკის გამორთვა				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_GRAPHICOFF	HID_MN_READONLY_GRAPHICOFF		0	km	បិទក្រាហ្វិក				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_GRAPHICOFF	HID_MN_READONLY_GRAPHICOFF		0	ko	그래픽 적용 해제				2002-02-02 02:02:02
@@ -2023,7 +2023,7 @@ sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_GRAPHICTOG
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_GRAPHICTOGALLERY	HID_MN_READONLY_GRAPHICTOGALLERY		0	et	Lisa pilt				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_GRAPHICTOGALLERY	HID_MN_READONLY_GRAPHICTOGALLERY		0	fa	اضافه کردن گرافیک				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_GRAPHICTOGALLERY	HID_MN_READONLY_GRAPHICTOGALLERY		0	fi	Lisää grafiikka				2002-02-02 02:02:02
-sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_GRAPHICTOGALLERY	HID_MN_READONLY_GRAPHICTOGALLERY		0	fr	~Ajouter une image				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_GRAPHICTOGALLERY	HID_MN_READONLY_GRAPHICTOGALLERY		0	fr	~Ajouter des images				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_GRAPHICTOGALLERY	HID_MN_READONLY_GRAPHICTOGALLERY		13691	ga	Cuir Graificí Leis				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_GRAPHICTOGALLERY	HID_MN_READONLY_GRAPHICTOGALLERY		0	gl	Engadir imaxe				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_GRAPHICTOGALLERY	HID_MN_READONLY_GRAPHICTOGALLERY		0	gu	ગ્રાફિક્સ ઉમેરો				2002-02-02 02:02:02
@@ -2358,11 +2358,13 @@ sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_PLUGINOFF	
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_PLUGINOFF	HID_MN_READONLY_PLUGINOFF		0	pa-IN	ਪਲੱਗਇਨ ਬੰਦ				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_PLUGINOFF	HID_MN_READONLY_PLUGINOFF		0	pl	Wyłącz wtyczki				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_PLUGINOFF	HID_MN_READONLY_PLUGINOFF		0	pt	Desactivar plug-ins				2002-02-02 02:02:02
-sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_PLUGINOFF	HID_MN_READONLY_PLUGINOFF		0	pt-BR	Plug-ins desativados				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_PLUGINOFF	HID_MN_READONLY_PLUGINOFF		0	pt-BR	Desativar Plug-ins				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_PLUGINOFF	HID_MN_READONLY_PLUGINOFF		0	ru	Выключить подключаемые модули				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_PLUGINOFF	HID_MN_READONLY_PLUGINOFF		0	rw	 Gucomeka ntibikunda				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_PLUGINOFF	HID_MN_READONLY_PLUGINOFF		0	sh	Isključi proširenja				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_PLUGINOFF	HID_MN_READONLY_PLUGINOFF		0	sk	Zásuvné moduly vypnuté				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_PLUGINOFF	HID_MN_READONLY_PLUGINOFF		0	sl	Izključi vtičnike				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_PLUGINOFF	HID_MN_READONLY_PLUGINOFF		0	sr	Искључи проширења				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_PLUGINOFF	HID_MN_READONLY_PLUGINOFF		0	sv	Stäng av ~plug-ins				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_PLUGINOFF	HID_MN_READONLY_PLUGINOFF		0	ta	இணைப்புக்கள் இல்லை				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_PLUGINOFF	HID_MN_READONLY_PLUGINOFF		0	ta-IN	இணைப்புக்கள் இல்லை				2002-02-02 02:02:02
@@ -2531,7 +2533,7 @@ sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_RELOAD_FRA
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_RELOAD_FRAME	SID_RELOAD		0	et	Laadi paneel uuesti				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_RELOAD_FRAME	SID_RELOAD		0	fa	بار کردن مجدد چارچوب				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_RELOAD_FRAME	SID_RELOAD		0	fi	Lataa kehys uudelleen				2002-02-02 02:02:02
-sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_RELOAD_FRAME	SID_RELOAD		0	fr	~Recharger le frame				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_RELOAD_FRAME	SID_RELOAD		0	fr	~Recharger le cadre				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_RELOAD_FRAME	SID_RELOAD		13691	ga	Athluchtaigh an Fráma				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_RELOAD_FRAME	SID_RELOAD		0	gl	Recargar marco				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_RELOAD_FRAME	SID_RELOAD		0	gu	ચોકઠું ફરીથી લાવો				2002-02-02 02:02:02
@@ -2797,10 +2799,10 @@ sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_SELECTION_
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_SELECTION_MODE	FN_READONLY_SELECTION_MODE		0	pt-BR	Selecionar texto				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_SELECTION_MODE	FN_READONLY_SELECTION_MODE		0	ru	Выделить текст				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_SELECTION_MODE	FN_READONLY_SELECTION_MODE		0	rw	Guhitamo Umwandiko				2002-02-02 02:02:02
-sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_SELECTION_MODE	FN_READONLY_SELECTION_MODE		0	sh	Odaberi tekst				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_SELECTION_MODE	FN_READONLY_SELECTION_MODE		0	sh	Izaberi tekst				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_SELECTION_MODE	FN_READONLY_SELECTION_MODE		0	sk	Vybrať text				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_SELECTION_MODE	FN_READONLY_SELECTION_MODE		0	sl	Izberi besedilo				2002-02-02 02:02:02
-sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_SELECTION_MODE	FN_READONLY_SELECTION_MODE		0	sr	Одабери текст				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_SELECTION_MODE	FN_READONLY_SELECTION_MODE		0	sr	Изабери текст				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_SELECTION_MODE	FN_READONLY_SELECTION_MODE		0	ss	Khetsa umbhalo				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_SELECTION_MODE	FN_READONLY_SELECTION_MODE		0	st	Kgetha Temana				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP	MN_READONLY_SELECTION_MODE	FN_READONLY_SELECTION_MODE		0	sv	Markera text				2002-02-02 02:02:02
@@ -3049,7 +3051,7 @@ sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP.MN_READONLY_BACKGROUND
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP.MN_READONLY_BACKGROUNDTOGALLERY	MN_READONLY_TOGALLERYCOPY	HID_MN_READONLY_TOGALLERYCOPY		0	ur-IN	نقل کرو				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP.MN_READONLY_BACKGROUNDTOGALLERY	MN_READONLY_TOGALLERYCOPY	HID_MN_READONLY_TOGALLERYCOPY		0	uz	Nusxa olish				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP.MN_READONLY_BACKGROUNDTOGALLERY	MN_READONLY_TOGALLERYCOPY	HID_MN_READONLY_TOGALLERYCOPY		0	ve	Kopani				2002-02-02 02:02:02
-sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP.MN_READONLY_BACKGROUNDTOGALLERY	MN_READONLY_TOGALLERYCOPY	HID_MN_READONLY_TOGALLERYCOPY		0	vi	Chép				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP.MN_READONLY_BACKGROUNDTOGALLERY	MN_READONLY_TOGALLERYCOPY	HID_MN_READONLY_TOGALLERYCOPY		0	vi	Bản sao				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP.MN_READONLY_BACKGROUNDTOGALLERY	MN_READONLY_TOGALLERYCOPY	HID_MN_READONLY_TOGALLERYCOPY		0	xh	Kopa				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP.MN_READONLY_BACKGROUNDTOGALLERY	MN_READONLY_TOGALLERYCOPY	HID_MN_READONLY_TOGALLERYCOPY		0	zh-CN	复制				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP.MN_READONLY_BACKGROUNDTOGALLERY	MN_READONLY_TOGALLERYCOPY	HID_MN_READONLY_TOGALLERYCOPY		0	zh-TW	複製				2002-02-02 02:02:02
@@ -3202,7 +3204,7 @@ sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP.MN_READONLY_GRAPHICTOG
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP.MN_READONLY_GRAPHICTOGALLERY	MN_READONLY_TOGALLERYCOPY	HID_MN_READONLY_TOGALLERYCOPY		0	ur-IN	نقل کرو				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP.MN_READONLY_GRAPHICTOGALLERY	MN_READONLY_TOGALLERYCOPY	HID_MN_READONLY_TOGALLERYCOPY		0	uz	Nusxa olish				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP.MN_READONLY_GRAPHICTOGALLERY	MN_READONLY_TOGALLERYCOPY	HID_MN_READONLY_TOGALLERYCOPY		0	ve	Kopani				2002-02-02 02:02:02
-sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP.MN_READONLY_GRAPHICTOGALLERY	MN_READONLY_TOGALLERYCOPY	HID_MN_READONLY_TOGALLERYCOPY		0	vi	Chép				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP.MN_READONLY_GRAPHICTOGALLERY	MN_READONLY_TOGALLERYCOPY	HID_MN_READONLY_TOGALLERYCOPY		0	vi	Bản sao				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP.MN_READONLY_GRAPHICTOGALLERY	MN_READONLY_TOGALLERYCOPY	HID_MN_READONLY_TOGALLERYCOPY		0	xh	Kopa				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP.MN_READONLY_GRAPHICTOGALLERY	MN_READONLY_TOGALLERYCOPY	HID_MN_READONLY_TOGALLERYCOPY		0	zh-CN	复制				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	menuitem	MN_READONLY_POPUP.MN_READONLY_GRAPHICTOGALLERY	MN_READONLY_TOGALLERYCOPY	HID_MN_READONLY_TOGALLERYCOPY		0	zh-TW	複製				2002-02-02 02:02:02
@@ -3460,7 +3462,7 @@ sw	source\ui\docvw\docvw.src	0	string	STR_CHAIN_NOT_FOUND				0	eo	Cela kadro ne 
 sw	source\ui\docvw\docvw.src	0	string	STR_CHAIN_NOT_FOUND				0	es	En la posición actual no se puede encontrar ningún marco destino.				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_CHAIN_NOT_FOUND				0	et	Sihtpaneeli ei leitud sellest kohast.				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_CHAIN_NOT_FOUND				0	fi	Kohdekehystä ei löytynyt nykyisestä sijainnista.				2002-02-02 02:02:02
-sw	source\ui\docvw\docvw.src	0	string	STR_CHAIN_NOT_FOUND				0	fr	Aucun cadre cible ne peut être trouvé à la position courante.				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	string	STR_CHAIN_NOT_FOUND				0	fr	Aucun cadre cible ne peut être trouvé à la position active.				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_CHAIN_NOT_FOUND				13691	ga	Spriocfhráma gan aimsiú ag an ionad reatha.				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_CHAIN_NOT_FOUND				0	gl	Non é posible encontrar o marco de destino na posición actual.				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_CHAIN_NOT_FOUND				0	gu	વર્તમાન જગ્યાએ લક્ષ્ય ચોકઠું મળ્યુ નથી.				2002-02-02 02:02:02
@@ -3614,7 +3616,7 @@ sw	source\ui\docvw\docvw.src	0	string	STR_CHAIN_SELF				0	eo	Fermita ligilo ne e
 sw	source\ui\docvw\docvw.src	0	string	STR_CHAIN_SELF				0	es	No es posible una secuencia cerrada.				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_CHAIN_SELF				0	et	Suletud link pole võimalik.				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_CHAIN_SELF				0	fi	Suljettu linkki ei ole mahdollinen.				2002-02-02 02:02:02
-sw	source\ui\docvw\docvw.src	0	string	STR_CHAIN_SELF				0	fr	Une chaine fermée n'est pas possible.				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	string	STR_CHAIN_SELF				0	fr	Un lien fermé n'est pas possible.				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_CHAIN_SELF				13691	ga	Ní cheadaítear nasc dúnta.				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_CHAIN_SELF				0	gl	Non é posible unha ligazón pechada.				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_CHAIN_SELF				0	gu	બંધ કડી એ શક્ય નથી.				2002-02-02 02:02:02
@@ -3768,7 +3770,7 @@ sw	source\ui\docvw\docvw.src	0	string	STR_CHAIN_WRONG_AREA				0	eo	La cela kadro
 sw	source\ui\docvw\docvw.src	0	string	STR_CHAIN_WRONG_AREA				0	es	El marco destino se encuentra en un área en la que los vínculos no son posibles.				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_CHAIN_WRONG_AREA				0	et	Lingi sihtpaneel asub vigases piirkonnas.				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_CHAIN_WRONG_AREA				0	fi	Linkin kohdekehys on virheellisellä alueella.				2002-02-02 02:02:02
-sw	source\ui\docvw\docvw.src	0	string	STR_CHAIN_WRONG_AREA				0	fr	Le cadre-cible se trouve dans une section ne pouvant pas faire l'objet d'un lien.				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	string	STR_CHAIN_WRONG_AREA				0	fr	Le cadre cible se trouve dans une section ne pouvant pas faire l'objet d'un lien.				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_CHAIN_WRONG_AREA				13691	ga	Is limistéar neamhbhailí é an spriocfhráma.				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_CHAIN_WRONG_AREA				0	gl	O marco de destino que desexa ligar está nunha área incorrecta.				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_CHAIN_WRONG_AREA				0	gu	કડી માટેનુ લક્ષ્ય ચોકઠું એ અમાન્ય વિસ્તાર છે.				2002-02-02 02:02:02
@@ -3825,6 +3827,36 @@ sw	source\ui\docvw\docvw.src	0	string	STR_CHAIN_WRONG_AREA				0	xh	Isakhelo ekuj
 sw	source\ui\docvw\docvw.src	0	string	STR_CHAIN_WRONG_AREA				0	zh-CN	目标框处于一个无法链接的区域。				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_CHAIN_WRONG_AREA				0	zh-TW	目標訊框處於一個無法訊框的區域。				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_CHAIN_WRONG_AREA				0	zu	Isakhelo esiqondelwe isixhumanisi sisendaweni engasebenzi.				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	string	STR_DELETE_ALL_NOTES				0	de	Alle Notizen				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	string	STR_DELETE_ALL_NOTES				0	fr	Toutes les notes				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	string	STR_DELETE_ALL_NOTES				0	hu	Mindent jegyzet				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	string	STR_DELETE_ALL_NOTES				0	it	Tutte le note				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	string	STR_DELETE_ALL_NOTES				0	ja	すべてのメモ				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	string	STR_DELETE_ALL_NOTES				0	ko	모든 메모				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	string	STR_DELETE_ALL_NOTES				0	nl	Alle notities				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	string	STR_DELETE_ALL_NOTES				0	pt-BR	Todas as notas				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	string	STR_DELETE_ALL_NOTES				0	ru	Все примечания				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	string	STR_DELETE_ALL_NOTES				0	sh	Sve beleške				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	string	STR_DELETE_ALL_NOTES				0	sr	Све белешке				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	string	STR_DELETE_ALL_NOTES				0	sv	Alla anteckningar				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	string	STR_DELETE_ALL_NOTES				0	vi	Mọi ghi chú				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	string	STR_DELETE_ALL_NOTES				0	zh-CN	所有批注				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	string	STR_DELETE_ALL_NOTES				0	zh-TW	所有備註				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	string	STR_DELETE_AUTHOR_NOTES				0	de	Notizen von 				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	string	STR_DELETE_AUTHOR_NOTES				0	fr	Notes de				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	string	STR_DELETE_AUTHOR_NOTES				0	hu	Jegyzetet készítette: 				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	string	STR_DELETE_AUTHOR_NOTES				0	it	Note da				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	string	STR_DELETE_AUTHOR_NOTES				0	ja	ノートの作成者				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	string	STR_DELETE_AUTHOR_NOTES				0	ko	메모				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	string	STR_DELETE_AUTHOR_NOTES				0	nl	Notities van 				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	string	STR_DELETE_AUTHOR_NOTES				0	pt-BR	Notas de 				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	string	STR_DELETE_AUTHOR_NOTES				0	ru	Примечания по 				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	string	STR_DELETE_AUTHOR_NOTES				0	sh	Beleške od 				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	string	STR_DELETE_AUTHOR_NOTES				0	sr	Белешке од 				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	string	STR_DELETE_AUTHOR_NOTES				0	sv	Anteckningar som gjorts av 				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	string	STR_DELETE_AUTHOR_NOTES				0	vi	Ghi chú của 				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	string	STR_DELETE_AUTHOR_NOTES				0	zh-CN	批注作者				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	string	STR_DELETE_AUTHOR_NOTES				0	zh-TW	備註的依據				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_ENDNOTE				0	af	Eindnota: 				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_ENDNOTE				0	ar	تعليق ختامي: 				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_ENDNOTE				0	as-IN	অন্তিম টীকা: 				2002-02-02 02:02:02
@@ -4069,6 +4101,7 @@ sw	source\ui\docvw\docvw.src	0	string	STR_POSTIT_TODAY				0	es	Hoy,				2002-02-0
 sw	source\ui\docvw\docvw.src	0	string	STR_POSTIT_TODAY				0	et	Täna,				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_POSTIT_TODAY				0	fr	Aujourd'hui, 				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_POSTIT_TODAY				0	gl	Hoxe,				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	string	STR_POSTIT_TODAY				0	hu	Ma,				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_POSTIT_TODAY				0	it	Oggi,				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_POSTIT_TODAY				0	ja	今日、				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_POSTIT_TODAY				0	ko	오늘,				2002-02-02 02:02:02
@@ -4078,9 +4111,12 @@ sw	source\ui\docvw\docvw.src	0	string	STR_POSTIT_TODAY				0	pl	Dzisiaj,				2002-
 sw	source\ui\docvw\docvw.src	0	string	STR_POSTIT_TODAY				0	pt	Hoje,				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_POSTIT_TODAY				0	pt-BR	Hoje,				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_POSTIT_TODAY				0	ru	Сегодня,				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	string	STR_POSTIT_TODAY				0	sh	Danas,				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_POSTIT_TODAY				0	sl	Danes,				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	string	STR_POSTIT_TODAY				0	sr	Данас,				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_POSTIT_TODAY				0	sv	I dag,				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_POSTIT_TODAY				0	tr	Bugün,				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	string	STR_POSTIT_TODAY				0	vi	Hôm nay,				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_POSTIT_TODAY				0	zh-CN	今天，				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_POSTIT_TODAY				0	zh-TW	今日，				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_POSTIT_YESTERDAY				0	ar	Yesterday,				2002-02-02 02:02:02
@@ -4093,6 +4129,7 @@ sw	source\ui\docvw\docvw.src	0	string	STR_POSTIT_YESTERDAY				0	es	Ayer,				2002
 sw	source\ui\docvw\docvw.src	0	string	STR_POSTIT_YESTERDAY				0	et	Eile,				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_POSTIT_YESTERDAY				0	fr	Hier, 				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_POSTIT_YESTERDAY				0	gl	Onte,				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	string	STR_POSTIT_YESTERDAY				0	hu	Tegnap,				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_POSTIT_YESTERDAY				0	it	Ieri,				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_POSTIT_YESTERDAY				0	ja	昨日、				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_POSTIT_YESTERDAY				0	ko	어제,				2002-02-02 02:02:02
@@ -4102,9 +4139,12 @@ sw	source\ui\docvw\docvw.src	0	string	STR_POSTIT_YESTERDAY				0	pl	Wczoraj,				2
 sw	source\ui\docvw\docvw.src	0	string	STR_POSTIT_YESTERDAY				0	pt	Ontem,				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_POSTIT_YESTERDAY				0	pt-BR	Ontem,				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_POSTIT_YESTERDAY				0	ru	Вчера,				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	string	STR_POSTIT_YESTERDAY				0	sh	Juče,				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_POSTIT_YESTERDAY				0	sl	Včeraj,				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	string	STR_POSTIT_YESTERDAY				0	sr	Јуче,				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_POSTIT_YESTERDAY				0	sv	I går,				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_POSTIT_YESTERDAY				0	tr	Dün,				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	string	STR_POSTIT_YESTERDAY				0	vi	Hôm qua,				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_POSTIT_YESTERDAY				0	zh-CN	昨天，				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_POSTIT_YESTERDAY				0	zh-TW	昨日，				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_REDLINE_DELETE				0	af	Geskrap				2002-02-02 02:02:02
@@ -4206,7 +4246,7 @@ sw	source\ui\docvw\docvw.src	0	string	STR_REDLINE_FMTCOLL				0	es	Aplicado estil
 sw	source\ui\docvw\docvw.src	0	string	STR_REDLINE_FMTCOLL				0	et	Rakendatud lõigustiilid				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_REDLINE_FMTCOLL				0	fa	سبک‌های بند اِعمال شده				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_REDLINE_FMTCOLL				0	fi	Käytetyt kappaletyylit				2002-02-02 02:02:02
-sw	source\ui\docvw\docvw.src	0	string	STR_REDLINE_FMTCOLL				0	fr	Le style de paragraphe a été défini				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	string	STR_REDLINE_FMTCOLL				0	fr	Styles de paragraphe appliqués				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_REDLINE_FMTCOLL				13691	ga	Stíleanna Ailt i bhFeidhm				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_REDLINE_FMTCOLL				0	gl	Estilos de parágrafo aplicados				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_REDLINE_FMTCOLL				0	gu	ફકરો શૈલીઓ				2002-02-02 02:02:02
@@ -4238,10 +4278,10 @@ sw	source\ui\docvw\docvw.src	0	string	STR_REDLINE_FMTCOLL				0	pt	Estilos de par
 sw	source\ui\docvw\docvw.src	0	string	STR_REDLINE_FMTCOLL				0	pt-BR	Estilos de parágrafo aplicados				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_REDLINE_FMTCOLL				0	ru	Применен стиль абзаца				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_REDLINE_FMTCOLL				0	rw	 Imisusire y'igika yakoreshejwe				2002-02-02 02:02:02
-sw	source\ui\docvw\docvw.src	0	string	STR_REDLINE_FMTCOLL				0	sh	Primenjeni stilovi paragrafa				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	string	STR_REDLINE_FMTCOLL				0	sh	Primenjeni stilovi pasusa				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_REDLINE_FMTCOLL				0	sk	Použité štýly odstavca				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_REDLINE_FMTCOLL				0	sl	Uporabljeni slogi odstavkov				2002-02-02 02:02:02
-sw	source\ui\docvw\docvw.src	0	string	STR_REDLINE_FMTCOLL				0	sr	Примењени стилови параграфа				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	string	STR_REDLINE_FMTCOLL				0	sr	Примењени стилови пасуса				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_REDLINE_FMTCOLL				0	ss	Titayela letisetjentisiwe tepharagrafu				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_REDLINE_FMTCOLL				0	st	Ditaele tse Sebedisitsweng tsa Searapa				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_REDLINE_FMTCOLL				0	sv	Styckeformatmall definierad				2002-02-02 02:02:02
@@ -4530,7 +4570,9 @@ sw	source\ui\docvw\docvw.src	0	string	STR_SMARTTAG_CLICK				0	pt	Ctrl-clique par
 sw	source\ui\docvw\docvw.src	0	string	STR_SMARTTAG_CLICK				0	pt-BR	Pressione Ctrl e clique para abrir o menu de marcas inteligentes				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_SMARTTAG_CLICK				0	ru	Ctrl+щелчок для открытия меню смарт-тегов				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_SMARTTAG_CLICK				0	rw	Kanda Ctrl ufungure ibiri mu dutagi rukuruzi				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	string	STR_SMARTTAG_CLICK				0	sh	%s i klik da otvorite meni za pametne tagove				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_SMARTTAG_CLICK				0	sl	Ctrl-klik, da odprete meni Pametne značke				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	string	STR_SMARTTAG_CLICK				0	sr	%s и клик да отворите мени за паметне тагове				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_SMARTTAG_CLICK				0	sv	Ctrl-klicka för att öppna Smart etikettmeny				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_SMARTTAG_CLICK				13691	ta	Ctrl-click to open Smart Tag menu				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_SMARTTAG_CLICK				0	tr	Ctrl-Tıklama Akıllı Etiket menüsünü açar				2002-02-02 02:02:02
@@ -4744,10 +4786,10 @@ sw	source\ui\docvw\docvw.src	0	string	STR_TABLE_SELECT_ALL				0	pt	Seleccionar t
 sw	source\ui\docvw\docvw.src	0	string	STR_TABLE_SELECT_ALL				0	pt-BR	Selecionar tabela inteira				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_TABLE_SELECT_ALL				0	ru	Выделить всю таблицу				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_TABLE_SELECT_ALL				0	rw	Gutoranya imbonerahamwe yose				2002-02-02 02:02:02
-sw	source\ui\docvw\docvw.src	0	string	STR_TABLE_SELECT_ALL				0	sh	Odaberi celu tabelu				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	string	STR_TABLE_SELECT_ALL				0	sh	Izaberi celu tabelu				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_TABLE_SELECT_ALL				0	sk	Vybrať celú tabuľku				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_TABLE_SELECT_ALL				0	sl	Izberi celo tabelo				2002-02-02 02:02:02
-sw	source\ui\docvw\docvw.src	0	string	STR_TABLE_SELECT_ALL				0	sr	Одабери целу табелу				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	string	STR_TABLE_SELECT_ALL				0	sr	Изабери целу табелу				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_TABLE_SELECT_ALL				0	ss	Khetsa lonkhe litafula				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_TABLE_SELECT_ALL				0	st	Kgetha theibole kaofela				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_TABLE_SELECT_ALL				0	sv	Markera hela tabellen				2002-02-02 02:02:02
@@ -4821,10 +4863,10 @@ sw	source\ui\docvw\docvw.src	0	string	STR_TABLE_SELECT_COL				0	pt	Seleccionar c
 sw	source\ui\docvw\docvw.src	0	string	STR_TABLE_SELECT_COL				0	pt-BR	Selecionar coluna da tabela				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_TABLE_SELECT_COL				0	ru	Выделить столбец таблицы				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_TABLE_SELECT_COL				0	rw	Gutoranya inkingi y'imbonerahamwe				2002-02-02 02:02:02
-sw	source\ui\docvw\docvw.src	0	string	STR_TABLE_SELECT_COL				0	sh	Odaberi kolonu tabele				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	string	STR_TABLE_SELECT_COL				0	sh	Izaberi kolonu tabele				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_TABLE_SELECT_COL				0	sk	Vybrať stĺpec tabuľky				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_TABLE_SELECT_COL				0	sl	Izberi stolpec tabele				2002-02-02 02:02:02
-sw	source\ui\docvw\docvw.src	0	string	STR_TABLE_SELECT_COL				0	sr	Одабери колону табеле				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	string	STR_TABLE_SELECT_COL				0	sr	Изабери колону табеле				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_TABLE_SELECT_COL				0	ss	Khetsa ikholamu yelitafula				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_TABLE_SELECT_COL				0	st	Kgetha kholomo ya theibole				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_TABLE_SELECT_COL				0	sv	Markera tabellkolumn				2002-02-02 02:02:02
@@ -4898,10 +4940,10 @@ sw	source\ui\docvw\docvw.src	0	string	STR_TABLE_SELECT_ROW				0	pt	Seleccionar l
 sw	source\ui\docvw\docvw.src	0	string	STR_TABLE_SELECT_ROW				0	pt-BR	Selecionar linha da tabela				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_TABLE_SELECT_ROW				0	ru	Выделить строку таблицы				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_TABLE_SELECT_ROW				0	rw	Gutoranya urubariro rw'imbonerahamwe				2002-02-02 02:02:02
-sw	source\ui\docvw\docvw.src	0	string	STR_TABLE_SELECT_ROW				0	sh	Odaberi vrstu tabele				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	string	STR_TABLE_SELECT_ROW				0	sh	Izaberi red tabele				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_TABLE_SELECT_ROW				0	sk	Vybrať riadok tabuľky				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_TABLE_SELECT_ROW				0	sl	Izberi vrstico tabele				2002-02-02 02:02:02
-sw	source\ui\docvw\docvw.src	0	string	STR_TABLE_SELECT_ROW				0	sr	Одабери врсту табеле				2002-02-02 02:02:02
+sw	source\ui\docvw\docvw.src	0	string	STR_TABLE_SELECT_ROW				0	sr	Изабери ред табеле				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_TABLE_SELECT_ROW				0	ss	Khtsa irowu yelitafula				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_TABLE_SELECT_ROW				0	st	Kgetha mola wa theibole				2002-02-02 02:02:02
 sw	source\ui\docvw\docvw.src	0	string	STR_TABLE_SELECT_ROW				0	sv	Markera tabellrad				2002-02-02 02:02:02
