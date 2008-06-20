@@ -17,7 +17,7 @@
 #
 # $RCSfile: localize.sdf,v $
 #
-# $Revision: 1.39 $
+# $Revision: 1.40 $
 #
 # This file is part of OpenOffice.org.
 #
@@ -137,7 +137,7 @@ dbaccess	source\ui\tabledesign\table.src	0	errorbox	ERR_INVALID_LISTBOX_ENTRY			
 dbaccess	source\ui\tabledesign\table.src	0	errorbox	ERR_INVALID_LISTBOX_ENTRY				0	ur-IN	آپ نےجومتن داخل کیے    وہ   فہرست ایلیمینٹ میں نہیں ہے۔				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	errorbox	ERR_INVALID_LISTBOX_ENTRY				40	uz	Kiritilgan matn roʻyxat elementi emas. 				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	errorbox	ERR_INVALID_LISTBOX_ENTRY				40	ve	Ḽiṅwalwa ḽe na ḽi dzhenisa a si tshipiḓa tsha mutevhe. 				2002-02-02 02:02:02
-dbaccess	source\ui\tabledesign\table.src	0	errorbox	ERR_INVALID_LISTBOX_ENTRY				40	vi	Bạn đã nhập một văn bản không phải là yếu tố danh sách. 				2002-02-02 02:02:02
+dbaccess	source\ui\tabledesign\table.src	0	errorbox	ERR_INVALID_LISTBOX_ENTRY				40	vi	Bạn đã nhập một văn bản không phải là phần tử danh sách. 				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	errorbox	ERR_INVALID_LISTBOX_ENTRY				40	xh	Isiqendu osingenisileyo asisosiqalelo soludwe. 				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	errorbox	ERR_INVALID_LISTBOX_ENTRY				40	zh-CN	输入的文字不是列单单元。				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	errorbox	ERR_INVALID_LISTBOX_ENTRY				40	zh-TW	輸入的文字不是清單單元。				2002-02-02 02:02:02
@@ -318,7 +318,7 @@ dbaccess	source\ui\tabledesign\table.src	0	menuitem	RID_TABLEDESIGNROWPOPUPMENU	
 dbaccess	source\ui\tabledesign\table.src	0	menuitem	RID_TABLEDESIGNROWPOPUPMENU	SID_TABLEDESIGN_TABED_PRIMARYKEY	SID_TABLEDESIGN_TABED_PRIMARYKEY		0	ur-IN	پرائمری   کی				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	menuitem	RID_TABLEDESIGNROWPOPUPMENU	SID_TABLEDESIGN_TABED_PRIMARYKEY	SID_TABLEDESIGN_TABED_PRIMARYKEY		0	uz	Birinchi darajali kalit				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	menuitem	RID_TABLEDESIGNROWPOPUPMENU	SID_TABLEDESIGN_TABED_PRIMARYKEY	SID_TABLEDESIGN_TABED_PRIMARYKEY		0	ve	Khii Khulwane				2002-02-02 02:02:02
-dbaccess	source\ui\tabledesign\table.src	0	menuitem	RID_TABLEDESIGNROWPOPUPMENU	SID_TABLEDESIGN_TABED_PRIMARYKEY	SID_TABLEDESIGN_TABED_PRIMARYKEY		0	vi	Khóa chính				2002-02-02 02:02:02
+dbaccess	source\ui\tabledesign\table.src	0	menuitem	RID_TABLEDESIGNROWPOPUPMENU	SID_TABLEDESIGN_TABED_PRIMARYKEY	SID_TABLEDESIGN_TABED_PRIMARYKEY		0	vi	Khoá chính				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	menuitem	RID_TABLEDESIGNROWPOPUPMENU	SID_TABLEDESIGN_TABED_PRIMARYKEY	SID_TABLEDESIGN_TABED_PRIMARYKEY		0	xh	Iqhosha Elisentloko				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	menuitem	RID_TABLEDESIGNROWPOPUPMENU	SID_TABLEDESIGN_TABED_PRIMARYKEY	SID_TABLEDESIGN_TABED_PRIMARYKEY		0	zh-CN	主关键字				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	menuitem	RID_TABLEDESIGNROWPOPUPMENU	SID_TABLEDESIGN_TABED_PRIMARYKEY	SID_TABLEDESIGN_TABED_PRIMARYKEY		0	zh-TW	主關鍵字				2002-02-02 02:02:02
@@ -440,7 +440,7 @@ dbaccess	source\ui\tabledesign\table.src	0	pushbutton	PB_FORMAT				40	es	...				
 dbaccess	source\ui\tabledesign\table.src	0	pushbutton	PB_FORMAT				40	et	~...				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	pushbutton	PB_FORMAT				40	fa	~...				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	pushbutton	PB_FORMAT				40	fi	~...				2002-02-02 02:02:02
-dbaccess	source\ui\tabledesign\table.src	0	pushbutton	PB_FORMAT				40	fr	...				2002-02-02 02:02:02
+dbaccess	source\ui\tabledesign\table.src	0	pushbutton	PB_FORMAT				40	fr	~...				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	pushbutton	PB_FORMAT				40	ga	~...				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	pushbutton	PB_FORMAT				40	gl	~...				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	pushbutton	PB_FORMAT				40	gu	~...				2002-02-02 02:02:02
@@ -643,7 +643,7 @@ dbaccess	source\ui\tabledesign\table.src	0	querybox	TABLE_DESIGN_ALL_ROWS_DELETE
 dbaccess	source\ui\tabledesign\table.src	0	querybox	TABLE_DESIGN_ALL_ROWS_DELETED				0	uk	Ви намагаєтеся видалити всі стовпчики у таблиці. Таблиця не може існувати без стовпчиків. Видалити таблицю з бази даних? Якщо ні, таблиця лишитися незміненою.				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	querybox	TABLE_DESIGN_ALL_ROWS_DELETED				0	ur-IN	آپ جدول میں سے کالم خارج کرنےکی کوشش کریں جدول کا وجود بغیرکالم کےنہیں ہوتا اسکےلۓ ڈاٹابیس سےجدول کوخارج کریں؟اگرجدول میں تبدیلی نہ ہوتوبھی				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	querybox	TABLE_DESIGN_ALL_ROWS_DELETED				0	ve	Ni khou lingedza u thutha khoḽomu dzoṱhe kha thebuḽu. Thebuḽu i nga si kone u vha hone hu si na dzikhoḽomu. Thebuḽu i thuthiwa kha database. Arali zwi songo ralo, thebuḽu i do dzula i songo shandulwa.				2002-02-02 02:02:02
-dbaccess	source\ui\tabledesign\table.src	0	querybox	TABLE_DESIGN_ALL_ROWS_DELETED				0	vi	Bạn đang cố xoá hết các cột trong bảng. Một bảng không thể tồn tại mà không có cột. Bạn có muốn xoá bảng này khỏi cơ sở dữ liệu không? Nếu không, bảng sẽ vẫn ở tình trạng không thay đổi.				2002-02-02 02:02:02
+dbaccess	source\ui\tabledesign\table.src	0	querybox	TABLE_DESIGN_ALL_ROWS_DELETED				0	vi	Bạn đang cố xoá tất cả các cột trong bảng. Một bảng không thể tồn tại mà không có cột. Bạn có muốn xoá bảng này khỏi cơ sở dữ liệu không? Nếu không, bảng sẽ vẫn ở tình trạng không thay đổi.				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	querybox	TABLE_DESIGN_ALL_ROWS_DELETED				0	xh	Uzama ukucima zonke izintlu ezehlayo kwitheyibhile. Itheyibhile ayinakuba khona ngaphandle kwezintlu ezehlayo. Ingaba kufuneka kucinywe itheyibhile kwisiseko seenkcukacha? Ukuba akunjalo, itheyibhile iya kuhlala ingaguqulwanga.				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	querybox	TABLE_DESIGN_ALL_ROWS_DELETED				0	zh-CN	您正在试图删除表格中所有的列。每个表格必须至少含有一列。要删除这个表格吗？否则，将不会修改这个表格的内容。				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	querybox	TABLE_DESIGN_ALL_ROWS_DELETED				0	zh-TW	您正在試圖刪除表格之中的所有欄位。一個表格至少必須具有一個欄位。您要刪除這個表格嗎？否則，就不會變更這個表格。				2002-02-02 02:02:02
@@ -744,7 +744,7 @@ dbaccess	source\ui\tabledesign\table.src	0	querybox	TABLE_QUERY_CONNECTION_LOST	
 dbaccess	source\ui\tabledesign\table.src	0	querybox	TABLE_QUERY_CONNECTION_LOST				40	es	¡Se ha cancelado la conexión a la base de datos! Sin ella, el diseño de tabla solo se puede usar de forma limitada.\n¿Desea reanudar la conexión?				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	querybox	TABLE_QUERY_CONNECTION_LOST				40	et	Ühendus andmebaasiga on katkenud! Ühenduseta olekus saab tabeli kujundust kasutada vaid piiratud funktsionaalsusega.\nKas ühenduda uuesti?				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	querybox	TABLE_QUERY_CONNECTION_LOST				40	fi	Yhteys tietokantaan on katkennut. Taulun suunnittelutoimintoa voi käyttää vain rajoitetusti ilman yhteyttä.\nMuodostetaanko yhteys uudelleen?				2002-02-02 02:02:02
-dbaccess	source\ui\tabledesign\table.src	0	querybox	TABLE_QUERY_CONNECTION_LOST				40	fr	La connexion à la base de données a été interrompue ! Ceci entraîne une perte de fonctionnalité dans l'utilisation de l'ébauche de table.\nReconnecter ?				2002-02-02 02:02:02
+dbaccess	source\ui\tabledesign\table.src	0	querybox	TABLE_QUERY_CONNECTION_LOST				40	fr	La connexion à la base de données a été perdue ! Ceci entraîne une perte de fonctionnalité dans l'utilisation de l'ébauche de table.\nReconnecter ?				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	querybox	TABLE_QUERY_CONNECTION_LOST				40	ga	The connection to the database was lost! The table design can only be used with limited functionality without a connection.\nReconnect?				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	querybox	TABLE_QUERY_CONNECTION_LOST				40	gl	Perdeuse a conexión coa base de datos! Sen ela, o deseño da táboa só pode ser usado de xeito limitado.\nDesexa retomar a conexión?				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	querybox	TABLE_QUERY_CONNECTION_LOST				40	gu	ડેટાબેઝનું જોડાણ તૂટી ગયું હતું! કોષ્ટક રચના જોડાણ સિવાયની માત્ર મર્યાદિત વિધેયો સાથે વાપરી શકાય છે.\nશું પુનઃજોડાવું છે?				2002-02-02 02:02:02
@@ -794,7 +794,7 @@ dbaccess	source\ui\tabledesign\table.src	0	querybox	TABLE_QUERY_CONNECTION_LOST	
 dbaccess	source\ui\tabledesign\table.src	0	querybox	TABLE_QUERY_CONNECTION_LOST				40	uk	Зв'язок з базою даних було втрачено! Проектування таблиці можливе лише з обмеженнями функціональності.\nВідновити зв'язок?				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	querybox	TABLE_QUERY_CONNECTION_LOST				0	ur-IN	ڈاٹابیس کاتعلق کھوگیا تھا!جدول کےڈیزائن میں صرف محدود فنشن کاتعلق کےساتھ  استعمال کرسکتےہیں۔/n۔				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	querybox	TABLE_QUERY_CONNECTION_LOST				40	ve	Thumanyo kha database yo xela! Nyolo ya thebulu i nga kona fhedzi u shumiswa nga mishumo yo pimiwaho hu si na thumanyo.\nNi khou toda u tuma hafhu?				2002-02-02 02:02:02
-dbaccess	source\ui\tabledesign\table.src	0	querybox	TABLE_QUERY_CONNECTION_LOST				40	vi	Kết nối tới cơ sở dữ liệu đã bị dứt. Khi không có kết nối, thiết kế bảng chỉ có chức năng bị hạn chế.\nTái kết nối không?				2002-02-02 02:02:02
+dbaccess	source\ui\tabledesign\table.src	0	querybox	TABLE_QUERY_CONNECTION_LOST				40	vi	Kết nối tới cơ sở dữ liệu đã bị dứt. Khi không có kết nối, đề cương bảng chỉ có chức năng bị hạn chế.\nTái kết nối không?				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	querybox	TABLE_QUERY_CONNECTION_LOST				40	xh	Umdibaniso oya kwisiseko seenkcukacha walahleka! Uyilo lwetheyibhile luya kusetyenziswa kuphela kumsebenzi ocuthiweyo ngaphandle komdibansio.\nUyadibanisa kwakhona?				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	querybox	TABLE_QUERY_CONNECTION_LOST				40	zh-CN	和数据库的连接已经关闭！您只能有限地使用表格设计的功能。\n是否要和数据库重建连接？				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	querybox	TABLE_QUERY_CONNECTION_LOST				40	zh-TW	和資料庫的連線已經被刪除！您只能有限地使用表格設計的功能。\n要和資料庫重新連線？				2002-02-02 02:02:02
@@ -819,7 +819,7 @@ dbaccess	source\ui\tabledesign\table.src	0	string	STR_AUTOINCREMENT_VALUE				0	e
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_AUTOINCREMENT_VALUE				0	es	Expresión incremento a~utomático				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_AUTOINCREMENT_VALUE				0	et	A~utomaatselt kasvamise lause				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_AUTOINCREMENT_VALUE				0	fi	Kasvata lauseketta a~utomaattisesti				2002-02-02 02:02:02
-dbaccess	source\ui\tabledesign\table.src	0	string	STR_AUTOINCREMENT_VALUE				0	fr	Expression d'auto-incrément				2002-02-02 02:02:02
+dbaccess	source\ui\tabledesign\table.src	0	string	STR_AUTOINCREMENT_VALUE				0	fr	~Expression d'auto-incrément				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_AUTOINCREMENT_VALUE				40	ga	Ráiteas ~incriminteach uathoibríoch				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_AUTOINCREMENT_VALUE				0	gl	~Instrución de incremento automático				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_AUTOINCREMENT_VALUE				0	gu	આપમેળે વધારાનુ વાક્ય(~u)				2002-02-02 02:02:02
@@ -1288,7 +1288,7 @@ dbaccess	source\ui\tabledesign\table.src	0	string	STR_DEFAULT_VALUE				40	es	Val
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_DEFAULT_VALUE				40	et	~Vaikimisi väärtus				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_DEFAULT_VALUE				40	fa	مقدار ~پیش‌فرض				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_DEFAULT_VALUE				40	fi	~Oletusarvo				2002-02-02 02:02:02
-dbaccess	source\ui\tabledesign\table.src	0	string	STR_DEFAULT_VALUE				40	fr	Valeur par défaut				2002-02-02 02:02:02
+dbaccess	source\ui\tabledesign\table.src	0	string	STR_DEFAULT_VALUE				40	fr	~Valeur par défaut				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_DEFAULT_VALUE				40	ga	~Luach réamhshocraithe				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_DEFAULT_VALUE				40	gl	Valor ~predefinido				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_DEFAULT_VALUE				40	gu	મૂળભુત કિંમત(~D)				2002-02-02 02:02:02
@@ -1634,10 +1634,10 @@ dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_AUTOINCREMENT				40	p
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_AUTOINCREMENT				40	pt-BR	Decida se esse campo deve conter valores de Autoincremento.\n\nNão é possível inserir dados em campos desse tipo. Um valor intrínseco será automaticamente atribuído a cada novo registro (resultante do incremento do registro anterior).				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_AUTOINCREMENT				40	ru	Выберите это значение, если поле будет содержать автоинкрементные значения.\n\nВ этом случае, вы не сможете непосредственно вводить в него данные, поскольку для каждой новой записи этому полю будет автоматически присвоено уникальное значение (которое получается, благодаря увеличению на единицу значения из предыдущей записи).				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_AUTOINCREMENT				40	rw	Guhitamo niba uyu mwanya wajyamo uduciro nyakwiyongera.\n\nNtushobora kwinjizamo ibyatanzwe mu myanya y'ubu bwoko. Agaciro kihariye kazagenda gahabwa buri cyabitswe gishya mu buryo bwikoresha (bitewe no kwiyongera kw'icyari cyabitswe).				2002-02-02 02:02:02
-dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_AUTOINCREMENT				40	sh	Odaberi da li ovo polje treba da sadrži autoinkrementirajuće vrednosti.\n\nPodatke ne možeš uneti u ovu vrstu polja. Unutrašnja vrednost će biti dodeljena automatski svakom novom zapisu (dajući inkrementovan broj u odnosu na prethodni zapis).				2002-02-02 02:02:02
+dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_AUTOINCREMENT				40	sh	Izaberi da li ovo polje treba da sadrži autoinkrementirajuće vrednosti.\n\nPodatke ne možeš uneti u ovu vrstu polja. Unutrašnja vrednost će biti dodeljena automatski svakom novom zapisu (dajući inkrementovan broj u odnosu na prethodni zapis).				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_AUTOINCREMENT				40	sk	Vyberte, ak toto pole má obsahovať Autoincrement hodnoty.\n\nDo poľa tohoto typu nemožno vkladať dáta. Do každého nového záznamu bude automaticky vložená hodnota.( (ktorá je vyššia ako tá v predchádzajúcom zázname)				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_AUTOINCREMENT				40	sl	Izberite, če naj polje vsebuje vrednosti AutoIncrement.\n\nV ta tip polja ne morete vnesti podatkov. Vsakemu zapisu bo samodejno dodeljena notranja vrednost (povečana glede na vrednost prejšnjega zapisa).				2002-02-02 02:02:02
-dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_AUTOINCREMENT				40	sr	Одабери да ли ово поље треба да садржи аутоинкрементирајуће вредности.\n\nПодатке не можеш унети у ову врсту поља. Унутрашња вредност ће бити додељена аутоматски сваком новом запису (дајући инкрементован број у односу на претходни запис).				2002-02-02 02:02:02
+dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_AUTOINCREMENT				40	sr	Изабери да ли ово поље треба да садржи аутоинкрементирајуће вредности.\n\nПодатке не можеш унети у ову врсту поља. Унутрашња вредност ће бити додељена аутоматски сваком новом запису (дајући инкрементован број у односу на претходни запис).				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_AUTOINCREMENT				40	ss	Khetsa nangabe lensimi kufanele ibe nekutengetekela kwesisindvo.\n\nNgeke ukhone kufaka emasimi edatha kulenhlobo. Sisindvo sibili sitawusetjentiswa othomathikhali kuwo onkhe emarekhodi lamasha (lokutakwentiwa kwengetwa kwemarekhodi lendlulile).				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_AUTOINCREMENT				40	st	Kgetha haeba lebala lena le tshwanetse ho ba le boleng ba Kgodiso e Iketsahallang.\n\nO ka se kgone ho kenya boitsebiso mabaleng a mofuta ona. Ho tla abelwa boleng ba tlhaho ho rekhoto e nngwe le e nngwe e ntjha ka ho iketsahallang (ka baka la kgodiso ya rekhoto e fetileng).				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_AUTOINCREMENT				40	sv	Välj om det här fältet skall innehålla Auto-Inkrementvärden.\n\nDu kan i så fall inte mata in några data direkt i fältet, utan varje ny datapost tilldelas automatiskt ett eget värde (vilket bestäms av inkrementering från den förra dataposten).				2002-02-02 02:02:02
@@ -1677,7 +1677,7 @@ dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_AUTOINCREMENT_VALUE		
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_AUTOINCREMENT_VALUE				0	es	Introduzca una expresión SQL para el campo de incremento automático.\n\nEsta expresión se importará directamente a la base de datos desde que la tabla se cree. 				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_AUTOINCREMENT_VALUE				0	et	Sisesta automaatselt kasvava välja SQL käsk.\n\nTabeli loomisel lisatakse see käsk automaatselt andmebaasi.				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_AUTOINCREMENT_VALUE				0	fi	Anna automaattisesti kasvatettavalle kentälle SQL-lauseke.\n\nTämä lauseke siirretään suoraan tietokantaan kun taulu luodaan.				2002-02-02 02:02:02
-dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_AUTOINCREMENT_VALUE				0	fr	Saisissez une expression SQL pour le champ d'auto-incrément.\n\nCette expression sera directement transférée vers la base de données au moment de la création de la table.				2002-02-02 02:02:02
+dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_AUTOINCREMENT_VALUE				0	fr	Saisissez une instruction SQL pour le champ d'auto-incrément.\n\nCette instruction sera directement transférée vers la base de données au moment de la création de la table.				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_AUTOINCREMENT_VALUE				40	ga	Iontráil ráiteas SQL don réimse incrimintigh uathoibríoch.\n\nAistreofar an ráiteas díreach go dtí an bunachar sonraí nuair a chruthófar an tábla.				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_AUTOINCREMENT_VALUE				0	gl	Introduza unha instrución SQL para o campo de incremento automático.\n\nEsta instrución será transferida directamente á base de datos cando se cree a táboa.				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_AUTOINCREMENT_VALUE				0	gu	આપોઆપ-વધારો ક્ષેત્ર માટે SQL વિધાન દાખલ કરો.\n\nઆ વિધાન સીધું જ ડેટાબેઝમાં પરિવહન પામશે જ્યારે કોષ્ટક બને.				2002-02-02 02:02:02
@@ -1752,7 +1752,7 @@ dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_BOOL_DEFAULT				40	eo
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_BOOL_DEFAULT				40	es	Elija el valor que deba aparecer como predeterminado en cada registro de datos que se\ninserte de nuevo. Elija la secuencia vacía si el campo no ha de contener tal valor predeterminado.				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_BOOL_DEFAULT				40	et	Vali uute kirjete vaikeväärtus.\nKui sa ei soovi väljale vaikeväärtust, siis ära sisesta midagi.				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_BOOL_DEFAULT				40	fi	Valitse arvo, joka näkyy kaikissa uusissa tietueissa oletuksena.\nJos kenttään ei tule oletusarvoa, valitse tyhjä merkkijono.				2002-02-02 02:02:02
-dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_BOOL_DEFAULT				40	fr	Définissez la valeur à faire figurer comme valeur par défaut dans tous les nouveaux enregistrements.\Si le champ ne doit pas adopter de valeur par défaut, choisissez la chaîne vide.				2002-02-02 02:02:02
+dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_BOOL_DEFAULT				40	fr	Sélectionnez une valeur à faire figurer comme valeur par défaut dans tous les nouveaux enregistrements.\nSi le champ ne doit pas adopter de valeur par défaut, sélectionnez la chaîne vide.				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_BOOL_DEFAULT				40	ga	Roghnaigh luach atá le bheith réamhshocraithe i ngach taifead nua.\nMura bhfuil luach réamhshocraithe i ndán don taifead, roghnaigh teaghrán folamh.				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_BOOL_DEFAULT				40	gl	Seleccione o valor que deba aparecer como predefinido en todos os novos rexistros de datos.\nSeleccione a cadea baleira se o campo non ten que conter un valor predefinido.				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_BOOL_DEFAULT				40	gu	કિંમત પસંદ કરો કે જે બધા નવા રેકોર્ડોમાં મૂળબૂત તરીકે દેખાય.\nજો ક્ષેત્રને મૂળભૂત કિંમત નહિં હોય, તો ખાલી શબ્દમાળા પસંદ કરો.				2002-02-02 02:02:02
@@ -1826,7 +1826,7 @@ dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_DEFAULT_VALUE				40	e
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_DEFAULT_VALUE				40	es	Especifique aquí un valor predeterminado para el campo.\n\nSi posteriormente introduce datos en la tabla, en cada registro nuevo se usará esta cadena de carecteres para el campo actual. Por esta razón debe corresponder al formato de celda a introducir más abajo.				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_DEFAULT_VALUE				40	et	Sisesta selle välja vaikeväärtus.\n\nHiljem andmeid tabelisse sisestades kasutatakse seda väärtust iga uue kirje vastaval väljal. Seetõttu peaks see olema valitud vastavalt välja vormingule.				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_DEFAULT_VALUE				40	fi	Syötä oletusarvo tätä kenttää varten.\n\nTätä merkkijonoa käytetään valitun kentän jokaisessa uudessa tietueessa, kun tietoja syötetään tauluun. Oletusarvon tulee siksi myös vastata solun muotoa, joka määritellään alapuolella.				2002-02-02 02:02:02
-dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_DEFAULT_VALUE				40	fr	Saisissez une valeur par défaut pour le champ.\n\nIl s'agit de la chaîne de caractères qui sera utilisée dans chaque nouvel enregistrement pour le champ actif lorsque vous saisirez des données dans la table. Elle doit donc correspondre au format de cellule à saisir plus bas.				2002-02-02 02:02:02
+dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_DEFAULT_VALUE				40	fr	Saisissez une valeur par défaut pour ce champ.\n\nLorsque vous saisirez des données ultérieurement dans la table, cette chaîne sera utilisée à chaque nouvel enregistrement pour le champ sélectionnée. Elle doit donc correspondre au format de cellule qui doit être saisi en-dessous.				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_DEFAULT_VALUE				40	ga	Cuir isteach luach réamhshocraithe don réimse seo.\n\nNíos moille, nuair a chuirfidh tú sonraí sa tábla, bainfear úsáid as an teaghrán seo do gach taifead nua don réimse roghnaithe. Ba cheart, mar sin, go mbeadh sé comhfhreagartha d'fhormáid na cille atá le líonadh thíos.				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_DEFAULT_VALUE				40	gl	Especifique un valor predefinido para este campo.\n\nSe despois introduce datos na táboa, usarase esta cadea de caracteres en cada novo rexistro para o campo seleccionado. Por esta razón, debe corresponderse co formato de cela que se vai introducir máis abaixo.				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_DEFAULT_VALUE				40	gu	આ ક્ષેત્ર માટે મૂળભૂત કિંમત દાખલ કરો.\n\nપછી જ્યારે તમે કોષ્ટકમાં માહિતી દાખલ કરો, તો આ શબ્દમાળા દરેક નવા રેકોર્ડમાં પસંદ કરેલ ક્ષેત્ર માટે વપરાશે. તે, તેથી, ખાનાં બંધારણને લગતું હોવું જોઈએ કે જેને નીચે દાખલ કરવાની જરૂર હોય.				2002-02-02 02:02:02
@@ -1953,7 +1953,7 @@ dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_FIELD_REQUIRED				40	
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_FIELD_REQUIRED				0	ur-IN	اس اوپشن کومتحرک کرو  اگر اس شبعہ میں قیمت نہیں ہے NULL تو ہمیشہ ڈاٹا اسالیب میں جاری کرو۔				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_FIELD_REQUIRED				40	uz	Agar maydon NULL qiymatiga teng boʻlmasligi kerak boʻlsa, ushbu opsiyani tanlang. Maydonga biror maʼlumot kiritilishi shart.				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_FIELD_REQUIRED				40	ve	Itani uri hei khetho i shume arali heḽi buḓo ḽi na ndeme dzi sa ṰANGANEDZI, i.e. mushumisi u tea u dzhenisa vhuṱanzi misi yoṱhe.				2002-02-02 02:02:02
-dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_FIELD_REQUIRED				40	vi	Kích hoạt tùy chọn này nếu trường không thể chứa giá trị NULL (vô giá trị), nghía là người dùng phải luôn nhập dữ liêu vào nó.				2002-02-02 02:02:02
+dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_FIELD_REQUIRED				40	vi	Kích hoạt tùy chọn này nếu trường không thể chứa giá trị RỖNG, nghía là người dùng phải luôn nhập dữ liêu vào nó.				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_FIELD_REQUIRED				40	xh	Sebenzisa okukhethiweyo xa lo mmandla ungakwazi kuqulatha amaxabiso OKUPHUTHILEYO, o.k.t. umsebenzisi makasoloko ezingenisa iinkcukacha.				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_FIELD_REQUIRED				40	zh-CN	如果这个字段内不允许使用零值而要求必须输入数据，请选中这个选项。				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_FIELD_REQUIRED				40	zh-TW	如果要設定這個欄位內不可以輸入零值而必須輸入有效值時，您就必須採用這個選項。				2002-02-02 02:02:02
@@ -2056,7 +2056,7 @@ dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_FORMAT_CODE				40	es	
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_FORMAT_CODE				40	et	Siin on näha, millisena kujutatakse andmeid käesolevas vormingus (vormingu muutmiseks kasuta nuppu paremal).				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_FORMAT_CODE				40	fa	اینجا جایی است که داده‌ها در قالب‌بندی فعلی نمایش داده خواهند شد (برای تغییر قالب از دکمهٔ سمت چپ استفاده کنید).				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_FORMAT_CODE				40	fi	Tässä näytetään kuinka tiedot näytettäisiin käyttäen nykyistä muotomääritystä (voit muokata muotoa käyttämällä painiketta oikealla).				2002-02-02 02:02:02
-dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_FORMAT_CODE				40	fr	Voici comment les données de la colonne concernée seront formatées si vous utilisez le format actuellement paramétré. Pour modifier ce format, cliquez sur le bouton approprié situé à côté.				2002-02-02 02:02:02
+dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_FORMAT_CODE				40	fr	Voici comment les données de la colonne concernée seront formatées si vous utilisez le format actuellement paramétré. Pour modifier ce format, cliquez sur le bouton situé à droite.				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_FORMAT_CODE				40	ga	Seo an áit a bhfeicfidh tú cén chaoi a dtaispeánfar na sonraí san fhormáid reatha (úsáid an cnaipe ar do dheis chun é seo a athrú).				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_FORMAT_CODE				40	gl	Aquí pode ver como serían mostrados os datos co actual formato (use o botón da dereita para modificar o formato).				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_FORMAT_CODE				40	gu	આ એ જગ્યા છે કે જ્યાં તમે માહિતી કેવી રીતે વર્તમાન બંધારણમાં પ્રદર્શિત કરશો. (બંધારણ સુધારવા માટે જમણી બાજુએ આવેલ બટન વાપરો)				2002-02-02 02:02:02
@@ -2108,7 +2108,7 @@ dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_FORMAT_CODE				40	uk	
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_FORMAT_CODE				0	ur-IN	آپ دیکھ رہےکہ یہ ڈاٹا پہلےکہاں ظاہر ہواہے(بٹن استعمال کرکے سیدھی جانب پرشکل میں تبدیلی کرے۔				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_FORMAT_CODE				40	uz	Bu yerda maʼlumotlar qanday koʻirinishini oldindan koʻrish mumkin (oʻng tomondagi tugma yordamida formatni oʻzgartirish mumkin).				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_FORMAT_CODE				40	ve	Hafha ndi hune na kona u vhona hune vhuṱanzi ha ḓo ṱaniwa hone kha fomathi ino (shumisani gunubu ine ya vha kha tsha u ḽa u itela u khwinifhadza fomathi).				2002-02-02 02:02:02
-dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_FORMAT_CODE				40	vi	Ở đây hiển thị dữ liệu bằng định dạng hiện có. Dùng cái nút bên phải để sửa đổi định dạng.				2002-02-02 02:02:02
+dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_FORMAT_CODE				40	vi	Ở đây hiển thị dữ liệu bằng định dạng hiện có (dùng cái nút bên phải để sửa đổi định dạng).				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_FORMAT_CODE				40	xh	Apha kulapho ubona indlela iinkcukacha eziboniswa ngayo kulungiselelo lwangoku (sebenzisa iqhosha elingasekunene ukuhlengahlengisa ulungiselelo).				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_FORMAT_CODE				40	zh-CN	您看到的是当前列数据采用的显示格式（您可以使用右边的按钮改变它）。				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_FORMAT_CODE				40	zh-TW	在這裏您能夠看到透過按一下旁邊的按鈕來修改目前的欄內資料格式。				2002-02-02 02:02:02
@@ -2208,7 +2208,7 @@ dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_NUMERIC_TYPE				40	es
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_NUMERIC_TYPE				40	et	Sisesta arvu vorming.				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_NUMERIC_TYPE				40	fa	قالب عدد را وارد کنید.				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_NUMERIC_TYPE				40	fi	Syötä lukumuoto.				2002-02-02 02:02:02
-dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_NUMERIC_TYPE				40	fr	Spécifiez le type de nombre.				2002-02-02 02:02:02
+dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_NUMERIC_TYPE				40	fr	Saisissez le format de nombre.				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_NUMERIC_TYPE				40	ga	Iontráil an fhormáid uimhreach.				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_NUMERIC_TYPE				40	gl	Introducir o formato numérico. 				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_NUMERIC_TYPE				40	gu	સંખ્યાનું બંધારણ દાખલ કરો.				2002-02-02 02:02:02
@@ -2338,7 +2338,7 @@ dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_SCALE				40	uk	Вка
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_SCALE				0	ur-IN	اس شعبہ میں شماریات کی وضاحت کرکےاشاری جگہ کواجازت دے				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_SCALE				40	uz	Bu yerga verguldan keyingi belgilar sonini kiriting.				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_SCALE				40	ve	Bulani nomboro ya fhethu ha desimala ho tendelwaho kha heli budo.				2002-02-02 02:02:02
-dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_SCALE				40	vi	Xác dịnh số lần số được phép trong trường này.				2002-02-02 02:02:02
+dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_SCALE				40	vi	Xác dịnh số các chữ số thập phân được phép trong trường này.				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_SCALE				40	xh	Xela inani leendawo zedesimali ezivumeleke kulo mmandla.				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_SCALE				40	zh-CN	请为这个字段内的数字设置小数点位数。				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_SCALE				40	zh-TW	請設定欄位允許輸入的小數點數位。				2002-02-02 02:02:02
@@ -2363,7 +2363,7 @@ dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_TEXT_LENGTH				40	eo	
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_TEXT_LENGTH				40	es	Escriba la longitud máxima de texto permitida.				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_TEXT_LENGTH				40	et	Sisesta teksti maksimaalne lubatud pikkus.				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_TEXT_LENGTH				40	fi	Syötä tekstin sallittu enimmäispituus.				2002-02-02 02:02:02
-dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_TEXT_LENGTH				40	fr	Entrez la longueur de texte maximale autorisée.				2002-02-02 02:02:02
+dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_TEXT_LENGTH				40	fr	Saisissez la longueur de texte maximale autorisée.				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_TEXT_LENGTH				40	ga	Iontráil uasmhéid fad an téacs atá ceadaithe.				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_TEXT_LENGTH				40	gl	Introduza a máxima lonxitude de texto permitida				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_HELP_TEXT_LENGTH				40	gu	પરવાનગી અપાયેલ મહત્તમ લંબાઈ દાખલ કરો.				2002-02-02 02:02:02
@@ -2494,7 +2494,7 @@ dbaccess	source\ui\tabledesign\table.src	0	string	STR_LENGTH				40	uk	~Довж�
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_LENGTH				0	ur-IN	لمبائی				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_LENGTH				40	uz	~Uzunligi				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_LENGTH				40	ve	~Vhulapfu				2002-02-02 02:02:02
-dbaccess	source\ui\tabledesign\table.src	0	string	STR_LENGTH				40	vi	Độ ~dài				2002-02-02 02:02:02
+dbaccess	source\ui\tabledesign\table.src	0	string	STR_LENGTH				40	vi	Chiều ~dài				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_LENGTH				40	xh	~Ubude				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_LENGTH				40	zh-CN	长度(~L)				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_LENGTH				40	zh-TW	長度(~L)				2002-02-02 02:02:02
@@ -2548,7 +2548,7 @@ dbaccess	source\ui\tabledesign\table.src	0	string	STR_NO_TYPE_INFO_AVAILABLE				
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_NO_TYPE_INFO_AVAILABLE				0	pl	Nie można uzyskać informacji o typie danych z bazy danych.\nTryb projektowania tabeli nie jest dostępny dla tych danych źródłowych.				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_NO_TYPE_INFO_AVAILABLE				0	pt	Não foi possível obter da base de dados informações sobre o tipo.\nO modo de desenho de tabela não se encontra disponível para esta origem dos dados.				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_NO_TYPE_INFO_AVAILABLE				0	pt-BR	Não foi possível recuperar nenhum tipo de informação do banco de dados.\nO modo design da tabela não está disponível para esta fonte de dados.				2002-02-02 02:02:02
-dbaccess	source\ui\tabledesign\table.src	0	string	STR_NO_TYPE_INFO_AVAILABLE				0	ru	Информация о типах не может быть получена из базы данных. \nРежим проектирования таблиц не доступен для этого источника.				2002-02-02 02:02:02
+dbaccess	source\ui\tabledesign\table.src	0	string	STR_NO_TYPE_INFO_AVAILABLE				0	ru	Информация о типах не может быть получена из базы данных.\nРежим проектирования таблиц не доступен для этого источника.				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_NO_TYPE_INFO_AVAILABLE				0	rw	Nta bwoko bw'amakuru ashoboye kuboneka mu bubikoshingiro. \nUburyo bw'ihanga ry'imbonerahamwe ntibubonetse kuri iyi soko y'ibyatanzwe.				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_NO_TYPE_INFO_AVAILABLE				0	sh	Ne može se obezbediti vrsta informacije iz baze.\nIzgled tabele nije dostupan za ovaj izvor podataka.				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_NO_TYPE_INFO_AVAILABLE				0	sk	Z databázy nemožno získať informáciu o typoch.\nPre tento zdroj dát nie je možná úprava štruktúry tabuľky.				2002-02-02 02:02:02
@@ -2568,7 +2568,7 @@ dbaccess	source\ui\tabledesign\table.src	0	string	STR_NO_TYPE_INFO_AVAILABLE				
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_NO_TYPE_INFO_AVAILABLE				0	uk	Інформацію про тип не можна отримана з бази даних.\nРежим проектування таблиці недоступний для цього джерела даних.				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_NO_TYPE_INFO_AVAILABLE				0	ur-IN	ٹائپ کی ہوئی معلومات ریٹرائڈ ڈاٹا بیس سےنہیں\nجدول کی ڈیزائن موڈ ڈاٹاسورس سےقائم نہیں ہے۔				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_NO_TYPE_INFO_AVAILABLE				0	ve	A huna vhuṱanzi ha lushaka ho waniwaho u bva kha database.\nMoudu wa nyolo ya thebuḽu a u khou wanala u itela hetshi tshiko tsha vhuṱanzi.				2002-02-02 02:02:02
-dbaccess	source\ui\tabledesign\table.src	0	string	STR_NO_TYPE_INFO_AVAILABLE				0	vi	Không thể lấy thông tin kiểu nào từ cơ sở dữ liệu.\nChế độ thiết kế bảng không sẵn sàng cho nguồn dữ liệu này.				2002-02-02 02:02:02
+dbaccess	source\ui\tabledesign\table.src	0	string	STR_NO_TYPE_INFO_AVAILABLE				0	vi	Không thể lấy thông tin kiểu nào từ cơ sở dữ liệu.\nChế độ đề cương bảng không sẵn sàng cho nguồn dữ liệu này.				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_NO_TYPE_INFO_AVAILABLE				0	xh	Akukho simbo solwazi esithe sabuyiselwa ukusuka kwisiseko seenkcukacha.\nImo yoyilo lwetheyibhile ayifumaneki ukwenzela lo mthombo weenkcukacha.				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_NO_TYPE_INFO_AVAILABLE				0	zh-CN	无法从数据库获得类型信息。\n不提供此数据源的表格设计模式。				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_NO_TYPE_INFO_AVAILABLE				0	zh-TW	無法從資料庫檢索類別資訊。\n這個資料來源沒有可用的表格設計模式。				2002-02-02 02:02:02
@@ -2594,7 +2594,7 @@ dbaccess	source\ui\tabledesign\table.src	0	string	STR_NUMERIC_TYPE				40	es	Tip~
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_NUMERIC_TYPE				40	et	~Tüüp				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_NUMERIC_TYPE				40	fa	نو~ع				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_NUMERIC_TYPE				40	fi	~Tyyppi				2002-02-02 02:02:02
-dbaccess	source\ui\tabledesign\table.src	0	string	STR_NUMERIC_TYPE				40	fr	Type				2002-02-02 02:02:02
+dbaccess	source\ui\tabledesign\table.src	0	string	STR_NUMERIC_TYPE				40	fr	~Type				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_NUMERIC_TYPE				40	ga	~Cineál				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_NUMERIC_TYPE				40	gl	~Tipo				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_NUMERIC_TYPE				40	gu	પ્રકાર(~T)				2002-02-02 02:02:02
@@ -2752,7 +2752,7 @@ dbaccess	source\ui\tabledesign\table.src	0	string	STR_SCALE				40	es	~Decimales	
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_SCALE				40	et	~Kümnendkohad				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_SCALE				40	fa	تعداد ر~قم اعشار				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_SCALE				40	fi	~Desimaaleja				2002-02-02 02:02:02
-dbaccess	source\ui\tabledesign\table.src	0	string	STR_SCALE				40	fr	Décimales				2002-02-02 02:02:02
+dbaccess	source\ui\tabledesign\table.src	0	string	STR_SCALE				40	fr	~Décimales				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_SCALE				40	ga	Ionaid ~deachúlacha				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_SCALE				40	gl	~Decimais				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_SCALE				40	gu	દશાંશની જગ્યાઓ(~p)				2002-02-02 02:02:02
@@ -2803,7 +2803,7 @@ dbaccess	source\ui\tabledesign\table.src	0	string	STR_SCALE				40	ts	Nhlayo-khum
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_SCALE				40	uk	~Знаків після коми				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_SCALE				0	ur-IN	اشاری سیمت جگہ 				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_SCALE				40	ve	~Fhethu ha desimala				2002-02-02 02:02:02
-dbaccess	source\ui\tabledesign\table.src	0	string	STR_SCALE				40	vi	Lần ~số				2002-02-02 02:02:02
+dbaccess	source\ui\tabledesign\table.src	0	string	STR_SCALE				40	vi	Chữ số thập ~phân				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_SCALE				40	xh	~Iindawo zedesimali				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_SCALE				40	zh-CN	小数点位数(~P)				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_SCALE				40	zh-TW	小數點位數(~P)				2002-02-02 02:02:02
@@ -2908,7 +2908,7 @@ dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABED_UNDO_CELLMODIFIED			
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABED_UNDO_CELLMODIFIED				40	et	Muuda lahtrit				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABED_UNDO_CELLMODIFIED				40	fa	تغییر خانه				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABED_UNDO_CELLMODIFIED				40	fi	Muuta solua				2002-02-02 02:02:02
-dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABED_UNDO_CELLMODIFIED				40	fr	Modifier une cellule				2002-02-02 02:02:02
+dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABED_UNDO_CELLMODIFIED				40	fr	Modifier la cellule				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABED_UNDO_CELLMODIFIED				40	ga	Mionathraigh cill				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABED_UNDO_CELLMODIFIED				40	gl	Modificar cela 				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABED_UNDO_CELLMODIFIED				40	gu	કોષ બદલો				2002-02-02 02:02:02
@@ -3332,10 +3332,10 @@ dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABED_UNDO_TYPE_CHANGED			
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABED_UNDO_TYPE_CHANGED				40	pt-BR	Modificar o tipo do campo				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABED_UNDO_TYPE_CHANGED				40	ru	Изменить тип поля				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABED_UNDO_TYPE_CHANGED				40	rw	Guhindura Ubwoko b'Umwanya				2002-02-02 02:02:02
-dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABED_UNDO_TYPE_CHANGED				40	sh	Promeni tip polja				2002-02-02 02:02:02
+dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABED_UNDO_TYPE_CHANGED				40	sh	Izmeni vrstu polja				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABED_UNDO_TYPE_CHANGED				40	sk	Upraviť typ poľa				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABED_UNDO_TYPE_CHANGED				40	sl	Spremeni vrsto polja				2002-02-02 02:02:02
-dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABED_UNDO_TYPE_CHANGED				40	sr	Промени тип поља				2002-02-02 02:02:02
+dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABED_UNDO_TYPE_CHANGED				40	sr	Измени врсту поља				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABED_UNDO_TYPE_CHANGED				40	ss	Lungisa inhlobo yensimi				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABED_UNDO_TYPE_CHANGED				40	st	Ntjhafatsa Mofuta wa Lebala				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABED_UNDO_TYPE_CHANGED				40	sv	Ändra fälttyp				2002-02-02 02:02:02
@@ -3378,7 +3378,7 @@ dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_ALTER_ERROR			
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_ALTER_ERROR				0	et	Veeru "$column$" muutmine ei õnnestunud. Kas sa soovid veergu kustutada ja uut vormingut rakendada?				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_ALTER_ERROR				0	fa	نمی‌توان ستون «$column$» را تغییر داد. آیا می‌خواهید به جای این کار، این ستون را حذف کنید و قالب دیگری را پیوست کنید؟				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_ALTER_ERROR				0	fi	Saraketta "$column$" ei voitu muuttaa. Poistetaanko sarake ja käytetään uutta muotoa?				2002-02-02 02:02:02
-dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_ALTER_ERROR				0	fr	Impossible de modifier la colonne "\$column\$". Alternative : suppression de la colonne et application du nouveau format. Continuer ?				2002-02-02 02:02:02
+dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_ALTER_ERROR				0	fr	Impossible de modifier la colonne "$column$". La colonne doit-elle être supprimée et le nouveau format ajouté ?				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_ALTER_ERROR				40	ga	Níorbh fhéidir "$column$" a athrú. An ceart an colún a scriosadh agus an fhormáid nua a iarcheangal?				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_ALTER_ERROR				0	gl	Non se puido modificar a columna "$column$". Prefire eliminala e aplicar o novo formato?				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_ALTER_ERROR				0	gu	સ્તંભ "$column$" બદલી શકાયુ નથી.શુ દૂર કરવાને બદલે સ્તંભ અને નવું બંધારણ જોડાયેલ હોવુ જોઈએ?				2002-02-02 02:02:02
@@ -3551,8 +3551,10 @@ dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_COULD_NOT_DROP
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_COULD_NOT_DROP_COL				0	pt-BR	Não foi possível excluir a coluna $column$.				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_COULD_NOT_DROP_COL				0	ru	Столбец $column$ не может быть удален.				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_COULD_NOT_DROP_COL				0	rw	Ntibyashobotse gusiba inkingi $column$.				2002-02-02 02:02:02
+dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_COULD_NOT_DROP_COL				0	sh	Ne mogu da obrišem kolonu $column$.				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_COULD_NOT_DROP_COL				0	sk	Stĺpec $column$ nemohol byť zmazaný.				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_COULD_NOT_DROP_COL				0	sl	Stolpca $column$ ni mogoče izbrisati.				2002-02-02 02:02:02
+dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_COULD_NOT_DROP_COL				0	sr	Не могу да обришем колону $column$.				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_COULD_NOT_DROP_COL				0	sv	Det gick inte att ta bort kolumnen $column$.				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_COULD_NOT_DROP_COL				0	tg	Сутуни $column$ кӯр карда намешавад.				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_COULD_NOT_DROP_COL				0	tr	$column$ sütunu silinemedi.				2002-02-02 02:02:02
@@ -3804,7 +3806,7 @@ dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_NO_PRIM_KEY			
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_NO_PRIM_KEY				0	cs	Pro identifikaci datového záznamu v této databázi je nezbytný jednozančný index nebo primární klíč.\nDo tabulky je možné vkládat data pouze tehdy, je li splněna alespoň jedna z těchto podmínek.\n\nMá být primární klíč vytvořen nyní?				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_NO_PRIM_KEY				0	cy	Mae angen mynegai unigryw neu allwedd gynradd i adnabod cofnod data yn y gronfa ddata hon.\nCewch roi data yn y tabl dim ond pan fydd yr amodau strwythurol hyn wedi eu cyflawni.\n\nA ddylid creu allwedd gynradd?				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_NO_PRIM_KEY				0	da	I denne database kræves et entydigt indeks eller en primærnøgle til datapostidentificering.\nDu kan først indtaste data i tabellen, når den opfylder en af disse to strukturbetingelser.\n\nVil du oprette en primærnøgle nu?				2002-02-02 02:02:02
-dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_NO_PRIM_KEY				0	de	In dieser Datenbank wird zur Datensatz-Identifizierung ein eindeutiger Index oder ein Primärschlüssel benötigt.\nSie werden erst dann Daten in die Tabelle eingeben können, wenn sie eine dieser beiden Struktur-Bedingungen erfüllt.\n\nSoll jetzt ein Primärschlüssel erzeugt werden ?				2002-02-02 02:02:02
+dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_NO_PRIM_KEY				0	de	In dieser Datenbank wird zur Datensatz-Identifizierung ein eindeutiger Index oder ein Primärschlüssel benötigt.\nSie werden erst dann Daten in die Tabelle eingeben können, wenn sie eine dieser beiden Struktur-Bedingungen erfüllt.\n\nSoll jetzt ein Primärschlüssel erzeugt werden?				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_NO_PRIM_KEY				40	dz	གནད་སྡུད་དྲན་ཐོའི་ངོས་རྟགས་ཀྱི་དོན་ལུ་ གནད་སྡུད་གཞི་རྟེན་འདི་ནང་ ཐུན་མོང་མ་ཡིན་པའི་ཟུར་ཐོ་ཅིག་ ཡང་ན་ ལྡེ་མིག་གཙོ་བོ་ཅིག་དགོས་མཁོ་ཡོདཔ་ཨིན།\nགཞི་བཀོད་ཀྱི་གནས་སྟངས་གཉིས་ལས་གཅིག་ཚང་ཞིནམ་ལས་རྐྱངམ་ཅིག་ ཐིག་ཁྲམ་ནང་གནད་སྡུད་བཙུགས་ཚུགས།\n\nལྡེ་མིག་གཙོ་བོ་ཅིག་ ད་ལྟོ་རང་གསར་བསྐྲུན་འབད་ནི་ཨིན་ན?				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_NO_PRIM_KEY				0	el	Απαιτείται ένα μοναδικό ευρετήριο ή πρωτεύον κλειδί για την αναγνώριση εγγραφών με δεδομένα σε αυτήν τη βάση δεδομένων.\nΜπορείτε να εισάγετε δεδομένα σε αυτό τον πίνακα όταν μια από αυτές τις δύο δομικές συνθήκες ικανοποιείται.\n\nΘέλετε να δημιουργηθεί ένα πρωτεύον κλειδί τώρα;				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_NO_PRIM_KEY				0	en-GB	A unique index or primary key is required for data record identification in this database.\nYou can only enter data into this table when one or more of these conditions has been met.\n\nShould a primary key be created now?				2002-02-02 02:02:02
@@ -3986,13 +3988,15 @@ dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_SAVE_ERROR				
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_SAVE_ERROR				0	pt-BR	Erro ao salvar o design da tabela				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_SAVE_ERROR				0	ru	Ошибка при попытке сохранения дизайна таблицы				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_SAVE_ERROR				0	rw	Habaye ikosa mu kubika intego y'imbonerahamwe				2002-02-02 02:02:02
+dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_SAVE_ERROR				0	sh	Greška pri čuvanju rasporeda tabele				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_SAVE_ERROR				0	sk	Chyba pri ukladaní návrhu tabuľky				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_SAVE_ERROR				0	sl	Napaka pri shranjevanju oblikovanja tabele				2002-02-02 02:02:02
+dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_SAVE_ERROR				0	sr	Грешка при чувању распореда табеле				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_SAVE_ERROR				0	sv	Ett fel uppstod när tabellutkastet sparades.				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_SAVE_ERROR				0	tg	Хато ҳангоми сабткунии нақшбандии ҷадвал				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_SAVE_ERROR				0	tr	Tablo tasarımını kaydederken hata				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_SAVE_ERROR				0	uk	Помилка при спробі збереження дизайну таблиці				2002-02-02 02:02:02
-dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_SAVE_ERROR				0	vi	Gặp lỗi khi lưu thiết kế bảng				2002-02-02 02:02:02
+dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_SAVE_ERROR				0	vi	Gặp lỗi khi lưu đề cương bảng				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_SAVE_ERROR				0	zh-CN	保存表格设计时出错				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_SAVE_ERROR				0	zh-TW	儲存表格設計時發生錯誤				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_TITLE				0	af	 - %PRODUCTNAME Base: Tabelontwerp				2002-02-02 02:02:02
@@ -4066,7 +4070,7 @@ dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_TITLE				0	tr	
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_TITLE				0	ts	 - %PRODUCTNAME Xisekelo: Xiyimo xa Tafula				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_TITLE				0	uk	 - Проектування таблиці %PRODUCTNAME Base				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_TITLE				0	ur-IN	 - %PRODUCTNAME Base: ٹیبل ڈیزائن				2002-02-02 02:02:02
-dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_TITLE				0	vi	 - Cơ bản %PRODUCTNAME: thiết kế bảng				2002-02-02 02:02:02
+dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_TITLE				0	vi	 — %PRODUCTNAME Base: Đề cương Bảng				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_TITLE				0	xh	 - %PRODUCTNAME Isiseko: Uyilo Lwetheyibhile				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_TITLE				0	zh-CN	- %PRODUCTNAME Base: 表格设计				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TABLEDESIGN_TITLE				0	zh-TW	- %PRODUCTNAME Base：表格設計				2002-02-02 02:02:02
@@ -4253,7 +4257,9 @@ dbaccess	source\ui\tabledesign\table.src	0	string	STR_TAB_FIELD_COLUMN_DATATYPE	
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TAB_FIELD_COLUMN_DATATYPE				0	pt	Tipo de campo				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TAB_FIELD_COLUMN_DATATYPE				0	pt-BR	Tipo do campo				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TAB_FIELD_COLUMN_DATATYPE				0	ru	Тип поля				2002-02-02 02:02:02
+dbaccess	source\ui\tabledesign\table.src	0	string	STR_TAB_FIELD_COLUMN_DATATYPE				0	sh	Vrsta polja				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TAB_FIELD_COLUMN_DATATYPE				0	sl	Vrsta polja				2002-02-02 02:02:02
+dbaccess	source\ui\tabledesign\table.src	0	string	STR_TAB_FIELD_COLUMN_DATATYPE				0	sr	Врста поља				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TAB_FIELD_COLUMN_DATATYPE				0	sv	Fälttyp				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TAB_FIELD_COLUMN_DATATYPE				0	tr	Alan Türü				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TAB_FIELD_COLUMN_DATATYPE				0	uk	Тип поля				2002-02-02 02:02:02
@@ -4288,7 +4294,9 @@ dbaccess	source\ui\tabledesign\table.src	0	string	STR_TAB_FIELD_COLUMN_NAME				0
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TAB_FIELD_COLUMN_NAME				0	pt	Nome do campo				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TAB_FIELD_COLUMN_NAME				0	pt-BR	Nome do campo				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TAB_FIELD_COLUMN_NAME				0	ru	Название поля				2002-02-02 02:02:02
+dbaccess	source\ui\tabledesign\table.src	0	string	STR_TAB_FIELD_COLUMN_NAME				0	sh	Ime polja				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TAB_FIELD_COLUMN_NAME				0	sl	Ime polja				2002-02-02 02:02:02
+dbaccess	source\ui\tabledesign\table.src	0	string	STR_TAB_FIELD_COLUMN_NAME				0	sr	Име поља				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TAB_FIELD_COLUMN_NAME				0	sv	Fältnamn				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TAB_FIELD_COLUMN_NAME				0	tr	Alan Adı				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TAB_FIELD_COLUMN_NAME				0	uk	Назва поля				2002-02-02 02:02:02
@@ -4744,10 +4752,10 @@ dbaccess	source\ui\tabledesign\table.src	0	string	STR_TAB_PROPERTIES				0	pt	Pro
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TAB_PROPERTIES				0	pt-BR	Propriedades do campo				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TAB_PROPERTIES				0	ru	Свойства поля				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TAB_PROPERTIES				0	rw	Ibiranga umwanya				2002-02-02 02:02:02
-dbaccess	source\ui\tabledesign\table.src	0	string	STR_TAB_PROPERTIES				0	sh	Osobine polja				2002-02-02 02:02:02
+dbaccess	source\ui\tabledesign\table.src	0	string	STR_TAB_PROPERTIES				0	sh	Svojstva polja				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TAB_PROPERTIES				0	sk	Vlastnosti poľa				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TAB_PROPERTIES				0	sl	Lastnosti polja				2002-02-02 02:02:02
-dbaccess	source\ui\tabledesign\table.src	0	string	STR_TAB_PROPERTIES				0	sr	Особине поља				2002-02-02 02:02:02
+dbaccess	source\ui\tabledesign\table.src	0	string	STR_TAB_PROPERTIES				0	sr	Својства поља				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TAB_PROPERTIES				0	ss	Timphahla tensimi				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TAB_PROPERTIES				0	st	Dithepa tsa Lebala				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TAB_PROPERTIES				0	sv	Fältegenskaper				2002-02-02 02:02:02
@@ -4902,10 +4910,10 @@ dbaccess	source\ui\tabledesign\table.src	0	string	STR_TAB_TABLE_PROPERTIES				0	
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TAB_TABLE_PROPERTIES				0	pt-BR	Propriedades da tabela				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TAB_TABLE_PROPERTIES				0	ru	Свойства таблицы				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TAB_TABLE_PROPERTIES				0	rw	Ibiranga imbonerahamwe				2002-02-02 02:02:02
-dbaccess	source\ui\tabledesign\table.src	0	string	STR_TAB_TABLE_PROPERTIES				0	sh	Osobine tabele				2002-02-02 02:02:02
+dbaccess	source\ui\tabledesign\table.src	0	string	STR_TAB_TABLE_PROPERTIES				0	sh	Svojstva tabele				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TAB_TABLE_PROPERTIES				0	sk	Vlastnosti tabuľky				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TAB_TABLE_PROPERTIES				0	sl	Lastnosti tabele				2002-02-02 02:02:02
-dbaccess	source\ui\tabledesign\table.src	0	string	STR_TAB_TABLE_PROPERTIES				0	sr	Особине табеле				2002-02-02 02:02:02
+dbaccess	source\ui\tabledesign\table.src	0	string	STR_TAB_TABLE_PROPERTIES				0	sr	Својства табеле				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TAB_TABLE_PROPERTIES				0	ss	Timphahla telitafula				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TAB_TABLE_PROPERTIES				0	st	Dithepa tsa lenane				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TAB_TABLE_PROPERTIES				0	sv	Tabellegenskaper				2002-02-02 02:02:02
@@ -4923,7 +4931,7 @@ dbaccess	source\ui\tabledesign\table.src	0	string	STR_TAB_TABLE_PROPERTIES				0	
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TAB_TABLE_PROPERTIES				0	ur-IN	جدول کی خصوصیات				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TAB_TABLE_PROPERTIES				0	uz	Jadval xossalari				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TAB_TABLE_PROPERTIES				0	ve	Zwipiḓa zwa thebuḽu				2002-02-02 02:02:02
-dbaccess	source\ui\tabledesign\table.src	0	string	STR_TAB_TABLE_PROPERTIES				0	vi	Thuộc tính Bảng				2002-02-02 02:02:02
+dbaccess	source\ui\tabledesign\table.src	0	string	STR_TAB_TABLE_PROPERTIES				0	vi	Thuộc tính bảng				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TAB_TABLE_PROPERTIES				0	xh	Iinkcazelo ngeempawu zetheyibhile				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TAB_TABLE_PROPERTIES				0	zh-CN	表格属性				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TAB_TABLE_PROPERTIES				0	zh-TW	表格特性				2002-02-02 02:02:02
@@ -4949,7 +4957,7 @@ dbaccess	source\ui\tabledesign\table.src	0	string	STR_TBL_COLUMN_IS_KEYCOLUMN			
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TBL_COLUMN_IS_KEYCOLUMN				40	et	Veerg "$column$" kuulub primaarvõtme juurde. Kui see veerg kustutatakse, siis kustutatakse ka primaarvõti. Kas sa tõesti soovid jätkata?				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TBL_COLUMN_IS_KEYCOLUMN				40	fa	ستون «$column$» به کلید اصلی تعلق دارد. اگر این ستون حذف شود، کلید اصلی هم حذف خواهد شد. آیا واقعاً می‌خواهید ادامه دهید؟				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TBL_COLUMN_IS_KEYCOLUMN				40	fi	Sarake "$column$" on osa perusavainta. Jos poistat tämän sarakkeen, myös perusavain poistetaan. Haluatko varmasti jatkaa?				2002-02-02 02:02:02
-dbaccess	source\ui\tabledesign\table.src	0	string	STR_TBL_COLUMN_IS_KEYCOLUMN				40	fr	La colonne "$column$" appartient à la clé primaire. Sa suppression entraînera également la suppression de la clé primaire. Continuer ?				2002-02-02 02:02:02
+dbaccess	source\ui\tabledesign\table.src	0	string	STR_TBL_COLUMN_IS_KEYCOLUMN				40	fr	La colonne "$column$" appartient à la clé primaire. Sa suppression entraînera également la suppression de la clé primaire. Souhaitez-vous continuer ?				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TBL_COLUMN_IS_KEYCOLUMN				40	ga	Is cuid den phríomheochair é colún "$column$". Má scriostar an colún, scriosfar an phríomheochair leis. An bhfuil tú cinnte gur mian leat dul ar aghaidh?				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TBL_COLUMN_IS_KEYCOLUMN				40	gl	A columna "$column$" pertence á chave primaria. No caso de que a elimine, eliminará tamén a chave primaria. Desexa continuar?				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TBL_COLUMN_IS_KEYCOLUMN				40	gu	સ્તંભ "$column$" પ્રાથમિક કીને અનુસરે છે. જો સ્તંભ કાઢી નાખવામાં આવે, તો પ્રાથમિક કળ પણ કાઢી  નખાશે. શું તમે ખરેખર ચાલુ રાખવા માંગો છો?				2002-02-02 02:02:02
@@ -5076,7 +5084,7 @@ dbaccess	source\ui\tabledesign\table.src	0	string	STR_TBL_COLUMN_IS_KEYCOLUMN_TI
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TBL_COLUMN_IS_KEYCOLUMN_TITLE				40	uk	Відноситься до первинного ключа				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TBL_COLUMN_IS_KEYCOLUMN_TITLE				0	ur-IN	پرائمری کی کے اّثرات				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TBL_COLUMN_IS_KEYCOLUMN_TITLE				40	ve	Khii Khulwane yo Kwamea				2002-02-02 02:02:02
-dbaccess	source\ui\tabledesign\table.src	0	string	STR_TBL_COLUMN_IS_KEYCOLUMN_TITLE				40	vi	Khóa chính bị ảnh hưởng				2002-02-02 02:02:02
+dbaccess	source\ui\tabledesign\table.src	0	string	STR_TBL_COLUMN_IS_KEYCOLUMN_TITLE				40	vi	Khoá chính bị ảnh hưởng				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TBL_COLUMN_IS_KEYCOLUMN_TITLE				40	xh	Iqhosha Elisentloko Elichatshazelweyo				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TBL_COLUMN_IS_KEYCOLUMN_TITLE				40	zh-CN	和主关键字关联				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TBL_COLUMN_IS_KEYCOLUMN_TITLE				40	zh-TW	受影響的主關鍵字				2002-02-02 02:02:02
@@ -5155,7 +5163,7 @@ dbaccess	source\ui\tabledesign\table.src	0	string	STR_TEXT_LENGTH				40	uk	~До
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TEXT_LENGTH				0	ur-IN	لمبائی				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TEXT_LENGTH				40	uz	~Uzunligi				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TEXT_LENGTH				40	ve	~Vhulapfu				2002-02-02 02:02:02
-dbaccess	source\ui\tabledesign\table.src	0	string	STR_TEXT_LENGTH				40	vi	Độ ~dài				2002-02-02 02:02:02
+dbaccess	source\ui\tabledesign\table.src	0	string	STR_TEXT_LENGTH				40	vi	Chiều ~dài				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TEXT_LENGTH				40	xh	~Ubude				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TEXT_LENGTH				40	zh-CN	长度(~L)				2002-02-02 02:02:02
 dbaccess	source\ui\tabledesign\table.src	0	string	STR_TEXT_LENGTH				40	zh-TW	長度(~L)				2002-02-02 02:02:02
