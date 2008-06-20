@@ -17,7 +17,7 @@
 #
 # $RCSfile: localize.sdf,v $
 #
-# $Revision: 1.37 $
+# $Revision: 1.38 $
 #
 # This file is part of OpenOffice.org.
 #
@@ -86,10 +86,10 @@ sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , E
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_FILE_ROWCOL )			0	pt-BR	Erro de formato encontrado no arquivo no sub-documento $(ARG1) na posição $(ARG2)(linha,col).				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_FILE_ROWCOL )			0	ru	Ошибка формата файла в поддокументе $(ARG1) в позиции $(ARG2)(строка, столбец).				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_FILE_ROWCOL )			0	rw	Ikosa ry'imiterere ryavumbuwe mu dosiye mu nyandiko yungirije $(ARG1) ku mwanya$(ARG2)(row,col)				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_FILE_ROWCOL )			0	sh	Nađena je greška u zapisu poddokumenta $(ARG1) na mestu $(ARG2)(row,col) 				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_FILE_ROWCOL )			0	sh	Nađena je greška u zapisu poddokumenta $(ARG1) na mestu $(ARG2) (red, kolona).				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_FILE_ROWCOL )			0	sk	Chybný formát súboru v sub-dokumente $(ARG1) na pozícii $(ARG2)(riadok,stĺpec).				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_FILE_ROWCOL )			0	sl	Napaka v obliki datoteke v poddokumentu $(ARG1) na $(ARG2)(vrs,sto).				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_FILE_ROWCOL )			0	sr	Нађена је грешка у запису поддокумента $(ARG1) на месту $(ARG2)(row,col) 				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_FILE_ROWCOL )			0	sr	Нађена је грешка у запису поддокумента $(ARG1) на месту $(ARG2) (ред, колона).				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_FILE_ROWCOL )			0	ss	Kutfolakele liphutsa lefomethi efayeleni lesadokhumenti $(ARG1) esikhundleni sa $(ARG2)(irowu,ikholomu)				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_FILE_ROWCOL )			0	st	Ho senotswe sebopeho faeleng ho tokomane e nyenyane $(ARG1) boemong ba $(ARG2)(mola,kholomo)				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_FILE_ROWCOL )			0	sv	Formatfel i filen i underdokumentet $(ARG1) vid position $(ARG2)(rad,kol).				2002-02-02 02:02:02
@@ -159,10 +159,10 @@ sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , E
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_ROWCOL )			0	pt-BR	Erro de formato de arquivo encontrado no $(ARG1)(linha,col).				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_ROWCOL )			0	ru	Ошибка формата в файле в позиции $(ARG1) (строка, столбец).				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_ROWCOL )			0	rw	Ikosa ry'imiterere ya dosiye ryabonetse kuri $(ARG1)(row,col)				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_ROWCOL )			0	sh	Nađena je greška u zapisu datoteke u $(ARG1)(row,col)				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_ROWCOL )			0	sh	Nađena je greška u zapisu datoteke u $(ARG1) (red, kolona).				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_ROWCOL )			0	sk	Chybný formát súboru na $(ARG1)(riadok,stĺpec).				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_ROWCOL )			0	sl	Napaka v obliki datoteke na $(ARG1)(vrs,sto).				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_ROWCOL )			0	sr	Нађена је грешка у запису датотеке у $(ARG1)(row,col)				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_ROWCOL )			0	sr	Нађена је грешка у запису датотеке у $(ARG1) (ред, колона).				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_ROWCOL )			0	ss	Kutfolakele liphutsa lefomethi yelifayela e $(ARG1)(irowu,ikholomu)				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_ROWCOL )			0	st	Phoso ya sebopeho sa faele e fumanwe ho $(ARG1)(mola,kholomo)				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_ROWCOL )			0	sv	Filformatfel vid $(ARG1)(rad,kol).				2002-02-02 02:02:02
@@ -232,10 +232,10 @@ sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , W
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , WARN_FORMAT_FILE_ROWCOL )			0	pt-BR	Erro de formato encontrado no arquivo no sub-documento $(ARG1) na posição $(ARG2)(linha,col).				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , WARN_FORMAT_FILE_ROWCOL )			0	ru	Ошибка формата файла в поддокументе $(ARG1) в позиции $(ARG2)(строка, столбец).				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , WARN_FORMAT_FILE_ROWCOL )			0	rw	Ikosa ry'imiterere ryavumbuwe mu dosiye mu nyandiko yungirije $(ARG1) ku mwanya$(ARG2)(row,col)				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , WARN_FORMAT_FILE_ROWCOL )			0	sh	Nađena je greška u zapisu poddokumenta $(ARG1) na mestu $(ARG2)(row,col) 				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , WARN_FORMAT_FILE_ROWCOL )			0	sh	Nađena je greška u zapisu poddokumenta $(ARG1) na mestu $(ARG2) (red, kolona).				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , WARN_FORMAT_FILE_ROWCOL )			0	sk	Chybný formát súboru v sub-dokumente $(ARG1) na pozícii $(ARG2)(riadok,stĺpec).				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , WARN_FORMAT_FILE_ROWCOL )			0	sl	Napaka v obliki datoteke v poddokumentu $(ARG1) na $(ARG2)(vrs,sto).				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , WARN_FORMAT_FILE_ROWCOL )			0	sr	Нађена је грешка у запису поддокумента $(ARG1) на месту $(ARG2)(row,col) 				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , WARN_FORMAT_FILE_ROWCOL )			0	sr	Нађена је грешка у запису поддокумента $(ARG1) на месту $(ARG2) (ред, колона).				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , WARN_FORMAT_FILE_ROWCOL )			0	ss	Kutfolakele liphutsa lefomethi efayeleni lesadokhumenti $(ARG1) esikhundleni sa $(ARG2)(irowu,ikholomu)				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , WARN_FORMAT_FILE_ROWCOL )			0	st	Ho senotswe sebopeho faeleng ho tokomane e nyenyane $(ARG1) boemong ba $(ARG2)(mola,kholomo)				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	RID_SD_ERRHDL	ERR_CODE ( ERRCODE_CLASS_READ , WARN_FORMAT_FILE_ROWCOL )			0	sv	Formatfel i filen i underdokumentet $(ARG1) vid position $(ARG2)(rad,kol).				2002-02-02 02:02:02
@@ -621,10 +621,10 @@ sd	source\core\glob.src	0	string	STR_DRAWVIEWSHELL				0	pt	Vista de desenho				2
 sd	source\core\glob.src	0	string	STR_DRAWVIEWSHELL				0	pt-BR	Exibição de desenhos				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_DRAWVIEWSHELL				0	ru	Режим рисования				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_DRAWVIEWSHELL				0	rw	Igaragaza ry'Igishushanyo				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_DRAWVIEWSHELL				0	sh	Gledanje crteža				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_DRAWVIEWSHELL				0	sh	Prikaz crteža				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_DRAWVIEWSHELL				0	sk	Zobrazenie kresby				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_DRAWVIEWSHELL				0	sl	Risalni pogled				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_DRAWVIEWSHELL				0	sr	Гледање цртежа				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_DRAWVIEWSHELL				0	sr	Приказ цртежа				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_DRAWVIEWSHELL				0	ss	Kudvweba kulunguta				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_DRAWVIEWSHELL				0	st	Pono ya ho Torowa				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_DRAWVIEWSHELL				0	sv	Teckningsvy				2002-02-02 02:02:02
@@ -774,10 +774,10 @@ sd	source\core\glob.src	0	string	STR_FONTWORKOBJECTBARSHELL				0	pt	Fontwork				
 sd	source\core\glob.src	0	string	STR_FONTWORKOBJECTBARSHELL				0	pt-BR	Fontwork				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_FONTWORKOBJECTBARSHELL				0	ru	Текстовые эффекты				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_FONTWORKOBJECTBARSHELL				0	rw	Umukononkora				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_FONTWORKOBJECTBARSHELL				0	sh	Rad sa fontovima				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_FONTWORKOBJECTBARSHELL				0	sh	Slovopis				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_FONTWORKOBJECTBARSHELL				0	sk	Písmomaľba				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_FONTWORKOBJECTBARSHELL				0	sl	Stavec				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_FONTWORKOBJECTBARSHELL				0	sr	Рад са фонтовима				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_FONTWORKOBJECTBARSHELL				0	sr	Словопис				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_FONTWORKOBJECTBARSHELL				0	ss	Umsebentifonti				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_FONTWORKOBJECTBARSHELL				0	st	Mosebetsi wa fonto				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_FONTWORKOBJECTBARSHELL				0	sv	Fontwork				2002-02-02 02:02:02
@@ -851,10 +851,10 @@ sd	source\core\glob.src	0	string	STR_GLUEPOINTSOBJECTBARSHELL				0	pt	Modo de po
 sd	source\core\glob.src	0	string	STR_GLUEPOINTSOBJECTBARSHELL				0	pt-BR	Modo de pontos de colagem				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_GLUEPOINTSOBJECTBARSHELL				0	ru	Режим точек соединения				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_GLUEPOINTSOBJECTBARSHELL				0	rw	Uburyo bw'Utudomo Bujeni				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_GLUEPOINTSOBJECTBARSHELL				0	sh	Rad sa vezanim tačkama				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_GLUEPOINTSOBJECTBARSHELL				0	sh	Rad sa tačkama spajanja				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_GLUEPOINTSOBJECTBARSHELL				0	sk	Režim záchytných bodov				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_GLUEPOINTSOBJECTBARSHELL				0	sl	Način točk lepljenja				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_GLUEPOINTSOBJECTBARSHELL				0	sr	Рад са везаним тачкама				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_GLUEPOINTSOBJECTBARSHELL				0	sr	Рад са тачкама спајања				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_GLUEPOINTSOBJECTBARSHELL				0	ss	Simo semaphuzu eglu				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_GLUEPOINTSOBJECTBARSHELL				0	st	Moutu wa Dintlha tsa ho Kgomaretsa				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_GLUEPOINTSOBJECTBARSHELL				0	sv	Fästpunktsläge				2002-02-02 02:02:02
@@ -870,7 +870,7 @@ sd	source\core\glob.src	0	string	STR_GLUEPOINTSOBJECTBARSHELL				0	ts	Muxaka wa 
 sd	source\core\glob.src	0	string	STR_GLUEPOINTSOBJECTBARSHELL				0	uk	Режим точок зклеювання				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_GLUEPOINTSOBJECTBARSHELL				0	ur-IN	گلیو پوائنٹ موڈ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_GLUEPOINTSOBJECTBARSHELL				0	ve	Moudu wa Zwiga zwa Guḽuu				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_GLUEPOINTSOBJECTBARSHELL				0	vi	Chế độ điểm nối				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_GLUEPOINTSOBJECTBARSHELL				0	vi	Chế độ Điểm nối				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_GLUEPOINTSOBJECTBARSHELL				0	xh	Imo Yeendawo Zeglu				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_GLUEPOINTSOBJECTBARSHELL				0	zh-CN	粘结点模式				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_GLUEPOINTSOBJECTBARSHELL				0	zh-TW	接點模式				2002-02-02 02:02:02
@@ -1394,7 +1394,7 @@ sd	source\core\glob.src	0	string	STR_LAYER_MEASURELINES				0	or-IN	ଆଯତନ 
 sd	source\core\glob.src	0	string	STR_LAYER_MEASURELINES				0	pa-IN	ਮਾਪ ਰੇਖਾਵਾਂ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_MEASURELINES				0	pl	Linie wymiarowe				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_MEASURELINES				0	pt	Linhas de dimensão				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_LAYER_MEASURELINES				0	pt-BR	Linhas de dimensionamento				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_LAYER_MEASURELINES				0	pt-BR	Linhas de cota				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_MEASURELINES				0	ru	Размерные линии				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_MEASURELINES				0	rw	Ingano Mirongo				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_LAYER_MEASURELINES				0	sh	Linije za dimenzije				2002-02-02 02:02:02
@@ -1783,10 +1783,10 @@ sd	source\core\glob.src	0	string	STR_MEDIAOBJECTBARSHELL				0	pt	Reprodução de
 sd	source\core\glob.src	0	string	STR_MEDIAOBJECTBARSHELL				0	pt-BR	Reprodução de mídia				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_MEDIAOBJECTBARSHELL				0	ru	Управление мультимедией				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_MEDIAOBJECTBARSHELL				0	rw	Gusubizanyuma ry'ibitangazamakuru				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_MEDIAOBJECTBARSHELL				0	sh	Puštanje medija				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_MEDIAOBJECTBARSHELL				0	sh	Reprodukcija				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_MEDIAOBJECTBARSHELL				0	sk	Média Playback				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_MEDIAOBJECTBARSHELL				0	sl	Predvajanje večpredstavnostnih datotek				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_MEDIAOBJECTBARSHELL				0	sr	Пуштање медија				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_MEDIAOBJECTBARSHELL				0	sr	Репродукција				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_MEDIAOBJECTBARSHELL				0	ss	Kudlalelemuva kwemidiya				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_MEDIAOBJECTBARSHELL				0	st	Ho Bapala ha Mediya				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_MEDIAOBJECTBARSHELL				0	sv	Spela upp media				2002-02-02 02:02:02
@@ -2062,7 +2062,7 @@ sd	source\core\glob.src	0	string	STR_PAGE				0	es	Página				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PAGE				0	et	Slaid				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PAGE				0	fa	اسلاید				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PAGE				0	fi	Dia				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PAGE				0	fr	Page				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PAGE				0	fr	Diapo				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PAGE				13691	ga	Sleamhnán				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PAGE				0	gl	Diapositiva				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PAGE				0	gu	સ્લાઈડ				2002-02-02 02:02:02
@@ -2283,6 +2283,7 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_BANDED_CELL				0	es	Cuadrilla de 
 sd	source\core\glob.src	0	string	STR_POOLSHEET_BANDED_CELL				0	et	Ühendav lahter				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_BANDED_CELL				0	fr	Cellule colorée				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_BANDED_CELL				0	gl	Cela raiada				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_POOLSHEET_BANDED_CELL				0	hu	Kötő cella				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_BANDED_CELL				0	it	Cella identificativa				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_BANDED_CELL				0	ja	セルの結合				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_BANDED_CELL				0	ko	밴드 셀				2002-02-02 02:02:02
@@ -2291,10 +2292,11 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_BANDED_CELL				0	nl	Verbonden cel
 sd	source\core\glob.src	0	string	STR_POOLSHEET_BANDED_CELL				0	pl	Komórka układu naprzemiennego				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_BANDED_CELL				0	pt	Células em banda				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_BANDED_CELL				0	pt-BR	Célula colorida				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_POOLSHEET_BANDED_CELL				0	ru	Ячейка с обрамлением!				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_POOLSHEET_BANDED_CELL				0	ru	Ячейка с обрамлением				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_BANDED_CELL				0	sl	Poudarek na celici				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_BANDED_CELL				0	sv	Grupperar cell				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_BANDED_CELL				0	tr	Hücreyi sar				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_POOLSHEET_BANDED_CELL				0	vi	Ô mẫu dải				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_BANDED_CELL				0	zh-CN	镶边单元格				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_BANDED_CELL				0	zh-TW	節區式的儲存格				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_FIRST_COLUMN				0	bg	Първа колона				2002-02-02 02:02:02
@@ -2306,6 +2308,7 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_FIRST_COLUMN				0	es	Primera colu
 sd	source\core\glob.src	0	string	STR_POOLSHEET_FIRST_COLUMN				0	et	Esimene veerg				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_FIRST_COLUMN				0	fr	Première colonne				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_FIRST_COLUMN				0	gl	Primeira columna				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_POOLSHEET_FIRST_COLUMN				0	hu	Első oszlop				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_FIRST_COLUMN				0	it	Prima colonna				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_FIRST_COLUMN				0	ja	最初の列				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_FIRST_COLUMN				0	ko	첫 번째 열				2002-02-02 02:02:02
@@ -2314,10 +2317,11 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_FIRST_COLUMN				0	nl	Eerste kolom
 sd	source\core\glob.src	0	string	STR_POOLSHEET_FIRST_COLUMN				0	pl	Pierwsza kolumna				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_FIRST_COLUMN				0	pt	Primeira coluna				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_FIRST_COLUMN				0	pt-BR	Primeira coluna				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_POOLSHEET_FIRST_COLUMN				0	ru	Первый столбец!				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_POOLSHEET_FIRST_COLUMN				0	ru	Первый столбец				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_FIRST_COLUMN				0	sl	Prvi stolpec				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_FIRST_COLUMN				0	sv	Första kolumnen				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_FIRST_COLUMN				0	tr	İlk sütun				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_POOLSHEET_FIRST_COLUMN				0	vi	Cột đầu				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_FIRST_COLUMN				0	zh-CN	第一列				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_FIRST_COLUMN				0	zh-TW	第一欄				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADER				0	bg	Заглавие				2002-02-02 02:02:02
@@ -2328,6 +2332,7 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADER				0	es	Encabezado				2002
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADER				0	et	Päis				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADER				0	fr	En-tête				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADER				0	gl	Cabeceira				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADER				0	hu	Fejléc				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADER				0	it	Intestazione				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADER				0	ja	ヘッダ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADER				0	ko	머리글				2002-02-02 02:02:02
@@ -2336,10 +2341,11 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADER				0	nl	Koptekst				2002-0
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADER				0	pl	Nagłówek				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADER				0	pt	Cabeçalho				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADER				0	pt-BR	Cabeçalho				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADER				0	ru	Верхний колонтитул!				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADER				0	ru	Верхний колонтитул				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADER				0	sl	Glava				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADER				0	sv	Sidhuvud				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADER				0	tr	Başlık				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADER				0	vi	Phần đầu				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADER				0	zh-CN	标题				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADER				0	zh-TW	標題				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_HEADLINE				0	af	Opskrif				2002-02-02 02:02:02
@@ -2588,6 +2594,7 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_LAST_COLUMN				0	es	Última colum
 sd	source\core\glob.src	0	string	STR_POOLSHEET_LAST_COLUMN				0	et	Viimane veerg				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_LAST_COLUMN				0	fr	Dernière colonne				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_LAST_COLUMN				0	gl	Última columna				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_POOLSHEET_LAST_COLUMN				0	hu	Utolsó oszlop				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_LAST_COLUMN				0	it	ultima colonna				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_LAST_COLUMN				0	ja	最後の列				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_LAST_COLUMN				0	ko	마지막 열				2002-02-02 02:02:02
@@ -2596,10 +2603,11 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_LAST_COLUMN				0	nl	Laatste kolom
 sd	source\core\glob.src	0	string	STR_POOLSHEET_LAST_COLUMN				0	pl	Ostatnia kolumna				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_LAST_COLUMN				0	pt	Última coluna				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_LAST_COLUMN				0	pt-BR	Última coluna				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_POOLSHEET_LAST_COLUMN				0	ru	Последний столбец!				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_POOLSHEET_LAST_COLUMN				0	ru	Последний столбец				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_LAST_COLUMN				0	sl	Zadnji stolpec				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_LAST_COLUMN				0	sv	Sista kolumnen				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_LAST_COLUMN				0	tr	Son sütun				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_POOLSHEET_LAST_COLUMN				0	vi	Cột cuối				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_LAST_COLUMN				0	zh-CN	最后一列				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_LAST_COLUMN				0	zh-TW	最後一欄				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_MEASURE				0	af	Dimensielyn				2002-02-02 02:02:02
@@ -2652,7 +2660,7 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_MEASURE				0	or-IN	ଆଯତନ �
 sd	source\core\glob.src	0	string	STR_POOLSHEET_MEASURE				0	pa-IN	ਦਿਸ਼ਾ ਰੇਖਾ				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_MEASURE				0	pl	Linia wymiarowa				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_MEASURE				0	pt	Linha de dimensão				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_POOLSHEET_MEASURE				0	pt-BR	Linha de dimensão				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_POOLSHEET_MEASURE				0	pt-BR	Linha de cota				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_MEASURE				0	ru	Размерная линия				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_MEASURE				0	rw	Ingano-murongo				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_MEASURE				0	sh	Linija za dimenzije				2002-02-02 02:02:02
@@ -2831,7 +2839,7 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHOUTFILL				0	ts	Xitirho le
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHOUTFILL				0	uk	Об'єкт без заповнення				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHOUTFILL				0	ur-IN	آبجیکٹ بنابھری ہوئی				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHOUTFILL				0	ve	Tshishumiswa tshi si na tsho ḓadziswaho				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHOUTFILL				0	vi	Đối tượng không điền đầy				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHOUTFILL				0	vi	Đối tượng không tô đầy				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHOUTFILL				0	xh	Into engenasizalisi				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHOUTFILL				0	zh-CN	不填色的对象				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_OBJWITHOUTFILL				0	zh-TW	不填色的物件				2002-02-02 02:02:02
@@ -3094,7 +3102,7 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_INDENT				0	es	Sangría 
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_INDENT				0	et	Taandega esirida				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_INDENT				0	fa	خط اول تو برده شود				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_INDENT				0	fi	Ensimmäisen rivin sisennys				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_INDENT				0	fr	Alinéa				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_INDENT				0	fr	Retrait de première ligne				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_INDENT				13691	ga	Eangú chéadlíne				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_INDENT				0	gl	Sangría da primeira liña				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TEXTBODY_INDENT				0	gu	પહેલી લીટીની હાંસ્યાથી જગ્યા				2002-02-02 02:02:02
@@ -3473,6 +3481,7 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_TOTAL				0	es	Total de línea				
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TOTAL				0	et	Kokkuvõtte rida				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TOTAL				0	fr	Ligne de total				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TOTAL				0	gl	Liña de total				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_POOLSHEET_TOTAL				0	hu	Összes sor				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TOTAL				0	it	riga intera				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TOTAL				0	ja	合計行				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TOTAL				0	ko	전체 라인				2002-02-02 02:02:02
@@ -3481,10 +3490,11 @@ sd	source\core\glob.src	0	string	STR_POOLSHEET_TOTAL				0	nl	Totaalregel				2002
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TOTAL				0	pl	Wiersz wartości całkowitej				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TOTAL				0	pt	Linha total				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TOTAL				0	pt-BR	Linha de total				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_POOLSHEET_TOTAL				0	ru	Строка с итогами!				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_POOLSHEET_TOTAL				0	ru	Строка с итогами				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TOTAL				0	sl	Črta vsote				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TOTAL				0	sv	Summeringslinje				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TOTAL				0	tr	Toplam satır				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_POOLSHEET_TOTAL				0	vi	Đường tổng số				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TOTAL				0	zh-CN	所有行				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POOLSHEET_TOTAL				0	zh-TW	總計行數				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_POWERPOINT_IMPORT				0	af	PowerPoint-intrek				2002-02-02 02:02:02
@@ -3917,7 +3927,7 @@ sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTITLE				0	es	Pulse para des
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTITLE				0	et	Klõpsa slaidi teisaldamiseks				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTITLE				0	fa	برای جابه‌جایی اسلاید کلیک کنید				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTITLE				0	fi	Siirrä diaa napsauttamalla				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTITLE				0	fr	Cliquez pour déplacer la page				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTITLE				0	fr	Cliquez pour déplacer la diapo				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTITLE				13691	ga	Cliceáil chun an sleamhnán a bhogadh				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTITLE				0	gl	Prema para mover a diapositiva				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PRESOBJ_MPNOTESTITLE				0	gu	સ્લાઇડની જગ્યા બદલવા માટે ક્લીક કરો				2002-02-02 02:02:02
@@ -5460,7 +5470,7 @@ sd	source\core\glob.src	0	string	STR_PREVIEWVIEWSHELL				0	uk	Вікно авт�
 sd	source\core\glob.src	0	string	STR_PREVIEWVIEWSHELL				0	ur-IN	پیش منظر ونڈو				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PREVIEWVIEWSHELL				0	uz	Koʻrib chiqish oynasi				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PREVIEWVIEWSHELL				0	ve	Fasiṱere la Mbonalonyangaredzi				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_PREVIEWVIEWSHELL				0	vi	Cửa sổ xem thử				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_PREVIEWVIEWSHELL				0	vi	Cửa sổ Xem thử				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PREVIEWVIEWSHELL				0	xh	Jonga Ifestile Phambi Koshicilelo				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PREVIEWVIEWSHELL				0	zh-CN	预览窗口				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_PREVIEWVIEWSHELL				0	zh-TW	預覽視窗				2002-02-02 02:02:02
@@ -6316,7 +6326,7 @@ sd	source\core\glob.src	0	string	STR_STDOBJECTBARSHELL				0	uk	Режим док
 sd	source\core\glob.src	0	string	STR_STDOBJECTBARSHELL				0	ur-IN	دستاویزکاطرز				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_STDOBJECTBARSHELL				0	uz	Hujjat usuli				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_STDOBJECTBARSHELL				0	ve	Moudu wa Ḽiṅwalo				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_STDOBJECTBARSHELL				0	vi	Chế độ tài liệu				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_STDOBJECTBARSHELL				0	vi	Chế độ Tài liệu				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_STDOBJECTBARSHELL				0	xh	Imo Yokusebenza Ngoxwebhu				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_STDOBJECTBARSHELL				0	zh-CN	文档模式				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_STDOBJECTBARSHELL				0	zh-TW	文件模式				2002-02-02 02:02:02
@@ -6330,6 +6340,7 @@ sd	source\core\glob.src	0	string	STR_TABLEOBJECTBARSHELL				0	es	Tabla				2002-0
 sd	source\core\glob.src	0	string	STR_TABLEOBJECTBARSHELL				0	et	Tabel				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_TABLEOBJECTBARSHELL				0	fr	Tableau				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_TABLEOBJECTBARSHELL				0	gl	Táboa				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_TABLEOBJECTBARSHELL				0	hu	Táblázat				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_TABLEOBJECTBARSHELL				0	it	tavola				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_TABLEOBJECTBARSHELL				0	ja	表				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_TABLEOBJECTBARSHELL				0	ko	표				2002-02-02 02:02:02
@@ -6338,10 +6349,11 @@ sd	source\core\glob.src	0	string	STR_TABLEOBJECTBARSHELL				0	nl	Tabel				2002-0
 sd	source\core\glob.src	0	string	STR_TABLEOBJECTBARSHELL				0	pl	Tabela				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_TABLEOBJECTBARSHELL				0	pt	Tabela				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_TABLEOBJECTBARSHELL				0	pt-BR	Tabela				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_TABLEOBJECTBARSHELL				0	ru	Таблица!				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_TABLEOBJECTBARSHELL				0	ru	Таблица				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_TABLEOBJECTBARSHELL				0	sl	Tabela				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_TABLEOBJECTBARSHELL				0	sv	Tabell				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_TABLEOBJECTBARSHELL				0	tr	Tablo				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_TABLEOBJECTBARSHELL				0	vi	Bảng				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_TABLEOBJECTBARSHELL				0	zh-CN	表格				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_TABLEOBJECTBARSHELL				0	zh-TW	表格				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_TEXTOBJECTBARSHELL				0	af	Teksmodus				2002-02-02 02:02:02
@@ -6418,7 +6430,7 @@ sd	source\core\glob.src	0	string	STR_TEXTOBJECTBARSHELL				0	uk	Текстови
 sd	source\core\glob.src	0	string	STR_TEXTOBJECTBARSHELL				0	ur-IN	متن وضع				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_TEXTOBJECTBARSHELL				0	uz	Matn usuli				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_TEXTOBJECTBARSHELL				0	ve	Moudu wa Ḽiṅwalwa				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_TEXTOBJECTBARSHELL				0	vi	Chế độ văn bản				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_TEXTOBJECTBARSHELL				0	vi	Chế độ Văn bản				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_TEXTOBJECTBARSHELL				0	xh	Imo Yokusebenza Ngesiqendu				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_TEXTOBJECTBARSHELL				0	zh-CN	文字模式				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_TEXTOBJECTBARSHELL				0	zh-TW	文字模式				2002-02-02 02:02:02
@@ -6444,7 +6456,7 @@ sd	source\core\glob.src	0	string	STR_UNDO_MOVEPAGES				0	es	Desplazar páginas		
 sd	source\core\glob.src	0	string	STR_UNDO_MOVEPAGES				0	et	Teisalda slaid				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_UNDO_MOVEPAGES				0	fa	جابه‌جایی اسلایدها				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_UNDO_MOVEPAGES				0	fi	Siirrä dioja				2002-02-02 02:02:02
-sd	source\core\glob.src	0	string	STR_UNDO_MOVEPAGES				0	fr	Déplacer des pages				2002-02-02 02:02:02
+sd	source\core\glob.src	0	string	STR_UNDO_MOVEPAGES				0	fr	Déplacer des diapos				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_UNDO_MOVEPAGES				13691	ga	Bog sleamhnáin				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_UNDO_MOVEPAGES				0	gl	Mover diapositivas				2002-02-02 02:02:02
 sd	source\core\glob.src	0	string	STR_UNDO_MOVEPAGES				0	gu	સ્લાઇડોને ખસેડો				2002-02-02 02:02:02
