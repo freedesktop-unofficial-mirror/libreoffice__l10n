@@ -17,7 +17,7 @@
 #
 # $RCSfile: localize.sdf,v $
 #
-# $Revision: 1.29 $
+# $Revision: 1.30 $
 #
 # This file is part of OpenOffice.org.
 #
@@ -65,7 +65,7 @@ dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_ALTER				1
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_ALTER				0	he	שינוי מבנה				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_ALTER				1	hi-IN	बनावट बदलना				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_ALTER				0	hr	Promijeni strukturu				2002-02-02 02:02:02
-dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_ALTER				0	hu	Struktúra módosítása				2002-02-02 02:02:02
+dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_ALTER				0	hu	Ändra struktur				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_ALTER				0	it	Cambia struttura				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_ALTER				0	ja	構成の変更				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_ALTER				0	ka	სტრუქტურის შეცვლა				2002-02-02 02:02:02
@@ -75,7 +75,9 @@ dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_ALTER				0
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_ALTER				0	lt	Keisti struktūrą				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_ALTER				0	mk	Измена на структурата				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_ALTER				0	ml-IN	ഘടന വ്യത്യാസപ്പെടുക				2002-02-02 02:02:02
+dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_ALTER				0	mn	Бүтцийг өөрчлөх				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_ALTER				0	mr-IN	संरचना घटवा				2002-02-02 02:02:02
+dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_ALTER				0	my	ဖွဲ့စည်း တည်ဆောက်ပုံ ပြင်ပြောင်းပါ				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_ALTER				0	nb	Endre struktur				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_ALTER				0	ne	स्वरूप बदल्नुहोस्				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_ALTER				0	nl	Structuur wijzigen				2002-02-02 02:02:02
@@ -144,7 +146,7 @@ dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DELETE				
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DELETE				0	he	מחיקת נתונים				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DELETE				1	hi-IN	आंकड़ा मिटायें				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DELETE				0	hr	Obriši podatke				2002-02-02 02:02:02
-dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DELETE				0	hu	Adatok törlése				2002-02-02 02:02:02
+dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DELETE				0	hu	Radera data				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DELETE				0	it	Elimina dati				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DELETE				0	ja	データの削除				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DELETE				0	ka	მონაცემების წაშლა				2002-02-02 02:02:02
@@ -154,7 +156,9 @@ dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DELETE				
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DELETE				0	lt	Šalinti duomenis				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DELETE				0	mk	Бришење податоци				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DELETE				0	ml-IN	ഡേറ്റ നീക്കം ചെയ്യുക				2002-02-02 02:02:02
+dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DELETE				0	mn	Өгөгдөл устгах				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DELETE				0	mr-IN	डाटा हटवा				2002-02-02 02:02:02
+dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DELETE				0	my	အချက်အလက်ကြမ်း ဖျက်ပါ				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DELETE				0	nb	Slett data				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DELETE				0	ne	डेटा मेट्नुहोस्				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DELETE				0	nl	Gegevens verwijderen				2002-02-02 02:02:02
@@ -222,7 +226,7 @@ dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DROP				1	
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DROP				0	he	הורדת מבנה				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DROP				1	hi-IN	बनावट गिरायें				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DROP				0	hr	Uništi strukturu				2002-02-02 02:02:02
-dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DROP				0	hu	Struktúra törlése				2002-02-02 02:02:02
+dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DROP				0	hu	Radera struktur				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DROP				0	it	Elimina struttura				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DROP				0	ja	構造体の削除				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DROP				0	ka	სტრუქტურის ამოგდება				2002-02-02 02:02:02
@@ -232,7 +236,9 @@ dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DROP				0	
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DROP				0	lt	Tempti struktūrą				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DROP				0	mk	Бришење структура				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DROP				0	ml-IN	ഘടന ഉപേക്ഷിക്കുക				2002-02-02 02:02:02
+dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DROP				0	mn	Бүтцийг устгах				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DROP				0	mr-IN	संरचना ड्रॉप करा				2002-02-02 02:02:02
+dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DROP				0	my	ဖွဲ့စည်း တည်ဆောက်ပုံ ချပါ				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DROP				0	nb	Dropp struktur				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DROP				0	ne	स्वरूप छाड्नुहोस्				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_DROP				0	nl	Structuur wissen				2002-02-02 02:02:02
@@ -301,7 +307,7 @@ dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_INSERT				
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_INSERT				0	he	הכנסת נתונים				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_INSERT				1	hi-IN	आंकड़ा जोड़ें				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_INSERT				0	hr	Umetanje podataka				2002-02-02 02:02:02
-dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_INSERT				0	hu	Adat beszúrása				2002-02-02 02:02:02
+dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_INSERT				0	hu	Infoga data				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_INSERT				0	it	Inserisci dati				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_INSERT				0	ja	データの挿入				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_INSERT				0	ka	მონაცემების ჩასმა				2002-02-02 02:02:02
@@ -311,7 +317,9 @@ dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_INSERT				
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_INSERT				0	lt	Įterpti duomenis				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_INSERT				0	mk	Вметнување податоци				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_INSERT				0	ml-IN	ഡേറ്റ ചേര്ക്കുക				2002-02-02 02:02:02
+dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_INSERT				0	mn	Өгөгдөл оруулах				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_INSERT				0	mr-IN	डाटा अंतर्भुत करा				2002-02-02 02:02:02
+dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_INSERT				0	my	အချက်အလက်ကြမ်း စီချယ်ပါ				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_INSERT				0	nb	Sett inn data				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_INSERT				0	ne	डेटा घुसाउनुहोस्				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_INSERT				0	nl	Gegevens invoegen				2002-02-02 02:02:02
@@ -380,7 +388,7 @@ dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_NAME				1	
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_NAME				0	he	שם טבלה				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_NAME				1	hi-IN	सारणी नाम				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_NAME				0	hr	Ime tablice				2002-02-02 02:02:02
-dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_NAME				0	hu	Tábla neve				2002-02-02 02:02:02
+dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_NAME				0	hu	Tabellnamn				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_NAME				0	it	Nome tabella				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_NAME				0	ja	テーブル名				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_NAME				0	ka	ცხრილის სახელი				2002-02-02 02:02:02
@@ -390,7 +398,9 @@ dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_NAME				0	
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_NAME				0	lt	Lentelės pavadinimas				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_NAME				0	mk	Име на табела				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_NAME				0	ml-IN	പട്ടിക നാമം				2002-02-02 02:02:02
+dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_NAME				0	mn	Хүснэгтийн нэр				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_NAME				0	mr-IN	तालिका नाव				2002-02-02 02:02:02
+dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_NAME				0	my	ဇယားအမည်				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_NAME				0	nb	Tabellnavn				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_NAME				0	ne	तालिका नाम				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_NAME				0	nl	Tabelnaam				2002-02-02 02:02:02
@@ -398,7 +408,7 @@ dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_NAME				0	
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_NAME				0	nr	Ibizo letheyibula				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_NAME				0	ns	Leina la tafola				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_NAME				0	or-IN	ଟେବୁଲ ନାମ				2002-02-02 02:02:02
-dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_NAME				0	pa-IN	ਸਾਰਣੀ ਨਾਂ				2002-02-02 02:02:02
+dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_NAME				0	pa-IN	ਟੇਬਲ ਨਾਂ				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_NAME				0	pl	Nazwa tabeli				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_NAME				0	pt	Nome da tabela				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_NAME				0	pt-BR	Nome da tabela				2002-02-02 02:02:02
@@ -458,7 +468,7 @@ dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_REFERENCE	
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_REFERENCE				0	he	שינוי הפניות				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_REFERENCE				1	hi-IN	संदर्भ सुधारें				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_REFERENCE				0	hr	Promijeni reference				2002-02-02 02:02:02
-dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_REFERENCE				0	hu	Hivatkozások módosítása				2002-02-02 02:02:02
+dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_REFERENCE				0	hu	Ändra referenser				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_REFERENCE				0	it	Cambia riferimenti				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_REFERENCE				0	ja	参照の変更				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_REFERENCE				0	ka	დამოწმებული პარამეტრების შეცვლა				2002-02-02 02:02:02
@@ -468,7 +478,9 @@ dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_REFERENCE	
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_REFERENCE				0	lt	Keisti nuorodas				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_REFERENCE				0	mk	Измена на референци				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_REFERENCE				0	ml-IN	 റഫറന്സ് ആധുനികരിക്കുക				2002-02-02 02:02:02
+dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_REFERENCE				0	mn	Зөвлөмжийг өөрчлөх				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_REFERENCE				0	mr-IN	संदर्भ सुधारा				2002-02-02 02:02:02
+dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_REFERENCE				0	my	ရည်ညွှန်းချက်များ အထူးပြုပါ				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_REFERENCE				0	nb	Endre referanser				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_REFERENCE				0	ne	सन्दर्भहरू परिमार्जन गर्नुहोस्				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_REFERENCE				0	nl	Verwijzingen wijzigen				2002-02-02 02:02:02
@@ -537,7 +549,7 @@ dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_SELECT				
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_SELECT				0	he	קריאת נתונים				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_SELECT				1	hi-IN	आंकड़ा पढें				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_SELECT				0	hr	Čitanje podataka				2002-02-02 02:02:02
-dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_SELECT				0	hu	Adatok olvasása				2002-02-02 02:02:02
+dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_SELECT				0	hu	Läs data				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_SELECT				0	it	Leggi dati				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_SELECT				0	ja	データの読み取り				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_SELECT				0	ka	მონაცემების წაკითხვა				2002-02-02 02:02:02
@@ -547,7 +559,9 @@ dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_SELECT				
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_SELECT				0	lt	Skaityti duomenis				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_SELECT				0	mk	Читање податоци				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_SELECT				0	ml-IN	ഡേറ്റ വായിക്കുക				2002-02-02 02:02:02
+dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_SELECT				0	mn	Өгөгдөл унших				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_SELECT				0	mr-IN	डाटा वाचा				2002-02-02 02:02:02
+dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_SELECT				0	my	အချက်အလက်ကြမ်း ဖတ်ပါ				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_SELECT				0	nb	Les data				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_SELECT				0	ne	डेटा पढ्नुहोस्				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_SELECT				0	nl	Gegevens lezen				2002-02-02 02:02:02
@@ -616,7 +630,7 @@ dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_UPDATE				
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_UPDATE				0	he	שינוי נתונים				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_UPDATE				1	hi-IN	आंकड़ा सुधारें				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_UPDATE				0	hr	Promijeni podatke				2002-02-02 02:02:02
-dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_UPDATE				0	hu	Adatok módosítása				2002-02-02 02:02:02
+dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_UPDATE				0	hu	Ändra data				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_UPDATE				0	it	Cambia dati				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_UPDATE				0	ja	データの変更				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_UPDATE				0	ka	მონაცემების შეცვლა				2002-02-02 02:02:02
@@ -626,7 +640,9 @@ dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_UPDATE				
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_UPDATE				0	lt	Keisti duomenis				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_UPDATE				0	mk	Измена на податоци				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_UPDATE				0	ml-IN	ഡേറ്റ ആധുനികരിക്കുക				2002-02-02 02:02:02
+dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_UPDATE				0	mn	Өгөгдлийг өөрчлөх				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_UPDATE				0	mr-IN	डाटा सुधारा				2002-02-02 02:02:02
+dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_UPDATE				0	my	အချက်အလက်ကြမ်း အထူးပြုပါ				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_UPDATE				0	nb	Endre data				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_UPDATE				0	ne	डेटा परिमार्जन गर्नुहोस्				2002-02-02 02:02:02
 dbaccess	source\ui\control\TableGrantCtrl.src	0	string	STR_TABLE_PRIV_UPDATE				0	nl	Gegevens wijzigen				2002-02-02 02:02:02
@@ -695,7 +711,7 @@ dbaccess	source\ui\control\tabletree.src	0	menuitem	MENU_TABLETREE_POPUP	MID_SOR
 dbaccess	source\ui\control\tabletree.src	0	menuitem	MENU_TABLETREE_POPUP	MID_SORT_ASCENDING			0	he	מיון בסדר עולה				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	menuitem	MENU_TABLETREE_POPUP	MID_SORT_ASCENDING			0	hi-IN	आरोहण क्रम में छांटें				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	menuitem	MENU_TABLETREE_POPUP	MID_SORT_ASCENDING			0	hr	Razvrstaj uzlazno				2002-02-02 02:02:02
-dbaccess	source\ui\control\tabletree.src	0	menuitem	MENU_TABLETREE_POPUP	MID_SORT_ASCENDING			0	hu	Rendezés növekvő sorrendben				2002-02-02 02:02:02
+dbaccess	source\ui\control\tabletree.src	0	menuitem	MENU_TABLETREE_POPUP	MID_SORT_ASCENDING			0	hu	Sortera stigande				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	menuitem	MENU_TABLETREE_POPUP	MID_SORT_ASCENDING			0	it	Disponi in ordine crescente				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	menuitem	MENU_TABLETREE_POPUP	MID_SORT_ASCENDING			0	ja	昇順に並べ替え				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	menuitem	MENU_TABLETREE_POPUP	MID_SORT_ASCENDING			0	ka	დალაგება ზრდის მიხედვით				2002-02-02 02:02:02
@@ -705,7 +721,9 @@ dbaccess	source\ui\control\tabletree.src	0	menuitem	MENU_TABLETREE_POPUP	MID_SOR
 dbaccess	source\ui\control\tabletree.src	0	menuitem	MENU_TABLETREE_POPUP	MID_SORT_ASCENDING			0	lt	Rikiuoti didėjančiai				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	menuitem	MENU_TABLETREE_POPUP	MID_SORT_ASCENDING			0	mk	Подреди растечки				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	menuitem	MENU_TABLETREE_POPUP	MID_SORT_ASCENDING			0	ml-IN	ആരോഹണക്രമത്തില് തരംതിരിക്കുക 				2002-02-02 02:02:02
+dbaccess	source\ui\control\tabletree.src	0	menuitem	MENU_TABLETREE_POPUP	MID_SORT_ASCENDING			0	mn	Өсөхөөр эрэмбэлэх				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	menuitem	MENU_TABLETREE_POPUP	MID_SORT_ASCENDING			0	mr-IN	चढत्या क्रमामध्ये वर्गीकरण करा				2002-02-02 02:02:02
+dbaccess	source\ui\control\tabletree.src	0	menuitem	MENU_TABLETREE_POPUP	MID_SORT_ASCENDING			0	my	ငယ်စဉ်ကြီးလိုက် ကိန်းဂဏန်း၊အက္ခရာများ စနစ်တကျစီထားပါ				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	menuitem	MENU_TABLETREE_POPUP	MID_SORT_ASCENDING			0	nb	Sorter stigende				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	menuitem	MENU_TABLETREE_POPUP	MID_SORT_ASCENDING			0	ne	बद्ढो क्रममा क्रमबद्ध गर्नुहोस्				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	menuitem	MENU_TABLETREE_POPUP	MID_SORT_ASCENDING			0	nl	Oplopend sorteren				2002-02-02 02:02:02
@@ -774,7 +792,7 @@ dbaccess	source\ui\control\tabletree.src	0	menuitem	MENU_TABLETREE_POPUP	MID_SOR
 dbaccess	source\ui\control\tabletree.src	0	menuitem	MENU_TABLETREE_POPUP	MID_SORT_DECENDING			0	he	מיון בסדר יורד				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	menuitem	MENU_TABLETREE_POPUP	MID_SORT_DECENDING			0	hi-IN	अवरोहण क्रम में छांटें				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	menuitem	MENU_TABLETREE_POPUP	MID_SORT_DECENDING			0	hr	Razvrstaj silazno				2002-02-02 02:02:02
-dbaccess	source\ui\control\tabletree.src	0	menuitem	MENU_TABLETREE_POPUP	MID_SORT_DECENDING			0	hu	Rendezés csökkenő sorrendben				2002-02-02 02:02:02
+dbaccess	source\ui\control\tabletree.src	0	menuitem	MENU_TABLETREE_POPUP	MID_SORT_DECENDING			0	hu	Sortera fallande				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	menuitem	MENU_TABLETREE_POPUP	MID_SORT_DECENDING			0	it	Disponi in ordine descrescente				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	menuitem	MENU_TABLETREE_POPUP	MID_SORT_DECENDING			0	ja	降順に並べ替え				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	menuitem	MENU_TABLETREE_POPUP	MID_SORT_DECENDING			0	ka	დალაგება კლების მიხედვით				2002-02-02 02:02:02
@@ -784,7 +802,9 @@ dbaccess	source\ui\control\tabletree.src	0	menuitem	MENU_TABLETREE_POPUP	MID_SOR
 dbaccess	source\ui\control\tabletree.src	0	menuitem	MENU_TABLETREE_POPUP	MID_SORT_DECENDING			0	lt	Rikiuoti mažėjančiai				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	menuitem	MENU_TABLETREE_POPUP	MID_SORT_DECENDING			0	mk	Подреди опаѓачки				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	menuitem	MENU_TABLETREE_POPUP	MID_SORT_DECENDING			0	ml-IN	അവരോഹണക്രമത്തില് തരംതിരിക്കുക				2002-02-02 02:02:02
+dbaccess	source\ui\control\tabletree.src	0	menuitem	MENU_TABLETREE_POPUP	MID_SORT_DECENDING			0	mn	Буурахаар эрэмбэлэх				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	menuitem	MENU_TABLETREE_POPUP	MID_SORT_DECENDING			0	mr-IN	उतरत्या क्रमाने वर्गीकरण करा				2002-02-02 02:02:02
+dbaccess	source\ui\control\tabletree.src	0	menuitem	MENU_TABLETREE_POPUP	MID_SORT_DECENDING			0	my	ကြီးစဉ်ငယ်လိုက် ကိန်းဂဏန်း၊အက္ခရာများ စနစ်တကျစီထားပါ				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	menuitem	MENU_TABLETREE_POPUP	MID_SORT_DECENDING			0	nb	Sorter synkende				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	menuitem	MENU_TABLETREE_POPUP	MID_SORT_DECENDING			0	ne	घट्दो क्रममा क्रमबद्ध गर्नुहोस्				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	menuitem	MENU_TABLETREE_POPUP	MID_SORT_DECENDING			0	nl	Aflopend sorteren				2002-02-02 02:02:02
@@ -853,7 +873,7 @@ dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_TABLES				1	gu-IN	બ�
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_TABLES				0	he	כל הטבלאות				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_TABLES				1	hi-IN	सब सारणी				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_TABLES				0	hr	Sve tablice				2002-02-02 02:02:02
-dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_TABLES				0	hu	Minden tábla				2002-02-02 02:02:02
+dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_TABLES				0	hu	Alla tabeller				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_TABLES				0	it	Tutte le tabelle				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_TABLES				0	ja	すべてのテーブル				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_TABLES				0	ka	ყველა ცხრილი				2002-02-02 02:02:02
@@ -863,7 +883,9 @@ dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_TABLES				0	ku	Hemû t
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_TABLES				0	lt	Visos lentelės				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_TABLES				0	mk	Сите табели				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_TABLES				0	ml-IN	എല്ലാ പട്ടികകളും				2002-02-02 02:02:02
+dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_TABLES				0	mn	Бүх хүснэгтүүд				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_TABLES				0	mr-IN	सर्व तालिका				2002-02-02 02:02:02
+dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_TABLES				0	my	ဇယားများ အားလုံး				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_TABLES				0	nb	Alle tabeller				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_TABLES				0	ne	सबै तालिकाहरू				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_TABLES				0	nl	Alle tabellen				2002-02-02 02:02:02
@@ -932,7 +954,7 @@ dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_TABLES_AND_VIEWS				1	
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_TABLES_AND_VIEWS				0	he	כל הטבלאות והתצוגות				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_TABLES_AND_VIEWS				1	hi-IN	सब सारणी और दृश्य				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_TABLES_AND_VIEWS				0	hr	Sve tablice i pogledi				2002-02-02 02:02:02
-dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_TABLES_AND_VIEWS				0	hu	Minden tábla és nézet				2002-02-02 02:02:02
+dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_TABLES_AND_VIEWS				0	hu	Alla tabeller och tabellvyer				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_TABLES_AND_VIEWS				0	it	Tutte le tabelle e le viste di tabelle				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_TABLES_AND_VIEWS				0	ja	すべてのテーブルとテーブルビュー				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_TABLES_AND_VIEWS				0	ka	ყველა ცხრილი და ხედი				2002-02-02 02:02:02
@@ -942,7 +964,9 @@ dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_TABLES_AND_VIEWS				0	
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_TABLES_AND_VIEWS				0	lt	Visos lentelės ir rodiniai				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_TABLES_AND_VIEWS				0	mk	Сите табели и погледи				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_TABLES_AND_VIEWS				0	ml-IN	എല്ലാ പട്ടികകളും ദൃശ്യവും				2002-02-02 02:02:02
+dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_TABLES_AND_VIEWS				0	mn	Бүх хүснэгтүүд  ба  дүрслэлүүд				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_TABLES_AND_VIEWS				0	mr-IN	सर्व तालिका आणि दृश्ये				2002-02-02 02:02:02
+dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_TABLES_AND_VIEWS				0	my	ဇယားများနှင့် မြင်ကွင်းများ အားလုံး				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_TABLES_AND_VIEWS				0	nb	Alle tabeller og utsnitt				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_TABLES_AND_VIEWS				0	ne	सबै दृश्य र तालिकाहरू				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_TABLES_AND_VIEWS				0	nl	Alle tabellen en tabelmodi				2002-02-02 02:02:02
@@ -1011,7 +1035,7 @@ dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_VIEWS				1	gu-IN	બ�
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_VIEWS				0	he	כל התצוגות				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_VIEWS				1	hi-IN	सब दृश्य				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_VIEWS				0	hr	Svi pogledi				2002-02-02 02:02:02
-dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_VIEWS				0	hu	Minden nézet				2002-02-02 02:02:02
+dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_VIEWS				0	hu	Alla tabellvyer				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_VIEWS				0	it	Tutte le viste di tabelle				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_VIEWS				0	ja	すべてのテーブルビュー				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_VIEWS				0	ka	ყველა ხედი				2002-02-02 02:02:02
@@ -1021,7 +1045,9 @@ dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_VIEWS				0	ku	Hemû d�
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_VIEWS				0	lt	Visi rodiniai				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_VIEWS				0	mk	Сите погледи				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_VIEWS				0	ml-IN	എല്ലാ ദൃശ്യവും				2002-02-02 02:02:02
+dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_VIEWS				0	mn	Бүх дүрслэлүүд				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_VIEWS				0	mr-IN	सर्व दृश्ये				2002-02-02 02:02:02
+dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_VIEWS				0	my	မြင်ကွင်းများ အားလုံး				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_VIEWS				0	nb	Alle utsnitt				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_VIEWS				0	ne	सबै दृश्यहरू				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_ALL_VIEWS				0	nl	Alle tabelmodi				2002-02-02 02:02:02
@@ -1089,17 +1115,19 @@ dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT				1	gu-IN
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT				0	he	לא ניתן היה ליצור קשר עבור ה ‏‪URL #connurl#‬‏.‏				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT				1	hi-IN	URL #connurl# के लिये कनेक्शन स्थापित नहीं कर सकते है .				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT				0	hr	Nije bilo moguće uspostaviti ikakvu vezu za URL #connurl#.				2002-02-02 02:02:02
-dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT				0	hu	Nem sikerült kapcsolódni ezzel az URL-lel: #connurl#				2002-02-02 02:02:02
+dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT				0	hu	Det gick inte att upprätta någon förbindelse för URL:en #connurl#.				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT				0	it	Non è possibile creare il collegamento all'URL #connurl#.				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT				0	ja	URL #connurl# へ接続できませんでした。				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT				0	ka	კავშირი ვერ დამყარდა URL-ისთვის #connurl#.				2002-02-02 02:02:02
-dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT				0	km	មិន​អាច​បង្កើត​ការ​តភ្ជាប់ ​សម្រាប់ URL #connurl# ។				2002-02-02 02:02:02
+dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT				0	km	មិន​អាច​បង្កើត​ការ​តភ្ជាប់ ​សម្រាប់ URL #connurl# ។				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT				0	ko	URL #connurl#에 연결을 설정하지 못했습니다 .				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT				0	ku	Girêdana #connurl# pêk nehat.				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT				0	lt	Negalima užmegzti ryšio URL #connurl#.				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT				0	mk	Не можеше да се воспостави поврзување за URL #connurl#.				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT				0	ml-IN	URL ന‍് വേണ്ടി ഒരു കണക്ഷനും സ്ഥാപിക്കാനായില്ല #connurl#.				2002-02-02 02:02:02
+dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT				0	mn	#connurl# Хаяг (URL) -д холболтыг тогтворжуулж чадахгүй нь.				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT				0	mr-IN	 URL #connurl#  साठी जुळणी स्थापित होऊ शकली नाही.				2002-02-02 02:02:02
+dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT				0	my	URL #connurl# အတွက် အချိတ်အဆက် တစ်ခုမျှ တည်ဆောက်ထားနိုင်လိမ့်မည်။				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT				0	nb	Klarte ikke opprette forbindelse med URL-en #connurl#.				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT				0	ne	URL #connurl# का लागि कुनै पनि जडान स्थापन गर्न सकिएन ।				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT				0	nl	Er kan geen verbinding met de URL #connurl# tot stand worden gebracht.				2002-02-02 02:02:02
@@ -1166,17 +1194,19 @@ dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT_PLEASECHEC
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT_PLEASECHECK				0	he	יש לבדוק את ההגדרות הנוכחיות, למשל, שם משתמש/ת וסיסמה.‏				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT_PLEASECHECK				1	hi-IN	कृपया वर्तमान निर्धारणों का जाँच कीजिए, उदाहरण के लिये उपभोक्ता नाम और शब्दकूट .				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT_PLEASECHECK				0	hr	Provjerite trenutačne postavke, npr. korisničko ime i lozinku				2002-02-02 02:02:02
-dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT_PLEASECHECK				0	hu	Ellenőrizze a beállításokat (pl. felhasználónév, jelszó).				2002-02-02 02:02:02
+dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT_PLEASECHECK				0	hu	Kontrollera de aktuella inställningarna, till exempel användarnamn och lösenord.				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT_PLEASECHECK				0	it	Verificare le impostazioni attuali; in particolare quelle in riferimento al nome utente e password.				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT_PLEASECHECK				0	ja	ユーザー名やパスワードなど、現在設定されている内容を確認してください。				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT_PLEASECHECK				0	ka	გთხოვთ გადაამოწმოთ მიმდინარე პარამეტრები, მაგალითად მომხმარებლის სახელი და პაროლი.				2002-02-02 02:02:02
-dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT_PLEASECHECK				0	km	សូម​ពិនិត្យ​មើល​ការ​កំណត់​បច្ចុប្បន្ន​ ឧទាហរណ៍ ​ឈ្មោះ​អ្នកប្រើ ​និង​ ពាក្យ​សម្ងាត់ ។				2002-02-02 02:02:02
+dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT_PLEASECHECK				0	km	សូម​ពិនិត្យ​មើល​ការ​កំណត់​បច្ចុប្បន្ន​ ឧទាហរណ៍ ​ឈ្មោះ​អ្នកប្រើ ​និង​ ពាក្យ​សម្ងាត់ ។				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT_PLEASECHECK				0	ko	사용자 이름과 암호 등과 같은 현재 설정을 점검하십시오.				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT_PLEASECHECK				0	ku	Kerema xwe ra eyarên derbazbar kontrol bikin. Mînak nav û şîfre ya bikarhinêr.				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT_PLEASECHECK				0	lt	Patikrinkite nuostatas, pvz., naudotojo vardą ir slaptažodį.				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT_PLEASECHECK				0	mk	Проверете ги тековните поставувања, на пример, корисничко име и лозинка.				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT_PLEASECHECK				0	ml-IN	ദയവായി ഇപ്പോഴുള്ള സജ്ജീകരണങ്ങള് പരിശോധിക്കുക, ഉദാഹരണം ഉപഭോക്താവിന്റെ നാമവും സങ്കേതപദവും.				2002-02-02 02:02:02
+dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT_PLEASECHECK				0	mn	Идэвхтэй тохиргоог шалгана уу, Жишээлбэл хэрэглэгчийн нэр ба нууц үг.				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT_PLEASECHECK				0	mr-IN	कृपया चालू स्थापिते तपासून पहा, उदाहरणार्थ वापरकर्ता नाव आणि गुप्तशब्द.				2002-02-02 02:02:02
+dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT_PLEASECHECK				0	my	လတ်တလော ရွေးနိုင်ခြင်းများ၊ ဥပမာ - အသုံးပြုသူ အမည်နှင့် စကားဝှက် စစ်ဆေးပေးပါ။				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT_PLEASECHECK				0	nb	Sjekk alle innstillingene dine, for eksempel brukernavn og passord.				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT_PLEASECHECK				0	ne	कृपया हालको सेटिङहरू जाँच गर्नुहोस्, उदाहरणका लागि प्रयोगकर्ता नाम र पासवर्ड ।				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCONNECT_PLEASECHECK				0	nl	Controleer de huidige instellingen, zoals de gebruikersnaam en het wachtwoord.				2002-02-02 02:02:02
@@ -1244,17 +1274,19 @@ dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCREATE_DRIVERMANAG
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCREATE_DRIVERMANAGER				0	he	לא ניתן ליצור קשר עם מנהל התקן ה ‏‪SDBC (#servicename#)‬‏.‏				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCREATE_DRIVERMANAGER				1	hi-IN	SDBC ड्रइवर प्रबन्धक (#servicename#) को कनेक्ट नहीं कर सकता है .				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCREATE_DRIVERMANAGER				0	hr	Ne mogu se spojiti na SDBC upravljački voditelj (#servicename#).				2002-02-02 02:02:02
-dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCREATE_DRIVERMANAGER				0	hu	Nem sikerült csatlakozni az SDBC illesztőprogram-kezelőjéhez (#servicename#).				2002-02-02 02:02:02
+dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCREATE_DRIVERMANAGER				0	hu	Det gick inte att ansluta till SDBC-drivrutinshanteraren (#servicename#).				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCREATE_DRIVERMANAGER				0	it	Non è possibile stabilire il collegamento al driver SDBC Manager (#servicename#).				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCREATE_DRIVERMANAGER				0	ja	SDBC ドライバマネジャー(#servicename#)へ接続できませんでした。				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCREATE_DRIVERMANAGER				0	ka	SDBC დრაივერის მენეჯერთან შეერთება ვერ ხერხდება(#servicename#).				2002-02-02 02:02:02
-dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCREATE_DRIVERMANAGER				0	km	មិន​អាច​តភ្ជាប់​ទៅ​កម្មវិធី​គ្រប់គ្រង​របស់​កម្មវិធី​បញ្ជា​ SDBC (#servicename#) ។				2002-02-02 02:02:02
+dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCREATE_DRIVERMANAGER				0	km	មិន​អាច​តភ្ជាប់​ទៅ​កម្មវិធី​គ្រប់គ្រង​របស់​កម្មវិធី​បញ្ជា​ SDBC (#servicename#) ។				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCREATE_DRIVERMANAGER				0	ko	SDBC 드라이버 관리자 (#servicename#)에 연결하지 못했습니다.				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCREATE_DRIVERMANAGER				0	ku	Bi rêvebiriya ajogera SDBC yê grêdan pêk naye(#servicename#).				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCREATE_DRIVERMANAGER				0	lt	Negalima prisijungti prie SDBC tvarkyklės (#servicename#).				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCREATE_DRIVERMANAGER				0	mk	Не можам да се поврзам со менаџерот за SDBC-управувачи (#servicename#).				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCREATE_DRIVERMANAGER				0	ml-IN	SDBC ഡ്രൈവര് നിയന്ത്രണം കണക്ട് ചെയ്യാന് സാധിക്കുന്നില്ല(#സേവന നാമം#).				2002-02-02 02:02:02
+dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCREATE_DRIVERMANAGER				0	mn	SDBC драйверын менежер (#servicename#)-тэй холбогдож чадахгүй.				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCREATE_DRIVERMANAGER				0	mr-IN	SDBC चालक व्यवस्थापकाशी जुळणी स्थापित होऊ शकत नाही (#servicename#).				2002-02-02 02:02:02
+dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCREATE_DRIVERMANAGER				0	my	SDBC  မောင်းနှင်သူ ပရိုဂရမ် စီမံထိန်းသိမ်းခြင်း (#servicename#) သို့ ချိတ်ဆက်နိုင်လိမ့်မည် မဟုတ်ပါ။				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCREATE_DRIVERMANAGER				0	nb	Kan ikke koble til SDBC-driverbehandleren (#servicename#).				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCREATE_DRIVERMANAGER				0	ne	SDBC ड्राईभर व्यावस्थापक (#servicename#) मा जडान गर्न सकिँदैन ।				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCREATE_DRIVERMANAGER				0	nl	Kan de verbinding met het SDBC-stuurprogrammabeheer (#servicename#) niet tot stand brengen.				2002-02-02 02:02:02
@@ -1268,10 +1300,10 @@ dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCREATE_DRIVERMANAG
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCREATE_DRIVERMANAGER				0	pt-BR	Não é possível estabelecer uma conexão com o gerenciador do driver SDBC (#servicename#).				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCREATE_DRIVERMANAGER				0	ru	Невозможно соединиться с менеджером драйвера SDBC (#servicename#).				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCREATE_DRIVERMANAGER				0	rw	Kwihuza kuri musomyi nyobozi ya SDBC ntibishoboka(#servicename#).				2002-02-02 02:02:02
-dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCREATE_DRIVERMANAGER				0	sh	Neuspelo povezivanje sa SDBC menadžerom upravljačkog programa (#servicename#).				2002-02-02 02:02:02
+dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCREATE_DRIVERMANAGER				0	sh	Neuspelo povezivanje sa SDBC kontrolom upravljačkog programa (#servicename#).				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCREATE_DRIVERMANAGER				0	sk	Nemôžem sa spojiť s SDBC driver manager (#servicename#).				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCREATE_DRIVERMANAGER				0	sl	Ni se mogoče povezati z upraviteljem gonilnikov SDBC (#servicename#).				2002-02-02 02:02:02
-dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCREATE_DRIVERMANAGER				0	sr	Неуспело повезивање са SDBC менаџером управљачког програма (#servicename#).				2002-02-02 02:02:02
+dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCREATE_DRIVERMANAGER				0	sr	Неуспело повезивање са SDBC контролом управљачког програма (#servicename#).				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCREATE_DRIVERMANAGER				0	ss	Akuchumaneki ne SDBC umshayeli longumphatsi (#servicename#).				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCREATE_DRIVERMANAGER				0	st	Ha e kgone ho hokahana le molaodi wa draeve ya SDBC (#servicename#).				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_COULDNOTCREATE_DRIVERMANAGER				0	sv	Det gick inte att ansluta till SDBC-drivrutinshanteraren (#servicename#).				2002-02-02 02:02:02
@@ -1321,17 +1353,19 @@ dbaccess	source\ui\control\tabletree.src	0	string	STR_NOREGISTEREDDRIVER				1	gu
 dbaccess	source\ui\control\tabletree.src	0	string	STR_NOREGISTEREDDRIVER				0	he	לא רשום מנהל התקן עבור ה ‏‪URL #connurl#‬‏.‏				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_NOREGISTEREDDRIVER				1	hi-IN	URL #connurl# के लिये ड्रइवर को रजिस्टर नहीं किया है .				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_NOREGISTEREDDRIVER				0	hr	Upravljački program nije registriran za URL #connurl#.				2002-02-02 02:02:02
-dbaccess	source\ui\control\tabletree.src	0	string	STR_NOREGISTEREDDRIVER				0	hu	A következő URL-hez nincs regisztrálva illesztőprogram: #connurl#.				2002-02-02 02:02:02
+dbaccess	source\ui\control\tabletree.src	0	string	STR_NOREGISTEREDDRIVER				0	hu	Det har inte registrerats någon drivrutin för URL:en #connurl#.				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_NOREGISTEREDDRIVER				0	it	Non esiste alcun driver registrato per l'URL #connurl#				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_NOREGISTEREDDRIVER				0	ja	URL #connurl# のドライバが登録されていません。				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_NOREGISTEREDDRIVER				0	ka	დრაივერი დარეგისტრირებული არ არის URL-სთვის #connurl#.				2002-02-02 02:02:02
-dbaccess	source\ui\control\tabletree.src	0	string	STR_NOREGISTEREDDRIVER				0	km	មិន​បាន​ចុះ​ឈ្មោះ​កម្មវិធី​បញ្ជា​​ សម្រាប់​ URL #connurl# ។				2002-02-02 02:02:02
+dbaccess	source\ui\control\tabletree.src	0	string	STR_NOREGISTEREDDRIVER				0	km	មិន​បាន​ចុះ​ឈ្មោះ​កម្មវិធី​បញ្ជា​​ សម្រាប់​ URL #connurl# ។				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_NOREGISTEREDDRIVER				0	ko	URL #connurl#에 대해 등록된 드라이버가 없습니다.				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_NOREGISTEREDDRIVER				0	ku	Ji bo navnîşana #connurl# URL ajogerek qeydkirî nîne.				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_NOREGISTEREDDRIVER				0	lt	Tvarkyklė neužregistruota URL #connurl#.				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_NOREGISTEREDDRIVER				0	mk	Не е регистриран управувач за URL #connurl#.				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_NOREGISTEREDDRIVER				0	ml-IN	URLന‍് വേണ്ടി ഒരു ഡ്രൈവറും രജിസ്റ്റര് ചെയ്തിട്ടില്ല #connurl#.				2002-02-02 02:02:02
+dbaccess	source\ui\control\tabletree.src	0	string	STR_NOREGISTEREDDRIVER				0	mn	Драйвер #connurl# Хаяг (URL) -д бүртгэгдээгүй.				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_NOREGISTEREDDRIVER				0	mr-IN	URL #connurl# साठी चालक नोंदवलेला नाही.				2002-02-02 02:02:02
+dbaccess	source\ui\control\tabletree.src	0	string	STR_NOREGISTEREDDRIVER				0	my	URL #connurl# အတွက် မောင်းနှင်သူတစ်ဦး မှတ်တမ်းမတင်ထားပါ။				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_NOREGISTEREDDRIVER				0	nb	Ingen driver er registrert for URL-en #connurl#.				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_NOREGISTEREDDRIVER				0	ne	ड्राईभर URL #connurl# का लागि दर्ता गरिएको छैन ।				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_NOREGISTEREDDRIVER				0	nl	Geen stuurprogramma voor URL #connurl# geregistreerd.				2002-02-02 02:02:02
@@ -1359,7 +1393,7 @@ dbaccess	source\ui\control\tabletree.src	0	string	STR_NOREGISTEREDDRIVER				0	te
 dbaccess	source\ui\control\tabletree.src	0	string	STR_NOREGISTEREDDRIVER				0	tg	Драйвер барои URL-и #connurl# бақайд гирифта нашудааст.				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_NOREGISTEREDDRIVER				0	th	ไดร์ฟเวอร์ไม่ได้ลงทะเบียน URL #connurl#				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_NOREGISTEREDDRIVER				0	tn	Mokgweetsi ga a kwadiswa URL #connurl#.				2002-02-02 02:02:02
-dbaccess	source\ui\control\tabletree.src	0	string	STR_NOREGISTEREDDRIVER				0	tr	#connurl# URL adresi için bir sürücü kayıtlı değil.				2002-02-02 02:02:02
+dbaccess	source\ui\control\tabletree.src	0	string	STR_NOREGISTEREDDRIVER				0	tr	#connurl# adresi için bir sürücü kayıtlı değil.				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_NOREGISTEREDDRIVER				0	ts	Xiyenge a xi tsarisiwanga eka URL #connurl#.				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_NOREGISTEREDDRIVER				0	uk	Драйвер не зареєстрований для URL #connurl#.				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_NOREGISTEREDDRIVER				0	ur-IN	 ڈرائیو ر کو  رجسٹرڈ       نہیں کرسکتاہےURL #connurl#.				2002-02-02 02:02:02
@@ -1398,17 +1432,19 @@ dbaccess	source\ui\control\tabletree.src	0	string	STR_NOTABLEINFO				1	gu-IN	સ
 dbaccess	source\ui\control\tabletree.src	0	string	STR_NOTABLEINFO				0	he	החיבור הצליח אבל לא ניתן לקבל מידע אודות מסד הנתונים.‏				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_NOTABLEINFO				1	hi-IN	सफलता से कनेक्ट किया है, लेकिन डाटाबेस सारणियों के बारे में सूचना उपलब्ध नहीं है .				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_NOTABLEINFO				0	hr	Uspješno povezano, ali informacije o tablicama baze podataka nisu dostupne.				2002-02-02 02:02:02
-dbaccess	source\ui\control\tabletree.src	0	string	STR_NOTABLEINFO				0	hu	Sikerült csatlakozni, de nincs elérhető információ az adatbázis-táblákról.				2002-02-02 02:02:02
+dbaccess	source\ui\control\tabletree.src	0	string	STR_NOTABLEINFO				0	hu	Förbindelsen upprättades men det gick inte att få fram någon information om tabeller i databasen.				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_NOTABLEINFO				0	it	Il collegamento è stato realizzato tuttavia non è stato possibile trasmettere le informazioni relative alle tabelle nel database.				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_NOTABLEINFO				0	ja	正常に接続できましたが、データベースのテーブルに関する情報がありません。				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_NOTABLEINFO				0	ka	დაკავშირება განხორციელდა წარმატებით, მაგრამ ინფორმაცია მონაცემთა ბაზის შესახებ მიუწვდომელია.				2002-02-02 02:02:02
-dbaccess	source\ui\control\tabletree.src	0	string	STR_NOTABLEINFO				0	km	បាន​​តភ្ជាប់​​ដោយ​ជោគជ័យ  ប៉ុន្តែ​​​ព័ត៌មាន​​អំពី​តារាង​របស់​​​មូលដ្ឋាន​​ទិន្នន័យ មិនអាច​រក​បាន​​ឡើយ ។				2002-02-02 02:02:02
+dbaccess	source\ui\control\tabletree.src	0	string	STR_NOTABLEINFO				0	km	បាន​​តភ្ជាប់​​ដោយ​ជោគជ័យ  ប៉ុន្តែ​​​ព័ត៌មាន​​អំពី​តារាង​របស់​​​មូលដ្ឋាន​​ទិន្នន័យ មិនអាច​រក​បាន​​ឡើយ ។				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_NOTABLEINFO				0	ko	성공적으로 연결되었지만, 데이터베이스 테이블과 관련된 정보를 사용할 수 없습니다.				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_NOTABLEINFO				0	ku	Girêdan serkevtiye, le di derbarê tabloyên danegehê da agahî nayê girtin.				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_NOTABLEINFO				0	lt	Prisijungta sėkmingai, bet informacija apie duomenų bazės lenteles nepasiekiama.				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_NOTABLEINFO				0	mk	Успешно поврзано, но информациите за табелите од базата на податоци не се достапни.				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_NOTABLEINFO				0	ml-IN	വിജയകരമായി കണക്ട് ചെയ്തു, പക്ഷെ ഡേറ്റാബേസ് പട്ടികയുടെ വിവരങ്ങള് ലഭ്യമല്ല.				2002-02-02 02:02:02
+dbaccess	source\ui\control\tabletree.src	0	string	STR_NOTABLEINFO				0	mn	Амжилттай холбогдлоо, гэвч өгөгдлийн сангийн хүснэгтийн талаарх мэдээлэл боломжгүй байна.				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_NOTABLEINFO				0	mr-IN	यशस्वीरित्या जोडलेले. परंतु माहितीकोष तालिकांची माहिती उपलब्ध नाही.				2002-02-02 02:02:02
+dbaccess	source\ui\control\tabletree.src	0	string	STR_NOTABLEINFO				0	my	အောင်မြင်စွာ ချိတ်ဆက်ထားသော်လည်း ဇယားများ အချက်အလက် စနစ်တကျ သိုလှောင်ထားခြင်း အကြောင်း သတင်း အချက်အလက် မရနိုင်ပါ။				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_NOTABLEINFO				0	nb	Forbindelsen var vellykket, men informasjon om databasetabeller er ikke tilgjengelig.				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_NOTABLEINFO				0	ne	सफलतापूर्वक जडान गरियो, तर डाटाबेस तालिकाहरूको बारेमा सूचना उपलब्ध छैन ।				2002-02-02 02:02:02
 dbaccess	source\ui\control\tabletree.src	0	string	STR_NOTABLEINFO				0	nl	Verbinding is tot stand gebracht, er zijn echter geen gegevens over tabellen in de database gevonden.				2002-02-02 02:02:02
@@ -1477,7 +1513,7 @@ dbaccess	source\ui\control\undosqledit.src	0	string	STR_QUERY_UNDO_MODIFYSQLEDIT
 dbaccess	source\ui\control\undosqledit.src	0	string	STR_QUERY_UNDO_MODIFYSQLEDIT				0	he	שינוי משפט(י) ‏‪SQL‬‏.‏				2002-02-02 02:02:02
 dbaccess	source\ui\control\undosqledit.src	0	string	STR_QUERY_UNDO_MODIFYSQLEDIT				1	hi-IN	SQL वाक्यों को सुधारें 				2002-02-02 02:02:02
 dbaccess	source\ui\control\undosqledit.src	0	string	STR_QUERY_UNDO_MODIFYSQLEDIT				0	hr	Promijeni SQL naredbu				2002-02-02 02:02:02
-dbaccess	source\ui\control\undosqledit.src	0	string	STR_QUERY_UNDO_MODIFYSQLEDIT				0	hu	SQL-utasítások módosítása				2002-02-02 02:02:02
+dbaccess	source\ui\control\undosqledit.src	0	string	STR_QUERY_UNDO_MODIFYSQLEDIT				0	hu	Modifiera SQL				2002-02-02 02:02:02
 dbaccess	source\ui\control\undosqledit.src	0	string	STR_QUERY_UNDO_MODIFYSQLEDIT				0	it	Modifica SQL				2002-02-02 02:02:02
 dbaccess	source\ui\control\undosqledit.src	0	string	STR_QUERY_UNDO_MODIFYSQLEDIT				0	ja	SQL の変更				2002-02-02 02:02:02
 dbaccess	source\ui\control\undosqledit.src	0	string	STR_QUERY_UNDO_MODIFYSQLEDIT				0	ka	შეცვალე SQL განცხადება(ები)				2002-02-02 02:02:02
@@ -1487,7 +1523,9 @@ dbaccess	source\ui\control\undosqledit.src	0	string	STR_QUERY_UNDO_MODIFYSQLEDIT
 dbaccess	source\ui\control\undosqledit.src	0	string	STR_QUERY_UNDO_MODIFYSQLEDIT				0	lt	Keisti SQL sakinį (sakinius)				2002-02-02 02:02:02
 dbaccess	source\ui\control\undosqledit.src	0	string	STR_QUERY_UNDO_MODIFYSQLEDIT				0	mk	Измени SQL-наредби				2002-02-02 02:02:02
 dbaccess	source\ui\control\undosqledit.src	0	string	STR_QUERY_UNDO_MODIFYSQLEDIT				0	ml-IN	SQL വാക്യം  ആധുനീകരിക്കുക				2002-02-02 02:02:02
+dbaccess	source\ui\control\undosqledit.src	0	string	STR_QUERY_UNDO_MODIFYSQLEDIT				0	mn	SQL илэрхийллүүдийг өөрчлөх				2002-02-02 02:02:02
 dbaccess	source\ui\control\undosqledit.src	0	string	STR_QUERY_UNDO_MODIFYSQLEDIT				0	mr-IN	SQL वाक्य (वाक्ये) सुधारा				2002-02-02 02:02:02
+dbaccess	source\ui\control\undosqledit.src	0	string	STR_QUERY_UNDO_MODIFYSQLEDIT				0	my	SQL ထုတ်ပြန်ချက် (များ) အထူးပြုပါ				2002-02-02 02:02:02
 dbaccess	source\ui\control\undosqledit.src	0	string	STR_QUERY_UNDO_MODIFYSQLEDIT				0	nb	Endre SQL-setning(er)				2002-02-02 02:02:02
 dbaccess	source\ui\control\undosqledit.src	0	string	STR_QUERY_UNDO_MODIFYSQLEDIT				0	ne	परिमार्जन गरिएको SQL कथन(हरू)				2002-02-02 02:02:02
 dbaccess	source\ui\control\undosqledit.src	0	string	STR_QUERY_UNDO_MODIFYSQLEDIT				0	nl	SQL-instructie(s) wijzigen				2002-02-02 02:02:02
