@@ -17,7 +17,7 @@
 #
 # $RCSfile: localize.sdf,v $
 #
-# $Revision: 1.21 $
+# $Revision: 1.22 $
 #
 # This file is part of OpenOffice.org.
 #
@@ -58,7 +58,7 @@ extensions	source\update\check\Addons.xcu	0	value	.Addons.AddonUI.OfficeHelp.Upd
 extensions	source\update\check\Addons.xcu	0	value	.Addons.AddonUI.OfficeHelp.UpdateCheckJob	Title			0	gu	સુધારાઓ માટે ચકાસો (~U)...				2002-02-02 02:02:02
 extensions	source\update\check\Addons.xcu	0	value	.Addons.AddonUI.OfficeHelp.UpdateCheckJob	Title			0	he	בדיקת עידכונים...‏				2002-02-02 02:02:02
 extensions	source\update\check\Addons.xcu	0	value	.Addons.AddonUI.OfficeHelp.UpdateCheckJob	Title			0	hr	Provjeri za ~nadogradnje...				2002-02-02 02:02:02
-extensions	source\update\check\Addons.xcu	0	value	.Addons.AddonUI.OfficeHelp.UpdateCheckJob	Title			0	hu	Sök efter ~uppdateringar...				2002-02-02 02:02:02
+extensions	source\update\check\Addons.xcu	0	value	.Addons.AddonUI.OfficeHelp.UpdateCheckJob	Title			0	hu	~Frissítések keresése...				2002-02-02 02:02:02
 extensions	source\update\check\Addons.xcu	0	value	.Addons.AddonUI.OfficeHelp.UpdateCheckJob	Title			0	it	Controlla ~aggiornamenti...				2002-02-02 02:02:02
 extensions	source\update\check\Addons.xcu	0	value	.Addons.AddonUI.OfficeHelp.UpdateCheckJob	Title			0	ja	更新のチェック(~U)...				2002-02-02 02:02:02
 extensions	source\update\check\Addons.xcu	0	value	.Addons.AddonUI.OfficeHelp.UpdateCheckJob	Title			0	ka	~განახლებაზე შემოწმება...				2002-02-02 02:02:02
@@ -68,10 +68,10 @@ extensions	source\update\check\Addons.xcu	0	value	.Addons.AddonUI.OfficeHelp.Upd
 extensions	source\update\check\Addons.xcu	0	value	.Addons.AddonUI.OfficeHelp.UpdateCheckJob	Title			0	lt	~Tikrinti, ar yra naujinimų...				2002-02-02 02:02:02
 extensions	source\update\check\Addons.xcu	0	value	.Addons.AddonUI.OfficeHelp.UpdateCheckJob	Title			0	mk	Провери за над~градби...				2002-02-02 02:02:02
 extensions	source\update\check\Addons.xcu	0	value	.Addons.AddonUI.OfficeHelp.UpdateCheckJob	Title			0	mn	~Шинэчлэлийг шалгах...				2002-02-02 02:02:02
-extensions	source\update\check\Addons.xcu	0	value	.Addons.AddonUI.OfficeHelp.UpdateCheckJob	Title			0	nb	Se etter ~oppdateringer ...				2002-02-02 02:02:02
+extensions	source\update\check\Addons.xcu	0	value	.Addons.AddonUI.OfficeHelp.UpdateCheckJob	Title			0	nb	Se etter ~oppdateringer …				2002-02-02 02:02:02
 extensions	source\update\check\Addons.xcu	0	value	.Addons.AddonUI.OfficeHelp.UpdateCheckJob	Title			0	ne	अद्याव				2002-02-02 02:02:02
 extensions	source\update\check\Addons.xcu	0	value	.Addons.AddonUI.OfficeHelp.UpdateCheckJob	Title			0	nl	Op ~updates controleren...				2002-02-02 02:02:02
-extensions	source\update\check\Addons.xcu	0	value	.Addons.AddonUI.OfficeHelp.UpdateCheckJob	Title			0	nn	Sjå etter ~oppdateringar ...				2002-02-02 02:02:02
+extensions	source\update\check\Addons.xcu	0	value	.Addons.AddonUI.OfficeHelp.UpdateCheckJob	Title			0	nn	Sjå etter ~oppdateringar …				2002-02-02 02:02:02
 extensions	source\update\check\Addons.xcu	0	value	.Addons.AddonUI.OfficeHelp.UpdateCheckJob	Title			0	pa-IN	ਅੱਪਡੇਟ ਲਈ ਜਾਂਚ(~U)...				2002-02-02 02:02:02
 extensions	source\update\check\Addons.xcu	0	value	.Addons.AddonUI.OfficeHelp.UpdateCheckJob	Title			0	pl	Sprawdź ~aktualizację...				2002-02-02 02:02:02
 extensions	source\update\check\Addons.xcu	0	value	.Addons.AddonUI.OfficeHelp.UpdateCheckJob	Title			0	pt	Procurar act~ualizações...				2002-02-02 02:02:02
@@ -256,7 +256,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_CANCEL				0
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_CANCEL				0	ca	Cancel·la				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_CANCEL				0	cs	Zrušit				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_CANCEL				0	cy	Diddymu				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_CANCEL				0	da	Annuller				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_CANCEL				1	da	Annuller				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_CANCEL				0	de	Abbrechen				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_CANCEL				0	el	Cancel				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_CANCEL				0	en-GB	Cancel				2002-02-02 02:02:02
@@ -271,7 +271,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_CANCEL				0
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_CANCEL				0	gu	રદ કરો				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_CANCEL				0	he	ביטול				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_CANCEL				0	hr	Odustani				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_CANCEL				0	hu	Avbryt				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_CANCEL				0	hu	Mégsem				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_CANCEL				0	it	Escape				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_CANCEL				0	ja	キャンセル				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_CANCEL				0	ka	გაუქმება				2002-02-02 02:02:02
@@ -322,7 +322,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_CLOSE				0	
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_CLOSE				0	ca	Tanca				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_CLOSE				0	cs	Zavřít				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_CLOSE				0	cy	Cau				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_CLOSE				0	da	Luk				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_CLOSE				1	da	Luk				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_CLOSE				0	de	Schließen				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_CLOSE				0	el	Close				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_CLOSE				0	en-GB	Close				2002-02-02 02:02:02
@@ -337,7 +337,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_CLOSE				0	
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_CLOSE				0	gu	બંધ કરો				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_CLOSE				0	he	סגירה				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_CLOSE				0	hr	Zatvori				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_CLOSE				0	hu	Stäng				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_CLOSE				0	hu	Bezárás				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_CLOSE				0	it	C~hiudi				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_CLOSE				0	ja	閉じる				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_CLOSE				0	ka	დახურვა				2002-02-02 02:02:02
@@ -385,7 +385,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_DOWNLOAD			
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_DOWNLOAD				0	br	Pellgargañ				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_DOWNLOAD				0	ca	~Baixa				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_DOWNLOAD				0	cs	Stáhnout				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_DOWNLOAD				0	da	~Hent				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_DOWNLOAD				1	da	~Hent				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_DOWNLOAD				0	de	~Herunterladen				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_DOWNLOAD				0	el	~Download				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_DOWNLOAD				0	eo	Elsxuti				2002-02-02 02:02:02
@@ -395,7 +395,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_DOWNLOAD			
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_DOWNLOAD				0	gl	~Descargar				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_DOWNLOAD				0	gu	ડાઉનલોડ (~D)				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_DOWNLOAD				0	hr	~Preuzmi				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_DOWNLOAD				0	hu	~Hämta				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_DOWNLOAD				0	hu	~Letöltés				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_DOWNLOAD				0	it	~Scarica				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_DOWNLOAD				0	ja	ダウンロード(~D)				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_DOWNLOAD				0	km	ទាញយក				2002-02-02 02:02:02
@@ -431,7 +431,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_INSTALL				
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_INSTALL				0	ca	~Instal·la				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_INSTALL				0	cs	Instalovat				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_INSTALL				0	cy	~Llwytho i lawr a Gosod				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_INSTALL				0	da	~Installer				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_INSTALL				1	da	~Installer				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_INSTALL				0	de	~Installieren				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_INSTALL				0	el	~Install				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_INSTALL				0	eo	Instali				2002-02-02 02:02:02
@@ -441,7 +441,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_INSTALL				
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_INSTALL				0	gl	~Instalar				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_INSTALL				0	gu	સ્થાપન (~I)				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_INSTALL				0	hr	~Instaliraj				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_INSTALL				0	hu	~Installera				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_INSTALL				0	hu	~Telepítés				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_INSTALL				0	it	~Installa				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_INSTALL				0	ja	インストール(~I)				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_INSTALL				0	km	ដំឡើង				2002-02-02 02:02:02
@@ -480,7 +480,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_PAUSE				0	
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_PAUSE				0	ca	En ~pausa				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_PAUSE				0	cs	Pozastavit				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_PAUSE				0	cy	Pause				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_PAUSE				0	da	~Pause				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_PAUSE				1	da	~Pause				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_PAUSE				0	de	~Anhalten				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_PAUSE				0	el	~Pause				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_PAUSE				0	en-GB	Pause				2002-02-02 02:02:02
@@ -493,7 +493,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_PAUSE				0	
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_PAUSE				0	gu	અટકાવો (~P)				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_PAUSE				0	he	Pause				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_PAUSE				0	hr	~Zaustavi				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_PAUSE				0	hu	Paus				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_PAUSE				0	hu	~Szünet				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_PAUSE				0	it	Sospendi				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_PAUSE				0	ja	一時停止(~P)				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_PAUSE				0	km	ផ្អាក				2002-02-02 02:02:02
@@ -530,7 +530,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_RESUME				0
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_RESUME				0	br	Adkeme~r				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_RESUME				0	ca	~Reprèn				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_RESUME				0	cs	Pokračovat				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_RESUME				0	da	~Genoptag				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_RESUME				1	da	~Genoptag				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_RESUME				0	de	~Fortsetzen				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_RESUME				0	el	~Resume				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_RESUME				0	eo	Rekomenci				2002-02-02 02:02:02
@@ -540,7 +540,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_RESUME				0
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_RESUME				0	gl	~Continuar				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_RESUME				0	gu	છેલ્લેથી ચલાવો (~R)				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_RESUME				0	hr	~Nastavi				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_RESUME				0	hu	~Fortsätt				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_RESUME				0	hu	~Folytatás				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_RESUME				0	it	~Riprendi				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_RESUME				0	ja	再開(~R)				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BTN_RESUME				0	km	ធ្វើ​បន្ត				2002-02-02 02:02:02
@@ -575,7 +575,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_AUTO_STA
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_AUTO_START				0	br	Pellgargadur an hizivadenn a grog.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_AUTO_START				0	ca	Inici de la baixada de l'actualització.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_AUTO_START				0	cs	Začíná stahování aktualizace.				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_AUTO_START				0	da	Overførsel af opdatering begynder.				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_AUTO_START				1	da	Overførsel af opdatering begynder.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_AUTO_START				0	de	Herunterladen des Updates beginnt.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_AUTO_START				0	el	Download of update begins.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_AUTO_START				0	en-GB	Download of update begins.				2002-02-02 02:02:02
@@ -586,7 +586,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_AUTO_STA
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_AUTO_START				0	gl	Comeza a descarga da actualización.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_AUTO_START				13691	gu	સુધારાનું ડાઉનલોડ શરું થાય.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_AUTO_START				0	hr	Počinje preuzimanje nadogradnji.				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_AUTO_START				0	hu	Hämtning av uppdatering påbörjas.				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_AUTO_START				0	hu	A frissítés letöltése megkezdődött.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_AUTO_START				0	it	Inizia lo scaricamento dell'aggiornamento.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_AUTO_START				0	ja	更新のダウンロードを開始します。				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_AUTO_START				0	km	ចាប់ផ្ដើម​​ទាញយក​ភាព​ទាន់សម័យ ។				2002-02-02 02:02:02
@@ -621,7 +621,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_DOWNLOAD
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_DOWNLOAD_AVAIL				0	br	Klikañ amañ evit kregiñ gant ar staliañ.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_DOWNLOAD_AVAIL				0	ca	Cliqueu aquí per a iniciar la instal·lació.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_DOWNLOAD_AVAIL				0	cs	Klepněte zde pro spuštění instalace.				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_DOWNLOAD_AVAIL				0	da	Klik her for at starte installationen.				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_DOWNLOAD_AVAIL				1	da	Klik her for at starte installationen.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_DOWNLOAD_AVAIL				0	de	Klicken Sie hier, um die Installation zu starten.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_DOWNLOAD_AVAIL				0	el	Click here to start the installation.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_DOWNLOAD_AVAIL				0	en-GB	Click here to start the installation.				2002-02-02 02:02:02
@@ -632,7 +632,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_DOWNLOAD
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_DOWNLOAD_AVAIL				0	gl	Prema aquí para iniciar a instalación.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_DOWNLOAD_AVAIL				13691	gu	સ્થાપન શરૂ કરવા માટે અંહિ ક્લિક કરો.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_DOWNLOAD_AVAIL				0	hr	Kliknite ovdje za pokretanje instalacije.				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_DOWNLOAD_AVAIL				0	hu	Klicka här för att starta installationen.				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_DOWNLOAD_AVAIL				0	hu	A telepítés indításához kattintson ide.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_DOWNLOAD_AVAIL				0	it	Fate clic qui per iniziare l'installazione.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_DOWNLOAD_AVAIL				0	ja	インストールを開始するには、ここをクリックします。				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_DOWNLOAD_AVAIL				0	km	ចុច​ទីនេះ ដើម្បី​ចាប់ផ្ដើម​ដំឡើង ។				2002-02-02 02:02:02
@@ -667,7 +667,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_DOWNLOAD
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_DOWNLOAD_PAUSED				0	br	Klikañ amañ evit kenderc'hel ganti.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_DOWNLOAD_PAUSED				0	ca	Cliqueu aquí per a reprendre la baixada.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_DOWNLOAD_PAUSED				0	cs	Klepněte zde pro pokračování.				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_DOWNLOAD_PAUSED				0	da	Klik her for at genoptage.				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_DOWNLOAD_PAUSED				1	da	Klik her for at genoptage.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_DOWNLOAD_PAUSED				0	de	Klicken Sie hier, um fortzusetzen.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_DOWNLOAD_PAUSED				0	el	Click here to resume.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_DOWNLOAD_PAUSED				0	en-GB	Click here to resume.				2002-02-02 02:02:02
@@ -678,7 +678,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_DOWNLOAD
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_DOWNLOAD_PAUSED				0	gl	Prema aquí para continuar.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_DOWNLOAD_PAUSED				13691	gu	ફરી ચાલુ કરવા માટે અંહિ ક્લિક કરો.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_DOWNLOAD_PAUSED				0	hr	Pritisnite ovdje za nastavak.				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_DOWNLOAD_PAUSED				0	hu	Klicka här för att återuppta.				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_DOWNLOAD_PAUSED				0	hu	A folytatáshoz kattintson ide.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_DOWNLOAD_PAUSED				0	it	Fate clic qui per riprendere.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_DOWNLOAD_PAUSED				0	ja	再開するには、ここをクリックします。				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_DOWNLOAD_PAUSED				0	km	ចុច​ទីនេះ​ដើម្បី​ធ្វើ​បន្ត ។				2002-02-02 02:02:02
@@ -713,7 +713,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_ERROR_DO
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_ERROR_DOWNLOADING				0	br	Klikañ amañ evit gouzout muioc'h.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_ERROR_DOWNLOADING				0	ca	Cliqueu aquí per a obtenir més informació.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_ERROR_DOWNLOADING				0	cs	Klepněte zde pro více informací.				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_ERROR_DOWNLOADING				0	da	Klik her for mere information.				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_ERROR_DOWNLOADING				1	da	Klik her for mere information.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_ERROR_DOWNLOADING				0	de	Klicken Sie hier, um mehr Informationen zu erhalten.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_ERROR_DOWNLOADING				0	el	Click here for more information.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_ERROR_DOWNLOADING				0	en-GB	Click here for more information.				2002-02-02 02:02:02
@@ -724,7 +724,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_ERROR_DO
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_ERROR_DOWNLOADING				0	gl	Prema aquí para máis información.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_ERROR_DOWNLOADING				13691	gu	વધુ જાણકારી માટે અંહિ ક્લિક કરો.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_ERROR_DOWNLOADING				0	hr	Pritisnite ovdje za više informacija.				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_ERROR_DOWNLOADING				0	hu	Klicka här för mer information.				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_ERROR_DOWNLOADING				0	hu	További információkért kattintson ide.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_ERROR_DOWNLOADING				0	it	Fai clic qui per ulteriori informazioni.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_ERROR_DOWNLOADING				0	ja	詳細は、ここをクリックします。				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_ERROR_DOWNLOADING				0	km	ចុច​ទីនេះ សម្រាប់​ព័ត៌មាន​បន្ថែម ។				2002-02-02 02:02:02
@@ -759,14 +759,14 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_EXT_UPD_
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_EXT_UPD_AVAIL				0	br	Klikañ amañ evit gouzout hiroc'h.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_EXT_UPD_AVAIL				0	ca	Cliqueu aquí per a obtenir més informació.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_EXT_UPD_AVAIL				0	cs	Klepněte zde pro více informací.				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_EXT_UPD_AVAIL				0	da	Klik her for mere information.				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_EXT_UPD_AVAIL				1	da	Klik her for mere information.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_EXT_UPD_AVAIL				0	de	Klicken Sie hier für mehr Informationen.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_EXT_UPD_AVAIL				0	el	Click here for more information.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_EXT_UPD_AVAIL				0	es	Haga clic aquí para más información.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_EXT_UPD_AVAIL				0	et	Rohkema teabe saamiseks klõpsa siia.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_EXT_UPD_AVAIL				0	fr	Cliquez ici pour obtenir des informations supplémentaires.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_EXT_UPD_AVAIL				0	gl	Prema aquí para máis información.				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_EXT_UPD_AVAIL				0	hu	Klicka här om du vill ha mer information.				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_EXT_UPD_AVAIL				0	hu	További információkért kattintson ide.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_EXT_UPD_AVAIL				0	it	Fai clic qui per ulteriori informazioni.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_EXT_UPD_AVAIL				0	ja	詳細は、ここをクリックします。				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_EXT_UPD_AVAIL				0	km	ចុច​ទីនេះ សម្រាប់​ព័ត៌មាន​បន្ថែម ។				2002-02-02 02:02:02
@@ -798,7 +798,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_AUTO_S
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_AUTO_START				0	br	Hizivadenn %PRODUCTNAME hegerz				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_AUTO_START				0	ca	Hi ha una actualització disponible per a %PRODUCTNAME				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_AUTO_START				0	cs	Nalezena aktualizace %PRODUCTNAME				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_AUTO_START				0	da	Opdatering af %PRODUCTNAME er tilgængelig				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_AUTO_START				1	da	Opdatering af %PRODUCTNAME er tilgængelig				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_AUTO_START				0	de	%PRODUCTNAME Update verfügbar				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_AUTO_START				0	el	%PRODUCTNAME update available				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_AUTO_START				0	en-GB	%PRODUCTNAME update available				2002-02-02 02:02:02
@@ -809,7 +809,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_AUTO_S
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_AUTO_START				0	gl	Actualización dispoñible de %PRODUCTNAME				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_AUTO_START				13691	gu	%PRODUCTNAME સુધારો ઉપલબ્ધ				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_AUTO_START				0	hr	Dostupne su nadogradnje za %PRODUCTNAME				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_AUTO_START				0	hu	Uppdatering av %PRODUCTNAME tillgänglig.				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_AUTO_START				0	hu	%PRODUCTNAME-frissítés érhető el				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_AUTO_START				0	it	È disponibile un aggiornamento di %PRODUCTNAME				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_AUTO_START				0	ja	%PRODUCTNAME の更新が入手できます				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_AUTO_START				0	km	មាន​ភាព​ទាន់សម័យ​របស់ %PRODUCTNAME				2002-02-02 02:02:02
@@ -817,7 +817,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_AUTO_S
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_AUTO_START				0	lt	Yra išleistas „%PRODUCTNAME“ naujinimas				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_AUTO_START				0	mk	Достапна е нова верзија на %PRODUCTNAME				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_AUTO_START				0	mn	%PRODUCTNAME шинэчлэлт гарчээ				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_AUTO_START				0	nb	%PRODUCTNAME-oppdatering tilgjengelig				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_AUTO_START				0	nb	%PRODUCTNAME oppdatering er tilgjengelig				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_AUTO_START				0	ne	%PRODUCTNAME अद्यावधिक उपलब्ध छ				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_AUTO_START				0	nl	%PRODUCTNAME update beschikbaar				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_AUTO_START				0	nn	%PRODUCTNAME-oppdatering tilgjengeleg				2002-02-02 02:02:02
@@ -844,7 +844,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLO
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLOADING				0	br	Pellgargadur an hizivadenn o redek				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLOADING				0	ca	Baixada de l'actualització en progrés.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLOADING				0	cs	Probíhá stahování aktualizace.				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLOADING				0	da	Overfører opdatering.				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLOADING				1	da	Overfører opdatering.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLOADING				0	de	Herunterladen des Updates in Bearbeitung				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLOADING				0	el	Download of update in progress				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLOADING				0	en-GB	Download of update in progress				2002-02-02 02:02:02
@@ -855,7 +855,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLO
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLOADING				0	gl	Descarga da actualización en progreso				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLOADING				13691	gu	સુધારાનું ડાઉનલોડ પ્રગતિમાં છે				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLOADING				0	hr	U postupku je preuzimanje nadogradnji				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLOADING				0	hu	Hämtning av uppdatering pågår.				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLOADING				0	hu	A frissítés letöltése folyamatban.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLOADING				0	it	Scaricamento dell'aggiornamento in corso				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLOADING				0	ja	更新のダウンロードが進行中				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLOADING				0	km	ការ​ទាញយក​ភាព​ទាន់សម័យ​កំពុង​ស្ថិត​ក្នុង​វឌ្ឍនភាព				2002-02-02 02:02:02
@@ -890,7 +890,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLO
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLOAD_AVAIL				0	br	Pellgargadur an hizivadenn peurc'hraet				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLOAD_AVAIL				0	ca	Baixada de l'actualització completada.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLOAD_AVAIL				0	cs	Stahování aktualizace dokončeno				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLOAD_AVAIL				0	da	Overførsel af opdatering færdig				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLOAD_AVAIL				1	da	Overførsel af opdatering færdig				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLOAD_AVAIL				0	de	Herunterladen des Updates abgeschlossen				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLOAD_AVAIL				0	el	Download of update completed				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLOAD_AVAIL				0	en-GB	Download of update completed				2002-02-02 02:02:02
@@ -901,7 +901,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLO
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLOAD_AVAIL				0	gl	Descarga da actualización completada.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLOAD_AVAIL				13691	gu	સુધારાનું ડાઉનલોડ સમાપ્ત થયું				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLOAD_AVAIL				0	hr	Završeno je preuzimanje nadogradnji.				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLOAD_AVAIL				0	hu	Hämtning av uppdatering är klar				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLOAD_AVAIL				0	hu	A frissítés letöltése kész.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLOAD_AVAIL				0	it	Scaricamento dell'aggiornamento completato				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLOAD_AVAIL				0	ja	更新のダウンロードが完了しました				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLOAD_AVAIL				0	km	បាន​បញ្ចប់​ការ​ទាញយក​ភាព​ទាន់សម័យ				2002-02-02 02:02:02
@@ -936,7 +936,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLO
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLOAD_PAUSED				0	br	Pellgargadur an hizivadenn war ehan				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLOAD_PAUSED				0	ca	Baixada de l'actualització en pausa.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLOAD_PAUSED				0	cs	Stahování aktualizace pozastaveno				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLOAD_PAUSED				0	da	Overførsel af opdatering er på pause				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLOAD_PAUSED				1	da	Overførsel af opdatering er på pause				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLOAD_PAUSED				0	de	Herunterladen des Updates angehalten				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLOAD_PAUSED				0	el	Download of update paused				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLOAD_PAUSED				0	en-GB	Download of update paused				2002-02-02 02:02:02
@@ -947,7 +947,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLO
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLOAD_PAUSED				0	gl	Descarga da actualización pausada				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLOAD_PAUSED				13691	gu	સુધારાનું ડાઉનલોડ અટકાવાયેલ છે				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLOAD_PAUSED				0	hr	Zaustavljeno je preuzimanje nadogradnji.				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLOAD_PAUSED				0	hu	Hämtningen av uppdateringen har tagit paus				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLOAD_PAUSED				0	hu	A frissítés letöltése szünetel.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLOAD_PAUSED				0	it	Scaricamento dell'aggiornamento in pausa				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLOAD_PAUSED				0	ja	更新のダウンロードが一時停止しました				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_DOWNLOAD_PAUSED				0	km	បាន​ផ្អាក​ការ​ទាញយក​ភាព​ទាន់សម័យ				2002-02-02 02:02:02
@@ -982,7 +982,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_ERROR_
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_ERROR_DOWNLOADING				0	br	Pellgargadur an hizivadenn gannet				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_ERROR_DOWNLOADING				0	ca	Baixada de l'actualització encallada.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_ERROR_DOWNLOADING				0	cs	Stahování aktualizace přerušeno				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_ERROR_DOWNLOADING				0	da	Overførsel af opdatering hænger				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_ERROR_DOWNLOADING				1	da	Overførsel af opdatering hænger				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_ERROR_DOWNLOADING				0	de	Herunterladen des Updates unterbrochen				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_ERROR_DOWNLOADING				0	el	Download of update stalled				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_ERROR_DOWNLOADING				0	en-GB	Download of update stalled				2002-02-02 02:02:02
@@ -993,7 +993,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_ERROR_
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_ERROR_DOWNLOADING				0	gl	Descarga de actualización paralizada				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_ERROR_DOWNLOADING				13691	gu	સુધારાનું ડાઉનલોડ અટકાવાયેલ				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_ERROR_DOWNLOADING				0	hr	Prekinuto je preuzimanje nadogradnji				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_ERROR_DOWNLOADING				0	hu	Hämtning av uppdatering är stoppad				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_ERROR_DOWNLOADING				0	hu	A frissítés letöltése megállt.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_ERROR_DOWNLOADING				0	it	Scaricamento dell'aggiornamento in stallo				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_ERROR_DOWNLOADING				0	ja	更新のダウンロードが遅延しています				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_ERROR_DOWNLOADING				0	km	ការ​ទាញយក​ភាព​ទាន់សម័យ​បាន​អាក់				2002-02-02 02:02:02
@@ -1028,14 +1028,14 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_EXT_UP
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_EXT_UPD_AVAIL				0	br	Hegerz ez eus hizivadurioù evit askouezhadoù				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_EXT_UPD_AVAIL				0	ca	Hi ha actualitzacions per a les extensions disponibles				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_EXT_UPD_AVAIL				0	cs	Aktualizace pro rozšíření jsou k dispozici				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_EXT_UPD_AVAIL				0	da	Opdateringer til udvidelser er tilgængelige				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_EXT_UPD_AVAIL				1	da	Opdateringer til udvidelser er tilgængelige				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_EXT_UPD_AVAIL				0	de	Updates für Extensions verfügbar				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_EXT_UPD_AVAIL				0	el	Updates for extensions available				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_EXT_UPD_AVAIL				0	es	Actualización para extensiones disponibles				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_EXT_UPD_AVAIL				0	et	Laienduste uuendused on saadaval				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_EXT_UPD_AVAIL				0	fr	Mises à jour d'extensions disponibles				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_EXT_UPD_AVAIL				0	gl	Hai actualizacións dispoñibles para as extensións				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_EXT_UPD_AVAIL				0	hu	Uppdateringar finns tillgängliga för tillägg				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_EXT_UPD_AVAIL				0	hu	Kiterjesztésfrissítések érhetők el.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_EXT_UPD_AVAIL				0	it	Aggiornamenti per estensioni disponibili				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_EXT_UPD_AVAIL				0	ja	使用可能な拡張機能の更新				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_EXT_UPD_AVAIL				0	km	មាន​ភាព​ទាន់សម័យ​សម្រាប់​ផ្នែក​បន្ថែម				2002-02-02 02:02:02
@@ -1067,7 +1067,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_UPDATE
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_UPDATE_AVAIL				0	br	Hizivadenn %PRODUCTNAME hegerz				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_UPDATE_AVAIL				0	ca	Hi ha una actualització de l'%PRODUCTNAME disponible				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_UPDATE_AVAIL				0	cs	Nalezena aktualizace %PRODUCTNAME				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_UPDATE_AVAIL				0	da	Opdatering af %PRODUCTNAME er tilgængelig				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_UPDATE_AVAIL				1	da	Opdatering af %PRODUCTNAME er tilgængelig				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_UPDATE_AVAIL				0	de	%PRODUCTNAME Update verfügbar				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_UPDATE_AVAIL				0	el	%PRODUCTNAME update available				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_UPDATE_AVAIL				0	en-GB	%PRODUCTNAME update available				2002-02-02 02:02:02
@@ -1078,7 +1078,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_UPDATE
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_UPDATE_AVAIL				0	gl	Actualización dispoñible de %PRODUCTNAME				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_UPDATE_AVAIL				13691	gu	%PRODUCTNAME સુધારો ઉપલબ્ધ				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_UPDATE_AVAIL				0	hr	Dostupne su nadogradnje za %PRODUCTNAME				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_UPDATE_AVAIL				0	hu	Uppdatering av %PRODUCTNAME tillgänglig.				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_UPDATE_AVAIL				0	hu	%PRODUCTNAME-frissítés érhető el				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_UPDATE_AVAIL				0	it	È disponibile un aggiornamento di %PRODUCTNAME				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_UPDATE_AVAIL				0	ja	%PRODUCTNAME の更新が入手できます				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_UPDATE_AVAIL				0	km	មាន​ភាព​ទាន់សម័យ​របស់ %PRODUCTNAME				2002-02-02 02:02:02
@@ -1086,7 +1086,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_UPDATE
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_UPDATE_AVAIL				0	lt	Yra išleistas „%PRODUCTNAME“ naujinimas				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_UPDATE_AVAIL				0	mk	Достапна е нова верзија на %PRODUCTNAME				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_UPDATE_AVAIL				0	mn	%PRODUCTNAME шинэчлэл гарчээ				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_UPDATE_AVAIL				0	nb	%PRODUCTNAME-oppdatering tilgjengelig				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_UPDATE_AVAIL				0	nb	%PRODUCTNAME oppdatering er tilgjengelig				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_UPDATE_AVAIL				0	ne	%PRODUCTNAME अद्यावधिक उपलब्ध छ				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_UPDATE_AVAIL				0	nl	%PRODUCTNAME update beschikbaar				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_UPDATE_AVAIL				0	nn	%PRODUCTNAME-oppdatering tilgjengeleg				2002-02-02 02:02:02
@@ -1113,7 +1113,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_UPDATE
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_UPDATE_NO_DOWN				0	br	Hizivadenn %PRODUCTNAME hegerz				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_UPDATE_NO_DOWN				0	ca	Hi ha una actualització de l'%PRODUCTNAME disponible				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_UPDATE_NO_DOWN				0	cs	Nalezena aktualizace %PRODUCTNAME				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_UPDATE_NO_DOWN				0	da	Opdatering af %PRODUCTNAME er tilgængelig				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_UPDATE_NO_DOWN				1	da	Opdatering af %PRODUCTNAME er tilgængelig				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_UPDATE_NO_DOWN				0	de	%PRODUCTNAME Update verfügbar				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_UPDATE_NO_DOWN				0	el	%PRODUCTNAME update available				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_UPDATE_NO_DOWN				0	en-GB	%PRODUCTNAME update available				2002-02-02 02:02:02
@@ -1124,7 +1124,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_UPDATE
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_UPDATE_NO_DOWN				0	gl	Actualización dispoñible de %PRODUCTNAME				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_UPDATE_NO_DOWN				13691	gu	%PRODUCTNAME સુધારો ઉપલબ્ધ				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_UPDATE_NO_DOWN				0	hr	Dostupne su nadogradnje za %PRODUCTNAME				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_UPDATE_NO_DOWN				0	hu	Uppdatering av %PRODUCTNAME tillgänglig.				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_UPDATE_NO_DOWN				0	hu	%PRODUCTNAME-frissítés érhető el				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_UPDATE_NO_DOWN				0	it	È disponibile un aggiornamento di %PRODUCTNAME				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_UPDATE_NO_DOWN				0	ja	%PRODUCTNAME の更新ができます				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_UPDATE_NO_DOWN				0	km	មាន​ភាព​ទាន់សម័យ​របស់ %PRODUCTNAME				2002-02-02 02:02:02
@@ -1132,7 +1132,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_UPDATE
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_UPDATE_NO_DOWN				0	lt	Yra išleistas „%PRODUCTNAME“ naujinimas				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_UPDATE_NO_DOWN				0	mk	Достапна е нова верзија на %PRODUCTNAME				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_UPDATE_NO_DOWN				0	mn	%PRODUCTNAME шинэчлэлт гарчээ				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_UPDATE_NO_DOWN				0	nb	%PRODUCTNAME-oppdatering tilgjengelig				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_UPDATE_NO_DOWN				0	nb	%PRODUCTNAME oppdatering er tilgjengelig				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_UPDATE_NO_DOWN				0	ne	%PRODUCTNAME अद्यावधिक उपलब्ध छ				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_UPDATE_NO_DOWN				0	nl	%PRODUCTNAME update beschikbaar				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_T_UPDATE_NO_DOWN				0	nn	%PRODUCTNAME-oppdatering tilgjengeleg				2002-02-02 02:02:02
@@ -1159,7 +1159,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_UPDATE_A
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_UPDATE_AVAIL				0	br	Klikañ amañ evit kregiñ gant ar staliañ.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_UPDATE_AVAIL				0	ca	Cliqueu aquí per a començar-la a baixar.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_UPDATE_AVAIL				0	cs	Klepněte zde pro stažení.				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_UPDATE_AVAIL				0	da	Klik her for at starte overførslen.				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_UPDATE_AVAIL				1	da	Klik her for at starte overførslen.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_UPDATE_AVAIL				0	de	Klicken Sie hier, um das Update herunterzuladen.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_UPDATE_AVAIL				0	el	Click here to start the download.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_UPDATE_AVAIL				0	en-GB	Click here to start the download.				2002-02-02 02:02:02
@@ -1170,7 +1170,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_UPDATE_A
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_UPDATE_AVAIL				0	gl	Prema aquí para comezar a descarga.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_UPDATE_AVAIL				13691	gu	ડાઉનલોડ શરૂ કરવા માટે અંહિ ક્લિક કરો.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_UPDATE_AVAIL				0	hr	Pritisnite ovdje za pokretanje preuzimanja.				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_UPDATE_AVAIL				0	hu	Klicka här för att starta hämtningen.				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_UPDATE_AVAIL				0	hu	A letöltés indításához kattintson ide.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_UPDATE_AVAIL				0	it	Fate clic qui per iniziare lo scaricamento.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_UPDATE_AVAIL				0	ja	ダウンロードを開始するには、ここをクリックします。				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_UPDATE_AVAIL				0	km	ចុច​ទីនេះ​ដើម្បី​ចាប់ផ្ដើម​ទាញយក ។				2002-02-02 02:02:02
@@ -1205,7 +1205,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_UPDATE_N
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_UPDATE_NO_DOWN				0	br	Klikañ amañ evit gouzout muioc'h.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_UPDATE_NO_DOWN				0	ca	Feu clic aquí per a més informació.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_UPDATE_NO_DOWN				0	cs	Klepněte zde pro více informací.				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_UPDATE_NO_DOWN				0	da	Klik her for mere information.				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_UPDATE_NO_DOWN				1	da	Klik her for mere information.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_UPDATE_NO_DOWN				0	de	Klicken Sie hier, um mehr Informationen zu erhalten.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_UPDATE_NO_DOWN				0	el	Click here for more information.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_UPDATE_NO_DOWN				0	en-GB	Click here for more information.				2002-02-02 02:02:02
@@ -1216,7 +1216,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_UPDATE_N
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_UPDATE_NO_DOWN				0	gl	Prema aquí para máis información.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_UPDATE_NO_DOWN				13691	gu	વધુ જાણકારી માટે અંહિ ક્લિક કરો.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_UPDATE_NO_DOWN				0	hr	Pritisnite ovdje za više informacija.				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_UPDATE_NO_DOWN				0	hu	Klicka här för mer information.				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_UPDATE_NO_DOWN				0	hu	További információkért kattintson ide.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_UPDATE_NO_DOWN				0	it	Fai clic qui per ulteriori informazioni.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_UPDATE_NO_DOWN				0	ja	詳細は、ここをクリックします。				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_UPDATE_NO_DOWN				0	km	ចុច​ទីនេះ សម្រាប់​ព័ត៌មាន​បន្ថែម ។				2002-02-02 02:02:02
@@ -1224,7 +1224,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_UPDATE_N
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_UPDATE_NO_DOWN				0	lt	Spustelėkite čia, kad gautumėte daugiau informacijos.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_UPDATE_NO_DOWN				0	mk	Кликнете тука за повеќе информации.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_UPDATE_NO_DOWN				0	mn	Илүү мэдээлэл авахыг хүсвэл энд товшино уу.				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_UPDATE_NO_DOWN				0	nb	Trykk her for mer informasjon.				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_UPDATE_NO_DOWN				0	nb	Trykk her for mer informasjon				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_UPDATE_NO_DOWN				0	ne	धेरै जानकारीका लागि यहाँ क्लिक गर्नुहोस् ।				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_UPDATE_NO_DOWN				0	nl	Klik hier voor meer informatie.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_BUBBLE_UPDATE_NO_DOWN				0	nn	Trykk her for meir informasjon.				2002-02-02 02:02:02
@@ -1251,7 +1251,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_FT_DESCRIPTION	
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_FT_DESCRIPTION				0	br	Deskrivadur				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_FT_DESCRIPTION				0	ca	Descripció				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_FT_DESCRIPTION				0	cs	Popis				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_FT_DESCRIPTION				0	da	Beskrivelse				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_FT_DESCRIPTION				1	da	Beskrivelse				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_FT_DESCRIPTION				0	de	Beschreibung				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_FT_DESCRIPTION				0	el	Description				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_FT_DESCRIPTION				0	en-GB	Description				2002-02-02 02:02:02
@@ -1262,7 +1262,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_FT_DESCRIPTION	
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_FT_DESCRIPTION				0	gl	Descrición				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_FT_DESCRIPTION				13691	gu	વર્ણન				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_FT_DESCRIPTION				0	hr	Opis				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_FT_DESCRIPTION				0	hu	Beskrivning				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_FT_DESCRIPTION				0	hu	Leírás				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_FT_DESCRIPTION				0	it	Descrizione				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_FT_DESCRIPTION				0	ja	説明				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_FT_DESCRIPTION				0	km	សេចក្ដី​ពណ៌នា				2002-02-02 02:02:02
@@ -1297,7 +1297,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_FT_STATUS				0	
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_FT_STATUS				0	br	Dezvad				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_FT_STATUS				0	ca	Estat				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_FT_STATUS				0	cs	Stav				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_FT_STATUS				0	da	Status				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_FT_STATUS				1	da	Status				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_FT_STATUS				0	de	Status				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_FT_STATUS				0	el	Status				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_FT_STATUS				0	en-GB	Status				2002-02-02 02:02:02
@@ -1308,7 +1308,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_FT_STATUS				0	
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_FT_STATUS				0	gl	Estado				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_FT_STATUS				13691	gu	પરિસ્થિતિ				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_FT_STATUS				0	hr	Status				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_FT_STATUS				0	hu	Status				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_FT_STATUS				0	hu	Állapot				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_FT_STATUS				0	it	Stato				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_FT_STATUS				0	ja	ステータス				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_FT_STATUS				0	km	ស្ថានភាព				2002-02-02 02:02:02
@@ -1343,7 +1343,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_BEGIN_INSTA
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_BEGIN_INSTALL				0	br	Evit staliañ an hizivadenn-mañ e rank %PRODUCTNAME %PRODUCTVERSION bezañ serret. Fellout a ra deoc'h staliañ an hizivadenn bremañ ?				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_BEGIN_INSTALL				0	ca	Heu de tancar %PRODUCTNAME %PRODUCTVERSION per a instal·lar l'actualització. Voleu instal·lar-la ara?				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_BEGIN_INSTALL				0	cs	Před instalací aktualizace je třeba zavřít %PRODUCTNAME %PRODUCTVERSION. Chcete nyní nainstalovat aktualizaci?				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_BEGIN_INSTALL				0	da	For at installere opdateringen skal %PRODUCTNAME %PRODUCTVERSION lukkes. Vil du installere opdateringen nu?				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_BEGIN_INSTALL				1	da	For at installere opdateringen skal %PRODUCTNAME %PRODUCTVERSION lukkes. Vil du installere opdateringen nu?				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_BEGIN_INSTALL				0	de	Zur Installation des Updates wird %PRODUCTNAME %PRODUCTVERSION beendet. Möchten Sie das Update jetzt installieren?				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_BEGIN_INSTALL				0	el	To install the update, %PRODUCTNAME %PRODUCTVERSION needs to be closed. Do you want to install the update now?				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_BEGIN_INSTALL				0	en-GB	To install the update, %PRODUCTNAME %PRODUCTVERSION needs to be closed. Do you want to install the update now?				2002-02-02 02:02:02
@@ -1354,7 +1354,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_BEGIN_INSTA
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_BEGIN_INSTALL				0	gl	Para instalar a actualización é necesario pechar %PRODUCTNAME %PRODUCTVERSION. Desexa instalar a actualización agora?				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_BEGIN_INSTALL				13691	gu	સુધારો સ્થાપિત કરવા માટે, %PRODUCTNAME %PRODUCTVERSION ને બંધ કરવાની જરૂર છે. શું તમે સુધારો હમણાં સ્થાપિત કરવા માંગો છો?				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_BEGIN_INSTALL				0	hr	Za uspješno instaliranje nadogradnji,  %PRODUCTNAME %PRODUCTVERSION mora biti isključen. Želite li sada instalirati nadogradnje?				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_BEGIN_INSTALL				0	hu	För att installera uppdateringen, %PRODUCTNAME %PRODUCTVERSION måste stängas.Vill du installera uppdateringen nu?				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_BEGIN_INSTALL				0	hu	A frissítés telepítéséhez be kell zárni a %PRODUCTNAME %PRODUCTVERSION programot. Szeretné most telepíteni a frissítést?				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_BEGIN_INSTALL				0	it	Per installare l'aggiornamento, %PRODUCTNAME %PRODUCTVERSION deve essere chiuso. Volete installare l'aggiornamento adesso?				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_BEGIN_INSTALL				0	ja	更新をインストールする前に、%PRODUCTNAME&PRODUCTVERSIONを終了する必要があります。今すぐ終了して更新をインストールしますか。				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_BEGIN_INSTALL				0	km	ដើម្បី​ដំឡើង​ភាព​ទាន់សម័យ គឺ​ត្រូវ​បិទ %PRODUCTNAME %PRODUCTVERSION ជា​មុន​សិន ។ តើ​អ្នក​ចង់​ដំឡើង​ភាព​ទាន់សម័យ​ឥឡូវ​ឬទេ ?				2002-02-02 02:02:02
@@ -1388,7 +1388,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CANCEL_DOWN
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CANCEL_DOWNLOAD				0	br	Dilezel ar pellgargañ a fell deoc'h da vat ?				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CANCEL_DOWNLOAD				0	ca	Esteu segur que voleu cancel·lar la baixada?				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CANCEL_DOWNLOAD				0	cs	Opravdu chcete stahování zrušit?				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CANCEL_DOWNLOAD				0	da	Ønsker du at annullere overførslen?				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CANCEL_DOWNLOAD				1	da	Ønsker du at annullere overførslen?				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CANCEL_DOWNLOAD				0	de	Möchten Sie das Herunterladen wirklich abbrechen?				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CANCEL_DOWNLOAD				0	el	Do you really want to cancel the download?				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CANCEL_DOWNLOAD				0	en-GB	Do you really want to cancel the download?				2002-02-02 02:02:02
@@ -1399,7 +1399,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CANCEL_DOWN
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CANCEL_DOWNLOAD				0	gl	Desexa realmente cancelar a descarga?				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CANCEL_DOWNLOAD				13691	gu	શું તમે ખરેખર ડાઉનલોડ રદ કરવા માંગો છો?				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CANCEL_DOWNLOAD				0	hr	Stvarno želite odustati od preuzimanja?				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CANCEL_DOWNLOAD				0	hu	Vill du verkligen avbryta hämtningen?				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CANCEL_DOWNLOAD				0	hu	Biztosan megszakítja a letöltést?				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CANCEL_DOWNLOAD				0	it	Annullare lo scaricamento?				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CANCEL_DOWNLOAD				0	ja	ダウンロードを取り消してもよろしいですか。				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CANCEL_DOWNLOAD				0	km	តើ​អ្នក​ពិត​ជា​ចង់​បោះបង់​ការ​ទាញយក​មែន​ឬ ?				2002-02-02 02:02:02
@@ -1434,7 +1434,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CANCEL_TITL
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CANCEL_TITLE				0	br	%PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CANCEL_TITLE				0	ca	%PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CANCEL_TITLE				0	cs	%PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CANCEL_TITLE				0	da	%PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CANCEL_TITLE				1	da	%PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CANCEL_TITLE				0	de	%PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CANCEL_TITLE				0	el	%PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CANCEL_TITLE				0	en-GB	%PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
@@ -1480,7 +1480,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CHECKING			
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CHECKING				0	br	O wiriañ...				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CHECKING				0	ca	S'està comprovant...				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CHECKING				0	cs	Kontrola...				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CHECKING				0	da	Kontrollerer...				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CHECKING				1	da	Kontrollerer...				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CHECKING				0	de	Suche läuft...				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CHECKING				0	el	Checking...				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CHECKING				0	en-GB	Checking...				2002-02-02 02:02:02
@@ -1491,7 +1491,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CHECKING			
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CHECKING				0	gl	Verificando...				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CHECKING				13691	gu	ચકાસી રહ્યા છીએ...				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CHECKING				1	hr	Provjeravam...				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CHECKING				0	hu	Kontrollerar ...				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CHECKING				0	hu	Ellenőrzés...				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CHECKING				0	it	Controllo in corso...				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CHECKING				0	ja	確認しています...				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CHECKING				0	km	កំពុង​ពិនិត្យមើល​				2002-02-02 02:02:02
@@ -1499,10 +1499,10 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CHECKING			
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CHECKING				0	lt	Tikrinama...				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CHECKING				0	mk	Проверувам...				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CHECKING				0	mn	Шалгаж байна...				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CHECKING				0	nb	Sjekker ...				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CHECKING				0	nb	Sjekker …				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CHECKING				0	ne	जाँच गर्दैछ...				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CHECKING				0	nl	Controleren...				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CHECKING				0	nn	Sjekkar ...				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CHECKING				0	nn	Sjekkar …				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CHECKING				0	pa-IN	ਚੈੱਕ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ...				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CHECKING				0	pl	Trwa sprawdzanie...				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CHECKING				0	pt	A verificar...				2002-02-02 02:02:02
@@ -1526,7 +1526,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CHECKING_ER
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CHECKING_ERR				0	br	O wiriañ un hizivadenn c'hwitet.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CHECKING_ERR				0	ca	Ha fallat la comprovació d'actualitzacions.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CHECKING_ERR				0	cs	Selhala kontrola aktualizací.				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CHECKING_ERR				0	da	Søgning efter opdatering fejlede.				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CHECKING_ERR				1	da	Søgning efter opdatering fejlede.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CHECKING_ERR				0	de	Die Suche nach einem Update ist fehlgeschlagen.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CHECKING_ERR				0	el	'Ελεγχος για εν~ημερώσεις				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CHECKING_ERR				0	en-GB	Checking for an update failed.				2002-02-02 02:02:02
@@ -1537,7 +1537,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CHECKING_ER
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CHECKING_ERR				0	gl	Buscando un erro de actualización.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CHECKING_ERR				13691	gu	સુધારા માટે ચકાસવામાં નિષ્ફળ.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CHECKING_ERR				1	hr	Nije uspjelo provjeravanje postoje li nove nadogradnje.				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CHECKING_ERR				0	hu	Kontroll av uppdatering misslyckades.				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CHECKING_ERR				0	hu	A frissítés keresése sikertelen.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CHECKING_ERR				0	it	La ricerca di aggiornamenti non ha avuto successo.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CHECKING_ERR				0	ja	更新のチェックに失敗しました。				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CHECKING_ERR				0	km	បរាជ័យ​ក្នុង​ការ​ពិនិត្យ​រកមើល​ភាព​ទាន់សម័យ ។				2002-02-02 02:02:02
@@ -1572,7 +1572,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DLG_TITLE		
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DLG_TITLE				0	br	Gwiriañ an hivizadennoù				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DLG_TITLE				0	ca	Comprova si hi ha actualitzacions				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DLG_TITLE				0	cs	Kontrola aktualizací				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DLG_TITLE				0	da	Søg efter opdateringer				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DLG_TITLE				1	da	Søg efter opdateringer				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DLG_TITLE				0	de	Suche nach Updates				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DLG_TITLE				0	el	'Ελεγχος για εν~ημερώσεις				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DLG_TITLE				0	en-GB	Check for Updates				2002-02-02 02:02:02
@@ -1583,7 +1583,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DLG_TITLE		
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DLG_TITLE				0	gl	Verificar actualizacións				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DLG_TITLE				13691	gu	સુધારાઓ માટે ચકાસો				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DLG_TITLE				1	hr	Provjera ažuriranja.				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DLG_TITLE				0	hu	Leta efter uppdateringar				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DLG_TITLE				0	hu	Frissítések keresése				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DLG_TITLE				0	it	Controlla aggiornamenti				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DLG_TITLE				0	ja	更新のチェック				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DLG_TITLE				0	km	ពិនិត្យ​រក​មើល​ភាព​ទាន់សម័យ				2002-02-02 02:02:02
@@ -1618,7 +1618,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOADING
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOADING				0	br	O pellgargañ %PRODUCTNAME %NEXTVERSION...				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOADING				0	ca	S'està baixant %PRODUCTNAME %NEXTVERSION...				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOADING				0	cs	Stahuji %PRODUCTNAME %NEXTVERSION...				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOADING				0	da	Henter %PRODUCTNAME %NEXTVERSION...				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOADING				1	da	Henter %PRODUCTNAME %NEXTVERSION...				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOADING				0	de	Herunterladen von %PRODUCTNAME %NEXTVERSION...				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOADING				0	el	Downloading %PRODUCTNAME %NEXTVERSION...				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOADING				0	en-GB	Downloading %PRODUCTNAME %NEXTVERSION...				2002-02-02 02:02:02
@@ -1629,7 +1629,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOADING
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOADING				0	gl	Descargando %PRODUCTNAME %NEXTVERSION...				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOADING				13691	gu	%PRODUCTNAME %NEXTVERSION ડાઉનલોડ કરી રહ્યા છીએ...				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOADING				0	hr	Preuzimam %PRODUCTNAME %NEXTVERSION...				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOADING				0	hu	Hämtar %PRODUCTNAME %NEXTVERSION ...				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOADING				0	hu	A %PRODUCTNAME %NEXTVERSION letöltése folyamatban...				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOADING				0	it	Scaricamento di %PRODUCTNAME %NEXTVERSION...				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOADING				0	ja	%PRODUCTNAME %NEXTVERSION をダウンロードしています...				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOADING				0	km	កំពុង​ទាញយក %PRODUCTNAME %NEXTVERSION...				2002-02-02 02:02:02
@@ -1637,10 +1637,10 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOADING
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOADING				0	lt	Siunčiama „%PRODUCTNAME %NEXTVERSION“...				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOADING				0	mk	Симнувам %PRODUCTNAME %NEXTVERSION...				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOADING				0	mn	%PRODUCTNAME %NEXTVERSION ийг татаж байна...				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOADING				0	nb	Laster ned %PRODUCTNAME %NEXTVERSION ...				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOADING				0	nb	Laster ned %PRODUCTNAME %NEXTVERSION …				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOADING				0	ne	%PRODUCTNAME %NEXTVERSION डाउनलोड गर्दैछ...				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOADING				0	nl	Downloaden van %PRODUCTNAME %NEXTVERSION...				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOADING				0	nn	Lastar ned %PRODUCTNAME %NEXTVERSION ...				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOADING				0	nn	Lastar ned %PRODUCTNAME %NEXTVERSION …				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOADING				0	pa-IN	%PRODUCTNAME %NEXTVERSION ਡਾਊਨਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ...				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOADING				0	pl	Pobieranie oprogramowania %PRODUCTNAME %NEXTVERSION...				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOADING				0	pt	A transferir o %PRODUCTNAME %NEXTVERSION...				2002-02-02 02:02:02
@@ -1664,7 +1664,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_DE
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_DESCR				0	br	%FILE_NAME zo bet pellgarget davit %DOWNLOAD_PATH.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_DESCR				0	ca	El %FILE_NAME s'ha baixat a %DOWNLOAD_PATH.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_DESCR				0	cs	Soubor %FILE_NAME byl stažen do adresáře %DOWNLOAD_PATH.				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_DESCR				0	da	%FILE_NAME er overført til %DOWNLOAD_PATH.				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_DESCR				1	da	%FILE_NAME er overført til %DOWNLOAD_PATH.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_DESCR				0	de	%FILE_NAME wurde nach %DOWNLOAD_PATH herunter geladen.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_DESCR				0	el	%FILE_NAME has been downloaded to %DOWNLOAD_PATH.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_DESCR				0	en-GB	%FILE_NAME has been downloaded to %DOWNLOAD_PATH.				2002-02-02 02:02:02
@@ -1675,7 +1675,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_DE
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_DESCR				0	gl	%FILE_NAME descargouse en %DOWNLOAD_PATH.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_DESCR				13691	gu	%FILE_NAME એ %DOWNLOAD_PATH માં ડાઉનલોડ થઈ ગયેલ છે.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_DESCR				1	hr	%FILE_NAME jepreuzeta i spremljena u  %DOWNLOAD_PATH.				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_DESCR				0	hu	%FILE_NAME har hämtats till %DOWNLOAD_PATH.				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_DESCR				0	hu	A(z) %FILE_NAME letöltődött a(z) %DOWNLOAD_PATH útvonalra.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_DESCR				0	it	%FILE_NAME è stato scaricato in %DOWNLOAD_PATH.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_DESCR				0	ja	%FILE_NAME が %DOWNLOAD_PATH にダウンロードされました。				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_DESCR				0	km	បាន​ទាញយក %FILE_NAME ទៅ​កាន់ %DOWNLOAD_PATH ។				2002-02-02 02:02:02
@@ -1710,7 +1710,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_ER
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_ERR				0	br	Pellgargadur eus %PRODUCTNAME %NEXTVERSION gannet e				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_ERR				0	ca	Baixada de %PRODUCTNAME %NEXTVERSION encallada a...				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_ERR				0	cs	Stahování %PRODUCTNAME %NEXTVERSION přerušeno na...				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_ERR				0	da	Overførsel af %PRODUCTNAME %NEXTVERSION hænger ved				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_ERR				1	da	Overførsel af %PRODUCTNAME %NEXTVERSION hænger ved				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_ERR				0	de	Herunterladen von %PRODUCTNAME %NEXTVERSION unterbrochen bei				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_ERR				0	el	Downloading %PRODUCTNAME %NEXTVERSION stalled at				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_ERR				0	en-GB	Downloading %PRODUCTNAME %NEXTVERSION stalled at				2002-02-02 02:02:02
@@ -1721,7 +1721,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_ER
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_ERR				0	gl	Descarga de %PRODUCTNAME %NEXTVERSION paralizada en				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_ERR				13691	gu	%PRODUCTNAME %NEXTVERSION ડાઉનલોડ કરવાનું આગળ અટકાવાયેલ છે				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_ERR				1	hr	Preuzimanje %PRODUCTNAME %NEXTVERSION je prekinuto na				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_ERR				0	hu	Hämtningen av %PRODUCTNAME %NEXTVERSION stoppades vid				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_ERR				0	hu	A %PRODUCTNAME %NEXTVERSION letöltése megállt				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_ERR				0	it	Lo scaricamento di %PRODUCTNAME %NEXTVERSION si è bloccato al				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_ERR				0	ja	%PRODUCTNAME %NEXTVERSION のダウンロードが次の場所で遅延しました				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_ERR				0	km	ការ​ទាញយក %PRODUCTNAME %NEXTVERSION បាន​អាក់​នៅ				2002-02-02 02:02:02
@@ -1755,7 +1755,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_PA
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_PAUSE				0	br	Pellgargadur eus %PRODUCTNAME %NEXTVERSION lakaet war ehan e...				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_PAUSE				0	ca	Baixada de %PRODUCTNAME %NEXTVERSION en pausa a...				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_PAUSE				0	cs	Stahování %PRODUCTNAME %NEXTVERSION pozastaveno na...				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_PAUSE				0	da	Overførsel af %PRODUCTNAME %NEXTVERSION pausede ved...				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_PAUSE				1	da	Overførsel af %PRODUCTNAME %NEXTVERSION pausede ved...				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_PAUSE				0	de	Herunterladen von %PRODUCTNAME %NEXTVERSION angehalten bei...				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_PAUSE				0	el	Downloading %PRODUCTNAME %NEXTVERSION paused at...				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_PAUSE				0	en-GB	Downloading %PRODUCTNAME %NEXTVERSION paused at...				2002-02-02 02:02:02
@@ -1766,7 +1766,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_PA
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_PAUSE				0	gl	Descarga de %PRODUCTNAME %NEXTVERSION interrompida en...				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_PAUSE				13691	gu	%PRODUCTNAME %NEXTVERSION ડાઉનલોડ કરવાનું આગળ અટકાવાયેલ છે...				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_PAUSE				1	hr	Preuzimanje programa %PRODUCTNAME %NEXTVERSION je zaustavljeno na...				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_PAUSE				0	hu	Hämtningen av %PRODUCTNAME %NEXTVERSION tog paus vid ...				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_PAUSE				0	hu	A %PRODUCTNAME %NEXTVERSION letöltése szünetel...				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_PAUSE				0	it	Lo scaricamento di %PRODUCTNAME %NEXTVERSION è stato messo in pausa a...				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_PAUSE				0	ja	%PRODUCTNAME %NEXTVERSION のダウンロードが次の場所で一時停止しました...				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_PAUSE				0	km	ការ​ទាញយក %PRODUCTNAME %NEXTVERSION បាន​ផ្អាក​នៅ...				2002-02-02 02:02:02
@@ -1774,10 +1774,10 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_PA
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_PAUSE				0	lt	„%PRODUCTNAME %NEXTVERSION“ siuntimas pristabdytas...				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_PAUSE				0	mk	Симнувањето на %PRODUCTNAME %NEXTVERSION е паузирано на...				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_PAUSE				0	mn	%PRODUCTNAME %NEXTVERSION -ийг татах явц нь завсарласан...				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_PAUSE				0	nb	Pause i nedlastingen av %PRODUCTNAME %NEXTVERSION ved ...				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_PAUSE				0	nb	Pause i nedlastingen av %PRODUCTNAME %NEXTVERSION ved …				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_PAUSE				0	ne	%PRODUCTNAME %NEXTVERSION को डाउनलोडिङ यसमा पज गरियो...				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_PAUSE				0	nl	Downloaden van %PRODUCTNAME %NEXTVERSION onderbroken op...				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_PAUSE				0	nn	Pause i nedlastinga av %PRODUCTNAME %NEXTVERSION ved ...				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_PAUSE				0	nn	Pause i nedlastinga av %PRODUCTNAME %NEXTVERSION ved …				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_PAUSE				0	pa-IN	%PRODUCTNAME %NEXTVERSION ਡਾਊਨਲੋਡ ਰੁਕਿਆ ਹੈ...				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_PAUSE				0	pl	Pobieranie oprogramowania %PRODUCTNAME %NEXTVERSION zostało wstrzymane na…				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_PAUSE				0	pt	A transferência de %PRODUCTNAME %NEXTVERSION foi colocada em pausa em				2002-02-02 02:02:02
@@ -1800,7 +1800,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_UN
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_UNAVAIL				0	br	N'eo ket hegerz evit bremañ pellgargañ emgefreek an hizivadennoù.\n\nKlikañ war 'Pellgargañ...' evit pellgargañ %PRODUCTNAME %NEXTVERSION dre zorn diouzh al load internet.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_UNAVAIL				0	ca	La baixada automàtica de l'actualització no està disponible ara mateix.\n\nCliqueu a 'Baixa...' per a baixar %PRODUCTNAME %NEXTVERSION manualment des de la pàgina web.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_UNAVAIL				0	cs	Automatické stažení aktualizace momentálně není k dispozici.\n\nKlepnutím na 'Stáhnout...' ručně stáhnete %PRODUCTNAME %NEXTVERSION z webové stránky.				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_UNAVAIL				0	da	Den automatiske overførsel af opdateringen er for øjeblikket ikke tilgængelig.\n\nKlik på 'Hent...' for at hente %PRODUCTNAME %NEXTVERSION manuelt fra webstedet.				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_UNAVAIL				1	da	Den automatiske overførsel af opdateringen er for øjeblikket ikke tilgængelig.\n\nKlik på 'Hent...' for at hente %PRODUCTNAME %NEXTVERSION manuelt fra webstedet.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_UNAVAIL				0	de	Das automatische Herunterladen des Updates ist momentan nicht verfügbar.\n\nKlicken Sie auf 'Herunterladen...', um %PRODUCTNAME %NEXTVERSION manuell von der Webseite herunterzuladen.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_UNAVAIL				0	el	The automatic download of the update is currently not available.\n\nClick 'Download...' to download %PRODUCTNAME %NEXTVERSION manually from the web site.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_UNAVAIL				0	en-GB	The automatic download of the update is currently not available.\n\nClick 'Download...' to download %PRODUCTNAME %NEXTVERSION manually from the web site.				2002-02-02 02:02:02
@@ -1811,7 +1811,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_UN
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_UNAVAIL				0	gl	A descarga automática da actualización non está dispoñible neste momento.\n\nPrema 'Descargar...' para descargar manualmente %PRODUCTNAME %NEXTVERSION do sitio web.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_UNAVAIL				13691	gu	સુધારાનો આપોઆપ ડાઉનલોડ વર્તમાનમાં ઉપલબ્ધ નથી.\n\n%PRODUCTNAME %NEXTVERSION ને વેબ સાઈટમાંથી જાતે ડાઉનલોડ કરવા માટે 'ડાઉનલોડ...' પર ક્લિક કરો.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_UNAVAIL				0	hr	Trenutno nije omogućeno automatsko preuzimanje.\n\n, Za ručno preuzimanje programa %PRODUCTNAME %NEXTVERSION s internetskih stranica pritisnite 'Preuzimanje...'.				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_UNAVAIL				0	hu	Den automatiska uppdateringshämtningen är för stunden inte tillgänglig.\n\nKlicka på 'Hämta ...' för att hämta %PRODUCTNAME %NEXTVERSION manuellt från internetsidan.				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_UNAVAIL				0	hu	A frissítés automatikus letöltése jelenleg nem érhető el.\n\nKattintson a 'Letöltés...' gombra a %PRODUCTNAME %NEXTVERSION kézi letöltéséhez a webhelyről.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_UNAVAIL				0	it	Lo scaricamento automatico dell'aggiornamento non è al momento disponibile. \n\nFate clic su 'Scarica' per scaricare %PRODUCTNAME %NEXTVERSION manualmente dal sito internet.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_UNAVAIL				0	ja	更新の自動ダウンロードは現在使用できません。\n\n「ダウンロード...」をクリックして、Web サイトから %PRODUCTNAME %NEXTVERSION を手動でダウンロードしてください。				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_UNAVAIL				0	km	បច្ចុប្បន្ន មិនមាន​ការ​ទាញយក​ភាព​ទាន់សម័យ​ដោយ​ស្វ័យ​ប្រវត្តិ​​ទេ ។\n\nចុច 'ទាញយក...' ដើម្បី​ទាញយក %PRODUCTNAME %NEXTVERSION ពី​តំបន់​បណ្ដាញ​ដោយ​ដៃ ។				2002-02-02 02:02:02
@@ -1844,7 +1844,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_WA
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_WARN				0	br	The download location is: %DOWNLOAD_PATH.\n\nUnder Tools – Options... - %PRODUCTNAME – Online Update you can change the download location.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_WARN				0	ca	La ubicació de baixada és: %DOWNLOAD_PATH.\n\nPodeu canviar-la a Eines – Opcions... - %PRODUCTNAME – Actualització en línia.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_WARN				0	cs	Adresář pro uložení staženého souboru: %DOWNLOAD_PATH.\n\nAdresář můžete změnit v Nástroje - Volby - %PRODUCTNAME - Online aktualizace.				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_WARN				0	da	Placering af overførslen er: %DOWNLOAD_PATH.\n\nUnder Funktioner – Indstillinger... - %PRODUCTNAME – Onlineopdatering kan du ændre placeringen.				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_WARN				1	da	Placering af overførslen er: %DOWNLOAD_PATH.\n\nUnder Funktioner – Indstillinger... - %PRODUCTNAME – Onlineopdatering kan du ændre placeringen.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_WARN				0	de	Der Speicherort ist: %DOWNLOAD_PATH.\n\nSie können den Speicherort unter Extras – Optionen... - %PRODUCTNAME – Online Update ändern.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_WARN				0	el	The download location is: %DOWNLOAD_PATH.\n\nUnder Tools – Options... - %PRODUCTNAME – Online Update you can change the download location.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_WARN				0	en-GB	The download location is: %DOWNLOAD_PATH.\n\nUnder Tools – Options... - %PRODUCTNAME – Online Update you can change the download location.				2002-02-02 02:02:02
@@ -1855,7 +1855,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_WA
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_WARN				0	gl	A localización da descarga é: %DOWNLOAD_PATH.\n\nEn Ferramentas – Opcións... - %PRODUCTNAME – Actualizar en liña pode modificar a localización da descarga.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_WARN				13691	gu	ડાઉનલોડ સ્થાન છે: %DOWNLOAD_PATH.\n\nસાધનો – વિકલ્પો... - %PRODUCTNAME – ઓનલાઈન સુધારો હેઠળ તમે ડાઉનલોડ સ્થાન બદલી શકો છો.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_WARN				1	hr	Mjesto spremanja preuzite nadogradnje je: %DOWNLOAD_PATH.\n\nMožete promijeniti mjesto spremanja nadogradnji unutar Alati – Odrednice... - %PRODUCTNAME – Nadogradnja putem interneta.				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_WARN				0	hu	Hämtningskatalog är: %DOWNLOAD_PATH.\n\nUnder Verktyg – Alternativ ... - %PRODUCTNAME – Online-uppdatering kan du ändra hämtningskatalog.				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_WARN				0	hu	A letöltés helye: %DOWNLOAD_PATH.\n\nAz Eszközök – Beállítások... - %PRODUCTNAME – Online frissítés alatt módosíthatja a letöltés helyét.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_WARN				0	it	L'ubicazione del file scaricato è: %DOWNLOAD_PATH.\n\nPotete cambiare questo percorso da Strumenti - Opzioni... - %PRODUCTNAME - Aggiornamento automatico.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_WARN				0	ja	ダウンロードの場所: %DOWNLOAD_PATH\n\n「ツール」→「オプション...」→「%PRODUCTNAME」→「オンライン更新」で、ダウンロード場所を変更できます。				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_DOWNLOAD_WARN				0	km	ទីតាំង​ទាញយក​គឺ ៖ %DOWNLOAD_PATH ។\n\nនៅ​ក្នុង ឧបករណ៍ – ជម្រើស... - %PRODUCTNAME – ភាព​ទាន់សម័យ​លើ​បណ្ដាញ អ្នក​អាច​ផ្លាស់ប្ដូរ​ទីតាំង​ទាញយក​បាន ។				2002-02-02 02:02:02
@@ -1888,7 +1888,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_ERR
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_ERROR				0	br	N'haller ket lañsañ ar meziant staliañ, mar plij, lañsit %FILE_NAME in %DOWNLOAD_PATH dre zorn.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_ERROR				0	ca	No s'ha pogut executar l'aplicació d'instal·lació. Hauríeu d'executar %FILE_NAME a %DOWNLOAD_PATH manualment.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_ERROR				0	cs	Nelze spustit instalátor, spusťte prosím ručně soubor %FILE_NAME v adresáři %DOWNLOAD_PATH.				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_ERROR				0	da	Kunne ikke køre installationsprogrammet. Kør selv %FILE_NAME i %DOWNLOAD_PATH manuelt.				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_ERROR				1	da	Kunne ikke køre installationsprogrammet. Kør selv %FILE_NAME i %DOWNLOAD_PATH manuelt.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_ERROR				0	de	Das Installationsprogramm konnte nicht gestartet werden. Bitte starten Sie %FILE_NAME im Verzeichnis %DOWNLOAD_PATH manuell.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_ERROR				0	el	Could not run the installer application, please run %FILE_NAME in %DOWNLOAD_PATH manually.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_ERROR				0	en-GB	Could not run the installer application, please run %FILE_NAME in %DOWNLOAD_PATH manually.				2002-02-02 02:02:02
@@ -1899,7 +1899,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_ERR
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_ERROR				0	gl	Non foi posible executar a aplicación do instalador. Execute manualmente %FILE_NAME en %DOWNLOAD_PATH.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_ERROR				13691	gu	સ્થાપક કાર્યક્રમ ચલાવી શક્યા નહિં, મહેરબાની કરીને %FILE_NAME ને %DOWNLOAD_PATH માં જાતે ચલાવો.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_ERROR				0	hr	Nije moguće pokrenuti program za instaliranje, molim ručno pokrenite %FILE_NAME u mapi %DOWNLOAD_PATH.				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_ERROR				0	hu	Kunde inte köra installationsprogrammet, var vänlig kör %FILE_NAME in %DOWNLOAD_PATH manuellt.				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_ERROR				0	hu	Nem futtatható a telepítőalkalmazás, futtassa kézzel a(z) %FILE_NAME programot a(z) %DOWNLOAD_PATH útvonalon.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_ERROR				0	it	Non è stato possibile eseguire l'installazione automatica, eseguite %FILE_NAME in %DOWNLOAD_PATH manualmente.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_ERROR				0	ja	インストーラアプリケーションを実行できませんでした。%DOWNLOAD_PATH で %FILE_NAME を手動で実行してください。				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_ERROR				0	km	មិន​អាច​រត់​កម្មវិធី​ដំឡើង​បាន​ទេ សូម​រត់ %FILE_NAME នៅ​ក្នុង %DOWNLOAD_PATH ដោយ​ដៃ ។				2002-02-02 02:02:02
@@ -1933,7 +1933,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_LAT
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_LATER				0	br	Staliañ diwezhatoc'h				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_LATER				0	ca	Instal·la ~més tard				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_LATER				0	cs	Instalovat později				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_LATER				0	da	Installer ~senere				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_LATER				1	da	Installer ~senere				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_LATER				0	de	~Später installieren				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_LATER				0	el	Install ~later				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_LATER				0	en-GB	Install ~later				2002-02-02 02:02:02
@@ -1944,7 +1944,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_LAT
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_LATER				0	gl	Instalar ~despois				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_LATER				13691	gu	પછી સ્થાપિત કરો (~l)				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_LATER				0	hr	Instaliraj ~kasnije				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_LATER				0	hu	Insta~llera senare				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_LATER				0	hu	Telepítés ~később				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_LATER				0	it	Insta~lla più tardi 				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_LATER				0	ja	あとでインストール(~L)				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_LATER				0	km	ដំឡើង​នៅពេល​ក្រោយ				2002-02-02 02:02:02
@@ -1979,7 +1979,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_NOW
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_NOW				0	br	Staliañ bremañ				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_NOW				0	ca	Instal·la ~ara				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_NOW				0	cs	Instalovat nyní				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_NOW				0	da	Installer ~nu				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_NOW				1	da	Installer ~nu				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_NOW				0	de	~Jetzt installieren				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_NOW				0	el	Install ~now				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_NOW				0	en-GB	Install ~now				2002-02-02 02:02:02
@@ -1990,7 +1990,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_NOW
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_NOW				0	gl	Instalar ~agora				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_NOW				13691	gu	હમણાં સ્થાપિત કરો (~n)				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_NOW				0	hr	Instaliraj ~sada				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_NOW				0	hu	Installera ~nu				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_NOW				0	hu	Telepítés ~most				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_NOW				0	it	I~nstalla adesso				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_NOW				0	ja	ただちにインストール(~N)				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_INSTALL_NOW				0	km	ដំឡើង​ឥឡូវ				2002-02-02 02:02:02
@@ -2023,9 +2023,9 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_NO_UPD_FOUN
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_NO_UPD_FOUND				0	be-BY	Версія %PRODUCTNAME %PRODUCTVERSION з'яўляецца актуальнай.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_NO_UPD_FOUND				0	bg	%PRODUCTNAME %PRODUCTVERSION е последна версия.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_NO_UPD_FOUND				0	br	Hizivaet eo bet %PRODUCTNAME %PRODUCTVERSION.				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_NO_UPD_FOUND				0	ca	El %PRODUCTNAME %PRODUCTVERSION ja està actualitzat.				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_NO_UPD_FOUND				0	ca	L'%PRODUCTNAME %PRODUCTVERSION ja està actualitzat.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_NO_UPD_FOUND				0	cs	%PRODUCTNAME %PRODUCTVERSION je aktuální.				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_NO_UPD_FOUND				0	da	%PRODUCTNAME %PRODUCTVERSION er allerede opdateret.				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_NO_UPD_FOUND				1	da	%PRODUCTNAME %PRODUCTVERSION er allerede opdateret.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_NO_UPD_FOUND				0	de	%PRODUCTNAME %PRODUCTVERSION ist auf dem neuesten Stand.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_NO_UPD_FOUND				0	el	%PRODUCTNAME %PRODUCTVERSION is up to date.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_NO_UPD_FOUND				0	en-GB	%PRODUCTNAME %PRODUCTVERSION is up to date.				2002-02-02 02:02:02
@@ -2036,7 +2036,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_NO_UPD_FOUN
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_NO_UPD_FOUND				0	gl	%PRODUCTNAME %PRODUCTVERSION está actualizado.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_NO_UPD_FOUND				13691	gu	%PRODUCTNAME %PRODUCTVERSION એ પરિપૂર્ણ છે.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_NO_UPD_FOUND				1	hr	%PRODUCTNAME %PRODUCTVERSION je ažuran.				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_NO_UPD_FOUND				0	hu	%PRODUCTNAME %PRODUCTVERSION är uppdaterad.				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_NO_UPD_FOUND				0	hu	A %PRODUCTNAME %PRODUCTVERSION naprakész.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_NO_UPD_FOUND				0	it	%PRODUCTNAME %PRODUCTVERSION è aggiornato.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_NO_UPD_FOUND				0	ja	%PRODUCTNAME %PRODUCTVERSION は最新です。				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_NO_UPD_FOUND				0	km	%PRODUCTNAME %PRODUCTVERSION គឺ​ទាន់សម័យ ។				2002-02-02 02:02:02
@@ -2071,7 +2071,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_OVERWRITE_W
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_OVERWRITE_WARNING				0	br	Ur restr gant an anv-mañ zo anezhi endeo ! Fellout a ra deoc'h flastrañ ar restr kozh ?				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_OVERWRITE_WARNING				0	ca	Ja hi ha un fitxer amb aquest nom. Voleu sobreescriure el fitxer existent?				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_OVERWRITE_WARNING				0	cs	Soubor stejného jména již existuje! Chcete přepsat existující soubor?				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_OVERWRITE_WARNING				0	da	En fil med det navn findes allerede! Vil du overskrive den eksisterende fil?				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_OVERWRITE_WARNING				1	da	En fil med det navn findes allerede! Vil du overskrive den eksisterende fil?				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_OVERWRITE_WARNING				0	de	Es existiert bereits eine Datei mit gleichem Namen. Möchten Sie die bestehende Datei überschreiben?				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_OVERWRITE_WARNING				0	el	A file with that name already exists! Do you want to overwrite the existing file?				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_OVERWRITE_WARNING				0	en-GB	A file with that name already exists! Do you want to overwrite the existing file?				2002-02-02 02:02:02
@@ -2082,7 +2082,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_OVERWRITE_W
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_OVERWRITE_WARNING				0	gl	Xa hai un ficheiro con ese nome! Desexa subtituílo?				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_OVERWRITE_WARNING				13691	gu	આ નામવાળી ફાઈલ પહેલાથી જ હાજર છે! શું તમે હાલની ફાઈલ પર ફરીથી લખવા માંગો છો?				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_OVERWRITE_WARNING				0	hr	Već postoji datoteka s tim imenom! Želite li izmijeniti sadžaj postojeće datoteke?				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_OVERWRITE_WARNING				0	hu	En fil med det namnet finns redan! Vill du skriva över befintlig fil?				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_OVERWRITE_WARNING				0	hu	Már létezik ilyen nevű fájl! Felülírja a létező fájlt?				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_OVERWRITE_WARNING				0	it	Un file con lo stesso nome esiste già! Volete sovrascrivere il file esistente?				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_OVERWRITE_WARNING				0	ja	その名前の付いたファイルはすでに存在しています。 既存のファイルを上書きしますか。				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_OVERWRITE_WARNING				0	km	មាន​ឯកសារ​ឈ្មោះ​ដូចនោះ​រួចហើយ ! តើ​អ្នក​ចង់​សរសេរ​ជាន់លើ​ឯកសារ​ដែល​មាន​រួច​ឬទេ ?				2002-02-02 02:02:02
@@ -2117,7 +2117,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_PERCENT				
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_PERCENT				0	br	%PERCENT%				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_PERCENT				0	ca	%PERCENT%				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_PERCENT				0	cs	%PERCENT%				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_PERCENT				0	da	%PERCENT%				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_PERCENT				1	da	%PERCENT%				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_PERCENT				0	de	%PERCENT%				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_PERCENT				0	el	%PERCENT%				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_PERCENT				0	en-GB	%PERCENT%				2002-02-02 02:02:02
@@ -2163,7 +2163,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_READY_INSTA
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_READY_INSTALL				0	br	Pellgargañ %PRODUCTNAME %NEXTVERSION kaset da benn. Prest da vezañ staliet.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_READY_INSTALL				0	ca	S'ha completat la baixada de %PRODUCTNAME %NEXTVERSION. A punt per a la instal·lació.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_READY_INSTALL				0	cs	Stahování %PRODUCTNAME %NEXTVERSION dokončeno. Připraveno k instalaci.				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_READY_INSTALL				0	da	Overførsel af %PRODUCTNAME %NEXTVERSION er færdig. Klar til installation.				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_READY_INSTALL				1	da	Overførsel af %PRODUCTNAME %NEXTVERSION er færdig. Klar til installation.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_READY_INSTALL				0	de	Das Herunterladen von %PRODUCTNAME %NEXTVERSION ist abgeschlossen. Bereit zur Installation.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_READY_INSTALL				0	el	Download of %PRODUCTNAME %NEXTVERSION completed. Ready for installation.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_READY_INSTALL				0	en-GB	Download of %PRODUCTNAME %NEXTVERSION completed. Ready for installation.				2002-02-02 02:02:02
@@ -2174,7 +2174,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_READY_INSTA
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_READY_INSTALL				0	gl	Descarga completa de %PRODUCTNAME %NEXTVERSION. Preparado para a instalación.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_READY_INSTALL				13691	gu	%PRODUCTNAME %NEXTVERSION નું ડાઉનલોડ સમાપ્ત થયું. સ્થાપન માટે તૈયાર.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_READY_INSTALL				0	hr	Završeno je preuzimanje programa %PRODUCTNAME %NEXTVERSION. Sve je spremno za instalaciju.				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_READY_INSTALL				0	hu	Hämtning av %PRODUCTNAME %NEXTVERSION är klar. Redo för installation.				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_READY_INSTALL				0	hu	A %PRODUCTNAME %NEXTVERSION letöltése befejeződött. Készen áll a telepítésre.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_READY_INSTALL				0	it	Scaricamento di %PRODUCTNAME %NEXTVERSION completato. Pronto per l'installazione.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_READY_INSTALL				0	ja	%PRODUCTNAME %NEXTVERSION のダウンロードが完了しました。 インストールの準備が完了しました。				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_READY_INSTALL				0	km	បាន​បញ្ចប់​ការ​ទាញយក %PRODUCTNAME %NEXTVERSION ។ រួចរាល់​សម្រាប់​ការ​ដំឡើង ។				2002-02-02 02:02:02
@@ -2209,7 +2209,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_UPD_FOUND		
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_UPD_FOUND				0	br	Hegerz eo %PRODUCTNAME %NEXTVERSION.\n\nAn handelv staliet zo %PRODUCTNAME %PRODUCTVERSION.\n\nNotennit : Kent pellgargañ un hizivadenn, bezit asur hoc'h eus ar gwirioù haeziñ evit he staliañ.\nMarteze e vo goulennet ur ger tremen, ent boas hini an ardead pe ger tremen ar wrizienn.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_UPD_FOUND				0	ca	%PRODUCTNAME %NEXTVERSION està disponible.\n\nLa versió instal·lada és %PRODUCTNAME %PRODUCTVERSION.\n\nNota: abans de baixar-vos una actualització hauríeu de comprovar que teniu els permisos necessaris per a instal·lar-la.\nÉs possible que es requereixi una contrasenya, normalment la de l'administrador o superusuari.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_UPD_FOUND				0	cs	K dispozici je %PRODUCTNAME %NEXTVERSION.\n\nNainstalovaná verze je %PRODUCTNAME %PRODUCTVERSION.\n\nPoznámka: Před stažením aktualizace se ujistěte, zda máte dostatečná oprávnění k instalaci.\nMůže být vyžadováno heslo, obvykle heslo administrátora nebo správce.				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_UPD_FOUND				0	da	%PRODUCTNAME %NEXTVERSION er tilgængelig.\n\nDen installerede version er %PRODUCTNAME %PRODUCTVERSION.\n\nBemærk: Før overførsel af en opdatering skal du sikre, at du har tilstrækkelige adgangsrettigheder til at installere den.\nEn adgangskode, sædvanligvis administratorens eller roots adgangskode, kan være påkrævet.				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_UPD_FOUND				1	da	%PRODUCTNAME %NEXTVERSION er tilgængelig.\n\nDen installerede version er %PRODUCTNAME %PRODUCTVERSION.\n\nBemærk: Før overførsel af en opdatering skal du sikre, at du har tilstrækkelige adgangsrettigheder til at installere den.\nEn adgangskode, sædvanligvis administratorens eller roots adgangskode, kan være påkrævet.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_UPD_FOUND				0	de	%PRODUCTNAME %NEXTVERSION ist verfügbar.\n\nDie installierte Version ist %PRODUCTNAME %PRODUCTVERSION.\n\nHinweis: Bevor Sie ein Update herunterladen, vergewissern Sie sich, dass Sie die benötigten Rechte zur Installation haben.\nEin Kennwort, normalerweise das eines Administrators oder das Root Kennwort, könnte erforderlich sein.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_UPD_FOUND				0	el	%PRODUCTNAME %NEXTVERSION is available.\n\nThe installed version is %PRODUCTNAME %PRODUCTVERSION.\n\nNote: Before downloading  an update, please ensure that you have sufficient access rights to install it.\nA password, usually the administrator's or root password, may be required.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_UPD_FOUND				0	en-GB	%PRODUCTNAME %NEXTVERSION is available.\n\nThe installed version is %PRODUCTNAME %PRODUCTVERSION.\n\nNote: Before downloading  an update, please ensure that you have sufficient access rights to install it.\nA password, usually the administrator's or root password, may be required.				2002-02-02 02:02:02
@@ -2220,7 +2220,7 @@ extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_UPD_FOUND		
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_UPD_FOUND				0	gl	%PRODUCTNAME %NEXTVERSION está dispoñible.\n\nA versión instalada é %PRODUCTNAME %PRODUCTVERSION.\n\nNota: Antes de descargar unha actualización, asegúrese de que ten permiso de acceso suficiente para a instalar.\nPode pedírselle un contrasinal, normalmente o contrasinal raíz ou o do administrador.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_UPD_FOUND				13691	gu	%PRODUCTNAME %NEXTVERSION ઉપલબ્ધ છે.\n\n%PRODUCTNAME %PRODUCTVERSION સ્થાપિત આવૃત્તિ છે.\n\nનોંધ: સુધારો ડાઉનલોડ કરવા પહેલાં, મહેરબાની કરીને ખાતરી કરો કે તમારી પાસે તેને સ્થાપિત કરવા માટે પૂરતા હકો છે.\nપાસવર્ડ, સામાન્ય રીતે સંચાલકનો કે રુટનો પાસવર્ડ, કદાચ જરૂર પડશે.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_UPD_FOUND				1	hr	Dostupan je %PRODUCTNAME %NEXTVERSION.\n\nInstalirana inačica je %PRODUCTNAME %PRODUCTVERSION.\n\nZabilješka: Prije preuzimanja nadogradnje, provjerite imate li pravo instaliranja.\nMožza ćete morati upisati lozinku, to je lozinka korisnika adninistrator ili root.				2002-02-02 02:02:02
-extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_UPD_FOUND				0	hu	%PRODUCTNAME %NEXTVERSION finns tillgänglig.\n\nInstallerad version är %PRODUCTNAME %PRODUCTVERSION.\n\nNotera: Innan du hämtar en uppdatering, förvissa dig om att du har tillräckliga systemrättigheter för att installera den.\nEtt lösenord, vanligen administratörens eller rotanvändarens, kan behövas.				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_UPD_FOUND				0	hu	Már elérhető a %PRODUCTNAME %NEXTVERSION.\n\nA telepített verzió: %PRODUCTNAME %PRODUCTVERSION.\n\nMegjegyzés: Frissítés letöltése előtt győződjön meg arról, hogy elégséges jogosultsággal rendelkezik a telepítéshez.\nJelszó, általában a rendszergazda vagy a root jelszava szükséges lehet.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_UPD_FOUND				0	it	%PRODUCTNAME %NEXTVERSION è disponibile.\n\nLa versione installata al momento è %PRODUCTNAME %PRODUCTVERSION.\n\nNota: prima di scaricare un aggiornamento, assicurarsi di possedere i diritti di accesso sufficienti per installarlo.\nUna password, normalmente la password dell'amministratore o di root potrebbe essere necessaria.				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_UPD_FOUND				0	ja	%PRODUCTNAME %NEXTVERSION が使用可能です。\n\nインストールされたバージョンは %PRODUCTNAME %PRODUCTVERSION です。\n\n注: 更新をダウンロードする前に、その更新をインストールするのに十分なアクセス権があることを確認してください。\nパスワード (通常は管理者のパスワードまたはルートパスワード) が必要な場合があります。				2002-02-02 02:02:02
 extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_UPD_FOUND				0	km	មាន %PRODUCTNAME %NEXTVERSION ។\n\nកំណែ​ដែល​បាន​ដំឡើង​គឺ %PRODUCTNAME %PRODUCTVERSION ។\n\nចំណាំ ៖ មុន​ពេល​ទាញយក​ភាព​ទាន់សម័យ គឺ​ត្រូវ​ប្រាកដ​ថា​អ្នក​មាន​សិទ្ធិ​ចូល​ដំណើរការ​ត្រឹមត្រូវ​ក្នុង​ការ​ដំឡើង​វា ។\nតាម​ធម្មតា គឺ​តម្រូវ​ឲ្យ​បញ្ចូល​​ពាក្យ​សម្ងាត់​របស់​អ្នក​គ្រប់គ្រង ឬ​ពាក្យសម្ងាត់​របស់ root ។				2002-02-02 02:02:02
