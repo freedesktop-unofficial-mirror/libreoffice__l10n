@@ -17,7 +17,7 @@
 #
 # $RCSfile: localize.sdf,v $
 #
-# $Revision: 1.31 $
+# $Revision: 1.32 $
 #
 # This file is part of OpenOffice.org.
 #
@@ -44,7 +44,7 @@ svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_CHANGECOL	SID_F
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_CHANGECOL	SID_FM_CHANGECOL		0	bg	~Замяна с				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_CHANGECOL	SID_FM_CHANGECOL		0	br	E~rlec'hiañ 				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_CHANGECOL	SID_FM_CHANGECOL		0	bs	~Zamijeni sa				2002-02-02 02:02:02
-svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_CHANGECOL	SID_FM_CHANGECOL		0	ca	~Reemplaça amb				2002-02-02 02:02:02
+svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_CHANGECOL	SID_FM_CHANGECOL		0	ca	~Reemplaça per				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_CHANGECOL	SID_FM_CHANGECOL		0	cs	Nahradit za				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_CHANGECOL	SID_FM_CHANGECOL		0	cy	~Newid gyda				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_CHANGECOL	SID_FM_CHANGECOL		0	da	E~rstat med				2002-02-02 02:02:02
@@ -69,6 +69,7 @@ svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_CHANGECOL	SID_F
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_CHANGECOL	SID_FM_CHANGECOL		0	it	~Sostituisci con				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_CHANGECOL	SID_FM_CHANGECOL		0	ja	置き換え(~R)				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_CHANGECOL	SID_FM_CHANGECOL		0	ka	ჩან~აცვლება				2002-02-02 02:02:02
+svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_CHANGECOL	SID_FM_CHANGECOL		0	kk	Ауыстыру				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_CHANGECOL	SID_FM_CHANGECOL		0	km	ជំនួស​​ដោយ 				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_CHANGECOL	SID_FM_CHANGECOL		0	ko	바꾸기(~R)				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_CHANGECOL	SID_FM_CHANGECOL		0	ku	~Cih biguherîne				2002-02-02 02:02:02
@@ -149,6 +150,7 @@ svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_DELETECOL	SID_F
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_DELETECOL	SID_FM_DELETECOL		0	it	Elimina colonna				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_DELETECOL	SID_FM_DELETECOL		0	ja	列の削除				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_DELETECOL	SID_FM_DELETECOL		0	ka	სვეტის წაშლა				2002-02-02 02:02:02
+svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_DELETECOL	SID_FM_DELETECOL		0	kk	Бағанды жою				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_DELETECOL	SID_FM_DELETECOL		0	km	លុប​ជួរឈរ				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_DELETECOL	SID_FM_DELETECOL		0	ko	열 삭제				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_DELETECOL	SID_FM_DELETECOL		0	ku	Sitûnê jê bibe				2002-02-02 02:02:02
@@ -204,7 +206,7 @@ svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_HIDECOL	SID_FM_
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_HIDECOL	SID_FM_HIDECOL		0	bg	~Скриване на колони				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_HIDECOL	SID_FM_HIDECOL		0	br	~Masklañ ar bann				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_HIDECOL	SID_FM_HIDECOL		0	bs	~Sakrij kolonu				2002-02-02 02:02:02
-svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_HIDECOL	SID_FM_HIDECOL		0	ca	~Oculta les columnes				2002-02-02 02:02:02
+svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_HIDECOL	SID_FM_HIDECOL		0	ca	~Amaga les columnes				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_HIDECOL	SID_FM_HIDECOL		0	cs	Skrýt sloupce				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_HIDECOL	SID_FM_HIDECOL		0	cy	~Cuddio Colofnau				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_HIDECOL	SID_FM_HIDECOL		0	da	~Skjul kolonner				2002-02-02 02:02:02
@@ -229,6 +231,7 @@ svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_HIDECOL	SID_FM_
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_HIDECOL	SID_FM_HIDECOL		0	it	~Nascondi colonne				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_HIDECOL	SID_FM_HIDECOL		0	ja	列を表示しない(~H)				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_HIDECOL	SID_FM_HIDECOL		0	ka	სვეტების ~დამალვა				2002-02-02 02:02:02
+svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_HIDECOL	SID_FM_HIDECOL		0	kk	Бағанды жасыру				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_HIDECOL	SID_FM_HIDECOL		0	km	លាក់​ជួរឈរ 				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_HIDECOL	SID_FM_HIDECOL		0	ko	열 숨기기(~H)				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_HIDECOL	SID_FM_HIDECOL		0	ku	Sitûnan ~Veşêre				2002-02-02 02:02:02
@@ -309,6 +312,7 @@ svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_INSERTCOL	SID_F
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_INSERTCOL	SID_FM_INSERTCOL		0	it	~Inserisci colonna				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_INSERTCOL	SID_FM_INSERTCOL		0	ja	列の挿入(~C)				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_INSERTCOL	SID_FM_INSERTCOL		0	ka	სვეტის ჩა~სმა				2002-02-02 02:02:02
+svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_INSERTCOL	SID_FM_INSERTCOL		0	kk	Бағанды ~кiрiстiру				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_INSERTCOL	SID_FM_INSERTCOL		0	km	បញ្ចូល​ជួរឈរ 				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_INSERTCOL	SID_FM_INSERTCOL		0	ko	열 삽입(~C)				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_INSERTCOL	SID_FM_INSERTCOL		0	ku	Sitûn ~Têxe				2002-02-02 02:02:02
@@ -390,6 +394,7 @@ svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_SHOWCOLS	SID_FM
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_SHOWCOLS	SID_FM_SHOWCOLS		0	it	~Mostra colonne				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_SHOWCOLS	SID_FM_SHOWCOLS		0	ja	列を表示する(~S)				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_SHOWCOLS	SID_FM_SHOWCOLS		0	ka	~სვეტების ჩვენება				2002-02-02 02:02:02
+svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_SHOWCOLS	SID_FM_SHOWCOLS		0	kk	~Бағандарды көрсету				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_SHOWCOLS	SID_FM_SHOWCOLS		0	km	បង្ហាញ​ជួរឈរ 				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_SHOWCOLS	SID_FM_SHOWCOLS		0	ko	열 표시(~S)				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_SHOWCOLS	SID_FM_SHOWCOLS		0	ku	Sitûnan ~Nîşan bide				2002-02-02 02:02:02
@@ -471,6 +476,7 @@ svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_SHOW_PROPERTY_B
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_SHOW_PROPERTY_BROWSER	SID_FM_SHOW_PROPERTY_BROWSER		0	it	~Colonna...				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_SHOW_PROPERTY_BROWSER	SID_FM_SHOW_PROPERTY_BROWSER		0	ja	列...				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_SHOW_PROPERTY_BROWSER	SID_FM_SHOW_PROPERTY_BROWSER		0	ka	სვეტი...				2002-02-02 02:02:02
+svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_SHOW_PROPERTY_BROWSER	SID_FM_SHOW_PROPERTY_BROWSER		0	kk	Баған...				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_SHOW_PROPERTY_BROWSER	SID_FM_SHOW_PROPERTY_BROWSER		0	km	ជួរឈរ ...				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_SHOW_PROPERTY_BROWSER	SID_FM_SHOW_PROPERTY_BROWSER		0	ko	단...				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_SHOW_PROPERTY_BROWSER	SID_FM_SHOW_PROPERTY_BROWSER		0	ku	Sitûn...				2002-02-02 02:02:02
@@ -480,10 +486,10 @@ svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_SHOW_PROPERTY_B
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_SHOW_PROPERTY_BROWSER	SID_FM_SHOW_PROPERTY_BROWSER		0	mn	Багана...				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_SHOW_PROPERTY_BROWSER	SID_FM_SHOW_PROPERTY_BROWSER		0	mr-IN	स्तंभ...				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_SHOW_PROPERTY_BROWSER	SID_FM_SHOW_PROPERTY_BROWSER		0	my	ကော်လံအကန့်...				2002-02-02 02:02:02
-svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_SHOW_PROPERTY_BROWSER	SID_FM_SHOW_PROPERTY_BROWSER		0	nb	Kolonne ...				2002-02-02 02:02:02
+svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_SHOW_PROPERTY_BROWSER	SID_FM_SHOW_PROPERTY_BROWSER		0	nb	Kolonne …				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_SHOW_PROPERTY_BROWSER	SID_FM_SHOW_PROPERTY_BROWSER		0	ne	स्तम्भ...				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_SHOW_PROPERTY_BROWSER	SID_FM_SHOW_PROPERTY_BROWSER		0	nl	~Kolom...				2002-02-02 02:02:02
-svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_SHOW_PROPERTY_BROWSER	SID_FM_SHOW_PROPERTY_BROWSER		0	nn	Kolonne ...				2002-02-02 02:02:02
+svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_SHOW_PROPERTY_BROWSER	SID_FM_SHOW_PROPERTY_BROWSER		0	nn	Kolonne …				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_SHOW_PROPERTY_BROWSER	SID_FM_SHOW_PROPERTY_BROWSER		0	nr	Ikholomu...				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_SHOW_PROPERTY_BROWSER	SID_FM_SHOW_PROPERTY_BROWSER		0	ns	Kholomo...				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS	SID_FM_SHOW_PROPERTY_BROWSER	SID_FM_SHOW_PROPERTY_BROWSER		0	or-IN	ସ୍ତମ୍ଭ...				2002-02-02 02:02:02
@@ -526,7 +532,7 @@ svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_F
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_CHECKBOX	SID_FM_CHECKBOX		0	bg	Поле за отметка				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_CHECKBOX	SID_FM_CHECKBOX		0	br	Log da gevaskañ				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_CHECKBOX	SID_FM_CHECKBOX		0	bs	Check Box				2002-02-02 02:02:02
-svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_CHECKBOX	SID_FM_CHECKBOX		0	ca	Casella de verificació				2002-02-02 02:02:02
+svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_CHECKBOX	SID_FM_CHECKBOX		0	ca	Casella de selecció				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_CHECKBOX	SID_FM_CHECKBOX		0	cs	Zaškrtávací políčko				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_CHECKBOX	SID_FM_CHECKBOX		0	cy	Blwch Ticio				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_CHECKBOX	SID_FM_CHECKBOX		0	da	Afkrydsningsfelt				2002-02-02 02:02:02
@@ -551,6 +557,7 @@ svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_F
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_CHECKBOX	SID_FM_CHECKBOX		0	it	Casella di controllo				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_CHECKBOX	SID_FM_CHECKBOX		0	ja	チェックボックス				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_CHECKBOX	SID_FM_CHECKBOX		0	ka	თლოლია				2002-02-02 02:02:02
+svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_CHECKBOX	SID_FM_CHECKBOX		0	kk	Жалауша				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_CHECKBOX	SID_FM_CHECKBOX		0	km	ប្រអប់ធីក​				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_CHECKBOX	SID_FM_CHECKBOX		0	ko	확인란				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_CHECKBOX	SID_FM_CHECKBOX		0	ku	Qutiya Kontrolkirinê				2002-02-02 02:02:02
@@ -629,6 +636,7 @@ svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_F
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_COMBOBOX	SID_FM_COMBOBOX		0	it	Casella combinata				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_COMBOBOX	SID_FM_COMBOBOX		0	ja	コンボボックス				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_COMBOBOX	SID_FM_COMBOBOX		0	ka	კომბო ყოთი				2002-02-02 02:02:02
+svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_COMBOBOX	SID_FM_COMBOBOX		0	kk	Тiзiммен өрiс				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_COMBOBOX	SID_FM_COMBOBOX		0	km	ប្រអប់​​បន្សំ				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_COMBOBOX	SID_FM_COMBOBOX		0	ko	콤보 상자				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_COMBOBOX	SID_FM_COMBOBOX		0	ku	Qutiya Combo				2002-02-02 02:02:02
@@ -707,6 +715,7 @@ svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_F
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_CURRENCYFIELD	SID_FM_CURRENCYFIELD		0	it	Campo di valuta				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_CURRENCYFIELD	SID_FM_CURRENCYFIELD		0	ja	通貨フィールド				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_CURRENCYFIELD	SID_FM_CURRENCYFIELD		0	ka	ვალუტის ველი				2002-02-02 02:02:02
+svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_CURRENCYFIELD	SID_FM_CURRENCYFIELD		0	kk	Валютанын өрiсi				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_CURRENCYFIELD	SID_FM_CURRENCYFIELD		0	km	វាល​​​រូបិយ​វត្ថុ​				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_CURRENCYFIELD	SID_FM_CURRENCYFIELD		0	ko	통화 필드				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_CURRENCYFIELD	SID_FM_CURRENCYFIELD		0	ku	Qada Yekeya Pereyan				2002-02-02 02:02:02
@@ -787,6 +796,7 @@ svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_F
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_DATEFIELD	SID_FM_DATEFIELD		0	it	Campo data				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_DATEFIELD	SID_FM_DATEFIELD		0	ja	日付フィールド				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_DATEFIELD	SID_FM_DATEFIELD		0	ka	მონაცემთა ველი				2002-02-02 02:02:02
+svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_DATEFIELD	SID_FM_DATEFIELD		0	kk	Өрiстiн мегiлiсi				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_DATEFIELD	SID_FM_DATEFIELD		0	km	វាល​​​កាល​​បរិច្ឆេទ​				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_DATEFIELD	SID_FM_DATEFIELD		0	ko	날짜 필드				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_DATEFIELD	SID_FM_DATEFIELD		0	ku	Qada Dîrokê				2002-02-02 02:02:02
@@ -867,6 +877,7 @@ svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_F
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_EDIT	SID_FM_EDIT		0	it	Campo di testo				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_EDIT	SID_FM_EDIT		0	ja	テキストボックス				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_EDIT	SID_FM_EDIT		0	ka	ტექსტ-ყუთი				2002-02-02 02:02:02
+svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_EDIT	SID_FM_EDIT		0	kk	Мәтiндiк өрiс				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_EDIT	SID_FM_EDIT		0	km	ប្រអប់​អត្ថបទ				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_EDIT	SID_FM_EDIT		0	ko	텍스트 필드				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_EDIT	SID_FM_EDIT		0	ku	Qutiya Nivîsê				2002-02-02 02:02:02
@@ -947,6 +958,7 @@ svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_F
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_FORMATTEDFIELD	SID_FM_FORMATTEDFIELD		0	it	Campo formattato				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_FORMATTEDFIELD	SID_FM_FORMATTEDFIELD		0	ja	書式設定されたフィールド				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_FORMATTEDFIELD	SID_FM_FORMATTEDFIELD		0	ka	დაფორმატებული ველი				2002-02-02 02:02:02
+svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_FORMATTEDFIELD	SID_FM_FORMATTEDFIELD		0	kk	Пiшiмделген енгiзуiнiн өрiсi				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_FORMATTEDFIELD	SID_FM_FORMATTEDFIELD		0	km	វាល​​​ដែល​​​​មាន​​​​ទ្រង់​​ទ្រាយ				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_FORMATTEDFIELD	SID_FM_FORMATTEDFIELD		0	ko	서식 지정된 필드				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_FORMATTEDFIELD	SID_FM_FORMATTEDFIELD		0	ku	Qada Teşebûyî				2002-02-02 02:02:02
@@ -1027,6 +1039,7 @@ svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_F
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_LISTBOX	SID_FM_LISTBOX		0	it	Casella di riepilogo				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_LISTBOX	SID_FM_LISTBOX		0	ja	リストボックス				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_LISTBOX	SID_FM_LISTBOX		0	ka	ცხრილის ყუთი				2002-02-02 02:02:02
+svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_LISTBOX	SID_FM_LISTBOX		0	kk	Тiзiм				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_LISTBOX	SID_FM_LISTBOX		0	km	ប្រអប់​បញ្ជី				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_LISTBOX	SID_FM_LISTBOX		0	ko	목록 상자				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_LISTBOX	SID_FM_LISTBOX		0	ku	Qutiya lîstê				2002-02-02 02:02:02
@@ -1106,6 +1119,7 @@ svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_F
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_NUMERICFIELD	SID_FM_NUMERICFIELD		0	it	Campo numerico				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_NUMERICFIELD	SID_FM_NUMERICFIELD		0	ja	番号フィールド				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_NUMERICFIELD	SID_FM_NUMERICFIELD		0	ka	რიცხვული ველი				2002-02-02 02:02:02
+svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_NUMERICFIELD	SID_FM_NUMERICFIELD		0	kk	Сандык өрiс				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_NUMERICFIELD	SID_FM_NUMERICFIELD		0	km	វាល​​​​​លេខ​				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_NUMERICFIELD	SID_FM_NUMERICFIELD		0	ko	숫자 필드				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_NUMERICFIELD	SID_FM_NUMERICFIELD		0	ku	Qada Hejmarî				2002-02-02 02:02:02
@@ -1186,6 +1200,7 @@ svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_F
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_PATTERNFIELD	SID_FM_PATTERNFIELD		0	it	Campo a maschera				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_PATTERNFIELD	SID_FM_PATTERNFIELD		0	ja	パターンフィールド				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_PATTERNFIELD	SID_FM_PATTERNFIELD		0	ka	შაბლონის ველი				2002-02-02 02:02:02
+svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_PATTERNFIELD	SID_FM_PATTERNFIELD		0	kk	Енгiзу пердемен өрiсi				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_PATTERNFIELD	SID_FM_PATTERNFIELD		0	km	វាល​​​លំនាំ​​				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_PATTERNFIELD	SID_FM_PATTERNFIELD		0	ko	패턴 필드				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_PATTERNFIELD	SID_FM_PATTERNFIELD		0	ku	Qada Rûpoşkirî				2002-02-02 02:02:02
@@ -1265,6 +1280,7 @@ svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_F
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_TIMEFIELD	SID_FM_TIMEFIELD		0	it	Campo orario				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_TIMEFIELD	SID_FM_TIMEFIELD		0	ja	時刻フィールド				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_TIMEFIELD	SID_FM_TIMEFIELD		0	ka	დროის ველი				2002-02-02 02:02:02
+svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_TIMEFIELD	SID_FM_TIMEFIELD		0	kk	Өрiстiн уақыты				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_TIMEFIELD	SID_FM_TIMEFIELD		0	km	វាល​​​ពេល​​វេលា​				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_TIMEFIELD	SID_FM_TIMEFIELD		0	ko	시간 필드				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_TIMEFIELD	SID_FM_TIMEFIELD		0	ku	Qada Demê				2002-02-02 02:02:02
@@ -1345,6 +1361,7 @@ svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_F
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_TWOFIELDS_DATE_N_TIME	HID_CONTROLS_DATE_N_TIME		0	it	Campo data e orario				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_TWOFIELDS_DATE_N_TIME	HID_CONTROLS_DATE_N_TIME		0	ja	日付と時間のフィールド				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_TWOFIELDS_DATE_N_TIME	HID_CONTROLS_DATE_N_TIME		0	ka	თარიღის და დროის ველი				2002-02-02 02:02:02
+svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_TWOFIELDS_DATE_N_TIME	HID_CONTROLS_DATE_N_TIME		0	kk	Мезгiл және уақыт өрiсi				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_TWOFIELDS_DATE_N_TIME	HID_CONTROLS_DATE_N_TIME		0	km	វាល​កាលបរិច្ចេទ និង​ពេលវេលា				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_TWOFIELDS_DATE_N_TIME	HID_CONTROLS_DATE_N_TIME		0	ko	날짜와 시간 필드				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_INSERTCOL	SID_FM_TWOFIELDS_DATE_N_TIME	HID_CONTROLS_DATE_N_TIME		0	ku	Qada Dem û Dîrokê				2002-02-02 02:02:02
@@ -1426,6 +1443,7 @@ svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_SHOWCOLS	SID_FM
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_SHOWCOLS	SID_FM_SHOWALLCOLS	SID_FM_SHOWALLCOLS		0	it	~Tutte				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_SHOWCOLS	SID_FM_SHOWALLCOLS	SID_FM_SHOWALLCOLS		0	ja	すべて(~A)				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_SHOWCOLS	SID_FM_SHOWALLCOLS	SID_FM_SHOWALLCOLS		0	ka	~ყველა				2002-02-02 02:02:02
+svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_SHOWCOLS	SID_FM_SHOWALLCOLS	SID_FM_SHOWALLCOLS		0	kk	~Барлығы				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_SHOWCOLS	SID_FM_SHOWALLCOLS	SID_FM_SHOWALLCOLS		0	km	ទាំងអស់ 				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_SHOWCOLS	SID_FM_SHOWALLCOLS	SID_FM_SHOWALLCOLS		0	ko	모두(~A)				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_SHOWCOLS	SID_FM_SHOWALLCOLS	SID_FM_SHOWALLCOLS		0	ku	~Hemû				2002-02-02 02:02:02
@@ -1506,6 +1524,7 @@ svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_SHOWCOLS	SID_FM
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_SHOWCOLS	SID_FM_SHOWCOLS_MORE	SID_FM_SHOWCOLS_MORE		0	it	E~xtra...				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_SHOWCOLS	SID_FM_SHOWCOLS_MORE	SID_FM_SHOWCOLS_MORE		0	ja	その他(~M)...				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_SHOWCOLS	SID_FM_SHOWCOLS_MORE	SID_FM_SHOWCOLS_MORE		0	ka	~ვრცლად...				2002-02-02 02:02:02
+svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_SHOWCOLS	SID_FM_SHOWCOLS_MORE	SID_FM_SHOWCOLS_MORE		0	kk	~Үлкен...				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_SHOWCOLS	SID_FM_SHOWCOLS_MORE	SID_FM_SHOWCOLS_MORE		0	km	ច្រើន​ជាង... 				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_SHOWCOLS	SID_FM_SHOWCOLS_MORE	SID_FM_SHOWCOLS_MORE		0	ko	자세히(~M)...				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_SHOWCOLS	SID_FM_SHOWCOLS_MORE	SID_FM_SHOWCOLS_MORE		0	ku	~Zêdetir...				2002-02-02 02:02:02
@@ -1518,7 +1537,7 @@ svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_SHOWCOLS	SID_FM
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_SHOWCOLS	SID_FM_SHOWCOLS_MORE	SID_FM_SHOWCOLS_MORE		0	nb	~Mer ...				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_SHOWCOLS	SID_FM_SHOWCOLS_MORE	SID_FM_SHOWCOLS_MORE		0	ne	धेरै...				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_SHOWCOLS	SID_FM_SHOWCOLS_MORE	SID_FM_SHOWCOLS_MORE		0	nl	~Meer...				2002-02-02 02:02:02
-svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_SHOWCOLS	SID_FM_SHOWCOLS_MORE	SID_FM_SHOWCOLS_MORE		0	nn	~Meir ...				2002-02-02 02:02:02
+svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_SHOWCOLS	SID_FM_SHOWCOLS_MORE	SID_FM_SHOWCOLS_MORE		0	nn	~Meir …				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_SHOWCOLS	SID_FM_SHOWCOLS_MORE	SID_FM_SHOWCOLS_MORE		0	nr	~Ngaphezu...				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_SHOWCOLS	SID_FM_SHOWCOLS_MORE	SID_FM_SHOWCOLS_MORE		0	ns	~Oketšegilego...				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_COLS.SID_FM_SHOWCOLS	SID_FM_SHOWCOLS_MORE	SID_FM_SHOWCOLS_MORE		0	or-IN	ଅଧିକ				2002-02-02 02:02:02
@@ -1586,6 +1605,7 @@ svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_ROWS	SID_FM_DELETEROWS	SID_
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_ROWS	SID_FM_DELETEROWS	SID_FM_DELETEROWS		0	it	Elimina righe				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_ROWS	SID_FM_DELETEROWS	SID_FM_DELETEROWS		0	ja	行の削除				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_ROWS	SID_FM_DELETEROWS	SID_FM_DELETEROWS		0	ka	მწკრივების წაშლა				2002-02-02 02:02:02
+svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_ROWS	SID_FM_DELETEROWS	SID_FM_DELETEROWS		0	kk	Қатарларды жою				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_ROWS	SID_FM_DELETEROWS	SID_FM_DELETEROWS		0	km	លុប​ជួរដេក				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_ROWS	SID_FM_DELETEROWS	SID_FM_DELETEROWS		0	ko	행 삭제				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_ROWS	SID_FM_DELETEROWS	SID_FM_DELETEROWS		0	ku	Rêzikan jê bibe				2002-02-02 02:02:02
@@ -1667,6 +1687,7 @@ svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_ROWS	SID_FM_RECORD_SAVE	SID
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_ROWS	SID_FM_RECORD_SAVE	SID_FM_RECORD_SAVE		0	it	Salva record di dati				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_ROWS	SID_FM_RECORD_SAVE	SID_FM_RECORD_SAVE		0	ja	レコードを保存				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_ROWS	SID_FM_RECORD_SAVE	SID_FM_RECORD_SAVE		0	ka	ჩანაწერის შენახვა				2002-02-02 02:02:02
+svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_ROWS	SID_FM_RECORD_SAVE	SID_FM_RECORD_SAVE		0	kk	Жазбаны сақтау				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_ROWS	SID_FM_RECORD_SAVE	SID_FM_RECORD_SAVE		0	km	រក្សាទុក​កំណត់​ត្រា				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_ROWS	SID_FM_RECORD_SAVE	SID_FM_RECORD_SAVE		0	ko	레코드 저장				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_ROWS	SID_FM_RECORD_SAVE	SID_FM_RECORD_SAVE		0	ku	Tomarkirinê Tomar Bike				2002-02-02 02:02:02
@@ -1747,6 +1768,7 @@ svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_ROWS	SID_FM_RECORD_UNDO	SID
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_ROWS	SID_FM_RECORD_UNDO	SID_FM_RECORD_UNDO		0	it	Annulla: Immissione dati				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_ROWS	SID_FM_RECORD_UNDO	SID_FM_RECORD_UNDO		0	ja	元に戻す: データの入力				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_ROWS	SID_FM_RECORD_UNDO	SID_FM_RECORD_UNDO		0	ka	უკუსვლა: მონაცემთა ჩანაწერი				2002-02-02 02:02:02
+svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_ROWS	SID_FM_RECORD_UNDO	SID_FM_RECORD_UNDO		0	kk	Деректердiн енгiзуiн: болдырмау  				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_ROWS	SID_FM_RECORD_UNDO	SID_FM_RECORD_UNDO		0	km	មិន​ធ្វើ​វិញ ៖ ការ​បញ្ចូល​ទិន្នន័យ				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_ROWS	SID_FM_RECORD_UNDO	SID_FM_RECORD_UNDO		0	ko	실행취소: 데이터 입력				2002-02-02 02:02:02
 svx	source\fmcomp\gridctrl.src	0	menuitem	RID_SVXMNU_ROWS	SID_FM_RECORD_UNDO	SID_FM_RECORD_UNDO		0	ku	Paş ve bîne: Têketina Daneyan				2002-02-02 02:02:02
@@ -1802,7 +1824,7 @@ svx	source\fmcomp\showcols.src	0	fixedtext	RID_SVX_DLG_SHOWGRIDCOLUMNS	1			188	b
 svx	source\fmcomp\showcols.src	0	fixedtext	RID_SVX_DLG_SHOWGRIDCOLUMNS	1			188	bg	Следните колони в момента са скрити. Моля, отбележете полетата, които желаете да се покажат, и натиснете OK.				2002-02-02 02:02:02
 svx	source\fmcomp\showcols.src	0	fixedtext	RID_SVX_DLG_SHOWGRIDCOLUMNS	1			188	br	Kuzhet eo ar bannoù da-heul evit ar mare. Diuzit ar re a fell deoc'h lakaat da vezañ gwereet ha klikit war OK.				2002-02-02 02:02:02
 svx	source\fmcomp\showcols.src	0	fixedtext	RID_SVX_DLG_SHOWGRIDCOLUMNS	1			188	bs	Sljedeće kolone su trenutno sakrivene. Označite polja koja želite prikazati i izaberite U redu.				2002-02-02 02:02:02
-svx	source\fmcomp\showcols.src	0	fixedtext	RID_SVX_DLG_SHOWGRIDCOLUMNS	1			188	ca	Les columnes següents estan ocultes. Seleccioneu els camps que s'han de mostrar i feu clic a D'acord.				2002-02-02 02:02:02
+svx	source\fmcomp\showcols.src	0	fixedtext	RID_SVX_DLG_SHOWGRIDCOLUMNS	1			188	ca	Les columnes següents estan amagades. Seleccioneu els camps que s'han de mostrar i feu clic a D'acord.				2002-02-02 02:02:02
 svx	source\fmcomp\showcols.src	0	fixedtext	RID_SVX_DLG_SHOWGRIDCOLUMNS	1			188	cs	Následující sloupce jsou skryty. Označte, prosím, pole, která chcete zobrazit a stiskněte OK.				2002-02-02 02:02:02
 svx	source\fmcomp\showcols.src	0	fixedtext	RID_SVX_DLG_SHOWGRIDCOLUMNS	1			188	cy	Mae'r colofnau canlynol wedi eu cuddio. Marciwch y meysydd rydych am eu dangos a dewis Iawn.				2002-02-02 02:02:02
 svx	source\fmcomp\showcols.src	0	fixedtext	RID_SVX_DLG_SHOWGRIDCOLUMNS	1			188	da	Følgende kolonner er i øjeblikket skjulte. Marker felterne, som du vil vise, og tryk på OK.				2002-02-02 02:02:02
@@ -1827,6 +1849,7 @@ svx	source\fmcomp\showcols.src	0	fixedtext	RID_SVX_DLG_SHOWGRIDCOLUMNS	1			188	h
 svx	source\fmcomp\showcols.src	0	fixedtext	RID_SVX_DLG_SHOWGRIDCOLUMNS	1			188	it	Le seguenti colonne sono momentaneamente nascoste. Selezionate le colonne da mostrare e confermate con OK.				2002-02-02 02:02:02
 svx	source\fmcomp\showcols.src	0	fixedtext	RID_SVX_DLG_SHOWGRIDCOLUMNS	1			188	ja	次の列は現在隠されています。表示すべき列を選択してOKを押してください。				2002-02-02 02:02:02
 svx	source\fmcomp\showcols.src	0	fixedtext	RID_SVX_DLG_SHOWGRIDCOLUMNS	1			188	ka	აღნიშნილი სვეტები ამ დროისთვის არიან დამალულები. გთხოვთ მონიშნეთ ის ველები , რომლებიც გინდათ , რომ გამოჩდნებ და აირჩიეთ OK.				2002-02-02 02:02:02
+svx	source\fmcomp\showcols.src	0	fixedtext	RID_SVX_DLG_SHOWGRIDCOLUMNS	1			188	kk	Келесi бағандар жасырылған. Көрсету керек бағандарды ерекшелеп және Иә басыңыз.				2002-02-02 02:02:02
 svx	source\fmcomp\showcols.src	0	fixedtext	RID_SVX_DLG_SHOWGRIDCOLUMNS	1			188	km	ជួរឈរ​ដូច​ខាង​ក្រោម​​​កំពុង​ត្រូវ​បាន​​លាក់​ ។ សូម​​សម្គាល់​វាល​​ដែល​អ្នក​ចង់​បង្ហាញ​ រួច​ជ្រើស​ 'យល់ព្រម' ។				2002-02-02 02:02:02
 svx	source\fmcomp\showcols.src	0	fixedtext	RID_SVX_DLG_SHOWGRIDCOLUMNS	1			188	ko	다음 열들은 현재 숨겨진 상태입니다. 다시 표시하려는 열을 선택한 다음 확인 버튼을 클릭하십시오.				2002-02-02 02:02:02
 svx	source\fmcomp\showcols.src	0	fixedtext	RID_SVX_DLG_SHOWGRIDCOLUMNS	1			188	ku	Sitûnên jêr niha veşartî ne. Qadên ku bixwazî nîşan bidî nîşan bike û TEMAM hilbijêre.				2002-02-02 02:02:02
@@ -1907,6 +1930,7 @@ svx	source\fmcomp\showcols.src	0	modaldialog	RID_SVX_DLG_SHOWGRIDCOLUMNS				200	
 svx	source\fmcomp\showcols.src	0	modaldialog	RID_SVX_DLG_SHOWGRIDCOLUMNS				200	it	Mostra colonne				2002-02-02 02:02:02
 svx	source\fmcomp\showcols.src	0	modaldialog	RID_SVX_DLG_SHOWGRIDCOLUMNS				200	ja	列を表示する				2002-02-02 02:02:02
 svx	source\fmcomp\showcols.src	0	modaldialog	RID_SVX_DLG_SHOWGRIDCOLUMNS				200	ka	სვეტების ჩვენება				2002-02-02 02:02:02
+svx	source\fmcomp\showcols.src	0	modaldialog	RID_SVX_DLG_SHOWGRIDCOLUMNS				200	kk	Бағандарды көрсету				2002-02-02 02:02:02
 svx	source\fmcomp\showcols.src	0	modaldialog	RID_SVX_DLG_SHOWGRIDCOLUMNS				200	km	បង្ហាញ​​ជួរ​​ឈរ				2002-02-02 02:02:02
 svx	source\fmcomp\showcols.src	0	modaldialog	RID_SVX_DLG_SHOWGRIDCOLUMNS				200	ko	열 표시				2002-02-02 02:02:02
 svx	source\fmcomp\showcols.src	0	modaldialog	RID_SVX_DLG_SHOWGRIDCOLUMNS				200	ku	Sitûnan nîşan bide				2002-02-02 02:02:02
