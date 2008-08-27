@@ -17,7 +17,7 @@
 #
 # $RCSfile: localize.sdf,v $
 #
-# $Revision: 1.32 $
+# $Revision: 1.33 $
 #
 # This file is part of OpenOffice.org.
 #
@@ -55,7 +55,7 @@ sc	source\ui\styleui\scstyles.src	0	sfxstylefamilyitem	DLG_STYLE_DESIGNER	Cell S
 sc	source\ui\styleui\scstyles.src	0	sfxstylefamilyitem	DLG_STYLE_DESIGNER	Cell Styles			0	gl	Estilos de cela				2002-02-02 02:02:02
 sc	source\ui\styleui\scstyles.src	0	sfxstylefamilyitem	DLG_STYLE_DESIGNER	Cell Styles			13691	gu	ખાના શૈલીઓ				2002-02-02 02:02:02
 sc	source\ui\styleui\scstyles.src	0	sfxstylefamilyitem	DLG_STYLE_DESIGNER	Cell Styles			0	hr	Stilovi ćelije				2002-02-02 02:02:02
-sc	source\ui\styleui\scstyles.src	0	sfxstylefamilyitem	DLG_STYLE_DESIGNER	Cell Styles			0	hu	Cellstilar				2002-02-02 02:02:02
+sc	source\ui\styleui\scstyles.src	0	sfxstylefamilyitem	DLG_STYLE_DESIGNER	Cell Styles			0	hu	Cellastílusok				2002-02-02 02:02:02
 sc	source\ui\styleui\scstyles.src	0	sfxstylefamilyitem	DLG_STYLE_DESIGNER	Cell Styles			0	it	Modelli di cella				2002-02-02 02:02:02
 sc	source\ui\styleui\scstyles.src	0	sfxstylefamilyitem	DLG_STYLE_DESIGNER	Cell Styles			0	ja	セルスタイル				2002-02-02 02:02:02
 sc	source\ui\styleui\scstyles.src	0	sfxstylefamilyitem	DLG_STYLE_DESIGNER	Cell Styles			0	ka	უჯრების სტილები				2002-02-02 02:02:02
@@ -105,7 +105,7 @@ sc	source\ui\styleui\scstyles.src	0	sfxstylefamilyitem	DLG_STYLE_DESIGNER	Page S
 sc	source\ui\styleui\scstyles.src	0	sfxstylefamilyitem	DLG_STYLE_DESIGNER	Page Styles			0	gl	Estilos de páxina				2002-02-02 02:02:02
 sc	source\ui\styleui\scstyles.src	0	sfxstylefamilyitem	DLG_STYLE_DESIGNER	Page Styles			13691	gu	પાના શૈલીઓ				2002-02-02 02:02:02
 sc	source\ui\styleui\scstyles.src	0	sfxstylefamilyitem	DLG_STYLE_DESIGNER	Page Styles			0	hr	Stilovi stranice				2002-02-02 02:02:02
-sc	source\ui\styleui\scstyles.src	0	sfxstylefamilyitem	DLG_STYLE_DESIGNER	Page Styles			0	hu	Sidstilar				2002-02-02 02:02:02
+sc	source\ui\styleui\scstyles.src	0	sfxstylefamilyitem	DLG_STYLE_DESIGNER	Page Styles			0	hu	Oldalstílusok				2002-02-02 02:02:02
 sc	source\ui\styleui\scstyles.src	0	sfxstylefamilyitem	DLG_STYLE_DESIGNER	Page Styles			0	it	Modelli di pagina				2002-02-02 02:02:02
 sc	source\ui\styleui\scstyles.src	0	sfxstylefamilyitem	DLG_STYLE_DESIGNER	Page Styles			0	ja	ページスタイル				2002-02-02 02:02:02
 sc	source\ui\styleui\scstyles.src	0	sfxstylefamilyitem	DLG_STYLE_DESIGNER	Page Styles			0	ka	გვერდის სტილები				2002-02-02 02:02:02
@@ -320,7 +320,7 @@ sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAGE.1	TP_BACKGROU
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAGE.1	TP_BACKGROUND			0	he	רקע				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAGE.1	TP_BACKGROUND			0	hi-IN	Background				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAGE.1	TP_BACKGROUND			0	hr	Pozadina				2002-02-02 02:02:02
-sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAGE.1	TP_BACKGROUND			0	hu	Bakgrund				2002-02-02 02:02:02
+sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAGE.1	TP_BACKGROUND			0	hu	Háttér				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAGE.1	TP_BACKGROUND			0	it	Sfondo				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAGE.1	TP_BACKGROUND			0	ja	背景				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAGE.1	TP_BACKGROUND			0	ka	ფონი				2002-02-02 02:02:02
@@ -398,7 +398,7 @@ sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAGE.1	TP_BORDER		
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAGE.1	TP_BORDER			0	he	גבולות				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAGE.1	TP_BORDER			0	hi-IN	Borders				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAGE.1	TP_BORDER			0	hr	Rubovi				2002-02-02 02:02:02
-sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAGE.1	TP_BORDER			0	hu	Inramning				2002-02-02 02:02:02
+sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAGE.1	TP_BORDER			0	hu	Szegélyek				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAGE.1	TP_BORDER			0	it	Bordo				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAGE.1	TP_BORDER			0	ja	外枠				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAGE.1	TP_BORDER			0	ka	საზღვრები				2002-02-02 02:02:02
@@ -477,7 +477,7 @@ sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAGE.1	TP_PAGE_FOO
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAGE.1	TP_PAGE_FOOTER			0	he	כותרת תחתונה				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAGE.1	TP_PAGE_FOOTER			0	hi-IN	पाद टिप्पणी				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAGE.1	TP_PAGE_FOOTER			0	hr	Podnožje				2002-02-02 02:02:02
-sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAGE.1	TP_PAGE_FOOTER			0	hu	Sidfot				2002-02-02 02:02:02
+sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAGE.1	TP_PAGE_FOOTER			0	hu	Élőláb				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAGE.1	TP_PAGE_FOOTER			0	it	Piè di pagina				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAGE.1	TP_PAGE_FOOTER			0	ja	フッタ				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAGE.1	TP_PAGE_FOOTER			0	ka	ქვედა კოლონტიტული				2002-02-02 02:02:02
@@ -559,7 +559,7 @@ sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAGE.1	TP_PAGE_HEA
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAGE.1	TP_PAGE_HEADER			0	he	כותרת עליונה				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAGE.1	TP_PAGE_HEADER			0	hi-IN	शीर्ष टिप्पणी				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAGE.1	TP_PAGE_HEADER			0	hr	Zaglavlje				2002-02-02 02:02:02
-sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAGE.1	TP_PAGE_HEADER			0	hu	Sidhuvud				2002-02-02 02:02:02
+sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAGE.1	TP_PAGE_HEADER			0	hu	Élőfej				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAGE.1	TP_PAGE_HEADER			0	it	Riga d'intestazione				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAGE.1	TP_PAGE_HEADER			0	ja	ヘッダ				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAGE.1	TP_PAGE_HEADER			0	ka	ზედა კოლონტიტული				2002-02-02 02:02:02
@@ -641,7 +641,7 @@ sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAGE.1	TP_PAGE_STD
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAGE.1	TP_PAGE_STD			0	he	עמוד				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAGE.1	TP_PAGE_STD			0	hi-IN	पृष्ठ				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAGE.1	TP_PAGE_STD			0	hr	Stranica				2002-02-02 02:02:02
-sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAGE.1	TP_PAGE_STD			0	hu	Sida				2002-02-02 02:02:02
+sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAGE.1	TP_PAGE_STD			0	hu	Oldal				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAGE.1	TP_PAGE_STD			0	it	Pagina				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAGE.1	TP_PAGE_STD			0	ja	ページ				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAGE.1	TP_PAGE_STD			0	ka	გვერდი				2002-02-02 02:02:02
@@ -721,7 +721,7 @@ sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAGE.1	TP_TABLE			
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAGE.1	TP_TABLE			0	he	גליון				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAGE.1	TP_TABLE			0	hi-IN	शीट				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAGE.1	TP_TABLE			0	hr	List				2002-02-02 02:02:02
-sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAGE.1	TP_TABLE			0	hu	Tabell				2002-02-02 02:02:02
+sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAGE.1	TP_TABLE			0	hu	Munkalap				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAGE.1	TP_TABLE			0	it	Foglio				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAGE.1	TP_TABLE			0	ja	シート				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAGE.1	TP_TABLE			0	ka	ფურცელი				2002-02-02 02:02:02
@@ -802,7 +802,7 @@ sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAR.1	TP_ALIGNMENT
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAR.1	TP_ALIGNMENT			0	he	יישור				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAR.1	TP_ALIGNMENT			0	hi-IN	पंक्तिकरण				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAR.1	TP_ALIGNMENT			0	hr	Poravnanje				2002-02-02 02:02:02
-sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAR.1	TP_ALIGNMENT			0	hu	Justering				2002-02-02 02:02:02
+sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAR.1	TP_ALIGNMENT			0	hu	Igazítás				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAR.1	TP_ALIGNMENT			0	it	Allineamento				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAR.1	TP_ALIGNMENT			0	ja	配置				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAR.1	TP_ALIGNMENT			0	ka	გასწორება				2002-02-02 02:02:02
@@ -883,7 +883,7 @@ sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAR.1	TP_ASIAN			0
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAR.1	TP_ASIAN			0	he	טיפוגרפיה אסיאתית				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAR.1	TP_ASIAN			0	hi-IN	एशियन टोपोग्राफी				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAR.1	TP_ASIAN			0	hr	Azijska tipografija				2002-02-02 02:02:02
-sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAR.1	TP_ASIAN			0	hu	Asiatisk typografi				2002-02-02 02:02:02
+sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAR.1	TP_ASIAN			0	hu	Ázsiai tipográfia				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAR.1	TP_ASIAN			0	it	Tipografia asiatica				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAR.1	TP_ASIAN			0	ja	日本語文の体裁				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAR.1	TP_ASIAN			0	ka	აზიური ტიპოგრაფია				2002-02-02 02:02:02
@@ -965,7 +965,7 @@ sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAR.1	TP_BACKGROUN
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAR.1	TP_BACKGROUND			0	he	רקע				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAR.1	TP_BACKGROUND			0	hi-IN	Background				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAR.1	TP_BACKGROUND			0	hr	Pozadina				2002-02-02 02:02:02
-sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAR.1	TP_BACKGROUND			0	hu	Bakgrund				2002-02-02 02:02:02
+sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAR.1	TP_BACKGROUND			0	hu	Háttér				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAR.1	TP_BACKGROUND			0	it	Sfondo				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAR.1	TP_BACKGROUND			0	ja	背景				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAR.1	TP_BACKGROUND			0	ka	ფონი				2002-02-02 02:02:02
@@ -1043,7 +1043,7 @@ sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAR.1	TP_BORDER			
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAR.1	TP_BORDER			0	he	גבולות				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAR.1	TP_BORDER			0	hi-IN	Borders				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAR.1	TP_BORDER			0	hr	Rubovi				2002-02-02 02:02:02
-sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAR.1	TP_BORDER			0	hu	Inramning				2002-02-02 02:02:02
+sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAR.1	TP_BORDER			0	hu	Szegélyek				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAR.1	TP_BORDER			0	it	Bordo				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAR.1	TP_BORDER			0	ja	外枠				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAR.1	TP_BORDER			0	ka	საზღვრები				2002-02-02 02:02:02
@@ -1122,7 +1122,7 @@ sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAR.1	TP_FONT			0	
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAR.1	TP_FONT			0	he	גופן				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAR.1	TP_FONT			0	hi-IN	फ़ॉन्ट्				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAR.1	TP_FONT			0	hr	Pismo				2002-02-02 02:02:02
-sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAR.1	TP_FONT			0	hu	Teckensnitt				2002-02-02 02:02:02
+sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAR.1	TP_FONT			0	hu	Betűkészlet				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAR.1	TP_FONT			0	it	Carattere				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAR.1	TP_FONT			0	ja	フォント				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAR.1	TP_FONT			0	ka	შრიფტი				2002-02-02 02:02:02
@@ -1203,7 +1203,7 @@ sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAR.1	TP_FONTEFF		
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAR.1	TP_FONTEFF			0	he	אפקטים לגופנים				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAR.1	TP_FONTEFF			0	hi-IN	फ़ॉन्ट् प्रभाव				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAR.1	TP_FONTEFF			0	hr	Efekti na pismu				2002-02-02 02:02:02
-sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAR.1	TP_FONTEFF			0	hu	Teckeneffekt				2002-02-02 02:02:02
+sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAR.1	TP_FONTEFF			0	hu	Betűhatások				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAR.1	TP_FONTEFF			0	it	Effetto carattere				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAR.1	TP_FONTEFF			0	ja	フォント効果				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAR.1	TP_FONTEFF			0	ka	შრიფტის ეფექტები				2002-02-02 02:02:02
@@ -1285,7 +1285,7 @@ sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAR.1	TP_NUMBER			
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAR.1	TP_NUMBER			0	he	מספרים				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAR.1	TP_NUMBER			0	hi-IN	संख्या				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAR.1	TP_NUMBER			0	hr	Brojevi				2002-02-02 02:02:02
-sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAR.1	TP_NUMBER			0	hu	Tal				2002-02-02 02:02:02
+sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAR.1	TP_NUMBER			0	hu	Számok				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAR.1	TP_NUMBER			0	it	Numeri				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAR.1	TP_NUMBER			0	ja	数				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAR.1	TP_NUMBER			0	ka	ნომრები				2002-02-02 02:02:02
@@ -1366,7 +1366,7 @@ sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAR.1	TP_PROTECTIO
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAR.1	TP_PROTECTION			0	he	הגנת תא				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAR.1	TP_PROTECTION			0	hi-IN	कोष्ठ रक्षा				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAR.1	TP_PROTECTION			0	hr	Zaštita ćelije				2002-02-02 02:02:02
-sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAR.1	TP_PROTECTION			0	hu	Cellskydd				2002-02-02 02:02:02
+sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAR.1	TP_PROTECTION			0	hu	Cellavédelem				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAR.1	TP_PROTECTION			0	it	Protezione celle				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAR.1	TP_PROTECTION			0	ja	セルの保護				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	pageitem	RID_SCDLG_STYLES_PAR.1	TP_PROTECTION			0	ka	უჯრის დაცვა				2002-02-02 02:02:02
@@ -1448,7 +1448,7 @@ sc	source\ui\styleui\styledlg.src	0	tabdialog	RID_SCDLG_STYLES_PAGE				280	gu-IN
 sc	source\ui\styleui\styledlg.src	0	tabdialog	RID_SCDLG_STYLES_PAGE				280	he	סגנון				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	tabdialog	RID_SCDLG_STYLES_PAGE				280	hi-IN	पृष्ठ शैली				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	tabdialog	RID_SCDLG_STYLES_PAGE				280	hr	Stil stranice				2002-02-02 02:02:02
-sc	source\ui\styleui\styledlg.src	0	tabdialog	RID_SCDLG_STYLES_PAGE				280	hu	Sidformatmall				2002-02-02 02:02:02
+sc	source\ui\styleui\styledlg.src	0	tabdialog	RID_SCDLG_STYLES_PAGE				280	hu	Oldalstílus				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	tabdialog	RID_SCDLG_STYLES_PAGE				280	it	Stile di pagina				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	tabdialog	RID_SCDLG_STYLES_PAGE				280	ja	ページスタイル				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	tabdialog	RID_SCDLG_STYLES_PAGE				280	ka	გვერდის სტილი				2002-02-02 02:02:02
@@ -1530,7 +1530,7 @@ sc	source\ui\styleui\styledlg.src	0	tabdialog	RID_SCDLG_STYLES_PAR				289	gu-IN	
 sc	source\ui\styleui\styledlg.src	0	tabdialog	RID_SCDLG_STYLES_PAR				289	he	סגנון תא				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	tabdialog	RID_SCDLG_STYLES_PAR				289	hi-IN	कोष्ठ शैली				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	tabdialog	RID_SCDLG_STYLES_PAR				289	hr	Stil ćelije				2002-02-02 02:02:02
-sc	source\ui\styleui\styledlg.src	0	tabdialog	RID_SCDLG_STYLES_PAR				289	hu	Cellformatmall				2002-02-02 02:02:02
+sc	source\ui\styleui\styledlg.src	0	tabdialog	RID_SCDLG_STYLES_PAR				289	hu	Cellastílus				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	tabdialog	RID_SCDLG_STYLES_PAR				289	it	Stile di cella				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	tabdialog	RID_SCDLG_STYLES_PAR				289	ja	セルスタイル				2002-02-02 02:02:02
 sc	source\ui\styleui\styledlg.src	0	tabdialog	RID_SCDLG_STYLES_PAR				289	ka	უჯრის სტილი				2002-02-02 02:02:02
