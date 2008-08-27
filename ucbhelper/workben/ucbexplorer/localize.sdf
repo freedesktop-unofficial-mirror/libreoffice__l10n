@@ -17,7 +17,7 @@
 #
 # $RCSfile: localize.sdf,v $
 #
-# $Revision: 1.7 $
+# $Revision: 1.8 $
 #
 # This file is part of OpenOffice.org.
 #
@@ -49,7 +49,7 @@ ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	fixedtext	DLG_STRINGINPUT	FT_STR
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	fixedtext	DLG_STRINGINPUT	FT_STRINGINPUT_DLG_NAME			28	et	Väärtus				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	fixedtext	DLG_STRINGINPUT	FT_STRINGINPUT_DLG_NAME			28	fr	~Valeur				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	fixedtext	DLG_STRINGINPUT	FT_STRINGINPUT_DLG_NAME			28	gl	~Valor				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	fixedtext	DLG_STRINGINPUT	FT_STRINGINPUT_DLG_NAME			28	hu	~Värde				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	fixedtext	DLG_STRINGINPUT	FT_STRINGINPUT_DLG_NAME			28	hu	É~rték				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	fixedtext	DLG_STRINGINPUT	FT_STRINGINPUT_DLG_NAME			28	it	~Valore				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	fixedtext	DLG_STRINGINPUT	FT_STRINGINPUT_DLG_NAME			28	ja	値(~V)				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	fixedtext	DLG_STRINGINPUT	FT_STRINGINPUT_DLG_NAME			28	km	តម្លៃ				2002-02-02 02:02:02
@@ -90,7 +90,7 @@ ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN	MENU_FILE			0
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN	MENU_FILE			0	et	~Fail				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN	MENU_FILE			0	fr	~Fichier				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN	MENU_FILE			0	gl	~Ficheiro				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN	MENU_FILE			0	hu	~Arkiv				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN	MENU_FILE			0	hu	~Fájl				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN	MENU_FILE			0	it	~File				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN	MENU_FILE			0	ja	ファイル(~F)				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN	MENU_FILE			0	km	ឯកសារ				2002-02-02 02:02:02
@@ -131,7 +131,7 @@ ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN.MENU_FILE	MEN
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN.MENU_FILE	MENU_EXIT			0	et	Välju				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN.MENU_FILE	MENU_EXIT			0	fr	~Quitter				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN.MENU_FILE	MENU_EXIT			0	gl	~Saír				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN.MENU_FILE	MENU_EXIT			0	hu	~Avsluta				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN.MENU_FILE	MENU_EXIT			0	hu	~Kilépés				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN.MENU_FILE	MENU_EXIT			0	it	~Esci				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN.MENU_FILE	MENU_EXIT			0	ja	終了(~E)				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_MAIN.MENU_FILE	MENU_EXIT			0	km	ចេញ				2002-02-02 02:02:02
@@ -172,7 +172,7 @@ ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_DELETE	
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_DELETE			0	et	Kustuta				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_DELETE			0	fr	~Supprimer				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_DELETE			0	gl	~Eliminar				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_DELETE			0	hu	~Ta bort				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_DELETE			0	hu	~Törlés				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_DELETE			0	it	~Elimina				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_DELETE			0	ja	削除(~D)				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_DELETE			0	km	លុប				2002-02-02 02:02:02
@@ -213,7 +213,7 @@ ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_NEW			0
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_NEW			0	et	Uus				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_NEW			0	fr	~Nouveau				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_NEW			0	gl	~Novo				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_NEW			0	hu	~Nytt				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_NEW			0	hu	Ú~j				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_NEW			0	it	~Nuovo				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_NEW			0	ja	新規作成(~N)				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_NEW			0	km	ថ្មី				2002-02-02 02:02:02
@@ -254,7 +254,7 @@ ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_RENAME	
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_RENAME			0	et	Muuda nime				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_RENAME			0	fr	~Renommer				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_RENAME			0	gl	~Renomear				2002-02-02 02:02:02
-ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_RENAME			0	hu	~Byt namn				2002-02-02 02:02:02
+ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_RENAME			0	hu	Á~tnevezés				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_RENAME			0	it	~Rinomina				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_RENAME			0	ja	名前の変更(~R)				2002-02-02 02:02:02
 ucbhelper	workben\ucbexplorer\ucbexplorer.src	0	menuitem	MENU_POPUP	MENU_RENAME			0	km	ប្ដូរ​ឈ្មោះ				2002-02-02 02:02:02
