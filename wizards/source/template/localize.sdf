@@ -17,7 +17,7 @@
 #
 # $RCSfile: localize.sdf,v $
 #
-# $Revision: 1.33 $
+# $Revision: 1.34 $
 #
 # This file is part of OpenOffice.org.
 #
@@ -66,7 +66,7 @@ wizards	source\template\template.src	0	string	AgendaDlgButton1				0	gu-IN	પર
 wizards	source\template\template.src	0	string	AgendaDlgButton1				0	he	פרוטוקול תוצאות				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgButton1				0	hi-IN	परिणाम विवरण				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgButton1				0	hr	Rezultat minute				2002-02-02 02:02:02
-wizards	source\template\template.src	0	string	AgendaDlgButton1				0	hu	Beslutsprotokoll				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	AgendaDlgButton1				0	hu	Jegyzőkönyv az eredményekről				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgButton1				0	it	Protocollo dei risultati				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgButton1				0	ja	結果議事録				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgButton1				0	ka	შედეგების წუთები				2002-02-02 02:02:02
@@ -145,7 +145,7 @@ wizards	source\template\template.src	0	string	AgendaDlgButton2				0	gu-IN	ઉક
 wizards	source\template\template.src	0	string	AgendaDlgButton2				0	he	פרוטוקול הערכה				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgButton2				0	hi-IN	मूल्यांकन विवरण				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgButton2				0	hr	Vrijeme ispitivanja				2002-02-02 02:02:02
-wizards	source\template\template.src	0	string	AgendaDlgButton2				0	hu	Redogörande protokoll				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	AgendaDlgButton2				0	hu	Kiértékelő jegyzőkönyv				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgButton2				0	it	Protocollo dello svolgimento				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgButton2				0	ja	中間報告の議事録				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgButton2				0	ka	შეფასების წუთები				2002-02-02 02:02:02
@@ -224,7 +224,7 @@ wizards	source\template\template.src	0	string	AgendaDlgFrame				0	gu-IN	મિ�
 wizards	source\template\template.src	0	string	AgendaDlgFrame				0	he	סוג פרוטוקול				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgFrame				0	hi-IN	विवरण प्रकार				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgFrame				0	hr	Tipovi dnevnog reda				2002-02-02 02:02:02
-wizards	source\template\template.src	0	string	AgendaDlgFrame				0	hu	Protokolltyp				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	AgendaDlgFrame				0	hu	Jegyzőkönyv típusa				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgFrame				0	it	Tipo di protocollo				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgFrame				0	ja	議事録のタイプ				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgFrame				0	ka	წუთების ტიპი				2002-02-02 02:02:02
@@ -303,7 +303,7 @@ wizards	source\template\template.src	0	string	AgendaDlgName				0	gu-IN	મિન
 wizards	source\template\template.src	0	string	AgendaDlgName				0	he	תבנית פרוטוקול				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgName				0	hi-IN	मिनट नमूना				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgName				0	hr	Predložak za dnevni red				2002-02-02 02:02:02
-wizards	source\template\template.src	0	string	AgendaDlgName				0	hu	Protokollmall				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	AgendaDlgName				0	hu	Jegyzőkönyvsablon				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgName				0	it	Modello di protocollo				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgName				0	ja	議事録のテンプレート				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgName				0	ka	წუთების შაბლონი				2002-02-02 02:02:02
@@ -383,7 +383,7 @@ wizards	source\template\template.src	0	string	AgendaDlgNoCancel				0	gu-IN	વ�
 wizards	source\template\template.src	0	string	AgendaDlgNoCancel				0	he	יש לאשר אפשרות.‏				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgNoCancel				0	hi-IN	विकल्प को संपुष्ट करना ज़रूरी है .				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgNoCancel				0	hr	Opcija mora biti potvrđena.				2002-02-02 02:02:02
-wizards	source\template\template.src	0	string	AgendaDlgNoCancel				0	hu	Ett alternativ måste bekräftas.				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	AgendaDlgNoCancel				0	hu	Az egyik beállítást jóvá kell hagynia.				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgNoCancel				0	it	È necessario confermare una opzione.				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgNoCancel				0	ja	オプションの1つは選択してください。				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	AgendaDlgNoCancel				0	ka	პარამეტრი უნდა იყოს დადასტურებული.				2002-02-02 02:02:02
@@ -464,7 +464,7 @@ wizards	source\template\template.src	0	string	CorrespondenceDialog				0	gu-IN	�
 wizards	source\template\template.src	0	string	CorrespondenceDialog				0	he	נמען				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceDialog				0	hi-IN	प्राप्तकर्ता				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceDialog				0	hr	Naslovljeni				2002-02-02 02:02:02
-wizards	source\template\template.src	0	string	CorrespondenceDialog				0	hu	Mottagare				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceDialog				0	hu	Címzett				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceDialog				0	it	Destinatario				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceDialog				0	ja	宛先				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceDialog				0	ka	ადრესატი				2002-02-02 02:02:02
@@ -546,7 +546,7 @@ wizards	source\template\template.src	0	string	CorrespondenceDialog+1				0	gu-IN	
 wizards	source\template\template.src	0	string	CorrespondenceDialog+1				0	he	נמען אחד				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceDialog+1				0	hi-IN	एक प्राप्तकर्ता				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceDialog+1				0	hr	Jedan primatelj				2002-02-02 02:02:02
-wizards	source\template\template.src	0	string	CorrespondenceDialog+1				0	hu	En mottagare				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceDialog+1				0	hu	Egy címzett				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceDialog+1				0	it	Un destinatario				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceDialog+1				0	ja	１通				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceDialog+1				0	ka	ერთი მიმღები				2002-02-02 02:02:02
@@ -627,7 +627,7 @@ wizards	source\template\template.src	0	string	CorrespondenceDialog+2				0	gu-IN	
 wizards	source\template\template.src	0	string	CorrespondenceDialog+2				0	he	מספר נמענים (מסד נתוני כתובות)‏				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceDialog+2				0	hi-IN	अनेक प्राप्तकर्ता (पता डाटाबेस)				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceDialog+2				0	hr	Nekoliko primatelja (baza podataka adresa)				2002-02-02 02:02:02
-wizards	source\template\template.src	0	string	CorrespondenceDialog+2				0	hu	Flera mottagare (adressdatabas)				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceDialog+2				0	hu	Több címzett (címlista-adatbázis)				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceDialog+2				0	it	Più destinatari (database Rubrica)				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceDialog+2				0	ja	複数(アドレス帳データベース)				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceDialog+2				0	ka	რამდენიმე მიმღები (მისამართთა მონაცემთა ბაზა)				2002-02-02 02:02:02
@@ -708,7 +708,7 @@ wizards	source\template\template.src	0	string	CorrespondenceDialog+3				0	gu-IN	
 wizards	source\template\template.src	0	string	CorrespondenceDialog+3				0	he	השימוש בתבנית זו				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceDialog+3				0	hi-IN	इस नमूने का उपयोग				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceDialog+3				0	hr	Korištenje ovog predložaka				2002-02-02 02:02:02
-wizards	source\template\template.src	0	string	CorrespondenceDialog+3				0	hu	Användning av den här mallen				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceDialog+3				0	hu	Sablon használata				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceDialog+3				0	it	Uso del modello				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceDialog+3				0	ja	テンプレートを使用				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceDialog+3				0	ka	ამ შაბლონის გამოყენება				2002-02-02 02:02:02
@@ -789,7 +789,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields				0	gu-IN	�
 wizards	source\template\template.src	0	string	CorrespondenceFields				0	he	יש ללחוץ על מחזיק המקום ולכתוב עליו				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields				0	hi-IN	स्थानधारक क्लिक करें और ओवरराइट करें				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields				0	hr	Pritisni na mjesto za pisanje i prepiši				2002-02-02 02:02:02
-wizards	source\template\template.src	0	string	CorrespondenceFields				0	hu	Klicka på platshållaren och skriv över				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields				0	hu	Kattintson a helykitöltőre, és írja felül				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields				0	it	Cliccate lo spazio e scrivete				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields				0	ja	プレースフォルダをクリックして上書きする				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields				0	ka	დააწკაპუნეთ ველზე და გადაწერაზე				2002-02-02 02:02:02
@@ -869,7 +869,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+1				0	gu-IN	
 wizards	source\template\template.src	0	string	CorrespondenceFields+1				0	he	חברה				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+1				0	hi-IN	कंपनी				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+1				0	hr	Tvrtka				2002-02-02 02:02:02
-wizards	source\template\template.src	0	string	CorrespondenceFields+1				0	hu	Företag				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+1				0	hu	Szervezet				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+1				0	it	Azienda				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+1				0	ja	会社名				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+1				0	ka	კომპანია				2002-02-02 02:02:02
@@ -951,7 +951,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+10				0	gu-IN
 wizards	source\template\template.src	0	string	CorrespondenceFields+10				0	he	עמדה				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+10				0	hi-IN	स्थान				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+10				0	hr	Položaj				2002-02-02 02:02:02
-wizards	source\template\template.src	0	string	CorrespondenceFields+10				0	hu	Befattning				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+10				0	hu	Pozíció				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+10				0	it	Posizione				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+10				0	ja	職務				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+10				0	ka	პოზიცია				2002-02-02 02:02:02
@@ -1033,7 +1033,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+11				0	gu-IN
 wizards	source\template\template.src	0	string	CorrespondenceFields+11				0	he	צורת פנייה				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+11				0	hi-IN	पते का फॉर्म				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+11				0	hr	Forma adrese				2002-02-02 02:02:02
-wizards	source\template\template.src	0	string	CorrespondenceFields+11				0	hu	Tilltal				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+11				0	hu	Cím formátuma				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+11				0	it	Formula di apertura				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+11				0	ja	敬称				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+11				0	ka	მისამართის ფორმა				2002-02-02 02:02:02
@@ -1114,7 +1114,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+12				0	gu-IN
 wizards	source\template\template.src	0	string	CorrespondenceFields+12				0	he	ראשי תיבות				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+12				0	hi-IN	आरंभिक				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+12				0	hr	Inicijali				2002-02-02 02:02:02
-wizards	source\template\template.src	0	string	CorrespondenceFields+12				0	hu	Initialer				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+12				0	hu	Monogram				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+12				0	it	Iniziali				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+12				0	ja	イニシャル				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+12				0	ka	ინიციალები				2002-02-02 02:02:02
@@ -1194,7 +1194,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+13				0	gu-IN
 wizards	source\template\template.src	0	string	CorrespondenceFields+13				0	he	פתיח				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+13				0	hi-IN	नमस्कार				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+13				0	hr	Pozdrav				2002-02-02 02:02:02
-wizards	source\template\template.src	0	string	CorrespondenceFields+13				0	hu	Hälsningsfras				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+13				0	hu	Megszólítás				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+13				0	it	Inizio lettera				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+13				0	ja	挨拶文				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+13				0	ka	მისალმება				2002-02-02 02:02:02
@@ -1276,7 +1276,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+14				0	gu-IN
 wizards	source\template\template.src	0	string	CorrespondenceFields+14				0	he	טלפון בבית				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+14				0	hi-IN	फोन आवास				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+14				0	hr	Telefon (kućni)				2002-02-02 02:02:02
-wizards	source\template\template.src	0	string	CorrespondenceFields+14				0	hu	Tfn privat				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+14				0	hu	Otthoni telefonszám				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+14				0	it	Tel. privato				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+14				0	ja	自宅電話				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+14				0	ka	სახლის ტელეფონი				2002-02-02 02:02:02
@@ -1357,7 +1357,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+15				0	gu-IN
 wizards	source\template\template.src	0	string	CorrespondenceFields+15				0	he	טלפון בעבודה				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+15				0	hi-IN	फोन कार्यालय				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+15				0	hr	Telefon na poslu				2002-02-02 02:02:02
-wizards	source\template\template.src	0	string	CorrespondenceFields+15				0	hu	Tfn arbete				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+15				0	hu	Munkahelyi telefonszám				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+15				0	it	Tel. lavoro				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+15				0	ja	会社電話				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+15				0	ka	სამსახურის ტელეფონი				2002-02-02 02:02:02
@@ -1520,7 +1520,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+17				0	gu-IN
 wizards	source\template\template.src	0	string	CorrespondenceFields+17				0	he	דוא‏"ל				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+17				0	hi-IN	ई-मेल				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+17				0	hr	E-pošta				2002-02-02 02:02:02
-wizards	source\template\template.src	0	string	CorrespondenceFields+17				0	hu	E-post				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+17				0	hu	E-mail				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+17				0	it	E-Mail				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+17				0	ja	E-mail				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+17				0	ka	ელფოსტა				2002-02-02 02:02:02
@@ -1683,7 +1683,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+19				0	gu-IN
 wizards	source\template\template.src	0	string	CorrespondenceFields+19				0	he	הערות				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+19				0	hi-IN	टिप्पणी				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+19				0	hr	Zabilješke				2002-02-02 02:02:02
-wizards	source\template\template.src	0	string	CorrespondenceFields+19				0	hu	Anteckning				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+19				0	hu	Jegyzetek				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+19				0	it	Note				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+19				0	ja	メモ				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+19				0	ka	ჩანაწერები				2002-02-02 02:02:02
@@ -1765,7 +1765,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+2				0	gu-IN	
 wizards	source\template\template.src	0	string	CorrespondenceFields+2				0	he	מחלקה				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+2				0	hi-IN	विभाग				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+2				0	hr	Odjel				2002-02-02 02:02:02
-wizards	source\template\template.src	0	string	CorrespondenceFields+2				0	hu	Avdelning				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+2				0	hu	Részleg				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+2				0	it	Reparto				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+2				0	ja	部署				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+2				0	ka	დეპარტამენტი				2002-02-02 02:02:02
@@ -1847,7 +1847,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+20				0	gu-IN
 wizards	source\template\template.src	0	string	CorrespondenceFields+20				0	he	שדה חלופי 1‏				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+20				0	hi-IN	वैकल्पिक क्षेत्र 1				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+20				0	hr	Alt. polje 1				2002-02-02 02:02:02
-wizards	source\template\template.src	0	string	CorrespondenceFields+20				0	hu	Alt.fält 1				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+20				0	hu	1. alt. mező				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+20				0	it	Campo 1				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+20				0	ja	予備フィールド 1				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+20				0	ka	ალტ. ველი 1				2002-02-02 02:02:02
@@ -1927,7 +1927,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+21				0	gu-IN
 wizards	source\template\template.src	0	string	CorrespondenceFields+21				0	he	שדה חלופי 2‏				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+21				0	hi-IN	वैकल्पिक क्षेत्र 2				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+21				0	hr	Alt. polje 2				2002-02-02 02:02:02
-wizards	source\template\template.src	0	string	CorrespondenceFields+21				0	hu	Alt.fält 2				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+21				0	hu	2. alt. mező				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+21				0	it	Campo 2				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+21				0	ja	予備フィールド 2				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+21				0	ka	ალტ. ველი 2				2002-02-02 02:02:02
@@ -2007,7 +2007,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+22				0	gu-IN
 wizards	source\template\template.src	0	string	CorrespondenceFields+22				0	he	שדה חלופי 3‏				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+22				0	hi-IN	वैकल्पिक क्षेत्र 3				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+22				0	hr	Alt. polje 3				2002-02-02 02:02:02
-wizards	source\template\template.src	0	string	CorrespondenceFields+22				0	hu	Alt.fält 3				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+22				0	hu	3. alt. mező				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+22				0	it	Campo 3				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+22				0	ja	予備フィールド 3				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+22				0	ka	ალტ. ველი 3				2002-02-02 02:02:02
@@ -2087,7 +2087,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+23				0	gu-IN
 wizards	source\template\template.src	0	string	CorrespondenceFields+23				0	he	שדה חלופי 4‏				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+23				0	hi-IN	वैकल्पिक क्षेत्र 4				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+23				0	hr	Alt. polje 4				2002-02-02 02:02:02
-wizards	source\template\template.src	0	string	CorrespondenceFields+23				0	hu	Alt.fält 4				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+23				0	hu	4. alt. mező				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+23				0	it	Campo 4				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+23				0	ja	予備フィールド 4				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+23				0	ka	ალტ. ველი 4				2002-02-02 02:02:02
@@ -2167,7 +2167,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+24				0	gu-IN
 wizards	source\template\template.src	0	string	CorrespondenceFields+24				0	he	זהות				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+24				0	hi-IN	ID				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+24				0	hr	Identifikacija				2002-02-02 02:02:02
-wizards	source\template\template.src	0	string	CorrespondenceFields+24				0	hu	ID				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+24				0	hu	Azonosító				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+24				0	it	ID				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+24				0	ja	ID				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+24				0	ka	აიდი				2002-02-02 02:02:02
@@ -2249,7 +2249,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+25				0	gu-IN
 wizards	source\template\template.src	0	string	CorrespondenceFields+25				0	he	מחוז				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+25				0	hi-IN	राज्य				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+25				0	hr	Država				2002-02-02 02:02:02
-wizards	source\template\template.src	0	string	CorrespondenceFields+25				0	hu	Delstat				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+25				0	hu	Állam				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+25				0	it	Regione				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+25				0	ja	州名				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+25				0	ka	მდგომარეობა				2002-02-02 02:02:02
@@ -2330,7 +2330,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+26				0	gu-IN
 wizards	source\template\template.src	0	string	CorrespondenceFields+26				0	he	טלפון במשרד				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+26				0	hi-IN	फोन कार्यालय				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+26				0	hr	Uredski telefon				2002-02-02 02:02:02
-wizards	source\template\template.src	0	string	CorrespondenceFields+26				0	hu	Tfn kontor				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+26				0	hu	Munkahelyi telefon				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+26				0	it	Tel. ufficio				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+26				0	ja	オフィス電話				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+26				0	ka	ოფისის ტელეფონი				2002-02-02 02:02:02
@@ -2411,7 +2411,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+27				0	gu-IN
 wizards	source\template\template.src	0	string	CorrespondenceFields+27				0	he	איתורית				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+27				0	hi-IN	पेजर				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+27				0	hr	Dojavljivač				2002-02-02 02:02:02
-wizards	source\template\template.src	0	string	CorrespondenceFields+27				0	hu	Personsökare				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+27				0	hu	Személyhívó				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+27				0	it	Teledrin				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+27				0	ja	ポケットベル				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+27				0	ka	პეიჯერი				2002-02-02 02:02:02
@@ -2492,7 +2492,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+28				0	gu-IN
 wizards	source\template\template.src	0	string	CorrespondenceFields+28				0	he	טלפון נייד				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+28				0	hi-IN	मोबाइल फोन				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+28				0	hr	Mobilni telefon				2002-02-02 02:02:02
-wizards	source\template\template.src	0	string	CorrespondenceFields+28				0	hu	Mobiltfn				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+28				0	hu	Mobiltelefon				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+28				0	it	Cellulare				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+28				0	ja	携帯電話				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+28				0	ka	მობილური ტელეფონი				2002-02-02 02:02:02
@@ -2574,7 +2574,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+29				0	gu-IN
 wizards	source\template\template.src	0	string	CorrespondenceFields+29				0	he	טלפון אחר				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+29				0	hi-IN	अन्य फोन				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+29				0	hr	Drugi telefon				2002-02-02 02:02:02
-wizards	source\template\template.src	0	string	CorrespondenceFields+29				0	hu	Tfn annan				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+29				0	hu	Egyéb telefonszám				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+29				0	it	Altro telefono				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+29				0	ja	その他の電話				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+29				0	ka	სხვა ტელეფონი				2002-02-02 02:02:02
@@ -2656,7 +2656,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+3				0	gu-IN	
 wizards	source\template\template.src	0	string	CorrespondenceFields+3				0	he	שם פרטי				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+3				0	hi-IN	पहला नाम				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+3				0	hr	Ime				2002-02-02 02:02:02
-wizards	source\template\template.src	0	string	CorrespondenceFields+3				0	hu	Förnamn				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+3				0	hu	Utónév				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+3				0	it	Nome				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+3				0	ja	名				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+3				0	ka	სახელი				2002-02-02 02:02:02
@@ -2737,7 +2737,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+30				0	gu-IN
 wizards	source\template\template.src	0	string	CorrespondenceFields+30				0	he	‏‪URL‬‏ של לוח שנה				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+30				0	hi-IN	कैलेन्डर URL				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+30				0	hr	URL kalendara				2002-02-02 02:02:02
-wizards	source\template\template.src	0	string	CorrespondenceFields+30				0	hu	Kalender-URL				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+30				0	hu	Naptár URL				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+30				0	it	Calendario URL				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+30				0	ja	予定表 URL				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+30				0	ka	კალენდარის URL				2002-02-02 02:02:02
@@ -2819,7 +2819,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+31				0	gu-IN
 wizards	source\template\template.src	0	string	CorrespondenceFields+31				0	he	להזמין				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+31				0	hi-IN	आमन्त्रण				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+31				0	hr	Pozovi				2002-02-02 02:02:02
-wizards	source\template\template.src	0	string	CorrespondenceFields+31				0	hu	Bjud in				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+31				0	hu	Meghívás				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+31				0	it	Invito				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+31				0	ja	出席依頼				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+31				0	ka	მოწვევა				2002-02-02 02:02:02
@@ -2901,7 +2901,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+4				0	gu-IN	
 wizards	source\template\template.src	0	string	CorrespondenceFields+4				0	he	שם משפחה				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+4				0	hi-IN	अंतिम नाम				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+4				0	hr	Prezime				2002-02-02 02:02:02
-wizards	source\template\template.src	0	string	CorrespondenceFields+4				0	hu	Efternamn				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+4				0	hu	Vezetéknév				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+4				0	it	Cognome				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+4				0	ja	姓				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+4				0	ka	გვარი				2002-02-02 02:02:02
@@ -2982,7 +2982,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+5				0	gu-IN	
 wizards	source\template\template.src	0	string	CorrespondenceFields+5				0	he	רחוב				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+5				0	hi-IN	सड़क				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+5				0	hr	Ulica				2002-02-02 02:02:02
-wizards	source\template\template.src	0	string	CorrespondenceFields+5				0	hu	Gatuadress				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+5				0	hu	Utca				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+5				0	it	Via				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+5				0	ja	市町村名番地				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+5				0	ka	ქუჩა				2002-02-02 02:02:02
@@ -3064,7 +3064,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+6				0	gu-IN	
 wizards	source\template\template.src	0	string	CorrespondenceFields+6				0	he	מדינה				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+6				0	hi-IN	देश				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+6				0	hr	Zemlja				2002-02-02 02:02:02
-wizards	source\template\template.src	0	string	CorrespondenceFields+6				0	hu	Land				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+6				0	hu	Ország				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+6				0	it	Paese				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+6				0	ja	国名				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+6				0	ka	ქვეყანა				2002-02-02 02:02:02
@@ -3146,7 +3146,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+7				0	gu-IN	
 wizards	source\template\template.src	0	string	CorrespondenceFields+7				0	he	מיקוד				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+7				0	hi-IN	ZIP/डाक कोड				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+7				0	hr	Poštanski broj				2002-02-02 02:02:02
-wizards	source\template\template.src	0	string	CorrespondenceFields+7				0	hu	Postnr				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+7				0	hu	Irányítószám				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+7				0	it	C.A.P.				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+7				0	ja	郵便番号				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+7				0	ka	ZIP/საფოსტო კოდი				2002-02-02 02:02:02
@@ -3226,7 +3226,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+8				0	gu-IN	
 wizards	source\template\template.src	0	string	CorrespondenceFields+8				0	he	עיר				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+8				0	hi-IN	नगर				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+8				0	hr	Grad				2002-02-02 02:02:02
-wizards	source\template\template.src	0	string	CorrespondenceFields+8				0	hu	Ort				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+8				0	hu	Város				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+8				0	it	Località				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+8				0	ja	都道府県名				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+8				0	ka	ქალაქი				2002-02-02 02:02:02
@@ -3308,7 +3308,7 @@ wizards	source\template\template.src	0	string	CorrespondenceFields+9				0	gu-IN	
 wizards	source\template\template.src	0	string	CorrespondenceFields+9				0	he	כותרת				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+9				0	hi-IN	शीर्षक				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+9				0	hr	Naslov				2002-02-02 02:02:02
-wizards	source\template\template.src	0	string	CorrespondenceFields+9				0	hu	Titel				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceFields+9				0	hu	Cím				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+9				0	it	Titolo				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+9				0	ja	肩書き				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceFields+9				0	ka	სათაური				2002-02-02 02:02:02
@@ -3390,7 +3390,7 @@ wizards	source\template\template.src	0	string	CorrespondenceMsgError				0	gu-IN	
 wizards	source\template\template.src	0	string	CorrespondenceMsgError				0	he	ארעה שגיאה!‏				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceMsgError				0	hi-IN	गलती हुई				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceMsgError				0	hr	Dogodila se greška.				2002-02-02 02:02:02
-wizards	source\template\template.src	0	string	CorrespondenceMsgError				0	hu	Det har uppstått ett fel				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceMsgError				0	hu	Hiba történt.				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceMsgError				0	it	Si è verificato un errore.				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceMsgError				0	ja	エラーが発生しました。				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceMsgError				0	ka	მოხდა შეცდომა.				2002-02-02 02:02:02
@@ -3471,7 +3471,7 @@ wizards	source\template\template.src	0	string	CorrespondenceNoTextmark				0	gu-I
 wizards	source\template\template.src	0	string	CorrespondenceNoTextmark				0	he	חסרה הסימניה  'נמען'‏				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceNoTextmark				0	hi-IN	पुस्तकचिह्न 'प्राप्तकर्ता' लुप्त है .				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceNoTextmark				0	hr	Nedostaje knjiška oznaka 'Primatelj'.				2002-02-02 02:02:02
-wizards	source\template\template.src	0	string	CorrespondenceNoTextmark				0	hu	Bokmärket 'Recipient' saknas.				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceNoTextmark				0	hu	A 'Címzett' könyvjelző hiányzik.				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceNoTextmark				0	it	Manca il segnalibro 'Recipient'.				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceNoTextmark				0	ja	テキストマーク 'Recipient' がありません。				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceNoTextmark				0	ka	არ არის სანიშნე 'მიმღები'.				2002-02-02 02:02:02
@@ -3552,7 +3552,7 @@ wizards	source\template\template.src	0	string	CorrespondenceNoTextmark+1				0	gu
 wizards	source\template\template.src	0	string	CorrespondenceNoTextmark+1				0	he	אין אפשרות לכלול שדות ממכתבי תבנית				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceNoTextmark+1				0	hi-IN	फॉर्म पत्र क्षेत्रों को सम्मिलित नहीं कर सकते है .				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceNoTextmark+1				0	hr	Slova polja obrasca ne mogu biti uključena.				2002-02-02 02:02:02
-wizards	source\template\template.src	0	string	CorrespondenceNoTextmark+1				0	hu	Omöjligt att infoga fält för standardbrev.				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	CorrespondenceNoTextmark+1				0	hu	A körlevélmezőket nem lehet befoglalni.				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceNoTextmark+1				0	it	Impossibile inserire i campi della stampa in serie.				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceNoTextmark+1				0	ja	差し込み印刷のフィールドを挿入できません。				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	CorrespondenceNoTextmark+1				0	ka	შეუძლებელია შეიცავდეს ფორმის სიმბოლოების ველებს.				2002-02-02 02:02:02
@@ -3632,7 +3632,7 @@ wizards	source\template\template.src	0	string	Newsletter				0	gu-IN	સામા
 wizards	source\template\template.src	0	string	Newsletter				0	he	פריסה כללית				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter				0	hi-IN	सामान्य लेआउट				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter				0	hr	Općeniti izgled				2002-02-02 02:02:02
-wizards	source\template\template.src	0	string	Newsletter				0	hu	Allmän layout				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	Newsletter				0	hu	Általános elrendezés				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter				0	it	Layout generale				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter				0	ja	全般レイアウト				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter				0	ka	მთავარი განლაგება				2002-02-02 02:02:02
@@ -3714,7 +3714,7 @@ wizards	source\template\template.src	0	string	Newsletter + 1				0	gu-IN	મૂ�
 wizards	source\template\template.src	0	string	Newsletter + 1				0	he	פריסה ברירת מחדל				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 1				0	hi-IN	मूलभूत लेआउट				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 1				0	hr	Uobičajeni izgled				2002-02-02 02:02:02
-wizards	source\template\template.src	0	string	Newsletter + 1				0	hu	Standardlayout				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	Newsletter + 1				0	hu	Alapértelmezett kiosztás				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 1				0	it	Layout standard				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 1				0	ja	標準レイアウト				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 1				0	ka	ნაგულისხმევი განლაგება				2002-02-02 02:02:02
@@ -3795,7 +3795,7 @@ wizards	source\template\template.src	0	string	Newsletter + 10				0	gu-IN	બં�
 wizards	source\template\template.src	0	string	Newsletter + 10				0	he	עיצוב				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 10				0	hi-IN	प्रारूप				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 10				0	hr	Oblik				2002-02-02 02:02:02
-wizards	source\template\template.src	0	string	Newsletter + 10				0	hu	Format				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	Newsletter + 10				0	hu	Formátum				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 10				0	it	Formato				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 10				0	ja	書式				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 10				0	ka	ფორმატი				2002-02-02 02:02:02
@@ -3877,7 +3877,7 @@ wizards	source\template\template.src	0	string	Newsletter + 11				0	gu-IN	એક 
 wizards	source\template\template.src	0	string	Newsletter + 11				0	he	חד צדדי				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 11				0	hi-IN	एकल-पक्षीय				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 11				0	hr	Jednostrano				2002-02-02 02:02:02
-wizards	source\template\template.src	0	string	Newsletter + 11				0	hu	Enkelsidig				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	Newsletter + 11				0	hu	Egyoldalas				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 11				0	it	Una pagina				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 11				0	ja	1面				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 11				0	ka	ერთმხრიანი				2002-02-02 02:02:02
@@ -3958,7 +3958,7 @@ wizards	source\template\template.src	0	string	Newsletter + 12				0	gu-IN	બં�
 wizards	source\template\template.src	0	string	Newsletter + 12				0	he	דו צדדי				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 12				0	hi-IN	द्विगुणित-भाग				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 12				0	hr	Dvostrano				2002-02-02 02:02:02
-wizards	source\template\template.src	0	string	Newsletter + 12				0	hu	Dubbelsidig				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	Newsletter + 12				0	hu	Kétoldalas				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 12				0	it	Due pagine				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 12				0	ja	2面				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 12				0	ka	ორმხრიანი				2002-02-02 02:02:02
@@ -4039,7 +4039,7 @@ wizards	source\template\template.src	0	string	Newsletter + 2				0	gu-IN	સ્�
 wizards	source\template\template.src	0	string	Newsletter + 2				0	he	פריסה לחוברת הנצחה				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 2				0	hi-IN	स्मारिका प्रकाशन लेआउट 				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 2				0	hr	Izgled komemorativne publikacije				2002-02-02 02:02:02
-wizards	source\template\template.src	0	string	Newsletter + 2				0	hu	Festhäfte				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	Newsletter + 2				0	hu	Megemlékezőkiadvány-elrendezés				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 2				0	it	Layout per una festa				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 2				0	ja	記念刊行物レイアウト				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 2				0	ka	სამახსოვრო გამოცემის განლაგება				2002-02-02 02:02:02
@@ -4118,7 +4118,7 @@ wizards	source\template\template.src	0	string	Newsletter + 3				0	gu-IN	ચો�
 wizards	source\template\template.src	0	string	Newsletter + 3				0	he	פריסה לחוברת מסחרית				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 3				0	hi-IN	ब्रोशर लेआउट				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 3				0	hr	Izgled brošure				2002-02-02 02:02:02
-wizards	source\template\template.src	0	string	Newsletter + 3				0	hu	Broschyrlayout				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	Newsletter + 3				0	hu	Brosúraelrendezés				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 3				0	it	Layout depliant				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 3				0	ja	チラシ広告レイアウト				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	Newsletter + 3				0	ka	Brochure განლაგება				2002-02-02 02:02:02
@@ -4197,7 +4197,7 @@ wizards	source\template\template.src	0	string	SAMPLES				0	gu-IN	નમૂના
 wizards	source\template\template.src	0	string	SAMPLES				0	he	על מנת להבין את מלוא התפקודים של דוגמה זו, יש ליצור מסמך חדש המבוסס על תבנית זו?‏				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	SAMPLES				0	hi-IN	इस नमूने के सम्पूर्ण कार्य का उपयोग करने के लिये, इस नमूने के आधार पर एक दस्तावेज को उत्पन्न कीजिए.				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	SAMPLES				0	hr	Kako biste koristili u potpunosti funkcionalnost ovog primjera, stvorite dokument koji je baziran na ovom predlošku.				2002-02-02 02:02:02
-wizards	source\template\template.src	0	string	SAMPLES				0	hu	Ett nytt dokument måste skapas med den här mallen som grund för att alla funktioner i detta exempel skall vara tillgängliga.				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	SAMPLES				0	hu	Ahhoz, hogy a minta összes funkcióját használhassa, hozzon létre egy erre a sablonra épülő dokumentumot.				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	SAMPLES				0	it	Per poter sfruttare al meglio la funzionalità di questo esempio è necessario creare un documento in base a questo modello.				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	SAMPLES				0	ja	このサンプルの機能をうまく応用するには、このテンプレートをベースとした新しいドキュメントを作成する必要があります。				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	SAMPLES				0	ka	ამ ნიმუშის სრული ფუნქციონალობების გამოსაყენებლად შექმენით ამ შაბლონზე დაფუძნებული დოკუმენტი.				2002-02-02 02:02:02
@@ -4277,7 +4277,7 @@ wizards	source\template\template.src	0	string	SAMPLES + 1				0	gu-IN	અભિ�
 wizards	source\template\template.src	0	string	SAMPLES + 1				0	he	הערות				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	SAMPLES + 1				0	hi-IN	विशेष टिप्पणी				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	SAMPLES + 1				0	hr	Primjedbe				2002-02-02 02:02:02
-wizards	source\template\template.src	0	string	SAMPLES + 1				0	hu	Hänvisning				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	SAMPLES + 1				0	hu	Megjegyzések				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	SAMPLES + 1				0	it	Nota				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	SAMPLES + 1				0	ja	指示				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	SAMPLES + 1				0	ka	შენიშვნები				2002-02-02 02:02:02
@@ -4358,7 +4358,7 @@ wizards	source\template\template.src	0	string	STYLES				0	gu-IN	થીમની 
 wizards	source\template\template.src	0	string	STYLES				0	he	בחירת נושא רקע				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	STYLES				0	hi-IN	प्रकरण चुनाव				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	STYLES				0	hr	Odabir teme				2002-02-02 02:02:02
-wizards	source\template\template.src	0	string	STYLES				0	hu	Temaurval				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	STYLES				0	hu	Témaválasztás				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	STYLES				0	it	Scelta argomento				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	STYLES				0	ja	テーマの選択				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	STYLES				0	ka	თემის არჩევა				2002-02-02 02:02:02
@@ -4439,7 +4439,7 @@ wizards	source\template\template.src	0	string	STYLES + 1				0	gu-IN	દસ્ત
 wizards	source\template\template.src	0	string	STYLES + 1				0	he	שגיאה בעת שמירת המסמך לפנקס הרשומים! לא תהיה אפשרות לבטל פעולות בהמשך.‏				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	STYLES + 1				0	hi-IN	दस्तावेज को क्लिपबोर्ड में सहेजने समय गलती ! निम्नलिखित कार्य वापस नहीं हो सकता है .				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	STYLES + 1				0	hr	Greška kod spremanja dokumenta u međuspremnik. Sljedeća akcija ne može se izvršiti.				2002-02-02 02:02:02
-wizards	source\template\template.src	0	string	STYLES + 1				0	hu	Fel uppstod när det aktuella dokumentet skulle sparas i urklippet! Följande åtgärd går inte att ångra.				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	STYLES + 1				0	hu	Hiba történt a dokumentum vágólapra helyezése közben. A következő művelet nem vonható vissza.				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	STYLES + 1				0	it	Errore mentre si cercava di salvare il documento negli appunti. L'azione seguente non può essere annullata.				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	STYLES + 1				0	ja	現在のドキュメントをクリップボードに保存するときにエラーが発生しました。次のアクションは元に戻せません。				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	STYLES + 1				0	ka	შეცდომა დოკუმენტის გაცვლითი ბუფერში შენახვისას! მიმდინარე მოქმედების დაბრუნება შეუძლებელია.				2002-02-02 02:02:02
@@ -4519,7 +4519,7 @@ wizards	source\template\template.src	0	string	STYLES + 2				0	gu-IN	રદ ક�
 wizards	source\template\template.src	0	string	STYLES + 2				0	he	ביטול				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	STYLES + 2				0	hi-IN	रद्द करें (~C)				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	STYLES + 2				0	hr	~Odustani				2002-02-02 02:02:02
-wizards	source\template\template.src	0	string	STYLES + 2				0	hu	~Avbryt				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	STYLES + 2				0	hu	~Mégsem				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	STYLES + 2				0	it	Annulla				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	STYLES + 2				0	ja	キャンセル(~C)				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	STYLES + 2				0	ka	~გაუქმება				2002-02-02 02:02:02
@@ -4682,7 +4682,7 @@ wizards	source\template\template.src	0	string	TextField				0	gu-IN	વપરા�
 wizards	source\template\template.src	0	string	TextField				0	he	שדה נתוני המשתמש/ת לא הוגדר!‏				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	TextField				0	hi-IN	उपयोक्ता का आंकड़ा क्षेत्र परिभाषित नहीं है!				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	TextField				0	hr	Polje s korisničkim podacima nije definirano!				2002-02-02 02:02:02
-wizards	source\template\template.src	0	string	TextField				0	hu	Användardatafält är inte definierat!				2002-02-02 02:02:02
+wizards	source\template\template.src	0	string	TextField				0	hu	A felhasználói adatmező nincs definiálva!				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	TextField				0	it	Il campo dati utente non è stato definito!				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	TextField				0	ja	ユーザーデータのフィールドが定義されていません。				2002-02-02 02:02:02
 wizards	source\template\template.src	0	string	TextField				0	ka	მომხმარებლის მონაცემთა ველი არაა განსაზღვრული!				2002-02-02 02:02:02
