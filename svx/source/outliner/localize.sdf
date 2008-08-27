@@ -17,7 +17,7 @@
 #
 # $RCSfile: localize.sdf,v $
 #
-# $Revision: 1.28 $
+# $Revision: 1.29 $
 #
 # This file is part of OpenOffice.org.
 #
@@ -66,7 +66,7 @@ svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_ATTR				0	gu-IN	લાક
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_ATTR				0	he	החלת מאפיינים				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_ATTR				0	hi-IN	गुण लागू करें				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_ATTR				0	hr	Primijeni svojstva				2002-02-02 02:02:02
-svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_ATTR				0	hu	Använd attribut				2002-02-02 02:02:02
+svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_ATTR				0	hu	Jellemzők alkalmazása				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_ATTR				0	it	Applica attributi				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_ATTR				0	ja	属性の適用				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_ATTR				0	ka	ატრიბუტების გამოყენება				2002-02-02 02:02:02
@@ -147,7 +147,7 @@ svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_COLLAPSE				0	gu-IN	અ�
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_COLLAPSE				0	he	כיווץ				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_COLLAPSE				0	hi-IN	दबायें				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_COLLAPSE				0	hr	Sažmi				2002-02-02 02:02:02
-svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_COLLAPSE				0	hu	Dölj understycken				2002-02-02 02:02:02
+svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_COLLAPSE				0	hu	Összecsukás				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_COLLAPSE				0	it	Nascondi i sottoparagrafi				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_COLLAPSE				0	ja	下位段落の非表示				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_COLLAPSE				0	ka	აკეცვა				2002-02-02 02:02:02
@@ -228,7 +228,7 @@ svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_DEPTH				0	gu-IN	હા�
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_DEPTH				0	he	כניסת פיסקה				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_DEPTH				0	hi-IN	हाशिया				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_DEPTH				0	hr	Uvučeno				2002-02-02 02:02:02
-svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_DEPTH				0	hu	Dra in				2002-02-02 02:02:02
+svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_DEPTH				0	hu	Behúzás				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_DEPTH				0	it	Rientra				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_DEPTH				0	ja	インデント				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_DEPTH				0	ka	დაშორება				2002-02-02 02:02:02
@@ -309,7 +309,7 @@ svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_EXPAND				0	gu-IN	ગૌ�
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_EXPAND				0	he	הצגת תת נקודות				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_EXPAND				0	hi-IN	उपबिन्दुओं को दिखायें				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_EXPAND				0	hr	Pokaži podtočke				2002-02-02 02:02:02
-svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_EXPAND				0	hu	Visa understycken				2002-02-02 02:02:02
+svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_EXPAND				0	hu	Alpontok megjelenítése				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_EXPAND				0	it	Mostra i sottoparagrafi				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_EXPAND				0	ja	下位段落を表示				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_EXPAND				0	ka	შუაწერტილის გამოჩენა				2002-02-02 02:02:02
@@ -389,7 +389,7 @@ svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_HEIGHT				0	gu-IN	ખસ�
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_HEIGHT				0	he	העברה				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_HEIGHT				0	hi-IN	खिसकायें				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_HEIGHT				0	hr	Pomakni				2002-02-02 02:02:02
-svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_HEIGHT				0	hu	Flytta				2002-02-02 02:02:02
+svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_HEIGHT				0	hu	Áthelyezés				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_HEIGHT				0	it	Sposta				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_HEIGHT				0	ja	移動				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_HEIGHT				0	ka	მოძრაობა				2002-02-02 02:02:02
@@ -470,7 +470,7 @@ svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_INSERT				0	gu-IN	ઉમ�
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_INSERT				0	he	הכנסה				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_INSERT				0	hi-IN	डालें				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_INSERT				0	hr	Ubaci				2002-02-02 02:02:02
-svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_INSERT				0	hu	Infoga				2002-02-02 02:02:02
+svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_INSERT				0	hu	Beszúrás				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_INSERT				0	it	Inserisci				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_INSERT				0	ja	挿入				2002-02-02 02:02:02
 svx	source\outliner\outliner.src	0	string	RID_OUTLUNDO_INSERT				0	ka	ჩამატება				2002-02-02 02:02:02
