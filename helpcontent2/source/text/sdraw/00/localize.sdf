@@ -15,9 +15,9 @@
 #
 # OpenOffice.org - a multi-platform office productivity suite
 #
-# $RCSfile: localize.sdf,v $
+# $RCSfile:localize.pl,v $
 #
-# $Revision: 1.25 $
+# $Revision: 1.17.4.1 $
 #
 # This file is part of OpenOffice.org.
 #
@@ -41,19 +41,20 @@ helpcontent2	source\text\sdraw\00\00000004.xhp	0	help	hd_id3156024	1			0	ar	\<va
 helpcontent2	source\text\sdraw\00\00000004.xhp	0	help	hd_id3156024	1			0	bg	\<variable id=\"wie\"\>За достъп до тази команда...\</variable\>				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\00\00000004.xhp	0	help	hd_id3156024	1			0	br	\<variable id=\"wie\"\>To access this command...\</variable\>				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\00\00000004.xhp	0	help	hd_id3156024	1			0	bs	\<variable id=\"wie\"\>To access this command...\</variable\>				2002-02-02 02:02:02
-helpcontent2	source\text\sdraw\00\00000004.xhp	0	help	hd_id3156024	1			0	ca	\<variable id=\"wie\"\>Per a accedir a aquesta ordre...\</variable\>				2002-02-02 02:02:02
+helpcontent2	source\text\sdraw\00\00000004.xhp	0	help	hd_id3156024	1			0	ca	\<variable id=\"wie\"\>Per accedir a aquesta ordre...\</variable\>				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\00\00000004.xhp	0	help	hd_id3156024	1			0	cs	\<variable id=\"wie\"\>Pro přístup k tomuto příkazu...\</variable\>				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\00\00000004.xhp	0	help	hd_id3156024	1			0	cy	\<variable id=\"wie\"\>To access this command...\</variable\>				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\00\00000004.xhp	0	help	hd_id3156024	1			0	da	\<variable id=\"wie\"\>For at tilgå denne kommando...\</variable\>				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\00\00000004.xhp	0	help	hd_id3156024	1			0	de	\<variable id=\"wie\"\>Zugriff auf diesen Befehl\</variable\>				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\00\00000004.xhp	0	help	hd_id3156024	1			0	dz	\<variable id=\"wie\"\>བརྡ་བཀོད་འདི་ འཛུལ་སྤྱོད་འབད་ནི་ལུ་...\</variable\>				2002-02-02 02:02:02
-helpcontent2	source\text\sdraw\00\00000004.xhp	0	help	hd_id3156024	1			0	el	\<variable id=\"wie\"\>Για πρόσβαση σε αυτή τη λειτουργία...\</variable\>				2002-02-02 02:02:02
+helpcontent2	source\text\sdraw\00\00000004.xhp	0	help	hd_id3156024	1			0	el	\<variable id=\"wie\"\>Για να έχετε πρόσβαση σε αυτήν τη λειτουργία...\</variable\>				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\00\00000004.xhp	0	help	hd_id3156024	1			0	en-GB	\<variable id=\"wie\"\>To access this command...\</variable\>				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\00\00000004.xhp	0	help	hd_id3156024	1			0	en-ZA	\<variable id=\"wie\"\>To access this command...\</variable\>				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\00\00000004.xhp	0	help	hd_id3156024	1			0	eo	\<variable id=\"wie\"\>Por atingi cxi tiun komandon...\</variable\>				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\00\00000004.xhp	0	help	hd_id3156024	1			0	es	\<variable id=\"wie\"\>Para acceder a esta orden\</variable\>				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\00\00000004.xhp	0	help	hd_id3156024	1			0	et	\<variable id=\"wie\"\>Selle käsu kasutamiseks...\</variable\>				2002-02-02 02:02:02
-helpcontent2	source\text\sdraw\00\00000004.xhp	0	help	hd_id3156024	1			0	fi	\<variable id=\"wie\"\>To access this command...\</variable\>				2002-02-02 02:02:02
+helpcontent2	source\text\sdraw\00\00000004.xhp	0	help	hd_id3156024	1			0	eu	\<variable id=\"wie\"\>Komando hau erabiltzeko...\</variable\>				2002-02-02 02:02:02
+helpcontent2	source\text\sdraw\00\00000004.xhp	0	help	hd_id3156024	1			0	fi	\<variable id=\"wie\"\>Tämän toiminnon käyttämiseksi...\</variable\>				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\00\00000004.xhp	0	help	hd_id3156024	1			0	fr	\<variable id=\"wie\"\>Pour accéder à cette fonction...\</variable\>				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\00\00000004.xhp	0	help	hd_id3156024	1			0	ga	\<variable id=\"wie\"\>To access this command...\</variable\>				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\00\00000004.xhp	0	help	hd_id3156024	1			0	gl	\<variable id=\"wie\"\>Para acceder a este comando...\</variable\>				2002-02-02 02:02:02
@@ -63,10 +64,11 @@ helpcontent2	source\text\sdraw\00\00000004.xhp	0	help	hd_id3156024	1			0	he	\<va
 helpcontent2	source\text\sdraw\00\00000004.xhp	0	help	hd_id3156024	1			0	hi-IN	\<variable id=\"wie\"\>इस कमांड पर पहुँचने के लिए...\</variable\>				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\00\00000004.xhp	0	help	hd_id3156024	1			0	hr	\<variable id=\"wie\"\>To access this command...\</variable\>				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\00\00000004.xhp	0	help	hd_id3156024	1			0	hu	\<variable id=\"wie\"\>Ennek a parancsnak az eléréséhez...\</variable\>				2002-02-02 02:02:02
+helpcontent2	source\text\sdraw\00\00000004.xhp	0	help	hd_id3156024	1			0	id	\<variable id=\"wie\"\>Untuk mengakses perintah ini...\</variable\>				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\00\00000004.xhp	0	help	hd_id3156024	1			0	it	\<variable id=\"wie\"\>Per accedere a questo comando\</variable\>				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\00\00000004.xhp	0	help	hd_id3156024	1			0	ja	\<variable id=\"wie\"\>この機能の見つけ方\</variable\>				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\00\00000004.xhp	0	help	hd_id3156024	1			0	ka	\<variable id=\"wie\"\>წვდომა ამ ბრძანებაზე...\</variable\>				2002-02-02 02:02:02
-helpcontent2	source\text\sdraw\00\00000004.xhp	0	help	hd_id3156024	1			0	km	\<variable id=\"wie\"\>​​ដើម្បី​ប្រើ​​បញ្ជា​នេះ...\</variable\>				2002-02-02 02:02:02
+helpcontent2	source\text\sdraw\00\00000004.xhp	0	help	hd_id3156024	1			0	km	\\<variable id=\\"wie\\"\\>​​ដើម្បី​ប្រើ​​បញ្ជា​នេះ...\\</variable\\>				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\00\00000004.xhp	0	help	hd_id3156024	1			0	ko	\<variable id=\"wie\"\>이 명령을 사용하려면\</variable\>				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\00\00000004.xhp	0	help	hd_id3156024	1			0	lt	\<variable id=\"wie\"\>To access this command...\</variable\>				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\00\00000004.xhp	0	help	hd_id3156024	1			0	mk	\<variable id=\"wie\"\>Да пристапиш на оваа команда...\</variable\>				2002-02-02 02:02:02
@@ -98,20 +100,21 @@ helpcontent2	source\text\sdraw\00\00000004.xhp	0	help	tit				0	ar	To access this
 helpcontent2	source\text\sdraw\00\00000004.xhp	0	help	tit				0	bg	За достъп до тази команда...				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\00\00000004.xhp	0	help	tit				0	br	To access this command...				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\00\00000004.xhp	0	help	tit				0	bs	To access this command...				2002-02-02 02:02:02
-helpcontent2	source\text\sdraw\00\00000004.xhp	0	help	tit				0	ca	Per a accedir a aquesta ordre...				2002-02-02 02:02:02
+helpcontent2	source\text\sdraw\00\00000004.xhp	0	help	tit				0	ca	Per accedir a aquesta ordre...				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\00\00000004.xhp	0	help	tit				0	cs	Pro přístup k tomuto příkazu...				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\00\00000004.xhp	0	help	tit				0	cy	To access this command...				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\00\00000004.xhp	0	help	tit				0	da	For at tilgå denne kommando...				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\00\00000004.xhp	0	help	tit				0	de	Zugriff auf diesen Befehl...				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\00\00000004.xhp	0	help	tit				0	dz	བརྡ་བཀོད་འདི་ འཛུལ་སྤྱོད་འབད་ནི་ལུ་་་་་་				2002-02-02 02:02:02
-helpcontent2	source\text\sdraw\00\00000004.xhp	0	help	tit				0	el	Για πρόσβαση σε αυτή τη λειτουργία...				2002-02-02 02:02:02
+helpcontent2	source\text\sdraw\00\00000004.xhp	0	help	tit				0	el	Για να έχετε πρόσβαση σε αυτήν τη λειτουργία...				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\00\00000004.xhp	0	help	tit				0	en-GB	To access this command...				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\00\00000004.xhp	0	help	tit				0	en-ZA	To access this command...				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\00\00000004.xhp	0	help	tit				0	eo	Por atingi cxi tiun komandon...				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\00\00000004.xhp	0	help	tit				0	es	Para acceder a esta orden...				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\00\00000004.xhp	0	help	tit				0	et	Selle käsu kasutamiseks...				2002-02-02 02:02:02
+helpcontent2	source\text\sdraw\00\00000004.xhp	0	help	tit				0	eu	Komando hau erabiltzeko...				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\00\00000004.xhp	0	help	tit				0	fa	برای دسترسی به این فرمان...				2002-02-02 02:02:02
-helpcontent2	source\text\sdraw\00\00000004.xhp	0	help	tit				0	fi	To access this command...				2002-02-02 02:02:02
+helpcontent2	source\text\sdraw\00\00000004.xhp	0	help	tit				0	fi	Tämän toiminnon käyttämiseksi...				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\00\00000004.xhp	0	help	tit				0	fr	Pour accéder à cette fonction...				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\00\00000004.xhp	0	help	tit				0	ga	To access this command...				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\00\00000004.xhp	0	help	tit				0	gl	Para acceder a este comando...				2002-02-02 02:02:02
@@ -121,6 +124,7 @@ helpcontent2	source\text\sdraw\00\00000004.xhp	0	help	tit				0	he	To access this
 helpcontent2	source\text\sdraw\00\00000004.xhp	0	help	tit				0	hi-IN	इस कमांड पर पहुँचने के लिए...				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\00\00000004.xhp	0	help	tit				0	hr	Za pristup ovoj naredbi...				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\00\00000004.xhp	0	help	tit				0	hu	Ennek a parancsnak az eléréséhez...				2002-02-02 02:02:02
+helpcontent2	source\text\sdraw\00\00000004.xhp	0	help	tit				0	id	Untuk mengakses perintah ini...				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\00\00000004.xhp	0	help	tit				0	it	Per accedere a questo comando...				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\00\00000004.xhp	0	help	tit				0	ja	この機能の見つけ方				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\00\00000004.xhp	0	help	tit				0	ka	წვდომა ამ ბრძანებაზე...				2002-02-02 02:02:02

@@ -15,9 +15,9 @@
 #
 # OpenOffice.org - a multi-platform office productivity suite
 #
-# $RCSfile: localize.sdf,v $
+# $RCSfile:localize.pl,v $
 #
-# $Revision: 1.29 $
+# $Revision: 1.17.4.1 $
 #
 # This file is part of OpenOffice.org.
 #
@@ -40,19 +40,20 @@
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	bm_id3154702				0	bg	\<bookmark_value\>клавишни комбинации; във формули\</bookmark_value\>				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	bm_id3154702				0	br	\<bookmark_value\>shortcut keys; in formulas\</bookmark_value\>				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	bm_id3154702				0	bs	\<bookmark_value\>shortcut keys; in formulas\</bookmark_value\>				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	bm_id3154702				0	ca	\<bookmark_value\>shortcut keys; in formulas\</bookmark_value\>				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	bm_id3154702				0	ca	\<bookmark_value\>tecles de drecera; a les fórmules\</bookmark_value\>				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	bm_id3154702				0	cs	\<bookmark_value\>klávesové zkratky; ve vzorcích\</bookmark_value\>				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	bm_id3154702				0	cy	\<bookmark_value\>shortcut keys; in formulas\</bookmark_value\>				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	bm_id3154702				0	da	\<bookmark_value\>genvejstaster; i formler\</bookmark_value\>				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	bm_id3154702				0	de	\<bookmark_value\>Tastenkombinationen; in Formeln\</bookmark_value\>				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	bm_id3154702				0	dz	\<bookmark_value\>མགྱོགས་ཐབས་ལྡེ་མིག་ཚུ་ མན་ངག་ཚུ་ནང་\</bookmark_value\>				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	bm_id3154702				0	el	\<bookmark_value\>shortcut keys; in formulas\</bookmark_value\>				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	bm_id3154702				0	el	\<bookmark_value\>πλήκτρα συντόμευσης, σε τύπους\</bookmark_value\>				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	bm_id3154702				0	en-GB	\<bookmark_value\>shortcut keys; in formulae\</bookmark_value\>				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	bm_id3154702				0	en-ZA	\<bookmark_value\>shortcut keys; in formulae\</bookmark_value\>				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	bm_id3154702				0	eo	\<bookmark_value\>shortcut keys; in formulas\</bookmark_value\>				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	bm_id3154702				0	es	\<bookmark_value\>combinaciones de teclas;en fórmulas\</bookmark_value\>				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	bm_id3154702				0	et	\<bookmark_value\>kiirklahvid;valemites\</bookmark_value\>				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	bm_id3154702				0	fi	\<bookmark_value\>shortcut keys; in formulas\</bookmark_value\>				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	bm_id3154702				0	eu	\<bookmark_value\>laster-teklak; formuletan\</bookmark_value\>				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	bm_id3154702				0	fi	\<bookmark_value\>pikanäppäimet; kaavoissa\</bookmark_value\>\<bookmark_value\>shortcut keys; in formulas\</bookmark_value\>				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	bm_id3154702				0	fr	\<bookmark_value\>Raccourcis clavier;dans les formules\</bookmark_value\>				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	bm_id3154702				0	ga	\<bookmark_value\>shortcut keys; in formulas\</bookmark_value\>				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	bm_id3154702				0	gl	\<bookmark_value\>teclas de atallo; en fórmulas\</bookmark_value\>				2002-02-02 02:02:02
@@ -62,10 +63,11 @@ helpcontent2	source\text\smath\04\01020000.xhp	0	help	bm_id3154702				0	he	\<boo
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	bm_id3154702				0	hi-IN	\<bookmark_value\>शॉर्टकट कुंजियाँ; सूत्रों में\</bookmark_value\>				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	bm_id3154702				0	hr	\<bookmark_value\>shortcut keys; in formulas\</bookmark_value\>				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	bm_id3154702				0	hu	\<bookmark_value\>gyorsbillentyűk; képletekben\</bookmark_value\>				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	bm_id3154702				0	id	\<bookmark_value\>tombol pintas; dalam rumus\</bookmark_value\>				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	bm_id3154702				0	it	\<bookmark_value\>Formula;scelte rapide\</bookmark_value\>				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	bm_id3154702				0	ja	\<bookmark_value\>ショートカットキー; 数式\</bookmark_value\>				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	bm_id3154702				0	ka	\<bookmark_value\>მალსახმობი ღილაკები; ფორმულებში\</bookmark_value\>				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	bm_id3154702				0	km	\<bookmark_value\>គ្រាប់​ចុច​ផ្លូវ​កាត់; ក្នុង​រូបមន្ត\</bookmark_value\>				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	bm_id3154702				0	km	\\<bookmark_value\\>គ្រាប់​ចុច​ផ្លូវ​កាត់; ក្នុង​រូបមន្ត\\</bookmark_value\\>				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	bm_id3154702				0	ko	\<bookmark_value\>단축키; 수식\</bookmark_value\>				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	bm_id3154702				0	lt	\<bookmark_value\>shortcut keys; in formulas\</bookmark_value\>				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	bm_id3154702				0	mk	\<bookmark_value\>копчиња за кратенки; во формули\</bookmark_value\>				2002-02-02 02:02:02
@@ -97,19 +99,20 @@ helpcontent2	source\text\smath\04\01020000.xhp	0	help	bm_id3154702				0	zh-TW	\<
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3083451	29			0	bg	Shift+Tab				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3083451	29			0	br	Shift+Tab				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3083451	29			0	bs	Shift+Tab				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3083451	29			0	ca	Shift+Tab				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3083451	29			0	ca	Maj+Tab				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3083451	29			0	cs	Shift+Tabulátor				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3083451	29			0	cy	Shift+Tab				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3083451	29			0	da	Skift+Tabulator				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3083451	29			0	de	(Umschalt)(Tab)				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3083451	29			0	dz	སོར་ལྡེ་+མཆོང་ལྡེ།				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3083451	29			0	el	Shift+Tab				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3083451	29			0	el	Συνδυασμός πλήκτρων Shift+Tab				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3083451	29			0	en-GB	Shift+Tab				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3083451	29			0	en-ZA	Shift+Tab				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3083451	29			0	eo	Majuskligo+Tabo				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3083451	29			0	es	(Mayús)(Tab)				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3083451	29			0	et	Shift+Tab				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3083451	29			0	fi	Shift+Tab				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3083451	29			0	eu	Maius+Tab				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3083451	29			0	fi	Vaihto+Sarkain				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3083451	29			0	fr	Maj+Tab				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3083451	29			0	ga	Shift+Tab				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3083451	29			0	gl	Maiús + Tab				2002-02-02 02:02:02
@@ -119,6 +122,7 @@ helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3083451	29			0	he	Shi
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3083451	29			0	hi-IN	शिफ़्ट+टैब				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3083451	29			0	hr	Shift+Tab				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3083451	29			0	hu	Shift+Tab				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3083451	29			0	id	Shift+Tab				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3083451	29			0	it	(Maiusc) (Tab)				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3083451	29			0	ja	（Shift）＋（Tab）				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3083451	29			0	ka	Shift+Tab				2002-02-02 02:02:02
@@ -166,6 +170,7 @@ helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3146324	11			0	en-ZA	
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3146324	11			0	eo	F3				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3146324	11			0	es	(F3)				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3146324	11			0	et	F3				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3146324	11			0	eu	F3				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3146324	11			0	fi	F3				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3146324	11			0	fr	F3				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3146324	11			0	ga	F3				2002-02-02 02:02:02
@@ -176,6 +181,7 @@ helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3146324	11			0	he	F3	
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3146324	11			0	hi-IN	F3				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3146324	11			0	hr	F3				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3146324	11			0	hu	F3				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3146324	11			0	id	F3				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3146324	11			0	it	(F3)				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3146324	11			0	ja	（F3）				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3146324	11			0	ka	F3				2002-02-02 02:02:02
@@ -185,6 +191,7 @@ helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3146324	11			0	lt	F3	
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3146324	11			0	mk	F3				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3146324	11			0	ne	F3				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3146324	11			0	nl	F3				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3146324	11			0	oc	F3				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3146324	11			0	pl	F3				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3146324	11			0	pt	F3				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3146324	11			0	pt-BR	F3				2002-02-02 02:02:02
@@ -211,19 +218,20 @@ helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3146324	11			0	zh-TW	
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3148870	3			0	bg	Клавишни комбинации за формули				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3148870	3			0	br	Shortcut Keys for Formula Functions				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3148870	3			0	bs	Shortcut Keys for Formula Functions				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3148870	3			0	ca	Dreceres de teclat per a funcions de fórmula				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3148870	3			0	ca	Tecles de drecera per a funcions de fórmula				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3148870	3			0	cs	Klávesové zkratky pro funkce vzorců				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3148870	3			0	cy	Shortcut Keys for Formula Functions				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3148870	3			0	da	Genvejstaster for formel-funktioner				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3148870	3			0	de	Tastenkombinationen für Funktionen bei Formeldokumenten				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3148870	3			0	dz	མན་ངག་ལས་འགན་གྱི་དོན་ལུ་མགྱོགས་ཐབས་ལྡེ་མིག་ཚུ།				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3148870	3			0	el	Shortcut Keys for Formula Functions				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3148870	3			0	el	Πλήκτρα συντόμευσης για συναρτήσεις τύπων				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3148870	3			0	en-GB	Shortcut Keys for Formula Functions				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3148870	3			0	en-ZA	Shortcut Keys for Formula Functions				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3148870	3			0	eo	Shortcut Keys for Formula Functions				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3148870	3			0	es	Combinaciones de teclas para las funciones en los documentos de fórmula				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3148870	3			0	et	Valemifunktsioonide kiirklahvid				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3148870	3			0	fi	Shortcut Keys for Formula Functions				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3148870	3			0	eu	Formula-funtzioetarako laster-teklak				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3148870	3			0	fi	Kaavatoimintojen pikanäppäimet				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3148870	3			0	fr	Raccourcis claviers pour les fonctions de formule				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3148870	3			0	ga	Shortcut Keys for Formula Functions				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3148870	3			0	gl	Teclas de atallo para funcións de fórmula				2002-02-02 02:02:02
@@ -233,6 +241,7 @@ helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3148870	3			0	he	Shor
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3148870	3			0	hi-IN	सूत्र फंक्शन के लिए शॉर्टकट कुंजियाँ				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3148870	3			0	hr	Shortcut Keys for Formula Functions				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3148870	3			0	hu	Gyorsbillentyűk a képletfunkciókhoz				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3148870	3			0	id	Tombol Shortcut untuk Fungsi Rumus				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3148870	3			0	it	Combinazioni di tasti per le funzioni all'interno di documenti formula				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3148870	3			0	ja	数式ドキュメントのためのショートカットキー				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3148870	3			0	ka	მალსახმობი ღილაკები ფორმულის ფუნქციებისთვის				2002-02-02 02:02:02
@@ -267,19 +276,20 @@ helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3148870	3			0	zh-TW	�
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3150396	9			0	bg	Shift+F4				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3150396	9			0	br	Shift+F4				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3150396	9			0	bs	Shift+F4				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3150396	9			0	ca	Shift+F4				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3150396	9			0	ca	Maj+F4				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3150396	9			0	cs	Shift+F4				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3150396	9			0	cy	Shift+F4				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3150396	9			0	da	Skift+F4				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3150396	9			0	de	(Umschalt)(F4)				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3150396	9			0	dz	སོར་ལྡེ་+F4				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3150396	9			0	el	Shift+F4				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3150396	9			0	el	Συνδυασμός πλήκτρων Shift+F4				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3150396	9			0	en-GB	Shift+F4				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3150396	9			0	en-ZA	Shift+F4				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3150396	9			0	eo	Shift+F4				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3150396	9			0	es	Mayús+F4				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3150396	9			0	et	Shift+F4				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3150396	9			0	fi	Shift+F4				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3150396	9			0	eu	Maius+F4				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3150396	9			0	fi	Vaihto+F4				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3150396	9			0	fr	Maj+F4				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3150396	9			0	ga	Shift+F4				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3150396	9			0	gl	Maiús+F4				2002-02-02 02:02:02
@@ -289,6 +299,7 @@ helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3150396	9			0	he	Shif
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3150396	9			0	hi-IN	शिफ़्ट+F4				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3150396	9			0	hr	Shift+F4				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3150396	9			0	hu	Shift+F4				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3150396	9			0	id	Shift+F4				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3150396	9			0	it	(Maiusc)(F4)				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3150396	9			0	ja	（Shift）＋（F4）				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3150396	9			0	ka	Shift+F4				2002-02-02 02:02:02
@@ -330,13 +341,14 @@ helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3150928	25			0	cy	Ent
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3150928	25			0	da	Enter-tast				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3150928	25			0	de	Eingabetaste				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3150928	25			0	dz	ཐོ་བཀོད་ལྡེ་མིག				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3150928	25			0	el	Enter key				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3150928	25			0	el	Πλήκτρο Enter				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3150928	25			0	en-GB	Enter key				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3150928	25			0	en-ZA	Enter key				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3150928	25			0	eo	Enter key				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3150928	25			0	es	Tecla Entrar				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3150928	25			0	et	Klahv Enter				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3150928	25			0	fi	Enter key				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3150928	25			0	eu	Sartu tekla				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3150928	25			0	fi	Enter				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3150928	25			0	fr	Touche Entrée				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3150928	25			0	ga	Enter key				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3150928	25			0	gl	Tecla Intro				2002-02-02 02:02:02
@@ -346,6 +358,7 @@ helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3150928	25			0	he	Ent
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3150928	25			0	hi-IN	प्रविष्ट कुंजी				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3150928	25			0	hr	Enter key				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3150928	25			0	hu	Enter billentyű				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3150928	25			0	id	Tekan tombol				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3150928	25			0	it	Tasto (Invio)				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3150928	25			0	ja	Enterキー				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3150928	25			0	ka	Enter კლავიში				2002-02-02 02:02:02
@@ -361,7 +374,7 @@ helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3150928	25			0	pt-BR	
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3150928	25			0	ru	Клавиша ВВОД				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3150928	25			0	rw	Enter key				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3150928	25			0	sh	Enter key				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3150928	25			0	sk	Kláves Enter				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3150928	25			0	sk	Klávesa Enter				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3150928	25			0	sl	Tipka Enter				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3150928	25			0	sr	Enter key				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3150928	25			0	sv	Retur				2002-02-02 02:02:02
@@ -386,22 +399,24 @@ helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3153732	21			0	cy	Nav
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3153732	21			0	da	Navigation i vinduet Udvalg				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3153732	21			0	de	Steuerung innerhalb des Auswahl-Fensters				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3153732	21			0	dz	སེལ་འཐུའི་སྒོ་སྒྲིག་འདི་ནང་ལུ་འགྲུལ་བསྐྱོད།				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3153732	21			0	el	Navigation in the Selection Window				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3153732	21			0	el	Περιήγηση στο παράθυρο επιλογής				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3153732	21			0	en-GB	Navigation in the Selection Window				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3153732	21			0	en-ZA	Navigation in the Selection Window				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3153732	21			0	eo	Navigation in the Selection Window				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3153732	21			0	es	Control en la ventana de selección				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3153732	21			0	et	Liikumine valikuaknas				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3153732	21			0	fi	Navigation in the Selection Window				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3153732	21			0	eu	Hautapena leihoko nabigazioa				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3153732	21			0	fi	Liikkuminen Valinta-ikkunassa				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3153732	21			0	fr	Navigation dans la fenêtre Sélection				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3153732	21			0	ga	Navigation in the Selection Window				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3153732	21			0	gl	Navegar na ventá Selección				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3153732	21			0	gl	Navegar na xanela Selección				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3153732	21			0	gu	Navigation in the Selection Window				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3153732	21			0	gu-IN	Navigation in the Selection Window				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3153732	21			0	he	Navigation in the Selection Window				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3153732	21			0	hi-IN	चयन विंडो में नेविगेशन				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3153732	21			0	hr	Navigation in the Selection Window				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3153732	21			0	hu	Navigálás a Képletelemek ablakban				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3153732	21			0	id	Navigasi dalam Jendela Pemilihan				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3153732	21			0	it	Spostamenti nella finestra di selezione				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3153732	21			0	ja	選択ウィンドウ内の操作				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3153732	21			0	ka	ნავიგაცია არჩევის ფანჯარაში				2002-02-02 02:02:02
@@ -430,7 +445,7 @@ helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3153732	21			0	th	Nav
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3153732	21			0	tr	Navigation in the Selection Window				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3153732	21			0	uk	Навігація у Вікні вибору				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3153732	21			0	ur-IN	Navigation in the Selection Window				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3153732	21			0	vi	Duyệt qua cửa sổ đã chọn				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3153732	21			0	vi	Duyệt cửa sổ đã chọn				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3153732	21			0	zh-CN	在“选择”窗口中浏览				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3153732	21			0	zh-TW	選取視窗之内的瀏覽				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3153808	7			0	bg	F4				2002-02-02 02:02:02
@@ -448,6 +463,7 @@ helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3153808	7			0	en-ZA	F
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3153808	7			0	eo	F4				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3153808	7			0	es	F4				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3153808	7			0	et	F4				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3153808	7			0	eu	F4				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3153808	7			0	fi	F4				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3153808	7			0	fr	F4				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3153808	7			0	ga	F4				2002-02-02 02:02:02
@@ -458,6 +474,7 @@ helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3153808	7			0	he	F4		
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3153808	7			0	hi-IN	F4				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3153808	7			0	hr	F4				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3153808	7			0	hu	F4				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3153808	7			0	id	F4				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3153808	7			0	it	(F4)				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3153808	7			0	ja	（F4）				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3153808	7			0	ka	F4				2002-02-02 02:02:02
@@ -467,6 +484,7 @@ helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3153808	7			0	lt	F4		
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3153808	7			0	mk	F4				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3153808	7			0	ne	F4				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3153808	7			0	nl	F4				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3153808	7			0	oc	F4				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3153808	7			0	pl	F4				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3153808	7			0	pt	F4				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3153808	7			0	pt-BR	F4				2002-02-02 02:02:02
@@ -505,6 +523,7 @@ helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3154554	17			0	en-ZA	
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3154554	17			0	eo	F9				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3154554	17			0	es	(F9)				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3154554	17			0	et	F9				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3154554	17			0	eu	F9				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3154554	17			0	fi	F9				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3154554	17			0	fr	F9				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3154554	17			0	ga	F9				2002-02-02 02:02:02
@@ -515,6 +534,7 @@ helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3154554	17			0	he	F9	
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3154554	17			0	hi-IN	F9				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3154554	17			0	hr	F9				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3154554	17			0	hu	F9				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3154554	17			0	id	F9				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3154554	17			0	it	(F9)				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3154554	17			0	ja	（F9）				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3154554	17			0	ka	F9				2002-02-02 02:02:02
@@ -524,6 +544,7 @@ helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3154554	17			0	lt	F9	
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3154554	17			0	mk	F9				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3154554	17			0	ne	F9				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3154554	17			0	nl	F9				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3154554	17			0	oc	F9				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3154554	17			0	pl	F9				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3154554	17			0	pt	F9				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3154554	17			0	pt-BR	F9				2002-02-02 02:02:02
@@ -550,19 +571,20 @@ helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3154554	17			0	zh-TW	
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3154702	1			0	bg	\<variable id=\"math_keys\"\>\<link href=\"text/smath/04/01020000.xhp\" name=\"Клавиши за работа с формули\"\>Клавиши за работа с формули\</link\>\</variable\>				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3154702	1			0	br	\<variable id=\"math_keys\"\>\<link href=\"text/smath/04/01020000.xhp\" name=\"Formula Shortcut Keys\"\>Formula Shortcut Keys\</link\>\</variable\>				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3154702	1			0	bs	\<variable id=\"math_keys\"\>\<link href=\"text/smath/04/01020000.xhp\" name=\"Formula Shortcut Keys\"\>Formula Shortcut Keys\</link\>\</variable\>				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3154702	1			0	ca	\<variable id=\"math_keys\"\>\<link href=\"text/smath/04/01020000.xhp\" name=\"Formula Shortcut Keys\"\>Dreceres de teclat de les fórmules\</link\>\</variable\>				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3154702	1			0	ca	\<variable id=\"math_keys\"\>\<link href=\"text/smath/04/01020000.xhp\" name=\"Tecles de drecera de les fórmules\"\>Tecles de drecera de les fórmules\</link\>\</variable\>				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3154702	1			0	cs	\<variable id=\"math_keys\"\>\<link href=\"text/smath/04/01020000.xhp\" name=\"Klávesové zkratky pro vzorce\"\>Klávesové zkratky pro vzorce\</link\>\</variable\>				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3154702	1			0	cy	\<variable id=\"math_keys\"\>\<link href=\"text/smath/04/01020000.xhp\" name=\"Formula Shortcut Keys\"\>Formula Shortcut Keys\</link\>\</variable\>				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3154702	1			0	da	\<variable id=\"math_keys\"\>\<link href=\"text/smath/04/01020000.xhp\" name=\"Genvejstaster for formler\"\>Genvejstaster for formler\</link\>\</variable\>				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3154702	1			0	de	\<variable id=\"math_keys\"\>\<link href=\"text/smath/04/01020000.xhp\" name=\"Tastenkombinationen für Formeln\"\>Tastenkombinationen für Formeln\</link\>\</variable\>				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3154702	1			0	dz	\<variable id=\"math_keys\"\>\<link href=\"text/smath/04/01020000.xhp\" name=\"Formula Shortcut Keys\"\>མན་ངག་མགྱོགས་ཐབས་ལྡེ་མིག་ཚུ་\</link\>\</variable\>				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3154702	1			0	el	\<variable id=\"math_keys\"\>\<link href=\"text/smath/04/01020000.xhp\" name=\"Formula Shortcut Keys\"\>Formula Shortcut Keys\</link\>\</variable\>				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3154702	1			0	el	\<variable id=\"math_keys\"\>\<link href=\"text/smath/04/01020000.xhp\" name=\"Πλήκτρα συντόμευσης τύπου\"\>Πλήκτρα συντόμευσης τύπου\</link\>\</variable\>				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3154702	1			0	en-GB	\<variable id=\"math_keys\"\>\<link href=\"text/smath/04/01020000.xhp\" name=\"Formula Shortcut Keys\"\>Formula Shortcut Keys\</link\>\</variable\>				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3154702	1			0	en-ZA	\<variable id=\"math_keys\"\>\<link href=\"text/smath/04/01020000.xhp\" name=\"Formula Shortcut Keys\"\>Formula Shortcut Keys\</link\>\</variable\>				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3154702	1			0	eo	\<variable id=\"math_keys\"\>\<link href=\"text/smath/04/01020000.xhp\" name=\"Formula Shortcut Keys\"\>Formula Shortcut Keys\</link\>\</variable\>				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3154702	1			0	es	\<variable id=\"math_keys\"\>\<link href=\"text/smath/04/01020000.xhp\" name=\"Combinaciones de teclas para fórmulas\"\>Combinaciones de teclas para fórmulas\</link\>\</variable\>				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3154702	1			0	et	\<variable id=\"math_keys\"\>\<link href=\"text/smath/04/01020000.xhp\" name=\"Valemite kiirklahvid\"\>Valemite kiirklahvid\</link\>\</variable\>				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3154702	1			0	fi	\<variable id=\"math_keys\"\>\<link href=\"text/smath/04/01020000.xhp\" name=\"Formula Shortcut Keys\"\>Formula Shortcut Keys\</link\>\</variable\>				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3154702	1			0	eu	\<variable id=\"math_keys\"\>\<link href=\"text/smath/04/01020000.xhp\" name=\"Formuletako laster-teklak\"\>Formuletako laster-teklak\</link\>\</variable\>				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3154702	1			0	fi	\<variable id=\"math_keys\"\>\<link href=\"text/smath/04/01020000.xhp\" name=\"Formula Shortcut Keys\"\>Kaavojen pikanäppäimet\</link\>\</variable\>				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3154702	1			0	fr	\<variable id=\"math_keys\"\>\<link href=\"text/smath/04/01020000.xhp\" name=\"Raccourcis clavier pour les formules\"\>Raccourcis clavier pour les formules\</link\>\</variable\>				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3154702	1			0	ga	\<variable id=\"math_keys\"\>\<link href=\"text/smath/04/01020000.xhp\" name=\"Formula Shortcut Keys\"\>Formula Shortcut Keys\</link\>\</variable\>				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3154702	1			0	gl	\<variable id=\"math_keys\"\>\<link href=\"text/smath/04/01020000.xhp\" name=\"Teclas de atallo en fórmulas\"\>Teclas de atallo en fórmulas\</link\>\</variable\>				2002-02-02 02:02:02
@@ -572,10 +594,11 @@ helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3154702	1			0	he	\<va
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3154702	1			0	hi-IN	\<variable id=\"math_keys\"\>\<link href=\"text/smath/04/01020000.xhp\" name=\"Formula Shortcut Keys\"\>सूत्र शॉर्टकट कुंजियाँ\</link\>\</variable\>				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3154702	1			0	hr	\<variable id=\"math_keys\"\>\<link href=\"text/smath/04/01020000.xhp\" name=\"Formula Shortcut Keys\"\>Formula Shortcut Keys\</link\>\</variable\>				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3154702	1			0	hu	\<variable id=\"math_keys\"\>\<link href=\"text/smath/04/01020000.xhp\" name=\"Képlet gyorsbillentyűk\"\>Képlet gyorsbillentyűk\</link\>\</variable\>				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3154702	1			0	id	\<variable id=\"math_keys\"\>\<link href=\"text/smath/04/01020000.xhp\" name=\"Tombol Pintas Rumus\"\>Tombol Pintas Rumus\</link\>\</variable\>				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3154702	1			0	it	\<variable id=\"math_keys\"\>\<link href=\"text/smath/04/01020000.xhp\" name=\"Tasti di scelta rapida nelle formule\"\>Tasti di scelta rapida nelle formule\</link\>\</variable\>				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3154702	1			0	ja	\<variable id=\"math_keys\"\> \<link href=\"text/smath/04/01020000.xhp\" name=\"数式に関するショートカットキー\"\>数式に関するショートカットキー\</link\> \</variable\>				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3154702	1			0	ka	\<variable id=\"math_keys\"\>\<link href=\"text/smath/04/01020000.xhp\" name=\"Formula Shortcut Keys\"\>ფორმულის მალსახმობი ღილაკები\</link\>\</variable\>				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3154702	1			0	km	\<variable id=\"math_keys\"\>\<link href=\"text/smath/04/01020000.xhp\" name=\"Formula Shortcut Keys\"\>គ្រាប់​ចុច​ផ្លូវ​កាត់​សម្រាប់​រូបមន្ត\</link\>\</variable\>				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3154702	1			0	km	\\<variable id=\\"math_keys\\"\\>\\<link href=\\"text/smath/04/01020000.xhp\\" name=\\"Formula Shortcut Keys\\"\\>គ្រាប់​ចុច​ផ្លូវ​កាត់​សម្រាប់​រូបមន្ត\\</link\\>\\</variable\\>				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3154702	1			0	ko	\<variable id=\"math_keys\"\>\<link href=\"text/smath/04/01020000.xhp\" name=\"수식 단축키\"\>수식 단축키\</link\>\</variable\>				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3154702	1			0	lt	\<variable id=\"math_keys\"\>\<link href=\"text/smath/04/01020000.xhp\" name=\"Formula Shortcut Keys\"\>Formula Shortcut Keys\</link\>\</variable\>				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3154702	1			0	mk	\<variable id=\"math_keys\"\>\<link href=\"text/smath/04/01020000.xhp\" name=\"Formula Shortcut Keys\"\>Копчиња за кратенки во формула\</link\>\</variable\>				2002-02-02 02:02:02
@@ -606,19 +629,20 @@ helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3154702	1			0	zh-TW	\
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155620	13			0	bg	Shift+F3				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155620	13			0	br	Shift+F3				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155620	13			0	bs	Shift+F3				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155620	13			0	ca	Shift+F3				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155620	13			0	ca	Maj+F3				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155620	13			0	cs	Shift+F3				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155620	13			0	cy	Shift+F3				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155620	13			0	da	Skift+F3				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155620	13			0	de	(Umschalt)(F3)				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155620	13			0	dz	སོར་ལྡེ་+F3				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155620	13			0	el	Shift+F3				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155620	13			0	el	Συνδυασμός πλήκτρων Shift+F3				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155620	13			0	en-GB	Shift+F3				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155620	13			0	en-ZA	Shift+F3				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155620	13			0	eo	Shift+F3				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155620	13			0	es	(Mayús)(F3)				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155620	13			0	et	Shift+F3				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155620	13			0	fi	Shift+F3				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155620	13			0	eu	Maius+F3				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155620	13			0	fi	Vaihto+F3				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155620	13			0	fr	Maj+F3				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155620	13			0	ga	Shift+F3				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155620	13			0	gl	Maiús+F3				2002-02-02 02:02:02
@@ -628,6 +652,7 @@ helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155620	13			0	he	Shi
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155620	13			0	hi-IN	शिफ़्ट+F3				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155620	13			0	hr	Shift+F3				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155620	13			0	hu	Shift+F3				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155620	13			0	id	Shift+F3				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155620	13			0	it	(Maiusc)(F3)				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155620	13			0	ja	（Shift）＋（F3）				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155620	13			0	ka	Shift+F3				2002-02-02 02:02:02
@@ -668,13 +693,14 @@ helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155927	23			0	cy	Lef
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155927	23			0	da	Venstre eller højre pil				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155927	23			0	de	Pfeiltasten links/rechts				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155927	23			0	dz	གཡོན་ཡང་ན་གཡས་ཀྱི་མདའ་རྟགས།				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155927	23			0	el	Left or right arrow				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155927	23			0	el	Αριστερό ή δεξιό βέλος				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155927	23			0	en-GB	Left or right arrow				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155927	23			0	en-ZA	Left or right arrow				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155927	23			0	eo	Left or right arrow				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155927	23			0	es	Teclas de flecha izquierda/derecha				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155927	23			0	et	Nool vasakule või paremale				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155927	23			0	fi	Left or right arrow				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155927	23			0	eu	Eskuin- edo ezker-gezia				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155927	23			0	fi	Vasen tai Oikea nuolinäppäin				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155927	23			0	fr	Flèche vers la gauche ou vers la droite				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155927	23			0	ga	Left or right arrow				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155927	23			0	gl	Frecha cara á esquerda ou cara á dereita				2002-02-02 02:02:02
@@ -684,6 +710,7 @@ helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155927	23			0	he	Lef
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155927	23			0	hi-IN	दायाँ या बायाँ तीर				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155927	23			0	hr	Left or right arrow				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155927	23			0	hu	Balra vagy jobbra nyíl				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155927	23			0	id	Panah kiri atau kanan				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155927	23			0	it	Freccia a destra o a sinistra				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155927	23			0	ja	右/左向き矢印キー				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155927	23			0	ka	მარცხენა ან მარჯვენა ისარი				2002-02-02 02:02:02
@@ -712,7 +739,7 @@ helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155927	23			0	th	Lef
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155927	23			0	tr	Left or right arrow				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155927	23			0	uk	Клавіші зі стрілками праворуч і ліворуч				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155927	23			0	ur-IN	Left or right arrow				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155927	23			0	vi	Phím mũi tên bên Trái hay Phải				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155927	23			0	vi	Phím mũi tên trái hay phải				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155927	23			0	zh-CN	向左箭头或向右箭头				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155927	23			0	zh-TW	方向鍵 左向/右向				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155988	27			0	bg	Tab				2002-02-02 02:02:02
@@ -730,7 +757,8 @@ helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155988	27			0	en-ZA	
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155988	27			0	eo	Tabo				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155988	27			0	es	(Tabulador)				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155988	27			0	et	Tab				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155988	27			0	fi	Tab				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155988	27			0	eu	Tabulazio-tekla				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155988	27			0	fi	Sarkain				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155988	27			0	fr	Tab				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155988	27			0	ga	Táb				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155988	27			0	gl	Tabulación				2002-02-02 02:02:02
@@ -740,6 +768,7 @@ helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155988	27			0	he	Tab
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155988	27			0	hi-IN	टैब				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155988	27			0	hr	Tab				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155988	27			0	hu	Tabulátor				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155988	27			0	id	Tab				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155988	27			0	it	(Tab)				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155988	27			0	ja	（Tab）				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155988	27			0	ka	ტაბულაცია				2002-02-02 02:02:02
@@ -751,6 +780,7 @@ helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155988	27			0	mk	Т�
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155988	27			0	mn	Tab				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155988	27			0	ne	ट्याब				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155988	27			0	nl	Tab				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155988	27			0	oc	Onglet				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155988	27			0	pl	Tab				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155988	27			0	pt	Tabulação				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155988	27			0	pt-BR	Tab				2002-02-02 02:02:02
@@ -777,19 +807,20 @@ helpcontent2	source\text\smath\04\01020000.xhp	0	help	hd_id3155988	27			0	zh-TW	
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3145249	24			0	bg	Преминаване наляво или надясно към следващата категория или функция.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3145249	24			0	br	Move left or right to the next category or function.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3145249	24			0	bs	Move left or right to the next category or function.				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3145249	24			0	ca	Mou, cap a la dreta o esquerra, a la següent categoria o funció.				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3145249	24			0	ca	Es mou, cap a la dreta o l'esquerra, a la categoria o funció següent.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3145249	24			0	cs	Přesune kurzor doleva nebo doprava na další kategorii nebo funkci.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3145249	24			0	cy	Move left or right to the next category or function.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3145249	24			0	da	Flyt til venstre eller til højre til den næste kategori eller funktion.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3145249	24			0	de	Nach links oder rechts zur nächsten Kategorie oder Funktion.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3145249	24			0	dz	ཤུལ་མའི་དབྱེ་རིམ་ཡང་ན་ལས་འགན་ལུ་གཡོན་ཡང་ན་གཡས་སྤོ།				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3145249	24			0	el	Move left or right to the next category or function.				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3145249	24			0	el	Μετακινηθείτε αριστερά ή δεξιά στην επόμενη κατηγορία ή συνάρτηση.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3145249	24			0	en-GB	Move left or right to the next category or function.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3145249	24			0	en-ZA	Move left or right to the next category or function.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3145249	24			0	eo	Move left or right to the next category or function.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3145249	24			0	es	Salto a la siguiente categoría/función hacia la derecha o la izquierda.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3145249	24			0	et	Liigub vasakule või paremale, järgmise või eelmise kategooria või funktsiooni juurde.				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3145249	24			0	fi	Move left or right to the next category or function.				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3145249	24			0	eu	Ezkerrera edo eskuinera joaten da, hurrengo kategoria edo funtziora.				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3145249	24			0	fi	Siirrytään vasemmalle tai oikealle seuraavaan luokkaan tai matemaattiseen toimintoon.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3145249	24			0	fr	Déplacer vers la gauche ou la droite jusqu'à la prochaine catégorie ou fonction.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3145249	24			0	ga	Move left or right to the next category or function.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3145249	24			0	gl	Mover á esquerda ou á dereita até a próxima categoría ou función.				2002-02-02 02:02:02
@@ -799,6 +830,7 @@ helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3145249	24			0	he	Mo
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3145249	24			0	hi-IN	अगले वर्ग या फ़ंक्शन के बाएँ या दाएँ खिसकता है.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3145249	24			0	hr	Move left or right to the next category or function.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3145249	24			0	hu	Balra vagy jobbra mozog a következő kategóriára, vagy függvényre.				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3145249	24			0	id	Geser kiri atau kanan ke kategori atau fungsi selanjutnya.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3145249	24			0	it	Sposta il cursore a destra o a sinistra tra le categorie o le funzioni disponibili.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3145249	24			0	ja	右または左の分類、機能にジャンプします。				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3145249	24			0	ka	გადადით მარჯვნივ ან მარცხნივ ფუნქციის შემდეგ კატეგორიაზე				2002-02-02 02:02:02
@@ -833,32 +865,34 @@ helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3145249	24			0	zh-TW
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3148390	26			0	bg	Избира категория (в раздела с категории) или вмъква функция в прозореца \<emph\>Команди\</emph\> (в раздела с функции).				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3148390	26			0	br	Selects a category (within the category section) or inserts a function in the \<emph\>Commands\</emph\> window (within the function section).				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3148390	26			0	bs	Selects a category (within the category section) or inserts a function in the \<emph\>Commands\</emph\> window (within the function section).				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3148390	26			0	ca	Selecciona una categoria (dins la secció de categories) o insereix una funció a la finestra d'\<emph\>ordres\</emph\>(dins la secció de funcions).				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3148390	26			0	ca	Selecciona una categoria (dins la secció de categories) o insereix una funció a la finestra \<emph\>Ordres\</emph\> (dins la secció de funcions).				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3148390	26			0	cs	Vybere kategorii (v sekci kategorií) nebo vloží funkci do okna \<emph\>Příkazy\</emph\> (v sekci funkcí).				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3148390	26			0	cy	Selects a category (within the category section) or inserts a function in the \<emph\>Commands\</emph\> window (within the function section).				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3148390	26			0	da	Vælger en kategori (i kategoriområdet af udvalgsvinduet) eller indsætter en funktion i vinduet \<emph\>Kommandoer\</emph\> (i funktionsområdet af udvalgsvinduet).				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3148390	26			0	de	Wählt eine Kategorie (im Kategoriebereich) aus oder fügt eine Funktion (im Funktionsbereich) in das Befehlsfenster ein. 				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3148390	26			0	dz	དབྱེ་རིམ་གཅིག་(དབྱེ་རིམ་དབྱེ་ཚན་གྱི་ནང་འཁོད་)སེལ་འཐུ་འབདཝ་ཨིན་ ཡང་ན་ལས་འགན་ཅིག་ \<emph\>བརྡ་བཀོད་ཀྱི་\</emph\> སྒོ་སྒྲིག་(ལས་འགན་གྱི་དབྱེ་ཚན་ནང་འཁོད་)ནང་ལུ་བཙུགསཔ་ཨིན།				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3148390	26			0	el	Selects a category (within the category section) or inserts a function in the \<emph\>Commands\</emph\> window (within the function section).				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3148390	26			0	el	Επιλέγει μια κατηγορία (εντός της ενότητας κατηγορίας) ή εισάγει μια συνάρτηση στο παράθυρο \<emph\>Εντολές\</emph\> (εντός της ενότητας της συνάρτησης).				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3148390	26			0	en-GB	Selects a category (within the category section) or inserts a function in the \<emph\>Commands\</emph\> window (within the function section).				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3148390	26			0	en-ZA	Selects a category (within the category section) or inserts a function in the \<emph\>Commands\</emph\> window (within the function section).				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3148390	26			0	eo	Selects a category (within the category section) or inserts a function in the \<emph\>Commands\</emph\> window (within the function section).				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3148390	26			0	es	Selecciona una categoría (en la sección de categorías) o inserta una función en la ventana de \<emph\>comandos\</emph\> (en la sección de funciones).				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3148390	26			0	et	Valib kategooria (kategooriate valikualas) või sisestab funktsiooni \<emph\>konsooliaknasse\</emph\> (olles funktsiooni valikualas).				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3148390	26			0	fi	Selects a category (within the category section) or inserts a function in the \<emph\>Commands\</emph\> window (within the function section).				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3148390	26			0	eu	Kategoria bat hautatu (Kategoria arean) edo funtzioa bat txertatzen du \<emph\>Komandoak\</emph\> leihoan (Funtzioa arean).				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3148390	26			0	fi	Valitaan luokka (ylemmässä luokkaosiossa) tai lisätään matemaattinen tekijä \<emph\>komentoikkunaan\</emph\> (alemmassa toiminto-osiossa).				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3148390	26			0	fr	Sélectionne un catégorie (dans la section Catégorie) ou insère une fonction dans la \<emph\>fenêtre de commandes\</emph\> (dans la section Fonction).				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3148390	26			0	ga	Selects a category (within the category section) or inserts a function in the \<emph\>Commands\</emph\> window (within the function section).				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3148390	26			0	gl	Selecciona unha categoría (na sección de categorías) ou insire unha función na ventá \<emph\>Comandos\</emph\> (na sección de funcións).				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3148390	26			0	gl	Selecciona unha categoría (na sección de categorías) ou insire unha función na xanela \<emph\>Comandos\</emph\> (na sección de funcións).				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3148390	26			0	gu	Selects a category (within the category section) or inserts a function in the \<emph\>Commands\</emph\> window (within the function section).				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3148390	26			0	gu-IN	Selects a category (within the category section) or inserts a function in the \<emph\>Commands\</emph\> window (within the function section).				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3148390	26			0	he	Selects a category (within the category section) or inserts a function in the \<emph\>Commands\</emph\> window (within the function section).				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3148390	26			0	hi-IN	एक वर्ग चुनता है (वर्ग खण्ड के भीतर) या \<emph\>कमांड\</emph\> विंडो (फ़ंक्शन खण्ड के भीतर) में फ़ंक्शन प्रविष्ट करता है.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3148390	26			0	hr	Selects a category (within the category section) or inserts a function in the \<emph\>Commands\</emph\> window (within the function section).				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3148390	26			0	hu	Kijelöl egy kategóriát (a kategória részben), vagy beszúrja a \<emph\>Parancsok\</emph\> ablakba kijelölt függvényt (a függvény részben).				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3148390	26			0	id	Pilih sebuah kategori (dalam bagian kategori) atau sisipkan sebuah fungsi dalam jendela \<emph\>Commands\</emph\> (dalam bagian fungsi).				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3148390	26			0	it	In base alla posizione corrente, seleziona una categoria o inserisce una funzione nella finestra \<emph\>Comandi\</emph\>.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3148390	26			0	ja	分類を選択します (分類セクション内)。または、\<emph\>コマンド\</emph\> ウィンドウに機能を挿入します(機能セクション内)。				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3148390	26			0	ka	ირჩევს კატეგორიას (კატეგორიების სექციაში) ან სვამს ფუნქციას \<emph\>ბრძანებები\</emph\> ფანჯარა (ფუნქციის სექციაში).				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3148390	26			0	km	ជ្រើស​ប្រភេទ​មួយ (នៅ​ក្នុង​ផ្នែក​ប្រភេទ) ឬ​បញ្ចូល​អនុគមន៍​មួយ​ក្នុង​បង្អួច \<emph\>ពាក្យ​បញ្ជា\</emph\> (នៅ​ក្នុង​ផ្នែក​អនុគមន៍) ។				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3148390	26			0	km	ជ្រើស​ប្រភេទ​មួយ (នៅ​ក្នុង​ផ្នែក​ប្រភេទ) ឬ​បញ្ចូល​អនុគមន៍​មួយ​ក្នុង​បង្អួច \\<emph\\>ពាក្យ​បញ្ជា\\</emph\\> (នៅ​ក្នុង​ផ្នែក​អនុគមន៍) ។				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3148390	26			0	ko	범주 선택에서 범주를 선택하거나, 함수 선택에서 함수를 \<emph\>명령\</emph\> 창에 삽입합니다.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3148390	26			0	lt	Selects a category (within the category section) or inserts a function in the \<emph\>Commands\</emph\> window (within the function section).				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3148390	26			0	mk	Избира категорија (во секцијата за категории) или вметнува функција во прозорецот за \<emph\>команди\</emph\> (во секцијата за функции).				2002-02-02 02:02:02
@@ -895,14 +929,15 @@ helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149355	14			0	cy	Pr
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149355	14			0	da	Forrige fejl				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149355	14			0	de	Vorheriger Fehler				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149355	14			0	dz	ཧེ་མའི་འཛོལ་བ།				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149355	14			0	el	Previous Error				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149355	14			0	el	Προηγούμενο σφάλμα				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149355	14			0	en-GB	Previous Error				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149355	14			0	en-ZA	Previous Error				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149355	14			0	eo	Previous Error				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149355	14			0	es	Error anterior				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149355	14			0	et	Eelmine viga				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149355	14			0	eu	Aurreko errorea				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149355	14			0	fa	خطای قبل				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149355	14			0	fi	Previous Error				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149355	14			0	fi	Edelliseen virheeseen				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149355	14			0	fr	Erreur précédente				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149355	14			0	ga	Previous Error				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149355	14			0	gl	Erro anterior				2002-02-02 02:02:02
@@ -912,6 +947,7 @@ helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149355	14			0	he	Pr
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149355	14			0	hi-IN	पिछली त्रुटि				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149355	14			0	hr	Prethodne greške				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149355	14			0	hu	Előző hiba				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149355	14			0	id	Kesalahan Sebelumnya				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149355	14			0	it	Errore precedente				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149355	14			0	ja	前のエラー				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149355	14			0	ka	წინა შეცდომა				2002-02-02 02:02:02
@@ -940,25 +976,26 @@ helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149355	14			0	th	Pr
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149355	14			0	tr	Önceki hata				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149355	14			0	uk	Попередня помилка				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149355	14			0	ur-IN	Previous Error				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149355	14			0	vi	Lỗi lùi				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149355	14			0	vi	Lỗi trước				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149355	14			0	zh-CN	上一个错误				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149355	14			0	zh-TW	上一個錯誤				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149871	8			0	bg	Следващ маркер (запазено място)				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149871	8			0	br	Next Marker (Placeholder)				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149871	8			0	bs	Next Marker (Placeholder)				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149871	8			0	ca	Marcador següent 				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149871	8			0	ca	Marcador següent (espai reservat)				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149871	8			0	cs	Další značka (zástupný znak)				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149871	8			0	cy	Next Marker (Placeholder)				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149871	8			0	da	Næste mærke (pladsholder)				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149871	8			0	de	Nächster Marker (Platzhalter)				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149871	8			0	dz	ཤུལ་མའི་རྟགས་བཀལ་མི་(ས་གནས་འཛིན་མི་)				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149871	8			0	el	Next Marker (Placeholder)				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149871	8			0	el	Επόμενη επισήμανση (Δείκτης τοποθέτησης)				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149871	8			0	en-GB	Next Marker (Placeholder)				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149871	8			0	en-ZA	Next Marker (Placeholder)				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149871	8			0	eo	Next Marker (Placeholder)				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149871	8			0	es	Marca siguiente (Comodín)				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149871	8			0	et	Järgmine marker (kohahoidja)				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149871	8			0	fi	Next Marker (Placeholder)				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149871	8			0	eu	Hurrengo markatzailea (leku-marka)				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149871	8			0	fi	Seuraavaan paikkamerkkiin				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149871	8			0	fr	Marqueur suivant (substituant)				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149871	8			0	ga	Next Marker (Placeholder)				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149871	8			0	gl	Seguinte marcador (marcador de posición)				2002-02-02 02:02:02
@@ -968,6 +1005,7 @@ helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149871	8			0	he	Nex
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149871	8			0	hi-IN	अगला निशान (प्लेसहोल्डर)				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149871	8			0	hr	Next Marker (Placeholder)				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149871	8			0	hu	Következő jelölés (Helykitöltő)				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149871	8			0	id	Penanda Selanjutnya (Batas tempat)				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149871	8			0	it	Contrassegno successivo (segnaposto)				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149871	8			0	ja	次のプレースホルダにジャンプします。				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149871	8			0	ka	შემდეგი სანიშნე (ჩანაცვლების ველი)				2002-02-02 02:02:02
@@ -996,38 +1034,40 @@ helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149871	8			0	th	Nex
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149871	8			0	tr	Next Marker (Placeholder)				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149871	8			0	uk	Наступний маркер (заповнювач)				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149871	8			0	ur-IN	Next Marker (Placeholder)				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149871	8			0	vi	Vết dấu kế				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149871	8			0	vi	Vết dấu sau				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149871	8			0	zh-CN	下一个标记（占位符）				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3149871	8			0	zh-TW	下一個標記 (萬用字元)				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150203	20			0	bg	Общите \<link href=\"text/shared/04/01010000.xhp\" name=\"клавишни комбинации в $[officename]\"\>клавишни комбинации в $[officename]\</link\> също са приложими.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150203	20			0	br	The general \<link href=\"text/shared/04/01010000.xhp\" name=\"shortcut keys in $[officename]\"\>shortcut keys in $[officename]\</link\> also apply.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150203	20			0	bs	The general \<link href=\"text/shared/04/01010000.xhp\" name=\"shortcut keys in $[officename]\"\>shortcut keys in $[officename]\</link\> also apply.				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150203	20			0	ca	Les \<link href=\"text/shared/04/01010000.xhp\" name=\"shortcut keys in $[officename]\"\>dreceres de teclat a l'$[officename]\</link\> també és poden aplicar.				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150203	20			0	ca	També funcionen les \<link href=\"text/shared/04/01010000.xhp\" name=\"tecles de drecera a l'$[officename]\"\>tecles de drecera de l'$[officename]\</link\> generals.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150203	20			0	cs	Kromě toho lze použít i všeobecné \<link href=\"text/shared/04/01010000.xhp\" name=\"klávesové zkratky $[officename]\"\>klávesové zkratky $[officename]\</link\>.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150203	20			0	cy	The general \<link href=\"text/shared/04/01010000.xhp\" name=\"shortcut keys in $[officename]\"\>shortcut keys in $[officename]\</link\> also apply.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150203	20			0	da	De generelle \<link href=\"text/shared/04/01010000.xhp\" name=\"shortcut keys in $[officename]\"\>genvejstaster i $[officename]\</link\> kan også bruges.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150203	20			0	de	Zusätzlich gelten die allgemeinen \<link href=\"text/shared/04/01010000.xhp\" name=\"Tastenkombinationen von $[officename]\"\>Tastenkombinationen von $[officename]\</link\>.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150203	20			0	dz	ཡོངས་ཁྱབ་\<link href=\"text/shared/04/01010000.xhp\" name=\"shortcut keys in $[officename]\"\> $[officename]ནང་གི་མགྱོགས་ཐབས་ལྡེ་མིག་འདི་\</link\> ཡང་འཇུག་སྤྱོད་འབད།				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150203	20			0	el	The general \<link href=\"text/shared/04/01010000.xhp\" name=\"shortcut keys in $[officename]\"\>shortcut keys in $[officename]\</link\> also apply.				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150203	20			0	el	Τα γενικά \<link href=\"text/shared/04/01010000.xhp\" name=\"πλήκτρα συντόμευσης στο $[officename]\"\>πλήκτρα συντόμευσης στο $[officename]\</link\> εφαρμόζονται επίσης.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150203	20			0	en-GB	The general \<link href=\"text/shared/04/01010000.xhp\" name=\"shortcut keys in $[officename]\"\>shortcut keys in $[officename]\</link\> also apply.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150203	20			0	en-ZA	The general \<link href=\"text/shared/04/01010000.xhp\" name=\"shortcut keys in $[officename]\"\>shortcut keys in $[officename]\</link\> also apply.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150203	20			0	eo	The general \<link href=\"text/shared/04/01010000.xhp\" name=\"shortcut keys in $[officename]\"\>shortcut keys in $[officename]\</link\> also apply.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150203	20			0	es	Las combinaciones de teclas \<link href=\"text/shared/04/01010000.xhp\" name=\"generales en $[officename]\"\>generales en $[officename]\</link\> también se aplican.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150203	20			0	et	Samas on kasutatavad ka kõik muud \<link href=\"text/shared/04/01010000.xhp\" name=\"$[officename]-i kiirklahvid\"\>$[officename]-i kiirklahvid\</link\>.				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150203	20			0	fi	The general \<link href=\"text/shared/04/01010000.xhp\" name=\"shortcut keys in $[officename]\"\>shortcut keys in $[officename]\</link\> also apply.				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150203	20			0	eu	\<link href=\"text/shared/04/01010000.xhp\" name=\" $[officename] aplikazioko laster-teklak\"\> $[officename] aplikazioko laster-tekla orokorrak\</link\> ere aplikatzen dira.				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150203	20			0	fi	Myös yleiset \<link href=\"text/shared/04/01010000.xhp\" name=\"shortcut keys in $[officename]\"\> $[officename]-pikanäppäimet\</link\> ovat käytettävissä.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150203	20			0	fr	Les \<link href=\"text/shared/04/01010000.xhp\" name=\"raccourcis clavier de $[officename]\"\>raccourcis clavier de $[officename]\</link\> généraux s'appliquent également.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150203	20			0	ga	The general \<link href=\"text/shared/04/01010000.xhp\" name=\"shortcut keys in $[officename]\"\>shortcut keys in $[officename]\</link\> also apply.				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150203	20			0	gl	Tamén é posible usar as \<link href=\"text/shared/04/01010000.xhp\" name=\"teclas de atallo xerais de $[officename]\"\>teclas de atallo xerais de $[officename]\</link\>				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150203	20			0	gl	Tamén é posíbel usar as \<link href=\"text/shared/04/01010000.xhp\" name=\"teclas de atallo xerais de $[officename]\"\>teclas de atallo xerais de $[officename]\</link\>				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150203	20			0	gu	The general \<link href=\"text/shared/04/01010000.xhp\" name=\"shortcut keys in $[officename]\"\>shortcut keys in $[officename]\</link\> also apply.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150203	20			0	gu-IN	The general \<link href=\"text/shared/04/01010000.xhp\" name=\"shortcut keys in $[officename]\"\>shortcut keys in $[officename]\</link\> also apply.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150203	20			0	he	The general \<link href=\"text/shared/04/01010000.xhp\" name=\"shortcut keys in $[officename]\"\>shortcut keys in $[officename]\</link\> also apply.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150203	20			0	hi-IN	सामान्य \<link href=\"text/shared/04/01010000.xhp\" name=\"shortcut keys in $[officename]\"\>शॉर्टकट कुंजियाँ $[officename]\</link\> में भी लागू होते हैं.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150203	20			0	hr	The general \<link href=\"text/shared/04/01010000.xhp\" name=\"shortcut keys in $[officename]\"\>shortcut keys in $[officename]\</link\> also apply.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150203	20			0	hu	Az \<link href=\"text/shared/04/01010000.xhp\" name=\"$[officename] általános gyorsbillentyűi\"\>$[officename] általános gyorsbillentyűi\</link\> itt is alkalmazhatók.				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150203	20			0	id	Tombol shortcut umum \<link href=\"text/shared/04/01010000.xhp\" name=\"shortcut keys in $[officename]\"\>dalam $[officename]\</link\> juga diberlakukan.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150203	20			0	it	Potete utilizzare anche i \<link href=\"text/shared/04/01010000.xhp\" name=\"tasti di scelta rapida generali di $[officename]\"\>tasti di scelta rapida generali di $[officename]\</link\>.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150203	20			0	ja	ここに記載されているショートカットキーのほかに、一般的な \<link href=\"text/shared/04/01010000.xhp\" name=\"$[officename] ショートカットキー\"\>$[officename] ショートカットキー\</link\> も使用できます。				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150203	20			0	ka	ასევე გამოიყენება ძირითადი \<link href=\"text/shared/04/01010000.xhp\" name=\"shortcut keys in $[officename]\"\>მალსახმობი ღილაკები $[officename]-ში\</link\> 				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150203	20			0	km	\<link href=\"text/shared/04/01010000.xhp\" name=\"shortcut keys in $[officename]\"\>គ្រាប់​ចុច​ផ្លូវ​កាត់​ទូទៅ​ក្នុង​ $[officename]\</link\> ក៏​អនុវត្ត​ផង​ដែរ ។				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150203	20			0	km	\\<link href=\\"text/shared/04/01010000.xhp\\" name=\\"shortcut keys in $[officename]\\"\\>គ្រាប់​ចុច​ផ្លូវ​កាត់​ទូទៅ​ក្នុង​ $[officename]\\</link\\> ក៏​អនុវត្ត​ផង​ដែរ ។				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150203	20			0	ko	\<link href=\"text/shared/04/01010000.xhp\" name=\"$[officename]의 일반 단축키\"\>$[officename]의 일반 단축키\</link\>도 적용됩니다.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150203	20			0	lt	The general \<link href=\"text/shared/04/01010000.xhp\" name=\"shortcut keys in $[officename]\"\>shortcut keys in $[officename]\</link\> also apply.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150203	20			0	mk	Општите \<link href=\"text/shared/04/01010000.xhp\" name=\"shortcut keys in $[officename]\"\>копчиња за кратенки во $[officename]\</link\> се исто така применливи.				2002-02-02 02:02:02
@@ -1058,19 +1098,20 @@ helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150203	20			0	zh-TW
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150345	2			0	bg	Този раздел съдържа списък на клавишите, специфични за работата с формули.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150345	2			0	br	A list of the shortcut keys specific to creating formulas is contained in this section.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150345	2			0	bs	A list of the shortcut keys specific to creating formulas is contained in this section.				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150345	2			0	ca	En aquesta secció trobeu un llistat de dreceres de teclat específiques per a la creació de fórmules				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150345	2			0	ca	Aquesta secció conté una llista de les tecles de drecera específiques per a la creació de fórmules.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150345	2			0	cs	Tato část obsahuje seznam klávesových zkratek pro vytváření vzorců.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150345	2			0	cy	A list of the shortcut keys specific to creating formulas is contained in this section.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150345	2			0	da	Dette afsnit indeholder en liste af de genvejstaster, der er specielle for oprettelse af formler.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150345	2			0	de	Hier finden Sie Tastenkombinationen, die den Umgang mit Formeldokumenten beschleunigen können.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150345	2			0	dz	མན་ངག་ཚུ་གསར་བསྐྲུན་འབད་ནིའི་དོན་ལས་དམིགས་བསལ་མགྱོགས་ཐབས་ལྡེ་མིག་ཚུ་གི་ཐོ་ཡིག་ འདི་འ་ནི་དབྱེ་ཚན་ནང་ལུ་ཡོདཔ་ཨིན།				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150345	2			0	el	A list of the shortcut keys specific to creating formulas is contained in this section.				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150345	2			0	el	Σε αυτήν την ενότητα περιέχεται μια λίστα με πλήκτρα συντόμευσης ειδικευμένα για τη δημιουργία τύπων.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150345	2			0	en-GB	A list of the shortcut keys specific to creating formulae is contained in this section.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150345	2			0	en-ZA	A list of the shortcut keys specific to creating formulae is contained in this section.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150345	2			0	eo	A list of the shortcut keys specific to creating formulas is contained in this section.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150345	2			0	es	Aquí encontrará una lista de combinaciones de tecla especiales que permiten acelerar el trabajo con los documentos de fórmula.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150345	2			0	et	See alajaotus käsitleb neid kiirklahve, mis on kasutatavad valemite koostamisel.				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150345	2			0	fi	A list of the shortcut keys specific to creating formulas is contained in this section.				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150345	2			0	eu	Atal honetan, formulak sortzeko erabiltzen diren laster-teklen zerrenda dago.				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150345	2			0	fi	Osiossa luetellaan kaavojen ladontaan tarkoitetut pikanäppäimet.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150345	2			0	fr	Cette rubrique mentionne les combinaisons de touches propres aux documents contenant des formules.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150345	2			0	ga	A list of the shortcut keys specific to creating formulas is contained in this section.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150345	2			0	gl	Esta sección contén unha lista de teclas de atallo usadas especificamente para crear fórmulas.				2002-02-02 02:02:02
@@ -1080,6 +1121,7 @@ helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150345	2			0	he	A l
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150345	2			0	hi-IN	इस खण्ड में विशेष रूप से सूत्र तैयार करने के लिए शॉर्टकट कुंजियाँ हैं.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150345	2			0	hr	A list of the shortcut keys specific to creating formulas is contained in this section.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150345	2			0	hu	Ebben a szakaszban található a képletek elkészítéséhez kapcsolódó gyorsbillentyűk listája.				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150345	2			0	id	Daftar tombol-tombol pintas khusus dalam pembuatan rumus ada dalam bagian ini.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150345	2			0	it	Qui viene visualizzato un elenco di combinazioni di tasti speciali che possono accelerare le operazioni con i documenti formula.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150345	2			0	ja	ここでは、数式ドキュメントでの作業をスピードアップするためのショートカットキーをリストアップします。				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150345	2			0	ka	ფორმულების შესაქმნელი მალსახმობი ღილაკების სია მოცემულია ამ სექციაში				2002-02-02 02:02:02
@@ -1120,14 +1162,15 @@ helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150537	12			0	cy	Ne
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150537	12			0	da	Næste fejl				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150537	12			0	de	Nächster Fehler				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150537	12			0	dz	འཛོལ་བ་ཤུལ་མམ།				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150537	12			0	el	Next Error				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150537	12			0	el	Επόμενο σφάλμα				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150537	12			0	en-GB	Next Error				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150537	12			0	en-ZA	Next Error				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150537	12			0	eo	Next Error				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150537	12			0	es	Error siguiente				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150537	12			0	et	Järgmine viga				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150537	12			0	eu	Hurrengo errorea				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150537	12			0	fa	خطای بعد				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150537	12			0	fi	Next Error				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150537	12			0	fi	Seuraavaan virheeseen				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150537	12			0	fr	Erreur suivante				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150537	12			0	ga	Next Error				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150537	12			0	gl	Seguinte erro				2002-02-02 02:02:02
@@ -1137,6 +1180,7 @@ helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150537	12			0	he	Ne
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150537	12			0	hi-IN	अगली त्रुटि				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150537	12			0	hr	Sljedeća greška				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150537	12			0	hu	Következő hiba				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150537	12			0	id	Kesalahan Berikutnya				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150537	12			0	it	Errore successivo				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150537	12			0	ja	次のエラー				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150537	12			0	ka	შემდეგი შეცდომა				2002-02-02 02:02:02
@@ -1165,25 +1209,26 @@ helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150537	12			0	th	Ne
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150537	12			0	tr	Sonraki hata				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150537	12			0	uk	Наступна помилка				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150537	12			0	ur-IN	Next Error				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150537	12			0	vi	Lỗi kế				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150537	12			0	vi	Lỗi sau				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150537	12			0	zh-CN	下一个错误				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3150537	12			0	zh-TW	下一個錯誤				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3151181	30			0	bg	Преминаване от последната категория към последната функция в категорията.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3151181	30			0	br	Jump from the last category item to the last function of the category.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3151181	30			0	bs	Jump from the last category item to the last function of the category.				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3151181	30			0	ca	Salta de l'últim element d'una categoria a l'última funció de la categoria. 				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3151181	30			0	ca	Salta de l'últim element d'una categoria a l'última funció de la categoria.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3151181	30			0	cs	Skočí z poslední položky kategorií na poslední funkci dané kategorie.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3151181	30			0	cy	Jump from the last category item to the last function of the category.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3151181	30			0	da	Hop fra det sidste kategoripunkt til sidste funktion i kategorien.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3151181	30			0	de	Springt vom letzten Kategorieeintrag zur letzten Funktion der Kategorie.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3151181	30			0	dz	དབྱེ་རིམ་གྱི་རྣམ་གྲངས་མཇུག་ལས་དབྱེ་རིམ་གྱི་ལས་འགན་མཇུག་ལུ་མཆོང་།				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3151181	30			0	el	Jump from the last category item to the last function of the category.				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3151181	30			0	el	Μεταβείτε από το τελευταίο αντικείμενο της κατηγορίας στην τελευταία συνάρτηση της κατηγορίας.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3151181	30			0	en-GB	Jump from the last category item to the last function of the category.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3151181	30			0	en-ZA	Jump from the last category item to the last function of the category.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3151181	30			0	eo	Jump from the last category item to the last function of the category.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3151181	30			0	es	Salto de la última entrada de la categoría a la última función de la categoría.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3151181	30			0	et	Hüppab kategooriate valikualast viimasele funktsioonile valitud kategoorias.				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3151181	30			0	fi	Jump from the last category item to the last function of the category.				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3151181	30			0	eu	Kategoriaren azken elementutik kategoriaren azken funtziora joaten da.				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3151181	30			0	fi	Siirrytään viimeisestä luokkakuvakkeesta luokan viimeiseen toimintoon.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3151181	30			0	fr	Passe du dernier élément de la catégorie à la dernière fonction de la catégorie.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3151181	30			0	ga	Jump from the last category item to the last function of the category.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3151181	30			0	gl	Pasa do último elemento á última función da categoría.				2002-02-02 02:02:02
@@ -1193,6 +1238,7 @@ helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3151181	30			0	he	Ju
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3151181	30			0	hi-IN	अंतिम वर्ग के वस्तु से वर्ग के अंतिम फंक्शन में जाएँ.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3151181	30			0	hr	Jump from the last category item to the last function of the category.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3151181	30			0	hu	A kategória utolsó eleméről a kategória utolsó funkciójára ugrik.				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3151181	30			0	id	Lompat dari kategori terakhir ke fungsi terakhir dari kategori ini.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3151181	30			0	it	Passa dall'ultimo elemento della categoria all'ultima funzione della categoria.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3151181	30			0	ja	分類の最後の項目と分類の最後の機能の間をジャンプします。				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3151181	30			0	ka	ბოლო კატეგორიის ელემენტიდან გადახტით კატეგორიის ბოლო ფუნქციაზე. 				2002-02-02 02:02:02
@@ -1227,19 +1273,20 @@ helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3151181	30			0	zh-TW
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3151390	10			0	bg	Предишен маркер (запазено място)				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3151390	10			0	br	Previous Marker (Placeholder)				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3151390	10			0	bs	Previous Marker (Placeholder)				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3151390	10			0	ca	Marcador anterior 				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3151390	10			0	ca	Marcador anterior (espai reservat)				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3151390	10			0	cs	Předchozí značka (zástupný znak)				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3151390	10			0	cy	Previous Marker (Placeholder)				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3151390	10			0	da	Forrige mærke (Pladsholder)				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3151390	10			0	de	Vorheriger Marker (Platzhalter)				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3151390	10			0	dz	ཧེ་མའི་རྟགས་བཀལ་མི་(ས་གནས་འཛིན་མི་)				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3151390	10			0	el	Previous Marker (Placeholder)				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3151390	10			0	el	Προηγούμενη επισήμανση (Δείκτης τοποθέτησης)				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3151390	10			0	en-GB	Previous Marker (Placeholder)				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3151390	10			0	en-ZA	Previous Marker (Placeholder)				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3151390	10			0	eo	Previous Marker (Placeholder)				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3151390	10			0	es	Marca anterior (Comodín)				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3151390	10			0	et	Eelmine marker (kohahoidja)				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3151390	10			0	fi	Previous Marker (Placeholder)				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3151390	10			0	eu	Aurreko markatzailea (leku-marka)				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3151390	10			0	fi	Edelliseen paikkamerkkiin				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3151390	10			0	fr	Marqueur précédent (substituant)				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3151390	10			0	ga	Previous Marker (Placeholder)				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3151390	10			0	gl	Marcador anterior (marcador de posición)				2002-02-02 02:02:02
@@ -1249,6 +1296,7 @@ helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3151390	10			0	he	Pr
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3151390	10			0	hi-IN	पिछला निशान (प्लेसहोल्डर)				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3151390	10			0	hr	Previous Marker (Placeholder)				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3151390	10			0	hu	Előző jelölés (Helykitöltő)				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3151390	10			0	id	Penanda Sebelumnya (Batas tempat)				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3151390	10			0	it	Contrassegno precedente (segnaposto)				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3151390	10			0	ja	前のプレースホルダにジャンプします。				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3151390	10			0	ka	წინა სანიშნე (ჩანაცვლების ველი)				2002-02-02 02:02:02
@@ -1277,7 +1325,7 @@ helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3151390	10			0	th	Pr
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3151390	10			0	tr	Previous Marker (Placeholder)				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3151390	10			0	uk	Попередній маркер (заповнювач)				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3151390	10			0	ur-IN	Previous Marker (Placeholder)				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3151390	10			0	vi	Vết dấu lùi				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3151390	10			0	vi	Vết dấu trước				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3151390	10			0	zh-CN	上一个标记（占位符）				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3151390	10			0	zh-TW	上一個標記 (萬用字元)				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153003	18			0	bg	Обновяване				2002-02-02 02:02:02
@@ -1289,13 +1337,14 @@ helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153003	18			0	cy	Up
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153003	18			0	da	Opdater				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153003	18			0	de	Aktualisieren				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153003	18			0	dz	དུས་མཐུན་བཟོ།				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153003	18			0	el	Update				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153003	18			0	el	Ενημέρωση				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153003	18			0	en-GB	Update				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153003	18			0	en-ZA	Update				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153003	18			0	eo	Gxisdatigi				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153003	18			0	es	Actualizar				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153003	18			0	et	Uuenda				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153003	18			0	fi	Update				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153003	18			0	eu	Eguneratu				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153003	18			0	fi	Päivitä				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153003	18			0	fr	Actualiser				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153003	18			0	ga	Nuashonraigh				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153003	18			0	gl	Actualizar				2002-02-02 02:02:02
@@ -1305,6 +1354,7 @@ helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153003	18			0	he	Up
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153003	18			0	hi-IN	अद्यतन				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153003	18			0	hr	Ažuriraj				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153003	18			0	hu	Frissítés				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153003	18			0	id	Perbaharui				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153003	18			0	it	Aggiorna				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153003	18			0	ja	更新				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153003	18			0	ka	განახლება				2002-02-02 02:02:02
@@ -1315,6 +1365,7 @@ helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153003	18			0	lt	Up
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153003	18			0	mk	Ажурирај				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153003	18			0	ne	अद्यावधिक 				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153003	18			0	nl	Bijwerken				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153003	18			0	oc	Actualizar				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153003	18			0	pl	Aktualizuj				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153003	18			0	pt	Actualizar				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153003	18			0	pt-BR	Atualizar				2002-02-02 02:02:02
@@ -1340,19 +1391,20 @@ helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153003	18			0	zh-TW
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153246	19			0	bg	Следващите клавишни комбинации съответстват на командите от менютата \<emph\>Редактиране\</emph\> и \<emph\>Изглед\</emph\>.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153246	19			0	br	The following shortcut keys correspond to commands in the \<emph\>Edit\</emph\> and \<emph\>View \</emph\>menus.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153246	19			0	bs	The following shortcut keys correspond to commands in the \<emph\>Edit\</emph\> and \<emph\>View \</emph\>menus.				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153246	19			0	ca	Les següents dreceres de teclat corresponen a ordres dels menús  \<emph\>Edita\</emph\> i \<emph\>Visualitza \</emph\>.				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153246	19			0	ca	Les tecles de drecera següents corresponen a ordres dels menús \<emph\>Edita\</emph\> i \<emph\>Visualitza \</emph\>.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153246	19			0	cs	Příkazy, které lze zadat pomocí uvedených klávesových zkratek, se také nacházejí v nabídkách \<emph\>Upravit\</emph\> a \<emph\>Zobrazit\</emph\>.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153246	19			0	cy	The following shortcut keys correspond to commands in the \<emph\>Edit\</emph\> and \<emph\>View \</emph\>menus.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153246	19			0	da	De følgende genvejstaster svarer til kommandoer i menuerne \<emph\>Rediger\</emph\> og \<emph\>Vis\</emph\>.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153246	19			0	de	Die folgenden Tastaturkürzel beziehen sich auf Befehle aus den Menüs \<emph\>Bearbeiten\</emph\> und \<emph\>Ansicht\</emph\>.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153246	19			0	dz	འོག་གི་མགྱོགས་ཐབས་ལྡེ་མིག་ཚུ་ \<emph\>ཞུན་དག་\</emph\> དང་ \<emph\>མཐོང་སྣང་ \</emph\> དཀར་ཆག་ཚུ་ནང་གི་བརྡ་བཀོད་ཚུ་ལུ་ཆ་མཉམ་ཨིན།				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153246	19			0	el	The following shortcut keys correspond to commands in the \<emph\>Edit\</emph\> and \<emph\>View \</emph\>menus.				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153246	19			0	en-GB	The following shortcut keys correspond to commands in the \<emph\>Edit\</emph\> and \<emph\>View \</emph\>menus.				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153246	19			0	el	Τα ακόλουθα πλήκτρα συντόμευσης αντιστοιχούν σε εντολές στα μενού \<emph\>Επεξεργασία\</emph\> και \<emph\>Προβολή \</emph\>.				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153246	19			0	en-GB	The following shortcut keys correspond to commands in the \<emph\>Edit\</emph\> and \<emph\>View\</emph\> menus.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153246	19			0	en-ZA	The following shortcut keys correspond to commands in the \<emph\>Edit\</emph\> and \<emph\>View \</emph\>menus.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153246	19			0	eo	The following shortcut keys correspond to commands in the \<emph\>Edit\</emph\> and \<emph\>View \</emph\>menus.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153246	19			0	es	Las siguientes combinaciones de tecla corresponden a comandos en los menús \<emph\>Editar\</emph\> y \<emph\>Ver\</emph\>.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153246	19			0	et	Järgmised kiirklahvid vastavad käskudele menüüdes \<emph\>Redigeerimine\</emph\> ja \<emph\>Vaade\</emph\>.				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153246	19			0	fi	The following shortcut keys correspond to commands in the \<emph\>Edit\</emph\> and \<emph\>View \</emph\>menus.				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153246	19			0	eu	Laster-tekla hauek \<emph\>Editatu\</emph\> eta \<emph\>Ikusi\</emph\> menuetako komandoei dagozkie.				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153246	19			0	fi	Oheiset pikanäppäimet vastaavat \<emph\>Muokkaa-\</emph\> ja \<emph\>Näytä-\</emph\>valikon toimintoja.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153246	19			0	fr	Les raccourcis clavier suivants correspondent aux commandes des menus \<emph\>Édition\</emph\> et \<emph\>Affichage\</emph\>.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153246	19			0	ga	The following shortcut keys correspond to commands in the \<emph\>Edit\</emph\> and \<emph\>View \</emph\>menus.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153246	19			0	gl	As seguintes teclas de atallo corresponden a comandos dos menús \<emph\>Editar\</emph\> e \<emph\>Ver\</emph\>.				2002-02-02 02:02:02
@@ -1362,10 +1414,11 @@ helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153246	19			0	he	Th
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153246	19			0	hi-IN	निम्न शॉर्टकट कुंजियाँ  \<emph\>संपादन\</emph\> तथा \<emph\>दृश्य \</emph\>मेन्यू के कमांड से सम्बन्धित हैं.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153246	19			0	hr	The following shortcut keys correspond to commands in the \<emph\>Edit\</emph\> and \<emph\>View \</emph\>menus.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153246	19			0	hu	Az alábbi gyorsbillentyűk megfelelnek a \<emph\>Szerkesztés\</emph\> és a \<emph\>Nézet\</emph\> menü parancsainak.				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153246	19			0	id	Tombol shortcut berikut berhubungan dengan perintah dalam menu \<emph\>Edit\</emph\> dan \<emph\>View \</emph\>.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153246	19			0	it	I seguenti tasti di scelta rapida corrispondono ad alcuni dei comandi disponibili nei menu \<emph\>Modifica\</emph\> e \<emph\>Visualizza\</emph\>.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153246	19			0	ja	下記のショートカットキーは、メニュー \<emph\>編集\</emph\> および \<emph\>表示\</emph\> のコマンドに対応します。				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153246	19			0	ka	შემდეგი მალსახმობი ღილაკები შეესაბამება ბრძანებებს \<emph\>რედაქტირება\</emph\> და\<emph\>ხედი \</emph\>მენიუებში.				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153246	19			0	km	គ្រាប់​ចុច​ផ្លូច​កាត់​ដូច​ខាង​ក្រោម ត្រូវ​គ្នា​ទៅ​នឹង​ពាក្យ​បញ្ជា​ក្នុង​ម៉ឺនុយ \<emph\>កែ​សម្រួល\</emph\> និង \<emph\>មើល \</emph\>។				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153246	19			0	km	គ្រាប់​ចុច​ផ្លូច​កាត់​ដូច​ខាង​ក្រោម ត្រូវ​គ្នា​ទៅ​នឹង​ពាក្យ​បញ្ជា​ក្នុង​ម៉ឺនុយ \\<emph\\>កែ​សម្រួល\\</emph\\> និង \\<emph\\>មើល \\</emph\\>។				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153246	19			0	ko	다음 단축키는 \<emph\>편집\</emph\> 및 \<emph\>보기\</emph\> 메뉴의 명령에 해당합니다.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153246	19			0	lt	The following shortcut keys correspond to commands in the \<emph\>Edit\</emph\> and \<emph\>View \</emph\>menus.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153246	19			0	mk	Следниве кратенки одговараат на командите од менијата \<emph\>Уредување\</emph\> и \<emph\>Приказ \</emph\>.				2002-02-02 02:02:02
@@ -1396,19 +1449,20 @@ helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153246	19			0	zh-TW
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153723	28			0	bg	Преминаване от първата категория към първата функция в категорията.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153723	28			0	br	Jump from the first category item to the first function of the category.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153723	28			0	bs	Jump from the first category item to the first function of the category.				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153723	28			0	ca	Salta del primer element d'una categoria a la primera funció de la categoria				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153723	28			0	ca	Salta del primer element d'una categoria a la primera funció de la categoria.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153723	28			0	cs	Skočí z první položky kategorií na první funkci dané kategorie.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153723	28			0	cy	Jump from the first category item to the first function of the category.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153723	28			0	da	Hop fra første kategoripunkt til den første funktion i kategorien.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153723	28			0	de	Springt vom ersten Kategorieeintrag zur ersten Funktion der Kategorie.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153723	28			0	dz	དབྱེ་རིམ་གྱི་རྣམ་གྲངས་དང་པ་ལས་དབྱེ་རིམ་གྱི་ལས་འགན་དང་པ་ལུ་མཆོང་།				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153723	28			0	el	Jump from the first category item to the first function of the category.				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153723	28			0	el	Μεταβείτε από το πρώτο αντικείμενο της κατηγορίας στην πρώτη συνάρτηση της κατηγορίας.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153723	28			0	en-GB	Jump from the first category item to the first function of the category.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153723	28			0	en-ZA	Jump from the first category item to the first function of the category.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153723	28			0	eo	Jump from the first category item to the first function of the category.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153723	28			0	es	Salto de la primera entrada de la categoría a la primera función de la categoría.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153723	28			0	et	Hüppab kategooriate valikualast esimesele funktsioonile valitud kategoorias.				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153723	28			0	fi	Jump from the first category item to the first function of the category.				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153723	28			0	eu	Kategoriaren lehen elementutik kategoriaren lehen funtziora joaten da.				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153723	28			0	fi	Siirrytään ensimmäisestä luokkakuvakkeesta luokan ensimmäiseen toimintoon.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153723	28			0	fr	Passe du premier élément de la catégorie à la première fonction de la catégorie.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153723	28			0	ga	Jump from the first category item to the first function of the category.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153723	28			0	gl	Pasa do primeiro elemento á primeira función da categoría.				2002-02-02 02:02:02
@@ -1418,6 +1472,7 @@ helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153723	28			0	he	Ju
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153723	28			0	hi-IN	प्रथम वर्ग के वस्तु से वर्ग के प्रथम फंक्शन में जाएँ.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153723	28			0	hr	Jump from the first category item to the first function of the category.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153723	28			0	hu	A kategória első eleméről a kategória első funkciójára ugrik.				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153723	28			0	id	Lompat dari kategori pertama ke fungsi pertama dari kategori ini.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153723	28			0	it	Passa dal primo elemento della categoria alla prima funzione della categoria.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153723	28			0	ja	分類の最初の項目と分類の最初の機能の間をジャンプします。				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153723	28			0	ka	პირველი კატეგორიის ელემენტიდან გადახტით კატეგორიის პირველ ფუნქციაზე. 				2002-02-02 02:02:02
@@ -1452,7 +1507,7 @@ helpcontent2	source\text\smath\04\01020000.xhp	0	help	par_id3153723	28			0	zh-TW
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	tit				0	bg	Клавиши за работа с формули				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	tit				0	br	Formula Shortcut Keys				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	tit				0	bs	Formula Shortcut Keys				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	tit				0	ca	Dreceres de teclat de les fórmules				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	tit				0	ca	Tecles de drecera de les fórmules				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	tit				0	cs	Klávesové zkratky pro vzorce				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	tit				0	cy	Formula Shortcut Keys				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	tit				0	da	Genvejstaster for formler				2002-02-02 02:02:02
@@ -1464,7 +1519,8 @@ helpcontent2	source\text\smath\04\01020000.xhp	0	help	tit				0	en-ZA	Formula Sho
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	tit				0	eo	Formula Shortcut Keys				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	tit				0	es	Combinaciones de teclas en fórmulas				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	tit				0	et	Valemite kiirklahvid				2002-02-02 02:02:02
-helpcontent2	source\text\smath\04\01020000.xhp	0	help	tit				0	fi	Formula Shortcut Keys				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	tit				0	eu	Formuletako laster-teklak				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	tit				0	fi	Kaavojen pikanäppäimet				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	tit				0	fr	Raccourcis clavier pour les formules				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	tit				0	ga	Formula Shortcut Keys				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	tit				0	gl	Teclas de atallo en fórmulas				2002-02-02 02:02:02
@@ -1474,6 +1530,7 @@ helpcontent2	source\text\smath\04\01020000.xhp	0	help	tit				0	he	Formula Shortc
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	tit				0	hi-IN	सूत्र शॉर्टकट कुंजियाँ				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	tit				0	hr	Formula Shortcut Keys				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	tit				0	hu	Képlet gyorsbillentyűk				2002-02-02 02:02:02
+helpcontent2	source\text\smath\04\01020000.xhp	0	help	tit				0	id	Tombol Pintas Rumus				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	tit				0	it	Tasti di scelta rapida nelle formule				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	tit				0	ja	数式に関するショートカットキー 				2002-02-02 02:02:02
 helpcontent2	source\text\smath\04\01020000.xhp	0	help	tit				0	ka	ფორმულის მალსახმობი ღილაკი				2002-02-02 02:02:02

@@ -15,9 +15,9 @@
 #
 # OpenOffice.org - a multi-platform office productivity suite
 #
-# $RCSfile: localize.sdf,v $
+# $RCSfile:localize.pl,v $
 #
-# $Revision: 1.11 $
+# $Revision: 1.17.4.1 $
 #
 # This file is part of OpenOffice.org.
 #
@@ -38,44 +38,57 @@
 #
 #*************************************************************************
 sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				0	ar	العمود %COLUMNLETTER				2002-02-02 02:02:02
-sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				0	be-BY	Калонка %COLUMNLETTER				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				13691	as-IN	স্তম্ভ %COLUMNLETTER				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				13691	be-BY	Калонка %COLUMNLETTER				2002-02-02 02:02:02
 sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				0	bg	Колона %COLUMNLETTER				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				13691	bn	%COLUMNLETTER নং স্তম্ভ				2002-02-02 02:02:02
 sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				0	br	Bann %COLUMNLETTER				2002-02-02 02:02:02
 sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				0	ca	Columna %COLUMNLETTER				2002-02-02 02:02:02
-sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				0	cs	Sloupec %COLUMNLETTER				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				13691	cs	Sloupec %COLUMNLETTER				2002-02-02 02:02:02
 sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				0	da	Kolonne %COLUMNLETTER				2002-02-02 02:02:02
 sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				0	de	Spalte %COLUMNLETTER				2002-02-02 02:02:02
-sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				0	el	Στήλη %COLUMNLETTER				2002-02-02 02:02:02
-sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				0	en-GB	Column %COLUMNLETTER				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				13691	el	Στήλη %COLUMNLETTER				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				13691	en-GB	Column %COLUMNLETTER				2002-02-02 02:02:02
 sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				0	eo	Kolumno %COLUMNLETTER				2002-02-02 02:02:02
 sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				0	es	Columna %COLUMNLETTER				2002-02-02 02:02:02
-sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				0	et	Veerg %COLUMNLETTER				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				13691	et	Veerg %COLUMNLETTER				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				13691	eu	%COLUMNLETTER zutabea				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				0	fi	Sarake %COLUMNLETTER				2002-02-02 02:02:02
 sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				0	fr	%COLUMNLETTER colonne				2002-02-02 02:02:02
-sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				0	gl	Columna %COLUMNLETTER				2002-02-02 02:02:02
-sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				13691	gu	સ્તંભ %COLUMNLETTER				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				13691	gl	Columna %COLUMNLETTER				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				0	gu	સ્તંભ %COLUMNLETTER				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				13691	hi-IN	कॉलम %COLUMNLETTER				2002-02-02 02:02:02
 sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				0	hr	Stupac %COLUMNLETTER				2002-02-02 02:02:02
 sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				0	hu	%COLUMNLETTER oszlop 				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				0	id	Kolom %COLUMNLETTER				2002-02-02 02:02:02
 sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				0	it	Column %COLUMNLETTER				2002-02-02 02:02:02
 sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				0	ja	列 %COLUMNLETTER				2002-02-02 02:02:02
-sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				0	km	ជួរ​ឈរ %COLUMNLETTER				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				13691	km	ជួរ​ឈរ %COLUMNLETTER				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				13691	kn-IN	ಲಂಬಸಾಲು %COLUMNLETTER				2002-02-02 02:02:02
 sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				0	ko	%COLUMNLETTER 열				2002-02-02 02:02:02
-sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				0	lt	%COLUMNLETTER stulpelis				2002-02-02 02:02:02
-sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				0	mk	Колона %COLUMNLETTER				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				13691	lt	%COLUMNLETTER stulpelis				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				13691	mk	Колона %COLUMNLETTER				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				13691	ml-IN	വരി %COLUMNLETTER				2002-02-02 02:02:02
 sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				0	mn	Багана %COLUMNLETTER				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				13691	mr-IN	रकाना %COLUMNLETTER				2002-02-02 02:02:02
 sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				0	nb	kolonne %COLUMNLETTER				2002-02-02 02:02:02
 sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				0	nl	Kolom %COLUMNLETTER				2002-02-02 02:02:02
 sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				0	nn	Kolonne %COLUMNLETTER				2002-02-02 02:02:02
-sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				0	pa-IN	ਕਾਲਮ %COLUMNLETTER				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				0	oc	Colomna %COLUMNLETTER				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				13691	pa-IN	ਕਾਲਮ %COLUMNLETTER				2002-02-02 02:02:02
 sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				0	pl	Kolumna %COLUMNLETTER				2002-02-02 02:02:02
 sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				0	pt	Coluna %COLUMNLETTER				2002-02-02 02:02:02
 sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				0	pt-BR	Coluna %COLUMNLETTER				2002-02-02 02:02:02
 sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				0	ru	Столбец %COLUMNLETTER				2002-02-02 02:02:02
 sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				0	rw	Inkingi %COLUMNLETTER				2002-02-02 02:02:02
-sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				0	sh	Kolona %COLUMNLETTER				2002-02-02 02:02:02
-sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				0	sl	Stolpec %COLUMNLETTER				2002-02-02 02:02:02
-sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				0	sr	Колона %COLUMNLETTER				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				0	sa-IN	स्तम्भः %COLUMNLETTER				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				38235	sh	Kolona %COLUMNLETTER				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				0	sk	Stĺpec %COLUMNLETTER				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				13691	sl	Stolpec %COLUMNLETTER				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				38235	sr	Колона %COLUMNLETTER				2002-02-02 02:02:02
 sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				0	sv	Kolumn %COLUMNLETTER				2002-02-02 02:02:02
-sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				0	ta	Column %COLUMNLETTER				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				13691	ta	Column %COLUMNLETTER				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				13691	te-IN	నిలువువరుస %COLUMNLETTER				2002-02-02 02:02:02
 sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				0	tr	Sütun %COLUMNLETTER				2002-02-02 02:02:02
 sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				0	uk	Стовпчик %COLUMNLETTER				2002-02-02 02:02:02
 sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				0	uz	Ustun %COLUMNLETTER				2002-02-02 02:02:02
@@ -83,47 +96,295 @@ sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				0	vi	C�
 sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				0	zh-CN	列 %COLUMNLETTER				2002-02-02 02:02:02
 sw	source\core\unocore\unocore.src	0	string	STR_CHART2_COL_LABEL_TEXT				0	zh-TW	欄 %COLUMNLETTER				2002-02-02 02:02:02
 sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				0	ar	السطر %ROWNUMBER				2002-02-02 02:02:02
-sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				0	be-BY	Радок %ROWNUMBER				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				13691	as-IN	শাৰী %ROWNUMBER				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				13691	be-BY	Радок %ROWNUMBER				2002-02-02 02:02:02
 sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				0	bg	Ред %ROWNUMBER				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				13691	bn	%ROWNUMBER নং সারি				2002-02-02 02:02:02
 sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				0	br	Linenn %ROWNUMBER				2002-02-02 02:02:02
 sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				0	ca	Fila %ROWNUMBER				2002-02-02 02:02:02
-sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				0	cs	Řádek %ROWNUMBER				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				13691	cs	Řádek %ROWNUMBER				2002-02-02 02:02:02
 sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				0	da	Række %ROWNUMBER				2002-02-02 02:02:02
 sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				0	de	Zeile %ROWNUMBER				2002-02-02 02:02:02
-sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				0	el	Γραμμή %ROWNUMBER				2002-02-02 02:02:02
-sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				0	en-GB	Row %ROWNUMBER				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				13691	el	Γραμμή %ROWNUMBER				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				13691	en-GB	Row %ROWNUMBER				2002-02-02 02:02:02
 sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				0	eo	Vico %ROWNUMBER				2002-02-02 02:02:02
 sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				0	es	Fila %ROWNUMBER				2002-02-02 02:02:02
-sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				0	et	Rida %ROWNUMBER				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				13691	et	Rida %ROWNUMBER				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				13691	eu	%ROWNUMBER errenkada				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				0	fi	Rivi %ROWNUMBER				2002-02-02 02:02:02
 sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				0	fr	%ROWNUMBER ligne				2002-02-02 02:02:02
-sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				0	gl	Fila %POWNUMBER				2002-02-02 02:02:02
-sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				13691	gu	હરોળ %ROWNUMBER				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				13691	gl	Fila %POWNUMBER				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				0	gu	હરોળ %ROWNUMBER				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				13691	hi-IN	पंक्ति %ROWNUMBER				2002-02-02 02:02:02
 sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				0	hr	Redak %ROWNUMBER				2002-02-02 02:02:02
 sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				0	hu	%ROWNUMBER. sor				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				0	id	Baris %ROWNUMBER				2002-02-02 02:02:02
 sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				0	it	Riga %ROWNUMBER				2002-02-02 02:02:02
 sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				0	ja	行 %ROWNUMBER				2002-02-02 02:02:02
-sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				0	km	ជួរ​ដេក %ROWNUMBER				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				13691	km	ជួរ​ដេក %ROWNUMBER				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				13691	kn-IN	ಅಡ್ಡಸಾಲು %ROWNUMBER				2002-02-02 02:02:02
 sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				0	ko	%ROWNUMBER 행				2002-02-02 02:02:02
-sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				0	lt	%ROWNUMBER eilutė				2002-02-02 02:02:02
-sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				0	mk	Ред %ROWNUMBER				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				13691	lt	%ROWNUMBER eilutė				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				13691	mk	Ред %ROWNUMBER				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				13691	ml-IN	നിര %ROWNUMBER				2002-02-02 02:02:02
 sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				0	mn	Мөр %ROWNUMBER				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				13691	mr-IN	ओळ %ROWNUMBER				2002-02-02 02:02:02
 sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				0	nb	Rad %ROWNUMBER				2002-02-02 02:02:02
 sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				0	nl	Rij %ROWNUMBER				2002-02-02 02:02:02
 sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				0	nn	Rad %ROWNUMBER				2002-02-02 02:02:02
-sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				0	pa-IN	ਕਤਾਰ %ROWNUMBER				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				0	oc	Linha %ROWNUMBER				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				13691	pa-IN	ਕਤਾਰ %ROWNUMBER				2002-02-02 02:02:02
 sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				0	pl	Wiersz %ROWNUMBER				2002-02-02 02:02:02
 sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				0	pt	Linha %ROWNUMBER				2002-02-02 02:02:02
 sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				0	pt-BR	Linha %ROWNUMBER				2002-02-02 02:02:02
 sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				0	ru	Строка %ROWNUMBER				2002-02-02 02:02:02
 sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				0	rw	Umurongo %ROWNUMBER				2002-02-02 02:02:02
-sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				0	sh	Red %ROWNUMBER				2002-02-02 02:02:02
-sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				0	sl	Vrstica %ROWNUMBER				2002-02-02 02:02:02
-sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				0	sr	Ред %ROWNUMBER				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				0	sa-IN	पङ्क्तिः %ROWNUMBER				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				38235	sh	Red %ROWNUMBER				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				0	sk	Riadok %ROWNUMBER				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				13691	sl	Vrstica %ROWNUMBER				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				38235	sr	Ред %ROWNUMBER				2002-02-02 02:02:02
 sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				0	sv	Rad %ROWNUMBER				2002-02-02 02:02:02
-sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				0	ta	Row %ROWNUMBER				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				13691	ta	Row %ROWNUMBER				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				13691	te-IN	అడ్డువరుస %ROWNUMBER				2002-02-02 02:02:02
 sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				0	tr	Satır %ROWNUMBER				2002-02-02 02:02:02
 sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				0	uk	Рядок %ROWNUMBER				2002-02-02 02:02:02
 sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				0	uz	Satr %ROWNUMBER				2002-02-02 02:02:02
 sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				0	vi	Hàng %ROWNUMBER				2002-02-02 02:02:02
 sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				0	zh-CN	行 %ROWNUMBER				2002-02-02 02:02:02
 sw	source\core\unocore\unocore.src	0	string	STR_CHART2_ROW_LABEL_TEXT				0	zh-TW	列 %ROWNUMBER				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_CHARACTER				0	ar	الحرف				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_CHARACTER				13691	as-IN	আখৰ				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_CHARACTER				13691	be-BY	Знак				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_CHARACTER				13691	bg	Знак				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_CHARACTER				13691	bn	বর্ণ-চিহ্ন				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_CHARACTER				0	ca	Caràcter				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_CHARACTER				13691	cs	Znak				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_CHARACTER				0	da	Tegn				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_CHARACTER				0	de	Zeichen				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_CHARACTER				13691	el	Χαρακτήρας				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_CHARACTER				13691	en-GB	Character				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_CHARACTER				0	es	Caracter				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_CHARACTER				13691	et	Märk				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_CHARACTER				13691	eu	Karakterea				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_CHARACTER				0	fi	Merkki				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_CHARACTER				0	fr	Caractère				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_CHARACTER				13691	gl	Carácter				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_CHARACTER				0	gu	અક્ષર				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_CHARACTER				13691	hi-IN	वर्ण				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_CHARACTER				0	hu	Karakter				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_CHARACTER				0	id	Karakter				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_CHARACTER				0	it	Carattere				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_CHARACTER				0	ja	文字				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_CHARACTER				13691	km	តួអក្សរ				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_CHARACTER				13691	kn-IN	ಅಕ್ಷರ				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_CHARACTER				0	ko	문자				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_CHARACTER				13691	mk	Знак				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_CHARACTER				13691	ml-IN	അക്ഷരം				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_CHARACTER				13691	mr-IN	अक्षर				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_CHARACTER				0	nl	Teken				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_CHARACTER				0	oc	Caractèr				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_CHARACTER				13691	pa-IN	ਅੱਖਰ				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_CHARACTER				0	pl	Znak				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_CHARACTER				0	pt	Carácter				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_CHARACTER				0	pt-BR	Caractere				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_CHARACTER				0	ru	Символ				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_CHARACTER				38235	sh	Znak				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_CHARACTER				0	sk	Znak				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_CHARACTER				13691	sl	Znak				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_CHARACTER				38235	sr	Знак				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_CHARACTER				0	sv	Tecken				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_CHARACTER				13691	ta	எழுத்து				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_CHARACTER				13691	te-IN	 అక్షరం				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_CHARACTER				0	tr	Karakter				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_CHARACTER				0	vi	Ký tự				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_CHARACTER				0	zh-CN	字符				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_CHARACTER				0	zh-TW	字元				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_FRAME				0	ar	الإطار				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_FRAME				13691	as-IN	ফ্ৰেম				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_FRAME				13691	be-BY	Рамка				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_FRAME				13691	bg	Рамка				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_FRAME				13691	bn	ফ্রেম				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_FRAME				0	ca	Marc				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_FRAME				13691	cs	Rámec				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_FRAME				0	da	Ramme				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_FRAME				0	de	Rahmen				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_FRAME				13691	el	Πλαίσιο				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_FRAME				13691	en-GB	Frame				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_FRAME				0	es	Marco				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_FRAME				13691	et	Paneel				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_FRAME				13691	eu	Markoa				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_FRAME				0	fi	Kehys				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_FRAME				0	fr	Cadre				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_FRAME				13691	gl	Marco				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_FRAME				0	gu	ફ્રેમ				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_FRAME				13691	hi-IN	ढाँचा				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_FRAME				0	hu	Keret				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_FRAME				0	id	Frame				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_FRAME				0	it	Cornice				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_FRAME				0	ja	フレーム				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_FRAME				13691	km	ស៊ុម				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_FRAME				13691	kn-IN	ಚೌಕಟ್ಟು				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_FRAME				0	ko	프레임				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_FRAME				13691	mk	Рамка				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_FRAME				13691	ml-IN	ഫ്രെയിം				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_FRAME				13691	mr-IN	चौकट				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_FRAME				0	nl	Frame				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_FRAME				0	oc	Quadre				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_FRAME				13691	pa-IN	ਫਰੇਮ				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_FRAME				0	pl	Ramka				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_FRAME				0	pt	Moldura				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_FRAME				0	pt-BR	Quadro				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_FRAME				0	ru	Врезка				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_FRAME				38235	sh	Okvir				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_FRAME				0	sk	Rámec				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_FRAME				13691	sl	Okvir				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_FRAME				38235	sr	Оквир				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_FRAME				0	sv	Ram				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_FRAME				13691	ta	சட்டம்				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_FRAME				13691	te-IN	చట్రం				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_FRAME				0	tr	Çerçeve				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_FRAME				0	vi	Khung				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_FRAME				0	zh-CN	图文框				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_FRAME				0	zh-TW	文字方塊				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_NUMBERING				0	ar	تعداد رقمي				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_NUMBERING				13691	as-IN	নাম্বাৰীং 				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_NUMBERING				13691	be-BY	Нумарацыя				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_NUMBERING				13691	bg	Номерация				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_NUMBERING				13691	bn	সংখ্যায়ন				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_NUMBERING				0	ca	Numeració				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_NUMBERING				13691	cs	Číslování				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_NUMBERING				0	da	Nummerering				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_NUMBERING				0	de	Listen				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_NUMBERING				13691	el	Αρίθμηση				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_NUMBERING				13691	en-GB	Numbering				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_NUMBERING				0	es	Numeración				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_NUMBERING				13691	et	Nummerdus				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_NUMBERING				13691	eu	Numerazioa				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_NUMBERING				0	fi	Numerointi				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_NUMBERING				0	fr	Numérotation				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_NUMBERING				13691	gl	Numeración				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_NUMBERING				0	gu	ગણતરી				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_NUMBERING				13691	hi-IN	क्रमांकण				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_NUMBERING				0	hu	Számozás				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_NUMBERING				0	id	Penomoran				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_NUMBERING				0	it	Elenco				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_NUMBERING				0	ja	番号付け				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_NUMBERING				13691	km	ដាក់​លេខរៀង				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_NUMBERING				13691	kn-IN	ಅನುಕ್ರಮಣಿಕೆ				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_NUMBERING				0	ko	번호 매기기				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_NUMBERING				13691	mk	Нумерирање				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_NUMBERING				13691	ml-IN	അക്കമിടുക				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_NUMBERING				13691	mr-IN	क्रमांकन				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_NUMBERING				0	nl	Nummering				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_NUMBERING				0	oc	Numeracion				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_NUMBERING				13691	pa-IN	ਗਿਣਤੀ				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_NUMBERING				0	pl	Numeracja				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_NUMBERING				0	pt	Numeração				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_NUMBERING				0	pt-BR	Numeração				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_NUMBERING				0	ru	Нумерация				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_NUMBERING				38235	sh	Numerisanje				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_NUMBERING				0	sk	Číslovanie				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_NUMBERING				13691	sl	Oštevilčevanje				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_NUMBERING				38235	sr	Нумерисање				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_NUMBERING				0	sv	Numrering				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_NUMBERING				13691	ta	எண்ணிடல்				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_NUMBERING				13691	te-IN	సంఖ్యనిచ్చుట				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_NUMBERING				0	tr	Numaralama				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_NUMBERING				0	vi	Đánh số				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_NUMBERING				0	zh-CN	编号				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_NUMBERING				0	zh-TW	編號				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PAGE				0	ar	الصفحات				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PAGE				13691	as-IN	পৃষ্ঠাবোৰ				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PAGE				13691	be-BY	Старонкі				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PAGE				13691	bg	Страници				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PAGE				13691	bn	পৃষ্ঠাসমূহ				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PAGE				0	ca	Pàgines				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PAGE				13691	cs	Stránky				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PAGE				0	da	Sider				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PAGE				0	de	Seiten				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PAGE				13691	el	Σελίδες				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PAGE				13691	en-GB	Pages				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PAGE				0	es	Páginas				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PAGE				13691	et	Leheküljed				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PAGE				13691	eu	Orrialdeak				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PAGE				0	fi	Sivut				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PAGE				0	fr	Pages				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PAGE				13691	gl	Páxinas				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PAGE				0	gu	પાનાંઓ				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PAGE				13691	hi-IN	पृष्ठ				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PAGE				0	hu	Oldalak				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PAGE				0	id	Halaman				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PAGE				0	it	Pagine				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PAGE				0	ja	ページ				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PAGE				13691	km	ទំព័រ				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PAGE				13691	kn-IN	ಪುಟಗಳು				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PAGE				0	ko	페이지				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PAGE				13691	mk	Страници				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PAGE				13691	ml-IN	താളുകള്‍				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PAGE				13691	mr-IN	पाने				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PAGE				0	nl	Pagina's				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PAGE				0	oc	Paginas				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PAGE				13691	pa-IN	ਪੇਜ਼				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PAGE				0	pl	Strony				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PAGE				0	pt	Páginas				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PAGE				0	pt-BR	Páginas				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PAGE				0	ru	Страницы				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PAGE				38235	sh	Stranice				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PAGE				0	sk	Strany				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PAGE				13691	sl	Strani				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PAGE				38235	sr	Странице				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PAGE				0	sv	Sidor				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PAGE				13691	ta	பக்கங்கள்				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PAGE				13691	te-IN	పుటలు				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PAGE				0	tr	Sayfalar				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PAGE				0	vi	Trang				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PAGE				0	zh-CN	页面				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PAGE				0	zh-TW	頁面				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PARAGRAPH				0	ar	فقرة				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PARAGRAPH				13691	as-IN	পেৰেগ্ৰাফ				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PARAGRAPH				13691	be-BY	Абзац				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PARAGRAPH				13691	bg	Абзац				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PARAGRAPH				13691	bn	অনুচ্ছেদ				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PARAGRAPH				0	ca	Paràgraf				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PARAGRAPH				13691	cs	Odstavec				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PARAGRAPH				0	da	Afsnit				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PARAGRAPH				0	de	Absatz				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PARAGRAPH				13691	el	Παράγραφος				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PARAGRAPH				13691	en-GB	Paragraph				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PARAGRAPH				0	es	Párrafo				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PARAGRAPH				13691	et	Lõik				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PARAGRAPH				13691	eu	Paragrafoa				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PARAGRAPH				0	fi	Kappale				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PARAGRAPH				0	fr	Paragraphe				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PARAGRAPH				13691	gl	Parágrafo				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PARAGRAPH				0	gu	ફકરો				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PARAGRAPH				13691	hi-IN	अनुच्छेद				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PARAGRAPH				0	hu	Bekezdés				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PARAGRAPH				0	id	Paragraf				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PARAGRAPH				0	it	Paragrafo				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PARAGRAPH				0	ja	段落				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PARAGRAPH				13691	km	កថាខណ្ឌ				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PARAGRAPH				13691	kn-IN	ಪ್ಯಾರಾಗ್ರಾಫ್				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PARAGRAPH				0	ko	단락				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PARAGRAPH				13691	mk	Пасус				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PARAGRAPH				13691	ml-IN	ഖണ്ഡിക				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PARAGRAPH				13691	mr-IN	परिच्छेद				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PARAGRAPH				0	nl	Alinea				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PARAGRAPH				0	oc	Paragraf				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PARAGRAPH				13691	pa-IN	ਪ੍ਹੈਰਾ				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PARAGRAPH				0	pl	Akapit				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PARAGRAPH				0	pt	Parágrafo				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PARAGRAPH				0	pt-BR	Parágrafo				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PARAGRAPH				0	ru	Абзац				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PARAGRAPH				38235	sh	Pasus				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PARAGRAPH				0	sk	Odstavec				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PARAGRAPH				13691	sl	Odstavek				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PARAGRAPH				38235	sr	Пасус				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PARAGRAPH				0	sv	Stycke				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PARAGRAPH				13691	ta	பத்தி				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PARAGRAPH				13691	te-IN	పరిచ్ఛేధం				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PARAGRAPH				0	tr	Paragraf				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PARAGRAPH				0	vi	Đoạn				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PARAGRAPH				0	zh-CN	段落				2002-02-02 02:02:02
+sw	source\core\unocore\unocore.src	0	string	STR_STYLE_FAMILY_PARAGRAPH				0	zh-TW	段落				2002-02-02 02:02:02

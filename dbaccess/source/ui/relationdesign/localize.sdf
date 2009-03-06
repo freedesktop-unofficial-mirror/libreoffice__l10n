@@ -15,9 +15,9 @@
 #
 # OpenOffice.org - a multi-platform office productivity suite
 #
-# $RCSfile: localize.sdf,v $
+# $RCSfile:localize.pl,v $
 #
-# $Revision: 1.33 $
+# $Revision: 1.17.4.1 $
 #
 # This file is part of OpenOffice.org.
 #
@@ -159,45 +159,55 @@ dbaccess	source\ui\relationdesign\relation.src	0	menuitem	RID_RELATION_DESIGN_MA
 dbaccess	source\ui\relationdesign\relation.src	0	menuitem	RID_RELATION_DESIGN_MAIN_MENU.MN_EDIT	ID_BROWSER_UNDO	SID_UNDO		0	zh-TW	復原				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				0	af	Die verwantskapsontwerp is gewysig.\nWil u die veranderinge stoor?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				0	ar	تم تغيير تصميم العلاقة.\nهل تريد حفظ التغييرات؟				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				0	as-IN	সম্বন্ধ ডিজাইনটো সলনি কৰা হৈছে.\nঅপুনি সলনিবোৰ ছেভ কৰিবলৈ বিচাৰেনে?				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				0	be-BY	Структура стасунку была зменена.\nЦі жадаеце замацаваць змены?				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				0	bg	Проектът на релацията е бил променен.\nЖелаете ли да съхраните промените?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				13691	as-IN	সম্বন্ধ ডিজাইনটো সলনি কৰা হৈছে.\nঅপুনি সলনিবোৰ ছেভ কৰিবলৈ বিচাৰেনে?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				13691	be-BY	Структура стасунку была зменена.\nЦі жадаеце замацаваць змены?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				13691	bg	Проектът на релациите е бил променен.\nЖелаете ли да съхраните промените?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				13691	bn	সম্পর্ক নকশা পরিবর্তীত হয়েছে।\nআপনি কি পরিবর্তনসমূহ সংরক্ষণ করতে চান?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				0	br	Daskemmet eo bet an divraz darempred.\nEnrollañ an daskemmadurioù a fell deoc'h ?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				1	brx	सोमोन्दो डिजाइना सोलाय जाबाय।\nसोलायनाय फोरखौ नोंथाङा थिनो सानो नामा?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				0	bs	The relation design has been changed.\nDo you want to save the changes?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				0	ca	El disseny de la relació ha canviat.\nVoleu desar els canvis?				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				0	cs	Návrh relace byl změněn.\nChcete změny uložit?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				13691	cs	Návrh relace byl změněn.\nChcete změny uložit?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				0	cy	Mae'r cynllun cydberthynas wedi newid.\nHoffech chi gadw'r newidiadau?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				1	da	Relationsdesignet er blevet ændret.\nSkal ændringerne gemmes?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				0	de	Der Relationeneentwurf wurde geändert.\nSollen die Änderungen gespeichert werden?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				1	dgo	सरबंध डजैन बदलोई गेदा ऐ.\n क्या तुस तब्दीलियां बचाना चांह्‌दे ओ? 				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				13691	dz	མཐུན་འབྲེལ་བཀོད་བསྒྲིག་འདི་ བསྒྱུར་བཅོས་འབད་ཡི།\nཁྱོད་ཀྱིས་ བསྒྱུར་བཅོས་འབད་དེ་ཡོད་མི་འདི་ སྲུང་ནི་ཨིན་ན?				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				0	el	Το σχέδιο της σχέσης τροποποιήθηκε.\nΘέλετε να αποθηκευτούν οι αλλαγές;				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				0	en-GB	The relation design has been changed.\nDo you want to save the changes?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				13691	el	Το σχέδιο της σχέσης τροποποιήθηκε.\nΘέλετε να αποθηκευτούν οι αλλαγές;				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				13691	en-GB	The relation design has been changed.\nDo you want to save the changes?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				0	en-ZA	The relation design has been changed.\nDo you want to save the changes?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				0	eo	La skizo de cxi tiu rilato sxangxigxis.\nCxi vi volas konservi la sxangxojn?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				0	es	El diseño de relación ha sido modificado\n¿Desea guardar las modificaciones?				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				0	et	Relatsioone on muudetud.\nKas soovid muudatused salvestada?				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				0	fi	Yhteyksien rakennetta on muutettu.\nHaluatko tallentaa muutokset?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				13691	et	Relatsioone on muudetud.\nKas soovid muudatused salvestada?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				13691	eu	Erlazio-diseinuan aldaketak egin dira.\nGorde nahi dituzu?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				1	fi	Yhteyksien rakennetta on muutettu.\nHaluatko tallentaa muutokset?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				0	fr	L'ébauche de relation a été modifiée.\nVoulez-vous enregistrer les modifications ?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				13691	ga	Athraíodh dearadh an ghaoil.\nAr mhaith leat na hathruithe a shábháil?				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				0	gl	O deseño de relación foi modificado.\nDesexa gardar as modificacións?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				13691	gl	O deseño de relación foi modificado.\nDesexa gardar as modificacións?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				0	gu	સંબંધ રચના બદલાઈ ગયેલ છે.\nશું તમે ફેરફારો સંગ્રહવા માંગો છો?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				1	gu-IN	સંબંધ રચના બદલાઈ ગયેલ છે.\nશું તમે ફેરફારો સંગ્રહવા માંગો છો?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				0	he	תכנון היחסים שונה.\nהאם לשמור את השינויים?‏				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				1	hi-IN	संबंधन डिजायन में परिवर्तन किया है. \nआप परिवर्तनों को संचित करना चाहते हैं?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				13691	hi-IN	कनेक्शन डिजायन में परिवर्तन किया है. \nआप परिवर्तनों को संचित करना चाहते हैं?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				0	hr	Dizajn relacija je promijenjen.\nŽelite li spremiti promjene?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				0	hu	A relációelrendezés megváltozott.\nKívánja menteni a változásokat?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				0	id	Desain relasi sudah berubah.\nApakah Anda hendak menyimpan perubahan?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				0	it	La struttura relazione è stata cambiata.\nVolete salvare le modifiche?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				0	ja	リレーションデザインが変更されています。\n変更を保存しますか。				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				0	ka	შეიცვალა კავშირის დიზაინი.\n გსურთ ცვლილებების შენახვა?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				0	kk	Байланыстар өзгерiтiлген. \n Өзгерутiлердi сақтайын ба?				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				0	km	ការ​រចនា​ទំនាក់​ទំនង​ត្រូវ​បាន​ប្តូរ ។\nតើ​អ្នក​ចង់​រក្សាទុក​ការ​ផ្លាស់ប្តូរ​ឬ​ទេ ?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				13691	km	ការ​រចនា​ទំនាក់​ទំនង​ត្រូវ​បាន​ប្តូរ ។\nតើ​អ្នក​ចង់​រក្សាទុក​ការ​ផ្លាស់ប្តូរ​ឬ​ទេ ?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				13691	kn-IN	ಸಂಬಂಧ ವಿನ್ಯಾಸವನ್ನು ಬದಲಾಯಿಸಲಾಗಿದೆ.\nಬದಲಾವಣೆಗಳನ್ನು ಉಳಿಸಲು ಬಯಸುತ್ತೀರೆ?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				0	ko	관계 디자인이 변경되었습니다.\n변경 사항을 저장하겠습니까?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				1	kok	संबंद डिजायनात बदल केला.\nकेल्ल्या बदलांची  तुमी जतनाय करपाक सोदतात?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				1	ks	ریلیشن  ڈیزائنس منز چھئ   تبدیلی آمژ\nتہہ چھئو یژھان   تبدیلی محفوظ   کر ن ؟				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				0	ku	Sêwira têkiliye guherî.\nHûn dixwazin guhertinan tomar bikin?				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				0	lt	Sąryšio projektas pakeistas.\nAr įrašyti pakeitimus?				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				0	mk	Дизајнот на релациите е изменет.\nДали сакате да ги зачувате измените?				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				0	ml-IN	ഡിസൈന് ബന്ധുത്വം മാറി.\nഈ മാറ്റം സംഭരിക്കണോ?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				13691	lt	Sąryšio projektas pakeistas.\nAr įrašyti pakeitimus?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				1	mai	संबंधन डिजायनमे परिवर्तन कएल अछि \n की अहाँ परिवर्तनकेँ सहेजब चाहैत छी?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				13691	mk	Дизајнот на релациите е изменет.\nДали сакате да ги зачувате измените?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				13691	ml-IN	ഡിസൈന് ബന്ധുത്വം മാറി.\nഈ മാറ്റം സംഭരിക്കണോ?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				0	mn	Хамаарлын дизайн өөрчлөгдлөө.\nТа тэдгээр өөрчлөлтүүдийг хадгалахыг хүсэж байна уу?				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				0	mr-IN	संबंधित नक्षी बदलली आहे.\nआपणांस केलेले बदल संचित करायचे आहेत का?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				1	mni	মরী লৈন্নবা দিজাইনদু হোংলে.\nঅহোংবদু সেভ তৌবা পাম্বিবরা?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				13691	mr-IN	संबंधित नक्षी बदलेली आहे.\nआपणास केलेले बदल जतन करायचे आहेत का?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				0	my	ဒီဇိုင်းပုံစံ ဆက်နွယ်မှု ပြောင်းလဲထားပြီ။ \n ပြောင်းလဲမှုများ သိမ်းရန် ဆန္ဒရှိပါသလား?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				0	nb	Relasjonsutformingen er endret.\nVil du lagre endringene?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				0	ne	सम्बन्ध डिजाइन परिवर्तन गरियो ।\nतपाईँले परिवर्तनहरूलाई बचत गर्न चाहनुहुन्छ ?				2002-02-02 02:02:02
@@ -205,24 +215,28 @@ dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMO
 dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				0	nn	Utforminga av relasjonar er endra.\nVil du lagra endringane?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				0	nr	Ukutlameka kwetjhebiswano kutjhugululiwe.\nUfuna ukubulunga amatjhuguluko?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				0	ns	Botlhami bja tswalano bo fetotšwe.\nNa o nyaka go boloka diphetogo?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				0	oc	La concepcion de relacions a cambiat.Volètz salvagardar los cambiaments ? 				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				0	or-IN	ସମ୍ବନ୍ଧୀଯ ଡିଜାଇନ ପରିବର୍ତ୍ତନ ହୋଇସାରିଛି୤\nତୁମେ ଏହି ପରିବର୍ତ୍ତନକୁ ସଞ୍ଚଯ କରିବାକୁ ଚାହୁଁଛ କି?				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				0	pa-IN	ਸੰਬੰਧ ਡਿਜ਼ਾਇਨ ਤਬਦੀਲ ਹੋ ਗਿਆ।\nਕੀ ਤੁਸੀਂ ਤਬਦੀਲੀਆਂ ਸੰਭਾਲਣੀਆਂ ਚਾਹੁੰਦੇ ਹੋ?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				13691	pa-IN	ਸੰਬੰਧ ਡਿਜ਼ਾਇਨ ਤਬਦੀਲ ਹੋ ਗਿਆ।\nਕੀ ਤੁਸੀਂ ਤਬਦੀਲੀਆਂ ਸੰਭਾਲਣੀਆਂ ਚਾਹੁੰਦੇ ਹੋ?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				0	pl	Zmieniono projekt relacji.\nCzy zapisać zmiany?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				0	pt	A concepção da relação foi alterada.\nPretende guardar as alterações?				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				0	pt-BR	O design da relação foi alterado.\nDeseja salvar as alterações?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				0	pt-BR	A relação foi editada.\nDeseja salvar as alterações?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				0	ru	Связи были изменены.\nСохранить изменения?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				0	rw	Ihanga ry'isano ryahinduwe.\nWifuza kubika amahinduka?				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				0	sh	Izgled relacije je promenjen.\nŽelite li da sačuvate izmene?				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				0	sk	Schéma relácií bola zmenená\nPrajete si zmeny uložiť?				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				0	sl	Oblikovanje relacij je bilo spremenjeno.\nŽelite shraniti spremembe?				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				0	sr	Изглед релације је промењен.\nЖелите ли да сачувате измене?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				1	sa-IN	संबन्धनघटनं परिवर्तितम् ।\nकिं भवान् परिवर्तनान् सञ्चयितुम् इच्छति ?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				1	sat	सा़गा़य जोह बोदोल आकाना.\n चेत् आम बोदोलाक् को सांचाव सानाम काना?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				1	sd	سنٻنڌ جو ڍانچو بدلايو ويو آهي۔ \n ڇا توهين اهي تبديليون سانڍڻ چاهيو ٿا؟ 				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				38219	sh	Relacija je promenjena.\nŽelite li da sačuvate izmene?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				1	sk	Schéma relácií bola zmenená\nPrajete si zmeny uložiť?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				13691	sl	Oblikovanje relacij je bilo spremenjeno.\nŽelite shraniti spremembe?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				38219	sr	Релација је промењена.\nЖелите ли да сачувате измене?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				0	ss	Lomsiko wekuhlobana sewuguculiwee.\nUyafuna yini kuseva letingucuko?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				0	st	Boqapi ba kamano bo se ntse bo fetotswe.\nNa o batla ho boloka diphetoho?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				0	sv	Relationsutkastet har ändrats.\nSka ändringarna sparas?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				0	sw-TZ	Buni uhusiano umekwisha badilishwa.\nUnataka kuhifadhi mabadiliko?				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				0	ta	தொடர்பு வடிவமைப்புகள் மாற்றபட்டு உள்ளது .\nமாறுதல்களை நீங்கள்  சேமிக்க விரும்புகிறீர்களா ?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				13691	ta	தொடர்பு வடிவாக்கம் மாற்றபட்டுள்ளது.\nமாற்றங்களைச் சேமிக்க வேண்டுகிறீர்களா?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				1	ta-IN	தொடர்பு வடிவமைப்புகள் மாற்றபட்டு உள்ளது .\nமாறுதல்களை நீங்கள்  சேமிக்க விரும்புகிறீர்களா ?				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				0	te-IN	 బాంధవ్య డిజైన్ మరంచబడినది.\n ఈ మార్పులను దాచవలెననుకుంలున్నావా?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				13691	te-IN	 బాంధవ్య డిజైన్ మరంచబడినది.\n ఈ మార్పులను దాచవలెననుకుంలున్నావా?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				0	tg	Нақшабандии муносибатҳо тағир ёфт.\nТағирот сабт арда шавад?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				0	th	The relation design has been changed.\nDo you want to save the changes?แบบความสัมพันธ์มีการเปลี่ยนแปลง\nคุณต้องการบันทึกการเปลี่ยนแปลงหรือไม่?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				0	ti-ER	ቅዲ ዝምድና ተቐዪሩ። \n ክትዕቅቦ ዶ ትደሊ?				2002-02-02 02:02:02
@@ -237,88 +251,113 @@ dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMO
 dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				0	zh-CN	这个关系设计已经被修改。\n是否要保存这些修改内容？				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				0	zh-TW	這個關係設計已經變更。\n要儲存變更內容？				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	querybox	RELATION_DESIGN_SAVEMODIFIED				0	zu	Umklamo wobudlelwano ushintshiwe.\nUfuna ukuseyva izinguquko?				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_CREATE				0	ar	أنشيء...				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_CREATE				0	be-BY	Дадаць...				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_CREATE				0	ar	إنشاء...				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_CREATE				13691	as-IN	সৃষ্টি কৰক...				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_CREATE				13691	be-BY	Дадаць...				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_CREATE				0	bg	Създаване...				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_CREATE				13691	bn	তৈরি করুন...				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_CREATE				0	br	~Krouiñ				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_CREATE				0	ca	Crea...				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_CREATE				0	cs	Vytvořit...				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_CREATE				13691	cs	Vytvořit...				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_CREATE				1	da	Opret...				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_CREATE				0	de	Erstellen...				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_CREATE				0	el	Δημιουργία...				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_CREATE				13691	el	Δημιουργία...				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_CREATE				13691	en-GB	Create...				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_CREATE				0	es	Crear...				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_CREATE				0	et	Loo...				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_CREATE				13691	et	Loo...				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_CREATE				13691	eu	Sortu...				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_CREATE				1	fi	Luo uusi...				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_CREATE				0	fr	Créer...				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_CREATE				0	gl	Crear...				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_CREATE				13691	gl	Crear...				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_CREATE				0	gu	બનાવો...				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_CREATE				13691	hi-IN	बनाएँ...				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_CREATE				0	hu	Létrehozás...				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_CREATE				0	id	Buat...				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_CREATE				0	it	Crea...				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_CREATE				0	ja	作成...				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_CREATE				0	km	បង្កើត...				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_CREATE				13691	km	បង្កើត...				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_CREATE				13691	kn-IN	ರಚಿಸು...				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_CREATE				0	ko	만들기...				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_CREATE				0	ku	Afirandin...				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_CREATE				0	lt	Sukurti...				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_CREATE				0	mk	Создади...				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_CREATE				13691	lt	Sukurti...				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_CREATE				13691	mk	Создади...				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_CREATE				13691	ml-IN	ഉണ്ടാക്കുക...				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_CREATE				0	mn	Үүсгэх...				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_CREATE				13691	mr-IN	निर्माण करा...				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_CREATE				0	nb	Lag …				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_CREATE				0	ne	सिर्जना गर्नुहोस्...				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_CREATE				0	nl	Maken...				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_CREATE				0	nn	Lag …				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_CREATE				0	pa-IN	ਬਣਾਓ...				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_CREATE				0	oc	Crear...				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_CREATE				13691	pa-IN	ਬਣਾਓ...				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_CREATE				0	pl	Utwórz...				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_CREATE				0	pt	Criar...				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_CREATE				0	pt-BR	Criar...				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_CREATE				0	ru	Создать...				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_CREATE				0	sh	Napravi...				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_CREATE				0	sl	Ustvari ...				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_CREATE				0	sr	Направи...				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_CREATE				1	sa-IN	उत्पादय...				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_CREATE				38219	sh	Napravi...				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_CREATE				1	sk	Vytvoriť...				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_CREATE				13691	sl	Ustvari ...				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_CREATE				38219	sr	Направи...				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_CREATE				0	sv	Skapa...				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_CREATE				0	ta	Create...				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_CREATE				13691	ta	உருவாக்கு...				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_CREATE				13691	te-IN	సృష్టించు				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_CREATE				0	tr	Oluştur...				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_CREATE				0	uk	Створити...				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_CREATE				0	vi	Tạo...				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_CREATE				0	zh-CN	创建...				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_CREATE				0	zh-TW	建立...				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				0	af	Wanneer u hierdie tabel skrap, sal alle ooreenstemmende verwantskappe ook geskrap word. Gaan voort?				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				0	ar	عندما تحذف هذا الجدول، ستحذف كل العلاقات كذلك. أتريد الاستمرار؟				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				0	as-IN	আপুনি যেতিয়াই এই টেবুলখন ডিলিট কৰে সকলো সদৃশ সম্বন্ধও ডিলিট হব. আপুনি অব্যাহত ৰাখিবনে?				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				0	be-BY	Пры сціранні гэтай табліцы, усе стасункі, якія датычаць яе, будуць таксама сцёрты. Дык ці рабіць гэта?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				0	ar	عندما تحذف هذا الجدول، سيتم أيضًا حذف جميع العلاقات المطابقة. هل تريد المتابعة؟				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				13691	as-IN	আপুনি যেতিয়াই এই টেবুলখন ডিলিট কৰে সকলো সদৃশ সম্বন্ধও ডিলিট হব. আপুনি অব্যাহত ৰাখিবনে?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				13691	be-BY	Пры сціранні гэтай табліцы, усе стасункі, якія датычаць яе, будуць таксама сцёрты. Дык ці рабіць гэта?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				0	bg	Когато бъде изтрита таблицата, всички релации към нея също ще бъдат изтрити. Продължение?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				13691	bn	আপনি যখন এই সারণীটি মুছে ফেলবেন তখন সংশ্লিষ্ট সব সম্পর্কও মুছে যাবে। অব্যাহত রাখতে চান?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				0	br	Lemel kuit an daol-mañ a lam kuit an darempredoù liammet. Kenderc'hel ?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				1	brx	जेब्ला नोंथाङा गासैबो सोमोन्दोफोरनि बे फारिलाइखौ हुखुमोरगोन अब्ला गासैबो गोमोरगोन? सालायबाय थानो सानो नामा?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				0	bs	Kada izbrišete ovu tabelu sve odgovarajuće relacije će takođe biti izbrisane. Nastaviti?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				0	ca	Quan s'elimini aquesta taula també se suprimiran les relacions associades. Voleu continuar?				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				0	cs	Pokud zrušíte tuto tabulku, budou všechny k ní vztažené relace zrušeny také. Pokračovat?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				13691	cs	Pokud zrušíte tuto tabulku, budou všechny k ní vztažené relace zrušeny také. Pokračovat?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				0	cy	Wrth ddileu'r tabl hwn bydd holl gydberthynas gyfatebol yn cael ei ddileu hefyd. Parhau?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				1	da	Hvis du sletter denne tabel, slettes også alle tilhørende relationer. Vil du fortsætte?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				0	de	Wenn Sie diese Tabelle löschen werden alle zugehörigen Relationen ebenfalls gelöscht. Fortfahren?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				1	dgo	जिसलै इस टेबल गी  म्हेसदे ओ, सब्भै सरबंधत सरबंध कन्नै गै मस्होई जाङन. क्या जारी र’वै? 				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				13691	dz	ཁྱོད་ཀྱིས་ ཐིག་ཁྲམ་འདི་བཏོན་གཏངམ་ད་ ཆ་མཉམ་པའི་མཐུན་འབྲེལ་ཚུ་ཡང་འཐོན་འགྱོ་འོང་། འཕྲོ་མཐུད་ནི་ཨིན་ན?				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				0	el	 Όταν διαγράψετε αυτό τον πίνακα, θα διαγραφούν επίσης και όλες οι αντίστοιχες σχέσεις. Θέλετε να συνεχίσετε;				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				0	en-GB	When you delete this table all corresponding relations will be deleted as well. Continue?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				13691	el	Όταν διαγράψετε αυτό τον πίνακα, θα διαγραφούν επίσης και όλες οι αντίστοιχες σχέσεις. Θέλετε να συνεχίσετε;				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				13691	en-GB	When you delete this table all corresponding relations will be deleted as well. Continue?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				0	en-ZA	When you delete this table all corresponding relations will be deleted as well. Continue?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				0	eo	Kiam vi forigos cxi tiun tabelon cxiuj korespondaj rilatoj estos ankaux forigitaj. Cxu dauxrigi?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				0	es	Si elimina esta tabla se eliminarán también todas las relaciones correspondientes. ¿Desea continuar?				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				0	et	Tabeli kustutamisel kustutatakse ka kõik vastavad relatsioonid. Kas sa soovid jätkata?				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				0	fi	Kun poistat tämän taulun, kaikki siihen liittyvät relaatiot poistetaan myös. Jatketaanko?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				13691	et	Tabeli kustutamisel kustutatakse ka kõik vastavad relatsioonid. Kas sa soovid jätkata?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				13691	eu	Taula hau ezabatzen baduzu, dagozkion erlazio guztiak ere ezabatu egingo dira. Jarraitu nahi duzu?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				1	fi	Kun poistat tämän taulun, kaikki siihen liittyvät relaatiot poistetaan myös. Jatketaanko?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				0	fr	Supprimer cette table entraîne la suppression des relations associées. Continuer ?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				13691	ga	Nuair a scriosfaidh tú an tábla seo, scriosfar gach gaol a bhaineann leis freisin. Lean ar aghaidh?				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				0	gl	Se elimina esta táboa eliminaranse tamén todas as relacións correspondentes. Desexa continuar?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				13691	gl	Se elimina esta táboa eliminaranse tamén todas as relacións correspondentes. Desexa continuar?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				0	gu	જ્યારે તમે આ કોષ્ટક દૂર કરો તો અનુરુપ સંબંધો કાઢી નખાશે. ચાલુ રાખવુ છે?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				1	gu-IN	જ્યારે તમે આ કોષ્ટક દૂર કરો તો અનુરુપ સંબંધો કાઢી નખાશે. ચાલુ રાખવુ છે?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				0	he	בעת מחיקת טבלה זו, כל היחסים השייכים לטבלה יימחקו גם כן. האם להמשיך?‏				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				1	hi-IN	इस सारणी को मिटाने के समय इसके सब सम्बन्ध भी मिट जाएगा. जारी रखना है?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				13691	hi-IN	इस सारणी को मिटाते समय इसक सभी सम्बन्ध भी मिट जाऐंगे. जारी रखना है?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				0	hr	Kada obrišete ovu tablicu, sve pripadajuće relacije također će biti obrisane. Želite li nastaviti?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				0	hu	E tábla törlésével az összes kapcsolódó reláció is törlődni fog. Folytatja?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				0	id	Ketika Anda menghapus tabel ini, semua relasi yang ada juga akan dihapus. Lanjutkan?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				0	it	Eliminando questa tabella eliminerete anche tutte le relazioni corrispondenti. Volete procedere comunque?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				0	ja	このテーブルを削除すると、これに属するすべてのリレーションも削除されてします。続行しますか。				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				0	ka	როდესაც თქვენ შლით შესაბამის ცხრილს, ყველა შესაბამისი კავშირი წაიშლება. გავაგრძელო?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				0	kk	Бұл кестенi жою барлық бiрге байланыстарының жоюна келтiру мүмкiн. Жалғастыру керек пе?				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				0	km	ពេល​អ្នក​លុប​តារាង​នេះ ទំនាក់​ទំនង​ដែល​ត្រូវ​គ្នា​ទាំងអស់ នឹង​ត្រូវ​បាន​លុប​ផង​ដែរ ។ បន្តឬ ?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				13691	km	ពេល​អ្នក​លុប​តារាង​នេះ ទំនាក់​ទំនង​ដែល​ត្រូវ​គ្នា​ទាំងអស់ នឹង​ត្រូវ​បាន​លុប​ផង​ដែរ ។ បន្តឬ ?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				13691	kn-IN	ನೀವು ಈ ಕೋಷ್ಟಕವನ್ನು ಅಳಿಸಿದಾಗ ಅದರ ಎಲ್ಲಾ ಸಂಬಂಧಗಳೂ ಸಹ ಅಳಿಸಲ್ಪಡುತ್ತವೆ. ಮುಂದುವರೆಯಬೇಕೆ?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				0	ko	이 테이블을 삭제하면 해당하는 모든 관계들도 삭제됩니다. 계속하겠습니까?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				1	kok	तुमीं जेन्ना हे कोष्टक काडून उडयतले तेन्ना वांगडचे संबंदूय काडून उडयले वतले? चालू दवरुपाचे?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				1	ks	اگرتہہ سئری  جدول خئرج  چھئو یژھان كرِن مطابقئ   ریلیشنس تئہ گژھن  خئرج ۔جئری تھئویو؟				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				0	ku	Ger hûn vî tabloyê jê bibin hemû tiştên pêra têkildar jî jê terin. Hûn dixwazin berdewam bikin?				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				0	lt	Jei pašalinsite šią lentelę, bus pašalinti visi su ja susiję sąryšiai. Ar tęsti?				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				0	mk	Кога ќе ја избришете табелата, сите релации што се однесуваат на неа ќе бидат избришани. Ќе продолжите?				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				0	ml-IN	ഈ പട്ടിക നീക്കം ചെയ്താല് ഇതിനോട് ബന്ധപ്പെട്ടതെല്ലാം നീക്കം ചെയ്യപ്പെടും. തുടരണോ?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				13691	lt	Jei pašalinsite šią lentelę, bus pašalinti visi su ja susiję sąryšiai. Ar tęsti?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				1	mai	जखन अहाँ ई सारणीकेँ मेटाबए छी सभ जुड़ल संबंध मेट जएताह. जारी रखनाइ अछि?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				13691	mk	Кога ќе ја избришете табелата, сите релации што се однесуваат на неа ќе бидат избришани. Ќе продолжите?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				13691	ml-IN	ഈ പട്ടിക നീക്കം ചെയ്താല് ഇതിനോട് ബന്ധപ്പെട്ടതെല്ലാം നീക്കം ചെയ്യപ്പെടും. തുടരണോ?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				0	mn	Хэрэв та энэ хүснэгтийг устгавал бүх холбоотой хамаарлууд мөн устана. Үргэлжлүүлэх үү?				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				0	mr-IN	जेव्हां आपण ही तालिका हटवाल तेव्हां सर्व संबंध पण हटवले जातील? चालू ठेवायचे का?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				1	mni	অদোম্না তেবলসি মুত্থত্পা মতমদা মরী লৈন্নবা মরী খুদিংমক মুত্থতখ্রগনি. মখা চত্থখিগদ্রা?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				13691	mr-IN	जेव्हा आपण हे कोष्टक काढून टाकाल तेव्हा सर्व संबंध पण काढून टाकले जातील? चालू ठेवायचे का?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				0	my	ဖျက်သောအခါ ဤဇယားအားလုံး အပေးအယူ ဆက်စပ်မှုများ ကောင်းစွာ ဖျက်လိမ့်မည်။ ဆက်လုပ်မလား?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				0	nb	Hvis du sletter denne tabellen, blir også alle de tilhørende relasjonene slettet. Vil du fortsette?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				0	ne	तपाईँले यो तालिका मेटे अनुरूप सम्बन्धहरू पनि मेटिन्छन । जारी राख्नुहुन्छ ?				2002-02-02 02:02:02
@@ -326,24 +365,28 @@ dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WIN
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				0	nn	Dersom du slettar denne tabellen, blir òg alle dei tilhøyrande relasjonane sletta. Vil du halda fram?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				0	nr	Lokha nawusula itheyibula le yoke itjhebiswano ekhambelanako nayo izokusuleka. Uragela phambili?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				0	ns	Ge o phumula tafola ye dilo ka moka tšeo di amanago le yona di tlo phumulega le tšona. Naa o sa tšwela pele?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				0	oc	Se escafatz aquesta taula, sas relacions totas seràn escafadas tanben. Volètz contunhar ?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				0	or-IN	ତୁମେ ୟେତେବେଳେ ଟେବୁଲକୁ ବିଲୋପକରିବ ସେତେବେଳେ ସବୁ ଅନୂରୂପ ସମ୍ପର୍କ  ବିଲୋପହୋଇୟିବ୤ ଚାଲୁରଖ?				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				0	pa-IN	ਜਦੋਂ ਤੁਸੀਂ ਇਸ ਸਾਰਣੀ ਨੂੰ ਹਟਾਉਗੇ ਤਾਂ ਸਾਰੇ ਅਨੁਸਾਰੀ ਸੰਬੰਧ ਵੀ ਹਟਾਏ ਜਾਣਗੇ। ਕੀ ਜਾਰੀ ਰੱਖਣਾ ਹੈ?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				13691	pa-IN	ਜਦੋਂ ਤੁਸੀਂ ਇਸ ਸਾਰਣੀ ਨੂੰ ਹਟਾਉਗੇ ਤਾਂ ਸਾਰੇ ਅਨੁਸਾਰੀ ਸੰਬੰਧ ਵੀ ਹਟਾਏ ਜਾਣਗੇ। ਕੀ ਜਾਰੀ ਰੱਖਣਾ ਹੈ?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				0	pl	Wraz z tabelą zostaną usunięte wszystkie przynależne relacje. Kontynuować?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				0	pt	Se eliminar esta tabela, serão igualmente eliminadas todas as relações correspondentes. Pretende continuar?				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				0	pt-BR	Quando você excluir essa tabela, todas as relações correspondentes serão excluídas também. Deseja continuar?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				0	pt-BR	Ao excluir essa tabela, todas as relações correspondentes serão excluídas também. Deseja continuar?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				0	ru	Удаление этой таблицы повлечет за собой удаление всех относящихся к ней связей. Продолжить?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				0	rw	Igihe usibye iyi mbonerahamwe amasano yose byari bijyanye azasibika nayo.Dukomeza?				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				0	sh	Kada obrišete ovu tabelu svi odgovarajući odnosi će takođe biti obrisani. Nastaviti?				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				0	sk	Zmazaním tejto tabuľky zmažete tiež všetky zodpovedajúce relácie. Pokračovať?				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				0	sl	Če izbrišete to tabelo, bodo izbrisane tudi pripadajoče relacije. Ali želite nadaljevati?				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				0	sr	Када обришете ову табелу сви одговарајући односи ће такође бити обрисани. Наставити?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				1	sa-IN	यदा भवान् एतां सारणीं लोपयति, सम्बन्धिताः सर्वे सम्बन्धाः लुप्यन्ते । किं अनुवर्तिष्यति ?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				1	sat	 तिन जोहोक् आम नोवा तालिका मेटावाम जोतो तोल सा़गा़य हों सांवते मेटाक् आ. लेताड़ मे?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				1	sd	جڏهن توهين هيءَ تختي خارج ڪندا تڏهن سڀ موافقت رکندڙ سنٻنڌ پڻ خارج ٿي ويندا۔ ڇا جاري رکندا؟ 				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				38219	sh	Kada obrišete ovu tabelu, sve relacije koje sa na nju odnose će takođe biti obrisane. Nastavak?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				1	sk	Zmazaním tejto tabuľky zmažete tiež všetky zodpovedajúce relácie. Pokračovať?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				13691	sl	Če izbrišete to tabelo, bodo izbrisane tudi pripadajoče relacije. Ali želite nadaljevati?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				38219	sr	Када обришете ову табелу, све релације које са на њу односе ће такође бити обрисане. Наставак?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				0	ss	Nawucisha lelitafula bonkhe buhlobo lobuhambisanako butawucisheka. Uchubeke yini?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				0	st	Ha o hlakola lenane lena dikamano kaofela tse tsamaisanang le lona di tla hlakolwa le tsona ka ho tshwanang. Tswelapele?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				0	sv	Om du raderar den här tabellen raderas även alla tillhörande relationer. Vill du fortsätta?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				0	sw-TZ	Utakapo futa jedwali hili ulinganifu wote wa mauhusiano utakuwa umefutwa. Endelea?				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				0	ta	இதனை நீக்கும் போது சம்பந்தப்பட்ட சார்புகளும் நீக்கப்படும்.தொடரவா?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				13691	ta	இவ்வட்டவணையை அழித்தால் அனைத்து தொடர்புகளும் கூடவே அழிக்கப்படும். தொடரட்டுமா?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				1	ta-IN	இதனை நீக்கும் போது சம்பந்தப்பட்ட சார்புகளும் நீக்கப்படும்.தொடரவா?				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				0	te-IN	టేబుల్ ను తోలగిస్తే ,దానికి గల బాంధవ్యములు కూడా తోలగించబడును.  కొనసాగవలెనా? 				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				13691	te-IN	టేబుల్ ను తోలగిస్తే ,దానికి గల బాంధవ్యములు కూడా తోలగించబడును.  కొనసాగవలెనా? 				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				0	tg	Кӯр кардани ин ҷадвал боиси кӯр кадани ҳамаи муносибатҳои бо ин ҷадвалбуда мегардад. Давом диҳам?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				0	th	เมื่อคุณลบตารางนี้ ความสัมพันธ์ที่สอดคล้องกันทั้งหมดจะถูกลบไปด้วย ต้องการดำเนินการต่อหรือไม่?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				0	ti-ER	ነዚ ሰደቓ ምስ እለኻ ኩሎም ተተሓሓዙ ዝምድናታት ክእለዩ እዮም። ክትቅጽል?				2002-02-02 02:02:02
@@ -359,112 +402,133 @@ dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WIN
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				0	zh-CN	如果删除这个表格，就会一同删除所有的从属关系。要继续？				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				0	zh-TW	如果刪除這個表格，也就會一起刪除全部的從屬關係。要繼續？				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_DELETE_WINDOW				0	zu	Uma ucisha leli tafula bonke ubuhlobo obufanayo buzocisheka. Qhubeka?				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT				0	ar	حرر...				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT				0	be-BY	Правіць...				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT				0	ar	تحرير...				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT				13691	as-IN	সম্পাদনা...				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT				13691	be-BY	Правіць...				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT				0	bg	Редактиране...				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT				13691	bn	সম্পাদনা করুন...				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT				0	br	Embann				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT				0	ca	Edita...				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT				0	cs	Upravit...				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT				13691	cs	Upravit...				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT				1	da	Rediger...				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT				0	de	Bearbeiten...				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT				0	el	Επεξεργασία...				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT				13691	el	Επεξεργασία...				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT				13691	en-GB	Edit...				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT				0	es	Editar...				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT				0	et	Redigeeri...				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT				13691	et	Redigeeri...				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT				13691	eu	Editatu...				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT				1	fi	Muokkaa...				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT				0	fr	Éditer...				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT				0	gl	Editar...				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT				13691	gl	Editar...				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT				0	gu	ફેરફાર કરો...				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT				13691	hi-IN	संपादन...				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT				0	hu	Szerkesztés...				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT				0	id	Sunting...				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT				0	it	Modifica...				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT				0	ja	編集...				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT				0	km	កែសម្រួល...				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT				13691	km	កែសម្រួល...				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT				13691	kn-IN	ಸಂಪಾದಿಸು...				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT				0	ko	편집...				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT				0	ku	Sererastkirin...				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT				0	lt	Taisyti...				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT				0	mk	Уреди...				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT				13691	lt	Taisyti...				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT				13691	mk	Уреди...				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT				13691	ml-IN	ചിട്ടപ്പെടുത്തുക...				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT				0	mn	Засах...				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT				13691	mr-IN	संपादित करा...				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT				0	nb	Rediger …				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT				0	ne	सम्पादन गर्नुहोस्...				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT				0	nl	Bewerken...				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT				0	nn	Rediger …				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT				0	pa-IN	ਸੋਧ...				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT				0	oc	Editar...				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT				13691	pa-IN	ਸੋਧ...				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT				0	pl	Edytuj...				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT				0	pt	Editar...				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT				0	pt-BR	Editar...				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT				0	ru	Правка...				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT				0	sh	Uredi...				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT				0	sl	Uredi ...				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT				0	sr	Уреди...				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT				1	sa-IN	सम्पादय...				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT				38219	sh	Uredi...				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT				1	sk	Upraviť...				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT				13691	sl	Uredi ...				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT				38219	sr	Уреди...				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT				0	sv	Redigera...				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT				0	ta	திருத்து...				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT				13691	ta	தொகு...				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT				13691	te-IN	సరిచేయుట				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT				0	tr	Düzenle...				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT				0	uk	Редагування...				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT				0	vi	Sửa...				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT				0	zh-CN	编辑...				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT				0	zh-TW	編輯...				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				0	af	Hierdie verwantskap bestaan reeds. Wil u dit redigeer?				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				0	ar	العلاقة موجودة بالفعل. هل تريد أن تحررها أو إنشاء واحدة جديدة؟				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				0	as-IN	এই সম্বন্ধটো ইতিমধ্যে আছে. আপুনি এইটো সম্পাদনা কৰিবলৈ বিচাৰেনেকি?				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				0	be-BY	Такі стасунак ужо існуе. Ці жадаеце правіць яго, ці дадаць новы?				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				0	bg	Релацията вече съществува. Желаете ли да я редактирате или ще създадете нова?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				0	ar	هذه العلاقة موجودة بالفعل. هل تريد تحريرها أو إنشاء أخرى جديدة؟				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				13691	as-IN	এই সম্বন্ধ নাই । আপুনি ইয়াক সম্পাদন কৰিব খোজে নে নতুন এটা সৃষ্টি কৰিব খোজে ?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				13691	be-BY	Такі стасунак ужо існуе. Ці жадаеце правіць яго, ці дадаць новы?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				13691	bg	Релацията вече съществува. Желаете ли да я редактирате или ще създадете нова?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				13691	bn	এই সম্পর্কটি ইতোমধ্যে বিদ্যমান। আপনি কি এটা সম্পাদনা করতে চান বা নতুন একটি তৈরি করতে চান?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				0	br	An dave-se a zo dija anezhañ. Embann anezhañ ?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				0	bs	Ova relacija već postoji. Želite li je izmijeniti?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				0	ca	Aquesta relació ja existeix. Voleu editar-la o voleu crear-ne una de nova?				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				0	cs	Tato relace již existuje. Chcete ji upravit nebo vytvořit novou?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				13691	cs	Tato relace již existuje. Chcete ji upravit nebo vytvořit novou?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				0	cy	Mae'r gydberthynas yn bodoli. Hoffech chi ei olygu?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				1	da	Denne relation findes allerede. Vil du redigere den eller oprette en ny?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				0	de	Diese Relation existiert bereits. Möchten Sie diese bearbeiten oder eine neue Relation erstellen?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				13691	dz	མཐུན་འབྲེལ་འདི་ ཧེ་མ་ལས་རང་ཡོདཔ་ཨིན། ཁྱོད་ཀྱིས་ ཞུན་དག་འབད་ནི་ཨིན་ན? 				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				0	el	Αυτή η σχέση υπάρχει ήδη. Θέλετε να αντικατασταθεί ή να δημιουργήσετε μια νέα;				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				0	en-GB	This relation already exists. Do you want to edit it?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				13691	el	Αυτή η σχέση υπάρχει ήδη. Θέλετε να την επεξεργαστείτε ή να δημιουργήσετε μια νέα;				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				13691	en-GB	This relation already exists. Do you want to edit it or create a new one?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				0	en-ZA	This relation already exists. Do you want to edit it?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				0	eo	Cxi tiu rilato jam ekzistas. Cxu vi volas redakti gxin?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				0	es	Ésta relación ya existe. Quiere editarla o crear una nueva?				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				0	et	See relatsioon on juba olemas. Kas soovid seda redigeerida või luua uue relatsiooni?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				13691	et	See relatsioon on juba olemas. Kas soovid seda redigeerida või luua uue relatsiooni?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				13691	eu	Erlazio hori badago lehendik ere. Editatzea nahi duzu edo berri bat sortzea?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				0	fa	این رابطه از قبل وجود دارد. می‌خواهید آن را ویرایش کنید؟				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				0	fi	Yhteys on jo olemassa. Haluatko muokata yhteyttä?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				1	fi	Relaatio on jo olemassa. Haluatko muokata sitä vai luoda uuden?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				0	fr	Cette relation existe déjà. Souhaitez-vous l'éditer ou en créer une nouvelle ?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				13691	ga	Tá an gaol seo ann cheana. Ar mhaith leat é a chur in eagar?				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				0	gl	Esta relación xa existe. Quere editala ou que crear unha nova?				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				0	gu	આ સંબંધનુ પહેલેથી જ અસ્તિત્વ છે. શુ તમે તેને ફેરફાર કરવા ઈચ્છો છો?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				13691	gl	Esta relación xa existe. Quere editala ou que crear unha nova?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				0	gu	આ સંબંધ પહેલેથી જ અસ્તિત્વ ધરાવે છે. શું તમે તેને ફેરફાર કરવા અથવા નવુ એક બનાવવા ઇચ્છો છો?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				1	gu-IN	આ સંબંધનુ પહેલેથી જ અસ્તિત્વ છે. શુ તમે તેને ફેરફાર કરવા ઈચ્છો છો?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				0	he	יחס זה כבר קיים. האם לערוך אותו?‏				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				1	hi-IN	यह सम्बन्ध पहले से ही अस्तित्व में है. आप इसका संपादन करना चाहते है?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				13691	hi-IN	यह संबंध पहले से मौजूद है. क्या आप इसे संपादित करने अथवा कोई एक नया बनाना चाहते हैं?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				0	hr	Ova relacija već postoji. Želite li je urediti?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				0	hu	Ez a reláció már létezik. Át akarja szerkeszteni, vagy létrehoz egy újat?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				0	id	Hubungan ini sudah ada. Anda ingin mengubahnya atau membuat yang baru?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				0	it	Questa relazione esiste già. Volete modificarla o crearne una nuova?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				0	ja	このリレーションはすでに存在します。 このリレーションを編集しますか、それとも新しいリレーションを作成しますか ?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				0	ka	ეს კავშირი უკვე არსებობს. თქვენ გნება მისი შეცვლა?				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				0	km	ទំនាក់ទំនង​នេះ​​​មាន​រួច​ហើយ ។ តើ​អ្នក​ចង់​កែសម្រួល​វា​ឬ​ទេ ?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				13691	km	មាន​ទំនាក់ទំនង​នេះ​រួច​ហើយ ។ តើ​អ្នក​ចង់​កែសម្រួល​វា ឬ​បង្កើត​ថ្មី​មួយ​ឬ ?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				13691	kn-IN	ಈ ಸಂಬಂಧವು ಈಗಾಗಲೆ ಅಸ್ತಿತ್ವದಲ್ಲಿದೆ. ನೀವದನ್ನು ಸಂಪಾದಿಸುತ್ತೀರೆ ಅಥವ ಹೊಸತೊಂದನ್ನು ನಿರ್ಮಿಸಲು ಬಯಸುತ್ತೀರೆ?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				0	ko	이 관계가 이미 존재합니다. 이 관계를 편집하거나 새로 만드시겠습니까?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				0	ku	Ev têkilî ji xwe heye. Hûn dixwazin serrastbikin?				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				0	lt	Toks sąryšis jau yra. Ar norite jį taisyti, ar sukuti naują?				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				0	mk	Оваа релација веќе постои. Дали сакате да ја промените или да создадете нова?				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				0	ml-IN	ഇത് നിലവിലുണ്ട്. ഇത് എഡിറ്റ് ചെയ്യണോ?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				13691	lt	Toks sąryšis jau yra. Ar norite jį taisyti, ar sukuti naują?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				13691	mk	Оваа релација веќе постои. Дали сакате да ја промените или да создадете нова?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				13691	ml-IN	ഈ ബന്ധം നിലവിലുണ്ടു്. നിങ്ങള്‍ക്കു് ചിട്ടപ്പെടുത്തണോ അതോ പുതിയ ഒരെണ്ണം ഉണ്ടാക്കണോ?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				0	mn	Энэ хамаарал хэдийнэ байна. Та үүнийг засах уу эсвэл шинээр үүсгэх үү?				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				0	mr-IN	संबंध आधिच आस्तित्वात आहे. आपणांस त्याचे संपादन करायचे आहे का?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				13691	mr-IN	हा संबंध आधीच अस्तित्वात आहे. आपणास त्यास संपादित करून नवीन एखादा निर्माण करायचा आहे का?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				0	nb	Denne relasjonen finnes allerede. Vil du redigere den eller lage en ny?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				0	ne	यो सम्बन्ध पहिल्यै अवस्थित छ । तपाईँ यसलाई सम्पादन गर्न चाहनुहुन्छ वा नयाँ एउटा सिर्जना गर्न चाहनुहुन्छ ?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				0	nl	Deze relatie bestaat al. Wilt u deze bewerken of een nieuwe maken?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				0	nn	Denne relasjonen finst frå før. Vil du redigera han eller laga ein ny?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				0	nr	Itjhebiswano sele likhona. Ufuna ukuli-editha?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				0	ns	Kamano ye ke kgale e le gona. Naa o nyaka go e swaya?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				0	oc	Aquesta relacion existís ja. Volètz l'editar o ne crear una novèla ?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				0	or-IN	ଏହି ସମ୍ପର୍କ ପୂର୍ବରୁ ଅଛି୤ ତୁମେ ଏହାକୁ ସମ୍ପାଦନ କରିବାକୁ ଚାହୁଁଚ କି?				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				0	pa-IN	ਇਹ ਸੰਬੰਧ ਪਹਿਲਾਂ ਹੀ ਮੌਜੂਦ ਹੈ। ਕੀ ਤੁਸੀਂ ਇਸ ਦੀ ਸੋਧ ਕਰਨੀ ਚਾਹੁੰਦੇ ਹੋ ਜਾਂ ਨਵਾਂ ਬਣਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				13691	pa-IN	ਇਹ ਸੰਬੰਧ ਪਹਿਲਾਂ ਹੀ ਮੌਜੂਦ ਹੈ। ਕੀ ਤੁਸੀਂ ਇਸ ਦੀ ਸੋਧ ਕਰਨੀ ਚਾਹੁੰਦੇ ਹੋ?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				0	pl	Relacja już istnieje. Czy chcesz ją edytować?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				0	pt	Esta relação já existe. Pretende editar ou criar uma nova relação?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				0	pt-BR	Essa relação já existe. Deseja editá-la ou criar uma nova?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				0	ru	Данная связь уже существует. Редактировать или создать новую?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				0	rw	Iri sano rirasanzwe. Urifuza kurihindura?				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				0	sh	Relacija već postoji. Da li želite da je izmenite ili da napravite novu?				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				0	sk	Táto relácia už existuje. Chcete ju upraviť?				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				0	sl	Ta relacija že obstaja. Jo želite urediti ali ustvariti novo?				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				0	sr	Релација већ постоји. Да ли желите да је измените или да направите нову?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				1	sa-IN	अयं सम्बन्धः पूर्वमेव विद्यते।त्वं नूतनमेकं सम्पादितुम् अतवा उत्पादितुं च इचिछसि किम्?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				38219	sh	Ova relacija već postoji. Da li želite da je uređujete ili da napravite novu?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				1	sk	Táto relácia už existuje. Chcete ju upraviť alebo vytvoriť novú?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				13691	sl	Ta relacija že obstaja. Jo želite urediti ali ustvariti novo?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				38219	sr	Ова релација већ постоји. Да ли желите да је уређујете или да направите нову?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				0	ss	Lokuhlobana loku sekuvele kukhona. Uyafuna yini kuku-editha?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				0	st	Kamano ena e se ntse e le teng. Na o batla ho e lokisa?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				0	sv	Relationen finns redan. Vill du redigera den eller skapa en ny?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				0	sw-TZ	Uhusiano huu tayari hupo. Unataka kuhariri?				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				0	ta	இந்த சார்பு ஏற்கனவே உள்ளது.அதைப் பதிப்பிக்கவா?				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				13691	ta	இத்தொடர்பு ஏற்கனவே உள்ளது. அதனை தொகுக்கவோ புதிய ஒன்றை உருவாக்கவோ வேண்டுகிறீர்களா?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				1	ta-IN	இந்த சார்பு ஏற்கனவே உள்ளது.அதைப் பதிப்பிக்கவா?				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				0	te-IN	ఈ  బాంధవ్యము అప్పటికే  ఉన్నది.నీవు దానిని సరిచేస్తావా? 				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				13691	te-IN	ఈ సంభందము యిప్పటికే వుంది. మీరు దానిని సరికూర్చుదామని లేదా కొత్త దానిని సృష్టించుదామని అనుకొనుచున్నారా?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				0	tg	Ин муносибат аллакай вуҷуд дорад. Дигар кардан мехоҳед?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				0	th	มีความสัมพันธ์นี้อยู่แล้ว คุณต้องการแก้ไขมันหรือไม่ ?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				0	ti-ER	እዚ ዝምድና ኣሎ። ተዐርዮ ዶ ትደሊ?				2002-02-02 02:02:02
@@ -481,46 +545,56 @@ dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELAT
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				0	zh-TW	此關係已存在。是否要編輯此關係或建立新的關係？				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_QUERY_REL_EDIT_RELATION				0	zu	Lobuhlobo sebukhona. Ufuna ukulungisa bona?				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				0	af	 - %PRODUCTNAME Base: Verwantskapsontwerp				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				0	ar	 - %PRODUCTNAME بيز: تصميم العلاقات				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				0	as-IN	- %PRODUCTNAME আধাৰ: সম্বন্ধ ডিজাইন				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				0	be-BY	 - %PRODUCTNAME Base: распрацоўка стасунку				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				0	ar	 - قاعدة %PRODUCTNAME: تصميم العلاقات				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				13691	as-IN	- %PRODUCTNAME আধাৰ: সম্বন্ধ ডিজাইন				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				13691	be-BY	 - %PRODUCTNAME Base: распрацоўка стасунку				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				0	bg	 - %PRODUCTNAME Base: проектиране на релации				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				13691	bn	 - %PRODUCTNAME এর ভিত্তি: সম্পর্ক নকশা				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				0	br	- %PRODUCTNAME Base : Divrazañ dave				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				1	brx	 - %PRODUCTNAME Base: सोमोन्दो डिजाइन				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				0	bs	 - %PRODUCTNAME Baza: Dizajn relacija				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				0	ca	 - %PRODUCTNAME Base: Disseny de la relació				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				0	cs	 - %PRODUCTNAME Base: Návrh relace				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				13691	cs	 - %PRODUCTNAME Base: Návrh relace				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				0	cy	 - Base %PRODUCTNAME: Cynllun cydberthynol				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				1	da	- %PRODUCTNAME Base: Relationsdesign				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				0	de	 - %PRODUCTNAME Base: Relationenentwurf				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				1	dgo	- %PRODUCTNAME अधार:सरबंध डजैन				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				13691	dz	 - %PRODUCTNAME གཞི་རྟེན་:མཐུན་འབྲེལ་བཀོད་བསྒྲིག				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				0	el	 - %PRODUCTNAME Base: Σχεδίαση σχέσης				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				0	en-GB	 - %PRODUCTNAME Base: Relation design				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				13691	el	 - %PRODUCTNAME Base: Σχεδίαση σχέσης				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				13691	en-GB	 - %PRODUCTNAME Base: Relation design				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				0	en-ZA	 - %PRODUCTNAME Base: Relation design				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				0	eo	 - %PRODUCTNAME Base: Rilata skizo				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				0	es	-Base de %PRODUCTNAME: Diseño de relacion 				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				0	et	 - %PRODUCTNAME Base: Relatsiooni koostamine				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				0	fi	 - %PRODUCTNAME Base: Yhteyksien suunnittelu				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				13691	et	 - %PRODUCTNAME Base: Relatsiooni koostamine				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				13691	eu	 - %PRODUCTNAME Base: erlazio-diseinua				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				1	fi	 - %PRODUCTNAME Base: Yhteyksien suunnittelu				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				0	fr	- %PRODUCTNAME Base : Ébauche de relation 				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				13691	ga	 - %PRODUCTNAME Base: Dearadh gaoil				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				0	gl	 - %PRODUCTNAME Base: Deseño de relación				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				13691	gl	 - %PRODUCTNAME Base: Deseño de relación				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				0	gu	 - %PRODUCTNAME આધાર: સંબંધિત રચના				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				1	gu-IN	 - %PRODUCTNAME આધાર: સંબંધિત રચના				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				0	he	‏ - ‏‪%PRODUCTNAME Base‬‏: תכנון יחסים				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				1	hi-IN	 - %PRODUCTNAME Base: संबन्ध डिजायन				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				13691	hi-IN	 - %PRODUCTNAME आधार: संबन्ध डिजायन				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				0	hr	 - %PRODUCTNAME Base: Dizajn relacije				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				0	hu	 - %PRODUCTNAME Base: Relációtervező				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				0	id	 - %PRODUCTNAME Base: Desain relasi				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				0	it	 - %PRODUCTNAME Base: Struttura relazione				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				0	ja	- %PRODUCTNAME Base:リレーションデザイン				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				0	ka	 - %PRODUCTNAME ბაზა: კავშირის დიზაინი				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				0	kk	Байланыстардың жобалау				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				0	km	 - %PRODUCTNAME Base ៖ រចនា​​ទំនាក់​ទំនង				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				13691	km	 - %PRODUCTNAME Base ៖ រចនា​​ទំនាក់​ទំនង				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				13691	kn-IN	 - %PRODUCTNAME ಮೂಲ: ಸಂಬಂಧ ವಿನ್ಯಾಸ				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				0	ko	- %PRODUCTNAME Base: 관계 디자인				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				1	kok	 - %PRODUCTNAME पायो:संबंद डिजायन				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				1	ks	 - %PRODUCTNAME Base: ریلیشن ڈیزائن 				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				0	ku	 - %PRODUCTNAME Base: Sêwira têkildar				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				0	lt	 - „%PRODUCTNAME“ duomenų bazių programa: sąryšio projektas				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				0	mk	 - %PRODUCTNAME Base: Дизајн на релации				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				0	ml-IN	  - %PRODUCTNAME Base: Relation design				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				13691	lt	 - „%PRODUCTNAME“ duomenų bazių programa: sąryšio projektas				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				1	mai	 - %PRODUCTNAME Base: संबंध डिजायन				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				13691	mk	 - %PRODUCTNAME Base: Дизајн на релации				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				13691	ml-IN	  - %PRODUCTNAME Base: Relation design				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				0	mn	 - %PRODUCTNAME Base: Хамаарлын дизайн				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				0	mr-IN	 - %PRODUCTNAME पाया:संबंध नक्षी 				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				1	mni	 - %PRODUCTNAME হৌফম: মরী লৈন্নবা দিজাইন				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				13691	mr-IN	 - %PRODUCTNAME पाया:संबंध नक्षी 				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				0	my	 - %PRODUCTNAME အခြေခံ - ဒီဇိုင်းပုံစံ ဆက်နွယ်မှု				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				0	nb	 – %PRODUCTNAME Base: Relasjonsutforming				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				0	ne	 - %PRODUCTNAME Base: सम्बन्ध डिजाइन				2002-02-02 02:02:02
@@ -528,24 +602,28 @@ dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				0	
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				0	nn	 – %PRODUCTNAME Base: Relasjonsutforming				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				0	nr	 - %PRODUCTNAME Base : ukutlanywa kwetjhebiswano				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				0	ns	 - Base ya %PRODUCTNAME: Botlhami bja tswalano				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				0	oc	 - %PRODUCTNAME Basa: Concepcion de las relacions				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				0	or-IN	 - %PRODUCTNAME ଆଧାର: ସମ୍ପର୍କ ଡିଜାଇନ				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				0	pa-IN	 - %PRODUCTNAME ਬੇਸ: ਸੰਬੰਧ ਡਿਜ਼ਾਇਨ				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				13691	pa-IN	 - %PRODUCTNAME ਬੇਸ: ਸੰਬੰਧ ਡਿਜ਼ਾਇਨ				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				0	pl	 - %PRODUCTNAME Base: projekt relacji				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				0	pt	 - %PRODUCTNAME Base: concepção de relação				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				0	pt-BR	 - %PRODUCTNAME Base: Design de relação				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				0	pt-BR	 - %PRODUCTNAME Base: Edição de relação				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				0	ru	 - Проектирование связей %PRODUCTNAME Base				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				0	rw	 - %PRODUCTNAME Shingiro: Ihanga ry'isano				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				0	sh	 - %PRODUCTNAME Baza: Raspored relacije				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				0	sk	- %PRODUCTNAME Base: Vytváranie relácií				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				0	sl	 - %PRODUCTNAME Base: oblikovanje relacij				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				0	sr	 - %PRODUCTNAME База: Распоред релације				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				1	sa-IN	 - %PRODUCTNAME आधारः : संबन्धघटनम्				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				1	sat	 - %PRODUCTNAME Base: सा़गा़य जोह				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				1	sd	 - %PRODUCTNAME Base:  آڌار: سنٻنڌ جو ڍانچو 				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				38219	sh	 - %PRODUCTNAME Baza: uređivač relacije				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				1	sk	 - %PRODUCTNAME Base: Návrh relácie				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				13691	sl	 - %PRODUCTNAME Base: oblikovanje relacij				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				38219	sr	 - %PRODUCTNAME База: уређивач релације				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				0	ss	 - %PRODUCTNAME Base: Umsiko wekuhlobana				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				0	st	 - Motheo wa %PRODUCTNAME: Boqapi ba kamano				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				0	sv	 - %PRODUCTNAME Base: Relationsutkast				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				0	sw-TZ	 - %PRODUCTNAME Base: Relation design				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				0	ta	 - %PRODUCTNAME Base: Relation design				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				13691	ta	 - %PRODUCTNAME பேஸ்: தொடர்பு வடிவாக்கம்				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				1	ta-IN	 - %PRODUCTNAME Base: Relation design				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				0	te-IN	- %PRODUCTNAME బేస్ : బాంధవ్య డిజైన్  				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				13691	te-IN	- %PRODUCTNAME బేస్ : బాంధవ్య డిజైన్  				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				0	tg	 - %PRODUCTNAME Base: Нақшбандии вобастагӣ				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				0	th	 - %PRODUCTNAME Base: แบบความสัมพันธ์				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				0	ti-ER	- %PRODUCTNAME Base: ቅዲ ዝምድና				2002-02-02 02:02:02
@@ -560,47 +638,57 @@ dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				0	
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				0	zh-TW	- %PRODUCTNAME Base：關係設計				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN				0	zu	 - Isisekelo se-%PRODUCTNAME: Umklamo Wobudlelwano				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				0	af	Die databasis ondersteun nie verwantskappe nie.				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				0	ar	قاعدة البيانات لا تدعم أية علاقات.				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				0	as-IN	ডাটাবেছটোৱে সম্বন্ধবোৰ সমৰ্থন নকৰে.				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				0	be-BY	База даных не падтрымлівае стасункаў.				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				0	ar	قاعدة البيانات لا تدعم العلاقات.				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				13691	as-IN	ডাটাবেছটোৱে সম্বন্ধবোৰ সমৰ্থন নকৰে.				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				13691	be-BY	База даных не падтрымлівае стасункаў.				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				0	bg	Базата от данни не поддържа релации.				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				13691	bn	উপাত্তধারটি সম্পর্কসমূহ সমর্থন করে না।				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				0	br	Ar stlennvon ne c'houzañv ket an daveadurioù 				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				1	brx	डाटाबेसआ सोमोन्दोफोरखौ मदत खालामा।				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				0	bs	Baza podataka ne podržava relacije.				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				0	ca	La base de dades no permet les relacions.				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				0	cs	Databáze nepodporuje relace.				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				13691	cs	Databáze nepodporuje relace.				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				0	cy	Nid yw'r gronfa ddata'n cynnal cydberthynas				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				1	da	Databasen understøtter ikke relationer!				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				0	de	Die Datenbank unterstützt keine Relationen!				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				1	dgo	डेटाबेस सरबंधें दा समर्थन नेईं करदा. 				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				13691	dz	གནད་སྡུད་གཞི་རྟེན་གྱིས་ མཐུན་འབྲེལ་ཚུ་རྒྱབ་སྐྱོར་མི་འབད།				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				0	el	Η βάση δεδομένων δεν υποστηρίζει σχέσεις!				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				0	en-GB	The database does not support relations.				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				13691	el	Η βάση δεδομένων δεν υποστηρίζει σχέσεις.				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				13691	en-GB	The database does not support relations.				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				0	en-ZA	The database does not support relations.				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				0	eo	La datumbazo ne subtenas rilatojn.				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				0	es	La base de datos no apoya ninguna relación.				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				0	et	Andmebaas ei toeta relatsioone.				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				13691	et	Andmebaas ei toeta relatsioone.				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				13691	eu	Datu-baseak ez du erlaziorik onartzen!				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				0	fa	پایگاه‌داده رابطه‌ها را پشتیبانی نمی‌کند.				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				0	fi	Tietokanta ei tue yhteyksiä.				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				1	fi	Tietokanta ei tue yhteyksiä.				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				0	fr	La base de données ne supporte pas les relations !				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				13691	ga	Ní thacaíonn an bunachar sonraí le gaolta.				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				0	gl	A base de datos non soporta relacións.				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				13691	gl	A base de datos non soporta relacións.				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				0	gu	ડેટાબેઝ સંબધોને આધાર આપતુ નથી.				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				1	gu-IN	ડેટાબેઝ સંબધોને આધાર આપતુ નથી.				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				0	he	מסד הנתונים אינו תומך ביחסים				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				1	hi-IN	डाटाबेस सम्बन्धों का समर्थन नहीं करता है.				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				13691	hi-IN	डेटाबेस सम्बन्धों का समर्थन नहीं करता है.				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				0	hr	Baza ne podržava relacije.				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				0	hu	Az adatbázis nem támogat relációkat.				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				0	id	Basis data tidak mendukung relasi.				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				0	it	Il database non supporta relazioni.				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				0	ja	データベースはリレーションを支援しません。				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				0	ka	მონაცემთა ბაზა ვერ უზრუნველყოფს კავშირს.				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				0	kk	Бұл деректер қоры байланысты сүйемелденбейдi				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				0	km	មូលដ្ឋាន​ទិន្នន័យ ​​មិន​គាំទ្រ​ទំនាក់ទំនង ។				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				13691	km	មូលដ្ឋាន​ទិន្នន័យ ​​មិន​គាំទ្រ​ទំនាក់ទំនង ។				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				13691	kn-IN	ದತ್ತಸಂಚಯವು ಸಂಬಂಧಗಳನ್ನು ಬೆಂಬಲಿಸುವುದಿಲ್ಲ.				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				0	ko	데이터베이스는 어떠한 관계도 지원하지 않습니다.				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				1	kok	म्हायतीकोशाचे संबंदांक फांटबळ ना.				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				1	ks	ڈاٹا بیس ریلیشنس چھُنئ سپورٹ ۔				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				0	ku	Database piştgiriya tu yek têkiliyê nake.				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				0	lt	Duomenų bazė nesuderinama su sąryšiais.				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				0	mk	Базата на податоци не поддржува релации.				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				0	ml-IN	ഡേറ്റാബേസ് ബന്ധം പിന്താങ്ങുന്നില്ല.				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				13691	lt	Duomenų bazė nesuderinama su sąryšiais.				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				1	mai	डाटाबेस संबंधन समर्थन नहि करैछ.				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				13691	mk	Базата на податоци не поддржува релации.				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				13691	ml-IN	ഡേറ്റാബേസ് ബന്ധം പിന്താങ്ങുന്നില്ല.				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				0	mn	Өгөгдлийн сан энэ хамаарлыг дэмжээгүй байна.				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				0	mr-IN	माहितीकोष संबंधांना समर्थित नाहीत.				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				1	mni	দতাবেদনা মরীসিদা মতেং পাংদ্রে.				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				13691	mr-IN	माहितीकोश संबंधांना आधार देत नाही.				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				0	my	အချက်အလက်များ စနစ်တကျ သိုလှောင်ထားခြင်းသည် ဆက်စပ်မှုများကို မထောက်ပံ့ပါ။				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				0	nb	Databasen støtter ikke relasjoner.				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				0	ne	डाटाबेसले सम्बन्धहरूलाई समर्थन गर्देन ।				2002-02-02 02:02:02
@@ -608,24 +696,28 @@ dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_A
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				0	nn	Databasen støttar ikkje relasjonar.				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				0	nr	Iziko ledatha alisekeli itjhebiswano.				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				0	ns	Motheo wa difiwa ga go kgone go thekga dikamano.				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				0	oc	La basa de donadas supòrta pas las relacions. 				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				0	or-IN	ତଥ୍ଯମୂଳ  ସମର୍ଥନ କରୁନାହିଁ୤				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				0	pa-IN	ਡਾਟਾਬੇਸ ਸੰਬੰਧਾਂ ਨੂੰ ਸਹਿਯੋਗ ਨਹੀਂ ਦਿੰਦਾ।				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				13691	pa-IN	ਡਾਟਾਬੇਸ ਸੰਬੰਧਾਂ ਨੂੰ ਸਹਿਯੋਗ ਨਹੀਂ ਦਿੰਦਾ।				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				0	pl	Baza danych nie obsługuje relacji.				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				0	pt	A base de dados não suporta relações.				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				0	pt-BR	O banco de dados não oferece suporte a relações.				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				0	ru	Эта база данных не поддерживает связи.				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				0	rw	Ububikoshingiro ntibwemera amasano.				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				0	sh	Baza podataka ne podržava relacije.				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				0	sk	Tento typ databázy nepodporuje relácie.				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				0	sl	Zbirka podatkov ne podpira relacij.				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				0	sr	База података не подржава релације.				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				1	sa-IN	एतत् लेखाधिकरणं सम्बन्धान् न समर्थयति ।				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				1	sat	सा़खिया़त सा़गा़य बाय गोक् ड़ोवा				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				1	sd	آڌار سامگري سنٻنڌنن جو سمرٿن نہ ٿي ڪري۔ 				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				38219	sh	Baza podataka ne podržava relacije.				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				1	sk	Tento typ databázy nepodporuje relácie.				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				13691	sl	Zbirka podatkov ne podpira relacij.				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				38219	sr	База података не подржава релације.				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				0	ss	Ledathabhesi ayikusekele lokuhlobana.				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				0	st	Datapeisi ha e tshehetse dikamano.				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				0	sv	Databasen understöder inte några relationer.				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				0	sw-TZ	Hifadhidata haina mwega mauhusiano.				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				0	ta	தரவுதளம் சார்புகளைக் கொண்டது அல்ல.				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				13691	ta	தரவுத்தளம் தொடர்புகளை ஆதரிக்கவில்லை.				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				1	ta-IN	தரவுதளம் சார்புகளைக் கொண்டது அல்ல.				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				0	te-IN	దత్తాంశస్థానం బాంధవ్యములకు  సహకరించదు. 				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				13691	te-IN	దత్తాంశస్థానం బాంధవ్యములకు  సహకరించదు. 				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				0	tg	Ин махзани далелҳо муносибатҳоро дастгирӣ наменамояд.				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				0	th	ฐานข้อมูลไม่สนับสนุนความสัมพันธ์				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				0	ti-ER	መሰረት ሓበሬታ ዝምድና ኣይድግፍን				2002-02-02 02:02:02
@@ -639,7 +731,7 @@ dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_A
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				0	vi	Cơ sở dữ liệu này không hỗ trợ quan hệ.				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				0	xh	Isiseko seenkcukacha asibuxhasi ubudlelwana.				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				0	zh-CN	这个数据库不支持关系功能！				2002-02-02 02:02:02
-dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				0	zh-TW	這個資料庫不支援關係功能！				2002-02-02 02:02:02
+dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				0	zh-TW	這個資料庫不支援關係功能。				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	string	STR_RELATIONDESIGN_NOT_AVAILABLE				0	zu	Isiqu solwazi asixhasi ubuhlobo.				2002-02-02 02:02:02
 dbaccess	source\ui\relationdesign\relation.src	0	toolboxitem	RID_BRW_REALTIONDESIGN_TOOLBOX	ID_BROWSER_EDITDOC	SID_EDITDOC		0	ca	Edita				20040507 14:21:37
 dbaccess	source\ui\relationdesign\relation.src	0	toolboxitem	RID_BRW_REALTIONDESIGN_TOOLBOX	ID_BROWSER_EDITDOC	SID_EDITDOC		0	cs	Upravit				2002-02-02 02:02:02
