@@ -15,9 +15,9 @@
 #
 # OpenOffice.org - a multi-platform office productivity suite
 #
-# $RCSfile: localize.sdf,v $
+# $RCSfile:localize.pl,v $
 #
-# $Revision: 1.26 $
+# $Revision: 1.17.4.1 $
 #
 # This file is part of OpenOffice.org.
 #
@@ -42,20 +42,24 @@ scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TEST
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	as-IN	টেষ্ট টুল				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	be-BY	Тэст-прылада				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	bg	Testtool				2002-02-02 02:02:02
+scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	bn	পরীক্ষণ-টুল				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	br	OstilhProuad				2002-02-02 02:02:02
+scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	brx	आनजाद आयजेंआयला				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	bs	Alat za testiranje				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	ca	Eina de comprovació				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	cs	Testtool				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	cy	Testtool				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	da	Testtool				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	de	Testtool				2002-02-02 02:02:02
+scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	dgo	परख उपकरण 				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	dz	བརྟག་ཞིབ་ལག་ཆས་ཚུ་				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	el	Testtool				2002-02-02 02:02:02
-scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	en-GB	Test Tool				2002-02-02 02:02:02
+scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	en-GB	Testtool				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	en-ZA	Testtool				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	eo	Testilo				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	es	Herramienta de prueba				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	et	Testtool				2002-02-02 02:02:02
+scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	eu	Testtool				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	fa	ابزارآزمایش				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	fi	Testityökalu				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	fr	OutilTest				2002-02-02 02:02:02
@@ -64,25 +68,33 @@ scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TEST
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	gu	ચકાસણીસાધન				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	gu-IN	ચકાસણીસાધન				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	he	כלי בדיקה				2002-02-02 02:02:02
-scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	hi-IN	टेस्ट उपकरण				2002-02-02 02:02:02
+scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	hi-IN	जाँच औज़ार				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	hr	Testalat				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	hu	Testtool				2002-02-02 02:02:02
+scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	id	Testtool				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	it	Testtool				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	ja	Testtool				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	ka	Testtool				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	km	ឧបករណ៍​សាក​ល្បង​				2002-02-02 02:02:02
+scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	kn-IN	Testtool				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	ko	테스트 도구				2002-02-02 02:02:02
+scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	kok	चाचणी उपकरण				2002-02-02 02:02:02
+scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	ks	ٹیسٹ ٹول				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	ku	Amûra ceribandinê				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	lt	Testtool				2002-02-02 02:02:02
+scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	mai	जाँचअओजार				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	mk	Алатка за тестирање				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	ml-IN	പരീക്ഷണ ഉപകരണം				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	mn	Testtool				2002-02-02 02:02:02
+scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	mni	তেস্ততুল				2002-02-02 02:02:02
+scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	mr-IN	चाचणीसाधन				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	nb	Testverktøy				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	ne	परीक्षण उपकरण				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	nl	Testwerktuig				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	nn	Testverktøy				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	nr	Thulusilokuhlola				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	ns	Thulusi ya go leka				2002-02-02 02:02:02
+scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	oc	EsplechTèst				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	or-IN	ଟେକ୍ସଟଟୁଲ				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	pa-IN	ਜਾਂਚ ਸੰਦ				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	pl	Narzędzie testujące				2002-02-02 02:02:02
@@ -90,6 +102,9 @@ scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TEST
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	pt-BR	Ferramenta de teste				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	ru	Средство тестирования				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	rw	Agasuzumisho				2002-02-02 02:02:02
+scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	sa-IN	परीक्षा-यन्त्रयः				2002-02-02 02:02:02
+scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	sat	टेस्ट उपकरण				2002-02-02 02:02:02
+scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	sd	چڪاس اوزارُ				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	sh	Alat za testiranje				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	sk	Testtool				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	sl	Testtool				2002-02-02 02:02:02
@@ -98,9 +113,9 @@ scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TEST
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	st	Thulusi ya ho leka				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	sv	Testverktyg				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	sw-TZ	Testtool				2002-02-02 02:02:02
-scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	ta	சோதனை கருவி				2002-02-02 02:02:02
+scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	ta	சோதனைக் கருவி				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	ta-IN	சோதனை கருவி				2002-02-02 02:02:02
-scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	te-IN	పరీక్ష పరికరము				2002-02-02 02:02:02
+scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	te-IN	పరిశీలనాసాధనము				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	tg	Testtool				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	th	Testtool				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_TESTTOOL				0	ti-ER	ናይ ምፍታን ኣቑሑ				2002-02-02 02:02:02
@@ -120,20 +135,24 @@ scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TEST
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	as-IN	টেষ্ট টুল				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	be-BY	Тэст-прылада				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	bg	Testtool				2002-02-02 02:02:02
+scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	bn	পরীক্ষণ-টুল				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	br	OstilhProuad				2002-02-02 02:02:02
+scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	brx	आनजाद आयजेंआयला				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	bs	Alat za testiranje				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	ca	Eina de comprovació				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	cs	Testtool				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	cy	Testtool				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	da	Testtool				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	de	Testtool				2002-02-02 02:02:02
+scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	dgo	परख उपकरण 				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	dz	བརྟག་ཞིབ་ལག་ཆས་ཚུ་				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	el	Testtool				2002-02-02 02:02:02
-scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	en-GB	Test Tool				2002-02-02 02:02:02
+scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	en-GB	Testtool				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	en-ZA	Testtool				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	eo	Testilo				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	es	Herramienta de prueba				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	et	Testtool				2002-02-02 02:02:02
+scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	eu	Testtool				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	fa	ابزارآزمایش				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	fi	Testityökalu				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	fr	OutilTest				2002-02-02 02:02:02
@@ -142,25 +161,33 @@ scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TEST
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	gu	ચકાસણીસાધન				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	gu-IN	ચકાસણીસાધન				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	he	כלי בדיקה				2002-02-02 02:02:02
-scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	hi-IN	टेस्ट उपकरण				2002-02-02 02:02:02
+scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	hi-IN	जाँच औज़ार				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	hr	Testalat				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	hu	Testtool				2002-02-02 02:02:02
+scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	id	Testtool				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	it	Testtool				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	ja	Testtool				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	ka	Testtool				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	km	ឧបករណ៍​សាក​ល្បង​				2002-02-02 02:02:02
+scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	kn-IN	Testtool				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	ko	테스트 도구				2002-02-02 02:02:02
+scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	kok	चाचणी उपकरण				2002-02-02 02:02:02
+scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	ks	ٹیسٹ ٹول				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	ku	Amûra ceribandinê				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	lt	Testtool				2002-02-02 02:02:02
+scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	mai	जाँचअओजार				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	mk	Алатка за тестирање				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	ml-IN	പരീക്ഷണ ഉപകരണം				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	mn	Testtool				2002-02-02 02:02:02
+scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	mni	তেস্ততুল				2002-02-02 02:02:02
+scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	mr-IN	चाचणीसाधन				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	nb	Testverktøy				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	ne	परीक्षण उपकरण				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	nl	Testwerktuig				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	nn	Testverktøy				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	nr	Thulusilokuhlola				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	ns	Thulusi ya go leka				2002-02-02 02:02:02
+scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	oc	EsplechTèst				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	or-IN	ଟେକ୍ସଟଟୁଲ				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	pa-IN	ਜਾਂਚ ਸੰਦ				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	pl	Narzędzie testujące				2002-02-02 02:02:02
@@ -168,6 +195,9 @@ scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TEST
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	pt-BR	Ferramenta de teste				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	ru	Средство тестирования				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	rw	Agasuzumisho				2002-02-02 02:02:02
+scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	sa-IN	परीक्षा-यन्त्रयः				2002-02-02 02:02:02
+scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	sat	टेस्ट उपकरण				2002-02-02 02:02:02
+scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	sd	چڪاس اوزارُ				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	sh	Alat za testiranje				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	sk	Testtool				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	sl	Testtool				2002-02-02 02:02:02
@@ -176,9 +206,9 @@ scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TEST
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	st	Thulusi ya ho leka				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	sv	Testverktyg				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	sw-TZ	Testtool				2002-02-02 02:02:02
-scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	ta	சோதனை கருவி				2002-02-02 02:02:02
+scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	ta	சோதனைக் கருவி				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	ta-IN	சோதனை கருவி				2002-02-02 02:02:02
-scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	te-IN	పరీక్ష పరికరము				2002-02-02 02:02:02
+scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	te-IN	పరిశీలనాసాధనము				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	tg	Testtool				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	th	Testtool				2002-02-02 02:02:02
 scp2	source\testtool\module_testtool.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_TESTTOOL				0	ti-ER	ናይ ምፍታን ኣቑሑ				2002-02-02 02:02:02

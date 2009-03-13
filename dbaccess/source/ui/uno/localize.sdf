@@ -15,9 +15,9 @@
 #
 # OpenOffice.org - a multi-platform office productivity suite
 #
-# $RCSfile: localize.sdf,v $
+# $RCSfile:localize.pl,v $
 #
-# $Revision: 1.31 $
+# $Revision: 1.17.4.1 $
 #
 # This file is part of OpenOffice.org.
 #
@@ -37,307 +37,438 @@
 # for a copy of the LGPLv3 License.
 #
 #*************************************************************************
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_COPY_SOURCE_NEEDS_BOOKMARKS				0	ar	مجموعة نتيجة المصدر المنسوخة يجب أن تدعم المفضلات				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_COPY_SOURCE_NEEDS_BOOKMARKS				0	be-BY	Збор вынікаў з крыніцы гэтай копіі мусіць падтрымліваць закладкі*.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_COPY_SOURCE_NEEDS_BOOKMARKS				0	ar	يجب أن تدعم مجموعة نتائج مصدر النسخة الإشارات المرجعية.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_COPY_SOURCE_NEEDS_BOOKMARKS				13691	as-IN	নকল উৎসৰ ফলাফলৰ গোটে পত্ৰচিহ্ন সমৰ্থন কৰিব লাগিব ।				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_COPY_SOURCE_NEEDS_BOOKMARKS				13691	be-BY	Збор вынікаў з крыніцы гэтай копіі мусіць падтрымліваць закладкі*.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_COPY_SOURCE_NEEDS_BOOKMARKS				0	bg	Резултатният набор от източника за копирането трябва да поддържа маркери.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_COPY_SOURCE_NEEDS_BOOKMARKS				13691	bn	অনুলিপি উৎসের ফলাফল সেট অবশ্যই বুকমার্ক সমর্থন করবে।				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_COPY_SOURCE_NEEDS_BOOKMARKS				0	br	 Eilad spletad disoc'h an tarzh a rank skorañ ar sinedoù.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_COPY_SOURCE_NEEDS_BOOKMARKS				0	ca	El conjunt de resultats de l'origen de la còpia ha de permetre l'ús de marcadors.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_COPY_SOURCE_NEEDS_BOOKMARKS				0	cs	Výsledek kopie zdroje musí podporovat záložky.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_COPY_SOURCE_NEEDS_BOOKMARKS				13691	cs	Výsledek kopie zdroje musí podporovat záložky.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_COPY_SOURCE_NEEDS_BOOKMARKS				1	da	Kopikildens resultatsæt skal understøtte bogmærker.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_COPY_SOURCE_NEEDS_BOOKMARKS				0	de	Das ResultSet der Quelle für die Kopieroperation muss Lesezeichen unterstützen.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_COPY_SOURCE_NEEDS_BOOKMARKS				0	el	Το αποτέλεσμα αντιγράφου πηγής θα πρέπει α υποστηρίζει σελιδοδείκτες.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_COPY_SOURCE_NEEDS_BOOKMARKS				13691	el	Το αποτέλεσμα αντιγράφου πηγής θα πρέπει να υποστηρίζει σελιδοδείκτες.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_COPY_SOURCE_NEEDS_BOOKMARKS				13691	en-GB	The copy source's result set must support bookmarks.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_COPY_SOURCE_NEEDS_BOOKMARKS				0	es	El conjunto de resultados de la fuente de copia debe soportar marcadores.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_COPY_SOURCE_NEEDS_BOOKMARKS				0	et	Koopia allika tulemuste hulk peab toetama järjehoidjaid.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_COPY_SOURCE_NEEDS_BOOKMARKS				13691	et	Koopia allika tulemuste hulk peab toetama järjehoidjaid.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_COPY_SOURCE_NEEDS_BOOKMARKS				13691	eu	Kopiaren iturburuko emaitzen multzoak laster-markak onartu behar ditu.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_COPY_SOURCE_NEEDS_BOOKMARKS				1	fi	Kopion lähteen tulosjoukon on tuettava kirjanmerkkejä.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_COPY_SOURCE_NEEDS_BOOKMARKS				0	fr	L'ensemble des résultats de la source copie doit prendre en charge les marque-pages.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_COPY_SOURCE_NEEDS_BOOKMARKS				0	gl	O conxunto resultado da copia da fonte debe soportar marcadores.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_COPY_SOURCE_NEEDS_BOOKMARKS				13691	gl	O conxunto resultado da copia da fonte debe soportar marcadores.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_COPY_SOURCE_NEEDS_BOOKMARKS				0	gu	સ્ત્રોતનાં પરિણામની નકલ ને આધાર બુકમાર્કોમાં સુયોજિત કરવુ જ જોઇએ.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_COPY_SOURCE_NEEDS_BOOKMARKS				13691	hi-IN	कॉपी स्रोत का परिणाम पुस्तचिह्न को जरूर समर्थन के लिए सेट करना चाहिए.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_COPY_SOURCE_NEEDS_BOOKMARKS				0	hu	A másolás forrása eredményhalmazának támogatnia kell a könyvjelzőket.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_COPY_SOURCE_NEEDS_BOOKMARKS				0	id	Salinan set sumber hasil seharusnya mendukung penanda buku.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_COPY_SOURCE_NEEDS_BOOKMARKS				0	it	Il risultato della copia della sorgente deve supportare segnalibri.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_COPY_SOURCE_NEEDS_BOOKMARKS				0	ja	コピー元の結果セットがブックマークをサポートしている必要があります。				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_COPY_SOURCE_NEEDS_BOOKMARKS				0	km	សំណុំ​លទ្ធផល​របស់​ធនធាន​ច្បាប់​ចម្លង​ត្រូវតែ​គាំទ្រ​ចំណាំ ។				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_COPY_SOURCE_NEEDS_BOOKMARKS				13691	km	សំណុំ​លទ្ធផល​របស់​ធនធាន​ច្បាប់​ចម្លង​ត្រូវតែ​គាំទ្រ​ចំណាំ ។				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_COPY_SOURCE_NEEDS_BOOKMARKS				13691	kn-IN	ನಕಲಿಸಲಾದ ಆಕರದ ಫಲಿತಾಂಶಗಳು ಬುಕ್‌ಮಾರ್ಕುಗಳನ್ನು ಬೆಂಬಲಿಸಬೇಕು.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_COPY_SOURCE_NEEDS_BOOKMARKS				0	ko	복사 원본의 결과는 책갈피 기능을 지원하도록 설정됩니다.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_COPY_SOURCE_NEEDS_BOOKMARKS				0	lt	Duomenų kopijavimo rezultatų rinkinys turi būti suderinamas su žymelėmis.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_COPY_SOURCE_NEEDS_BOOKMARKS				0	mk	Сетот за копирање на изворните резултати мора да поддржува обележувачи.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_COPY_SOURCE_NEEDS_BOOKMARKS				13691	lt	Duomenų kopijavimo rezultatų rinkinys turi būti suderinamas su žymelėmis.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_COPY_SOURCE_NEEDS_BOOKMARKS				13691	mk	Сетот за копирање на изворните резултати мора да поддржува обележувачи.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_COPY_SOURCE_NEEDS_BOOKMARKS				13691	ml-IN	പകര്‍പ്പിന്റെ ഉറവിടം അടയാളക്കുറിപ്പുകള്‍ പിന്തുണയ്ക്കേണ്ടതാണു്.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_COPY_SOURCE_NEEDS_BOOKMARKS				0	mn	Эхийн үр дүнгийн олонлогийн хуулбар тэмдэглэгээ дэмжсэн байх ёстой.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_COPY_SOURCE_NEEDS_BOOKMARKS				13691	mr-IN	स्त्रोत अहवाल संचाच्या प्रतने पृष्ठखूणांना आधार दिला पाहिजे.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_COPY_SOURCE_NEEDS_BOOKMARKS				0	nb	Resultatsettet til kopikilden må støtte bokmerker.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_COPY_SOURCE_NEEDS_BOOKMARKS				0	ne	प्रतिलिपि स्रोतको नतीजा सेटले पुस्तकचिनो समर्थन गर्छ ।				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_COPY_SOURCE_NEEDS_BOOKMARKS				0	nl	De resultaatverzameling van de kopiebron moet bladwijzers ondersteunen.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_COPY_SOURCE_NEEDS_BOOKMARKS				0	nn	Resultatsettet til kopikjelda må støtta bokmerke.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_COPY_SOURCE_NEEDS_BOOKMARKS				0	oc	Cal que la resulta de la còpia de la sorga supòrte las marcapaginas. 				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_COPY_SOURCE_NEEDS_BOOKMARKS				0	pl	Zestaw wyników źródła kopii musi obsługiwać zakładki.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_COPY_SOURCE_NEEDS_BOOKMARKS				0	pt	O conjunto de resultados da origem de cópia tem de suportar marcadores.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_COPY_SOURCE_NEEDS_BOOKMARKS				0	pt-BR	A cópia do conjunto resultante da fonte deve ter suporte a marcadores.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_COPY_SOURCE_NEEDS_BOOKMARKS				0	ru	Результирующий набор должен поддерживать закладки.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_COPY_SOURCE_NEEDS_BOOKMARKS				0	sh	Set umnoži izvor rezultata mora da podržava obeleživače				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_COPY_SOURCE_NEEDS_BOOKMARKS				0	sl	Nabor rezultatov vira za kopiranje mora podpirati zaznamke.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_COPY_SOURCE_NEEDS_BOOKMARKS				0	sr	Сет умножи извор резултата мора да подржава обележиваче				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_COPY_SOURCE_NEEDS_BOOKMARKS				1	sa-IN	कापीमूलस्य फलस्थापनं पुस्कचिह्नानि समर्थनीयम्।  				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_COPY_SOURCE_NEEDS_BOOKMARKS				38219	sh	Skup rezultata izvora za kopiranje mora da podržava obeleživače.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_COPY_SOURCE_NEEDS_BOOKMARKS				1	sk	Množina výsledkov kopírovaného zdroja musí podporovať záložky.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_COPY_SOURCE_NEEDS_BOOKMARKS				13691	sl	Nabor rezultatov vira za kopiranje mora podpirati zaznamke.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_COPY_SOURCE_NEEDS_BOOKMARKS				38219	sr	Скуп резултата извора за копирање мора да подржава обележиваче.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_COPY_SOURCE_NEEDS_BOOKMARKS				0	sv	Det inställda resultatet för kopieringskällan måste ha stöd för bokmärken.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_COPY_SOURCE_NEEDS_BOOKMARKS				13691	ta	நகல் மூலத்தின் முடிவுத் தொகுப்பு புத்தகக்குறிகளை ஆதரிக்க வேண்டும்.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_COPY_SOURCE_NEEDS_BOOKMARKS				13691	te-IN	నకలు మూలముయొక్క ఫలిత సమితి బుక్‌మార్కులను మద్దతివ్వాలి.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_COPY_SOURCE_NEEDS_BOOKMARKS				0	tr	Kopya kaynağın sonuç kümesi yer imlerini desteklemelidir.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_COPY_SOURCE_NEEDS_BOOKMARKS				0	uk	Набір результату має підтримувати закладки.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_COPY_SOURCE_NEEDS_BOOKMARKS				0	vi	Tập hợp kết quả của nguồn sao chép phải hỗ trợ Liên kết lưu.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_COPY_SOURCE_NEEDS_BOOKMARKS				0	zh-CN	此副本源头的结果集必须支持书签。				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_COPY_SOURCE_NEEDS_BOOKMARKS				0	zh-TW	複製來源的結果集必須支援書籤。				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ERROR_DURING_INITIALIZATION				0	ar	حدث خط أثناء الاعداد.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ERROR_DURING_INITIALIZATION				0	be-BY	Памылка пры ініцыялізацыі.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ERROR_DURING_INITIALIZATION				0	bg	Възникна грешка по време на инициализирането.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ERROR_DURING_INITIALIZATION				0	ar	حدث خط أثناء التهيئة.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ERROR_DURING_INITIALIZATION				13691	as-IN	আৰম্ভ কৰোঁতে এটা ভুল হ'ল ।				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ERROR_DURING_INITIALIZATION				13691	be-BY	Памылка пры ініцыялізацыі.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ERROR_DURING_INITIALIZATION				13691	bg	Възникна грешка по време на инициализирането.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ERROR_DURING_INITIALIZATION				13691	bn	প্রাথমিকীকরণের সময় একটি ত্রুটির সংঘটিত হয়েছিল।				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ERROR_DURING_INITIALIZATION				0	br	Degouezhet ez eus bet ur fazi e-pad an deraouekaat.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ERROR_DURING_INITIALIZATION				0	ca	S'ha produït un error durant la inicialització.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ERROR_DURING_INITIALIZATION				0	cs	Během inicializace došlo k chybě.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ERROR_DURING_INITIALIZATION				13691	cs	Během inicializace došlo k chybě.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ERROR_DURING_INITIALIZATION				1	da	En fejl opstod under initialisering.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ERROR_DURING_INITIALIZATION				0	de	Während der Initialisierung ist ein Fehler aufgetreten.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ERROR_DURING_INITIALIZATION				0	el	Συνέβηκε ένα σφάλμα κατά την αρχικοποίηση.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ERROR_DURING_INITIALIZATION				13691	el	Εμφανίστηκε σφάλμα στη διάρκεια της αρχικοποίησης.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ERROR_DURING_INITIALIZATION				13691	en-GB	An error occurred during initialisation.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ERROR_DURING_INITIALIZATION				0	es	Ocurrió un error durante la instalación.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ERROR_DURING_INITIALIZATION				0	et	Lähtestamisel tekkis viga.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ERROR_DURING_INITIALIZATION				13691	et	Lähtestamisel tekkis viga.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ERROR_DURING_INITIALIZATION				13691	eu	Errorea gertatu da hasieratzean.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ERROR_DURING_INITIALIZATION				1	fi	Alustuksessa tapahtui virhe.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ERROR_DURING_INITIALIZATION				0	fr	Une erreur s'est produite lors de l'initialisation.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ERROR_DURING_INITIALIZATION				0	gl	Ocorreu un erro durante o inicio.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ERROR_DURING_INITIALIZATION				13691	gl	Ocorreu un erro durante o inicio.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ERROR_DURING_INITIALIZATION				0	gu	પ્રારંભ દરમ્યાન ભૂલ ઉત્પન્ન થઇ.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ERROR_DURING_INITIALIZATION				13691	hi-IN	एक त्रुटि आरंभीकरण के दौरान आई.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ERROR_DURING_INITIALIZATION				0	hu	Hiba történt inicializálás közben.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ERROR_DURING_INITIALIZATION				0	id	Sebuah kesalahan terjadi saat penginisiasian.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ERROR_DURING_INITIALIZATION				0	it	Si è verificato un errore durante l'inizializzazione.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ERROR_DURING_INITIALIZATION				0	ja	初期化中にエラーが発生しました。				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ERROR_DURING_INITIALIZATION				13691	km	កំហុស​បានកើតឡើង​កំឡុង​ពេល​ដំឡើង ។				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ERROR_DURING_INITIALIZATION				13691	kn-IN	ಆರಂಭಿಸುವಾಗ ಒಂದು ದೋಷವು ಎದುರಾಗಿದೆ.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ERROR_DURING_INITIALIZATION				0	ko	초기화 중 오류가 발생했습니다.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ERROR_DURING_INITIALIZATION				0	lt	Inicijavimo metu įvyko klaida.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ERROR_DURING_INITIALIZATION				0	mk	Се случи грешка за време на иницијализацијата.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ERROR_DURING_INITIALIZATION				13691	lt	Inicijavimo metu įvyko klaida.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ERROR_DURING_INITIALIZATION				13691	mk	Се случи грешка за време на иницијализацијата.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ERROR_DURING_INITIALIZATION				13691	ml-IN	ആരംഭത്തില്‍ പിശക് സംഭവിച്ചിരിക്കുന്നു.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ERROR_DURING_INITIALIZATION				0	mn	Эхлүүлхээр бэлтгэж байх үед алдаа гарлаа.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ERROR_DURING_INITIALIZATION				13691	mr-IN	सुरू करताना दोष आढळला.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ERROR_DURING_INITIALIZATION				0	nb	Det oppstod en feil under oppstarten.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ERROR_DURING_INITIALIZATION				0	ne	थालनी गर्दा एउटा त्रुटि देखापर्यो ।				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ERROR_DURING_INITIALIZATION				0	nl	Er is een fout opgetreden bij het initialiseren.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ERROR_DURING_INITIALIZATION				0	nn	Det oppstod ein feil under oppstarten.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ERROR_DURING_INITIALIZATION				0	oc	I a agut una error pendent l'inicializacion.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ERROR_DURING_INITIALIZATION				13691	pa-IN	ਸ਼ੁਰੂਆਤ ਦੇ ਦੌਰਾਨ ਇੱਕ ਗਲਤੀ ਆਈ ਹੈ।				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ERROR_DURING_INITIALIZATION				0	pl	Wystąpił błąd podczas inicjalizacji.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ERROR_DURING_INITIALIZATION				0	pt	Ocorreu um erro durante a inicialização.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ERROR_DURING_INITIALIZATION				0	pt-BR	Ocorreu um erro durante a inicialização.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ERROR_DURING_INITIALIZATION				0	ru	Ошибка при инициализации.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ERROR_DURING_INITIALIZATION				0	sh	Dogodila se greška tokom inicijalizacije.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ERROR_DURING_INITIALIZATION				0	sl	Med inicializacijo je prišlo do napake.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ERROR_DURING_INITIALIZATION				0	sr	Догодила се грешка током иницијализације.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ERROR_DURING_INITIALIZATION				1	sa-IN	प्रारम्भे दोषः घटितः। 				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ERROR_DURING_INITIALIZATION				38219	sh	Greška tokom inicijalizacije.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ERROR_DURING_INITIALIZATION				1	sk	Počas inicializácie sa vyskytla chyba.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ERROR_DURING_INITIALIZATION				13691	sl	Med inicializacijo je prišlo do napake.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ERROR_DURING_INITIALIZATION				38219	sr	Грешка током иницијализације.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ERROR_DURING_INITIALIZATION				0	sv	Ett fel uppstod vid initieringen.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ERROR_DURING_INITIALIZATION				13691	ta	தொடங்கும்போது வழு ஏற்பட்டது.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ERROR_DURING_INITIALIZATION				13691	te-IN	సిద్దీకరణ సమయమందు ఒక దోషము సంభవించినది.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ERROR_DURING_INITIALIZATION				0	tr	Başlatma sırasında bir hata meydana geldi.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ERROR_DURING_INITIALIZATION				0	uk	Помилка при ініціалізації.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ERROR_DURING_INITIALIZATION				0	vi	Gặp lỗi trong khi sơ khởi.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ERROR_DURING_INITIALIZATION				0	zh-CN	初始化时出错。				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ERROR_DURING_INITIALIZATION				0	zh-TW	初始化期間發生錯誤。				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ILLEGAL_PARAMETER_COUNT				0	ar	رقم غير شرعي لمعاملات الاعداد				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ILLEGAL_PARAMETER_COUNT				0	be-BY	Недапушчальная колькасць параметраў ініцыялізацыі.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ILLEGAL_PARAMETER_COUNT				0	ar	رقم غير مسموح به لمعلمات التهيئة.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ILLEGAL_PARAMETER_COUNT				13691	as-IN	আৰম্ভ কৰা স্থিতিমাপত অবৈধ সংখ্যা ।				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ILLEGAL_PARAMETER_COUNT				13691	be-BY	Недапушчальная колькасць параметраў ініцыялізацыі.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ILLEGAL_PARAMETER_COUNT				0	bg	Невалиден брой инициализиращи параметри.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ILLEGAL_PARAMETER_COUNT				13691	bn	প্যারামিটার প্রাথমিকীকরণের অবৈধ সংখ্যা				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ILLEGAL_PARAMETER_COUNT				0	br	Niver andezvek eus an arventennoù deraouekaat.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ILLEGAL_PARAMETER_COUNT				0	ca	El nombre de paràmetres d'inicialització no és vàlid.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ILLEGAL_PARAMETER_COUNT				0	cs	Neplatný počet inicializačních parametrů.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ILLEGAL_PARAMETER_COUNT				13691	cs	Neplatný počet inicializačních parametrů.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ILLEGAL_PARAMETER_COUNT				1	da	Ugyldigt antal initialiseringsparametre.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ILLEGAL_PARAMETER_COUNT				0	de	Ungültige Anzahl von Initialisierungsparametern.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ILLEGAL_PARAMETER_COUNT				0	el	Μη έγκυρος αριθμός παραμέτρων αρχικοποίησης.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ILLEGAL_PARAMETER_COUNT				13691	el	Μη έγκυρος αριθμός παραμέτρων αρχικοποίησης.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ILLEGAL_PARAMETER_COUNT				13691	en-GB	Illegal number of initialisation parameters.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ILLEGAL_PARAMETER_COUNT				0	es	Número ilegal de los parametros de inicialización.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ILLEGAL_PARAMETER_COUNT				0	et	Lähtestamisparameetrite lubamatu arv.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ILLEGAL_PARAMETER_COUNT				13691	et	Lähtestamisparameetrite lubamatu arv.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ILLEGAL_PARAMETER_COUNT				13691	eu	Parametroen hasieratze-kopuru baliogabea.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ILLEGAL_PARAMETER_COUNT				1	fi	Virheellinen määrä alustusparametreja.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ILLEGAL_PARAMETER_COUNT				0	fr	Nombre de paramètres d'initialisation non autorisé.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ILLEGAL_PARAMETER_COUNT				0	gl	Número incorrecto de parámetros de inicio.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ILLEGAL_PARAMETER_COUNT				13691	gl	Número incorrecto de parámetros de inicio.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ILLEGAL_PARAMETER_COUNT				0	gu	પ્રારંભનાં પરિમાણો નાં ગેરકાયદેસર નંબર.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ILLEGAL_PARAMETER_COUNT				13691	hi-IN	आरंभीकरण पैरामीटर की अवैध संख्या.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ILLEGAL_PARAMETER_COUNT				0	hu	Nem megfelelő számú inicializálási paraméter.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ILLEGAL_PARAMETER_COUNT				0	id	Nomor tak sah dari inisiasi parameter.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ILLEGAL_PARAMETER_COUNT				0	it	Numero illegale di parametri di inizializzazione.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ILLEGAL_PARAMETER_COUNT				0	ja	初期化パラメータの数が正しくありません。				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ILLEGAL_PARAMETER_COUNT				0	km	ចំនួន​ប៉ារ៉ាម៉ែត្រ​ចាប់ផ្ដើម​មិនត្រឹមត្រូវ ។				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ILLEGAL_PARAMETER_COUNT				13691	km	ចំនួន​ប៉ារ៉ាម៉ែត្រ​ចាប់ផ្ដើម​មិនត្រឹមត្រូវ ។				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ILLEGAL_PARAMETER_COUNT				13691	kn-IN	ಆರಂಭಿಕ ನಿಯತಾಂಕಗಳ ಅಮಾನ್ಯ ಸಂಖ್ಯೆ.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ILLEGAL_PARAMETER_COUNT				0	ko	초기화 매개변수에 잘못된 숫자가 있습니다.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ILLEGAL_PARAMETER_COUNT				0	lt	Neleistinas inicijavimo parametrų skaičius.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ILLEGAL_PARAMETER_COUNT				0	mk	Неправилен број на иницијализирачки параметри.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ILLEGAL_PARAMETER_COUNT				13691	lt	Neleistinas inicijavimo parametrų skaičius.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ILLEGAL_PARAMETER_COUNT				13691	mk	Неправилен број на иницијализирачки параметри.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ILLEGAL_PARAMETER_COUNT				13691	ml-IN	ആരംഭത്തിലുള്ള പരാമീറ്ററുകളുടെ എണ്ണം തെറ്റാണു്.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ILLEGAL_PARAMETER_COUNT				0	mn	Хүчингүй тооны эхлүүлэх параметр.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ILLEGAL_PARAMETER_COUNT				13691	mr-IN	सुरू होतानाचे परिमाणाची बेकायदेशीर संख्या				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ILLEGAL_PARAMETER_COUNT				0	nb	Ugyldig antall oppstartsparametre.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ILLEGAL_PARAMETER_COUNT				0	ne	गैरकानूनी सङ्ख्यामा थालनी परिमितिहरू ।				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ILLEGAL_PARAMETER_COUNT				0	nl	Ongeldig aantal initialisatieparameters.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ILLEGAL_PARAMETER_COUNT				0	nn	Ugyldig tal på oppstartsparametrar.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ILLEGAL_PARAMETER_COUNT				0	oc	Illegal nombre de paramètres d'inicialisacion.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ILLEGAL_PARAMETER_COUNT				13691	pa-IN	ਸ਼ੁਰੂਆਤੀ ਪੈਰਾਮੀਟਰਾਂ ਦੌਰਾਨ ਗਲਤ ਨੰਬਰ ਹੈ।				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ILLEGAL_PARAMETER_COUNT				0	pl	Nieprawidłowa liczba parametrów inicjalizacji.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ILLEGAL_PARAMETER_COUNT				0	pt	Número de parâmetros de inicialização inválido.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ILLEGAL_PARAMETER_COUNT				0	pt-BR	Número ilegal de parâmetros de inicialização.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ILLEGAL_PARAMETER_COUNT				0	ru	Недопустимое количество параметров инициализации.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ILLEGAL_PARAMETER_COUNT				0	sh	Ilegalan broj inicijalizacionih parametara.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ILLEGAL_PARAMETER_COUNT				0	sl	Napačno število začetnih parametrov.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ILLEGAL_PARAMETER_COUNT				0	sr	Илегалан број иницијализационих параметара.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ILLEGAL_PARAMETER_COUNT				1	sa-IN	प्रारम्भपैरामीटर्स् अस्य अन्यायसंख्या  				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ILLEGAL_PARAMETER_COUNT				38219	sh	Ilegalan broj inicijalizacionih parametara.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ILLEGAL_PARAMETER_COUNT				1	sk	Neplatný počet inicializačných paramentrov.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ILLEGAL_PARAMETER_COUNT				13691	sl	Napačno število začetnih parametrov.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ILLEGAL_PARAMETER_COUNT				38219	sr	Илегалан број иницијализационих параметара.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ILLEGAL_PARAMETER_COUNT				0	sv	Otillåtet antal initieringsparametrar.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ILLEGAL_PARAMETER_COUNT				13691	ta	Illegal number of initialization parameters.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ILLEGAL_PARAMETER_COUNT				13691	te-IN	సిద్దీకరణ పారామితులయొక్క చెల్లని సంఖ్య.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ILLEGAL_PARAMETER_COUNT				0	tr	Başlatma parametresinde geçersiz sayı.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ILLEGAL_PARAMETER_COUNT				0	uk	Неприпустима кількість параметрів ініціалізації.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ILLEGAL_PARAMETER_COUNT				0	vi	Số tham số khởi tạo cấm.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ILLEGAL_PARAMETER_COUNT				0	zh-CN	初始化参数中的非法数字。				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ILLEGAL_PARAMETER_COUNT				0	zh-TW	無效的初始化引數數字。				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_INVALID_DATA_ACCESS_DESCRIPTOR				0	ar	لم يوجد واصف وصول البيانات، أو لا يوجد واصف وصول البيانات قادر على تقديم كل البيانات الضرورية				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_INVALID_DATA_ACCESS_DESCRIPTOR				0	be-BY	не знойдзены ніякі дэскрыптар доступу ў даныя, або ніякі такі дэскрыптар не можа даць усёй патрэбнай інфармацыі				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_INVALID_DATA_ACCESS_DESCRIPTOR				0	ar	لم يتم العثور على واصف الوصول إلى البيانات، أو لا يوجد واصف وصول إلى البيانات قادر على تقديم كافة البيانات الضرورية				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_INVALID_DATA_ACCESS_DESCRIPTOR				13691	as-IN	কোনো data access descriptor পোৱা ন'গ'ল, বা কোনো data access descriptor এ সকলো প্ৰয়োজনীয় তথ্য দিব নোৱাৰিলে ।				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_INVALID_DATA_ACCESS_DESCRIPTOR				13691	be-BY	не знойдзены ніякі дэскрыптар доступу ў даныя, або ніякі такі дэскрыптар не можа даць усёй патрэбнай інфармацыі				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_INVALID_DATA_ACCESS_DESCRIPTOR				0	bg	Не е открит описател за достъп до данните или никой от описателите не може да предостави цялата необходима информация.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_INVALID_DATA_ACCESS_DESCRIPTOR				13691	bn	কোনো উপাত্ত প্রবেশ বর্ননায়ক খুঁজে পাওয়া যায়নি, বা কোনো উপাত্ত প্রবেশ বর্ননায়ক সব প্রয়োজনীয় তথ্য প্রদান করতে সক্ষম নয়				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_INVALID_DATA_ACCESS_DESCRIPTOR				0	br	 deskriver da haeziñ roadennoù ebet bet kavet pe deskriver da haeziñ roadennoù barrek da bourchas an holl stlennoù ret				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_INVALID_DATA_ACCESS_DESCRIPTOR				0	ca	No s'ha trobat cap descriptor d'accés a dades o no hi ha cap descriptor d'accés a dades capaç de proporcionar tota la informació necessària.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_INVALID_DATA_ACCESS_DESCRIPTOR				0	cs	nebyl nalezen deskriptor dat nebo nemůže poskytnout potřebné informace				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_INVALID_DATA_ACCESS_DESCRIPTOR				13691	cs	nebyl nalezen deskriptor dat nebo nemůže poskytnout potřebné informace				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_INVALID_DATA_ACCESS_DESCRIPTOR				1	da	Ingen data access descriptor fundet, eller ingen data access descriptor i stand til at forsyne de nødvendige informationer.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_INVALID_DATA_ACCESS_DESCRIPTOR				0	de	Kein Dataaccess-Descriptor gefunden, oder es ist kein DataAccess-Descriptor verfügbar, der alle benötigten Informationen zur Verfügung stellen kann.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_INVALID_DATA_ACCESS_DESCRIPTOR				0	el	δεν βρέθηκε περιγραφέας πρόσβασης δεδομένων, ή δεν υπάρχει ικανός περιγραφέας πρόσβασης δεδομένων για να παρέχει όλες τια απαράιτητες πληροφορίες.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_INVALID_DATA_ACCESS_DESCRIPTOR				13691	el	δεν βρέθηκε περιγραφέας πρόσβασης δεδομένων, ή δεν υπάρχει ικανός περιγραφέας πρόσβασης δεδομένων για να παρέχει όλες τις απαραίτητες πληροφορίες.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_INVALID_DATA_ACCESS_DESCRIPTOR				13691	en-GB	no data access descriptor found, or no data access descriptor able to provide all necessary information				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_INVALID_DATA_ACCESS_DESCRIPTOR				0	es	ningún descriptor de acceso a datos encontrado, o ningún descriptor capaz de proveer la información necesario.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_INVALID_DATA_ACCESS_DESCRIPTOR				0	et	andmetele juurdepääsu kirjeldust ei leitud või ei suuda ükski kirjeldus pakkuda kogu vajalikku teavet				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_INVALID_DATA_ACCESS_DESCRIPTOR				13691	et	andmetele juurdepääsu kirjeldust ei leitud või ei suuda ükski kirjeldus pakkuda kogu vajalikku teavet				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_INVALID_DATA_ACCESS_DESCRIPTOR				13691	eu	ez da datuak atzitzeko deskriptorerik aurkitu, edo datuak atzitzeko deskriptoreak ezin du behar den informazio guztia eman				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_INVALID_DATA_ACCESS_DESCRIPTOR				1	fi	riittävät tiedot sisältävää tietokantayhteyden alustusmäärittelyä ei löytynyt				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_INVALID_DATA_ACCESS_DESCRIPTOR				0	fr	pas de descripteur d'accès aux données trouvé, ou pas de descripteur d'accès aux données capable de fournir les informations nécessaires				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_INVALID_DATA_ACCESS_DESCRIPTOR				0	gl	non se atopou un descritor de acceso a datos ou non proporciona toda a información necesaria				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_INVALID_DATA_ACCESS_DESCRIPTOR				13691	gl	non se atopou un descritor de acceso a datos ou non proporciona toda a información necesaria				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_INVALID_DATA_ACCESS_DESCRIPTOR				0	gu	માહિતી પ્રવેશ વર્ણનકર્તા શોધાયુ નથી, અથવા માહિતી પ્રવેશ વર્ણનકર્તા એ બધી જરૂરી જાણકારી ને પૂરી પાડવા સક્ષમ છે				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_INVALID_DATA_ACCESS_DESCRIPTOR				13691	hi-IN	कोई आँकड़ा विवरण का नहीं मिला, अथवा किसी डाटा पहुंच विवरण के सभी जरूरी सूचना को नहीं दे सकता है				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_INVALID_DATA_ACCESS_DESCRIPTOR				0	hu	nem található adat-hozzáférési  leíró, vagy egy adat-hozzáférési  leíró sem képes az összes szükséges információ szolgáltatására				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_INVALID_DATA_ACCESS_DESCRIPTOR				0	id	tidak ditemukan deskriptor akses data, atau tidak ada deskriptor akses data yang mampu memberi informasi yang diperlukan				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_INVALID_DATA_ACCESS_DESCRIPTOR				0	it	non è stato trovato alcun descrittore di accesso dati, o non è presente alcun descrittore di accesso dati in grado di fornire tutte le informazioni necessarie				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_INVALID_DATA_ACCESS_DESCRIPTOR				0	ja	データアクセス記述子が見つからないか、必要な情報をすべて提供できるデータアクセス記述子がありません				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_INVALID_DATA_ACCESS_DESCRIPTOR				0	km	គ្មាន​ឧបករណ៍​ពិពណ៌នា​ដំណើរការ​ទិន្នន័យ​ដែលបាន​រកឃើញ​ទេ ឬ​គ្មាន​​ឧបករណ៍​ពិពណ៌នា​ដំណើរការ​ទិន្នន័យ​ដែក​អាច​ផ្ដល់​ព័ត៌មាន​សំខាន់​បាន				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_INVALID_DATA_ACCESS_DESCRIPTOR				13691	km	គ្មាន​ឧបករណ៍​ពិពណ៌នា​ដំណើរការ​ទិន្នន័យ​ដែលបាន​រកឃើញ​ទេ ឬ​គ្មាន​​ឧបករណ៍​ពិពណ៌នា​ដំណើរការ​ទិន្នន័យ​ដែក​អាច​ផ្ដល់​ព័ត៌មាន​សំខាន់​បាន				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_INVALID_DATA_ACCESS_DESCRIPTOR				13691	kn-IN	ಯಾವುದೆ ದತ್ತಾಂಶ ನಿಲುಕಣಾ ವಿವರಣೆಗಾರವು ಕಂಡುಬಂದಿಲ್ಲ, ಅಥವ ದತ್ತಾಂಶ ನಿಲುಕಣಾ ವಿವರಣೆಗಾರವು ಎಲ್ಲಾ ಅಗತ್ಯ ಮಾಹಿತಿಯನ್ನು ಒದಗಿಸಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_INVALID_DATA_ACCESS_DESCRIPTOR				0	ko	데이터 접근 기술어를 발견할 수 없거나 필요한 정보를 제공할 수 있는 데이터 접근 기술어가 없습니다.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_INVALID_DATA_ACCESS_DESCRIPTOR				0	lt	Nerastas duomenų prieigos aprašas arba jokiame duomenų prieigos apraše nėra visos reikiamos informacijos.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_INVALID_DATA_ACCESS_DESCRIPTOR				0	mk	не е најден дескриптор на влезни податоци, или ниеден дескриптор на влезни податоци не може да ги даде сите потребни информации				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_INVALID_DATA_ACCESS_DESCRIPTOR				13691	lt	Nerastas duomenų prieigos aprašas arba jokiame duomenų prieigos apraše nėra visos reikiamos informacijos.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_INVALID_DATA_ACCESS_DESCRIPTOR				13691	mk	не е најден дескриптор на влезни податоци, или ниеден дескриптор на влезни податоци не може да ги даде сите потребни информации				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_INVALID_DATA_ACCESS_DESCRIPTOR				13691	ml-IN	ഡേറ്റാ ആക്സസ്സ് ഡിസ്ക്രിപ്റ്റര്‍ ലഭ്യമല്ല, അല്ലെങ്കില്‍ ആവശ്യമുള്ള എല്ലാ വിവരങ്ങളും ലഭ്യമാക്കുവാന്‍ ഡേറ്റാ ആക്സസ്സ് ഡിസ്ക്രിപ്റ്ററിനു് സാധ്യമായില്ല.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_INVALID_DATA_ACCESS_DESCRIPTOR				0	mn	Өгөгдлийн хандалтын тодорхойлогч олдсонгүй, эсвэл өгөгдлийн хандалтын тодорхойлогч шаардлагатай бүх мэдээллийг нийлүүлсэнгүй				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_INVALID_DATA_ACCESS_DESCRIPTOR				13691	mr-IN	डाटा प्रवेशाचा वर्णनकार सापडला नाही, किंवा डाटा प्रवेशाचा वर्णनकार सर्व आवश्यक माहिती देण्यास समर्थ नाही.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_INVALID_DATA_ACCESS_DESCRIPTOR				0	nb	Fant ingen beskriver for datatilgang, eller ingen beskriver som ga all den informasjonen som trengtes.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_INVALID_DATA_ACCESS_DESCRIPTOR				0	ne	डेटा पहुँच वर्णनकर्ता फेला परेन, वा डेटा पहुँच वर्णनकर्ताले सबै आवश्यक जानकारी उपलब्ध गर्न सकेन				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_INVALID_DATA_ACCESS_DESCRIPTOR				0	nl	Geen gegevenstoegangsdescriptor gevonden, of geen die in staat is om alle benodigde informatie te leveren				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_INVALID_DATA_ACCESS_DESCRIPTOR				0	nn	Fann ingen skildrar for datatilgang, eller ingen skildrar som gav all informasjonen som trengdest.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_INVALID_DATA_ACCESS_DESCRIPTOR				0	oc	Existís pas d'informacions sus l'interfàcia de connexion , o i a pas d'interfàcia que donariá las informacions necessàrias.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_INVALID_DATA_ACCESS_DESCRIPTOR				0	pl	nie odnaleziono deskryptora dostępu do danych lub żaden deskryptor dostępu do danych nie dostarcza wszystkich wymaganych informacji				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_INVALID_DATA_ACCESS_DESCRIPTOR				0	pt	não foi encontrado qualquer descritor de acesso de dados ou não existe qualquer descritor de acesso de dados capaz de fornecer todas as informações necessárias				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_INVALID_DATA_ACCESS_DESCRIPTOR				0	pt-BR	não foi encontrado um descritor de acesso a dados, ou um descritor de acesso a dados capaz de fornecer todas as informações necessárias				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_INVALID_DATA_ACCESS_DESCRIPTOR				0	ru	не найден дескриптор доступа к базе данных или не один из дескрипторов не может представить всю необходимую информацию				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_INVALID_DATA_ACCESS_DESCRIPTOR				0	sh	Opis pristupa podataka nije pronaćen,ili opis podataka pristupa nije u mogućnosti da dostavi sve potrebne informacije.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_INVALID_DATA_ACCESS_DESCRIPTOR				0	sl	Opisnika podatkovnega dostopa ni mogoče najti ali pa ta ne vsebuje vseh zahtevanih podatkov				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_INVALID_DATA_ACCESS_DESCRIPTOR				0	sr	Опис приступа података није пронаћен,или опис података приступа није у могућности да достави све потребне информације.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_INVALID_DATA_ACCESS_DESCRIPTOR				1	sa-IN	डाटाप्रवेशविवरणकः न दृष्टः, अथवा डाटाप्रवेशविवरणकः सर्वाः आवश्यकसूचनाः प्रदातुं न शक्नोति।				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_INVALID_DATA_ACCESS_DESCRIPTOR				38219	sh	Opis pristupa podataka nije pronaćen ili opis podataka pristupa nije u mogućnosti da dostavi sve potrebne informacije.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_INVALID_DATA_ACCESS_DESCRIPTOR				1	sk	nenájdený popis prístupu dát, alebo žiaden popis prístupu dát neposkytol všetky potrebné informácie				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_INVALID_DATA_ACCESS_DESCRIPTOR				13691	sl	Opisnika podatkovnega dostopa ni mogoče najti ali pa ta ne vsebuje vseh zahtevanih podatkov				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_INVALID_DATA_ACCESS_DESCRIPTOR				38219	sr	Опис приступа података није пронаћен или опис података приступа није у могућности да достави све потребне информације.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_INVALID_DATA_ACCESS_DESCRIPTOR				0	sv	Antingen hittades ingen beskrivning av dataåtkomst eller så fanns det ingen beskrivning av dataåtkomst med den nödvändiga informationen				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_INVALID_DATA_ACCESS_DESCRIPTOR				13691	ta	no data access descriptor found, or no data access descriptor able to provide all necessary information				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_INVALID_DATA_ACCESS_DESCRIPTOR				13691	te-IN	ఎటువంటి డాటా యాక్సిస్ డిస్క్రిప్టార్ కనబడలేదు, లేదా ఏ డాటా యాక్సిస్ డిస్క్రిప్టార్ కూడా అవసరమైన సమాచారమునంతటిని అందివ్వలేదు				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_INVALID_DATA_ACCESS_DESCRIPTOR				0	tr	bulunan tanımlama da veri erişimi yok ya da veri erişimi için gerekli tüm bilgiler yok				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_INVALID_DATA_ACCESS_DESCRIPTOR				0	uk	не знайдено дескриптор доступу до бази даних або не один з дескрипторів не може представити всю необхідну інформацію				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_INVALID_DATA_ACCESS_DESCRIPTOR				0	vi	không tìm thấy bộ mô tả truy cập dữ liệu, hoặc không có bộ mô tả truy cập dữ liệu có khả năng cung cấp mọi thông tin cần thiết				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_INVALID_DATA_ACCESS_DESCRIPTOR				0	zh-CN	找不到数据访问描述符，或没有数据访问描述符能够提供必需的所有信息				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_INVALID_DATA_ACCESS_DESCRIPTOR				0	zh-TW	找不到資料存取描述元，或沒有資料存取描述元可提供所有必要的資訊				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_PRIMARY_KEY_SUPPORT				0	ar	قاعدة البيانات المختارة لا تدعم المفتاح الرئيسي				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_PRIMARY_KEY_SUPPORT				0	be-BY	Мэтавая база даных не падтрымлівае першасных ключоў.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_PRIMARY_KEY_SUPPORT				0	ar	قاعدة البيانات الوجهة لا تدعم المفاتيح الرئيسية.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_PRIMARY_KEY_SUPPORT				13691	as-IN	গন্তব্যৰ তথ্যভঁৰালে primary keys ৰ সমৰ্থন নকৰে ।				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_PRIMARY_KEY_SUPPORT				13691	be-BY	Мэтавая база даных не падтрымлівае першасных ключоў.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_PRIMARY_KEY_SUPPORT				0	bg	Целевата база от данни не поддържа първични ключове.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_PRIMARY_KEY_SUPPORT				13691	bn	উদ্দিষ্ট উপাত্তধার প্রাথমিক কীসমূহকে সমর্থন করে না।				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_PRIMARY_KEY_SUPPORT				0	br	Ne vez ket skoret an alc'hwezioù kentael gant ar stlennvon bukenn.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_PRIMARY_KEY_SUPPORT				0	ca	La base de dades de destinació no permet l'ús de tecles primàries.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_PRIMARY_KEY_SUPPORT				0	cs	Cílová databáze nepodporuje primární klíče.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_PRIMARY_KEY_SUPPORT				13691	cs	Cílová databáze nepodporuje primární klíče.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_PRIMARY_KEY_SUPPORT				1	da	Mål-databasen understøtter ikke primærnøgler.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_PRIMARY_KEY_SUPPORT				0	de	Die Zieldatenbank unterstützt keine Primärschlüssel.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_PRIMARY_KEY_SUPPORT				0	el	Η βάση δεδομένων προορισμού δεν υποστηρίζει πρωτεύοντα κλειδιά.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_PRIMARY_KEY_SUPPORT				13691	el	Η βάση δεδομένων προορισμού δεν υποστηρίζει πρωτεύοντα κλειδιά.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_PRIMARY_KEY_SUPPORT				13691	en-GB	The destination database does not support primary keys.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_PRIMARY_KEY_SUPPORT				0	es	El base de datos de destino no apoyo claves primarios.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_PRIMARY_KEY_SUPPORT				0	et	Sihtandmebaas ei toeta primaarvõtmeid.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_PRIMARY_KEY_SUPPORT				13691	et	Sihtandmebaas ei toeta primaarvõtmeid.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_PRIMARY_KEY_SUPPORT				13691	eu	Helburuko datu-baseak ez du lehen mailako gakorik onartzen.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_PRIMARY_KEY_SUPPORT				1	fi	Kohdetietokanta ei tue perusavaimia.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_PRIMARY_KEY_SUPPORT				0	fr	La base de données de destination ne prend pas en charge les clés primaires.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_PRIMARY_KEY_SUPPORT				0	gl	A base de datos destino non soporta chaves primarias.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_PRIMARY_KEY_SUPPORT				13691	gl	A base de datos destino non soporta chaves primarias.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_PRIMARY_KEY_SUPPORT				0	gu	લક્ષ્ય ડેટાબેઝ એ પ્રાથમિત કીઓને આધાર આપતુ નથી.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_PRIMARY_KEY_SUPPORT				13691	hi-IN	गंतव्य डेटाबेस प्राथमिक कुंजियों को समर्थन नहीं देता है.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_PRIMARY_KEY_SUPPORT				0	hu	A céladatbázis nem támogatja az elsődleges kulcsokat.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_PRIMARY_KEY_SUPPORT				0	id	Basis data tujuan tidak mendukung kunci utama.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_PRIMARY_KEY_SUPPORT				0	it	Il database di destinazione non supporta chiavi primarie.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_PRIMARY_KEY_SUPPORT				0	ja	宛先データベースはプライマリキーをサポートしていません。				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_PRIMARY_KEY_SUPPORT				0	km	មូលដ្ឋាន​ទិន្នន័យ​ទិសដៅ មិន​៿គាំទ្រ​កូនសោ​សំខាន់ទេ ។				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_PRIMARY_KEY_SUPPORT				13691	km	មូលដ្ឋាន​ទិន្នន័យ​ទិសដៅ មិន​៿គាំទ្រ​កូនសោ​សំខាន់ទេ ។				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_PRIMARY_KEY_SUPPORT				13691	kn-IN	ನಿರ್ದೇಶಿತ ದತ್ತಸಂಚಯವು ಪ್ರಾಥಮಿಕ ಕೀಲಿಗಳನ್ನು ಬೆಂಬಲಿಸುವುದಿಲ್ಲ.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_PRIMARY_KEY_SUPPORT				0	ko	대상 데이터베이스가 기본 키를 지원하지 않습니다.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_PRIMARY_KEY_SUPPORT				0	lt	Paskirties duomenų bazė nesuderinama su pirminiais raktais.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_PRIMARY_KEY_SUPPORT				0	mk	Целната база на податоци не подржува примарни клучеви.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_PRIMARY_KEY_SUPPORT				13691	lt	Paskirties duomenų bazė nesuderinama su pirminiais raktais.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_PRIMARY_KEY_SUPPORT				13691	mk	Целната база на податоци не подржува примарни клучеви.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_PRIMARY_KEY_SUPPORT				13691	ml-IN	ലക്ഷ്യസ്ഥാനത്തുള്ള ഡേറ്റാബെയിസ് പ്രൈമറി കീകള്‍ പിന്തുണയ്ക്കുന്നില്ല.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_PRIMARY_KEY_SUPPORT				0	mn	Товлосон өгөгдлийн сан үндсэн түлхүүрийг дэмжээгүй байна.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_PRIMARY_KEY_SUPPORT				13691	mr-IN	इच्छित स्थळीचा माहितीकोश प्राथमिक कीजना आधार देत नाही.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_PRIMARY_KEY_SUPPORT				0	nb	Måldatabasen støtter ikke primærnøkler.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_PRIMARY_KEY_SUPPORT				0	ne	गन्तब्य डाटाबेसले प्राथमिक कुञ्जीहरू समर्थन गर्दैन ।				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_PRIMARY_KEY_SUPPORT				0	nl	De doeldatabase ondersteunt geen primaire sleutels.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_PRIMARY_KEY_SUPPORT				0	nn	Måldatabasen støttar ikkje primærnøklar.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_PRIMARY_KEY_SUPPORT				0	pa-IN	ਟਿਕਾਣਾ ਡਾਟਾਬੇਸ ਪ੍ਰਾਇਮਰੀ ਕੁੰਜੀਆਂ ਲਈ ਸਹਾਇਕ ਨਹੀਂ ਹੈ।				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_PRIMARY_KEY_SUPPORT				0	oc	La basa de destinacion supòrta pas de claus primàrias.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_PRIMARY_KEY_SUPPORT				13691	pa-IN	ਟਿਕਾਣਾ ਡਾਟਾਬੇਸ ਪ੍ਰਾਇਮਰੀ ਕੁੰਜੀਆਂ ਲਈ ਸਹਾਇਕ ਨਹੀਂ ਹੈ।				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_PRIMARY_KEY_SUPPORT				0	pl	Docelowa baza danych nie obsługuje kluczy głównych.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_PRIMARY_KEY_SUPPORT				0	pt	A base de dados de destino não suporta chaves principais.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_PRIMARY_KEY_SUPPORT				0	pt-BR	O banco de dados de destino não tem suporte a chaves primárias.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_PRIMARY_KEY_SUPPORT				0	ru	Целевая база данных не поддерживает первичных ключей.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_PRIMARY_KEY_SUPPORT				0	sh	Ciljna baza ne podržava primarne ključeve.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_PRIMARY_KEY_SUPPORT				0	sl	Ciljna zbirka podatkov ne podpira primarnih ključev.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_PRIMARY_KEY_SUPPORT				0	sr	Циљна база не подржава примарне кључеве.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_PRIMARY_KEY_SUPPORT				1	sa-IN	गन्तव्यडाटाबेस् न प्रधानकुञ्चिकां समर्थयति। 				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_PRIMARY_KEY_SUPPORT				38219	sh	Ciljna baza ne podržava primarne ključeve.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_PRIMARY_KEY_SUPPORT				1	sk	Cieľová databáza nepodporuje primárne kľúče.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_PRIMARY_KEY_SUPPORT				13691	sl	Ciljna zbirka podatkov ne podpira primarnih ključev.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_PRIMARY_KEY_SUPPORT				38219	sr	Циљна база не подржава примарне кључеве.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_PRIMARY_KEY_SUPPORT				0	sv	Måldatabasen har inte stöd för primärnycklar.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_PRIMARY_KEY_SUPPORT				13691	ta	இலக்கு தரவுத்தளம் முதன்மை சாவிகளை ஆதரிக்கவில்லை.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_PRIMARY_KEY_SUPPORT				13691	te-IN	లక్ష్యపు డాటాబేస్ ప్రాధమిక కీలను మద్దతీయదు.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_PRIMARY_KEY_SUPPORT				0	tr	Hedef veritabanı birincil anahtar özelliğini desteklememektedir.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_PRIMARY_KEY_SUPPORT				0	uk	Цільова база даних не підтримує первинні ключі.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_PRIMARY_KEY_SUPPORT				0	vi	Cơ sở dữ liệu đích không hỗ trợ khoá chính.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_PRIMARY_KEY_SUPPORT				0	zh-CN	此目标数据库不支持主键。				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_PRIMARY_KEY_SUPPORT				0	zh-TW	目標資料庫不支援主關鍵字。				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_VIEWS_SUPPORT				0	ar	قاعدة البيانات المختارة لا تدعم views.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_VIEWS_SUPPORT				0	be-BY	Мэтавая база даных не падтрымлівае выбарак (view)*.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_VIEWS_SUPPORT				0	ar	قاعدة البيانات الوجهة لا تدعم طرق العرض.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_VIEWS_SUPPORT				13691	as-IN	গন্তব্যৰ তথ্যভঁৰালে views ৰ সমৰ্থন নকৰে ।				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_VIEWS_SUPPORT				13691	be-BY	Мэтавая база даных не падтрымлівае выбарак (view)*.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_VIEWS_SUPPORT				0	bg	Целевата база от данни не поддържа виртуални таблици.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_VIEWS_SUPPORT				13691	bn	উদ্দিষ্ট উপাত্তধার প্রদর্শনসমূহকে সমর্থন করে না।				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_VIEWS_SUPPORT				0	br	Ne vez ket skoret ar gwelioù gant ar stlennvon bukenn.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_VIEWS_SUPPORT				0	ca	La base de dades de destinació no permet l'ús de visualitzacions.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_VIEWS_SUPPORT				0	cs	Cílová databáze nepodporuje pohledy.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_VIEWS_SUPPORT				13691	cs	Cílová databáze nepodporuje pohledy.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_VIEWS_SUPPORT				1	da	Mål-databasen understøtter ikke visninger.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_VIEWS_SUPPORT				0	de	Die Zieldatenbank unterstützt keine Sichten.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_VIEWS_SUPPORT				0	el	Η βάση δεδομένων προορισμού δεν υποστηρίζει προβολές.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_VIEWS_SUPPORT				13691	el	Η βάση δεδομένων προορισμού δεν υποστηρίζει προβολές.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_VIEWS_SUPPORT				13691	en-GB	The destination database does not support views.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_VIEWS_SUPPORT				0	es	El base de datos de destino no apoyo vistas.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_VIEWS_SUPPORT				0	et	Sihtandmebaas ei toeta vaateid.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_VIEWS_SUPPORT				13691	et	Sihtandmebaas ei toeta vaateid.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_VIEWS_SUPPORT				13691	eu	Helburuko datu-baseak ez ditu ikuspegiak onartzen.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_VIEWS_SUPPORT				1	fi	Kohdetietokanta ei tue näkymiä.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_VIEWS_SUPPORT				0	fr	La base de données de destination ne prend pas en charge les vues.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_VIEWS_SUPPORT				0	gl	A base de datos destino non soporta vistas.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_VIEWS_SUPPORT				13691	gl	A base de datos destino non soporta vistas.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_VIEWS_SUPPORT				0	gu	લક્ષ્ય ડેટાબેઝ એ દેખાવો ને આધાર આપતુ નથી.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_VIEWS_SUPPORT				13691	hi-IN	गंतव्य डेटाबेस दृश्य को समर्थन नहीं देता है.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_VIEWS_SUPPORT				0	hu	A céladatbázis nem támogatja a nézeteket.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_VIEWS_SUPPORT				0	id	Basis data tujuan tidak mendukung tampilan.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_VIEWS_SUPPORT				0	it	Il database di destinazione non supporta viste.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_VIEWS_SUPPORT				0	ja	宛先データベースはビューをサポートしていません。				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_VIEWS_SUPPORT				0	km	មូលដ្ឋាន​ទិន្នន័យ​ទិសដៅ មិនគាំទ្រ​ទិដ្ឋភាព​ទេ ។				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_VIEWS_SUPPORT				13691	km	មូលដ្ឋាន​ទិន្នន័យ​ទិសដៅ មិនគាំទ្រ​ទិដ្ឋភាព​ទេ ។				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_VIEWS_SUPPORT				13691	kn-IN	ನಿರ್ದೇಶಿತ ದತ್ತಸಂಚಯವು ನೋಟಗಳನ್ನು ಬೆಂಬಲಿಸುವುದಿಲ್ಲ.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_VIEWS_SUPPORT				0	ko	대상 데이터베이스가 보기 기능을 지원하지 않습니다.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_VIEWS_SUPPORT				0	lt	Paskirties duomenų bazė nesuderinama su rodiniais.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_VIEWS_SUPPORT				0	mk	Целната база на податоци не подржува погледи.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_VIEWS_SUPPORT				13691	lt	Paskirties duomenų bazė nesuderinama su rodiniais.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_VIEWS_SUPPORT				13691	mk	Целната база на податоци не подржува погледи.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_VIEWS_SUPPORT				13691	ml-IN	ലക്ഷ്യസ്ഥാനത്തുള്ള ഡേറ്റാബെയിസ് കാഴ്ചകള്‍ പിന്തുണയ്ക്കുന്നില്ല.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_VIEWS_SUPPORT				0	mn	Товлосон өгөгдлийн сан харагдцыг дэмжээгүй байна.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_VIEWS_SUPPORT				13691	mr-IN	इच्छित स्थळीचा माहितीकोश दृश्यांना आधार देत नाही.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_VIEWS_SUPPORT				0	nb	Måldatabasen støtter ikke visninger.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_VIEWS_SUPPORT				0	ne	गन्तब्य डाटाबेसले दृश्यहरू समर्थन गर्दैन ।				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_VIEWS_SUPPORT				0	nl	De doeldatabase ondersteunt geen weergaven.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_VIEWS_SUPPORT				0	nn	Måldatabasen støttar ikkje visingar.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_VIEWS_SUPPORT				0	pa-IN	ਟਿਕਾਣਾ ਡਾਟਾਬੇਸ ਵਿਊ ਲਈ ਸਹਿਯੋਗੀ ਨਹੀਂ ਹੈ।				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_VIEWS_SUPPORT				0	oc	La basa de destinacion supòrta pas las vistas ("views").				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_VIEWS_SUPPORT				13691	pa-IN	ਟਿਕਾਣਾ ਡਾਟਾਬੇਸ ਵਿਊ ਲਈ ਸਹਾਇਕ ਨਹੀਂ ਹੈ।				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_VIEWS_SUPPORT				0	pl	Docelowa baza danych nie obsługuje widoków.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_VIEWS_SUPPORT				0	pt	A base de dados de destino não suporta vistas.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_VIEWS_SUPPORT				0	pt-BR	O banco de dados de destino não tem suporte a views.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_VIEWS_SUPPORT				0	pt-BR	O banco de dados de destino não tem suporte a exibições.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_VIEWS_SUPPORT				0	ru	Целевая база данных не поддерживает представлений.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_VIEWS_SUPPORT				0	sh	Ciljna baza podataka ne podržava poglede.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_VIEWS_SUPPORT				0	sl	Ciljna zbirka podatkov ne podpira pogledov.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_VIEWS_SUPPORT				0	sr	Циљна база података не подржава погледе.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_VIEWS_SUPPORT				1	sa-IN	गन्तव्यडाटाबेस् न समर्थनदृश्यानि समर्थयति। 				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_VIEWS_SUPPORT				38219	sh	Ciljna baza podataka ne podržava poglede.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_VIEWS_SUPPORT				1	sk	Cieľová databáza nepodporuje pohľady.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_VIEWS_SUPPORT				13691	sl	Ciljna zbirka podatkov ne podpira pogledov.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_VIEWS_SUPPORT				38219	sr	Циљна база података не подржава погледе.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_VIEWS_SUPPORT				0	sv	Måldatabasen har inte stöd för vyer.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_VIEWS_SUPPORT				13691	ta	இலக்கு தரவுத்தளம் பார்வைகளை ஆதரிக்கவில்லை.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_VIEWS_SUPPORT				13691	te-IN	లక్ష్యపు డాటాబేస్ వ్యూలను మద్దతీయదు.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_VIEWS_SUPPORT				0	tr	Hedef veritabanı görünümleri desteklememektedir.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_VIEWS_SUPPORT				0	uk	Цільова база даних не підтримує представлення.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_VIEWS_SUPPORT				0	vi	Cơ sở dữ liệu đích không hỗ trợ ô xem.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_VIEWS_SUPPORT				0	zh-CN	此目标数据库不支持视图。				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_NO_VIEWS_SUPPORT				0	zh-TW	目標資料庫不支援檢視。				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ONLY_TABLES_AND_QUERIES_SUPPORT				0	ar	فقط الجداول و الاستعلامات مدعومة في الحال				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ONLY_TABLES_AND_QUERIES_SUPPORT				0	be-BY	Зараз падтрымліваюцца толькі табліцы і звароты.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ONLY_TABLES_AND_QUERIES_SUPPORT				0	ar	يتم فقط دعم الجداول والاستعلامات في الوقت الحالي.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ONLY_TABLES_AND_QUERIES_SUPPORT				13691	as-IN	এই সময়ত অকল টেবুল আৰু অনুসন্ধানৰহে সমৰ্থন দিয়া হয় ।				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ONLY_TABLES_AND_QUERIES_SUPPORT				13691	be-BY	Зараз падтрымліваюцца толькі табліцы і звароты.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ONLY_TABLES_AND_QUERIES_SUPPORT				0	bg	В момента се поддържат само таблици и заявки.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ONLY_TABLES_AND_QUERIES_SUPPORT				13691	bn	এই মুহুর্তে শুধুমাত্র সারণী এবং জিজ্ঞাসাসমূহ সমর্থিত।				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ONLY_TABLES_AND_QUERIES_SUPPORT				0	br	 Skoret e vez an taolennoù hag an azgoulennoù hepken evit ar mare.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ONLY_TABLES_AND_QUERIES_SUPPORT				0	ca	Només es permet l'ús de taules i consultes, de moment.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ONLY_TABLES_AND_QUERIES_SUPPORT				0	cs	Momentálně jsou podporovány jen tabulky a dotazy.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ONLY_TABLES_AND_QUERIES_SUPPORT				13691	cs	Momentálně jsou podporovány jen tabulky a dotazy.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ONLY_TABLES_AND_QUERIES_SUPPORT				1	da	Kun tabeller og forespørgsler er understøttet i øjeblikket.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ONLY_TABLES_AND_QUERIES_SUPPORT				0	de	Zur Zeit werden nur Tabellen und Abfragen unterstützt.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ONLY_TABLES_AND_QUERIES_SUPPORT				0	el	Μόνο πίνακες και ερωτήματα υποστηρίζονται προς το παρόν.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ONLY_TABLES_AND_QUERIES_SUPPORT				13691	el	Μόνο πίνακες και ερωτήματα υποστηρίζονται προς το παρόν.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ONLY_TABLES_AND_QUERIES_SUPPORT				13691	en-GB	Only tables and queries are supported at the moment.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ONLY_TABLES_AND_QUERIES_SUPPORT				0	es	Solamente tablas y preguntas apoyado en este momento.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ONLY_TABLES_AND_QUERIES_SUPPORT				0	et	Praegu on toetatud ainult tabelid ja päringud.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ONLY_TABLES_AND_QUERIES_SUPPORT				13691	et	Praegu on toetatud ainult tabelid ja päringud.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ONLY_TABLES_AND_QUERIES_SUPPORT				13691	eu	Oraingoz taulak eta kontsultak soilik daude onartuta.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ONLY_TABLES_AND_QUERIES_SUPPORT				1	fi	Toistaiseksi vain taulujen ja kyselyiden käyttö on mahdollista.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ONLY_TABLES_AND_QUERIES_SUPPORT				0	fr	Seules les tables et les requêtes sont prises en charge actuellement.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ONLY_TABLES_AND_QUERIES_SUPPORT				0	gl	Polo momento só se soportan as táboas e mailas consultas.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ONLY_TABLES_AND_QUERIES_SUPPORT				13691	gl	Polo momento só se soportan as táboas e mailas consultas.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ONLY_TABLES_AND_QUERIES_SUPPORT				0	gu	આ ક્ષણ પર ફક્ત કોષ્ટકો અને પ્રશ્ર્નો આધારભૂત છે.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ONLY_TABLES_AND_QUERIES_SUPPORT				13691	hi-IN	केवल सारणी और प्रश्न को इस समय समर्थित किया जा सकता है.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ONLY_TABLES_AND_QUERIES_SUPPORT				0	hu	Jelenleg csak a táblák és lekérdezések támogatottak.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ONLY_TABLES_AND_QUERIES_SUPPORT				0	id	Hanya tabel dan query yang didukung pada saat ini.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ONLY_TABLES_AND_QUERIES_SUPPORT				0	it	Al momento sono supportate solo tabelle e ricerche.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ONLY_TABLES_AND_QUERIES_SUPPORT				0	ja	現在サポートされているのは、テーブルとクエリーだけです。				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ONLY_TABLES_AND_QUERIES_SUPPORT				0	km	មានតែតារាង និង​សំណួរ​ប៉ុណ្ណោះ​ដែល​ត្រូវបាន​គាំទ្រ​នៅពេល​នេះ ។				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ONLY_TABLES_AND_QUERIES_SUPPORT				13691	km	មានតែតារាង និង​សំណួរ​ប៉ុណ្ណោះ​ដែល​ត្រូវបាន​គាំទ្រ​នៅពេល​នេះ ។				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ONLY_TABLES_AND_QUERIES_SUPPORT				13691	kn-IN	ಈ ಸಮಯದಲ್ಲಿ ಕೇವಲ ಪ್ರಶ್ನೆಗಳು ಹಾಗು ಕೋಷ್ಟಕಗಳಿಗೆ ಮಾತ್ರ ಬೆಂಬಲವಿದೆ.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ONLY_TABLES_AND_QUERIES_SUPPORT				0	ko	한번에 하나의 테이블과 쿼리만을 사용할 수 있습니다.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ONLY_TABLES_AND_QUERIES_SUPPORT				0	lt	Leistinos tik lentelės ir užklausos.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ONLY_TABLES_AND_QUERIES_SUPPORT				0	mk	Во моментов, поддржани се само табели и барања.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ONLY_TABLES_AND_QUERIES_SUPPORT				13691	lt	Leistinos tik lentelės ir užklausos.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ONLY_TABLES_AND_QUERIES_SUPPORT				13691	mk	Во моментов, поддржани се само табели и барања.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ONLY_TABLES_AND_QUERIES_SUPPORT				13691	ml-IN	ഈ സമയത്തു് പട്ടികകളും ചോദ്യങ്ങളും മാത്രമേ പിന്തുണയ്ക്കുന്നുള്ളൂ.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ONLY_TABLES_AND_QUERIES_SUPPORT				0	mn	Одоогоор зөвхөн хүснэгт болон асуулга дэмжигдсэн.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ONLY_TABLES_AND_QUERIES_SUPPORT				13691	mr-IN	याक्षणी फक्त कोष्टकांना आणि शंकाना आधार दिलेला आहे.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ONLY_TABLES_AND_QUERIES_SUPPORT				0	nb	Bare tabeller og spørringer er støttet.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ONLY_TABLES_AND_QUERIES_SUPPORT				0	ne	यस समयमा तालिका र क्वेरीहरू मात्र समर्थित छन् ।				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ONLY_TABLES_AND_QUERIES_SUPPORT				0	nl	Momenteel worden alleen tabellen en query's ondersteund.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ONLY_TABLES_AND_QUERIES_SUPPORT				0	nn	Berre tabellar og spørjingar er støtta.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ONLY_TABLES_AND_QUERIES_SUPPORT				0	pa-IN	ਹਾਲੇ ਕੇਵਲ ਟੇਬਲ ਅਤੇ ਕਿਊਰੀਆਂ ਲਈ ਹੀ ਸਹਿਯੋਗ ਉਪਲੱਬਧ ਹੈ।				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ONLY_TABLES_AND_QUERIES_SUPPORT				0	oc	Sonque las taulas e las requèstas son suportadas per lo moment.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ONLY_TABLES_AND_QUERIES_SUPPORT				13691	pa-IN	ਇਸ ਸਮੇਂ ਕੇਵਲ ਟੇਬਲ ਅਤੇ ਕਿਊਰੀਆਂ ਹੀ ਸਹਾਇਕ ਹਨ।				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ONLY_TABLES_AND_QUERIES_SUPPORT				0	pl	Aktualnie są obsługiwane wyłącznie tabele i kwerendy.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ONLY_TABLES_AND_QUERIES_SUPPORT				0	pt	De momento apenas são suportadas tabelas e consultas.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ONLY_TABLES_AND_QUERIES_SUPPORT				0	pt-BR	Somente tabelas e consultas são suportadas no momento.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ONLY_TABLES_AND_QUERIES_SUPPORT				0	ru	В настоящее время поддерживаются только таблицы и запросы.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ONLY_TABLES_AND_QUERIES_SUPPORT				0	sh	Trenutno su podržane samo tabele i upiti.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ONLY_TABLES_AND_QUERIES_SUPPORT				0	sl	Trenutno so podprte samo tabele in poizvedbe.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ONLY_TABLES_AND_QUERIES_SUPPORT				0	sr	Тренутно су подржане само табеле и упити.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ONLY_TABLES_AND_QUERIES_SUPPORT				1	sa-IN	अस्मिन् क्षणे केवलं सारण्यः प्रश्नाः च समर्थिताः।  				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ONLY_TABLES_AND_QUERIES_SUPPORT				38219	sh	Trenutno su podržane samo tabele i upiti.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ONLY_TABLES_AND_QUERIES_SUPPORT				1	sk	Momentálne sú podporované len tabuľky a dotazy.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ONLY_TABLES_AND_QUERIES_SUPPORT				13691	sl	Trenutno so podprte samo tabele in poizvedbe.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ONLY_TABLES_AND_QUERIES_SUPPORT				38219	sr	Тренутно су подржане само табеле и упити.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ONLY_TABLES_AND_QUERIES_SUPPORT				0	sv	För närvarande stöds endast tabeller och sökningar.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ONLY_TABLES_AND_QUERIES_SUPPORT				13691	ta	தற்போது அட்டவணைகளுக்கும் கேள்விகளுக்கும் மட்டுமே ஆதரவுள்ளது.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ONLY_TABLES_AND_QUERIES_SUPPORT				13691	te-IN	పట్టికలు మరియు క్వరీలు మాత్రమే యిప్పుడు మద్దతిస్తున్నవి.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ONLY_TABLES_AND_QUERIES_SUPPORT				0	tr	Şu anda sadece tablolar ve sorgular desteklenmektedir.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ONLY_TABLES_AND_QUERIES_SUPPORT				0	uk	Наразі підтримуються лише таблиці та запити.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ONLY_TABLES_AND_QUERIES_SUPPORT				0	vi	Hiện thời chỉ hỗ trợ bảng và truy vấn.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ONLY_TABLES_AND_QUERIES_SUPPORT				0	zh-CN	当前只支持表格和查询。				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_ONLY_TABLES_AND_QUERIES_SUPPORT				0	zh-TW	目前僅支援表格與查詢。				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_UNSUPPORTED_COLUMN_TYPE				0	ar	نوع عمود مصدر غير مدعوم ($type$) في موضع العمود $pos$.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_UNSUPPORTED_COLUMN_TYPE				0	be-BY	Не падтрымліваецца тып вытокавай калонкі ($type$) у калонцы $pos$.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_UNSUPPORTED_COLUMN_TYPE				0	ar	نوع العمود المصدر ($type$) غير مدعوم في موضع العمود $pos$.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_UNSUPPORTED_COLUMN_TYPE				13691	as-IN	অসমৰ্থিত উৎসৰ স্তম্ভৰ ধৰণ ($type$) স্তম্ভৰ স্থান $pos$ ত ।				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_UNSUPPORTED_COLUMN_TYPE				13691	be-BY	Не падтрымліваецца тып выточнай калонкі ($type$) у калонцы $pos$.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_UNSUPPORTED_COLUMN_TYPE				0	bg	Не се поддържа типът на колона от източника ($type$), позиция $pos$.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_UNSUPPORTED_COLUMN_TYPE				13691	bn	স্তম্ভের $pos$ অবস্থানে অসমর্থিত উৎসের স্তম্ভের ধরণ ($type$)।				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_UNSUPPORTED_COLUMN_TYPE				0	br	Tarzh rizh bann unskor ($type$) war lec'hiadur ar bann $pos$.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_UNSUPPORTED_COLUMN_TYPE				0	ca	S'ha trobat un tipus de columna d'origen no permès ($type$) a la posició de columna $pos$.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_UNSUPPORTED_COLUMN_TYPE				0	cs	Nepodporovaný zdrojový typ sloupce ($type$) na pozici $pos$.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_UNSUPPORTED_COLUMN_TYPE				13691	cs	Nepodporovaný zdrojový typ sloupce ($type$) na pozici $pos$.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_UNSUPPORTED_COLUMN_TYPE				1	da	Ikke understøttet kolonnetype ($type$) for kilden ved kolonneplacering $pos$.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_UNSUPPORTED_COLUMN_TYPE				0	de	Nicht unterstützter Spaltentyp ($type$) bei Quell-Spalte an Position $pos$.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_UNSUPPORTED_COLUMN_TYPE				0	el	Μη υποστηριζόμενος τύπος στήλης πηγής  ($type$) στη θέση στήλης $pos$.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_UNSUPPORTED_COLUMN_TYPE				13691	el	Μη υποστηριζόμενος τύπος στήλης πηγής ($type$) στη θέση στήλης $pos$.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_UNSUPPORTED_COLUMN_TYPE				13691	en-GB	Unsupported source column type ($type$) at column position $pos$.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_UNSUPPORTED_COLUMN_TYPE				0	es	Tipo de columna fuente  ($type$) no soportadaen la columna $pos$.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_UNSUPPORTED_COLUMN_TYPE				0	et	Toetamata lähteveeru tüüp ($type$) veeru asukohas $pos$.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_UNSUPPORTED_COLUMN_TYPE				13691	et	Toetamata lähteveeru tüüp ($type$) veeru asukohas $pos$.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_UNSUPPORTED_COLUMN_TYPE				13691	eu	Onartu gabeko iturburuko zutabe mota ($type$) $pos$ zutabe-posizioan.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_UNSUPPORTED_COLUMN_TYPE				1	fi	Sarakkeen $pos$ lähdesarakkeen tyyppiä ($type$) ei tueta.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_UNSUPPORTED_COLUMN_TYPE				0	fr	Type de colonne source ($type$) non pris en charge en position $pos$.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_UNSUPPORTED_COLUMN_TYPE				0	gl	Tipo de columna de orixe ($type$) non soportado na posición de columna $pos$.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_UNSUPPORTED_COLUMN_TYPE				13691	gl	Tipo de columna de orixe ($type$) non soportado na posición de columna $pos$.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_UNSUPPORTED_COLUMN_TYPE				0	gu	સ્તંભ સ્થાન $pos$ પર બિનઆધારિત સ્ત્રોત સ્તંભ પ્રકાર.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_UNSUPPORTED_COLUMN_TYPE				13691	hi-IN	$pos$ कॉलम स्थिति पर असमर्थित स्रोत कॉलम प्रकार ($type$).				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_UNSUPPORTED_COLUMN_TYPE				0	hu	Nem támogatott forrás-oszloptípus ($type$) a(z) $pos$ oszlophelyen.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_UNSUPPORTED_COLUMN_TYPE				0	id	Tipe kolom yang tak didukung ($type$) pada posisi kolom $pos$.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_UNSUPPORTED_COLUMN_TYPE				0	it	Tipo di colonna di origine non supportato ($type$) alla posizione di colonna $pos$.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_UNSUPPORTED_COLUMN_TYPE				0	ja	列位置 $pos$ のソース列の種類 ($type$) はサポートされていません。				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_UNSUPPORTED_COLUMN_TYPE				0	km	ប្រភេទ​ជួរឈរ​ធនធាន​ដែល​មិនបាន​គាំទ្រ ($type$) នៅ​ទីតាំង​ជួរឈរ $pos$ ។				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_UNSUPPORTED_COLUMN_TYPE				13691	km	ប្រភេទ​ជួរឈរ​ធនធាន​ដែល​មិនបាន​គាំទ្រ ($type$) នៅ​ទីតាំង​ជួរឈរ $pos$ ។				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_UNSUPPORTED_COLUMN_TYPE				13691	kn-IN	ಲಂಬಸಾಲಿನ $pos$ ಸ್ಥಾನದಲ್ಲಿ ಬೆಂಬಲವಿಲ್ಲದ ಲಂಬಸಾಲಿನ ಬಗೆ ($type$).				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_UNSUPPORTED_COLUMN_TYPE				0	ko	원본 $pos$ 행의 $type$ 형식은 지원하지 않는 형식입니다.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_UNSUPPORTED_COLUMN_TYPE				0	lt	Nesuderinamas šaltinio stulpelio tipas ($type$) stulpelio vietoje $pos$.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_UNSUPPORTED_COLUMN_TYPE				0	mk	Неподдржан тип на изворна колона ($type$) во позицијата на колоната $pos$				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_UNSUPPORTED_COLUMN_TYPE				13691	lt	Nesuderinamas šaltinio stulpelio tipas ($type$) stulpelio vietoje $pos$.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_UNSUPPORTED_COLUMN_TYPE				13691	mk	Неподдржан тип на изворна колона ($type$) во позицијата на колоната $pos$				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_UNSUPPORTED_COLUMN_TYPE				13691	ml-IN	$pos$ എന്ന നിരയില്‍ പിന്തുണ ലഭ്യമല്ലാത്ത സോഴ്സ് തരത്തിലുള്ള നിര ($type$).				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_UNSUPPORTED_COLUMN_TYPE				0	mn	Дэмжигдээгүй баганын төрөл ($type$) $pos$ байрлалтай багананд байна.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_UNSUPPORTED_COLUMN_TYPE				13691	mr-IN	स्तंभ स्थितीवरील $pos$ आधार न दिलेला स्त्रोत स्तंभ प्रकार  ($type$)				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_UNSUPPORTED_COLUMN_TYPE				0	nb	Kolonnetypen $type$ i kolonneposisjonen $pos$ støttes ikke.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_UNSUPPORTED_COLUMN_TYPE				0	ne	स्तम्भ स्थिति $pos$ मा असमर्थित स्रोत स्तम्भ प्रकार ($type$) ।				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_UNSUPPORTED_COLUMN_TYPE				0	nl	Niet ondersteund bronkolomtype ($type$) op kolompositie $pos$.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_UNSUPPORTED_COLUMN_TYPE				0	nn	Kolonnetypen $type$ i kolonneposisjon $pos$ er ikkje støtta.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_UNSUPPORTED_COLUMN_TYPE				0	oc	Tipe de sorga de la colomna ($type$) es pas suportat a la posicion de la colomna $pos$.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_UNSUPPORTED_COLUMN_TYPE				0	pl	Nieobsługiwany typ kolumny źródłowej ($type$) w kolumnie o pozycji $pos$.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_UNSUPPORTED_COLUMN_TYPE				0	pt	Tipo de coluna de origem não suportado ($type$) na posição da coluna $pos$.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_UNSUPPORTED_COLUMN_TYPE				0	pt-BR	Não há suporte para o tipo ($type$) da coluna fonte, na posição $pos$.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_UNSUPPORTED_COLUMN_TYPE				0	ru	Не поддерживаемый тип исходного столбца ($type$) в позиции $pos$.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_UNSUPPORTED_COLUMN_TYPE				0	sh	Na poziciji $pos$ nije podržana izvorna vrsta kolona ($type$).				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_UNSUPPORTED_COLUMN_TYPE				0	sl	Nepodprta vrsta izvornega stolpca ($type$) na položaju stolpca $pos$.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_UNSUPPORTED_COLUMN_TYPE				0	sr	На позицији $pos$ није подржана изворна врста колона ($type$).				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_UNSUPPORTED_COLUMN_TYPE				1	sa-IN	स्तमभस्थाने $pos$ असमर्थितमूलस्तम्भवर्गः ($type$)।				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_UNSUPPORTED_COLUMN_TYPE				38219	sh	Na poziciji $pos$ nije podržana izvorna vrsta kolona ($type$).				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_UNSUPPORTED_COLUMN_TYPE				1	sk	Nepodporovaný typ stĺpca zdroja ($type$) na pozícii stĺpca $pos$.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_UNSUPPORTED_COLUMN_TYPE				13691	sl	Nepodprta vrsta izvornega stolpca ($type$) na položaju stolpca $pos$.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_UNSUPPORTED_COLUMN_TYPE				38219	sr	На позицији $pos$ није подржана изворна врста колона ($type$).				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_UNSUPPORTED_COLUMN_TYPE				0	sv	Källkolumntypen ($type$) saknar stöd vid kolumnpositionen $pos$.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_UNSUPPORTED_COLUMN_TYPE				13691	ta	$pos$ பத்தி இடத்தில் ($type$) ஆதரவில்லாத மூலப் பத்தி வகை.				2002-02-02 02:02:02
+dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_UNSUPPORTED_COLUMN_TYPE				13691	te-IN	నిలువువరుస స్థానము $pos$ వద్ద మద్దతీయని మూలము నిలువువరుస రకము ($type$).				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_UNSUPPORTED_COLUMN_TYPE				0	tr	$pos$ sütun konumu kaynak sütun türünü ($type$) desteklememektedir.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_UNSUPPORTED_COLUMN_TYPE				0	uk	Непідтримуваний тип первинного стовпчика ($type$) у позиції $pos$.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\copytablewizard.src	0	string	STR_CTW_UNSUPPORTED_COLUMN_TYPE				0	vi	Gặp kiểu cột nguồn không được hỗ trợ ($type$) ở vị trí cột $pos$.				2002-02-02 02:02:02
@@ -380,47 +511,57 @@ dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_QUERY_SAVE_DOCUMENT				0	t
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_QUERY_SAVE_DOCUMENT				0	zh-CN	文档 $(DOC) 已经被修改。\n是否要保存这些修改？				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_QUERY_SAVE_DOCUMENT				0	zh-TW	這個文件 $(DOC) 已經變更。\n要儲存這些變更？				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				0	af	~Onthou wagwoord				2002-02-02 02:02:02
-dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				0	ar	تذكر كلمة الس~ر				2002-02-02 02:02:02
-dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				0	as-IN	পাছৱৰ্ড মনত ৰাখক				2002-02-02 02:02:02
-dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				0	be-BY	Памятаць пароль				2002-02-02 02:02:02
+dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				0	ar	تذكر ~كلمة المرور				2002-02-02 02:02:02
+dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				13691	as-IN	পাছৱৰ্ড মনত ৰাখক (~R)				2002-02-02 02:02:02
+dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				13691	be-BY	Памятаць пароль				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				0	bg	~Запомняне на паролата				2002-02-02 02:02:02
+dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				13691	bn	গুপ্তসংকেত মনে রাখুন (~R)				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				0	br	Enrollañ ar ger-tremen				2002-02-02 02:02:02
+dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				1	brx	~पासवर्डखौ गोसोआव लाखि				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				0	bs	~Zapamti šifru				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				0	ca	~Recorda la contrasenya				2002-02-02 02:02:02
-dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				0	cs	Zapamatovat heslo				2002-02-02 02:02:02
+dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				13691	cs	Zapamatovat heslo				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				0	cy	~Cofio cyfrinair				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				1	da	~Husk adgangskode				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				0	de	Kennwort dauerhaft ~speichern				2002-02-02 02:02:02
+dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				1	dgo	~ पासवर्ड चेतै रक्खो				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				13691	dz	ཆོག་ཡིག་ སེམས་ཁར་བཞག(~R)				2002-02-02 02:02:02
-dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				0	el	Απο~μνημόνευση κωδικού πρόσβασης				2002-02-02 02:02:02
-dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				0	en-GB	~Remember password				2002-02-02 02:02:02
+dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				13691	el	Απο~μνημόνευση κωδικού πρόσβασης				2002-02-02 02:02:02
+dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				13691	en-GB	~Remember password				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				0	en-ZA	~Remember password				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				0	eo	Memori pasvorton				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				0	es	~Guardar contraseña				2002-02-02 02:02:02
-dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				0	et	Parool jäetakse meelde				2002-02-02 02:02:02
+dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				13691	et	Parool jäetakse meelde				2002-02-02 02:02:02
+dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				13691	eu	~Gogoratu pasahitza				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				0	fa	~به خاطر سپردن گذرواژه				2002-02-02 02:02:02
-dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				0	fi	~Muista salasana				2002-02-02 02:02:02
-dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				0	fr	Enregistrer le mot de passe				2002-02-02 02:02:02
+dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				1	fi	~Muista salasana				2002-02-02 02:02:02
+dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				0	fr	~Enregistrer le mot de passe				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				13691	ga	~Meabhraigh focal faire				2002-02-02 02:02:02
-dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				0	gl	~Lembrar o contrasinal				2002-02-02 02:02:02
+dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				13691	gl	~Lembrar o contrasinal				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				0	gu	પાસવર્ડને યાદ રાખો(~R)				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				1	gu-IN	પાસવર્ડને યાદ રાખો(~R)				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				0	he	זכירת סיסמה				2002-02-02 02:02:02
-dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				1	hi-IN	शब्दकूट याद रखें (~R)				2002-02-02 02:02:02
+dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				13691	hi-IN	कूटशब्द याद रखें (~R)				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				0	hr	~Zapamti lozinku				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				0	hu	~Jelszó megjegyzése				2002-02-02 02:02:02
+dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				0	id	~Ingat kata sandi				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				0	it	Memorizza pa~ssword				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				0	ja	パスワードを記憶(~R)				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				0	ka	~პაროლის დამახსოვრება				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				0	kk	Құпия кiлттi жадтауы				2002-02-02 02:02:02
-dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				0	km	ចងចាំ​ពាក្យ​សម្ងាត់ 				2002-02-02 02:02:02
+dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				13691	km	ចងចាំ​ពាក្យ​សម្ងាត់ 				2002-02-02 02:02:02
+dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				13691	kn-IN	ಪ್ರವೇಶಪದವನ್ನು ನೆನಪಿನಲ್ಲಿಡು(~R)				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				0	ko	암호 영구 저장(~R)				2002-02-02 02:02:02
+dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				1	kok	गुप्त शब्द याद धरात				2002-02-02 02:02:02
+dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				1	ks	خفیہ لفظ تھٲویو  یاد 				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				0	ku	Şîfre~yê bibîr bîne				2002-02-02 02:02:02
-dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				0	lt	~Prisiminti slaptažodį				2002-02-02 02:02:02
-dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				0	mk	~Запомни лозинка				2002-02-02 02:02:02
-dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				0	ml-IN	സങ്കേതപദം ഓര്മ്മിക്കുക				2002-02-02 02:02:02
+dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				13691	lt	~Prisiminti slaptažodį				2002-02-02 02:02:02
+dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				1	mai	कूटशब्द याद राखू (~R)				2002-02-02 02:02:02
+dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				13691	mk	~Запомни лозинка				2002-02-02 02:02:02
+dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				13691	ml-IN	സങ്കേതപദം ഓര്മ്മിക്കുക				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				0	mn	Нууц үгийг ~сануул				2002-02-02 02:02:02
-dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				0	mr-IN	~गुप्तशब्द लक्षात ठेवा				2002-02-02 02:02:02
+dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				1	mni	 পাসৱর্দ নিংশিংবিয়ু				2002-02-02 02:02:02
+dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				13691	mr-IN	~परवलीचा शब्द लक्षात ठेवा				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				0	my	စကားဝှက် သတိရပါ				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				0	nb	~Husk passordet				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				0	ne	पासवर्ड सम्झनुहोस्				2002-02-02 02:02:02
@@ -428,24 +569,28 @@ dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTEN
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				0	nn	~Hugs passordet				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				0	nr	~Khumbula inomboro yokungena				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				0	ns	~Gopola lentšuphetišo				2002-02-02 02:02:02
+dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				0	oc	~Se remembrar lo mot de santa Clara				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				0	or-IN	ଗୁପ୍ତଶବ୍ଦ ମନେପକାଅ				2002-02-02 02:02:02
-dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				0	pa-IN	ਪਾਸਵਰਡ ਯਾਦ ਰੱਖੋ(~R)				2002-02-02 02:02:02
+dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				13691	pa-IN	ਪਾਸਵਰਡ ਯਾਦ ਰੱਖੋ(~R)				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				0	pl	~Zapamiętaj hasło				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				0	pt	~Memorizar palavra-passe				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				0	pt-BR	~Lembrar senha				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				0	ru	Запомнить пароль				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				0	rw	Kwibuka ijambobanga				2002-02-02 02:02:02
-dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				0	sh	~Zapamti lozinku				2002-02-02 02:02:02
-dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				0	sk	~Zapamätať si heslo				2002-02-02 02:02:02
-dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				0	sl	~Zapomni si geslo				2002-02-02 02:02:02
-dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				0	sr	~Запамти лозинку				2002-02-02 02:02:02
+dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				1	sa-IN	कूटशब्दं स्मरय				2002-02-02 02:02:02
+dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				1	sat	दानाङ साबात उयहा़र दोहो (~R)				2002-02-02 02:02:02
+dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				1	sd	ڳجهو لفظ ياد رکو				2002-02-02 02:02:02
+dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				38219	sh	~Zapamti lozinku				2002-02-02 02:02:02
+dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				1	sk	~Zapamätať si heslo				2002-02-02 02:02:02
+dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				13691	sl	~Zapomni si geslo				2002-02-02 02:02:02
+dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				38219	sr	~Запамти лозинку				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				0	ss	~Khumbula libitophawu				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				0	st	~Hopola lentswephetiso				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				0	sv	~Kom ihåg lösenordet permanent				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				0	sw-TZ	Kumbuka nywila				2002-02-02 02:02:02
-dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				0	ta	~கடவுச்சொல்லை மனதில் வைக்கவும்				2002-02-02 02:02:02
+dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				13691	ta	~கடவுச்சொல்லை நினைவில் வை				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				1	ta-IN	~கடவுச்சொல்லை மனதில் வைக்கவும்				2002-02-02 02:02:02
-dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				0	te-IN	రహస్యపదంను గుర్తుంచు				2002-02-02 02:02:02
+dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				13691	te-IN	రహస్యపదంను గుర్తుంచు (~R)				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				0	tg	Парол дар хотир дошта шавад				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				0	th	~จำรหัสผ่าน				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				0	ti-ER	ሚስጢራዊ ቃል ዘክር				2002-02-02 02:02:02
@@ -462,47 +607,51 @@ dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTEN
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				0	zh-TW	儲存密碼(~R)				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_PERSISTENT				0	zu	~Khumbula igama lokudlula				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				0	af	~Onthou wagwoord tot aan einde van sessie				2002-02-02 02:02:02
-dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				0	ar	~تذكر كلمة السر حتى نهاية الجلسة.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				0	as-IN	কাৰ্যকালৰ শেষলৈকে পাছৱৰ্ড মনত ৰাখক				2002-02-02 02:02:02
-dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				0	be-BY	Памятаць пароль да заканчэння сеанса				2002-02-02 02:02:02
+dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				0	ar	~تذكر كلمة المرور حتى نهاية الجلسة				2002-02-02 02:02:02
+dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				13691	as-IN	অধিবেশনৰ অন্তলৈকে গুপ্তশব্দ মনত ৰাখিব (~R)				2002-02-02 02:02:02
+dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				13691	be-BY	Памятаць пароль да заканчэння сеанса				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				0	bg	~Запомняне на паролата до края на сесията				2002-02-02 02:02:02
+dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				13691	bn	অধিবেশন শেষ না হওয়া পর্যন্ত গুপ্তসংকেতটি মনে রাখুন (~R)				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				0	br	Derc'hel soñj eus ar ger-tremen betek dibenn an estez				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				0	bs	~Zapamti šifru do kraja sesije				2002-02-02 02:02:02
-dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				0	ca	~Recorda la contrasenya fins al final de la sessió.				2002-02-02 02:02:02
-dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				0	cs	Zapamatovat heslo do konce sezení				2002-02-02 02:02:02
+dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				0	ca	~Recorda la contrasenya fins al final de la sessió				2002-02-02 02:02:02
+dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				13691	cs	Zapamatovat heslo do konce sezení				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				0	cy	~Cofio cyfrinair tan ddiwedd y sesiwn				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				1	da	~Husk adgangskode til programmet lukkes				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				0	de	Kennwort bis Sitzungsende ~merken				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				13691	dz	ལཱ་ཡུན་མ་རྫོགས་ཚུན་ཚོད་ ཆོག་ཡིག་སེམས་ཁར་བཞག(~R)				2002-02-02 02:02:02
-dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				0	el	Απο~μνημόνευση κωδικού έως το τέλος της συνεδρίας				2002-02-02 02:02:02
-dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				0	en-GB	~Remember password 'til end of session				2002-02-02 02:02:02
+dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				13691	el	Απο~μνημόνευση κωδικού έως το τέλος της συνεδρίας				2002-02-02 02:02:02
+dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				13691	en-GB	~Remember password until end of session				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				0	en-ZA	~Remember password till end of session				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				1	eo	Memori pasvorton gxis fino de seanco				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				0	es	~Recordar la contraseña hasta el fin de la sesión				2002-02-02 02:02:02
-dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				0	et	Parool jäetakse meelde seansi lõpuni				2002-02-02 02:02:02
+dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				13691	et	Parool jäetakse meelde seansi lõpuni				2002-02-02 02:02:02
+dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				13691	eu	~Gogoratu pasahitza saioa amaitu arte				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				0	fa	~به خاطر سپردن گذرواژه تا نشست بعدی				2002-02-02 02:02:02
-dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				0	fi	~Muista salasana istunnon loppuun asti				2002-02-02 02:02:02
-dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				0	fr	Mémoriser le mot de passe jusqu'à la fin de la session				2002-02-02 02:02:02
+dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				1	fi	~Muista salasana istunnon loppuun asti				2002-02-02 02:02:02
+dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				0	fr	~Mémoriser le mot de passe jusqu'à la fin de la session				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				13691	ga	Meabh~raigh an focal faire go dtí deireadh an tseisiúin				2002-02-02 02:02:02
-dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				0	gl	~Lembrar o contrasinal até o final da sesión				2002-02-02 02:02:02
+dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				13691	gl	~Lembrar o contrasinal até o final da sesión				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				0	gu	સત્રના અંત સુધી પાસવર્ડ યાદ રાખો (~R)				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				1	gu-IN	સત્રના અંતિમ સુધી પાસવર્ડને યાદ રાખો(~R)				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				0	he	זכירת הסיסמה רק עד סוף ההתקשרות הנוכחית				2002-02-02 02:02:02
-dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				1	hi-IN	शब्दकूट को कार्य-काल के अंत तक स्मरण में रखें (~R)				2002-02-02 02:02:02
+dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				13691	hi-IN	कूटशब्द को कार्य-काल के अंत तक स्मरण में रखें (~R)				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				0	hr	~Zapamti lozinku do kraja sesije				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				0	hu	~Jelszó megjegyzése a munkamenet végéig				2002-02-02 02:02:02
+dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				0	id	~Ingat sandi hingga akhir sesi				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				0	it	Memo~rizza la password fino al termine della sessione.				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				0	ja	セッション終了時までパスワードを記憶(~R)				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				0	ka	პ~აროლის დამახსოვრება სესიის ბოლომდე				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				0	kk	Қол танбаны сонғы сеансқа дейiн жадтаү				2002-02-02 02:02:02
-dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				0	km	ចងចាំ​ពាក្យ​សម្ងាត់​រហូត​ដល់​ចប់​សម័យ 				2002-02-02 02:02:02
+dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				13691	km	ចងចាំ​ពាក្យ​សម្ងាត់​រហូត​ដល់​ចប់​សម័យ 				2002-02-02 02:02:02
+dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				13691	kn-IN	ಅಧಿವೇಶನದ ಕೊನೆಯವರೆಗೂ ಗುಪ್ತಪದವನ್ನು ನೆನಪಿಟ್ಟುಕೊ(~R)				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				0	ko	응용 프로그램 종료까지 암호 기억(~R)				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				0	ku	~Heta dawiya danişînê şîfreyê bibîr bîne				2002-02-02 02:02:02
-dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				0	lt	~Prisiminti slaptažodį iki seanso pabaigos				2002-02-02 02:02:02
-dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				0	mk	~Запомни ја лозинката до крајот на сесијата				2002-02-02 02:02:02
-dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				0	ml-IN	സെഷന് തീരുന്നത് വരെ സങ്കേതപദം  ഒാര്മ്മിക്കുക				2002-02-02 02:02:02
+dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				13691	lt	~Prisiminti slaptažodį iki seanso pabaigos				2002-02-02 02:02:02
+dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				13691	mk	~Запомни ја лозинката до крајот на сесијата				2002-02-02 02:02:02
+dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				13691	ml-IN	സെഷന്റെ അവസാനം വരെ പാസ്‌വേര്‍ഡ് ~സൂക്ഷിക്കുക				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				0	mn	Энэ суултыг дуусах хүртэл нууц үгийг ~сануул				2002-02-02 02:02:02
-dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				0	mr-IN	~सत्राच्या शेवटपर्यंत गुप्तशब्द लक्षात ठेवा				2002-02-02 02:02:02
+dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				13691	mr-IN	~सत्राच्या शेवटपर्यंत परवलीचा शब्द लक्षात ठेवा				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				0	my	ကဏ္ဍ၏ အဆုံးသတ်အထိ စကားဝှက် သတိရပါ				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				0	nb	~Husk passordet hele økta				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				0	ne	सत्रको अन्तमा पासवर्ड सम्झनुहोस्				2002-02-02 02:02:02
@@ -510,24 +659,26 @@ dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION		
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				0	nn	~Hugs passordet heile økta				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				0	nr	~Khumbula inomboro yokungena kufikela ekupheleni kwesetjheni				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				0	ns	~Gopola lentšuphetiši go fihla mafelelong a modiro wo				2002-02-02 02:02:02
+dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				0	oc	~Se remembrar lo mot de santa Clara cap a la fin de la session				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				0	or-IN	ଶେଷ ଅଧିବେଶନ ପର୍ୟ୍ଯନ୍ତ ଗୁପ୍ତଶବ୍ଦ ମନେପକାଅ				2002-02-02 02:02:02
-dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				0	pa-IN	ਸ਼ੈਸ਼ਨ ਦੇ ਅੰਤ ਤੱਕ ਪਾਸਵਰਡ ਯਾਦ ਰੱਖੋ(~R)				2002-02-02 02:02:02
+dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				13691	pa-IN	ਸ਼ੈਸ਼ਨ ਦੇ ਅੰਤ ਤੱਕ ਗੁਪਤ ਕੋਡ ਯਾਦ ਰੱਖੋ(~R)				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				0	pl	~Zapamiętaj hasło do końca sesji				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				0	pt	~Recordar a palavra-passe até ao fim da sessão				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				0	pt-BR	Lembra~r a senha até o fim da sessão				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				0	ru	Запомнить пароль до конца сессии				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				0	rw	~Kwibuka ijambobanga kugeza umukoro urangiye				2002-02-02 02:02:02
-dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				0	sh	Zapamti lozinku ~do sledeće sesije				2002-02-02 02:02:02
-dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				0	sk	Za~pamätať si heslo do konca sedenia				2002-02-02 02:02:02
-dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				0	sl	~Zapomni si geslo do konca seje				2002-02-02 02:02:02
-dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				0	sr	Запамти лозинку ~до следеће сесије				2002-02-02 02:02:02
+dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				1	sa-IN	कूटशब्दं सत्रस्य समापनपर्यन्तं स्मरय				2002-02-02 02:02:02
+dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				38219	sh	~Zapamti lozinku do kraja sesije				2002-02-02 02:02:02
+dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				1	sk	~Zapamätať si heslo do konca sedenia				2002-02-02 02:02:02
+dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				13691	sl	~Zapomni si geslo do konca seje				2002-02-02 02:02:02
+dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				38219	sr	~Запамти лозинку до краја сесије				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				0	ss	~Khumbula libitophawu kuze kube ngusekupheleni kweseshini				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				0	st	~Hopola lentswephetiso ho fihla ho qetelleng ha nako				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				0	sv	Ko~m ihåg lösenordet tills sessionen avslutas				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				0	sw-TZ	~Remember password till end of session				2002-02-02 02:02:02
-dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				0	ta	~Remember password until end of session				2002-02-02 02:02:02
+dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				13691	ta	~அமர்வு முடியுமட்டும் கடவுச்சொல்லை நினைவில் வை				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				1	ta-IN	கடவுச்சொல்லை இந்த நிகழ்வு முடியும் வரை மனதில் வைக்கவும்				2002-02-02 02:02:02
-dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				0	te-IN	 సమకూర్పు ముగింపు వరకు రహస్యపదంను గుర్తుంచు				2002-02-02 02:02:02
+dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				13691	te-IN	సెషన్ ముగియునంతవరకు సంకేతపదమును గుర్తువుంచుకొనుము (~R)				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				0	tg	Паролро то охири мавсим дар хотир дор				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				0	th	~จำรหัสผ่านจนจบการใช้งานรอบนี้				2002-02-02 02:02:02
 dbaccess	source\ui\uno\dbinteraction.src	0	string	STR_REMEMBERPASSWORD_SESSION				0	ti-ER	ክሳብ ዝውዳእ ሚስጢራዊ ቃል ዘክር				2002-02-02 02:02:02

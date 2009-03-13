@@ -15,9 +15,9 @@
 #
 # OpenOffice.org - a multi-platform office productivity suite
 #
-# $RCSfile: localize.sdf,v $
+# $RCSfile:localize.pl,v $
 #
-# $Revision: 1.26 $
+# $Revision: 1.17.4.1 $
 #
 # This file is part of OpenOffice.org.
 #
@@ -38,46 +38,53 @@
 #
 #*************************************************************************
 desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				0	af	UNO-pakket-bundel				2002-02-02 02:02:02
-desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				0	ar	امتداد				2002-02-02 02:02:02
-desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				0	as-IN	UNO পেকেজ বাণ্ডল				2002-02-02 02:02:02
-desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				0	be-BY	Канчатак назвы*				2002-02-02 02:02:02
+desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				0	ar	الامتداد				2002-02-02 02:02:02
+desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				13691	as-IN	সম্প্ৰসাৰণ				2002-02-02 02:02:02
+desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				13691	be-BY	Канчатак назвы*				2002-02-02 02:02:02
 desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				0	bg	Разширение				2002-02-02 02:02:02
+desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				13691	bn	বর্ধিতাংশ				2002-02-02 02:02:02
 desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				0	br	Askouezhañ				2002-02-02 02:02:02
 desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				0	bs	UNO Package paket				2002-02-02 02:02:02
 desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				0	ca	Extensió				2002-02-02 02:02:02
-desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				0	cs	Rozšíření				2002-02-02 02:02:02
+desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				13691	cs	Rozšíření				2002-02-02 02:02:02
 desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				0	cy	Estyniad				2002-02-02 02:02:02
 desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				1	da	Udvidelse				2002-02-02 02:02:02
 desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				0	de	Extension				2002-02-02 02:02:02
+desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				1	dgo	विस्तार				2002-02-02 02:02:02
 desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				13691	dz	རྒྱ་བསྐྱེད་				2002-02-02 02:02:02
-desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				0	el	Επέκταση				2002-02-02 02:02:02
-desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				0	en-GB	UNO Package Bundle				2002-02-02 02:02:02
+desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				13691	el	Επέκταση				2002-02-02 02:02:02
+desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				13691	en-GB	Extension				2002-02-02 02:02:02
 desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				0	en-ZA	UNO Package Bundle				2002-02-02 02:02:02
 desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				0	eo	UNO-pakajxaro!				2002-02-02 02:02:02
 desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				0	es	Extensión				2002-02-02 02:02:02
-desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				0	et	Laiendus				2002-02-02 02:02:02
-desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				0	fi	UNO Pakettikimppu				2002-02-02 02:02:02
+desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				13691	et	Laiendus				2002-02-02 02:02:02
+desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				13691	eu	Hedapena				2002-02-02 02:02:02
+desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				1	fi	Lisäosa				2002-02-02 02:02:02
 desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				0	fr	Extension				2002-02-02 02:02:02
 desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				13691	ga	Eisínteacht				2002-02-02 02:02:02
-desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				0	gl	Extensión				2002-02-02 02:02:02
+desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				13691	gl	Extensión				2002-02-02 02:02:02
 desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				0	gu	એક્સટેન્સન				2002-02-02 02:02:02
 desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				1	gu-IN	UNO પેકેજ બંડલ				2002-02-02 02:02:02
 desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				0	he	אגד חבילות ‏‪UNO‏				2002-02-02 02:02:02
-desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				1	hi-IN	UNO संकुल गट्ठर				2002-02-02 02:02:02
+desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				13691	hi-IN	विस्तार				2002-02-02 02:02:02
 desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				0	hr	Skup UNO paketa				2002-02-02 02:02:02
 desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				0	hu	Kiterjesztés				2002-02-02 02:02:02
+desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				0	id	Ekstensi				2002-02-02 02:02:02
 desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				0	it	Estensione				2002-02-02 02:02:02
 desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				0	ja	拡張機能				2002-02-02 02:02:02
 desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				0	ka	გაფართოება				2002-02-02 02:02:02
 desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				0	kk	UNO Package Bundle				2002-02-02 02:02:02
-desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				0	km	ផ្នែក​បន្ថែម​				2002-02-02 02:02:02
+desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				13691	km	ផ្នែក​បន្ថែម​				2002-02-02 02:02:02
+desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				13691	kn-IN	ವಿಸ್ತರಣೆ				2002-02-02 02:02:02
 desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				0	ko	확장				2002-02-02 02:02:02
+desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				1	kok	वाडोवप				2002-02-02 02:02:02
 desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				0	ku	Dirêjek				2002-02-02 02:02:02
-desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				0	lt	Plėtinys				2002-02-02 02:02:02
-desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				0	mk	Екстензија				2002-02-02 02:02:02
-desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				0	ml-IN	UNO വലിയ പാക്കേജ്				2002-02-02 02:02:02
+desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				13691	lt	Plėtinys				2002-02-02 02:02:02
+desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				13691	mk	Екстензија				2002-02-02 02:02:02
+desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				13691	ml-IN	എക്സ്റ്റെന്‍ഷന്‍				2002-02-02 02:02:02
 desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				0	mn	Өргөтгөл				2002-02-02 02:02:02
-desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				0	mr-IN	UNO पॅकेज गड्डी				2002-02-02 02:02:02
+desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				1	mni	শন্দোকপা				2002-02-02 02:02:02
+desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				13691	mr-IN	एक्सटेन्शन				2002-02-02 02:02:02
 desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				0	my	UNO အထုတ် ပေါင်းချုပ်				2002-02-02 02:02:02
 desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				0	nb	Utvidelse				2002-02-02 02:02:02
 desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				0	ne	विस्तार				2002-02-02 02:02:02
@@ -85,24 +92,26 @@ desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKA
 desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				0	nn	Utviding				2002-02-02 02:02:02
 desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				0	nr	IButhelelo leHlanganisela ye-UNO				2002-02-02 02:02:02
 desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				0	ns	Ngatana ya Sephuthelwana sa UNO				2002-02-02 02:02:02
+desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				0	oc	Destiblança				2002-02-02 02:02:02
 desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				0	or-IN	UNO ପ୍ଯାକେଜ୍ ବଣ୍ଡଲ				2002-02-02 02:02:02
-desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				0	pa-IN	ਇਕਸਟੇਨਸ਼ਨ				2002-02-02 02:02:02
+desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				13691	pa-IN	ਇਕਸਟੇਨਸ਼ਨ				2002-02-02 02:02:02
 desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				0	pl	Rozszerzenie				2002-02-02 02:02:02
 desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				0	pt	Extensão				2002-02-02 02:02:02
 desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				0	pt-BR	Extensão				2002-02-02 02:02:02
 desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				0	ru	Расширение				2002-02-02 02:02:02
 desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				0	rw	Umugereka				2002-02-02 02:02:02
-desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				0	sh	proširenje				2002-02-02 02:02:02
-desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				0	sk	Rozšírenie				2002-02-02 02:02:02
-desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				0	sl	Razširitev				2002-02-02 02:02:02
-desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				0	sr	проширење				2002-02-02 02:02:02
+desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				1	sa-IN	विस्तारः				2002-02-02 02:02:02
+desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				38219	sh	proširenje				2002-02-02 02:02:02
+desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				1	sk	Rozšírenie				2002-02-02 02:02:02
+desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				13691	sl	Razširitev				2002-02-02 02:02:02
+desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				38219	sr	проширење				2002-02-02 02:02:02
 desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				0	ss	UNO Sishumpha sephakeji				2002-02-02 02:02:02
 desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				0	st	Seshoba sa Sephuthelwana sa UNO				2002-02-02 02:02:02
 desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				0	sv	Tillägg				2002-02-02 02:02:02
 desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				0	sw-TZ	UNO Package Bundle				2002-02-02 02:02:02
-desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				0	ta	விரிவாக்கம்				2002-02-02 02:02:02
+desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				13691	ta	நீட்சி				2002-02-02 02:02:02
 desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				1	ta-IN	UNO Package Bundle				2002-02-02 02:02:02
-desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				0	te-IN	యూ ఎన్ ఒ కట్ట  బండిల్ 				2002-02-02 02:02:02
+desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				13691	te-IN	పొడిగింపు				2002-02-02 02:02:02
 desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				0	tg	Изофаҳо				2002-02-02 02:02:02
 desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				0	th	UNO Package Bundle				2002-02-02 02:02:02
 desktop	source\deployment\registry\package\dp_package.src	0	string	RID_STR_PACKAGE_BUNDLE				0	ti-ER	UNO ጥሩፍ ጥቕላል				2002-02-02 02:02:02

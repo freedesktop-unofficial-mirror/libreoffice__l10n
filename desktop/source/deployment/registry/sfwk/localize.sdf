@@ -15,9 +15,9 @@
 #
 # OpenOffice.org - a multi-platform office productivity suite
 #
-# $RCSfile: localize.sdf,v $
+# $RCSfile:localize.pl,v $
 #
-# $Revision: 1.25 $
+# $Revision: 1.17.4.1 $
 #
 # This file is part of OpenOffice.org.
 #
@@ -39,46 +39,56 @@
 #*************************************************************************
 desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				0	af	%MACROLANG-programmateek				2002-02-02 02:02:02
 desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				0	ar	مكتبة %MACROLANG				2002-02-02 02:02:02
-desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				0	as-IN	%MACROLANG লাইব্ৰেৰী				2002-02-02 02:02:02
-desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				0	be-BY	Бібліятэка %MACROLANG				2002-02-02 02:02:02
+desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				13691	as-IN	%MACROLANG লাইব্ৰেৰী				2002-02-02 02:02:02
+desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				13691	be-BY	Бібліятэка %MACROLANG				2002-02-02 02:02:02
 desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				0	bg	Библиотека на %MACROLANG				2002-02-02 02:02:02
+desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				13691	bn	%MACROLANG এর লাইব্রেরি				2002-02-02 02:02:02
 desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				0	br	Levraoueg %MACROLANG				2002-02-02 02:02:02
+desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				1	brx	%MACROLANG  बिजाब बाख्रि				2002-02-02 02:02:02
 desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				0	bs	%MACROLANG Biblioteka				2002-02-02 02:02:02
 desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				0	ca	Biblioteca %MACROLANG				2002-02-02 02:02:02
-desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				0	cs	Knihovna %MACROLANG				2002-02-02 02:02:02
+desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				13691	cs	Knihovna %MACROLANG				2002-02-02 02:02:02
 desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				0	cy	Llyfrgell %MACROLANG				2002-02-02 02:02:02
 desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				1	da	%MACROLANG Bibliotek				2002-02-02 02:02:02
 desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				0	de	%MACROLANG Bibliothek				2002-02-02 02:02:02
+desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				1	dgo	%MACROLANG लाइब्रेरी 				2002-02-02 02:02:02
 desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				13691	dz	%MACROLANG དཔེ་མཛོད།				2002-02-02 02:02:02
-desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				0	el	Βιβλιοθήκη %MACROLANG				2002-02-02 02:02:02
-desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				0	en-GB	%MACROLANG Library				2002-02-02 02:02:02
+desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				13691	el	Βιβλιοθήκη %MACROLANG				2002-02-02 02:02:02
+desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				13691	en-GB	%MACROLANG Library				2002-02-02 02:02:02
 desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				0	en-ZA	%MACROLANG Library				2002-02-02 02:02:02
 desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				1	eo	%MACROLANG biblioteko				2002-02-02 02:02:02
 desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				0	es	Biblioteca %MACROLANG				2002-02-02 02:02:02
-desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				0	et	%MACROLANG teek				2002-02-02 02:02:02
+desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				13691	et	%MACROLANG teek				2002-02-02 02:02:02
+desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				13691	eu	%MACROLANG liburutegia				2002-02-02 02:02:02
 desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				0	fa	کتابخانهٔ %MACROLANG				2002-02-02 02:02:02
-desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				0	fi	%MACROLANG-kirjasto				2002-02-02 02:02:02
+desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				1	fi	%MACROLANG-kirjasto				2002-02-02 02:02:02
 desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				0	fr	Bibliothèque %MACROLANG				2002-02-02 02:02:02
 desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				13691	ga	Leabharlann %MACROLANG				2002-02-02 02:02:02
-desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				0	gl	Biblioteca %MACROLANG				2002-02-02 02:02:02
+desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				13691	gl	Biblioteca %MACROLANG				2002-02-02 02:02:02
 desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				0	gu	%MACROLANG લાઈબ્રેરી				2002-02-02 02:02:02
 desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				1	gu-IN	%MACROLANG લાઈબ્રેરી				2002-02-02 02:02:02
 desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				0	he	ספריית ‏‪%MACROLANG‏				2002-02-02 02:02:02
-desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				1	hi-IN	%MACROLANG लाइब्रेरी				2002-02-02 02:02:02
+desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				13691	hi-IN	%MACROLANG लाइब्रेरी				2002-02-02 02:02:02
 desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				0	hr	%MACROLANG biblioteka				2002-02-02 02:02:02
 desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				0	hu	%MACROLANG-programkönyvtár				2002-02-02 02:02:02
+desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				0	id	Pustaka %MACROLANG				2002-02-02 02:02:02
 desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				0	it	Libreria %MACROLANG				2002-02-02 02:02:02
 desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				0	ja	%MACROLANG ライブラリ				2002-02-02 02:02:02
 desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				0	ka	%MACROLANG ბიბლიოთეკა				2002-02-02 02:02:02
 desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				0	kk	%MACROLANG кiтапханасы				2002-02-02 02:02:02
-desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				0	km	បណ្ណា​​ល័យ​ %MACROLANG​				2002-02-02 02:02:02
+desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				13691	km	បណ្ណា​​ល័យ​ %MACROLANG​				2002-02-02 02:02:02
+desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				13691	kn-IN	%MACROLANG ಲೈಬ್ರರಿ				2002-02-02 02:02:02
 desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				0	ko	%MACROLANG 라이브러리				2002-02-02 02:02:02
+desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				1	kok	%MACROLANG  पुस्तकालय				2002-02-02 02:02:02
+desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				1	ks	%MACROLANG کتب خانہ				2002-02-02 02:02:02
 desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				0	ku	Pirtûkxaneya %MACROLANG				2002-02-02 02:02:02
-desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				0	lt	„%MACROLANG“ biblioteka				2002-02-02 02:02:02
-desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				0	mk	%MACROLANG-библиотека				2002-02-02 02:02:02
-desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				0	ml-IN	 %MACROLANG Library				2002-02-02 02:02:02
+desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				13691	lt	„%MACROLANG“ biblioteka				2002-02-02 02:02:02
+desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				1	mai	%MACROLANG लाइब्रेरी				2002-02-02 02:02:02
+desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				13691	mk	%MACROLANG-библиотека				2002-02-02 02:02:02
+desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				13691	ml-IN	 %MACROLANG Library				2002-02-02 02:02:02
 desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				0	mn	%MACROLANG Сан				2002-02-02 02:02:02
-desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				0	mr-IN	%MACROLANG  वाचनालय				2002-02-02 02:02:02
+desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				1	mni	%MACROLANG লাইব্ৰেরী				2002-02-02 02:02:02
+desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				13691	mr-IN	%MACROLANG  वाचनालय				2002-02-02 02:02:02
 desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				0	my	%MACROLANG စာကြည့်တိုက်				2002-02-02 02:02:02
 desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				0	nb	%MACROLANG-bibliotek				2002-02-02 02:02:02
 desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				0	ne	%MACROLANG लाइब्रेरी				2002-02-02 02:02:02
@@ -86,24 +96,28 @@ desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB			
 desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				0	nn	%MACROLANG-bibliotek				2002-02-02 02:02:02
 desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				0	nr	Ibulungelo leencwadi le-%MACROLANG				2002-02-02 02:02:02
 desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				0	ns	Bokgobapuku bja %MACROLANG				2002-02-02 02:02:02
+desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				0	oc	%MACROLANG Library				2002-02-02 02:02:02
 desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				0	or-IN	%MACROLANG ଗ୍ରନ୍ଥାଳଯ				2002-02-02 02:02:02
-desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				0	pa-IN	%MACROLANG ਲਾਇਬਰੇਰੀ				2002-02-02 02:02:02
+desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				13691	pa-IN	%MACROLANG ਲਾਇਬਰੇਰੀ				2002-02-02 02:02:02
 desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				0	pl	Biblioteka %MACROLANG				2002-02-02 02:02:02
 desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				0	pt	Biblioteca de %MACROLANG				2002-02-02 02:02:02
 desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				0	pt-BR	Bibliotecas de %MACROLANG				2002-02-02 02:02:02
 desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				0	ru	Библиотека %MACROLANG				2002-02-02 02:02:02
 desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				0	rw	Ubusomero bwa %MACROLANG				2002-02-02 02:02:02
-desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				0	sh	%MACROLANG Biblioteka				2002-02-02 02:02:02
-desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				0	sk	%MACROLANG knižnica				2002-02-02 02:02:02
-desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				0	sl	Knjižnica %MACROLANG				2002-02-02 02:02:02
-desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				0	sr	%MACROLANG Библиотека				2002-02-02 02:02:02
+desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				1	sa-IN	%MACROLANG पुस्तकालयः				2002-02-02 02:02:02
+desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				1	sat	%MACROLANG  पुथी ओड़ाक्				2002-02-02 02:02:02
+desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				1	sd	%MACROLANG لائبرري				2002-02-02 02:02:02
+desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				38219	sh	%MACROLANG Biblioteka				2002-02-02 02:02:02
+desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				1	sk	%MACROLANG knižnica				2002-02-02 02:02:02
+desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				13691	sl	Knjižnica %MACROLANG				2002-02-02 02:02:02
+desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				38219	sr	%MACROLANG Библиотека				2002-02-02 02:02:02
 desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				0	ss	%MACROLANG Ilayibrari				2002-02-02 02:02:02
 desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				0	st	Laeborari ya %MACROLANG				2002-02-02 02:02:02
 desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				0	sv	%MACROLANG-bibliotek				2002-02-02 02:02:02
 desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				0	sw-TZ	%MACROLANG Library				2002-02-02 02:02:02
-desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				0	ta	%MACROLANG Library				2002-02-02 02:02:02
+desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				13691	ta	%MACROLANG நூலகம்				2002-02-02 02:02:02
 desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				1	ta-IN	%MACROLANG Library				2002-02-02 02:02:02
-desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				0	te-IN	%మాక్రోలాంగ్ గ్రంధము  				2002-02-02 02:02:02
+desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				13691	te-IN	%మాక్రోలాంగ్ గ్రంధము  				2002-02-02 02:02:02
 desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				0	tg	Китобхонаи %MACROLANG				2002-02-02 02:02:02
 desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				0	th	ไลบรารี่ %MACROLANG				2002-02-02 02:02:02
 desktop	source\deployment\registry\sfwk\dp_sfwk.src	0	string	RID_STR_SFWK_LIB				0	ti-ER	%MACROLANG ላይብረሪ				2002-02-02 02:02:02

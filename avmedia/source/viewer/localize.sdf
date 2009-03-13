@@ -15,9 +15,9 @@
 #
 # OpenOffice.org - a multi-platform office productivity suite
 #
-# $RCSfile: localize.sdf,v $
+# $RCSfile:localize.pl,v $
 #
-# $Revision: 1.29 $
+# $Revision: 1.17.4.1 $
 #
 # This file is part of OpenOffice.org.
 #
@@ -38,47 +38,57 @@
 #
 #*************************************************************************
 avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				0	af	Die formaat van die geselekteerde lêer word nie ondersteun nie.				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				0	ar	نسق الملف المُحدّد غير مدعوم.				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				0	as-IN	নিৰ্বাচিত ফাইলৰ ফৰমেটক সমৰ্থন কৰা নাই				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				0	be-BY	Не падтрымваецца фармат гэтага файла.				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				0	ar	تنسيق الملف المحدد غير مدعوم.				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				13691	as-IN	নিৰ্বাচিত নথিপত্ৰৰ আকৃতিক সমৰ্থন কৰা নাই				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				13691	be-BY	Не падтрымваецца фармат гэтага файла.				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				0	bg	Форматът на избрания файл не се поддържа.				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				13691	bn	নির্বাচিত ফাইলটির বিন্যাসন সমর্থিত নয়।				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				0	br	N'eo ket ensammet mentrezh ar restr diuzet.				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				1	brx	सायख'जाखांनाय फाइलनि फरमेटआ मदत होजायाखै।				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				0	bs	Format odabrane datoteke nije podržan.				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				0	ca	El format del fitxer seleccionat no està implementat.				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				0	cs	Formát vybraného souboru není podporován.				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				13691	cs	Formát vybraného souboru není podporován.				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				0	cy	Nid yw'r fformat ffeil hwn yn cael ei gynnal.				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				1	da	Formatet af den valgte fil er ikke understøttet.				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				0	da	Formatet af den valgte fil er ikke understøttet.				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				0	de	Das Format der ausgewählten Datei wird nicht unterstützt.				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				1	dgo	चुनी दी फाइलें दी रूप-रचना समर्थनशुदा नेईं ऐ. 				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				13691	dz	སེལ་འཐུ་འབད་ཡོད་པའི་ཡིག་སྣོད་ཀྱི་རྩ་སྒྲིག་འདི་ རྒྱབ་སྐྱོར་མ་འབད་བས།				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				0	el	Το επιλεγμένο αρχείο έχει μορφή που δεν υποστηρίζεται.				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				0	en-GB	The format of the selected file is not supported.				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				13691	el	Το επιλεγμένο αρχείο έχει μορφή που δεν υποστηρίζεται.				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				13691	en-GB	The format of the selected file is not supported.				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				0	en-ZA	The format of the selected file is not supported.				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				1	eo	La formato de la elektita dosiero ne estas subtenata.				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				0	es	El formato del archivo seleccionado no es compatible.				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				0	et	Valitud faili vorming ei ole toetatud.				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				13691	et	Valitud faili vorming ei ole toetatud.				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				13691	eu	Hautatutako fitxategiaren formatua ez da onartzen.				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				0	fa	قالب پروندهٔ انتخاب شده پشتیبانی نمی‌شود.				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				0	fi	Valitun tiedoston muoto ei ole tuettu.				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				0	fr	Le format du fichier sélectionné n'est pas pris en charge.				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				13691	ga	Ní thacaítear le formáid an chomhaid roghnaithe.				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				0	gl	O sistema non soporta o formato do ficheiro seleccionado				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				13691	gl	O formato do ficheiro seleccionado é incompatíbel co sistema.				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				0	gu	પસંદ કરેલ ફાઈલનું બંધારણ આધારભૂત નથી.				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				0	gu-IN	પસંદ કરેલ ફાઈલનું બંધારણ આધારભૂત નથી.				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				0	he	אין תמיכה לסוג קובץ זה.‏				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				0	hi-IN	चयनित फाइल का प्रारूप समर्थित नहीं है.				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				13691	hi-IN	चुने फ़ाइल का प्रारूप समर्थित नहीं है.				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				0	hr	The format of the selected file is not supported.				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				0	hu	A kijelölt fájl formátuma nem támogatott.				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				0	id	Format dari berkas yang dipilih tidak didukung.				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				0	it	Il formato del file selezionato non è supportato.				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				0	ja	選択したファイルの形式はサポートされていません。				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				0	ka	არჩეული ფაილის ფორმატი მხარდაუჭერელია.				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				0	kk	Таңдалған файлдың пiшiмi сүйемелденбейдi.				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				0	km	មិន​គាំទ្រ​ទ្រង់ទ្រាយ​របស់​ឯកសារ​ដែល​បាន​ជ្រើស ។				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				13691	km	មិន​គាំទ្រ​ទ្រង់ទ្រាយ​របស់​ឯកសារ​ដែល​បាន​ជ្រើស ។				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				13691	kn-IN	ಆರಿಸಲಾದ ಕಡತದ ರಚನೆಯು ಬೆಂಬಲಿತವಾಗಿಲ್ಲ.				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				0	ko	선택한 파일 형식은 지원되지 않습니다.				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				1	kok	निवड केल्ल्या धारिकेच्या रचनेक फांटबळ ना				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				1	ks	ژارمژ ئ  فائلں ہِند۪ین   طریقن  چُھنئ  معاون  				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				0	ku	Piştgiriya ji bo formata pelê hilbijartê tune.				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				0	lt	Nepažįstamas pasirinkto failo formatas.				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				0	mk	Форматот на избраната датотека не е поддржан.				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				0	ml-IN	തെരഞ്ഞെടുത്ത ഫയലുകളുടെ രൂപരേഖ				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				13691	lt	Nepažįstamas pasirinkto failo formatas.				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				1	mai	चयनित फाइलकेँ प्रारूप समर्थित नहि अछि.				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				13691	mk	Форматот на избраната датотека не е поддржан.				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				13691	ml-IN	തെരഞ്ഞെടുത്ത ഫയലുകളുടെ രൂപരേഖ പിന്തുണയ്ക്കുന്നില്ല.				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				0	mn	Сонгосон файлын формат дэмжигдээгүй байна.				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				0	mr-IN	निवडलेल्या धारिकेचे स्वरूपण समर्थित नाही. 				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				1	mni	খল্লবা ফাইল অসিগী ফোর্মেত তেংবাংদ্রে				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				13691	mr-IN	निवडलेल्या धारिकेचे स्वरूपण आधार देत नाही. 				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				0	my	ရွေးချယ်ထားသောဖိုင်အမျိုးအစားကိုပံ့ပိုးမှုမရှိပါ				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				0	nb	Filformatet er ikke støttet.				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				0	ne	चयन गरिएको फाइलको ढाँचालाई समर्थन प्राप्त छैन ।				2002-02-02 02:02:02
@@ -88,23 +98,26 @@ avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				0	nr	Indlela
 avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				0	ns	Fomate ya faele e kgethilwego ga e thekgwe.				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				0	oc	Lo format del fichièr seleccionat es pas suportat				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				0	or-IN	ମନୋନିତ ଫାଇଲଗୁଡିକର ଫର୍ମାଟ ସମର୍ଥିତ ହେଉନାହିଁ୤				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				0	pa-IN	ਚੁਣੀ ਫਾਇਲ ਦਾ ਫਾਰਮੈਟ ਸਹਾਇਕ ਹੈ।				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				13691	pa-IN	ਚੁਣੀ ਫਾਇਲ ਦਾ ਫਾਰਮੈਟ ਸਹਾਇਕ ਹੈ।				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				0	pl	Format wybranego pliku nie jest obsługiwany.				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				0	pt	O formato do ficheiro seleccionado não é suportado.				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				0	pt-BR	Não há suporte para o formato do arquivo selecionado.				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				0	ru	Формат выбранного файла не поддерживается.				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				0	rw	Imiterere ya dosiye yatoranyijwe ntabwo yemewe.				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				0	sh	Nije podržan format izabrane datoteke.				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				1	sa-IN	वृतफैल् रचना न समर्थिता।				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				1	sat	बाछावाक् रेत् तेयार बाय गोड़ोवा				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				1	sd	چونڊيل فائل جي رچنا کي حمايت مليل ناهي				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				38235	sh	Nije podržan format izabrane datoteke.				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				0	sk	Formát vybraného súboru nie je podporovaný.				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				0	sl	Oblika zapisa izbrane datoteke ni podprta.				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				0	sr	Није подржан формат изабране датотеке.				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				13691	sl	Oblika zapisa izbrane datoteke ni podprta.				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				38235	sr	Није подржан формат изабране датотеке.				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				0	ss	Ayikasekelwa lefomethi yemafayela lakhetsiwe.				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				0	st	Sebopeho sa faele e kgethilweng ha se tshehetswe.				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				0	sv	Formatet på den valda filen stöds inte.				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				0	sw-TZ	The format of the selected file is not supported.				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				0	ta	தேர்ந்தெடுக்கப்பட்ட கோப்பு வடிவமை துணைபுரியவில்லை				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				13691	ta	தெரிவுசெய்துள்ள கோப்பின் வடிவமைப்புக்கு ஆதரவில்லை.				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				1	ta-IN	தேர்ந்தெடுக்கப்பட்ட கோப்பு வடிவமை துணைபுரியவில்லை				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				0	te-IN	ఎంపిక చేసిన దస్త్రము యొక్క రూపలావణ్యం సహకరించలేదు.				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				13691	te-IN	ఎంపిక చేసిన దస్త్రము యొక్క రూపలావణ్యం సహకరించలేదు.				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				0	tg	Формати дафтари додашуда дастгирӣ карда намешавад.				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				0	th	ไม่รองรับรูปแบบแฟ้มที่เลือก				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				0	ti-ER	ዓይነት ናይዚ ተጠቒሱ ዘሎ ፋይል ኣይተፈልጠን።				2002-02-02 02:02:02
@@ -120,47 +133,57 @@ avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				0	zh-CN	不�
 avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				0	zh-TW	不支援所選檔案的格式。				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	errorbox	AVMEDIA_ERR_URL				0	zu	Ifomethi yefayela elikhethiwe ayisekelwa.				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				0	af	Alle lêers (*.*)				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				0	ar	جميع الملفات (*.*)				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				0	as-IN	সকলোবোৰ ফাইল (*.*)				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				0	be-BY	Усе файлы (*.*)				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				0	ar	كل الملفات (*.*)				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				13691	as-IN	সকলোবোৰ নথিপত্ৰ (*.*)				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				13691	be-BY	Усе файлы (*.*)				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				0	bg	Всички файлове (*.*)				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				13691	bn	সব ফাইলসমূহ (*.*)				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				0	br	An holl restroù (*.*)				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				1	brx	गासै फाइलफोर (*.*) 				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				0	bs	Sve datoteke (*.*)				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				0	ca	Tots els fitxers (*.*)				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				0	cs	Všechny soubory (*.*)				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				13691	cs	Všechny soubory (*.*)				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				0	cy	Pob ffeil  (*.*)				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				1	da	Alle filer (*.*)				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				0	da	Alle filer (*.*)				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				0	de	Alle Dateien (*.*)				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				1	dgo	सब फाइलां (*.*)				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				13691	dz	ཡིག་སྣོད་ཚུ་ཆ་མཉམ(*.*)				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				0	el	Όλα τα αρχεία (*.*)				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				0	en-GB	All files (*.*)				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				13691	el	Όλα τα αρχεία (*.*)				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				13691	en-GB	All files (*.*)				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				0	en-ZA	All files (*.*)				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				1	eo	Cxiuj dosieroj (*.*)				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				0	es	Todos los archivos (*.*)				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				0	et	Kõik failid (*.*)				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				13691	et	Kõik failid (*.*)				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				13691	eu	Fitxategi guztiak (*.*)				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				0	fa	همهٔ پرونده‌ها (*.*)				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				0	fi	Kaikki tiedostot (*.*)				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				0	fr	Tous les fichiers (*.*)				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				13691	ga	Gach comhad (*.*)				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				0	gl	Todos os ficheiros (*.*)				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				13691	gl	Todos os ficheiros (*.*)				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				0	gu	બધી ફાઇલો (*.*)				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				0	gu-IN	બધી ફાઇલો (*.*)				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				0	he	כל הקבצים (*.*)‏				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				0	hi-IN	सभी फाइल (*.*)				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				13691	hi-IN	सभी फ़ाइल (*.*)				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				0	hr	Sve datoteke (*.*)				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				0	hu	Minden fájl (*.*)				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				0	id	Semua berkas (*.*)				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				0	it	Tutti i file (*.*)				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				0	ja	全ファイル (*.*)				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				0	ka	ყველა ფაილი (*.*)				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				0	kk	(*.*) барлық файлдар				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				0	km	ឯកសារ​ទាំងអស់ (*.*)				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				13691	km	ឯកសារ​ទាំងអស់ (*.*)				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				13691	kn-IN	ಎಲ್ಲಾ ಕಡತಗಳು (*.*)				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				0	ko	모든 파일(*.*)				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				1	kok	सगळ्यों धारिका (*.*)				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				1	ks	سارے فایلئ				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				0	ku	Hemû pel (*.*)				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				0	lt	Visi failai (*.*)				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				0	mk	Сите датотеки (*.*)				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				0	ml-IN	എല്ലാ ഫയലുകളും(*.*)				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				13691	lt	Visi failai (*.*)				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				1	mai	फाइलसभ (*.*)				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				13691	mk	Сите датотеки (*.*)				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				13691	ml-IN	എല്ലാ ഫയലുകളും(*.*)				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				0	mn	Бүх файлууд (*.*)				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				0	mr-IN	सर्व धारिका				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				1	mni	ফাইশিং পুম্নমক (*.*)				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				13691	mr-IN	सर्व धारिका (*.*)				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				0	my	ဖိုင်အားလုံး (*.*)				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				0	nb	Alle filer (*.*)				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				0	ne	सबै फाइलहरू (*.*)				2002-02-02 02:02:02
@@ -170,23 +193,26 @@ avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				0	nr	Wok
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				0	ns	Difaele ka moka (*.*)				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				0	oc	Los fichièrs tots (*.*)				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				0	or-IN	ସମସ୍ତ ଫାଇଲ (*.*)				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				0	pa-IN	ਸਭ ਫਾਇਲਾਂ (*.*)				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				13691	pa-IN	ਸਭ ਫਾਇਲਾਂ (*.*)				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				0	pl	Wszystkie pliki (*.*)				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				0	pt	Todos os ficheiros (*.*)				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				0	pt-BR	Todos os arquivos (*.*)				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				0	ru	Все файлы (*.*)				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				0	rw	Dosiye zose (*.*)				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				0	sh	Sve datoteke (*.*)				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				1	sa-IN	सर्वाणि फैल्स् (*.*)				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				1	sat	जोतो रेत् (*.*)				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				1	sd	 (*.*) سڀ فائلون				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				38235	sh	Sve datoteke (*.*)				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				0	sk	Všetky súbory (*.*)				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				0	sl	Vse datoteke (*.*)				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				0	sr	Све датотеке (*.*)				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				13691	sl	Vse datoteke (*.*)				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				38235	sr	Све датотеке (*.*)				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				0	ss	Onkhe emafayela (*.*)				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				0	st	Difaele kaofela (*.*)				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				0	sv	Alla filer (*.*)				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				0	sw-TZ	All files (*.*)				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				0	ta	அனைத்துகொப்புகள்[*.*]				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				13691	ta	எல்லா கோப்புகளும் (*.*)				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				1	ta-IN	அனைத்துகொப்புகள்[*.*]				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				0	te-IN	అన్ని దస్త్రములు (*.*)				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				13691	te-IN	అన్ని దస్త్రములు (*.*)				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				0	tg	Ҳама дафтарҳо (*.*)				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				0	th	ทุกแฟ้ม (*.*)				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				0	ti-ER	ኩሎም ፍይላት (*.*)				2002-02-02 02:02:02
@@ -203,46 +229,56 @@ avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				0	zh-TW	
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_FILES				0	zu	Amafayela onke (*.*)				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				0	af	Alle film- en klank-lêers				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				0	ar	جميع ملفات الأفلام والصوت				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				0	as-IN	চলচিত্ৰ আৰু ধ্বনিৰ সকলোবোৰ ফাইল				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				0	be-BY	Усе відэа і гукавыя файлы				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				13691	as-IN	চলচিত্ৰ আৰু ধ্বনিৰ সকলোবোৰ নথিপত্ৰ				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				13691	be-BY	Усе відэа і гукавыя файлы				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				0	bg	Всички филмови и звукови файлове				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				13691	bn	সমস্ত চলচ্চিত্র এবং শব্দের ফাইলসমূহ				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				0	br	An holl restroù sten ha video				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				1	brx	गासै सावथुन आरो सोदोब फाइलफोर				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				0	bs	Sve video i zvučne datoteke				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				0	ca	Tots els fitxers de pel·lícula i de so				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				0	cs	Všechny video nebo zvukové soubory				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				13691	cs	Všechny video nebo zvukové soubory				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				0	cy	Pob ffeil ffilm a sain				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				1	da	Alle film og lydfiler				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				0	da	Alle film og lydfiler				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				0	de	Alle Film- und Klangdateien				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				1	dgo	सब चित्रपट ते ध्वनि फाइलां 				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				13691	dz	གློག་བརྙན་དང་སྒྲ་སྐད་ཆ་མཉམ་གྱི་ ཡིག་སྣོད་ཚུ།				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				0	el	Όλα τα αρχεία ήχου και ταινιών				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				0	en-GB	All video and sound files				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				13691	el	Όλα τα αρχεία ήχου και ταινιών				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				13691	en-GB	All movie and sound files				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				0	en-ZA	All movie and sound files				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				1	eo	Cxiuj filmaj kaj sonaj dosieroj				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				0	es	Todos los archivos de vídeo y sonido				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				0	et	Kõik video- ja helifailid				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				13691	et	Kõik video- ja helifailid				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				13691	eu	Film- eta soinu-fitxategi guztiak				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				0	fa	همهٔ پرونده‌های فیلم و صدا				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				0	fi	Kaikki video- ja äänitiedostot				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				0	fr	Tous les fichiers son et vidéo				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				13691	ga	Gach scannán agus fuaim				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				0	gl	Todos os ficheiros de vídeo e son				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				13691	gl	Todos os ficheiros de vídeo e son				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				0	gu	બધી મુવી અને સાઉન્ડ ફાઈલો				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				0	gu-IN	બધી મુવી અને સાઉન્ડ ફાઈલો				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				0	he	כל קבצי הסרט והקול				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				0	hi-IN	सभी मूवी व ध्वनि फाइल				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				13691	hi-IN	सभी मूवी एवं ध्वनि फ़ाइल				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				0	hr	All movie and sound files				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				0	hu	Minden mozgókép- és hangfájl				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				0	id	Semua berkas film dan suara				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				0	it	Tutti i filmati e i suoni				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				0	ja	すべてのムービーとサウンドのファイル				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				0	ka	ყველა ფილმისა და ხმის ფაილი				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				0	kk	Барлық дыбыс және бейнелер файлдары				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				0	km	ឯកសារ​ភាពយន្ត និង​សំឡេង​ទាំង​អស់				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				13691	km	ឯកសារ​ភាពយន្ត និង​សំឡេង​ទាំង​អស់				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				13691	kn-IN	ಎಲ್ಲಾ ಚಲನಚಿತ್ರ ಹಾಗು ಧ್ವನಿ ಕಡತಗಳು				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				0	ko	모든 동영상 및 사운드 파일				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				1	kok	सगळ्यो चित्रपट आनिक ध्वनि धारिका				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				1	ks	سارے  فلمئ  تئ آوازَن ہِنز فایلئ				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				0	ku	Hemû pelên fîlm û deng				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				0	lt	Visi vaizdo arba garso failai				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				0	mk	Сите филмски и звучни датотеки				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				0	ml-IN	എല്ലാ ചലച്ചിത്ര ശബ്ദ ഫയലുകള്				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				13691	lt	Visi vaizdo arba garso failai				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				1	mai	मूवीसभ आओर ध्वनि फाइल				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				13691	mk	Сите филмски и звучни датотеки				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				13691	ml-IN	എല്ലാ ചലച്ചിത്ര ശബ്ദ ഫയലുകള്‍				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				0	mn	Кино ба дууны бүх файлууд				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				0	mr-IN	सर्व चित्रपट आणि ध्वनि धारिका				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				1	mni	মুভি অমসুং খোনজেলগী ফাইল পুম্নমক				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				13691	mr-IN	सर्व चित्रपट आणि ध्वनि धारिका				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				0	my	ရုပ်သံဖိုင်အားလုံး				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				0	nb	Alle videofiler og alle lydfiler				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				0	ne	सबै चलचित्र र ध्वनि फाइलहरू				2002-02-02 02:02:02
@@ -252,23 +288,26 @@ avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				0	n
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				0	ns	Difaele ka moka tša filimi le modumo				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				0	oc	Tot lo film e tots los fichièrs son				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				0	or-IN	ସମସ୍ତ ଚଳଚିତ୍ର ଓ ଧ୍ବନି ଫାଇଲ				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				0	pa-IN	ਸਭ ਧੁਨੀ ਅਤੇ ਮੂਵੀ ਫਾਇਲਾਂ				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				13691	pa-IN	ਸਭ ਧੁਨੀ ਅਤੇ ਮੂਵੀ ਫਾਇਲਾਂ				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				0	pl	Wszystkie pliki z filmami i muzyką				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				0	pt	Todos os ficheiros de filme e som				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				0	pt-BR	Todos os arquivos de filme e de som				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				0	ru	Все аудио и видео файлы				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				0	rw	Dosiye za filimi n'ijwi zose				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				0	sh	Sve zvučne i video datoteke				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				1	sa-IN	सर्वाणि चलचित्रफैल्स् तथा ध्वनिफैल्स्				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				1	sat	जोतो  रेत्				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				1	sd	سڀ فلم ۽ آواز فائلون				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				38235	sh	Sve zvučne i video datoteke				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				0	sk	Všetky filmové a zvukové súbory				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				0	sl	Filmi in zvok				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				0	sr	Све звучне и видео датотеке				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				13691	sl	Filmi in zvok				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				38235	sr	Све звучне и видео датотеке				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				0	ss	Yonkhe imuvi nemsindvo wemafayela				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				0	st	Difaele kaofela tsa filimi le modumo				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				0	sv	Alla filmer och ljudfiler				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				0	sw-TZ	All movie and sound files				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				0	ta	அனைத்து திரைப்பட மற்றும் ஒலி கோப்புகள்				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				13691	ta	எல்லா திரைப்பட, ஒலி கோப்புகளும்				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				1	ta-IN	அனைத்து திரைப்பட மற்றும் ஒலி கோப்புகள்				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				0	te-IN	అన్ని చిత్రములు మరియు ధ్వని దస్త్రములు				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				13691	te-IN	అన్ని చిత్రములు మరియు ధ్వని దస్త్రములు				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				0	tg	Ҳама дафтарҳои Садо ва Симо				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				0	th	แฟ้มภาพยนตร์และเสียงทั้งหมด				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				0	ti-ER	ኩሎም ናይ ድምጽን ቪድዮን ፋይላት				2002-02-02 02:02:02
@@ -284,47 +323,57 @@ avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				0	z
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				0	zh-TW	所有電影與聲音檔案				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				0	zu	Wonke amafayela emuvi nawemisindo				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				0	af	Voeg film en klank in				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				0	ar	إضافة فيلم وصوت				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				0	as-IN	চলচিত্ৰ আৰু ধ্বনি ভৰাওক				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				0	be-BY	Уставіць відэа і гук				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				0	ar	إدراج فيلم وصوت				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				13691	as-IN	চলচিত্ৰ আৰু ধ্বনি ভৰাওক				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				13691	be-BY	Уставіць відэа і гук				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				0	bg	Вмъкване на филм и звук				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				13691	bn	চলচ্চিত্র এবং শব্দ প্রয়োগ করুন				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				0	br	Enlakaat videoioù ha stenioù				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				1	brx	सावथुन आरो सोदोबखौ फज'				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				0	bs	Umetni Video i Zvuk				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				0	ca	Insereix una pel·lícula o so				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				0	cs	Vložit video nebo zvuk				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				13691	cs	Vložit video nebo zvuk				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				0	cy	Mewnosod Ffilm a Sain				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				1	da	Indsæt film og lyd				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				0	da	Indsæt film og lyd				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				0	de	Film und Klang einfügen				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				1	dgo	चित्रपट ते ध्वनि दा समावेश करो 				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				13691	dz	གློག་བརྙན་དང་སྒྲ་སྐད་  བཙུགས།				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				0	el	Εισαγωγή ταινίας και ήχου				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				0	en-GB	Insert Video and Sound				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				13691	el	Εισαγωγή ταινίας και ήχου				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				13691	en-GB	Insert Movie and Sound				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				0	en-ZA	Insert Movie and Sound				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				1	eo	Enmeti filmon kaj sonon				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				0	es	Insertar vídeo y sonido				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				0	et	Video või heli lisamine				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				13691	et	Video või heli lisamine				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				13691	eu	Txertatu filma eta soinua				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				0	fa	درج فیلم و صدا				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				0	fi	Lisää video ja ääni				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				0	fr	Insérer des vidéos et des sons				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				13691	ga	Ionsáigh Scannán agus Fuaim				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				0	gl	Inserir vídeo e son				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				13691	gl	Inserir vídeo e son				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				0	gu	મુવી અને સાઉન્ડ ઉમેરો				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				0	gu-IN	મુવી અને સાઉન્ડ ઉમેરો				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				0	he	הוספת סרט וקול				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				0	hi-IN	मूवी व ध्वनि डालें				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				13691	hi-IN	मूवी एवं ध्वनि डालें				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				0	hr	Insert Movie and Sound				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				0	hu	Mozgókép és hang beillesztése				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				0	id	Masukkan Film dan Suara				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				0	it	Inserisci filmati e suoni				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				0	ja	ムービーとサウンドの挿入				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				0	ka	ფილმისა და ხმის ჩასმა				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				0	kk	Бейне және дыбысты кiрiстiру				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				0	km	បញ្ចូល​ភាពយន្ត និង​សំឡេង				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				13691	km	បញ្ចូល​ភាពយន្ត និង​សំឡេង				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				13691	kn-IN	ಚಲನಚಿತ್ರ ಹಾಗು ಧ್ವನಿಯನ್ನು ಸೇರಿಸು				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				0	ko	동영상 및 사운드 삽입				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				1	kok	चित्रपट आनिक ध्वनि समाविश्ट करात				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				1	ks	فلم تئ  آوازملاوئن				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				0	ku	Fîlm û Deng Lêzêde bike				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				0	lt	Įterpti vaizdą arba garsą				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				0	mk	Вметнување филм и звук				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				0	ml-IN	ചലച്ചിത്രവും ശബ്ദവും ചേര്ക്കുക				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				13691	lt	Įterpti vaizdą arba garsą				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				1	mai	मूवी आओर ध्वनि डालू				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				13691	mk	Вметнување филм и звук				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				13691	ml-IN	ചലച്ചിത്രവും ശബ്ദവും ചേര്‍ക്കുക				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				0	mn	Кино ба дууг оруулах				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				0	mr-IN	चित्रपट आणि ध्वनि अंतर्भुत करा				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				1	mni	মুভি অমসুং খোনজেল হাপচিল্লো				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				13691	mr-IN	चित्रपट आणि ध्वनि अंतर्भूत करा				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				0	my	ရုပ်သံအစားထိုးပါ				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				0	nb	Sett inn video og lyd				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				0	ne	चलचित्र र ध्वनि घुसाउनुहोस्				2002-02-02 02:02:02
@@ -334,23 +383,26 @@ avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				0	
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				0	ns	Tsenya Filimi le Modumo				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				0	oc	Inserir film e son				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				0	or-IN	ଚଳଚିତ୍ର ଓ ଧ୍ବନି ଭର୍ତ୍ତିକର				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				0	pa-IN	ਧੁਨੀ ਅਤੇ ਮੂਵੀ ਸ਼ਾਮਿਲ				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				13691	pa-IN	ਧੁਨੀ ਅਤੇ ਮੂਵੀ ਸ਼ਾਮਿਲ				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				0	pl	Wstaw film lub dźwięk				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				0	pt	Inserir filme e som				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				0	pt-BR	Inserir filme e som				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				0	ru	Вставить видео и звук				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				0	rw	Kongeramo Filimi n'Ijwi				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				0	sh	Umetni video i zvuk				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				1	sa-IN	चलचित्रं ध्वनिं च समावेशय				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				1	sat	एनेच् आर साडे सांबाव				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				1	sd	قلم ۽ آواز داخل ڪريو				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				38235	sh	Umetni film i zvuk				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				0	sk	Vložiť film a zvuk				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				0	sl	Vstavi film in zvok				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				0	sr	Уметни видео и звук				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				13691	sl	Vstavi film in zvok				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				38235	sr	Уметни филм и звук				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				0	ss	Faka umsindvo wemuvi				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				0	st	Kenya Filimi le Modumo				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				0	sv	Infoga film och ljud				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				0	sw-TZ	Insert Movie and Sound				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				0	ta	திரைப்படம் மற்றும் ஒலியை நுழைக்கவும்				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				13691	ta	திரைப்படத்தையும் ஒலியையும் நுழை				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				1	ta-IN	திரைப்படம் மற்றும் ஒலியை நுழைக்கவும்				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				0	te-IN	చిత్రమును మరియు ధ్వనిని ప్రవేశపెట్టు				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				13691	te-IN	చిత్రమును మరియు ధ్వనిని ప్రవేశపెట్టు				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				0	tg	Иловакунии Садо ва Симо				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				0	th	แทรกภาพยนตร์และเสียง				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				0	ti-ER	ድምጽን ቪድዮን ኣእቱ				2002-02-02 02:02:02
@@ -367,46 +419,56 @@ avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				0	
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				0	zu	Faka Imuvi Nemisindo				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				0	af	Maak film en klank oop				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				0	ar	فتح فيلم وصوت				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				0	as-IN	চলচিত্ৰ আৰু ধ্বনি খোলক				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				0	be-BY	Адкрыць відэа і гук				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				13691	as-IN	চলচিত্ৰ আৰু ধ্বনি খোলক				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				13691	be-BY	Адкрыць відэа і гук				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				0	bg	Отваряне на филм и звук				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				13691	bn	চলচ্চিত্র এবং শব্দ খুলুন				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				0	br	Digeriñ videoioù ha stenioù				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				1	brx	सावथुन आरो सोदोबखौ खेव				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				0	bs	Otvori Video i Zvuk				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				0	ca	Obre una pel·lícula o so				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				0	cs	Otevřít video nebo zvuk				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				13691	cs	Otevřít video nebo zvuk				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				0	cy	Agor Ffilm a Sain				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				1	da	Åbn film og lyd				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				0	da	Åbn film og lyd				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				0	de	Film und Klang öffnen				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				1	dgo	चित्रपट ते ध्वनि खोह्‌ल्लो				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				13691	dz	གློག་བརྙན་དང་སྒྲ་སྐད་  ཁ་ཕྱེ།				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				0	el	Άνοιγμα ταινίας και ήχου				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				0	en-GB	Open Video and Sound				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				13691	el	Άνοιγμα ταινίας και ήχου				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				13691	en-GB	Open Movie and Sound				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				0	en-ZA	Open Movie and Sound				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				1	eo	Malfermi filmon kaj sonon				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				0	es	Abrir vídeo y sonido				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				0	et	Video või heli avamine				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				13691	et	Video või heli avamine				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				13691	eu	Ireki filma eta soinua				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				0	fa	باز کردن فیلم و صدا				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				0	fi	Avaa video ja ääni				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				0	fr	Ouvrir des vidéos et des sons				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				13691	ga	Oscail Scannán agus Fuaim				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				0	gl	Abrir vídeo e son				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				13691	gl	Abrir vídeo e son				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				0	gu	મુવી અને સાઉન્ડ ખોલોિ				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				0	gu-IN	મુવી અને સાઉન્ડ ખોલોિ				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				0	he	פתיחת סרט וקול				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				0	hi-IN	मूवी व ध्वनि खोलिये				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				13691	hi-IN	मूवी एवं ध्वनि खोलें				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				0	hr	Open Movie and Sound				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				0	hu	Mozgókép és hang megnyitása				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				0	id	Buka Film dan Suara				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				0	it	Apri filmati e suoni				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				0	ja	ムービーとサウンドを開く				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				0	ka	ფილმისა და ხმის გახსნა				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				0	kk	Бейне және дыбысты ашу				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				0	km	បើក​ភាពយន្ត និង​សំឡេង				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				13691	km	បើក​ភាពយន្ត និង​សំឡេង				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				13691	kn-IN	ಚಲನಚಿತ್ರ ಹಾಗು ಧ್ವನಿಯನ್ನು ತೆರೆ				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				0	ko	동영상 및 사운드 열기				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				1	kok	चित्रपट आनिक ध्वनी उगडात				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				1	ks	فلم تئ آواز کھولیو				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				0	ku	Fîlm û Deng Veke				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				0	lt	Atverti vaizdą arba garsą				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				0	mk	Отворање филм и звук				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				0	ml-IN	ചലച്ചിത്രവും ശബ്ദവും തുറക്കുക				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				13691	lt	Atverti vaizdą arba garsą				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				1	mai	मूवी आओर ध्वनि खोलू				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				13691	mk	Отворање филм и звук				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				13691	ml-IN	ചലച്ചിത്രവും ശബ്ദവും തുറക്കുക				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				0	mn	Кино ба дууг нээх				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				0	mr-IN	चित्रपट आणि ध्वनि उघडा				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				1	mni	মুভি অমসুং খোনজেল হাংদোকপা				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				13691	mr-IN	चित्रपट आणि ध्वनि उघडा				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				0	my	ရုပ်သံဖွင့်ပါ				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				0	nb	Åpne video og lyd				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				0	ne	चलचित्र र ध्वनि खोल्नुहोस्				2002-02-02 02:02:02
@@ -416,23 +478,26 @@ avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				0	nr
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				0	ns	Bula Filimi le Modumo				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				0	oc	Dobrir file e son				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				0	or-IN	ଚଳଚିତ୍ର ଓ ଧ୍ବନି ଖୋଲ				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				0	pa-IN	ਧੁਨੀ ਅਤੇ ਮੂਵੀ ਖੋਲ੍ਹੋ				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				13691	pa-IN	ਧੁਨੀ ਅਤੇ ਮੂਵੀ ਖੋਲ੍ਹੋ				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				0	pl	Otwórz film lub dźwięk				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				0	pt	Abrir filme e som				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				0	pt-BR	Abrir filme e som				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				0	ru	Открыть видео и звук				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				0	rw	Gufungura Filimi n'Ijwi				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				0	sh	Otvori video i zvuk				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				1	sa-IN	चलचित्रं ध्वनिं च उद्घाटय				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				1	sat	एनेच् आर साडे झिज				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				1	sd	قلم ۽ آواز کوليو				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				38235	sh	Otvori film i zvuk				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				0	sk	Otvoriť film a zvuk				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				0	sl	Odpri film in zvok				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				0	sr	Отвори видео и звук				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				13691	sl	Odpri film in zvok				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				38235	sr	Отвори филм и звук				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				0	ss	Vula umsindvo wemuvi				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				0	st	Bula Filimi le Modumo				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				0	sv	Öppna film och ljud				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				0	sw-TZ	Open Movie and Sound				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				0	ta	திரைப்படம் மற்றும் ஒலியை திறக்கவும்				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				13691	ta	திரைப்படத்தையும் ஒலியையும் திற				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				1	ta-IN	திரைப்படம் மற்றும் ஒலியை திறக்கவும்				2002-02-02 02:02:02
-avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				0	te-IN	చిత్రమును మరియు ధ్వనిని తెరుచుము				2002-02-02 02:02:02
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				13691	te-IN	చిత్రమును మరియు ధ్వనిని తెరుచుము				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				0	tg	Кушодани Садо ва Симо				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				0	th	เปิดภาพยนตร์และเสียง				2002-02-02 02:02:02
 avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				0	ti-ER	ድምጽን ቪድዮን ክፈት				2002-02-02 02:02:02

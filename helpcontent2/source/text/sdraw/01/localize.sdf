@@ -15,9 +15,9 @@
 #
 # OpenOffice.org - a multi-platform office productivity suite
 #
-# $RCSfile: localize.sdf,v $
+# $RCSfile:localize.pl,v $
 #
-# $Revision: 1.26 $
+# $Revision: 1.17.4.1 $
 #
 # This file is part of OpenOffice.org.
 #
@@ -41,7 +41,7 @@ helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	hd_id3150202	1			0	ar	\<li
 helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	hd_id3150202	1			0	bg	\<link href=\"text/sdraw/01/04010000.xhp\" name=\"Вмъкване на страница\"\>Вмъкване на страница\</link\>				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	hd_id3150202	1			0	br	\<link href=\"text/sdraw/01/04010000.xhp\" name=\"Insert Page\"\>Insert Page\</link\>				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	hd_id3150202	1			0	bs	\<link href=\"text/sdraw/01/04010000.xhp\" name=\"Insert Page\"\>Insert Page\</link\>				2002-02-02 02:02:02
-helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	hd_id3150202	1			0	ca	\<link href=\"text/sdraw/01/04010000.xhp\" name=\"Insert Page\"\>Insereix una pàgina\</link\>				2002-02-02 02:02:02
+helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	hd_id3150202	1			0	ca	\<link href=\"text/sdraw/01/04010000.xhp\" name=\"Insereix una pàgina\"\>Insereix una pàgina\</link\>				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	hd_id3150202	1			0	cs	\<link href=\"text/sdraw/01/04010000.xhp\" name=\"Vložit stránku\"\>Vložit stránku\</link\>				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	hd_id3150202	1			0	cy	\<link href=\"text/sdraw/01/04010000.xhp\" name=\"Insert Page\"\>Insert Page\</link\>				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	hd_id3150202	1			0	da	\<link href=\"text/sdraw/01/04010000.xhp\" name=\"Indsæt side\"\>Indsæt side\</link\>				2002-02-02 02:02:02
@@ -53,7 +53,8 @@ helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	hd_id3150202	1			0	en-ZA	\
 helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	hd_id3150202	1			0	eo	\<link href=\"text/sdraw/01/04010000.xhp\" name=\"Insert Page\"\>Enmeti Pagxon\</link\>				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	hd_id3150202	1			0	es	\<link href=\"text/sdraw/01/04010000.xhp\" name=\"Insertar página\"\>Insertar Página\</link\>				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	hd_id3150202	1			0	et	\<link href=\"text/sdraw/01/04010000.xhp\" name=\"Lisa leht\"\>Lisa leht\</link\>				2002-02-02 02:02:02
-helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	hd_id3150202	1			0	fi	\<link href=\"text/sdraw/01/04010000.xhp\" name=\"Insert Page\"\>Insert Page\</link\>				2002-02-02 02:02:02
+helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	hd_id3150202	1			0	eu	\<link href=\"text/sdraw/01/04010000.xhp\" name=\"Txertatu orrialdea\"\>Txertatu orrialdea\</link\>				2002-02-02 02:02:02
+helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	hd_id3150202	1			0	fi	\<link href=\"text/sdraw/01/04010000.xhp\" name=\"Insert Page\"\>Lisää sivu\</link\>				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	hd_id3150202	1			0	fr	\<link href=\"text/sdraw/01/04010000.xhp\" name=\"Insérer une page\"\>Insérer une page\</link\>				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	hd_id3150202	1			0	ga	\<link href=\"text/sdraw/01/04010000.xhp\" name=\"Insert Page\"\>Insert Page\</link\>				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	hd_id3150202	1			0	gl	\<link href=\"text/sdraw/01/04010000.xhp\" name=\"Inserir páxina\"\>Inserir páxina\</link\>				2002-02-02 02:02:02
@@ -63,9 +64,10 @@ helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	hd_id3150202	1			0	he	\<li
 helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	hd_id3150202	1			0	hi-IN	\<link href=\"text/sdraw/01/04010000.xhp\" name=\"Insert Page\"\>Insert Page\</link\>				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	hd_id3150202	1			0	hr	\<link href=\"text/sdraw/01/04010000.xhp\" name=\"Insert Page\"\>Insert Page\</link\>				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	hd_id3150202	1			0	hu	\<link href=\"text/sdraw/01/04010000.xhp\" name=\"Oldal beszúrása\"\>Oldal beszúrása\</link\>				2002-02-02 02:02:02
+helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	hd_id3150202	1			0	id	\<link href=\"text/sdraw/01/04010000.xhp\" name=\"Sisip Halaman\"\>Sisip Halaman\</link\>				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	hd_id3150202	1			0	it	\<link href=\"text/sdraw/01/04010000.xhp\" name=\"Inserisci pagina\"\>Inserisci pagina\</link\>				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	hd_id3150202	1			0	ja	\<link href=\"text/sdraw/01/04010000.xhp\" name=\"ページの挿入\"\>ページの挿入\</link\>				2002-02-02 02:02:02
-helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	hd_id3150202	1			0	km	\<link href=\"text/sdraw/01/04010000.xhp\" name=\"Insert Page\"\>បញ្ចូល​ទំព័រ\</link\>				2002-02-02 02:02:02
+helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	hd_id3150202	1			0	km	\\<link href=\\"text/sdraw/01/04010000.xhp\\" name=\\"Insert Page\\"\\>បញ្ចូល​ទំព័រ\\</link\\>				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	hd_id3150202	1			0	ko	\<link href=\"text/sdraw/01/04010000.xhp\" name=\"페이지 삽입\"\>페이지 삽입\</link\>				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	hd_id3150202	1			0	lt	\<link href=\"text/sdraw/01/04010000.xhp\" name=\"Insert Page\"\>Insert Page\</link\>				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	hd_id3150202	1			0	mk	\<link href=\"text/sdraw/01/04010000.xhp\" name=\"Insert Page\"\>Внеси страница\</link\>				2002-02-02 02:02:02
@@ -74,7 +76,7 @@ helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	hd_id3150202	1			0	ne	\<li
 helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	hd_id3150202	1			0	nl	\<link href=\"text/sdraw/01/04010000.xhp\" name=\"Pagina invoegen\"\>Pagina invoegen\</link\>				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	hd_id3150202	1			0	pl	\<link href=\"text/sdraw/01/04010000.xhp\" name=\"Wstaw stronę\"\>Wstaw stronę\</link\>				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	hd_id3150202	1			0	pt	\<link href=\"text/sdraw/01/04010000.xhp\" name=\"Insert Page\"\>Inserir página\</link\>				2002-02-02 02:02:02
-helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	hd_id3150202	1			0	pt-BR	\<link href=\"text/sdraw/01/04010000.xhp\" name=\"Insert Page\"\>Inserir página\</link\>				2002-02-02 02:02:02
+helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	hd_id3150202	1			0	pt-BR	\<link href=\"text/sdraw/01/04010000.xhp\" name=\"Inserir página\"\>Inserir página\</link\>				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	hd_id3150202	1			0	ru	\<link href=\"text/sdraw/01/04010000.xhp\" name=\"Вставить страницу\"\>Вставить страницу\</link\>				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	hd_id3150202	1			0	rw	\<link href=\"text/sdraw/01/04010000.xhp\" name=\"Insert Page\"\>Insert Page\</link\>				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	hd_id3150202	1			0	sh	\<link href=\"text/sdraw/01/04010000.xhp\" name=\"Insert Page\"\>Insert Page\</link\>				2002-02-02 02:02:02
@@ -103,13 +105,14 @@ helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	par_id3152988	2			0	cy	\<v
 helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	par_id3152988	2			0	da	\<variable id=\"seitetext\"\>Indsætter en tom side efter den valgte side.\</variable\>				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	par_id3152988	2			0	de	\<variable id=\"seitetext\"\>Wählen Sie diesen Befehl, so wird eine neue leere Seite in Ihr Dokument eingefügt.\</variable\> Die Seite wird direkt nach der aktuellen Seite eingefügt - alle eventuell folgenden Seiten werden nach hinten verschoben und erhalten neue Standardnamen. Fügen Sie z. B. hinter Seite2 eine Seite ein, so wird die alte Seite3, wenn es sie gab, jetzt zur Seite4.				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	par_id3152988	2			0	dz	\<variable id=\"seitetext\"\>སེལ་འཐུ་འབད་ཡོད་པའི་ཤོག་ལེབ་ཀྱི་ཤུལ་མ་ ཤོག་ལེབ་སྟོངམ་བཙུགསཔ་ཨིན། \</variable\>				2002-02-02 02:02:02
-helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	par_id3152988	2			0	el	\<variable id=\"seitetext\"\>Εισάγει μια κενή σελίδα μετά την επιλεγμένη σελίδα.\</variable\>				2002-02-02 02:02:02
+helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	par_id3152988	2			0	el	\<variable id=\"seitetext\"\>Εισάγει μια κενή σελίδα ύστερα από την επιλεγμένη σελίδα.\</variable\>				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	par_id3152988	2			0	en-GB	\<variable id=\"seitetext\"\>Inserts a blank page after the selected page.\</variable\>				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	par_id3152988	2			0	en-ZA	\<variable id=\"seitetext\"\>Inserts a blank page after the selected page.\</variable\>				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	par_id3152988	2			0	eo	\<variable id=\"seitetext\"\>Enmetas malplenan pagxon post la elektita pagxo.\</variable\>				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	par_id3152988	2			0	es	\<variable id=\"seitetext\"\>Inserta una página en blanco después de la página seleccionada.\</variable\>				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	par_id3152988	2			0	et	\<variable id=\"seitetext\"\>Lisab aktiivse lehe järele tühja lehe.\</variable\>				2002-02-02 02:02:02
-helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	par_id3152988	2			0	fi	\<variable id=\"seitetext\"\>Inserts a blank page after the selected page.\</variable\>				2002-02-02 02:02:02
+helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	par_id3152988	2			0	eu	\<variable id=\"seitetext\"\>Orrialde hutsa txertatzen du hautatutako orrialdearen ondoren.\</variable\>				2002-02-02 02:02:02
+helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	par_id3152988	2			0	fi	\<variable id=\"seitetext\"\>Lisätään tyhjä sivu valitun sivun jälkeen.\</variable\>				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	par_id3152988	2			0	fr	\<variable id=\"seitetext\"\>Insère une page vierge après la page sélectionnée.\</variable\>				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	par_id3152988	2			0	ga	\<variable id=\"seitetext\"\>Inserts a blank page after the selected page.\</variable\>				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	par_id3152988	2			0	gl	\<variable id=\"seitetext\"\>Insire unha páxina en branco após a páxina seleccionada.\</variable\>				2002-02-02 02:02:02
@@ -119,9 +122,10 @@ helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	par_id3152988	2			0	he	\<v
 helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	par_id3152988	2			0	hi-IN	\<variable id=\"seitetext\"\>चुने गए पृष्ठ के बाद एक खाली पृष्ठ प्रविष्ट करता है.\</variable\>				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	par_id3152988	2			0	hr	\<variable id=\"seitetext\"\>Inserts a blank page after the selected page.\</variable\>				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	par_id3152988	2			0	hu	\<variable id=\"seitetext\"\>Egy üres oldalt szúr be az aktuális oldal mögé.\</variable\>				2002-02-02 02:02:02
+helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	par_id3152988	2			0	id	\<variable id=\"seitetext\"\>Menyisipkan sebuah halaman kosong setelah halaman yang telah dipilih.\</variable\>				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	par_id3152988	2			0	it	\<variable id=\"seitetext\"\>Inserisce una pagina vuota dopo quella selezionata.\</variable\>				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	par_id3152988	2			0	ja	\<variable id=\"seitetext\"\>選択したページの後に空白のページを挿入します。\</variable\>				2002-02-02 02:02:02
-helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	par_id3152988	2			0	km	\<variable id=\"seitetext\"\>បញ្ចូល​ទំព័រ​ទទេ​មួយ បន្ទាប់​ពី​ទំព័រ​ដែល​បាន​ជ្រើស ។\</variable\>​				2002-02-02 02:02:02
+helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	par_id3152988	2			0	km	\\<variable id=\\"seitetext\\"\\>បញ្ចូល​ទំព័រ​ទទេ​មួយ បន្ទាប់​ពី​ទំព័រ​ដែល​បាន​ជ្រើស ។\\</variable\\>​				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	par_id3152988	2			0	ko	\<variable id=\"seitetext\"\>선택한 페이지 뒤에 빈 페이지를 삽입합니다.\</variable\>				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	par_id3152988	2			0	lt	\<variable id=\"seitetext\"\>Inserts a blank page after the selected page.\</variable\>				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	par_id3152988	2			0	mk	\<variable id=\"seitetext\"\>Внеси празна страница по тековната.\</variable\>				2002-02-02 02:02:02
@@ -165,7 +169,8 @@ helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	tit				0	en-ZA	Insert Page
 helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	tit				0	eo	Enmeti pagxon				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	tit				0	es	Insertar Página				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	tit				0	et	Lehe lisamine				2002-02-02 02:02:02
-helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	tit				0	fi	Insert Page				2002-02-02 02:02:02
+helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	tit				0	eu	Txertatu orrialdea				2002-02-02 02:02:02
+helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	tit				0	fi	Lisää sivu				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	tit				0	fr	Insérer une page				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	tit				0	ga	Insert Page				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	tit				0	gl	Inserir páxina				2002-02-02 02:02:02
@@ -175,6 +180,7 @@ helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	tit				0	he	Insert Page			
 helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	tit				0	hi-IN	पृष्ठ प्रविष्ट करें				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	tit				0	hr	Umetni stranicu				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	tit				0	hu	Oldal beszúrása				2002-02-02 02:02:02
+helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	tit				0	id	Sisip Halaman				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	tit				0	it	Inserisci pagina				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	tit				0	ja	ページの挿入				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	tit				0	km	បញ្ចូលទំព័រ				2002-02-02 02:02:02
@@ -191,7 +197,7 @@ helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	tit				0	pt-BR	Inserir pá
 helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	tit				0	ru	Вставить страницу				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	tit				0	rw	Insert Page				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	tit				0	sh	Insert Page				2002-02-02 02:02:02
-helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	tit				0	sk	Insert Page				2002-02-02 02:02:02
+helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	tit				0	sk	Vložiť stránku				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	tit				0	sl	Vstavi stran				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	tit				0	sr	Insert Page				2002-02-02 02:02:02
 helpcontent2	source\text\sdraw\01\04010000.xhp	0	help	tit				0	sv	Infoga sida				2002-02-02 02:02:02

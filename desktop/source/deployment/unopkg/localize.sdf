@@ -15,9 +15,9 @@
 #
 # OpenOffice.org - a multi-platform office productivity suite
 #
-# $RCSfile: localize.sdf,v $
+# $RCSfile:localize.pl,v $
 #
-# $Revision: 1.17 $
+# $Revision: 1.17.4.1 $
 #
 # This file is part of OpenOffice.org.
 #
@@ -37,88 +37,120 @@
 # for a copy of the LGPLv3 License.
 #
 #*************************************************************************
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_CONCURRENTINSTANCE				0	ar	يلزم إغلاق إدارة الامتدادات المفتوحة بالفعل للمتابعة.				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_CONCURRENTINSTANCE				13691	as-IN	আগবাঢ়িবলৈ আপুনি ইতিমধ্যে খোলা সম্প্ৰসাৰণৰ পৰিচালক বন্ধ কৰক ।				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_CONCURRENTINSTANCE				13691	be-BY	Каб працягваць, трэба закрыць адкрыты Распараднік Прыставак.				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_CONCURRENTINSTANCE				0	bg	Трябва да затворите отворения вече диспечер на разширенията, за да продължите.				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_CONCURRENTINSTANCE				13691	bn	অব্যাহত রাখতে আপনাকে ইতোমধ্যে খোলা বর্ধিতাংশ ব্যবস্থাপক বন্ধ করতে হবে।				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_CONCURRENTINSTANCE				0	ca	Cal que tanqueu el Gestor d'extensions que teniu obert per continuar.				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_CONCURRENTINSTANCE				0	cs	Pokud chcete pokračovat, musíte zavřít již otevřeného Správce rozšíření.				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_CONCURRENTINSTANCE				13691	cs	Pokud chcete pokračovat, musíte zavřít již otevřeného Správce rozšíření.				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_CONCURRENTINSTANCE				1	da	Du skal lukke den allerede åbnede Udvidelseadministration for at fortsætte.				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_CONCURRENTINSTANCE				0	de	Um fortzufahren müssen Sie den bereits geöffneten Extension Manager schließen.				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_CONCURRENTINSTANCE				0	el	Θα πρέπει να κλείσετε την Διαχείριση επεκτάσεων για να συνεχίσετε.				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_CONCURRENTINSTANCE				13691	el	Θα πρέπει να κλείσετε την Διαχείριση επεκτάσεων για να συνεχίσετε.				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_CONCURRENTINSTANCE				13691	en-GB	You must close the already opened Extension Manager to continue.				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_CONCURRENTINSTANCE				0	es	Necesita cerrar el Administrador de extensiones que está abierto para continuar.				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_CONCURRENTINSTANCE				0	et	Jätkamiseks pead sa sulgema avatud laienduste halduri.				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_CONCURRENTINSTANCE				13691	et	Jätkamiseks pead sa sulgema avatud laienduste halduri.				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_CONCURRENTINSTANCE				13691	eu	Hedapenen kudeatzailea itxi behar duzu jarraitzeko.				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_CONCURRENTINSTANCE				1	fi	Aikaisemmin avattu lisäosien hallinta on ensin suljettava.				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_CONCURRENTINSTANCE				0	fr	Le gestionnaire des extensions est déjà ouvert, vous devez le fermer pour continuer.				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_CONCURRENTINSTANCE				0	gl	Precisa de pechar o Xestor de extensións para continuar.				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_CONCURRENTINSTANCE				13691	gl	Precisa de pechar o Xestor de extensións para continuar.				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_CONCURRENTINSTANCE				0	gu	ચલાવવા માટે પહેલેથી જ ખોલેલ Extension Manager ને તમારે બંધ કરવાની જરૂર પડશે.				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_CONCURRENTINSTANCE				13691	hi-IN	आपको पहले से खुले विस्तार प्रबंधक को जारी रखने के लिए बंद करने की जरूरत है.				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_CONCURRENTINSTANCE				0	hu	A folytatáshoz be kell zárnia a már megnyitott Kiterjesztéskezelőt.				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_CONCURRENTINSTANCE				0	id	Anda harus menutup Manajer Ekstensi yang telah dibuka untuk lanjut.				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_CONCURRENTINSTANCE				0	it	Per continuare dovete chiudere Gestione estensioni già aperto.				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_CONCURRENTINSTANCE				0	ja	続けるには、すでに開いている拡張機能マネージャーを閉じる必要があります。				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_CONCURRENTINSTANCE				0	km	អ្នក​ត្រូវ​តែ​បិទ​កម្មវិធី​គ្រប់គ្រង​ផ្នែក​បន្ថែម ដែល​បាន​បើក​ដើម្បី​បន្ត ។				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_CONCURRENTINSTANCE				13691	km	អ្នក​ត្រូវ​តែ​បិទ​កម្មវិធី​គ្រប់គ្រង​ផ្នែក​បន្ថែម ដែល​បាន​បើក​ដើម្បី​បន្ត ។				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_CONCURRENTINSTANCE				13691	kn-IN	ಮುಂದುವರೆಯಲು ನೀವು ಈಗಾಗಲೆ ತೆರೆದಿರುವ ವಿಸ್ತರಣಾ ನಿರ್ವಾಹಕನನ್ನು ಮುಚ್ಚಬೇಕಾಗುತ್ತದೆ.				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_CONCURRENTINSTANCE				0	ko	계속하려면 이미 열려 있는 확장 관리자를 닫아야 합니다.				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_CONCURRENTINSTANCE				0	lt	Jei norite tęsti, turite užverti plėtinių tvarkytuvę.				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_CONCURRENTINSTANCE				0	mk	Треба да го затворите отворениот Менаџер на екстензии за да продолжите.				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_CONCURRENTINSTANCE				13691	lt	Jei norite tęsti, turite užverti plėtinių tvarkytuvę.				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_CONCURRENTINSTANCE				13691	mk	Треба да го затворите отворениот Менаџер на екстензии за да продолжите.				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_CONCURRENTINSTANCE				13691	ml-IN	മുമ്പോട്ടു് തുടരുന്നതിനായി നിലവില്‍ തുറന്നിട്ടുള്ള എക്സ്റ്റെന്‍ഷന്‍ മാനേജര്‍ അടയ്ക്കേണ്ടതാണു്.				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_CONCURRENTINSTANCE				0	mn	Үргэлжлүүлэхийн тулд та өмнө нээсэн байгаа өргөтгөлийн менежерийг хаана уу.				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_CONCURRENTINSTANCE				13691	mr-IN	पुढे चालू ठेवण्यासाठी आधीच उघडलेल्या एक्सटेन्शन व्यवस्थापकास बंद करण्याची आवश्यकता आहे.				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_CONCURRENTINSTANCE				0	nb	Du må lukke vinduet «Utvidelser» for å fortsette.				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_CONCURRENTINSTANCE				0	nl	U moet het reeds geopende Extensiebeheer sluiten om door te gaan.				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_CONCURRENTINSTANCE				0	nn	Du må lukka vindauget «Utvidingar» for å halda fram.				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_CONCURRENTINSTANCE				0	pa-IN	ਤੁਹਾਨੂੰ ਜਾਰੀ ਰੱਖਣ ਤੋਂ ਪਹਿਲਾਂ ਖੁੱਲ੍ਹੇ ਇਕਸਟੈਨਸ਼ਨ ਮੈਨੇਜਰ ਨੂੰ ਬੰਦ ਕਰੋ।				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_CONCURRENTINSTANCE				0	oc	Vos cal tampar lo gestionari d'extension dobert per contunhar.				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_CONCURRENTINSTANCE				13691	pa-IN	ਤੁਹਾਨੂੰ ਜਾਰੀ ਰੱਖਣ ਵਾਸਤੇ ਪਹਿਲਾਂ ਹੀ ਖੁੱਲ੍ਹੇ ਇਕਸਟੈਨਸ਼ਨ ਮੈਨੇਜਰ ਨੂੰ ਬੰਦ ਕਰਨਾ ਪਵੇਗਾ।				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_CONCURRENTINSTANCE				0	pl	Aby można było kontynuować, należy zamknąć już otwartą instancję Menedżera rozszerzeń.				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_CONCURRENTINSTANCE				0	pt	É necessário fechar o Gestor de extensões aberto para prosseguir.				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_CONCURRENTINSTANCE				0	pt-BR	Você deve fechar o Gerenciador de extensões que está aberto para continuar.				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_CONCURRENTINSTANCE				0	ru	Для продолжения необходимо закрыть диспетчер расширений.				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_CONCURRENTINSTANCE				0	sh	Morate zatvoriti već otvorenog rukovodioca proširenja da bi nastavili.				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_CONCURRENTINSTANCE				0	sl	Za nadaljevanje morate zapreti okno Upravitelja razširitev.				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_CONCURRENTINSTANCE				0	sr	Морате затворити већ отвореног руководиоца проширења да би наставили.				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_CONCURRENTINSTANCE				1	sa-IN	अनुसन्तनोतुं पूर्वोद्घाटितस्य विस्तारणप्रबन्धस्य पिधानम् आवश्यकम्।				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_CONCURRENTINSTANCE				38219	sh	Za nastavak morate zatvoriti već pokrenutog upravnika paketima.				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_CONCURRENTINSTANCE				1	sk	Pre pokračovanie musíte ukončiť už otvoreného Správcu rozšírení.				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_CONCURRENTINSTANCE				13691	sl	Za nadaljevanje morate zapreti okno Upravitelja razširitev.				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_CONCURRENTINSTANCE				38219	sr	За наставак морате затворити већ покренутог управника пакетима.				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_CONCURRENTINSTANCE				0	sv	Du måste stänga dialogrutan Tillägg för att fortsätta.				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_CONCURRENTINSTANCE				0	ta	You need to close the already opened Extension Manager to continue.				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_CONCURRENTINSTANCE				13691	ta	தொடர்வதற்கு ஏற்கனவே திறந்துள்ள நீட்சி மேலாளரை நீங்கள் மூட வேண்டும்.				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_CONCURRENTINSTANCE				13691	te-IN	మీరు యిప్పటికే తెరిచివున్న పొడిగింపు నిర్వాహికను మూసివేసి కొనసాగించవలసి వుంది.				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_CONCURRENTINSTANCE				0	tr	Eklenti Yöneticisi daha önceden açılmış devam etmek için bu pencereyi kapatmalısınız.				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_CONCURRENTINSTANCE				0	uk	Для продовження слід закрити відкритий Менеджер розширень.				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_CONCURRENTINSTANCE				0	vi	Để tiếp tục thì đóng Bộ Quản lý Phần mở rộng còn mở.				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_CONCURRENTINSTANCE				0	zh-CN	您需要关闭已打开的“扩展管理器”以便继续。				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_CONCURRENTINSTANCE				0	zh-TW	您需要關閉已經開啟的擴充軟體管理程式，才能繼續。				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				0	ar	اتفاقية ترخيص الامتداد:				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				0	be-BY	Ліцэнзійнае пагадненне дадатку:				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				13691	as-IN	সম্প্ৰসাৰণৰ অনুজ্ঞা চুক্তি:				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				13691	be-BY	Ліцэнзійнае пагадненне прыстаўкі:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				0	bg	Лицензионно споразумение за разширение:				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				13691	bn	বর্ধিতাংশ লাইসেন্স চুক্তি:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				0	br	Aotre kevrat askouezhañ :				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				0	ca	Acord de llicència de l'extensió:				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				0	cs	Licenční ujednání rozšíření:				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				13691	cs	Licenční ujednání rozšíření:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				0	cy	Extension License Agreement:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				1	da	Softwarelicensaftale for udvidelse:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				0	de	Lizenzvertrag Softwareerweiterung:				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				1	dgo	विस्तार परवानो करार:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				13691	dz	Extension License Agreement:				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				0	el	Άδεια χρήσης επέκτασης:				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				0	en-GB	Extension License Agreement:				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				13691	el	Άδεια χρήσης επέκτασης:				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				13691	en-GB	Extension Licence Agreement:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				1	eo	Permesilo de la aldonajxo:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				0	es	Contrato de licencia de la extensión:				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				0	et	Paketi litsentsileping:				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				13691	et	Paketi litsentsileping:				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				13691	eu	Hedapenaren lizentzia-kontratua:				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				1	fi	Lisäosan lisenssisopimus:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				0	fr	Contrat de licence de l'extension :				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				13691	ga	Comhaontú Ceadúnais na hEisínteachta:				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				0	gl	Acordo da Licenza da extensión:				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				13691	gl	Acordo da Licenza da extensión:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				0	gu	એક્સટેન્સન લાઈસન્સ મંજૂરીપત્ર:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				0	he	הסכם רישוי להרחבה				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				13691	hi-IN	विस्तार लाइसेंस अनुबंध:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				0	hr	Licenčni ugovor dodatka:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				0	hu	Kiterjesztés licencszerződése:				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				0	id	Persetujuan Lisensi Ekstensi:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				0	it	Contratto di licenza dell'estensione:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				0	ja	拡張ライセンス条項:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				0	ka	სალიცენზიო შეთანხმება გაფართოების შესახებ:				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				0	km	កិច្ចព្រម​ព្រៀង​អាជ្ញាប័ណ្ណ​របស់​ពាក្យ​បន្ថែម ៖				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				13691	km	កិច្ចព្រម​ព្រៀង​អាជ្ញាប័ណ្ណ​របស់​ពាក្យ​បន្ថែម ៖				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				13691	kn-IN	ವಿಸ್ತರಣೆಯ ಪರವಾನಗಿ ಒಪ್ಪಂದ:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				0	ko	확장 사용권 계약:				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				0	lt	Plėtinio licencijos sutartis:				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				0	mk	Договор за лиценца на екстензијата:				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				1	kok	विस्तार परवानो करार:				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				13691	lt	Plėtinio licencijos sutartis:				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				13691	mk	Договор за лиценца на екстензијата:				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				13691	ml-IN	എക്സ്റ്റെന്‍ഷന്‍ ലൈസന്‍സ് എഗ്രീമെന്റ്:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				0	mn	Өргөтгөлийн лицензийн нөхцөл:				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				1	mni	শন্দোকপাগী লাইসেন্স এগ্রিমেন্ত:				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				13691	mr-IN	एक्सटेन्शन परवाना करार:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				0	nb	Lisensavtale for utvidelse:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				0	ne	विस्तार इजाजतपत्र सम्झौता:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				0	nl	Licentieovereenkomst van extensie:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				0	nn	Lisensavtale for utviding:				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				0	pa-IN	ਇਕਸਟੈਨਸ਼ਨ ਲਾਇਸੈਂਸ ਇਕਰਾਰਨਾਮਾ:				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				0	oc	Licéncia d'Acòrdi d'extension: 				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				13691	pa-IN	ਐਕਸ਼ਟੈਂਸ਼ਨ ਲਾਇਸੈਂਸ ਇਕਰਾਰਨਾਮਾ:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				0	pl	Umowa licencyjna rozszerzenia:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				0	pt	Contrato de Licença de Extensão:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				0	pt-BR	Contrato de licença da extensão:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				0	ru	Лицензионное соглашение расширения:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				0	rw	Amategeko y'uruhusa rw'umugereka				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				0	sh	Ugovor o licenci dodatka:				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				0	sk	Licenčná zmluva rozšírenia:				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				0	sl	Licenčna pogodba razširitve:				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				0	sr	Уговор о лиценци додатка:				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				1	sa-IN	विस्तारस्य अनुज्ञापत्रानुबन्धः :				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				38219	sh	Ugovor o licenciranju dodatka:				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				1	sk	Licenčná zmluva rozšírenia:				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				13691	sl	Licenčna pogodba razširitve:				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				38219	sr	Уговор о лиценцирању додатка:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				0	sv	Licensavtal för tillägg:				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				0	ta	விரிவாக்க உரிம ஒப்பந்தம்				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				13691	ta	நீட்சி உரிம ஒப்பந்தம்:				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				13691	te-IN	పొడిగింపు లైసెన్సు వొప్పందము:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				0	tg	Шартномаи литсензионӣ:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				0	tr	Eklenti Lisans Anlaşması:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				0	uk	Ліцензійна угода розширення:				2002-02-02 02:02:02
@@ -126,52 +158,67 @@ desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				0	vi	Điều kiện giấy phép dùng phần mở rộng:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				0	zh-CN	扩展软件许可协议:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_1				0	zh-TW	擴充軟體授權合約:				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				0	ar	اقرأ اتفاقية الترخيص المعروضة أعلاه كاملة. اقل اتفاقية الترخيس بكتابة "نعم" في سطر الأوامر ثم اضغط زر الإدخال. اكتب "لا" لترفض قبول الاتفاقية وإلغاء الإعداد.				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				0	be-BY	Прачытайце Ліцэнзійнае пагадненне цалкам. Прыняць умовы пагаднення можна, упісаўшы "так" у кансолі (тэкставым загадніку), тады націснуўшы клавішу Enter. Упішыце "не", каб адмовіцца і спыніць устанаўленне дадатку.				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				0	ar	اقرأ اتفاقية الترخيص المعروضة أعلاه كاملة. واقبل اتفاقية الترخيص بكتابة "نعم" في وحدة التحكم، ثم اضغط على زر الإدخال. اكتب "لا" لرفض الاتفاقية وإلغاء إعداد الامتداد.				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				13691	as-IN	ওপৰত দেখুৱা সম্পূৰ্ণ অনুজ্ঞা চুক্তি পঢ়ক । গ্ৰহণ কৰিবলৈ ক'ন্সোলত "হয়" লিখক আৰু তাৰ পিছত Return চাবি টিপক । অগ্ৰাহ্য কৰিবলৈ "নহয়" টিপক আৰু সম্প্ৰসাৰণৰ প্ৰতিষ্ঠা বাতি কৰক ।				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				13691	be-BY	Прачытайце Ліцэнзійнае пагадненне цалкам. Прыняць умовы пагаднення можна, упісаўшы "так" у кансолі (тэкставым загадніку), тады націснуўшы клавішу Enter. Упішыце "не", каб адмовіцца і спыніць устанаўленне прыстаўкі.				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				0	bg	Прочетете пълното лицензионно споразумение показано по-долу. Приемете го, като въведете "да" в конзолата, след което натиснете клавиша Enter. Въведете "не", за да откажете и да прекъснете инсталирането на разширението.				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				13691	bn	উপরে প্রদর্শিত পুরো লাইসেন্স চুক্তি পড়ুন। কনসোলে "হ্যাঁ" টাইপ করে লাইসেন্স চুক্তি গ্রহণ করুন, তারপর ফিরে আসার কী চাপুন। অস্বীকৃতী জানাতে এবং বর্ধিতাংশ সংস্থাপন বাতিল করতে "না" টাইপ করুন।				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				0	br	Lennit betek ar fin an aotre kevrat a heul. Degemerit an aotre kevrat en ur skrivañ "ya" e-barzh ar penel ha pouezit war ar stokel Enankañ. Skrivit "ket" evit nac'haat ha paouez gant staliadur an askouezhadenn.				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				0	ca	Llegiu l'acord de llicència complet indicat més amunt. Accepteu-lo escrivint "si" a la consola i prement retorn. Escriviu "no" per a rebutjar-lo i interrompre la instal·lació de l'extensió.				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				0	cs	Přečtěte si licenční ujednání výše. Ujednání přijmete napsáním "yes" do konzole a stisknutím klávesy Enter. Pro odmítnutí a ukončení instalace napište "no".				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				0	ca	Llegiu l'acord de llicència complet indicat més amunt. Accepteu-lo escrivint "si" a la consola i prement retorn. Escriviu "no" per a rebutjar-lo i avortar la instal·lació de l'extensió.				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				13691	cs	Přečtěte si licenční ujednání výše. Ujednání přijmete napsáním "yes" do konzole a stisknutím klávesy Enter. Pro odmítnutí a ukončení instalace napište "no".				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				0	cy	Read the complete License Agreement displayed above. Accept the License Agreement by typing "yes" on the console then press the Return key. Type "no" to decline and to abort the extension setup.				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				1	da	Læs den fuldstændige licensaftale vist ovenfor. Accepter licensaftalen ved at skrive "ja" i konsollen og så trykke på Enter-tasten. Skriv "nej" for at afvise og stoppe opsætning af udvidelsen.				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				0	de	Lesen Sie den gesamten obigen Lizenzvertrag. Akzeptieren Sie diesen Lizenzvertrag indem Sie "Ja" auf der Konsole eingeben. Betätigen Sie anschließend die Eingabetaste. Geben Sie "Nein" ein, um die Installation der Erweiterung abzubrechen.				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				1	dgo	सकयल दिल्लो पुराय परवानो करार वाचून काडात. परवानो करार मान्य करपाक कन्सोलार  "yes" टायप करून रिटर्न कळ दामात. न्हंयकारपाक  आनिक विस्तार संरचनायेतल्यान भायर वचपाक "no" करात.				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				13691	dz	Read the complete License Agreement displayed above. Accept the License Agreement by typing "yes" on the console then press the Return key. Type "no" to decline and to abort the extension setup.				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				0	el	Διαβάστε την πλήρη άδεια χρήσης που εμφανίζεται παραπάνω. Αποδεχθείτε την άδεια χρήσης πληκτρολογώντας "yes" στην κονσόλα και μετά πατήστε το πλήκτρο Enter. Πληκτρολογήστε "no" για να την απορρίψετε και να εγκαταλείψετε την εγκατάσταση.				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				0	en-GB	Read the complete License Agreement displayed above. Accept the License Agreement by typing "yes" on the console then press the Return key. Type "no" to decline and to abort the extension setup.				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				13691	el	Διαβάστε την πλήρη άδεια χρήσης που εμφανίζεται παραπάνω. Αποδεχθείτε την άδεια χρήσης πληκτρολογώντας "yes" στην κονσόλα και μετά πατήστε το πλήκτρο Enter. Πληκτρολογήστε "no" για να την απορρίψετε και να εγκαταλείψετε την εγκατάσταση.				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				13691	en-GB	Read the complete Licence Agreement displayed above. Accept the Licence Agreement by typing "yes" on the console then press the Return key. Type "no" to decline and to abort the extension set-up.				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				1	eo	Legu la tutan permesilon supre vidigita. Akceptu la permesilon tajpante "jes" en la konzolo, tiam premu la klavon Return. Tajpu "ne" por malakcepti kaj cxesigi la agordadon de la aldonajxo.				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				0	es	Lea todo el contrato de licencia que se muestra arriba. Acepte el contrato de licencia escribiendo "sí" en la consola y pulsado la tecla Intro. Escriba "no" para rechazarlo y cancelar la instalación de la extensión.				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				0	et	Loe läbi kogu ülaltoodud litsentsileping. Litsentsilepinguga nõustumiseks sisesta konsoolile "jah" ja vajuta Enter-klahvi. Lepinguga mittenõustumise korral sisesta "ei" ning paigaldamine katkestatakse.				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				13691	et	Loe läbi kogu ülaltoodud litsentsileping. Litsentsilepinguga nõustumiseks sisesta konsoolile "jah" ja vajuta Enter-klahvi. Lepinguga mittenõustumise korral sisesta "ei" ning paigaldamine katkestatakse.				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				13691	eu	Irakurri goiko lizentzia-kontratu osoa. Lizentzia-kontratua onartzeko, idatzi "bai" kontsolan eta sakatu Itzuli tekla. Lizentzia-kontratua ezetsi eta hedapenaren konfigurazioa bertan behera uzteko, idatzi "ez".				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				1	fi	Lue koko yllä esitetty lisenssisopimus. Hyväksy lisenssisopimus kirjoittamalla päätteeseen "kyllä" ja painamalla Enter-näppäintä. Kirjoita "ei" kieltäytyäksesi ja keskeyttääksesi lisäosan asennus.				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				0	fr	Veuillez prendre connaissance du contrat de licence affiché ci-dessus. Pour accepter les termes du contrat, tapez "oui" sur la console, puis appuyez sur la touche Entrée. Pour refuser les termes du contrat ou annuler l'installation de l'extension, tapez "non".				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				13691	ga	Léigh an Ceadúnas uile atá á thaispeáint thuas. Glac leis an gCeadúnas trí "tá" a chlóbhualadh ar an gconsól agus an eochair aisfhillte a bhrú. Clóbhuail "níl" le diúltú agus deireadh a chur le suiteáil na heisínteachta.				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				0	gl	Lea completamente o Acordo da Licenza mostrado enriba. Acepte o Acordo da Licenza escribindo "yes" na consola e seguidamente prema a tecla Intro. Escriba "no" para rexeitar e abortar a instalación da extensión.				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				13691	gl	Lea completamente o Acordo da Licenza mostrado enriba. Acepte o Acordo da Licenza escribindo "yes" na consola e seguidamente prema a tecla Intro. Escriba "no" para rexeitar e abortar a instalación da extensión.				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				0	gu	ઉપર દર્શાવાયેલ આખું લાઈસન્સ મંજૂરીપત્ર વાંચો. કન્સોલ પર "yes" લખીને અને Return કી દબાવીને લાઈસન્સ મંજૂરીપત્ર સ્વીકારો. અસંમત થવા માટે અને એક્સટેન્સન સુયોજન અડધેથી બંધ કરવા માટે "no" લખો.				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				0	he	נא לקראו את ההסכם כולו. נא לאשר הסכמה לתנאי ההסכם על ידי הקשת ‏‪yes‬‏ ולחיצת מקש ה‏‪enter‬‏. נא להקיש ‏‪no‬‏ אם אינך מסכימה לתנאי ההסכם או כדי להפסיק את ההתקנה.‏				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				13691	hi-IN	ऊपर दिखाए गए पूरे लाइसेंस अनुबंध को पढ़ें. कंसोल पर "yes" टाइप करके लाइसेंस अनुबंध स्वीकार करें और फिर Return कुंजी दबाएँ. "no" मना करने के लिये टाइप करें और विस्तार सेटअप को छोड़ने के लिए.				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				0	hr	Pročitajte cijeli Licenčni Ugovor, koji je dolje ispisan. Prihvaćate Licenčni ugovor ispisivanjem riječi "yes" u konzoli i pritiskom na tipku "Enter". Ukoliko želite prekinuti instalaiju dodatka, upišite riječ "no".				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				0	hu	Olvassa el a fent megjelenített licencszerződést. Fogadja el a licencszerződést úgy, hogy a konzolba beírja az "igen" szót, majd megnyomja az Enter billentyűt. Ha azt írja be, hogy "nem", akkor a kiterjesztés telepítése megszakad.				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				0	id	Baca Persetujuan Lisensi yang ditampilkan di atas. Terima Persetujuan Lisensi dengan mengetikkan "ya" pada konsol lalu tekan tombol Return/Enter. Ketik "tidak" untuk menolak dan membatalkan pemasangan ekstensi.				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				0	it	Leggete interamente il Contratto di licenza visualizzato qui sopra. Accettate il Contratto di licenza digitando "sì" sulla console e quindi premete il tasto (Invio). Digitate "no" se non intendete accettare il contratto e volete interrompere l'installazione dell'estensione.				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				0	ja	上に表示されたライセンス条項をすべてお読みください。ライセンス条項に同意する場合は、コンソールに "yes" をタイプ入力して Enter キーを押します。同意せず、拡張セットアップを中止する場合は、"no" をタイプ入力します。				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				0	ka	წაიკითხეთ ზემოთ ნაჩვენები სრული სალიცენზიო შეთანხმება. დაეთანხმეთ სალიცენზიო შეთანხმებას "yes" აკრეფით კონსოლზე და შემდეგ დააჭირეთ დაბრუნების ღილაკს. აკრიფეთ "no" რათა თქვათ უარი და შეწყვითოთ გაფართოების ინსტალაცია.				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				0	km	អាន​កិច្ចព្រមព្រៀងអាជ្ញាប័ណ្ណ​ទាំងស្រុង​ដែលបាន​បង្ហាញ​ខាងលើ ។ យល់ព្រម​នឹង​កិច្ច​ព្រមព្រៀងអាជ្ញាប័ណ្ណ​ដោយវាយ "yes" នៅលើ​បង្អួច បន្ទាប់មក​ចុច​គ្រាប់ចុច ត្រឡប់(Return) ។ វាយ "no" ដើម្បី​បដិសេធ និង​ចាកចេញ​ពីការរៀបចំ​ពាក្យបន្ថែម ។				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				0	ko	상기에 명시된 사용권 계약 전체를 읽으십시오. 사용권 계약에 동의하는 경우 콘솔에서 "예"를 입력한 다음 <Enter> 키를 누릅니다. 계약을 거부하고 확장 설치를 중단하려면 "아니오"를 입력합니다.				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				0	lt	Perskaitykite visą licencijos sutartį , pateikiamą aukščiau. Sutikite su licencijos sutarties sąlygomis komandų eilutėje įvesdami „taip“ ir paspausdami įvedimo klavišą. Jei norite atmesti sutartį ir nutraukti plėtinio diegimą, surinkite „ne“.				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				0	mk	Прочитајте го целосно Договорот за лиценца прикажан погоре. Прифатете го со пишување „yes“ во конзолата и притискање на тастерот Return. Напишете „no“ за да одбиете и да го прекинете инсталирањето на екстензијата.				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				13691	km	អាន​កិច្ចព្រមព្រៀងអាជ្ញាប័ណ្ណ​ទាំងស្រុង​ដែលបាន​បង្ហាញ​ខាងលើ ។ យល់ព្រម​នឹង​កិច្ច​ព្រមព្រៀងអាជ្ញាប័ណ្ណ​ដោយវាយ "yes" នៅលើ​បង្អួច បន្ទាប់មក​ចុច​គ្រាប់ចុច ត្រឡប់(Return) ។ វាយ "no" ដើម្បី​បដិសេធ និង​ចាកចេញ​ពីការរៀបចំ​ពាក្យបន្ថែម ។				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				13691	kn-IN	ಮೇಲೆ ತೋರಿಸಲಾದ ಪರವಾನಗಿ ಒಪ್ಪಂದವನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಓದಿ. ಪರವಾನಗಿಯನ್ನು ಒಪ್ಪಿಕೊಳ್ಳಲು ಕನ್ಸೋಲಿನಲ್ಲಿ "yes" ಎಂದು ನಮೂದಿಸಿ ನಂತರ ರಿಟರ್ನ್ ಕೀಲಿಯನ್ನು ಒತ್ತಿ. ನಿರಾಕರಿಸಲು ಹಾಗು ವಿಸ್ತರಣೆಯ ಸಿದ್ಧತೆಯನ್ನು ನಿಲ್ಲಿಸಲು "no" ಅನ್ನು ನಮೂದಿಸಿ.				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				0	ko	상기에 명시된 사용권 계약 전체를 읽으십시오. 사용권 계약에 동의하는 경우 콘솔에서 "예"를 입력한 다음 <Enter> 키를 누릅니다. 계약을 거부하고 확장 설치를 중단하려면 "아니요"를 입력합니다.				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				1	kok	सकयल दिल्लो पुराय परवानो करार वाचून काडात. परवानो करार मान्य करपाक कन्सोलार  "yes" टायप करून रिटर्न कळ दामात. न्हंयकारपाक  आनिक विस्तार संरचनायेतल्यान भायर वचपाक "no" करात.				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				13691	lt	Perskaitykite visą licencijos sutartį , pateikiamą aukščiau. Sutikite su licencijos sutarties sąlygomis komandų eilutėje įvesdami „taip“ ir paspausdami įvedimo klavišą. Jei norite atmesti sutartį ir nutraukti plėtinio diegimą, surinkite „ne“.				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				13691	mk	Прочитајте го целосно Договорот за лиценца прикажан погоре. Прифатете го со пишување „yes“ во конзолата и притискање на тастерот Return. Напишете „no“ за да одбиете и да го прекинете инсталирањето на екстензијата.				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				13691	ml-IN	മുകളില്‍ കാണിച്ചിരിക്കുന്ന പൂര്‍ണ്ണ ലൈസന്‍സ് എഗ്രീമെന്റ് വായിക്കുക. ലൈസന്‍സ് എഗ്രീമെന്റ് അംഗീകരിക്കുന്നതിനായി കണ്‍സോളില്‍ "yes" ടൈപ്പ് ചെയ്തു് Return കീ അമര്‍ത്തുക. നിങ്ങള്‍ക്കു് സമ്മതമല്ലെങ്കില്‍ എക്സ്റ്റെന്‍ഷന്‍ ക്രമീകരണം നിര്‍ത്തുന്നതിനായി "no" ടൈപ്പ് ചെയ്യുക.				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				0	mn	Дээр харагдаж буй Лицензийн Нөхцөлийг бүрэн уншина уу. Лицензийн нөхцөлийг хүлээн зөвшөөрч байвал консол дээр "тийм" гэж бичээд Энтэр товчийг дарна уу. Татгалзаж, өргөтгөлийн суулгацыг цуцлахыг хүсвэл "үгүй" гэж оруулна уу.				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				1	mni	মথক্তা ফোঙদোক্লিবা মপুংফাবা লাইসেন্স এগ্রিমেন্ত পারো. কনসোলদা "হোয়" তাইপ তৌদুনা লাইসেন্স এগ্রিমেন্ত য়ারো অদুগা হল্লকপগী কি নম্মো. শন্দোকপা সেতঅপ তোক্নবা অমসুং হন্দোক্নবা "নত্তে" তাইপ তৌরো.				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				13691	mr-IN	वर प्रदर्शित केलेले संपूर्ण परवाना करार वाचा. कंसोल वर "हो" ला टंकलिखित करून परवाना करार  स्विकारा नंतर परत येण्याची की दाबा.नाकारण्यासाठी आणि एक्सटेन्शनची पूर्वतयारी सोडून देण्यासाठी  "नाही" टंकलिखित करा 				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				0	nb	Les gjennom hele lisensavtalen ovenfor. Godta lisensavtalen ved skrive «ja» i terminalvinduet og trykk på «Enter». Skriv «nei» dersom du ikke vil godta avtalen. Dette vil avbryte oppsettet av utvidelsen.				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				0	ne	माथि प्रदर्शन भएको पूरा इजाजतपत्र सम्झौता पढ्नुहोस् । कन्सोलमा "हो" टाइप गरेर इजाजतपत्र सम्झौता स्वीकार गर्नुहोस् र फर्कने कुञ्जी थिच्नुहोस् । विस्तार सेटअप घटाउन वा परित्याग गर्न "होइन" टाइप गर्नुहोस् ।				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				0	nl	Lees de bovenstaande Licentieovereenkomst in zijn geheel door. Accepteer de Licentieovereenkomst door 'ja' te typen op de console en vervolgens op Enter te drukken. Typ 'nee' om de overeenkomst af te wijzen en de installatie van de extensie af te breken.				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				0	nn	Les gjennom heile lisensavtalen ovanfor. Godta lisensavtalen ved å skriva «ja» i terminalvindauget og trykk på «Enter». Skriv «nei» om du ikkje vil godta avtalen og avbryta oppsettet av utvidinga.				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				0	pa-IN	ਉੱਤੇ ਵੇਖਾਇਆ ਪੂਰਾ ਲਾਇਸੈਂਸ ਇਕਰਾਰਨਾਮਾ ਪੜ੍ਹੋ। ਕਨਸੋਂਲ ਉੱਤੇ "yes" ਲਿਖਣ ਅਤੇ Return ਸਵਿੱਚ ਦਬਾ ਕੇ ਲਾਇਸੈਂਸ ਇਕਰਾਰਨਾਮੇ ਨਾਲ ਸਹਿਮਤੀ ਪਰਗਟ ਕਰੋ। "no" ਨੂੰ ਇਨਕਾਰ ਕਰਨ ਅਤੇ ਇਕਸਟੈਨਸ਼ਨ ਸੈੱਟਅੱਪ ਬੰਦ ਕਰਨ ਲਈ ਵਰਤੋਂ।				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				0	oc	Legissètz la licéncia d'Acòrdi afichada. Per acceptar la licéncia vos cal sasir "yes" sus l'ecran a apujar sus la tòca Entrée. Sasir "no", arresta l'installacion de l'extension.				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				13691	pa-IN	ਉੱਤੇ ਵੇਖਾਇਆ ਪੂਰਾ ਲਾਇਸੈਂਸ ਇਕਰਾਰਨਾਮਾ ਪੜ੍ਹੋ। ਕਨਸੋਂਲ ਉੱਤੇ "yes" ਲਿਖਣ ਅਤੇ Return ਸਵਿੱਚ ਦਬਾ ਕੇ ਲਾਇਸੈਂਸ ਇਕਰਾਰਨਾਮੇ ਨਾਲ ਸਹਿਮਤੀ ਪਰਗਟ ਕਰੋ। "no" ਨੂੰ ਇਨਕਾਰ ਕਰਨ ਅਤੇ ਐਕਸ਼ਟੈਂਸ਼ਨ ਸੈੱਟਅੱਪ ਬੰਦ ਕਰਨ ਲਈ ਵਰਤੋਂ।				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				0	pl	Zapoznaj się z wyświetloną powyżej treścią Licencji. Zaakceptuj licencję, wpisując w konsoli słowo "tak", a następnie naciśnij klawisz Return. Aby odrzucić licencję i przerwać instalację rozszerzenia, wpisz słowo "nie".				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				0	pt	Leia na íntegra o Contrato de Licença apresentado acima. Aceite o Contrato de Licença escrevendo "sim" na consola e, em seguida, prima a tecla Regressar. Escreva "não" para recusar e cancelar a configuração da extensão.				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				0	pt-BR	Leia o contrato de licença completo exibido abaixo. Para aceitar o contrato de licença, digite "sim" no console e pressione a tecla Enter. Digite "não" para recusar e cancelar a instalação da extensão.				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				0	ru	Прочитайте лицензионное соглашение выше. Введите "yes" для принятия лицензионного соглашения и нажмите Return. Ведите "no" для отклонения и выхода из установки расширения.				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				0	rw	Soma Amasezerano igenga imikoreshereze yose ahabanza. Emera ayo masezerano ugerageza "yego" kuri konsole maze ukande buto ya Gusubirayo. Andika "oya" kugira ngo wange kandi unahagarike imikorere y'umugereka.				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				0	sh	Pročitajte celokupan priloženi ugovor o licenci. Za prihvatanje ugovora o licenci ukucajte „yes“ u terminalu i pritisnite taster Enter. Za odbacivanje ugovora ukucajte „no“ kako bi napustili instalaciju dodatka.				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				0	sk	Prečítajte si celú hore zobrazenú Licenčnú zmluvu. Prijmite Licenčnú zmluvu napísaním "yes" v konzole a stlačením klávesy Return. Pre odmietnutie a prerušenie nastavenia rozšírenia napíšte "no".				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				0	sl	Preberite celotno licenčno pogodbo, prikazano zgoraj. Sprejmite pogoje licenčne pogodbe z vnosom "yes" in pritiskom na tipko Enter. Vnesite "no", da zavrnete pogoje licenčne pogodbe in prekinete namestitev razširitve.				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				0	sr	Прочитајте целокупан приложени уговор о лиценци. За прихватање уговора о лиценци укуцајте „yes“ у терминалу и притисните тастер Enter. За одбацивање уговора укуцајте „no“ како би напустили инсталацију додатка.				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				1	sa-IN	उपरि प्रदर्शितं सम्पूर्णम् अनुज्ञापत्रानुबन्धं पठ । कंसोले "yes" टंकित्वा अनुबन्धं स्वीकुरु ततः विवर्तन कुञ्चिकां नोदय । अस्वीकर्तुं, विस्तारस्थापनं च मोचयितुं "no" टंकय ।				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				38219	sh	Pročitajte celokupan priloženi Ugovor o licenciranju. Za prihvatanje Ugovora o licenciranju ukucajte „yes“ u terminalu i pritisnite taster Enter. Za odbacivanje Ugovora ukucajte „no“ kako bi napustili instaliranje dodatka.				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				1	sk	Prečítajte si celú hore zobrazenú Licenčnú zmluvu. Prijmite Licenčnú zmluvu napísaním "yes" v konzole a stlačením klávesy Return. Pre odmietnutie a prerušenie nastavenia rozšírenia napíšte "no".				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				13691	sl	Preberite celotno licenčno pogodbo, prikazano zgoraj. Sprejmite pogoje licenčne pogodbe z vnosom "yes" in pritiskom na tipko Enter. Vnesite "no", da zavrnete pogoje licenčne pogodbe in prekinete namestitev razširitve.				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				38219	sr	Прочитајте целокупан приложени Уговор о лиценцирању. За прихватање Уговора о лиценцирању укуцајте „yes“ у терминалу и притисните тастер Enter. За одбацивање Уговора укуцајте „no“ како би напустили инсталирање додатка.				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				0	sv	Läs det fullständiga licensavtalet ovan. Godkänn licensavtalet genom att skriva "ja" i konsollen och trycka på enter. Skriv "nej" om du inte godkänner licensavtalet och vill avbryta installationen.				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				0	ta	Read the complete License Agreement displayed above. Accept the License Agreement by typing "yes" on the console then press the Return key. Type "no" to decline and to abort the extension setup.				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				13691	ta	மேலே காட்டப்படும் முழு உரிம ஒப்பந்தத்தையும் படி. உரிம ஒப்பந்தத்தை ஏற்றுக்கொள்ள் "சரி" என்று தட்டி Return விசையை அழுத்தவும். மறுத்து நீட்சி அமைப்பிலிருந்து வெளியேர, "வேண்டாம்" எனத் தட்டுக.				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				13691	te-IN	పైన ప్రదర్శించబడిన లైసెన్సు వొప్పందమును పూర్తిగా చదువుము. లైసెన్సు వొప్పందమును ఆమోదించుటకు కన్సోలుపైన "yes" టైపుచేసి తరువాత రిటర్న్ కీను వత్తుము. పొడిగింపు అమర్పును మానుకొని దానిని నిష్ప్రయోజనం చేయుటకు "no" టైపుచేయండి.				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				0	tg	Шартномаи литсензионии дар болобударо ба пуррагӣ хонед. Шартномаи литсензиониро бо навиштани "yes" дар консол ва пахшкунии калиди Return қабул кунед. "no"-ро нависед ва васлкунӣ хотима меёбад.				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				0	tr	Aşağıda gösterilen Lisans Anlaşmasının tamamını okuyun. Lisans Anlaşmasını kabul etmek için "evet" düğmesine basın. Kabul etmek istemiyorsanız "hayır" düğmesine basarak eklenti kurulumdan çıkabilirsiniz.				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				0	uk	Прочитайте ліцензійну угоду вище. Введіть "yes", щоб прийняти умови ліцензійної угоди та натисніть Return. Ведіть "no" для відхилення та виходу з встановлення розширення.				2002-02-02 02:02:02
@@ -179,53 +226,68 @@ desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				0	vi	Đọc mọi điều kiện giấy phép được hiển thị ở trên. Chấp nhận các điều kiện này bằng cách gõ « có » bằng bàn giao tiếp, sau đó bấm phím « Return ». Còn gõ « không » để từ chối và hủy bỏ tiến trình thiết lập phần mở rộng này.				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				0	zh-CN	阅读上面显示的完整许可协议。在控制台上键入“是”接受许可协议，然后按 Return 键。键入“否”可拒绝并终止安装扩展软件。				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_2				0	zh-TW	請閱讀以上所顯示的完整授權合約。在主控台鍵入 [是] 接受授權合約，然後按 [Return] 鍵。鍵入 [否] 拒絕授權合約並中斷擴充軟體的安裝。				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				0	ar	[أدخل "نعم" or "لا"]:				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				0	be-BY	[Увядзіце "так" ці "не"]:				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				0	ar	[أدخل "نعم" أو "لا"]:				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				13691	as-IN	["হয়" বা "নহয়" লিখক]:				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				13691	be-BY	[Увядзіце "так" ці "не"]:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				0	bg	[въведете "да" или "не"]:				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				13691	bn	["হ্যাঁ" বা "না" প্রবেশ করান]:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				0	br	[Dibabit "ya" pe "ket"]:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				0	ca	[Introduïu "si" o "no"]:				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				0	cs	[Zadejte "yes" nebo "no"]:				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				13691	cs	[Zadejte "yes" nebo "no"]:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				0	cy	[Enter "yes" or "no"]:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				1	da	[Indtast "Ja" eller "Nej"]:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				0	de	["Ja" oder "Nein" eingeben]:				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				1	dgo	[घालात "yes" वा "no"]:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				13691	dz	[Enter "yes" or "no"]:				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				0	el	[Εισάγετε "yes" ή "no"]:				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				0	en-GB	[Enter "yes" or "no"]:				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				13691	el	[Εισάγετε "yes" ή "no"]:				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				13691	en-GB	[Enter "yes" or "no"]:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				1	eo	[Entajpu "jes" aux "ne"]:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				0	es	[Escribir "sí" o "no"]:				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				0	et	[Sisesta "jah" või "ei"]:				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				13691	et	[Sisesta "jah" või "ei"]:				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				13691	eu	[Idatzi"bai" edo "ez"]:				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				1	fi	[Kirjoita "kyllä" tai "ei"]:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				0	fr	[Saisissez "oui" ou "non"] :				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				13691	ga	[Iontráil "tá" nó "níl"]:				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				0	gl	[Introduza "si" ou "non"]:				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				13691	gl	[Introduza "si" ou "non"]:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				0	gu	["yes" અથવા "no" દાખલ કરો]:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				0	he	נא להקיש ‏‪yes‬‏ אן ‏‪no‬‏.				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				13691	hi-IN	["हां" या "नहीं" दाखिल करें]:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				0	hr	[Upišite "da" ili "ne"]:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				0	hu	[Írja be: "igen" vagy "nem"]:				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				0	id	[Masukkan "ya" atau "tidak"]:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				0	it	[Digitate "sì" o "no"]:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				0	ja	["yes" または "no" を入力]:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				0	ka	[აკრიფეთ "yes" ან "no"]:				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				0	km	[បញ្ចូល "yes" ឬ "no"]:				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				0	ko	["예" 또는 "아니오" 입력]:				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				13691	km	[បញ្ចូល "yes" ឬ "no"]:				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				13691	kn-IN	["yes" ಅಥವ "no" ಅನ್ನು ನಮೂದಿಸಿ]:				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				0	ko	["예" 또는 "아니요" 입력]:				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				1	kok	[घालात "yes" वा "no"]:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				0	ku	["yes" an "no" binivîse]:				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				0	lt	[Įveskite „taip“ arba „ne“]:				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				0	mk	[Внесете „yes“ или „no“]:				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				13691	lt	[Įveskite „taip“ arba „ne“]:				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				13691	mk	[Внесете „yes“ или „no“]:				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				13691	ml-IN	["yes" അല്ലെങ്കില്‍ "no" നല്‍കുക]:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				0	mn	["тийм" эсвэл "үгүй" оруулна уу]:				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				1	mni	[চংশিল্লো "হোয়" নত্রগা "নত্তে"]:				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				13691	mr-IN	[  "हो" किंवा "नाही" घाला]:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				0	nb	[Skriv «ja» eller «nei»]:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				0	ne	["हो" वा "होइन" प्रविष्ट गर्नुहोस्]:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				0	nl	[Voer 'ja' of 'nee' in]:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				0	nn	[Skriv «ja» eller «nei»]:				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				0	pa-IN	["yes" ਜਾਂ "no" ਲਿਖੋ]:				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				0	oc	[Dintratz "yes" o "no"]:				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				13691	pa-IN	["yes" ਜਾਂ "no" ਲਿਖੋ]:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				0	pl	[Wprowadź słowo "tak" lub "nie"]:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				0	pt	[Introduza "sim" ou "não"]:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				0	pt-BR	[Digite "sim" ou "não"]:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				0	ru	[Введите "yes" или "no"]:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				0	rw	[Injiza "yego" cyangwa "oya"]:				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				0	sh	[Unesite „yes“ ili „no“]:				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				0	sk	[Zadajte "yes" alebo "no"]:				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				0	sl	[Vnesite "yes" ali "no"]:				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				0	sr	[Унесите „yes“ или „no“]:				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				1	sa-IN	["आम्" अथवा "न" प्रवेशय]:				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				38219	sh	[Unesite „yes“ ili „no“]:				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				1	sk	[Zadajte "yes" alebo "no"]:				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				13691	sl	[Vnesite "yes" ali "no"]:				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				38219	sr	[Унесите „yes“ или „no“]:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				0	sv	[Ange "ja" eller "nej"]:				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				0	ta	[Enter "yes" or "no"]:				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				13691	ta	["சரி" அல்லது "வேண்டாம்" என உள்ளிடு]:				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				13691	te-IN	["yes" లేదా "no" ప్రవేశపెట్టండి]:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				0	tg	["ҳа" ё "не"-ро дохил кунед]:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				0	tr	["evet" ya da "hayır" girin]:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				0	uk	[Введіть "yes" чи "no"]:				2002-02-02 02:02:02
@@ -233,53 +295,68 @@ desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				0	vi	[Nhập « có » hoặc « không »]:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				0	zh-CN	[输入“是”或“否”]:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_3				0	zh-TW	[輸入「是」或「否」]:				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				0	ar	ما أدخلته غير صحيح. رجاءً أدخل "نعم" or "لا":				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				0	be-BY	Няправільны ўпіс. Упішыце або "так", або "не":				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				0	ar	البيانات التي أدخلتها غير صحيحة. الرجاء إدخال "نعم" أو "لا":				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				13691	as-IN	আপোনাৰ নিবেশ ভুল । অনুগ্ৰহ কৰি "হয়" বা "নহয়" টিপক:				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				13691	be-BY	Няправільны ўпіс. Упішыце або "так", або "не":				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				0	bg	Въведената стойност е некоректна. Моля, въведете "да" или "не":				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				13691	bn	আপনার ইনপুট সঠিক ছিল না। অনুগ্রহ করে "হ্যাঁ" বা "না" প্রবেশ করান:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				0	br	Ne oa ket reizh ar pezh ho peus skrivet. Trugarez da skrivañ "ya" pe "ket" :				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				0	ca	No heu introduït una opció correcta. Si us plau, introduïu "si" o "no":				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				0	cs	Nesprávný vstup. Zadejte, prosím, "yes" nebo "no":				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				13691	cs	Nesprávný vstup. Zadejte, prosím, "yes" nebo "no":				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				0	cy	Your input was not correct. Please enter "yes" or "no":				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				1	da	Din indtastning var ikke korrekt. Indtast "Ja" eller "Nej":				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				0	de	Ihre Eingabe war nicht korrekt. Bitte geben Sie entweder "Ja" oder "Nein" ein:				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				1	dgo	तुमचे आदान चुकीचे आशिल्ले. उपकार करून घालात "yes" or "no":				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				13691	dz	Your input was not correct. Please enter "yes" or "no":				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				0	el	Δεν ήταν σωστή η πληκτρολόγηση σας. Παρακαλώ εισάγετε "yes" ή "no":				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				0	en-GB	Your input was not correct. Please enter "yes" or "no":				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				13691	el	Δεν ήταν σωστή η πληκτρολόγηση σας. Παρακαλώ εισάγετε "yes" ή "no":				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				13691	en-GB	Your input was not correct. Please enter "yes" or "no":				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				1	eo	Via entajpajxo estis malgxusta. Bonvolu tajpi "jes" aux "ne":				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				0	es	La entrada es incorrecta. Escriba "sí" o "no":				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				0	et	Sisestus ei olnud korrektne. Palun sisesta "jah" või "ei":				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				13691	et	Sisestus ei olnud korrektne. Palun sisesta "jah" või "ei":				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				13691	eu	Sarrera ez da zuzena. Idatz i"bai" edo "ez":				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				1	fi	Virheellinen syöte. Kirjoita "kyllä" tai "ei":				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				0	fr	Erreur de saisie. Veuillez saisir "oui" ou "non" :				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				13691	ga	Ní raibh do chuid ionchuir ceart. Iontráil "tá" nó "níl" le do thoil:				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				0	gl	A túa entrada non é correcta.Introduza "si" ou "non":				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				13691	gl	A súa entrada non é correcta.Introduza "si" ou "non":				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				0	gu	તમારું ઈનપુટ સાચું હતું નહિં. મહેરબાની કરીને "yes" અથવા "no" દાખલ કરો:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				0	he	נא להקיש ‏‪yes‬‏ או ‏‪no‬‏/				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				13691	hi-IN	आपका इनपुट सही नहीं था. कृपया "हां" या "नहीं" दाखिल करें:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				0	hr	Vaš upis nije ispravna. Molim, upišite "da" ili "ne":				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				0	hu	Helytelen válasz. Írja be: "igen" vagy "nem":				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				0	id	Input Anda tidak benar. Harap masukkan "ya" atau "tidak":				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				0	it	Il testo inserito non è corretto. Digitate "sì" o "no":				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				0	ja	入力が正しくありません。"yes" または "no" を入力してください:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				0	ka	თქვეს მიერ შეყვანილი მონაცემები არასწორია. გთხოვთ, შეიყვანოთ "yes" ან "no":				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				0	km	ព័ត៌មាន​បញ្ចូល​របស់អ្នក​គឺ មិនត្រឹមត្រូវទេ ។ សូមបញ្ចូល "yes" ឬ "no" ៖				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				0	ko	입력한 내용이 올바르지 않습니다. "예" 또는 "아니오" 입력:				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				13691	km	ព័ត៌មាន​បញ្ចូល​របស់អ្នក​គឺ មិនត្រឹមត្រូវទេ ។ សូមបញ្ចូល "yes" ឬ "no" ៖				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				13691	kn-IN	ನೀವು ನಮೂದಿಸಿದ್ದು ಸರಿ ಇಲ್ಲ. ದಯವಿಟ್ಟು "yes" ಅಥವ "no" ಅನ್ನು ನಮೂದಿಸಿ:				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				0	ko	입력한 내용이 올바르지 않습니다. "예" 또는 "아니요" 입력:				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				1	kok	तुमचे आदान चुकीचे आशिल्ले. उपकार करून घालात "yes" or "no":				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				0	ku	Têketina te ne rast bû. Ji kerema xwe re "yes" an "no" binivîse:				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				0	lt	Įvestas neteisingas žodis. Įveskite „taip“ arba „ne“:				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				0	mk	Вашиот внес не е правилен. Внесете „yes“ или „no“:				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				13691	lt	Įvestas neteisingas žodis. Įveskite „taip“ arba „ne“:				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				13691	mk	Вашиот внес не е правилен. Внесете „yes“ или „no“:				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				13691	ml-IN	നിങ്ങളുടെ മറുപടി ശരിയല്ല. ദയവായി "yes" അല്ലെങ്കില്‍ "no" നല്‍കുക:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				0	mn	Таны оруулалт буруу байна. "тийм" эсвэл "үгүй" оруулна уу:				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				1	mni	অদোমগী ইনপুত অদু চুমদ্রে. চানবিদুনা "হোয়" নত্রগা "নত্তে" চংশিনবিয়ু:				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				13691	mr-IN	आपले आत घातलेले बरोबर नव्हते. कृपया "हो" किवा "नाही" घाला:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				0	nb	Du skrev noe feil. Skriv «ja» eller «nei»:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				0	ne	तपाईँको आगत सही छैन । कृपया "हो" वा "होइन" प्रविष्ट गर्नुहोस्:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				0	nl	Uw invoer was niet juist. Voer 'ja' of 'nee' in:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				0	nn	Du skreiv noko feil. Skriv «ja» eller «nei»:				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				0	pa-IN	ਤੁਸੀਂ ਗਲਤ ਲਿਖਿਆ ਹੈ। ਸਿਰਫ਼ "yes" ਜਾਂ "no" ਹੀ ਲਿਖੋ:				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				0	oc	Vòstra sasida es pas corrècta. Se vos plai, sasissètz "yes" o "no":				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				13691	pa-IN	ਤੁਸੀਂ ਗਲਤ ਲਿਖਿਆ ਹੈ। ਸਿਰਫ਼ "yes" ਜਾਂ "no" ਹੀ ਲਿਖੋ:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				0	pl	Wprowadzono nieprawidłowe słowo. Proszę wprowadzić słowo "tak" lub "nie":				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				0	pt	A entrada não estava correcta. Introduza "sim" ou "não":				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				0	pt-BR	A entrada é incorreta. Digite "sim" ou "não":				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				0	ru	Ввод некорректен. Введите "yes" или "no":				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				0	rw	Ibyo winjijemo ntabwo byari byo. Usabwe kwinjiza "yego" cyangwa "oya":				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				0	sh	Vaš unos nije korektan unesite „yes“ ili „no“:				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				0	sk	Váš vstup nebol správny. Prosím zadajte "yes" alebo "no":				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				0	sl	Vnos ni pravilen. Vnesite "yes" ali "no":				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				0	sr	Ваш унос није коректан унесите „yes“ или „no“:				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				1	sa-IN	भवतः निवेशः उचितः नासीत् । कृपया "आम्" अथवा "न" प्रवेशय :				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				38219	sh	Vaš unos nije korektan unesite „yes“ (da) ili „no“ (ne):				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				1	sk	Váš vstup nebol správny. Prosím zadajte "yes" alebo "no":				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				13691	sl	Vnos ni pravilen. Vnesite "yes" ali "no":				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				38219	sr	Ваш унос није коректан унесите „yes“ (да) или „no“ (не):				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				0	sv	Felaktig inmatning. Ange "ja" eller "nej":				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				0	ta	Your input was not correct. Please enter "yes" or "no":				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				13691	ta	உங்கள் உள்ளீடு சரியில்லை. "சரி" அல்லது "வேண்டாம்" என உள்ளிடுக:				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				13691	te-IN	మీ యిన్పుట్ సరైనది కాదు. దయచేసి "yes" లేదా "no" ప్రవేశపెట్టండి:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				0	tg	Дохилкунии шумо ғалат аст. "ҳа" ё "не"-ро дохил кунед:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				0	tr	Girişiniz yanlış. Lütfen "evet" ya da "hayır" girin:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				0	uk	Ввід некоректний. Введіть "yes" чи "no":				2002-02-02 02:02:02
@@ -288,52 +365,67 @@ desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				0	zh-CN	输入错误。请输入“是”或“否”:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_4				0	zh-TW	您的輸入不正確。請輸入「是」或「否」:				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				0	ar	ل				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				0	be-BY	Н				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				13691	as-IN	N				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				13691	be-BY	Н				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				0	bg	Н				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				13691	bn	N				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				0	br	K				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				0	ca	N				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				0	cs	N				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				13691	cs	N				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				0	cy	N				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				1	da	N				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				0	de	N				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				1	dgo	N				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				13691	dz	N				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				0	el	N				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				0	en-GB	N				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				13691	el	N				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				13691	en-GB	N				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				1	eo	N				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				0	es	N				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				0	et	E				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				13691	et	E				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				13691	eu	E				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				1	fi	E				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				0	fr	N				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				13691	ga	N				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				0	gl	N				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				13691	gl	N				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				0	gu	N				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				0	he	N				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				13691	hi-IN	N				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				0	hr	N				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				0	hu	N				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				0	id	T				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				0	it	N				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				0	ja	N				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				0	ka	ა				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				0	km	N				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				13691	km	N				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				13691	kn-IN	N				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				0	ko	N				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				1	kok	N				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				0	ku	N!				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				0	lt	N				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				0	mk	N				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				13691	lt	N				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				13691	mk	N				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				13691	ml-IN	N				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				0	mn	Ү				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				1	mni	N				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				13691	mr-IN	N				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				0	nb	N				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				0	ne	N				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				0	nl	N				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				0	nn	N				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				0	pa-IN	N				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				0	oc	N				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				13691	pa-IN	N				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				0	pl	N				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				0	pt	N				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				0	pt-BR	N				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				0	ru	N				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				0	rw	N				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				0	sh	N za NE				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				0	sk	N				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				0	sl	N				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				0	sr	N за НЕ				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				1	sa-IN	N				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				38219	sh	N za NE				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				1	sk	N				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				13691	sl	N				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				38219	sr	N за НЕ				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				0	sv	N				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				0	ta	N				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				13691	ta	N				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				13691	te-IN	N				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				0	tg	Н				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				0	tr	H				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				0	uk	N				2002-02-02 02:02:02
@@ -342,52 +434,67 @@ desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				0	zh-CN	N				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N				0	zh-TW	N				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				0	ar	لا				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				0	be-BY	НЕ				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				13691	as-IN	নহয়				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				13691	be-BY	НЕ				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				0	bg	НЕ				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				13691	bn	না				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				0	br	KET				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				0	ca	NO				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				0	cs	NO				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				13691	cs	NO				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				0	cy	NO				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				1	da	NEJ				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				0	de	NEIN				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				1	dgo	NO				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				13691	dz	NO				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				0	el	NO				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				0	en-GB	NO				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				13691	el	NO				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				13691	en-GB	NO				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				1	eo	Ne				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				0	es	NO				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				0	et	EI				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				13691	et	EI				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				13691	eu	EZ				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				1	fi	EI				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				0	fr	NON				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				13691	ga	NÍL				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				0	gl	NON				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				13691	gl	NON				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				0	gu	NO				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				0	he	NO				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				13691	hi-IN	नहीं				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				0	hr	NE				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				0	hu	NEM				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				0	id	TIDAK				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				0	it	NO				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				0	ja	NO				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				0	ka	NO				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				0	km	NO				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				0	ko	아니오				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				13691	km	NO				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				13691	kn-IN	ಇಲ್ಲ				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				0	ko	아니요				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				1	kok	NO				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				0	ku	NA				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				0	lt	NE				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				0	mk	NO				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				13691	lt	NE				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				13691	mk	NO				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				13691	ml-IN	NO				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				0	mn	ҮГҮЙ				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				1	mni	নত্তে				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				13691	mr-IN	NO				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				0	nb	NEI				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				0	ne	होइन				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				0	nl	NEE				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				0	nn	NEI				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				0	pa-IN	NO				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				0	oc	NON				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				13691	pa-IN	NO				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				0	pl	NIE				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				0	pt	NÃO				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				0	pt-BR	NÃO				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				0	ru	NO				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				0	rw	OYA				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				0	sh	NE				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				0	sk	NO				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				0	sl	NO				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				0	sr	НЕ				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				1	sa-IN	NO				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				38219	sh	NE				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				1	sk	NO				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				13691	sl	NO				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				38219	sr	НЕ				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				0	sv	NEJ				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				0	ta	NO				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				13691	ta	வேண்டாம்				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				13691	te-IN	NO				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				0	tg	НЕ				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				0	tr	HAYIR				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				0	uk	NO				2002-02-02 02:02:02
@@ -396,52 +503,67 @@ desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_N
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				0	zh-CN	否				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_NO				0	zh-TW	否				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				0	ar	ن				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				0	be-BY	Т				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				13691	as-IN	Y				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				13691	be-BY	Т				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				0	bg	Д				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				13691	bn	Y				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				0	br	Y				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				0	ca	S				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				0	cs	Y				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				13691	cs	Y				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				0	cy	Y				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				1	da	J				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				0	de	J				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				1	dgo	Y				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				13691	dz	Y				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				0	el	Y				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				0	en-GB	Y				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				13691	el	Y				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				13691	en-GB	Y				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				1	eo	J				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				0	es	S				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				0	et	J				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				13691	et	J				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				13691	eu	B				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				1	fi	K				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				0	fr	O				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				13691	ga	T				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				0	gl	Y				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				13691	gl	Y				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				0	gu	Y				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				0	he	Y				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				13691	hi-IN	Y				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				0	hr	D				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				0	hu	I				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				0	id	Y				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				0	it	S				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				0	ja	Y				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				0	ka	დ				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				0	km	Y				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				13691	km	Y				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				13691	kn-IN	Y				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				0	ko	Y				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				1	kok	Y				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				0	ku	Y!				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				0	lt	T				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				0	mk	Y				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				13691	lt	T				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				13691	mk	Y				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				13691	ml-IN	Y				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				0	mn	Т				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				1	mni	Y				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				13691	mr-IN	Y				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				0	nb	J				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				0	ne	Y				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				0	nl	J				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				0	nn	J				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				0	pa-IN	Y				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				0	oc	Ò				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				13691	pa-IN	Y				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				0	pl	T				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				0	pt	S				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				0	pt-BR	S				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				0	ru	Y				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				0	rw	Y				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				0	sh	Y za DA				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				0	sk	Y				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				0	sl	Y				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				0	sr	Y за ДА				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				1	sa-IN	Y				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				38219	sh	Y za DA				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				1	sk	Y				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				13691	sl	Y				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				38219	sr	Y за ДА				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				0	sv	J				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				0	ta	Y				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				13691	ta	Y				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				13691	te-IN	వై				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				0	tg	Ҳ				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				0	tr	E				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				0	uk	Y				2002-02-02 02:02:02
@@ -450,52 +572,67 @@ desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				0	zh-CN	Y				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y				0	zh-TW	Y				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				0	ar	نعم				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				0	be-BY	ТАК				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				13691	as-IN	হয়				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				13691	be-BY	ТАК				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				0	bg	ДА				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				13691	bn	হ্যাঁ				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				0	br	YA				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				0	ca	SI				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				0	cs	YES				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				13691	cs	YES				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				0	cy	YES				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				1	da	JA				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				0	de	JA				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				1	dgo	YES				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				13691	dz	YES				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				0	el	YES				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				0	en-GB	YES				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				13691	el	YES				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				13691	en-GB	YES				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				1	eo	Jes				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				0	es	SÍ				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				0	et	JAH				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				13691	et	JAH				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				13691	eu	BAI				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				1	fi	KYLLÄ				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				0	fr	OUI				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				13691	ga	TÁ				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				0	gl	SI				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				13691	gl	SI				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				0	gu	YES				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				0	he	YES				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				13691	hi-IN	हाँ				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				0	hr	DA				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				0	hu	IGEN				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				0	id	YA				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				0	it	SÌ				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				0	ja	YES				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				0	ka	YES				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				0	km	YES				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				13691	km	YES				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				13691	kn-IN	ಹೌದು				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				0	ko	예				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				1	kok	YES				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				0	ku	ERÊ				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				0	lt	TAIP				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				0	mk	YES				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				13691	lt	TAIP				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				13691	mk	YES				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				13691	ml-IN	YES				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				0	mn	ТИЙМ				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				1	mni	হোয়				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				13691	mr-IN	YES				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				0	nb	JA				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				0	ne	हो				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				0	nl	JA				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				0	nn	JA				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				0	pa-IN	YES				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				0	oc	ÒC				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				13691	pa-IN	YES				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				0	pl	TAK				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				0	pt	SIM				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				0	pt-BR	SIM				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				0	ru	YES				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				0	rw	YEGO				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				0	sh	DA				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				0	sk	YES				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				0	sl	YES				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				0	sr	ДА				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				1	sa-IN	YES				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				38219	sh	DA				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				1	sk	YES				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				13691	sl	YES				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				38219	sr	ДА				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				0	sv	JA				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				0	ta	YES				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				13691	ta	சரி				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				13691	te-IN	YES				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				0	tg	ҲА				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				0	tr	EVET				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				0	uk	YES				2002-02-02 02:02:02
@@ -503,52 +640,64 @@ desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_Y
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				0	vi	CÓ				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				0	zh-CN	是				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_ACCEPT_LIC_YES				0	zh-TW	是				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				0	ar	لا يمكن استخدام الخيار "--shared" لتثبيت الامتداد \'%NAME\'، لأن كل مستخدم يجب أن يقبل اتفاقية الترخيص الخاصة به. لن يتم تثبيت هذا الامتداد.				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				0	be-BY	Немагчыма ўстанаўляць дадатак %NAME з параметрам "--shared", таму што кожны карыстальнік мусіць асабіста згаджацца з ліцэнзійным пагадненнем дадатку. Дадатак не будзе ўстаноўлены.				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				0	ar	لا يمكن استخدام الخيار "--مشترك" لتثبيت الامتداد \'%NAME\'، لأن كل المستخدمين يجب أن يقبلوا اتفاقية الترخيص الخاصة بهم. ونتيجة لذلك، لن يتم تثبيت الامتداد.				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				13691	as-IN	"--shared" বিকল্পক \'%NAME\' সম্প্ৰসাৰণ সংস্থাপন কৰিবলৈ ব্যৱহাৰ কৰিব নোৱাৰি, কাৰণ প্ৰত্যেক ব্যৱহাৰকৰোঁতাই সম্প্ৰসাৰণৰ অনুজ্ঞাচুক্তি মানিব লাগিব । সম্প্ৰসাৰণ সংস্থাপিত নহয় ।				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				13691	be-BY	Немагчыма ўстанаўляць прыстаўку %NAME з параметрам "--shared", таму што кожны карыстальнік мусіць асабіста згаджацца з ліцэнзійным пагадненнем прыстаўкі. Прыстаўка не будзе ўстаноўленая.				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				0	bg	Опцията "--shared" не може да бъде използвана за инсталирането на разширението "%NAME", защото всеки потребител трябва да се съгласи с лицензионното споразумение за разширението. Разширението няма да бъде инсталирано.				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				13691	bn	 \'%NAME\' বর্ধিতাংশটি সংস্থাপন করতে "--শেয়ারকৃত" পছন্দটি ব্যবহার করা যায় না, কারণ প্রত্যেক ব্যবহারকারীকে লাইসেন্স চুক্তির সাথে একমত হতে হবে। বর্ধিতাংশটি সংস্থাপিত হবে না। 				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				0	br	N'hall ket bezañ implijet an dibarzh "--shared" a-benn staliañ an askouezhadenn %NAME, abalamour m'eo ret d'an holl arvediaded asantiñ ouzh kevrat aotre an askouezhadenn. Ne vo ket staliet an askouezhadenn.				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				0	ca	L'opció "--shared" no es pot fer servir per a instal·lar l'extensió "%NAME", perquè cada usuari ha d'acceptar l'acord de llicència de l'extensió. L'extensió no s'instal·larà.				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				0	cs	Parametr  "--shared" nelze použít pro instalaci rozšíření \'%NAME\', protože s licenčním ujednáním rozšíření musí souhlasit každý uživatel. Rozšíření nebude nainstalováno.				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				13691	cs	Parametr  "--shared" nelze použít pro instalaci rozšíření \'%NAME\', protože s licenčním ujednáním rozšíření musí souhlasit každý uživatel. Rozšíření nebude nainstalováno.				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				0	cy	The option "--shared" cannot be used to install the extension %NAME, because every user has to agree to the license agreement of the extension. The extension will not be installed.				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				1	da	Indstillingen "--shared" kan ikke bruges til at installere udvidelsen \'%NAME\', fordi alle brugere skal acceptere licensaftalen for udvidelsen. Udvidelsen vil ikke blive installeret.				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				0	de	Die Option "--shared" kann nicht verwendet werden, um die Extension \'%NAME\' zu installieren, da jeder Anwender der Lizenz der Extension zustimmen muss. Die Extension wird nicht installiert.				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				13691	dz	The option "--shared" cannot be used to install the extension %NAME, because every user has to agree to the license agreement of the extension. The extension will not be installed.				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				0	el	Η επιλογή "--shared" δεν μπορεί να χρησιμοποιηθεί για την εγκατάσταση της επέκτασης \'%NAME\', διότι θα πρέπει να συμφωνήσουν όλοι οι χρήστες με την άδεια χρήσης. Η επέκταση δεν θα εγκατασταθεί.				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				752	en-GB	The option "--shared" cannot be used to install the extension \'%NAME\', because every user has to agree to the license agreement of the extension. The extension will not be installed.				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				13691	el	Η επιλογή "--shared" δεν μπορεί να χρησιμοποιηθεί για την εγκατάσταση της επέκτασης \'%NAME\', διότι θα πρέπει να συμφωνήσουν όλοι οι χρήστες με την άδεια χρήσης. Η επέκταση δεν θα εγκατασταθεί.				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				13691	en-GB	The option "--shared" cannot be used to install the extension \'%NAME\', because every user must agree to the licence agreement of the extension. The extension will not be installed.				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				1	eo	La atributo "--shared" (dividita) ne estas uzebla por instali la aldonajxon \'%NAME\', cxar cxiu uzanto devas akcepti la permesilon de la aldonajxo. Ne instalos la aldonajxon.				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				0	es	La opción "--shared" no puede ser usada para instalar la extención \'%NAME\', por que cada usuario debe aceptar a la licencia de la extensión. La extensión no será instalada.				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				0	et	Võtit "--shared" ei saa paketi \'%NAME\' paigaldamiseks kasutada, kuna iga kasutaja peab laienduse litsentsilepinguga nõustuma. Laiendust ei paigaldata.				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				13691	et	Võtit "--shared" ei saa paketi \'%NAME\' paigaldamiseks kasutada, kuna iga kasutaja peab laienduse litsentsilepinguga nõustuma. Laiendust ei paigaldata.				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				13691	eu	"--shared" aukera ezin da \'%NAME\' hedapenarekin erabili, erabiltzaile bakoitzak hedapenaren lizentzia adostu behar duelako. Hedapena ez da instalatuko.				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				1	fi	Valitsinta "--shared" ei voi käyttää lisäosan \'%NAME\' asentamiseen, koska jokaisen käyttäjän on hyväksyttävä lisäosan lisenssisopimus. Lisäosaa ei asenneta.				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				0	fr	L'option "--shared" ne peut pas être utilisée pour installer l'extension \'%NAME\', car tous les utilisateurs doivent accepter le contrat de licence de l'extension. L'extension ne sera pas installée.				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				13691	ga	Ní féidir an rogha "--shared" a úsáid chun an eisínteacht %NAME a shuiteáil toisc go gcaithfidh gach úsáideoir glacadh le comhaontú ceadúnais na heisínteachta. Ní shuiteálfar an eisínteacht.				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				0	gl	Non é posible utilizar a opción  "--shared" para instalar a extensión \'%NAME\' porque teñen que aceptar o acordo de licenza todos os usuarios. A extensión non se instalará.				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				13691	gl	Non é posíbel utilizar a opción  "--shared" para instalar a extensión \'%NAME\' porque teñen que aceptar o acordo de licenza todos os usuarios. A extensión non se instalará.				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				0	gu	વિકલ્પ "--shared" એક્સટેન્સન \'%NAME\' સ્થાપિત કરવા માટે વાપરી શકાશે નહિં, કારણ કે દરેક વપરાશકર્તાએ એક્સટેન્સનના લાઈસન્સ મંજૂરીપત્ર સાથે સંમત થવું જ પડે. નહિંતર એક્સટેન્સન સ્થાપિત થશે નહિં.				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				13691	he	הדגל ‏‪"--shared"‬‏ אינו זמין להתקנת הרחבה ‏‪%NAME‬‏  כי כל משתמש חייב להסכים לתנאי הרישוי לבד. ההרחבה לא תותקן כעת.‏				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				13691	hi-IN	विकल्प "--shared" को विस्तार %NAME संस्थापित करने में प्रयोग नहीं किया जा सकता है, क्योंकि हर उपयोक्ता को विस्तार के लाइसेंस अनुबंध से सहमत होना पड़ता है. विस्तार संस्थापित नहीं किया जाएगा.				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				0	hr	Opcija "--shared" se ne može koristiti za instalaciju proširenja \'%NAME\', zato što se svaki korisnik mora složiti sa licencnim uvjetima navedenog proširenja. Proširenje se neće instalirati. 				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				0	hu	A(z) \'%NAME\' kiterjesztés nem telepíthető a "--shared" kapcsolóval, mert minden felhasználónak egyet kell értenie a kiterjesztés licencszerződésével. A kiterjesztés nem lesz telepítve.				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				0	id	Pilihan "--shared" tidak dapat dipakai untuk memasang ekstensi \'%NAME\', karena tiap pengguna harus setuju pada pernyataan lisensi ekstensi tersebut. Ekstensi tidak akan dipasang.				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				0	it	L'opzione "--shared" non può essere usata per installare l'estensione \'%NAME\', perché ogni utente deve acconsentire ai termini della licenza. L'estensione non verrà installata.				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				0	ja	すべてのユーザーがライセンス条項に同意する必要があるため、"--shared" オプションを使用して 「%NAME」拡張をインストールすることはできません。拡張機能はインストールされません。				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				0	ka	პარამეტრი  "--shared" არ შეიძლება გამოყენებულ იქნას  %NAME გაფართოების ინსტალაციისათვის, რადგან ყველა მომხმარებელი უნდა დაეთანხმოს სალიცენზიო შეთანხმებას ამ გაფართოების შესახებ. გაფართოება არ იქნება დაინსტალირებული.				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				0	km	ជម្រើស "--shared" មិនអាច​ប្រើ​ដើម្បី​ដំឡើង​ផ្នែក​បន្ថែម \'%NAME\' បាន​ទេ ព្រោះ​អ្នក​ប្រើ​ទាំងអស់​ត្រូវ​តែ​យល់ព្រម​នឹង​កិច្ច​ព្រមព្រៀង​អាជ្ញាបណ្ណ​របស់​ផ្នែក​បន្ថែម ។ ផ្នែក​បន្ថែម​នឹង​មិន​ត្រូវ​បាន​ដំឡើង​ឡើយ ។				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				13691	km	ជម្រើស "--shared" មិនអាច​ប្រើ​ដើម្បី​ដំឡើង​ផ្នែក​បន្ថែម \'%NAME\' បាន​ទេ ព្រោះ​អ្នក​ប្រើ​ទាំងអស់​ត្រូវ​តែ​យល់ព្រម​នឹង​កិច្ច​ព្រមព្រៀង​អាជ្ញាបណ្ណ​របស់​ផ្នែក​បន្ថែម ។ ផ្នែក​បន្ថែម​នឹង​មិន​ត្រូវ​បាន​ដំឡើង​ឡើយ ។				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				13691	kn-IN	ವಿಸ್ತರಣೆ \'%NAME\' ಅನ್ನು ಅನುಸ್ಥಾಪಿಸುವಾಗ ಆಯ್ಕೆ "--shared" ಅನ್ನು ಬಳಸುವಂತಿಲ್ಲ, ಏಕೆಂದರೆ ಪ್ರತಿಯೊಬ್ಬ ಬಳಕೆದಾರನೂ ವಿಸ್ತರಣೆಯ ಪರವಾನಗಿ ಒಪ್ಪಂದವನ್ನು ಒಪ್ಪಿಕೊಳ್ಳುವುದು ಅಗತ್ಯವಾಗಿರುತ್ತದೆ. ವಿಸ್ತರಣೆಯನ್ನು ಅನುಸ್ಥಾಪಿಸಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ.				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				0	ko	모든 사용자가 확장 사용권 계약에 동의해야 하므로 \'%NAME\' 확장을 설치하는 데 "--shared" 옵션을 사용할 수 없습니다. 확장이 설치되지 않습니다.				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				0	lt	Diegiant plėtinį „%NAME“ negalima naudoti parinkties „--shared“, nes kiekvienas naudotojas turi sutikti su plėtinio licencijos sutartimi. Plėtinys nebus įdiegtas.				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				0	mk	Опцијата "--shared" не може да се користи за инсталирање на проширувањето \'%NAME\', бидејќи секој корисник мора да се согласи со договорот за лиценца на проширувањето. Проширувањето нема да се инсталира.				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				13691	lt	Diegiant plėtinį „%NAME“ negalima naudoti parinkties „--shared“, nes kiekvienas naudotojas turi sutikti su plėtinio licencijos sutartimi. Plėtinys nebus įdiegtas.				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				13691	mk	Опцијата "--shared" не може да се користи за инсталирање на проширувањето \'%NAME\', бидејќи секој корисник мора да се согласи со договорот за лиценца на проширувањето. Проширувањето нема да се инсталира.				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				13691	ml-IN	\'%NAME\' എന്ന എക്സ്റ്റെന്‍ഷന്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്യുന്നതിനായി "--shared" എന്ന ഉപാധി ഉപയോഗിക്കുവാന്‍ സാധ്യമല്ല. കാരണം, എക്സ്റ്റെന്‍ഷനുള്ള ലൈസന്‍സ് എഗ്രീമെന്റ് എല്ലാ ഉപയോക്താക്കളും സമ്മതിക്കേണ്ടതാകുന്നു. അതിനാല്‍ എക്സ്റ്റെന്‍ഷന്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്യുന്നതല്ല.				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				0	mn	 \'%NAME\' өргөтгөлийг суулгахад "--shared" сонголт хэрэглэгдэх боломжгүй, учир нь хэрэглэгч бүр өргөтгөлийн лицензийг хүлээн зөвшөөрөх ёстой. Өргөтгөлийг суулгах боломжгүй.				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				13691	mr-IN	"--वाटणी केलेला" पर्याय \'%NAME\' एक्सटेन्शनला स्थापित करण्यासाठी वापरू शकत नाही, कारण प्रत्येक वापरकर्त्यास एक्सटेन्शनच्या परवाना कराराला मान्य करायचे आहे. एक्सटेन्शनला स्थापित केले जाणार नाही.				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				0	nb	Alternativet «--shared» kan ikke brukes til å installere utvidelsen «%NAME», siden hver bruker må godta lisensavtalen til utvidelsen. Utvidelsen vil ikke bli installert.				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				0	ne	"--साझेदार गरिएको" विकल्प विस्तार \'%NAME\' स्थापना गर्न प्रयोग गरिँदैन, किनभने हरेक प्रयोगकर्ताले विस्तारको इजाजतपत्र सम्झौतामा सहमत गर्नुपर्ने हुन्छ । विस्तार स्थापना गरिने छैन ।				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				0	nl	De optie "--shared" kan niet worden gebruikt om de extensie \'%NAME\' te installeren, omdat elke gebruiker moet instemmen met de licentieovereenkomst van de extensie. De extensie zal niet worden geïnstalleerd.				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				0	nn	Alternativet «--shared» kan ikkje brukast til å installera utvidinga «%NAME», for kvar brukar må seia seg einig med lisensavtalen til utvidinga. Utvidinga vert ikkje installert.				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				0	pa-IN	ਚੋਣ "--shared" ਇਕਸਟੈਨਸ਼ਨ \'%NAME\' ਨੂੰ ਇੰਸਟਾਲ ਕਰਨ ਲਈ ਨਹੀਂ ਵਰਤੀ ਜਾ ਸਕਦੀ ਹੈ, ਕਿਉਂਕਿ ਹਰੇਕ ਯੂਜ਼ਰ ਦਾ ਇਕਸਟੈਨਸ਼ਨ ਦੇ ਲਾਇਸੈਂਸ ਇਕਰਾਰਨਾਮੇ ਨਾਲ ਸਹਿਮਤ ਹੋਣਾ ਲਾਜ਼ਮੀ ਹੈ। ਇਕਸਟੈਨਸ਼ਨ ਇੰਸਟਾਲ ਨਹੀਂ ਹੋਵੇਗੀ।				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				0	oc	Se pòt pas emplegar l'opcion "--shared" per installar l'extension \'%NAME\', per çò que cada usancièr as d'acceptar la licéncia d'acòrdi de l'extension.L'extension serà pas installada.				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				13691	pa-IN	ਚੋਣ "--shared" ਐਕਸ਼ਟੇਸ਼ਨ \'%NAME\' ਨੂੰ ਇੰਸਟਾਲ ਕਰਨ ਲਈ ਨਹੀਂ ਵਰਤੀ ਜਾ ਸਕਦੀ ਹੈ, ਕਿਉਂਕਿ ਹਰੇਕ ਯੂਜ਼ਰ ਦਾ ਐਕਸ਼ਟੇਸ਼ਨ ਦੇ ਲਾਇਸੈਂਸ ਇਕਰਾਰਨਾਮੇ ਨਾਲ ਸਹਿਮਤ ਹੋਣਾ ਲਾਜ਼ਮੀ ਹੈ। ਐਕਸ਼ਟੇਸ਼ਨ ਇੰਸਟਾਲ ਨਹੀਂ ਹੋਵੇਗੀ।				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				0	pl	Podczas instalacji rozszerzenia %NAME nie można użyć opcji "--shared" (udostępniania), ponieważ każdy użytkownik musi wyrazić zgodę na warunki licencji tego rozszerzenia. Rozszerzenie nie zostanie zainstalowane.				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				0	pt	Não é possível utilizar a opção "--shared" para instalar a extensão \'%NAME\', visto que todos os utilizadores têm que aceitar o contrato de licença relativo à extensão. A extensão não será instalada				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				0	pt-BR	A opção "--shared" não pode ser usada para instalar a extensão \'%NAME\', porque cada usuário deve aceitar o contrato de licença da extensão. A extensão não será instalada.				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				0	ru	Параметр "--shared" не может быть использован для установки расширения "%NAME", т.к. каждый пользователь должен принять условия лицензионного соглашения. Расширение не будет установлено.				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				0	rw	Uburyo "--buhuriweho" ntabwo bushobora gukoreshwa kugira ngo winjizemo umugereka \'%NAME\', kubera ko ukoresha wese agomba kwemera amasezerano y'imikoreshereze y'umugereka. Umugereka ntabwo uzinjizwamo.				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				0	sh	Ne mogu da upotrebim opciju „--shared“ za instalaciju dodatka „%NAME“, jer svaki korisnik mora da prihvati ugovor o licenci dodatka. Dodatak neće biti instaliran.				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				0	sk	Možnosť "--shared" nemôže byť použitá pre inštaláciu rozšírenia %NAME, pretože s licenčnou zmluvou rozšírenia musí súhlasiť každý užívateľ. Rozšírenie nebude nainštalované.				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				0	sl	Možnost "--shared" ni mogoče uporabiti za namestitev razširitve \'%NAME\', ker bi se moral z licenčno pogodbo strinjati vsak uporabnik. Razširitev tako ne bo nameščena.				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				0	sr	Не могу да употребим опцију „--shared“ за инсталацију додатка „%NAME“, јер сваки корисник мора да прихвати уговор о лиценци додатка. Додатак неће бити инсталиран.				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				1	sa-IN	विकल्पः "--shared" विस्तारं %NAME संस्थापयितुं प्रयोक्तुं न शक्यते, यतः प्रत्येकं प्रयोक्तृणा विस्तारस्य अनुज्ञापत्रानुबन्धेन सहमतेन भवितव्यम् । विस्तारः संस्थापितः न भविष्यति ।				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				38219	sh	Ne mogu da upotrebim opciju „--shared“ za instaliranje dodatka „%NAME“, jer svaki korisnik mora da prihvati Ugovor o licenciranju dodatka. Dodatak neće biti instaliran.				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				1	sk	Možnosť "--shared" nemôže byť použitá pre inštaláciu rozšírenia \'%NAME'\, pretože s licenčnou zmluvou rozšírenia musí súhlasiť každý užívateľ. Rozšírenie nebude nainštalované.				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				13691	sl	Možnost "--shared" ni mogoče uporabiti za namestitev razširitve \'%NAME\', ker bi se moral z licenčno pogodbo strinjati vsak uporabnik. Razširitev tako ne bo nameščena.				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				38219	sr	Не могу да употребим опцију „--shared“ за инсталирање додатка „%NAME“, јер сваки корисник мора да прихвати Уговор о лиценцирању додатка. Додатак неће бити инсталиран.				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				0	sv	Växeln --shared kan inte användas vid installation av tillägget %NAME eftersom alla användare måste godkänna tilläggets licensavtal. Tillägget kommer inte att installeras.				2002-02-02 02:02:02
-desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				0	ta	The option "--shared" cannot be used to install the extension \'%NAME\', because every user has to agree to the license agreement of the extension. The extension will not be installed.				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				13691	ta	"--shared" விருப்பத்தேர்வைக் கொண்டு \'%NAME\' நீட்சியை நிறுவ முடியாது, ஏனெனில் ஒவ்வொரு பயனரும் நீட்சியின் உரிம ஒப்பந்தத்தை ஏற்றுக் கொள்ளுதல் அவசியம். இந்த நீட்சி நிறுவப்படாது.				2002-02-02 02:02:02
+desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				13691	te-IN	పొడిగంపు \'%NAME\' సంస్థాపించుటకు ఐచ్చికం "--shared" వుపయోగపడలేక పోయింది, యెందుచేతనంటే ప్రతి వినియోగదారి లైసెన్సు వొప్పందమును వొప్పుకోవాలి. పొడిగింపు సంస్థాపించబడదు.				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				0	tg	Параметри "--байнӣ" барои васлкунии дарозкунии %NAME истифода намешавад, барои он, ки ҳар як истифодабар бояд бо Шартномаи литсензионӣ розӣ бошад. 				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				0	tr	Seçenek "--shared" kullanılarak \'%NAME\' eklentisi yüklenemedi, çünkü kullanıcı eklenti lisans anlaşmasını kabul etmedi. Eklenti yüklenmedi.				2002-02-02 02:02:02
 desktop	source\deployment\unopkg\unopkg.src	0	string	RID_STR_UNOPKG_NO_SHARED_ALLOWED				0	uk	Параметр "--shared" не можна використовувати для встановлення розширення "%NAME", оскільки кожен користувач має прийняти умови ліцензійної угоди. Розширення не буде встановлено.				2002-02-02 02:02:02
