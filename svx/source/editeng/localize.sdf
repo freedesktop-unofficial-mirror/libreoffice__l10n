@@ -100,7 +100,7 @@ svx	source\editeng\editeng.src	0	menuitem	RID_MENU_SPELL	MN_AUTOCORR	HID_EDITENG
 svx	source\editeng\editeng.src	0	menuitem	RID_MENU_SPELL	MN_AUTOCORR	HID_EDITENG_SPELLER_AUTOCORRECT		13691	pa-IN	ਸਵੈ-ਚਾਲਿਤ ਠੀਕ				2002-02-02 02:02:02
 svx	source\editeng\editeng.src	0	menuitem	RID_MENU_SPELL	MN_AUTOCORR	HID_EDITENG_SPELLER_AUTOCORRECT		0	pl	Autokorekta				2002-02-02 02:02:02
 svx	source\editeng\editeng.src	0	menuitem	RID_MENU_SPELL	MN_AUTOCORR	HID_EDITENG_SPELLER_AUTOCORRECT		0	pt	~Correcção Automática				2002-02-02 02:02:02
-svx	source\editeng\editeng.src	0	menuitem	RID_MENU_SPELL	MN_AUTOCORR	HID_EDITENG_SPELLER_AUTOCORRECT		0	pt-BR	Auto-correção				2002-02-02 02:02:02
+svx	source\editeng\editeng.src	0	menuitem	RID_MENU_SPELL	MN_AUTOCORR	HID_EDITENG_SPELLER_AUTOCORRECT		13691	pt-BR	Autocorreção				2002-02-02 02:02:02
 svx	source\editeng\editeng.src	0	menuitem	RID_MENU_SPELL	MN_AUTOCORR	HID_EDITENG_SPELLER_AUTOCORRECT		0	ru	Автозамена				2002-02-02 02:02:02
 svx	source\editeng\editeng.src	0	menuitem	RID_MENU_SPELL	MN_AUTOCORR	HID_EDITENG_SPELLER_AUTOCORRECT		0	rw	Kwikosora				2002-02-02 02:02:02
 svx	source\editeng\editeng.src	0	menuitem	RID_MENU_SPELL	MN_AUTOCORR	HID_EDITENG_SPELLER_AUTOCORRECT		0	sa-IN	स्वतःसंशोधनम्				2002-02-02 02:02:02
@@ -228,7 +228,7 @@ svx	source\editeng\editeng.src	0	menuitem	RID_MENU_SPELL	MN_IGNORE	HID_EDITENG_S
 svx	source\editeng\editeng.src	0	menuitem	RID_MENU_SPELL	MN_IGNORE	HID_EDITENG_SPELLER_IGNORE		0	zh-TW	全部忽略				2002-02-02 02:02:02
 svx	source\editeng\editeng.src	0	menuitem	RID_MENU_SPELL	MN_IGNORE	HID_EDITENG_SPELLER_IGNORE		0	zu	Ziba Konke				2002-02-02 02:02:02
 svx	source\editeng\editeng.src	0	menuitem	RID_MENU_SPELL	MN_INSERT	HID_EDITENG_SPELLER_ADDWORD		0	af	~Byvoeg				2002-02-02 02:02:02
-svx	source\editeng\editeng.src	0	menuitem	RID_MENU_SPELL	MN_INSERT	HID_EDITENG_SPELLER_ADDWORD		0	ar	إضا~فة				2002-02-02 02:02:02
+svx	source\editeng\editeng.src	0	menuitem	RID_MENU_SPELL	MN_INSERT	HID_EDITENG_SPELLER_ADDWORD		13691	ar	إضا~فة				2002-02-02 02:02:02
 svx	source\editeng\editeng.src	0	menuitem	RID_MENU_SPELL	MN_INSERT	HID_EDITENG_SPELLER_ADDWORD		13691	as-IN	যোগ কৰক				2002-02-02 02:02:02
 svx	source\editeng\editeng.src	0	menuitem	RID_MENU_SPELL	MN_INSERT	HID_EDITENG_SPELLER_ADDWORD		13691	be-BY	Дадаць				2002-02-02 02:02:02
 svx	source\editeng\editeng.src	0	menuitem	RID_MENU_SPELL	MN_INSERT	HID_EDITENG_SPELLER_ADDWORD		13691	bg	~Добавяне				2002-02-02 02:02:02
@@ -704,7 +704,7 @@ svx	source\editeng\editeng.src	0	string	RID_EDITUNDO_INSERT				0	zh-CN	插入			
 svx	source\editeng\editeng.src	0	string	RID_EDITUNDO_INSERT				0	zh-TW	插入				2002-02-02 02:02:02
 svx	source\editeng\editeng.src	0	string	RID_EDITUNDO_INSERT				0	zu	Faka				2002-02-02 02:02:02
 svx	source\editeng\editeng.src	0	string	RID_EDITUNDO_MOVE				0	af	Verskuif				2002-02-02 02:02:02
-svx	source\editeng\editeng.src	0	string	RID_EDITUNDO_MOVE				0	ar	تحريك				2002-02-02 02:02:02
+svx	source\editeng\editeng.src	0	string	RID_EDITUNDO_MOVE				13691	ar	تحريك				2002-02-02 02:02:02
 svx	source\editeng\editeng.src	0	string	RID_EDITUNDO_MOVE				13691	as-IN	স্থান পৰিৱর্তন কৰক				2002-02-02 02:02:02
 svx	source\editeng\editeng.src	0	string	RID_EDITUNDO_MOVE				13691	be-BY	Перамясціць				2002-02-02 02:02:02
 svx	source\editeng\editeng.src	0	string	RID_EDITUNDO_MOVE				0	bg	Местене				2002-02-02 02:02:02
@@ -1181,7 +1181,7 @@ svx	source\editeng\editeng.src	0	string	RID_EDITUNDO_SETSTYLE				0	zh-CN	使用�
 svx	source\editeng\editeng.src	0	string	RID_EDITUNDO_SETSTYLE				0	zh-TW	使用樣式				2002-02-02 02:02:02
 svx	source\editeng\editeng.src	0	string	RID_EDITUNDO_SETSTYLE				0	zu	Faka Izitayela				2002-02-02 02:02:02
 svx	source\editeng\editeng.src	0	string	RID_EDITUNDO_TRANSLITERATE				0	af	Kas/karakters				2002-02-02 02:02:02
-svx	source\editeng\editeng.src	0	string	RID_EDITUNDO_TRANSLITERATE				0	ar	حالة/حروف				2002-02-02 02:02:02
+svx	source\editeng\editeng.src	0	string	RID_EDITUNDO_TRANSLITERATE				13691	ar	الحالة/الحروف				2002-02-02 02:02:02
 svx	source\editeng\editeng.src	0	string	RID_EDITUNDO_TRANSLITERATE				13691	as-IN	কেছ/আখৰবোৰ				2002-02-02 02:02:02
 svx	source\editeng\editeng.src	0	string	RID_EDITUNDO_TRANSLITERATE				13691	be-BY	Рэгістр/знакі				2002-02-02 02:02:02
 svx	source\editeng\editeng.src	0	string	RID_EDITUNDO_TRANSLITERATE				0	bg	Регистър на буквите				2002-02-02 02:02:02
