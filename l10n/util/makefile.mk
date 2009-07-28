@@ -67,6 +67,12 @@ TARGET=l10n_zip
 # --- Targets ------------------------------------------------------
 .INCLUDE : settings.mk
 
+.IF "$(WITH_LANG)" == ""
+
+@all:
+    @echo "Nothing to do - en-US only build."
+.ELSE
+
 all_modules:=$(shell cd $(COMMONMISC)$/sdf && ls -1 )
 
 .INCLUDE : target.mk
@@ -78,4 +84,5 @@ $(COMMONBIN)$/%.zip : $(COMMONMISC)$/merge.done
     $(RM) $@
     $(RENAME) $(@:d)$(@:b)_$(INPATH).zip $@
 
+.ENDIF
 

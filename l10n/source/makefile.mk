@@ -67,6 +67,12 @@ TARGET=l10n_merge
 # --- Targets ------------------------------------------------------
 .INCLUDE : settings.mk
 
+.IF "$(WITH_LANG)" == ""
+
+@all:
+    @echo "Nothing to do - en-US only build."
+.ELSE
+
 .IF "$(USE_SHELL)"!="4nt"
 all_sdfs:=$(shell cd $(PRJ)$/source && ls -1 *$/localize.sdf)
 .ELSE          # "$(USE_SHELL)"!="4nt"
@@ -89,3 +95,4 @@ $(COMMONMISC)$/merge.done : $(all_sdfs)
 .ENDIF			# "$(L10n_LOCK)" != "YES"
     $(PERL) $(SOLARVER)$/$(INPATH)$/bin$(UPDMINOREXT)$/fast_merge.pl -sdf_files $(mktmp $<) -merge_dir $(COMMONMISC)$/sdf && $(TOUCH) $@
 
+.ENDIF
