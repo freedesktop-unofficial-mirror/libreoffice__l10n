@@ -88,7 +88,6 @@ ALLTAR : $(COMMONMISC)$/merge.done
 
 $(COMMONMISC)$/merge.done : $(all_sdfs)
 .IF "$(L10N_LOCK)" != "YES"
-#	$(IFEXIST) $(COMMONMISC)$/sdf $(THEN) rm -rf $(COMMONMISC)$/sdf
     $(IFEXIST) $(COMMONMISC)$/sdf $(THEN) $(RENAME) $(COMMONMISC)$/sdf $(COMMONMISC)$/sdf$(INPATH)_begone $(FI)
     -rm -rf $(COMMONMISC)$/sdf$(INPATH)_begone
     -$(MKDIRHIER) $(COMMONMISC)$/sdf
