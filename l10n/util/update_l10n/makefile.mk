@@ -79,12 +79,7 @@ TARGET=l10n_update
     @echo "Nothing to do - en-US only build."
 .ELSE
 
-.IF "$(USE_SHELL)"!="4nt"
 all_sdfs:=$(shell ls -1 $(PRJ)$/source$/*$/localize.sdf)
-.ELSE          # "$(USE_SHELL)"!="4nt"
-all_sdfs:=$(shell $(CDD) $(PRJ)$/source && find * -name localize.sdf)
-all_sdfs!:=$(subst,/,\ $(all_sdfs))
-.ENDIF          # "$(USE_SHELL)"!="4nt"
 
 .INCLUDE .IGNORE : $(COMMONMISC)$/sdf$/lock.mk
 
