@@ -38,25 +38,20 @@ TARGET=l10n_merge
     @echo "Nothing to do - en-US only build."
 .ELSE
 
-.IF "$(USE_SHELL)"!="4nt"
-all_sdfs:=$(shell cd $(PRJ)$/source && ls -1 *$/localize.sdf)
-.ELSE          # "$(USE_SHELL)"!="4nt"
-all_sdfs:=$(shell $(CDD) $(PRJ)$/source && find * -name localize.sdf)
-all_sdfs!:=$(subst,/,\ $(all_sdfs))
-.ENDIF          # "$(USE_SHELL)"!="4nt"
+all_sdfs:=$(shell cd $(PRJ)/source && ls -1 */localize.sdf)
 
-.INCLUDE .IGNORE : $(COMMONMISC)$/sdf$/lock.mk
+.INCLUDE .IGNORE : $(COMMONMISC)/sdf/lock.mk
 
 .INCLUDE : target.mk
 
-ALLTAR : $(COMMONMISC)$/merge.done
+ALLTAR : $(COMMONMISC)/merge.done
 
-$(COMMONMISC)$/merge.done : $(all_sdfs)
+$(COMMONMISC)/merge.done : $(all_sdfs)
 .IF "$(L10N_LOCK)" != "YES"
-    $(IFEXIST) $(COMMONMISC)$/sdf $(THEN) $(RENAME) $(COMMONMISC)$/sdf $(COMMONMISC)$/sdf$(INPATH)_begone $(FI)
-    -rm -rf $(COMMONMISC)$/sdf$(INPATH)_begone
-    -$(MKDIRHIER) $(COMMONMISC)$/sdf
+    $(IFEXIST) $(COMMONMISC)/sdf $(THEN) $(RENAME) $(COMMONMISC)/sdf $(COMMONMISC)/sdf$(INPATH)_begone $(FI)
+    -rm -rf $(COMMONMISC)/sdf$(INPATH)_begone
+    -$(MKDIRHIER) $(COMMONMISC)/sdf
 .ENDIF			# "$(L10n_LOCK)" != "YES"
-    $(PERL) $(SOLARVER)$/$(INPATH)$/bin$(UPDMINOREXT)$/fast_merge.pl -sdf_files $(mktmp $<) -merge_dir $(COMMONMISC)$/sdf && $(TOUCH) $@
-
+    $(PERL) $(SOLARVER)/$(INPATH)/bin$(UPDMINOREXT)/fast_merge.pl -sdf_files $(mktmp $<) -merge_dir $(COMMONMISC)/sdf && $(TOUCH) $@
+    $(COPY) $(PRJ)/localization_present.mk $(PRJ)/$(COMMON_OUTDIR)$(PROEXT)/inc
 .ENDIF
