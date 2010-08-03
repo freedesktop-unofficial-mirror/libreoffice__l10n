@@ -383,6 +383,7 @@ basic	source\classes\sb.src	0	string	RID_BASIC_START	ERRCODE_BASIC_EXPR_TOO_COMP
 basic	source\classes\sb.src	0	string	RID_BASIC_START	ERRCODE_BASIC_OPER_NOT_PERFORM & ERRCODE_RES_MASK			0	ku	Nikare pêvajoya hatiye xwestin bixebitîne.				2002-02-02 02:02:02
 basic	source\classes\sb.src	0	string	RID_BASIC_START	ERRCODE_BASIC_TOO_MANY_DLL & ERRCODE_RES_MASK			0	ku	Pir gelek daxwazkarên sepanê DLL.				2002-02-02 02:02:02
 basic	source\classes\sb.src	0	string	RID_BASIC_START	ERRCODE_BASIC_LOOP_NOT_INIT & ERRCODE_RES_MASK			0	ku	Ji bo zivr (loop) nayê destpêkirin.				2002-02-02 02:02:02
+basic	source\classes\sb.src	0	string	RID_BASIC_START	ERRCODE_BASIC_COMPAT & ERRCODE_RES_MASK			0	ku	$(ARG1)				2002-02-02 02:02:02
 basic	source\classes\sb.src	0	string	IDS_SBERR_TERMINATED				0	ku	Makroya dihat meşandin hat birrîn				2002-02-02 02:02:02
 basic	source\classes\sb.src	0	string	IDS_SBERR_STOREREF				0	ku	Referans tomar nabe: 				2002-02-02 02:02:02
 basic	source\classes\sb.src	0	string	ERRCODE_BASMGR_LIBLOAD & ERRCODE_RES_MASK				0	ku	Di dema barkirina pirtûkxaneyan da xeletî '$(ARG1)'				2002-02-02 02:02:02
@@ -721,12 +722,14 @@ connectivity	source\resource\conn_error_message.src	0	string	256 + 2*300 + 0				
 connectivity	source\resource\conn_error_message.src	0	string	256 + 2*303 + 0				0	ku	Navê '$1$' di danegehê de jixwe tê bikaranîn.				2002-02-02 02:02:02
 crashrep	source\all\crashrep.ulf	0	LngText	%WELCOME_CAPTION%				0	ku	Rapora Çewtiya %PRODUCTNAME% %PRODUCTVERSION%				2002-02-02 02:02:02
 crashrep	source\all\crashrep.ulf	0	LngText	%WELCOME_HEADER%				0	ku	Bi xêr hatî Rapora Çewtiya %PRODUCTNAME% %PRODUCTVERSION%				2002-02-02 02:02:02
+crashrep	source\all\crashrep.ulf	0	LngText	%WELCOME_BODY1%				0	ku	Ev amûra raporkirina çewtiyan agahî dişîne di derheqê %PRODUCTNAME% ku çawa dixebite ji Oracle re ji bo alikariya guhertoyên pêşerojê.\n\n				2002-02-02 02:02:02
 crashrep	source\all\crashrep.ulf	0	LngText	%NEXT_BUTTON%				0	ku	~Pêşve >>				2002-02-02 02:02:02
 crashrep	source\all\crashrep.ulf	0	LngText	%CANCEL_BUTTON%				0	ku	Betal				2002-02-02 02:02:02
 crashrep	source\all\crashrep.ulf	0	LngText	%OK_BUTTON%				0	ku	Temam				2002-02-02 02:02:02
 crashrep	source\all\crashrep.ulf	0	LngText	%REPORT_CAPTION%				0	ku	Rapora çewtiyê ya %PRODUCTNAME% %PRODUCTVERSION%				2002-02-02 02:02:02
 crashrep	source\all\crashrep.ulf	0	LngText	%REPORT_HEADER%				0	ku	Dema %PRODUCTNAME% %PRODUCTVERSION% hatibe bikaranîn çewtiyek derket holê				2002-02-02 02:02:02
 crashrep	source\all\crashrep.ulf	0	LngText	%ENTER_TITLE%				0	ku	Dema çewtî derket holê, te kîjan cureyê belgeyê (mînak pêşkêşkirin) bi kar anî?				2002-02-02 02:02:02
+crashrep	source\all\crashrep.ulf	0	LngText	%ALLOW_CONTACT%				0	ku	~Destûr didim ku Oracle ji bo vê raporê dikare xwe bigîhîne min.				2002-02-02 02:02:02
 crashrep	source\all\crashrep.ulf	0	LngText	%ENTER_EMAIL%				0	ku	Ji kerema xwe re navnîşana e-mail a xwe binivîse.				2002-02-02 02:02:02
 crashrep	source\all\crashrep.ulf	0	LngText	%ENTER_DESCRIPTION%				0	ku	Dema çewtî derket holê, te %PRODUCTNAME% çawa bi kar anî ?				2002-02-02 02:02:02
 crashrep	source\all\crashrep.ulf	0	LngText	%BACK_BUTTON%				0	ku	 << P~aşve				2002-02-02 02:02:02
@@ -4381,35 +4384,71 @@ formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAM
 formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_STANDARD			0	ku	STANDARDKIRIN				2002-02-02 02:02:02
 formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_AVE_DEV			0	ku	AVERÊBÛNANAVENDÎ				2002-02-02 02:02:02
 formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_SCHIEFE			0	ku	XWARÎ				2002-02-02 02:02:02
+formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_DEV_SQ			0	ku	DEVSQ				2002-02-02 02:02:02
+formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_MEDIAN			0	ku	MEDIAN				2002-02-02 02:02:02
 formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_MODAL_VALUE			0	ku	MOD				2002-02-02 02:02:02
 formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_Z_TEST			0	ku	TESTAZ				2002-02-02 02:02:02
 formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_T_TEST			0	ku	TESTAT				2002-02-02 02:02:02
 formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_RANK			0	ku	RÊZ				2002-02-02 02:02:02
 formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_PERCENTILE			0	ku	JISEDÎYEKÎ				2002-02-02 02:02:02
+formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_PERCENT_RANK			0	ku	PERCENTRANK				2002-02-02 02:02:02
 formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_LARGE			0	ku	MEZIN				2002-02-02 02:02:02
 formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_SMALL			0	ku	BIÇÛK				2002-02-02 02:02:02
 formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_FREQUENCY			0	ku	FREKANS				2002-02-02 02:02:02
+formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_QUARTILE			0	ku	QUARTILE				2002-02-02 02:02:02
+formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_NORM_INV			0	ku	NORMINV				2002-02-02 02:02:02
+formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_CONFIDENCE			0	ku	CONFIDENCE				2002-02-02 02:02:02
 formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_F_TEST			0	ku	TESTAF				2002-02-02 02:02:02
+formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_TRIM_MEAN			0	ku	TRIMMEAN				2002-02-02 02:02:02
+formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_PROB			0	ku	PROB				2002-02-02 02:02:02
+formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_CORREL			0	ku	CORREL				2002-02-02 02:02:02
+formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_COVAR			0	ku	COVAR				2002-02-02 02:02:02
+formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_PEARSON			0	ku	PEARSON				2002-02-02 02:02:02
+formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_RSQ			0	ku	RSQ				2002-02-02 02:02:02
+formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_STEYX			0	ku	STEYX				2002-02-02 02:02:02
+formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_SLOPE			0	ku	SLOPE				2002-02-02 02:02:02
+formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_INTERCEPT			0	ku	INTERCEPT				2002-02-02 02:02:02
+formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_TREND			0	ku	TREND				2002-02-02 02:02:02
 formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_GROWTH			0	ku	ZÊDEBÛN				2002-02-02 02:02:02
+formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_RGP			0	ku	LINEST				2002-02-02 02:02:02
+formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_RKP			0	ku	LOGEST				2002-02-02 02:02:02
 formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_FORECAST			0	ku	PÊŞBÎNÎ				2002-02-02 02:02:02
+formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_CHI_INV			0	ku	CHIINV				2002-02-02 02:02:02
+formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_GAMMA_DIST			0	ku	GAMMADIST				2002-02-02 02:02:02
+formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_GAMMA_INV			0	ku	GAMMAINV				2002-02-02 02:02:02
+formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_T_INV			0	ku	TINV				2002-02-02 02:02:02
+formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_F_INV			0	ku	FINV				2002-02-02 02:02:02
+formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_CHI_TEST			0	ku	CHITEST				2002-02-02 02:02:02
+formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_LOG_INV			0	ku	LOGINV				2002-02-02 02:02:02
+formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_TABLE_OP			0	ku	MULTIPLE.OPERATIONS				2002-02-02 02:02:02
 formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_BETA_DIST			0	ku	BELAVBÛNABETA				2002-02-02 02:02:02
 formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_BETA_INV			0	ku	VAJÎYABETA				2002-02-02 02:02:02
 formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_WEEK			0	ku	HIJMARAHEFTEYAN				2002-02-02 02:02:02
+formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_EASTERSUNDAY			0	ku	EASTERSUNDAY				2002-02-02 02:02:02
 formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_GET_DAY_OF_WEEK			0	ku	ROJAHEFTEYÊ				2002-02-02 02:02:02
 formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_NO_NAME			0	ku	#NAVE!				2002-02-02 02:02:02
 formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_STYLE			0	ku	TEŞE				2002-02-02 02:02:02
+formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_DDE			0	ku	DDE				2002-02-02 02:02:02
 formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_BASE			0	ku	BINGEH				2002-02-02 02:02:02
+formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_DECIMAL			0	ku	DECIMAL				2002-02-02 02:02:02
 formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_CONVERT			0	ku	VEGERÎNE				2002-02-02 02:02:02
 formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_ROMAN			0	ku	ROMAN				2002-02-02 02:02:02
+formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_HYPERLINK			0	ku	HYPERLINK				2002-02-02 02:02:02
 formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_INFO			0	ku	AGAHÎ				2002-02-02 02:02:02
+formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_BAHTTEXT			0	ku	BAHTTEXT				2002-02-02 02:02:02
+formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_GET_PIVOT_DATA			0	ku	GETPIVOTDATA				2002-02-02 02:02:02
+formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_EUROCONVERT			0	ku	EUROCONVERT				2002-02-02 02:02:02
+formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_NUMBERVALUE			0	ku	NUMBERVALUE				2002-02-02 02:02:02
 formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_GAMMA			0	ku	GAMA				2002-02-02 02:02:02
-formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_ERROR_NULL			0	ku	#VALA!				2002-02-02 02:02:02
-formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_ERROR_DIVZERO			0	ku	#JIMAR/0!				2002-02-02 02:02:02
-formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_ERROR_VALUE			0	ku	#NIRX!				2002-02-02 02:02:02
+formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_CHISQ_DIST			0	ku	CHISQDIST				2002-02-02 02:02:02
+formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_CHISQ_INV			0	ku	CHISQINV				2002-02-02 02:02:02
+formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_ERROR_NULL			0	ku	#NULL!				2002-02-02 02:02:02
+formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_ERROR_DIVZERO			0	ku	#DIV/0!				2002-02-02 02:02:02
+formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_ERROR_VALUE			0	ku	#VALUE!				2002-02-02 02:02:02
 formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_ERROR_REF			0	ku	#REF!				2002-02-02 02:02:02
 formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_ERROR_NAME			0	ku	#NAV?				2002-02-02 02:02:02
-formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_ERROR_NUM			0	ku	#JIMAR!				2002-02-02 02:02:02
-formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_ERROR_NA			0	ku	#TUNEYE				2002-02-02 02:02:02
+formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_ERROR_NUM			0	ku	#NUM!				2002-02-02 02:02:02
+formula	source\core\resource\core_resource.src	0	string	RID_STRLIST_FUNCTION_NAMES	SC_OPCODE_ERROR_NA			0	ku	#N/A				2002-02-02 02:02:02
 formula	source\ui\dlg\parawin.src	0	#define	RB_ARGBLOCK( y )				13	ku	-		Hilbijêre		2002-02-02 02:02:02
 formula	source\ui\dlg\parawin.src	0	fixedtext	RID_FORMULATAB_PARAMETER	FT_EDITDESC			198	ku	Fonksîyon nayê zanîn				2002-02-02 02:02:02
 formula	source\ui\dlg\parawin.src	0	string	RID_FORMULATAB_PARAMETER	STR_OPTIONAL			8	ku	(bijare)				2002-02-02 02:02:02
@@ -4490,6 +4529,7 @@ framework	source\services\fwk_services.src	0	string	DLG_BACKING	STR_BACKING_WELC
 framework	source\services\fwk_services.src	0	string	DLG_BACKING	STR_BACKING_WELCOMEPRODUCT			0	ku	%PRODUCTNAME				2002-02-02 02:02:02
 framework	source\services\fwk_services.src	0	string	DLG_BACKING	STR_BACKING_CREATE			0	ku	Belgeyeke nû biafirîne				2002-02-02 02:02:02
 framework	source\services\fwk_services.src	0	string	DLG_BACKING	STR_BACKING_TEMPLATE			0	ku	Şa~blon...				2002-02-02 02:02:02
+framework	source\services\fwk_services.src	0	string	DLG_BACKING	STR_BACKING_FILE			0	ku	~Vekirin...				2002-02-02 02:02:02
 framework	source\services\fwk_services.src	0	string	DLG_BACKING	STR_BACKING_EXTHELP			0	ku	Fonksiyonan li %PRODUCTNAME zêde bike				2002-02-02 02:02:02
 framework	source\services\fwk_services.src	0	string	DLG_BACKING	STR_BACKING_REGHELP			0	ku	%PRODUCTNAME a xwe qeyd bike				2002-02-02 02:02:02
 framework	source\services\fwk_services.src	0	string	DLG_BACKING	STR_BACKING_INFOHELP			0	ku	Zêdetir agahî di der barê %PRODUCTNAME de bistîne				2002-02-02 02:02:02
@@ -4508,6 +4548,7 @@ framework	source\classes\resource.src	0	menuitem	POPUPMENU_TOOLBAR_QUICKCUSTOMIZ
 framework	source\classes\resource.src	0	string	STR_SAVECOPYDOC				0	ku	Kopyayê tomar bike ~wekî...				2002-02-02 02:02:02
 framework	source\classes\resource.src	0	string	STR_NODOCUMENT				0	ku	Belge tune				2002-02-02 02:02:02
 framework	source\classes\resource.src	0	string	STR_TOOLBAR_TITLE_ADDON				0	ku	Pêveka %num%				2002-02-02 02:02:02
+framework	source\classes\resource.src	0	string	STR_STATUSBAR_LOGOTEXT				0	ku	Berhemeke %PRODUCTNAME a Oracle				2002-02-02 02:02:02
 framework	source\classes\resource.src	0	fixedtext	DLG_LICENSE	FT_INFO1			0	ku	Ji bo ku tu karibî sazkirina xwe bidomîne gavên li jêr bişopîne:				2002-02-02 02:02:02
 framework	source\classes\resource.src	0	fixedtext	DLG_LICENSE	FT_INFO2_1			0	ku	1.				2002-02-02 02:02:02
 framework	source\classes\resource.src	0	fixedtext	DLG_LICENSE	FT_INFO2			0	ku	Hemû peymana lîsansê bixwîne. Ji bo ku tu karibe vê tekstê bixwîne darikê şemitandinê yan jî bişkoka '%PAGEDOWN' bikar bîne.				2002-02-02 02:02:02
@@ -4526,6 +4567,7 @@ framework	source\classes\resource.src	0	string	STR_CORRUPT_UICFG_GENERAL				0	ku
 framework	source\classes\resource.src	0	string	STR_UNTITLED_DOCUMENT				0	ku	Bênav				2002-02-02 02:02:02
 framework	source\classes\resource.src	0	string	STR_LANGSTATUS_MULTIPLE_LANGUAGES				0	ku	Pirzimanî				2002-02-02 02:02:02
 framework	source\classes\resource.src	0	string	STR_LANGSTATUS_NONE				0	ku	Tune (Kontrola rastnivîsê neke)				2002-02-02 02:02:02
+framework	source\classes\resource.src	0	string	STR_RESET_TO_DEFAULT_LANGUAGE				0	ku	Vegere zimanê standard				2002-02-02 02:02:02
 framework	source\classes\resource.src	0	string	STR_LANGSTATUS_MORE				0	ku	Zêdetir...				2002-02-02 02:02:02
 framework	source\classes\resource.src	0	string	STR_SET_LANGUAGE_FOR_SELECTION				0	ku	Zimanê Hilbijartinê Diyar Bike				2002-02-02 02:02:02
 framework	source\classes\resource.src	0	string	STR_SET_LANGUAGE_FOR_PARAGRAPH				0	ku	Zimanê Paragrafê Diyar Bike				2002-02-02 02:02:02
@@ -4713,8 +4755,8 @@ instsetoo_native	inc_openoffice\windows\msi_languages\Property.ulf	0	LngText	OOO
 instsetoo_native	inc_openoffice\windows\msi_languages\Property.ulf	0	LngText	OOO_ARPCONTACTTEMPLATE				0	ku	Beşa Desteka Teknîk				2002-02-02 02:02:02
 instsetoo_native	inc_openoffice\windows\msi_languages\Property.ulf	0	LngText	OOO_ARPHELPLINKTEMPLATE				0	ku	http://www.openoffice.org				2002-02-02 02:02:02
 instsetoo_native	inc_openoffice\windows\msi_languages\Property.ulf	0	LngText	OOO_ARPHELPTELEPHONETEMPLATE				0	ku	x-xxx-xxx-xxx				2002-02-02 02:02:02
-instsetoo_native	inc_openoffice\windows\msi_languages\Property.ulf	0	LngText	OOO_ARPURLINFOABOUTTEMPLATE				0	ku	http://ku.openoffice.org				2002-02-02 02:02:02
-instsetoo_native	inc_openoffice\windows\msi_languages\Property.ulf	0	LngText	OOO_ARPURLUPDATEINFOTEMPLATE				0	ku	http://ku.openoffice.org				2002-02-02 02:02:02
+instsetoo_native	inc_openoffice\windows\msi_languages\Property.ulf	0	LngText	OOO_ARPURLINFOABOUTTEMPLATE				0	ku	http://www.openoffice.org				2002-02-02 02:02:02
+instsetoo_native	inc_openoffice\windows\msi_languages\Property.ulf	0	LngText	OOO_ARPURLUPDATEINFOTEMPLATE				0	ku	http://www.openoffice.org				2002-02-02 02:02:02
 instsetoo_native	inc_openoffice\windows\msi_languages\Property.ulf	0	LngText	OOO_STR_NEW_DISPLAY_NAME				0	ku	~Nû				2002-02-02 02:02:02
 instsetoo_native	inc_openoffice\windows\msi_languages\Property.ulf	0	LngText	OOO_STR_EDIT				0	ku	~Sererastkirin				2002-02-02 02:02:02
 instsetoo_native	inc_openoffice\windows\msi_languages\Property.ulf	0	LngText	OOO_STR_MS_WORD_DOCUMENT				0	ku	Belgeya Microsoft Word				2002-02-02 02:02:02
@@ -4737,6 +4779,7 @@ instsetoo_native	inc_openoffice\windows\msi_languages\RadioBut.ulf	0	LngText	OOO
 instsetoo_native	inc_openoffice\windows\msi_languages\CustomAc.ulf	0	LngText	OOO_CUSTOMACTION_1				0	ku	Versiyoneke nûtir a [ProductName] hate dîtin. Ji bo sazkirina versiyoneke kevntir, berê versiyona nûtir divê were rakirin.				2002-02-02 02:02:02
 instsetoo_native	inc_openoffice\windows\msi_languages\CustomAc.ulf	0	LngText	OOO_CUSTOMACTION_2				0	ku	Ev versiyona vê berhemê jixwe sazkirî ye.				2002-02-02 02:02:02
 instsetoo_native	inc_openoffice\windows\msi_languages\CustomAc.ulf	0	LngText	OOO_CUSTOMACTION_3				0	ku	Versiyoneke kevintir a [ProductName] hate dîtin. Ji bo sazkirina versiyoneke nûtir, berê versiyona kevintir divê were rakirin.				2002-02-02 02:02:02
+instsetoo_native	inc_openoffice\windows\msi_languages\CustomAc.ulf	0	LngText	OOO_CUSTOMACTION_4				0	ku	Ji kerema xwe re ji [DEFINEDPRODUCT] [DEFINEDVERSION] destpêkerê bilez a [DEFINEDPRODUCT] [DEFINEDVERSION] derkeve û piştre bidomîne. Heke pergaleke bi gelek bikarhêneran bi kar bînî, safî bike ku di bikarhênerên din de [DEFINEDPRODUCT] [DEFINEDVERSION] vekirî nebe.				2002-02-02 02:02:02
 instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_3				0	ku	Betal				2002-02-02 02:02:02
 instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_5				0	ku	&Li vir binihêrî:				2002-02-02 02:02:02
 instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_6				0	ku	Peldanka hedef bigere.				2002-02-02 02:02:02
@@ -4832,6 +4875,7 @@ instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_
 instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_121				0	ku	Astekî jor|				2002-02-02 02:02:02
 instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_122				0	ku	< &Paş ve				2002-02-02 02:02:02
 instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_123				0	ku	Betal				2002-02-02 02:02:02
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_124				0	ku	Ev berhevok bi tevkarî û hevkariya komika Oracle hatiye amadekirin. Ji bo kesên ku keda wan di vê de heye li rûpelê http://www.openoffice.org/welcome/credits.html binihêrin.				2002-02-02 02:02:02
 instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_125				0	ku	&Pêş ve >				2002-02-02 02:02:02
 instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_126				0	ku	{&TahomaBold10}Hûn Bi Xêr Hatin Sêhêrbaza Sazkirina [ProductName]				2002-02-02 02:02:02
 instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_127				0	ku	Vê Sêhrbaza Sazkirinê, dê berhema [ProductName] li kompîtura xwe saz bike. Ji bo berdewamkirinê pêl bişkoka Pêş De bikin.				2002-02-02 02:02:02
@@ -4959,6 +5003,8 @@ instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_
 instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_271				0	ku	Tabloyên Hesav ên Microsoft &Excel				2002-02-02 02:02:02
 instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_272				0	ku	Pêşekên Microsoft Po&werPoint				2002-02-02 02:02:02
 instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_273				0	ku	&[ProductName] Writer/Web				2002-02-02 02:02:02
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_274				0	ku	Bila [DEFINEDPRODUCT] be sepana standard ji bo van cureyên pelên Microsoft Office.				2002-02-02 02:02:02
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_275				0	ku	[ProductName] wekî sepana standard ji bo vekirina cûreyên pelên Microsoft Office dikare were diyarkirin. Wate ev e ku dema tu du car ser bitikînî, [ProductName] dê wan veke, ne bernameya ku niha vedike.				2002-02-02 02:02:02
 instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_276				0	ku	Cûreyên pelan				2002-02-02 02:02:02
 instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_277				0	ku	Sererastkera HTML ya standard				2002-02-02 02:02:02
 instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_278				0	ku	{&MSSansBold8}Cureyê Pelê				2002-02-02 02:02:02
@@ -5124,6 +5170,7 @@ instsetoo_native	inc_openoffice\windows\msi_languages\Nsis.ulf	0	LngText	MUI_TEX
 instsetoo_native	inc_openoffice\windows\msi_languages\Nsis.ulf	0	LngText	Extract				0	ku	Derxistin: 				2002-02-02 02:02:02
 instsetoo_native	inc_openoffice\windows\msi_languages\Nsis.ulf	0	LngText	MUI_TEXT_ABORTWARNING				0	ku	Tu bi rastî dixwazî di Amadehiya Sazkirina %PRODUCTNAME %PRODUCTVERSION de derkevî?				2002-02-02 02:02:02
 instsetoo_native	inc_openoffice\windows\msi_languages\LaunchCo.ulf	0	LngText	OOO_LAUNCH_1				0	ku	Sêrbaza Sazkirinê nayê xebitandin ji ber ku tu ji bo vê pergalê wekî bikarhênerê gerînende têneketiyî.				2002-02-02 02:02:02
+instsetoo_native	inc_openoffice\windows\msi_languages\LaunchCo.ulf	0	LngText	OOO_LAUNCH_2				0	ku	Ji kerema xwe re ji bo sazkirinê pelê setup.exe bi kar bîne.				2002-02-02 02:02:02
 javainstaller2	src\Localization\setupstrings.ulf	0	LngText	STRING_PREVIOUS				0	ku	Paşve				2002-02-02 02:02:02
 javainstaller2	src\Localization\setupstrings.ulf	0	LngText	STRING_NEXT				0	ku	Pêşve				2002-02-02 02:02:02
 javainstaller2	src\Localization\setupstrings.ulf	0	LngText	STRING_CANCEL				0	ku	Betal				2002-02-02 02:02:02
@@ -8520,18 +8567,37 @@ readlicense_oo	docs\readme\readme.xrm	0	readmeitem	A6	A6			0	ku	Di vê pelê de 
 readlicense_oo	docs\readme\readme.xrm	0	readmeitem	A10	A10			0	ku	Bi rastî ${PRODUCTNAME} ji bo hemû bikarhêneran bê pere ye? 				2002-02-02 02:02:02
 readlicense_oo	docs\readme\readme.xrm	0	readmeitem	A12	A12			0	ku	Çima ${PRODUCTNAME} ji bo hemû kesî bê pere ye?				2002-02-02 02:02:02
 readlicense_oo	docs\readme\readme.xrm	0	readmeitem	rr3fgf42r	rr3fgf42r			0	ku	Nîşeyên Sazkirinê				2002-02-02 02:02:02
+readlicense_oo	docs\readme\readme.xrm	0	readmeitem	sdfsdfgf42r	sdfsdfgf42r			0	ku	Pêdiviyên pergalê				2002-02-02 02:02:02
 readlicense_oo	docs\readme\readme.xrm	0	readmeitem	macxiOSX	macxiOSX			0	ku	MacOSX 10.4 (Tiger) û bilindtir				2002-02-02 02:02:02
 readlicense_oo	docs\readme\readme.xrm	0	readmeitem	macxicpu	macxicpu			0	ku	Intel processor				2002-02-02 02:02:02
 readlicense_oo	docs\readme\readme.xrm	0	readmeitem	macxiRAM	macxiRAM			0	ku	512 MB Bîr				2002-02-02 02:02:02
 readlicense_oo	docs\readme\readme.xrm	0	readmeitem	macxivideo	macxivideo			0	ku	1024 x 768 cîhaza grafîkê bi 256 reng re (rêjeşaneya bilindtir tê pêşniyarkirin)				2002-02-02 02:02:02
+readlicense_oo	docs\readme\readme.xrm	0	readmeitem	s2s3sdf2	s2s3sdf2			0	ku	Microsoft Windows 2000 (Service Pack 4 û bilindtir), XP, Vista an Windows 7				2002-02-02 02:02:02
+readlicense_oo	docs\readme\readme.xrm	0	readmeitem	utzu6	utzu6			0	ku	Pentium compatible PC (Pentium III an jî Athlon tê tawsiyekirin)				2002-02-02 02:02:02
+readlicense_oo	docs\readme\readme.xrm	0	readmeitem	ghuj67	ghuj67			0	ku	256 MB RAM (512 MB RAM tên tawsiyekirin)				2002-02-02 02:02:02
 readlicense_oo	docs\readme\readme.xrm	0	readmeitem	jtzu56	jtzu56			0	ku	1024x768 rêjeşane (rêjeşaneya bilindtir tê pêşniyarkirin), kêmtirîn 256 reng				2002-02-02 02:02:02
 readlicense_oo	docs\readme\readme.xrm	0	readmeitem	s2335	s2335			0	ku	Solaris 10 pergala xebitandinê (SPARC platform) û bilindtir				2002-02-02 02:02:02
+readlicense_oo	docs\readme\readme.xrm	0	readmeitem	s253	s253			0	ku	256 MB RAM (512 MB RAM tên tawsiyekirin)				2002-02-02 02:02:02
+readlicense_oo	docs\readme\readme.xrm	0	readmeitem	s2s43gfe	s2s43gfe			0	ku	Pêşkêşkera X bi 1024x768 rêjeşane (rêjeşaneya bilindtir tê pêşniyarkirin) re, bi kêmtirîn 256 reng				2002-02-02 02:02:02
+readlicense_oo	docs\readme\readme.xrm	0	readmeitem	n4234rw	n4234rw			0	ku	Rêvebirê paceyan				2002-02-02 02:02:02
 readlicense_oo	docs\readme\readme.xrm	0	readmeitem	s23h	s23h			0	ku	Solaris 10 pergala xebitandinê (x86 platform) û bilindtir				2002-02-02 02:02:02
+readlicense_oo	docs\readme\readme.xrm	0	readmeitem	s24f	s24f			0	ku	256 MB RAM (512 MB RAM tê pêşniyarkirin)				2002-02-02 02:02:02
+readlicense_oo	docs\readme\readme.xrm	0	readmeitem	fghfgh	fghfgh			0	ku	Pêşkêşkera X bi 1024x768 rêjeşane (rêjeşaneya bilindtir tê pêşniyarkirin) re, bi kêmtirîn 256 reng				2002-02-02 02:02:02
+readlicense_oo	docs\readme\readme.xrm	0	readmeitem	mgjfg	mgjfg			0	ku	Rêvebirê paceyan				2002-02-02 02:02:02
+readlicense_oo	docs\readme\readme.xrm	0	readmeitem	s2we35	s2we35			0	ku	Guhertoya 2.6.18 an bilindtir a kernela Linuxê				2002-02-02 02:02:02
+readlicense_oo	docs\readme\readme.xrm	0	readmeitem	s253we	s253we			0	ku	glibc2 guhertoya 2.5 an bilindtir				2002-02-02 02:02:02
+readlicense_oo	docs\readme\readme.xrm	0	readmeitem	s256we	s256we			0	ku	gtk guhertoya 2.10.4 an bilindtir				2002-02-02 02:02:02
+readlicense_oo	docs\readme\readme.xrm	0	readmeitem	s2etfseg	s2etfseg			0	ku	Pentium compatible PC (Pentium III an jî Athlon tê pêşniyar kirin)				2002-02-02 02:02:02
+readlicense_oo	docs\readme\readme.xrm	0	readmeitem	s2ssdfe	s2ssdfe			0	ku	256 MB RAM (512 MB RAM tê pêşniyarkirin)				2002-02-02 02:02:02
+readlicense_oo	docs\readme\readme.xrm	0	readmeitem	ghjhhr	ghjhhr			0	ku	Pêşkêşkera X bi 1024x768 rêjeşane (rêjeşaneya bilindtir tê pêşniyarkirin) re, bi kêmtirîn 256 reng				2002-02-02 02:02:02
+readlicense_oo	docs\readme\readme.xrm	0	readmeitem	fhrtz5	fhrtz5			0	ku	Rêvebirê paceyan				2002-02-02 02:02:02
 readlicense_oo	docs\readme\readme.xrm	0	readmeitem	awe1	awe1			0	ku	Bişkokên Kurteriyan				2002-02-02 02:02:02
 readlicense_oo	docs\readme\readme.xrm	0	readmeitem	gfh6w	gfh6w			0	ku	Qefilkirina pelan				2002-02-02 02:02:02
 readlicense_oo	docs\readme\readme.xrm	0	readmeitem	gfh6w1	gfh6w1			0	ku	Di dema şandina belgeyan wekî E-peyam ji ${PRODUCTNAME} de pirsgirêk derketine				2002-02-02 02:02:02
 readlicense_oo	docs\readme\readme.xrm	0	readmeitem	reg1	reg1			0	ku	Xwe tomar bike 				2002-02-02 02:02:02
+readlicense_oo	docs\readme\readme.xrm	0	readmeitem	survey	survey			0	ku	Anketa bikarhêneran				2002-02-02 02:02:02
 readlicense_oo	docs\readme\readme.xrm	0	readmeitem	support	support			0	ku	Piştgiriya Bi Bikarhêner				2002-02-02 02:02:02
+readlicense_oo	docs\readme\readme.xrm	0	readmeitem	gettinginvolved1	gettinginvolved1			0	ku	Tevlêbûn				2002-02-02 02:02:02
 readlicense_oo	docs\readme\readme.xrm	0	readmeitem	gettinginvolved2	gettinginvolved2			0	ku	Komika ${PRODUCTNAME}, kodên çavkaniyê vekirî ye, dê ji bo pêşxistina projeya girîng de gelekî alîkariya we werbigire.				2002-02-02 02:02:02
 readlicense_oo	docs\readme\readme.xrm	0	readmeitem	subscribe	subscribe			0	ku	Abonebûn				2002-02-02 02:02:02
 readlicense_oo	docs\readme\readme.xrm	0	readmeitem	credits	credits			0	ku	Em bawer in xebitandina te ya bi ${PRODUCTNAME} ${PRODUCTVERSION} re tu yê xweşhal be.				2002-02-02 02:02:02
@@ -9136,6 +9202,7 @@ sc	source\ui\src\scstring.src	0	string	STR_ACC_EDITLINE_NAME				0	ku	Rêzika tê
 sc	source\ui\src\scstring.src	0	string	STR_ACC_EDITCELL_NAME				0	ku	Şanik %1				2002-02-02 02:02:02
 sc	source\ui\src\scstring.src	0	string	SCSTR_MEDIASHELL				0	ku	Media Playback				2002-02-02 02:02:02
 sc	source\ui\src\scstring.src	0	string	RID_SCSTR_ONCLICK				0	ku	Bişkoka mişkê hate tikandin				2002-02-02 02:02:02
+sc	source\ui\src\scstring.src	0	itemlist	SCSTR_PRINT_OPTIONS	17			0	ku	Rû~pel				2002-02-02 02:02:02
 sc	source\ui\src\optsolver.src	0	imagebutton	RID_SCDLG_OPTSOLVER	IB_OBJECTIVECELL			13	ku	-		Shrink		2002-02-02 02:02:02
 sc	source\ui\src\optsolver.src	0	radiobutton	RID_SCDLG_OPTSOLVER	RB_MAX			50	ku	Zêdetirîn				2002-02-02 02:02:02
 sc	source\ui\src\optsolver.src	0	radiobutton	RID_SCDLG_OPTSOLVER	RB_MIN			50	ku	Hindiktirîn				2002-02-02 02:02:02
@@ -11423,6 +11490,7 @@ sccomp	source\solver\solver.src	0	string	RID_PROPERTY_NONNEGATIVE				0	ku	Nirxan
 sccomp	source\solver\solver.src	0	string	RID_PROPERTY_INTEGER				0	ku	Nirxan wekî hejmarên tam dihesibîne				2002-02-02 02:02:02
 sccomp	source\solver\solver.src	0	string	RID_PROPERTY_TIMEOUT				0	ku	Sînora demê çareser dike (çirke)				2002-02-02 02:02:02
 sccomp	source\solver\solver.src	0	string	RID_PROPERTY_EPSILONLEVEL				0	ku	Asta epsîlon (0-3)				2002-02-02 02:02:02
+sccomp	source\solver\solver.src	0	string	RID_PROPERTY_LIMITBBDEPTH				0	ku	Kûrayiya branch-and-bound bisînor bike				2002-02-02 02:02:02
 sccomp	source\solver\solver.src	0	string	RID_ERROR_NONLINEAR				0	ku	Model lîner nîn.				2002-02-02 02:02:02
 sccomp	source\solver\solver.src	0	string	RID_ERROR_EPSILONLEVEL				0	ku	Asta epsîlon nederbasdar e.				2002-02-02 02:02:02
 sccomp	source\solver\solver.src	0	string	RID_ERROR_INFEASIBLE				0	ku	Model nayê afirandin. Şertên sînordar kirinê kontrol bike.				2002-02-02 02:02:02
@@ -11438,9 +11506,13 @@ scp2	source\calc\module_calc.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_ADDINS				0	
 scp2	source\calc\folderitem_calc.ulf	0	LngText	STR_FI_NAME_TABELLENDOKUMENT				0	ku	Tabloya Hesêb				2002-02-02 02:02:02
 scp2	source\calc\folderitem_calc.ulf	0	LngText	STR_FI_TOOLTIP_CALC				0	ku	Hesaban, analîzên agahiyan û di tabloyên hesaban de rêveberiya lîsteyan bi Calcê çêbikin û sererast bikin.				2002-02-02 02:02:02
 scp2	source\calc\registryitem_calc.ulf	0	LngText	STR_REG_VAL_NEW				0	ku	&Nû				2002-02-02 02:02:02
+scp2	source\calc\registryitem_calc.ulf	0	LngText	STR_REG_VAL_SO60_SPREADSHEET				0	ku	Tabloya Hesaban a %SXWFORMATNAME %SXWFORMATVERSION				2002-02-02 02:02:02
+scp2	source\calc\registryitem_calc.ulf	0	LngText	STR_REG_VAL_SO60_CALC_TEMPLATE				0	ku	Şablona Tabloya Hesaban a %SXWFORMATNAME %SXWFORMATVERSION				2002-02-02 02:02:02
 scp2	source\calc\registryitem_calc.ulf	0	LngText	STR_REG_VAL_OO_CALC				0	ku	Tabloya Hesêb a OpenDocument				2002-02-02 02:02:02
 scp2	source\calc\registryitem_calc.ulf	0	LngText	STR_REG_VAL_OO_CALC_TEMPLATE				0	ku	Şablona Taboya Hesêb A OpenDocument				2002-02-02 02:02:02
 scp2	source\draw\registryitem_draw.ulf	0	LngText	STR_REG_VAL_NEW				0	ku	&Nû				2002-02-02 02:02:02
+scp2	source\draw\registryitem_draw.ulf	0	LngText	STR_REG_VAL_SO60_DRAWING				0	ku	Xêzkirin %SXWFORMATNAME %SXWFORMATVERSION				2002-02-02 02:02:02
+scp2	source\draw\registryitem_draw.ulf	0	LngText	STR_REG_VAL_SO60_DRAW_TEMPLATE				0	ku	Şablona xêzkirinê ya %SXWFORMATNAME %SXWFORMATVERSION				2002-02-02 02:02:02
 scp2	source\draw\registryitem_draw.ulf	0	LngText	STR_REG_VAL_OO_DRAW				0	ku	Xêzkirina OpenDocument				2002-02-02 02:02:02
 scp2	source\draw\registryitem_draw.ulf	0	LngText	STR_REG_VAL_OO_DRAW_TEMPLATE				0	ku	Şablona Xêzkirinê ya OpenDocument				2002-02-02 02:02:02
 scp2	source\draw\module_draw.ulf	0	LngText	STR_NAME_MODULE_PRG_DRAW				0	ku	%PRODUCTNAME Draw				2002-02-02 02:02:02
@@ -11470,6 +11542,8 @@ scp2	source\javafilter\module_javafilter.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_
 scp2	source\javafilter\module_javafilter.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_JAVAFILTER_POCKETPC_POCKET_EXCEL				0	ku	Desteka Pocket Excel				2002-02-02 02:02:02
 scp2	source\impress\registryitem_impress.ulf	0	LngText	STR_REG_VAL_NEW				0	ku	&Nû				2002-02-02 02:02:02
 scp2	source\impress\registryitem_impress.ulf	0	LngText	STR_REG_VAL_SO60_SHOW				0	ku	Nîşan Bide				2002-02-02 02:02:02
+scp2	source\impress\registryitem_impress.ulf	0	LngText	STR_REG_VAL_SO60_PRESENT				0	ku	Pêşkêşî %SXWFORMATNAME %SXWFORMATVERSION				2002-02-02 02:02:02
+scp2	source\impress\registryitem_impress.ulf	0	LngText	STR_REG_VAL_SO60_IMPRESS_TEMPLATE				0	ku	Şablona Pêşkêşiyê ya %SXWFORMATNAME %SXWFORMATVERSION				2002-02-02 02:02:02
 scp2	source\impress\registryitem_impress.ulf	0	LngText	STR_REG_VAL_OO_PRESENT				0	ku	Pêşkêşiya OpenDocument				2002-02-02 02:02:02
 scp2	source\impress\registryitem_impress.ulf	0	LngText	STR_REG_VAL_OO_PRESENT_TEMPLATE				0	ku	Şablona Pêşkêşiyê a OpenDocument				2002-02-02 02:02:02
 scp2	source\impress\folderitem_impress.ulf	0	LngText	STR_FI_NAME_PRAESENTATION				0	ku	Pêşkêşî				2002-02-02 02:02:02
@@ -11481,6 +11555,9 @@ scp2	source\impress\module_impress.ulf	0	LngText	STR_DESC_MODULE_PRG_IMPRESS_BIN
 scp2	source\impress\module_impress.ulf	0	LngText	STR_NAME_MODULE_PRG_IMPRESS_HELP				0	ku	Alîkariya Pêşkêşiyê a %PRODUCTNAME				2002-02-02 02:02:02
 scp2	source\impress\module_impress.ulf	0	LngText	STR_DESC_MODULE_PRG_IMPRESS_HELP				0	ku	Alîkariya der barê pêşkêşiyê a %PRODUCTNAME				2002-02-02 02:02:02
 scp2	source\writer\registryitem_writer.ulf	0	LngText	STR_REG_VAL_NEW				0	ku	&Nû				2002-02-02 02:02:02
+scp2	source\writer\registryitem_writer.ulf	0	LngText	STR_REG_VAL_SO60_TEXT				0	ku	Belgeya tekstê ya %SXWFORMATNAME %SXWFORMATVERSION				2002-02-02 02:02:02
+scp2	source\writer\registryitem_writer.ulf	0	LngText	STR_REG_VAL_SO60_MASTERDOC				0	ku	Makebelge ya %SXWFORMATNAME %SXWFORMATVERSION				2002-02-02 02:02:02
+scp2	source\writer\registryitem_writer.ulf	0	LngText	STR_REG_VAL_SO60_WRITER_TEMPLATE				0	ku	Şablona Belgeya Tekstê ya %SXWFORMATNAME %SXWFORMATVERSION				2002-02-02 02:02:02
 scp2	source\writer\registryitem_writer.ulf	0	LngText	STR_REG_VAL_OO_WRITER				0	ku	Nivîsa OpenDocument				2002-02-02 02:02:02
 scp2	source\writer\registryitem_writer.ulf	0	LngText	STR_REG_VAL_OO_WRITER_TEMPLATE				0	ku	Şablona Nivîsan a OpenDocument				2002-02-02 02:02:02
 scp2	source\writer\registryitem_writer.ulf	0	LngText	STR_REG_VAL_OO_MASTERDOC				0	ku	Makebelgeya OpenDocument				2002-02-02 02:02:02
@@ -11495,6 +11572,7 @@ scp2	source\writer\folderitem_writer.ulf	0	LngText	STR_FI_NAME_HTMLDOKUMENT				0
 scp2	source\writer\folderitem_writer.ulf	0	LngText	STR_FI_NAME_TEXTDOKUMENT				0	ku	Belgeya Nivîsê				2002-02-02 02:02:02
 scp2	source\writer\folderitem_writer.ulf	0	LngText	STR_FI_TOOLTIP_WRITER				0	ku	Nivîs û grafîkên ku di name, rapor, belge û rûpelên Webê de ne bî Writerê çêbike û sererast bike.				2002-02-02 02:02:02
 scp2	source\math\registryitem_math.ulf	0	LngText	STR_REG_VAL_NEW				0	ku	&Nû				2002-02-02 02:02:02
+scp2	source\math\registryitem_math.ulf	0	LngText	STR_REG_VAL_SO60_FORMULA				0	ku	Formul a %SXWFORMATNAME %SXWFORMATVERSION				2002-02-02 02:02:02
 scp2	source\math\registryitem_math.ulf	0	LngText	STR_REG_VAL_OO_FORMULA				0	ku	Formula OpenDocument				2002-02-02 02:02:02
 scp2	source\math\module_math.ulf	0	LngText	STR_NAME_MODULE_PRG_MATH				0	ku	%PRODUCTNAME Math				2002-02-02 02:02:02
 scp2	source\math\module_math.ulf	0	LngText	STR_DESC_MODULE_PRG_MATH				0	ku	Formul û yeksanên zanistî bi %PRODUCTNAME Math re çêbike û sererast bike.				2002-02-02 02:02:02
@@ -11715,6 +11793,7 @@ scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_MN				0	k
 scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_MY				0	ku	Piştgiriya Burmî (Myanmar) li %PRODUCTNAME %PRODUCTVERSION saz dike				2002-02-02 02:02:02
 scp2	source\ooo\registryitem_ooo.ulf	0	LngText	STR_REG_VAL_NEW				0	ku	&Nû				2002-02-02 02:02:02
 scp2	source\ooo\registryitem_ooo.ulf	0	LngText	STR_REG_VAL_INSTALL				0	ku	&Sazkirin				2002-02-02 02:02:02
+scp2	source\ooo\registryitem_ooo.ulf	0	LngText	STR_REG_VAL_SO60_CONFIGFILE				0	ku	Pelê Veavakirinê ya %SXWFORMATNAME %SXWFORMATVERSION				2002-02-02 02:02:02
 scp2	source\ooo\registryitem_ooo.ulf	0	LngText	STR_REG_VAL_SO50_TEMPLATE_OOO				0	ku	Şablona StarOffice 5.0				2002-02-02 02:02:02
 scp2	source\ooo\registryitem_ooo.ulf	0	LngText	STR_REG_VAL_APPCAPABILITY_DESCRIPTION_OOO				0	ku	OpenOffice.org				2002-02-02 02:02:02
 scp2	source\ooo\folderitem_ooo.ulf	0	LngText	STR_FI_NAME_FROMTEMPLATE				0	ku	Ji Şablonê				2002-02-02 02:02:02
@@ -12753,6 +12832,7 @@ sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_NOTESVIEW_N	
 sd	source\ui\accessibility\accessibility.src	0	string	SID_SD_A11Y_I_NOTESVIEW_D				0	ku	Ev der, cihê ku tu nîşeyan lê dinivîse û wan dide nîşandan e				2002-02-02 02:02:02
 sdext	source\minimizer\registry\data\org\openoffice\Office\Addons.xcu	0	value	.Addons.AddonUI.OfficeMenuBarMerging.SunPresentationMinimizer.Command1.MenuItems.SunPresentationMinimizerExecute2	Title			0	ku	Pêşkêşiyê ~Kêmtirîn Bike...				2002-02-02 02:02:02
 sdext	source\minimizer\registry\data\org\openoffice\Office\extension\SunPresentationMinimizer.xcu	0	value	.SunPresentationMinimizer	HelpFile			0	ku	%origin%/../../../../../../help/help_en-US.odt				2002-02-02 02:02:02
+sdext	source\minimizer\registry\data\org\openoffice\Office\extension\SunPresentationMinimizer.xcu	0	value	.SunPresentationMinimizer.Strings	STR_SUN_OPTIMIZATION_WIZARD2			0	ku	Oracle Biçûkerê Pêşkêşiyê				2002-02-02 02:02:02
 sdext	source\minimizer\registry\data\org\openoffice\Office\extension\SunPresentationMinimizer.xcu	0	value	.SunPresentationMinimizer.Strings	STR_STEPS			0	ku	Gav				2002-02-02 02:02:02
 sdext	source\minimizer\registry\data\org\openoffice\Office\extension\SunPresentationMinimizer.xcu	0	value	.SunPresentationMinimizer.Strings	STR_HELP			0	ku	~Alîkarî				2002-02-02 02:02:02
 sdext	source\minimizer\registry\data\org\openoffice\Office\extension\SunPresentationMinimizer.xcu	0	value	.SunPresentationMinimizer.Strings	STR_BACK			0	ku	< ~Paşve				2002-02-02 02:02:02
@@ -12760,6 +12840,8 @@ sdext	source\minimizer\registry\data\org\openoffice\Office\extension\SunPresenta
 sdext	source\minimizer\registry\data\org\openoffice\Office\extension\SunPresentationMinimizer.xcu	0	value	.SunPresentationMinimizer.Strings	STR_FINISH			0	ku	~Bidawîkirin				2002-02-02 02:02:02
 sdext	source\minimizer\registry\data\org\openoffice\Office\extension\SunPresentationMinimizer.xcu	0	value	.SunPresentationMinimizer.Strings	STR_CANCEL			0	ku	Betalkirin				2002-02-02 02:02:02
 sdext	source\minimizer\registry\data\org\openoffice\Office\extension\SunPresentationMinimizer.xcu	0	value	.SunPresentationMinimizer.Strings	STR_INTRODUCTION			0	ku	Destpêk				2002-02-02 02:02:02
+sdext	source\minimizer\registry\data\org\openoffice\Office\extension\SunPresentationMinimizer.xcu	0	value	.SunPresentationMinimizer.Strings	STR_INTRODUCTION_T			0	ku	Oracle Biçûkerê Pêşkêşiyê ji bo biçûk kirina mezinahiya pela pêşkêşiyê ya niha vekirî tê bikaranîn. Wêne wê bên şidandin û dana, yê êdî nayên bikaranîn, wê bên rakirin. Di gava dawiyê ya sêrbaz de hûn dikarin hilbijêrin ku guherîn an ji bo pêşkêşiya niha vekirî werin sepandin an ji bo afirandina guhertoya nû ya pêşkêşiyê werin afirandin.				2002-02-02 02:02:02
+sdext	source\minimizer\registry\data\org\openoffice\Office\extension\SunPresentationMinimizer.xcu	0	value	.SunPresentationMinimizer.Strings	STR_CHOSE_SETTINGS			0	ku	Mîhengên Oracle Biçûkerê Pêşkêşiyê ~hilbijêre				2002-02-02 02:02:02
 sdext	source\minimizer\registry\data\org\openoffice\Office\extension\SunPresentationMinimizer.xcu	0	value	.SunPresentationMinimizer.Strings	STR_REMOVE			0	ku	~Jêbirin				2002-02-02 02:02:02
 sdext	source\minimizer\registry\data\org\openoffice\Office\extension\SunPresentationMinimizer.xcu	0	value	.SunPresentationMinimizer.Strings	STR_GRAPHIC_OPTIMIZATION			0	ku	Mîhengên baştir kirina wêne û xanxankan hilbijêre				2002-02-02 02:02:02
 sdext	source\minimizer\registry\data\org\openoffice\Office\extension\SunPresentationMinimizer.xcu	0	value	.SunPresentationMinimizer.Strings	STR_IMAGE_OPTIMIZATION			0	ku	Grafîk				2002-02-02 02:02:02
@@ -12805,6 +12887,8 @@ sdext	source\minimizer\registry\data\org\openoffice\Office\extension\SunPresenta
 sdext	source\minimizer\registry\data\org\openoffice\Office\extension\SunPresentationMinimizer.xcu	0	value	.SunPresentationMinimizer.Strings	STR_DEFAULT_SESSION			0	ku	danişîna standard				2002-02-02 02:02:02
 sdext	source\minimizer\registry\data\org\openoffice\Office\extension\SunPresentationMinimizer.xcu	0	value	.SunPresentationMinimizer.Strings	STR_MODIFY_WARNING			0	ku	Baştir kirin wê belgeya niha biguherîne. Tu dixwazî bidomînî?				2002-02-02 02:02:02
 sdext	source\minimizer\registry\data\org\openoffice\Office\extension\SunPresentationMinimizer.xcu	0	value	.SunPresentationMinimizer.Strings	STR_YES			0	ku	~Erê				2002-02-02 02:02:02
+sdext	source\minimizer\registry\data\org\openoffice\Office\extension\SunPresentationMinimizer.xcu	0	value	.SunPresentationMinimizer.Strings	STR_ABOUT2			0	ku	Oracle Biçûkerê Pêşkêşiyê				2002-02-02 02:02:02
+sdext	source\minimizer\registry\data\org\openoffice\Office\extension\SunPresentationMinimizer.xcu	0	value	.SunPresentationMinimizer.Strings	STR_ABOUT_VERSION2			0	ku	Der barê Oracle Biçûkerê Pêşkêşiyê 1.0.2 de				2002-02-02 02:02:02
 sdext	source\minimizer\registry\data\org\openoffice\Office\extension\SunPresentationMinimizer.xcu	0	value	.SunPresentationMinimizer.Strings	STR_OK			0	ku	Temam				2002-02-02 02:02:02
 sdext	source\minimizer\registry\data\org\openoffice\Office\extension\SunPresentationMinimizer.xcu	0	value	.SunPresentationMinimizer.Strings	STR_INFO_1			0	ku	%EXTENSIONNAME bi serfiraz pêşkêşiya '%TITLE' rojane kir. Mezinahiya pelê jê %OLDFILESIZE MB an guherî %NEWFILESIZE MB an.				2002-02-02 02:02:02
 sdext	source\minimizer\registry\data\org\openoffice\Office\extension\SunPresentationMinimizer.xcu	0	value	.SunPresentationMinimizer.Strings	STR_INFO_2			0	ku	%EXTENSIONNAME bi serfiraz pêşkêşiya '%TITLE' rojane kir. Mezinahiya pelê jê %OLDFILESIZE MB an guherî kêm-zêde %NEWFILESIZE MB an.				2002-02-02 02:02:02
@@ -13655,6 +13739,7 @@ starmath	source\smres.src	0	pushbutton	RID_SYMDEFINEDIALOG	1			50	ku	~Lêzêde b
 starmath	source\smres.src	0	pushbutton	RID_SYMDEFINEDIALOG	2			50	ku	Bi~guherîne				2002-02-02 02:02:02
 starmath	source\smres.src	0	pushbutton	RID_SYMDEFINEDIALOG	3			50	ku	~Jê bibe				2002-02-02 02:02:02
 starmath	source\smres.src	0	modaldialog	RID_SYMDEFINEDIALOG				365	ku	Sembola sererast bike				2002-02-02 02:02:02
+starmath	source\smres.src	0	warningbox	RID_NOMATHTYPEFACEWARNING				365	ku	Cûreya nivîsa 'StarMath' nehat sazkirin.\nEv cûreya nivîsê nebe bernameya %PRODUCTNAME Math bi awayek rast naxebite...\nCûreya nivîsê bar bike û bernameya %PRODUCTNAME Math nû va bide destpêk kirin.				2002-02-02 02:02:02
 starmath	source\smres.src	0	querybox	RID_DEFAULTSAVEQUERY				365	ku	Bila guhertin wek nirxên heyî were tomar kirin?\n\nEv guhertin bandorê li hemû formulan dike.				2002-02-02 02:02:02
 starmath	source\smres.src	0	string	RID_FONTREGULAR				365	ku	Standard				2002-02-02 02:02:02
 starmath	source\smres.src	0	string	RID_FONTITALIC				365	ku	Paldayî				2002-02-02 02:02:02
@@ -15846,6 +15931,7 @@ svx	source\engine3d\string3d.src	0	string	RID_SVX_3D_UNDO_CAMPOS				0	ku	Rewşa 
 svx	source\engine3d\string3d.src	0	string	RID_SVX_3D_UNDO_ROTATE				0	ku	Objeya 3D bizîvirîne				2002-02-02 02:02:02
 svx	source\engine3d\string3d.src	0	string	RID_SVX_3D_UNDO_EXTRUDE				0	ku	Objeya derxistinê biafirîne				2002-02-02 02:02:02
 svx	source\engine3d\string3d.src	0	string	RID_SVX_3D_UNDO_LATHE				0	ku	Objeya zîvirandinê biafirîne				2002-02-02 02:02:02
+svx	source\intro\ooo.src	0	string	RID_DEFAULTABOUT	ABOUT_STR_COPYRIGHT			168	ku	Mafê kopîkirinê 2000, 2010 Oracle û/an yên girêdayên wê. Hemû maf parastî ne.\nEv berhem ji aliyê %OOOVENDOR, ser bingeha OpenOffice.org hatiye afirandin.\nOpenOffice.org spasiya hemû endamên komê dike, bi taybetî yên ku di\n http://www.openoffice.org/welcome/credits.html de hatin bibîranîn.				2002-02-02 02:02:02
 svx	source\intro\intro_tmpl.hrc	0	#define	TEXT_DEFAULTABOUT				0	ku	Derbarê %PRODUCTNAME de				2002-02-02 02:02:02
 svx	source\stbctrls\stbctrls.src	0	string	RID_SVXSTR_INSERT_TEXT				0	ku	INSRT				2002-02-02 02:02:02
 svx	source\stbctrls\stbctrls.src	0	string	RID_SVXSTR_OVERWRITE_TEXT				0	ku	OVER				2002-02-02 02:02:02
