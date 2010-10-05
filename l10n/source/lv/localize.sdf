@@ -12209,12 +12209,12 @@ sc	source\ui\dbgui\pvfundlg.src	0	fixedtext	RID_SCDLG_DPSUBTOTAL_OPT	FT_HIERARCH
 sc	source\ui\dbgui\pvfundlg.src	0	modaldialog	RID_SCDLG_DPSUBTOTAL_OPT		HID_SC_DPSUBT_OPT		266	lv	Datu lauku opcijas				2002-02-02 02:02:02
 sc	source\ui\dbgui\pvfundlg.src	0	fixedtext	RID_SCDLG_DPSHOWDETAIL	FT_DIMS			132	lv	~Izvēlieties laukumu, kurš satur detaļas, ko vēlaties rādīt				2002-02-02 02:02:02
 sc	source\ui\dbgui\pvfundlg.src	0	modaldialog	RID_SCDLG_DPSHOWDETAIL		HID_SC_DPSHOWDETAIL		200	lv	Rādīt detaļas				2002-02-02 02:02:02
-sc	source\ui\dbgui\textimportoptions.src	0	fixedline	RID_SCDLG_TEXT_IMPORT_OPTIONS	FL_CHOOSE_LANG			125	lv	Izvēlieties valodu, kuru izmantot importēšanai				2002-02-02 02:02:02
-sc	source\ui\dbgui\textimportoptions.src	0	radiobutton	RID_SCDLG_TEXT_IMPORT_OPTIONS	RB_AUTOMATIC			50	lv	Automātiski				2002-02-02 02:02:02
-sc	source\ui\dbgui\textimportoptions.src	0	radiobutton	RID_SCDLG_TEXT_IMPORT_OPTIONS	RB_CUSTOM			50	lv	Pielāgots				2002-02-02 02:02:02
-sc	source\ui\dbgui\textimportoptions.src	0	fixedline	RID_SCDLG_TEXT_IMPORT_OPTIONS	FL_OPTION			125	lv	Opcijas				2002-02-02 02:02:02
-sc	source\ui\dbgui\textimportoptions.src	0	checkbox	RID_SCDLG_TEXT_IMPORT_OPTIONS	BTN_CONVERT_DATE			125	lv	Noteikt īpašos skaitļus (piemēram, datumus).				2002-02-02 02:02:02
-sc	source\ui\dbgui\textimportoptions.src	0	modaldialog	RID_SCDLG_TEXT_IMPORT_OPTIONS				190	lv	Importēšanas opcijas				2002-02-02 02:02:02
+sc	source\ui\dbgui\textimportoptions.src	0	fixedline	RID_SCDLG_TEXT_IMPORT_OPTIONS	FL_CHOOSE_LANG			165	lv	Izvēlieties valodu, kuru izmantot importēšanai				2002-02-02 02:02:02
+sc	source\ui\dbgui\textimportoptions.src	0	radiobutton	RID_SCDLG_TEXT_IMPORT_OPTIONS	RB_AUTOMATIC			159	lv	Automātiski				2002-02-02 02:02:02
+sc	source\ui\dbgui\textimportoptions.src	0	radiobutton	RID_SCDLG_TEXT_IMPORT_OPTIONS	RB_CUSTOM			159	lv	Pielāgots				2002-02-02 02:02:02
+sc	source\ui\dbgui\textimportoptions.src	0	fixedline	RID_SCDLG_TEXT_IMPORT_OPTIONS	FL_OPTION			165	lv	Opcijas				2002-02-02 02:02:02
+sc	source\ui\dbgui\textimportoptions.src	0	checkbox	RID_SCDLG_TEXT_IMPORT_OPTIONS	BTN_CONVERT_DATE			159	lv	Noteikt īpašos skaitļus (piemēram, datumus).				2002-02-02 02:02:02
+sc	source\ui\dbgui\textimportoptions.src	0	modaldialog	RID_SCDLG_TEXT_IMPORT_OPTIONS				230	lv	Importēšanas opcijas				2002-02-02 02:02:02
 sc	source\ui\dbgui\imoptdlg.src	0	fixedtext	RID_SCDLG_IMPORTOPT	FT_FIELDSEP			55	lv	~Lauka atdalītājs				2002-02-02 02:02:02
 sc	source\ui\dbgui\imoptdlg.src	0	fixedtext	RID_SCDLG_IMPORTOPT	FT_TEXTSEP			55	lv	~Teksta atdalītājs				2002-02-02 02:02:02
 sc	source\ui\dbgui\imoptdlg.src	0	fixedtext	RID_SCDLG_IMPORTOPT	FT_FONT			55	lv	~Rakstzīmju kopa				2002-02-02 02:02:02
@@ -14692,8 +14692,8 @@ sc	source\ui\src\optdlg.src	0	checkbox	RID_SCPAGE_CALC	BTN_CALC			239	lv	Rādī�
 sc	source\ui\src\optdlg.src	0	checkbox	RID_SCPAGE_CALC	BTN_MATCH			239	lv	Meklēšanas kritēriji  = un =/= ir jāpielieto veselām šūnām				2002-02-02 02:02:02
 sc	source\ui\src\optdlg.src	0	checkbox	RID_SCPAGE_CALC	BTN_REGEX			239	lv	~Lietot regulārās izteiksmes formulās				2002-02-02 02:02:02
 sc	source\ui\src\optdlg.src	0	checkbox	RID_SCPAGE_CALC	BTN_LOOKUP			239	lv	~Automātiski atrast kolonnu un rindu etiķetes 				2002-02-02 02:02:02
-sc	source\ui\src\optdlg.src	0	checkbox	RID_SCPAGE_CALC	BTN_GENERAL_PREC			136	lv	Ierobežot decimālskaitļus vispārīgajam skaitļu formātam				2002-02-02 02:02:02
-sc	source\ui\src\optdlg.src	0	fixedtext	RID_SCPAGE_CALC	FT_PREC			72	lv	~Cipari aiz komata				2002-02-02 02:02:02
+sc	source\ui\src\optdlg.src	0	checkbox	RID_SCPAGE_CALC	BTN_GENERAL_PREC			148	lv	Ierobežot decimālskaitļus vispārīgajam skaitļu formātam				2002-02-02 02:02:02
+sc	source\ui\src\optdlg.src	0	fixedtext	RID_SCPAGE_CALC	FT_PREC			84	lv	~Cipari aiz komata				2002-02-02 02:02:02
 sc	source\ui\src\optdlg.src	0	fixedtext	RID_SCPAGE_USERLISTS	FT_LISTS			93	lv	~Saraksti				2002-02-02 02:02:02
 sc	source\ui\src\optdlg.src	0	fixedtext	RID_SCPAGE_USERLISTS	FT_ENTRIES			93	lv	I~eraksti				2002-02-02 02:02:02
 sc	source\ui\src\optdlg.src	0	fixedtext	RID_SCPAGE_USERLISTS	FT_COPYFROM			62	lv	Kopēt sarakstu ~no				2002-02-02 02:02:02
@@ -17960,7 +17960,7 @@ sd	source\ui\view\DocumentRenderer.src	0	itemlist	_STR_IMPRESS_PRINT_UI_OPTIONS.
 sd	source\ui\view\DocumentRenderer.src	0	itemlist	_STR_IMPRESS_PRINT_UI_OPTIONS._STR_DRAW_PRINT_UI_PAGE_RANGE_CHOICE	3			0	lv	Izvē~lētais				2002-02-02 02:02:02
 sdext	source\minimizer\registry\data\org\openoffice\Office\Addons.xcu	0	value	.Addons.AddonUI.OfficeMenuBarMerging.SunPresentationMinimizer.Command1.MenuItems.SunPresentationMinimizerExecute2	Title			0	lv	~Samazināt prezentāciju...				2002-02-02 02:02:02
 sdext	source\minimizer\registry\data\org\openoffice\Office\extension\SunPresentationMinimizer.xcu	0	value	.SunPresentationMinimizer	HelpFile			0	lv	%origin%/../../../../../../help/help_lv-LV.odt				2002-02-02 02:02:02
-sdext	source\minimizer\registry\data\org\openoffice\Office\extension\SunPresentationMinimizer.xcu	0	value	.SunPresentationMinimizer.Strings	STR_SUN_OPTIMIZATION_WIZARD2			0	lv	Oracle prezentāciju samazinātājs				2002-02-02 02:02:02
+sdext	source\minimizer\registry\data\org\openoffice\Office\extension\SunPresentationMinimizer.xcu	0	value	.SunPresentationMinimizer.Strings	STR_SUN_OPTIMIZATION_WIZARD2			0	lv	@MINIMIZEREXTENSIONPRODUCTNAME@				2002-02-02 02:02:02
 sdext	source\minimizer\registry\data\org\openoffice\Office\extension\SunPresentationMinimizer.xcu	0	value	.SunPresentationMinimizer.Strings	STR_STEPS			0	lv	Soļi				2002-02-02 02:02:02
 sdext	source\minimizer\registry\data\org\openoffice\Office\extension\SunPresentationMinimizer.xcu	0	value	.SunPresentationMinimizer.Strings	STR_HELP			0	lv	~Palīdzība				2002-02-02 02:02:02
 sdext	source\minimizer\registry\data\org\openoffice\Office\extension\SunPresentationMinimizer.xcu	0	value	.SunPresentationMinimizer.Strings	STR_BACK			0	lv	< ~Atpakaļ				2002-02-02 02:02:02
@@ -17968,12 +17968,12 @@ sdext	source\minimizer\registry\data\org\openoffice\Office\extension\SunPresenta
 sdext	source\minimizer\registry\data\org\openoffice\Office\extension\SunPresentationMinimizer.xcu	0	value	.SunPresentationMinimizer.Strings	STR_FINISH			0	lv	~Beigt				2002-02-02 02:02:02
 sdext	source\minimizer\registry\data\org\openoffice\Office\extension\SunPresentationMinimizer.xcu	0	value	.SunPresentationMinimizer.Strings	STR_CANCEL			0	lv	Atsaukt				2002-02-02 02:02:02
 sdext	source\minimizer\registry\data\org\openoffice\Office\extension\SunPresentationMinimizer.xcu	0	value	.SunPresentationMinimizer.Strings	STR_INTRODUCTION			0	lv	Ievads				2002-02-02 02:02:02
-sdext	source\minimizer\registry\data\org\openoffice\Office\extension\SunPresentationMinimizer.xcu	0	value	.SunPresentationMinimizer.Strings	STR_INTRODUCTION_T			0	lv	Oracle prezentācijas samazinātājs tiek izmantots, lai samazinātu pašreizējās prezentācijas faila izmēru. Attēli tiks saspiesti un dati, kas vairāk nav nepieciešami, tiks izņemti. Pēdējais vedņa solis jums dos iespēju izvēlēties starp iespēju piemērot izmaiņas pašreizējai prezentācijai, vai arī izveidot jaunu, optimizētu prezentācijas versiju.				2002-02-02 02:02:02
-sdext	source\minimizer\registry\data\org\openoffice\Office\extension\SunPresentationMinimizer.xcu	0	value	.SunPresentationMinimizer.Strings	STR_CHOSE_SETTINGS			0	lv	~Izvēlieties Oracle prezentācijas samazinātāja iestatījumus				2002-02-02 02:02:02
+sdext	source\minimizer\registry\data\org\openoffice\Office\extension\SunPresentationMinimizer.xcu	0	value	.SunPresentationMinimizer.Strings	STR_INTRODUCTION_T			0	lv	@MINIMIZEREXTENSIONPRODUCTNAME@ tiek izmantots, lai samazinātu pašreizējās prezentācijas faila izmēru. Attēli tiks saspiesti un dati, kas vairāk nav nepieciešami, tiks izņemti. Pēdējais vedņa solis jums dos iespēju izvēlēties starp iespēju piemērot izmaiņas pašreizējai prezentācijai, vai arī izveidot jaunu, optimizētu prezentācijas versiju.				2002-02-02 02:02:02
+sdext	source\minimizer\registry\data\org\openoffice\Office\extension\SunPresentationMinimizer.xcu	0	value	.SunPresentationMinimizer.Strings	STR_CHOSE_SETTINGS			0	lv	~Izvēlieties @MINIMIZEREXTENSIONPRODUCTNAME@ iestatījumus				2002-02-02 02:02:02
 sdext	source\minimizer\registry\data\org\openoffice\Office\extension\SunPresentationMinimizer.xcu	0	value	.SunPresentationMinimizer.Strings	STR_REMOVE			0	lv	~Dzēst				2002-02-02 02:02:02
 sdext	source\minimizer\registry\data\org\openoffice\Office\extension\SunPresentationMinimizer.xcu	0	value	.SunPresentationMinimizer.Strings	STR_GRAPHIC_OPTIMIZATION			0	lv	Izvēlieties iestatījumus attēlu un grafikas optimizācijai				2002-02-02 02:02:02
 sdext	source\minimizer\registry\data\org\openoffice\Office\extension\SunPresentationMinimizer.xcu	0	value	.SunPresentationMinimizer.Strings	STR_IMAGE_OPTIMIZATION			0	lv	Grafika				2002-02-02 02:02:02
-sdext	source\minimizer\registry\data\org\openoffice\Office\extension\SunPresentationMinimizer.xcu	0	value	.SunPresentationMinimizer.Strings	STR_LOSSLESS_COMPRESSION			0	lv	~Bezzuduma kompresija				2002-02-02 02:02:02
+sdext	source\minimizer\registry\data\org\openoffice\Office\extension\SunPresentationMinimizer.xcu	0	value	.SunPresentationMinimizer.Strings	STR_LOSSLESS_COMPRESSION			0	lv	~Bezzuduma saspiešana				2002-02-02 02:02:02
 sdext	source\minimizer\registry\data\org\openoffice\Office\extension\SunPresentationMinimizer.xcu	0	value	.SunPresentationMinimizer.Strings	STR_JPEG_COMPRESSION			0	lv	~JPEG kompresija				2002-02-02 02:02:02
 sdext	source\minimizer\registry\data\org\openoffice\Office\extension\SunPresentationMinimizer.xcu	0	value	.SunPresentationMinimizer.Strings	STR_QUALITY			0	lv	~Kvalitāte procentos				2002-02-02 02:02:02
 sdext	source\minimizer\registry\data\org\openoffice\Office\extension\SunPresentationMinimizer.xcu	0	value	.SunPresentationMinimizer.Strings	STR_REMOVE_CROP_AREA			0	lv	~Dzēst apcirstos grafiskos laukumus				2002-02-02 02:02:02
@@ -18019,10 +18019,10 @@ sdext	source\minimizer\registry\data\org\openoffice\Office\extension\SunPresenta
 sdext	source\minimizer\registry\data\org\openoffice\Office\extension\SunPresentationMinimizer.xcu	0	value	.SunPresentationMinimizer.Strings	STR_ABOUT_VERSION2			0	lv	Par Oracle prezentāciju samazinātāju 1.0.2				2002-02-02 02:02:02
 sdext	source\minimizer\registry\data\org\openoffice\Office\extension\SunPresentationMinimizer.xcu	0	value	.SunPresentationMinimizer.Strings	STR_ABOUT_PRN			0	lv	Autortiesības © 2000, 2010 Oracle un/vai tā partneri. Visas tiesības rezervētas. Šis produkts ir izveidots ar OpenOffice.org komūnas palīdzību, kurā Oracle ir galvenais dalībnieks. OpenOffice.org atzīst visus komūnas dalībniekus, it īpaši tos, kas minēti http://www.openoffice.org/welcome/credits.html 				2002-02-02 02:02:02
 sdext	source\minimizer\registry\data\org\openoffice\Office\extension\SunPresentationMinimizer.xcu	0	value	.SunPresentationMinimizer.Strings	STR_OK			0	lv	Labi				2002-02-02 02:02:02
-sdext	source\minimizer\registry\data\org\openoffice\Office\extension\SunPresentationMinimizer.xcu	0	value	.SunPresentationMinimizer.Strings	STR_INFO_1			0	lv	The %EXTENSIONNAME ir veiksmīgi atjauninājis prezentāciju '%TITLE'. Failaizmērs tika mainīts no %OLDFILESIZE MB uz %NEWFILESIZE MB.				2002-02-02 02:02:02
-sdext	source\minimizer\registry\data\org\openoffice\Office\extension\SunPresentationMinimizer.xcu	0	value	.SunPresentationMinimizer.Strings	STR_INFO_2			0	lv	The %EXTENSIONNAME ir veiksmīgi atjauninājis prezentāciju '%TITLE'. Failaizmērs tika mainīts no %OLDFILESIZE MB uz aptuveni %NEWFILESIZE MB.				2002-02-02 02:02:02
-sdext	source\minimizer\registry\data\org\openoffice\Office\extension\SunPresentationMinimizer.xcu	0	value	.SunPresentationMinimizer.Strings	STR_INFO_3			0	lv	The %EXTENSIONNAME ir veiksmīgi atjauninājis prezentāciju '%TITLE'. Failaizmērs tika mainīts uz %NEWFILESIZE MB.				2002-02-02 02:02:02
-sdext	source\minimizer\registry\data\org\openoffice\Office\extension\SunPresentationMinimizer.xcu	0	value	.SunPresentationMinimizer.Strings	STR_INFO_4			0	lv	The %EXTENSIONNAME ir veiksmīgi atjauninājis prezentāciju '%TITLE'. Failaizmērs tika mainīts uz aptuveni %NEWFILESIZE MB.				2002-02-02 02:02:02
+sdext	source\minimizer\registry\data\org\openoffice\Office\extension\SunPresentationMinimizer.xcu	0	value	.SunPresentationMinimizer.Strings	STR_INFO_1			0	lv	@MINIMIZEREXTENSIONPRODUCTNAME@ ir veiksmīgi atjauninājis prezentāciju '%TITLE'. Faila izmērs tika mainīts no %OLDFILESIZE MB uz %NEWFILESIZE MB.				2002-02-02 02:02:02
+sdext	source\minimizer\registry\data\org\openoffice\Office\extension\SunPresentationMinimizer.xcu	0	value	.SunPresentationMinimizer.Strings	STR_INFO_2			0	lv	@MINIMIZEREXTENSIONPRODUCTNAME@ ir veiksmīgi atjauninājis prezentāciju '%TITLE'. Faila izmērs tika mainīts no %OLDFILESIZE MB uz aptuveni %NEWFILESIZE MB.				2002-02-02 02:02:02
+sdext	source\minimizer\registry\data\org\openoffice\Office\extension\SunPresentationMinimizer.xcu	0	value	.SunPresentationMinimizer.Strings	STR_INFO_3			0	lv	@MINIMIZEREXTENSIONPRODUCTNAME@ ir veiksmīgi atjauninājis prezentāciju '%TITLE'. Faila izmērs tika mainīts uz %NEWFILESIZE MB.				2002-02-02 02:02:02
+sdext	source\minimizer\registry\data\org\openoffice\Office\extension\SunPresentationMinimizer.xcu	0	value	.SunPresentationMinimizer.Strings	STR_INFO_4			0	lv	@MINIMIZEREXTENSIONPRODUCTNAME@ ir veiksmīgi atjauninājis prezentāciju '%TITLE'. Faila izmērs tika mainīts uz aptuveni %NEWFILESIZE MB.				2002-02-02 02:02:02
 sdext	source\minimizer\registry\data\org\openoffice\Office\extension\SunPresentationMinimizer.xcu	0	value	.SunPresentationMinimizer.Strings	STR_DUPLICATING_PRESENTATION			0	lv	Dublē prezentāciju...				2002-02-02 02:02:02
 sdext	source\minimizer\registry\data\org\openoffice\Office\extension\SunPresentationMinimizer.xcu	0	value	.SunPresentationMinimizer.Strings	STR_DELETING_SLIDES			0	lv	Dzēš slaidus...				2002-02-02 02:02:02
 sdext	source\minimizer\registry\data\org\openoffice\Office\extension\SunPresentationMinimizer.xcu	0	value	.SunPresentationMinimizer.Strings	STR_OPTIMIZING_GRAPHICS			0	lv	Optimizē grafiku...				2002-02-02 02:02:02
@@ -18098,10 +18098,10 @@ sdext	source\presenter\registry\data\org\openoffice\Office\extension\PresenterSc
 sdext	source\presenter\registry\data\org\openoffice\Office\extension\PresenterScreen.xcu	0	value	..PresenterScreen.Presenter.Accessibility.Console	String			0	lv	Prezentētāja konsole				2002-02-02 02:02:02
 sdext	source\presenter\registry\data\org\openoffice\Office\extension\PresenterScreen.xcu	0	value	..PresenterScreen.Presenter.Accessibility.Preview	String			0	lv	Informācija par pašreizējo slaidu				2002-02-02 02:02:02
 sdext	source\presenter\registry\data\org\openoffice\Office\extension\PresenterScreen.xcu	0	value	..PresenterScreen.Presenter.Accessibility.Notes	String			0	lv	Prezentētāja piezīmes				2002-02-02 02:02:02
-sdext	source\presenter\help\en-US\com.sun.PresenterScreen\presenter.xhp	0	help	tit				0	lv	Oracle prezentētāja konsoles tastatūtas īsceļi				2002-02-02 02:02:02
-sdext	source\presenter\help\en-US\com.sun.PresenterScreen\presenter.xhp	0	help	bm_id0921200912285678				0	lv	\<bookmark_value\>Prezentētāja konsoles īsceļi\</bookmark_value\>				2002-02-02 02:02:02
-sdext	source\presenter\help\en-US\com.sun.PresenterScreen\presenter.xhp	0	help	hd_id0921201912165661				0	lv	Oracle prezentētāja konsoles tastatūtas īsceļi				2002-02-02 02:02:02
-sdext	source\presenter\help\en-US\com.sun.PresenterScreen\presenter.xhp	0	help	par_id0921201912165656				0	lv	Rādot slīdrādi ar Oracle prezentētāja konsolei, varat izmantot šādus taustiņus:				2002-02-02 02:02:02
+sdext	source\presenter\help\en-US\com.sun.PresenterScreen\presenter.xhp	0	help	tit				0	lv	@PRESENTEREXTENSIONPRODUCTNAME@ Tastatūras īsceļi				2002-02-02 02:02:02
+sdext	source\presenter\help\en-US\com.sun.PresenterScreen\presenter.xhp	0	help	bm_id0921200912285678				0	lv	\<bookmark_value\>@PRESENTEREXTENSIONPRODUCTNAME@ īsceļi\</bookmark_value\>				2002-02-02 02:02:02
+sdext	source\presenter\help\en-US\com.sun.PresenterScreen\presenter.xhp	0	help	hd_id0921201912165661				0	lv	@PRESENTEREXTENSIONPRODUCTNAME@ Tastatūras īsceļi				2002-02-02 02:02:02
+sdext	source\presenter\help\en-US\com.sun.PresenterScreen\presenter.xhp	0	help	par_id0921201912165656				0	lv	Kad palaista @PRESENTEREXTENSIONPRODUCTNAME@ slīdrāde, varat izmantot šādus taustiņus:				2002-02-02 02:02:02
 sdext	source\presenter\help\en-US\com.sun.PresenterScreen\presenter.xhp	0	help	par_id0921200901104028				0	lv	Darbība				2002-02-02 02:02:02
 sdext	source\presenter\help\en-US\com.sun.PresenterScreen\presenter.xhp	0	help	par_id0921200901104093				0	lv	Taustiņš(i)				2002-02-02 02:02:02
 sdext	source\presenter\help\en-US\com.sun.PresenterScreen\presenter.xhp	0	help	par_id092120090110418				0	lv	Nākamais slaids vai nākamais efekts				2002-02-02 02:02:02
@@ -18130,7 +18130,7 @@ sdext	source\presenter\help\en-US\com.sun.PresenterScreen\presenter.xhp	0	help	p
 sdext	source\presenter\help\en-US\com.sun.PresenterScreen\presenter.xhp	0	help	par_id092120090110459				0	lv	'A','Z'				2002-02-02 02:02:02
 sdext	source\presenter\help\en-US\com.sun.PresenterScreen\presenter.xhp	0	help	par_id092120090110456				0	lv	Pārvietot kursoru piezīmēs uz priekšu/atpakaļ				2002-02-02 02:02:02
 sdext	source\presenter\help\en-US\com.sun.PresenterScreen\presenter.xhp	0	help	par_id092120090110457				0	lv	'H','L'				2002-02-02 02:02:02
-sdext	source\presenter\help\en-US\com.sun.PresenterScreen\presenter.xhp	0	help	par_id0921200901104566				0	lv	Rādīt prezentētāja konsoli				2002-02-02 02:02:02
+sdext	source\presenter\help\en-US\com.sun.PresenterScreen\presenter.xhp	0	help	par_id0921200901104566				0	lv	Parādīt @PRESENTEREXTENSIONPRODUCTNAME@				2002-02-02 02:02:02
 sdext	source\presenter\help\en-US\com.sun.PresenterScreen\presenter.xhp	0	help	par_id0921200901104544				0	lv	Ctrl-'1'				2002-02-02 02:02:02
 sdext	source\presenter\help\en-US\com.sun.PresenterScreen\presenter.xhp	0	help	par_id0921200901104535				0	lv	Rādīt prezentācijas piezīmes				2002-02-02 02:02:02
 sdext	source\presenter\help\en-US\com.sun.PresenterScreen\presenter.xhp	0	help	par_id0921200901104680				0	lv	Ctrl-'2'				2002-02-02 02:02:02
