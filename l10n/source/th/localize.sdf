@@ -9703,8 +9703,8 @@ sc	source\ui\dbgui\pvfundlg.src	0	fixedtext	RID_SCDLG_DPSUBTOTAL_OPT	FT_HIERARCH
 sc	source\ui\dbgui\pvfundlg.src	0	modaldialog	RID_SCDLG_DPSUBTOTAL_OPT		HID_SC_DPSUBT_OPT		266	th	ตัวเลือกเขตข้อมูล				2002-02-02 02:02:02
 sc	source\ui\dbgui\pvfundlg.src	0	fixedtext	RID_SCDLG_DPSHOWDETAIL	FT_DIMS			132	th	เ~ลือกเขตข้อมูลที่มีรายละเอียดตามที่คุณต้องการแสดง				2002-02-02 02:02:02
 sc	source\ui\dbgui\pvfundlg.src	0	modaldialog	RID_SCDLG_DPSHOWDETAIL		HID_SC_DPSHOWDETAIL		200	th	แสดงรายละเอียด				2002-02-02 02:02:02
-sc	source\ui\dbgui\textimportoptions.src	0	radiobutton	RID_SCDLG_TEXT_IMPORT_OPTIONS	RB_AUTOMATIC			50	th	~อัตโนมัติ				2002-02-02 02:02:02
-sc	source\ui\dbgui\textimportoptions.src	0	fixedline	RID_SCDLG_TEXT_IMPORT_OPTIONS	FL_OPTION			125	th	ตัวเลือก				2002-02-02 02:02:02
+sc	source\ui\dbgui\textimportoptions.src	0	radiobutton	RID_SCDLG_TEXT_IMPORT_OPTIONS	RB_AUTOMATIC			159	th	~อัตโนมัติ				2002-02-02 02:02:02
+sc	source\ui\dbgui\textimportoptions.src	0	fixedline	RID_SCDLG_TEXT_IMPORT_OPTIONS	FL_OPTION			165	th	ตัวเลือก				2002-02-02 02:02:02
 sc	source\ui\dbgui\imoptdlg.src	0	fixedtext	RID_SCDLG_IMPORTOPT	FT_FIELDSEP			55	th	ตัวคั่นเ~ขตข้อมูล				2002-02-02 02:02:02
 sc	source\ui\dbgui\imoptdlg.src	0	fixedtext	RID_SCDLG_IMPORTOPT	FT_TEXTSEP			55	th	ตัวคั่น~ข้อความ				2002-02-02 02:02:02
 sc	source\ui\dbgui\imoptdlg.src	0	fixedtext	RID_SCDLG_IMPORTOPT	FT_FONT			55	th	ชุด~อักขระ				2002-02-02 02:02:02
@@ -11991,7 +11991,7 @@ sc	source\ui\src\optdlg.src	0	checkbox	RID_SCPAGE_CALC	BTN_CALC			239	th	~ทศ
 sc	source\ui\src\optdlg.src	0	checkbox	RID_SCPAGE_CALC	BTN_MATCH			239	th	เงื่อนไขค้นหา = และ <> ต้องตรงกับเซลล์ทั้งเซลล์				2002-02-02 02:02:02
 sc	source\ui\src\optdlg.src	0	checkbox	RID_SCPAGE_CALC	BTN_REGEX			239	th	อนุญาตให้ใช้ Regular Expression ในสูตรได้				2002-02-02 02:02:02
 sc	source\ui\src\optdlg.src	0	checkbox	RID_SCPAGE_CALC	BTN_LOOKUP			239	th	หาป้ายชื่อคอลัมน์และแถว~อัตโนมัติ 				2002-02-02 02:02:02
-sc	source\ui\src\optdlg.src	0	fixedtext	RID_SCPAGE_CALC	FT_PREC			72	th	จุด~ทศนิยม				2002-02-02 02:02:02
+sc	source\ui\src\optdlg.src	0	fixedtext	RID_SCPAGE_CALC	FT_PREC			84	th	จุด~ทศนิยม				2002-02-02 02:02:02
 sc	source\ui\src\optdlg.src	0	fixedtext	RID_SCPAGE_USERLISTS	FT_LISTS			93	th	~รายการ				2002-02-02 02:02:02
 sc	source\ui\src\optdlg.src	0	fixedtext	RID_SCPAGE_USERLISTS	FT_ENTRIES			93	th	~รายการ				2002-02-02 02:02:02
 sc	source\ui\src\optdlg.src	0	fixedtext	RID_SCPAGE_USERLISTS	FT_COPYFROM			62	th	คัดลอกรายการ~จาก				2002-02-02 02:02:02
