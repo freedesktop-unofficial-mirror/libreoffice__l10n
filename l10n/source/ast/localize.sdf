@@ -13905,8 +13905,8 @@ sc	source\ui\src\optdlg.src	0	checkbox	RID_SCPAGE_CALC	BTN_CALC			239	ast	Cola ~
 sc	source\ui\src\optdlg.src	0	checkbox	RID_SCPAGE_CALC	BTN_MATCH			239	ast	Los criterios de gueta = y <> aplíquense a caxelles en~teres				2002-02-02 02:02:02
 sc	source\ui\src\optdlg.src	0	checkbox	RID_SCPAGE_CALC	BTN_REGEX			239	ast	Activar les ~espresiones regulares nes fórmules				2002-02-02 02:02:02
 sc	source\ui\src\optdlg.src	0	checkbox	RID_SCPAGE_CALC	BTN_LOOKUP			239	ast	~Atopar automáticamente les etiquetes de columnes y fileres 				2002-02-02 02:02:02
-sc	source\ui\src\optdlg.src	0	checkbox	RID_SCPAGE_CALC	BTN_GENERAL_PREC			136	ast	Llimitar los decimales pal formatu numbéricu xeneral				2002-02-02 02:02:02
-sc	source\ui\src\optdlg.src	0	fixedtext	RID_SCPAGE_CALC	FT_PREC			72	ast	Cifres ~decimales				2002-02-02 02:02:02
+sc	source\ui\src\optdlg.src	0	checkbox	RID_SCPAGE_CALC	BTN_GENERAL_PREC			148	ast	Llimitar los decimales pal formatu numbéricu xeneral				2002-02-02 02:02:02
+sc	source\ui\src\optdlg.src	0	fixedtext	RID_SCPAGE_CALC	FT_PREC			84	ast	Cifres ~decimales				2002-02-02 02:02:02
 sc	source\ui\src\optdlg.src	0	fixedtext	RID_SCPAGE_USERLISTS	FT_LISTS			93	ast	~Llistes				2002-02-02 02:02:02
 sc	source\ui\src\optdlg.src	0	fixedtext	RID_SCPAGE_USERLISTS	FT_ENTRIES			93	ast	Entraes				2002-02-02 02:02:02
 sc	source\ui\src\optdlg.src	0	fixedtext	RID_SCPAGE_USERLISTS	FT_COPYFROM			62	ast	Copiar llista ~de				2002-02-02 02:02:02
@@ -14867,12 +14867,12 @@ sc	source\ui\dbgui\pvfundlg.src	0	fixedtext	RID_SCDLG_DPSUBTOTAL_OPT	FT_HIERARCH
 sc	source\ui\dbgui\pvfundlg.src	0	modaldialog	RID_SCDLG_DPSUBTOTAL_OPT		HID_SC_DPSUBT_OPT		266	ast	Opciones de campu de datos				2002-02-02 02:02:02
 sc	source\ui\dbgui\pvfundlg.src	0	fixedtext	RID_SCDLG_DPSHOWDETAIL	FT_DIMS			132	ast	~Seleicionar el campu que contién el detalle que se quier amosar				2002-02-02 02:02:02
 sc	source\ui\dbgui\pvfundlg.src	0	modaldialog	RID_SCDLG_DPSHOWDETAIL		HID_SC_DPSHOWDETAIL		200	ast	Amosar detalle				2002-02-02 02:02:02
-sc	source\ui\dbgui\textimportoptions.src	0	fixedline	RID_SCDLG_TEXT_IMPORT_OPTIONS	FL_CHOOSE_LANG			125	ast	Esbilla la llingua a usar na importación				2002-02-02 02:02:02
-sc	source\ui\dbgui\textimportoptions.src	0	radiobutton	RID_SCDLG_TEXT_IMPORT_OPTIONS	RB_AUTOMATIC			50	ast	Automáticu				2002-02-02 02:02:02
-sc	source\ui\dbgui\textimportoptions.src	0	radiobutton	RID_SCDLG_TEXT_IMPORT_OPTIONS	RB_CUSTOM			50	ast	Personalizada				2002-02-02 02:02:02
-sc	source\ui\dbgui\textimportoptions.src	0	fixedline	RID_SCDLG_TEXT_IMPORT_OPTIONS	FL_OPTION			125	ast	Opciones				2002-02-02 02:02:02
-sc	source\ui\dbgui\textimportoptions.src	0	checkbox	RID_SCDLG_TEXT_IMPORT_OPTIONS	BTN_CONVERT_DATE			125	ast	Deteutar númberos especiales (talos como dates)				2002-02-02 02:02:02
-sc	source\ui\dbgui\textimportoptions.src	0	modaldialog	RID_SCDLG_TEXT_IMPORT_OPTIONS				190	ast	Opciones d'importación				2002-02-02 02:02:02
+sc	source\ui\dbgui\textimportoptions.src	0	fixedline	RID_SCDLG_TEXT_IMPORT_OPTIONS	FL_CHOOSE_LANG			165	ast	Esbilla la llingua a usar na importación				2002-02-02 02:02:02
+sc	source\ui\dbgui\textimportoptions.src	0	radiobutton	RID_SCDLG_TEXT_IMPORT_OPTIONS	RB_AUTOMATIC			159	ast	Automáticu				2002-02-02 02:02:02
+sc	source\ui\dbgui\textimportoptions.src	0	radiobutton	RID_SCDLG_TEXT_IMPORT_OPTIONS	RB_CUSTOM			159	ast	Personalizada				2002-02-02 02:02:02
+sc	source\ui\dbgui\textimportoptions.src	0	fixedline	RID_SCDLG_TEXT_IMPORT_OPTIONS	FL_OPTION			165	ast	Opciones				2002-02-02 02:02:02
+sc	source\ui\dbgui\textimportoptions.src	0	checkbox	RID_SCDLG_TEXT_IMPORT_OPTIONS	BTN_CONVERT_DATE			159	ast	Deteutar númberos especiales (talos como dates)				2002-02-02 02:02:02
+sc	source\ui\dbgui\textimportoptions.src	0	modaldialog	RID_SCDLG_TEXT_IMPORT_OPTIONS				230	ast	Opciones d'importación				2002-02-02 02:02:02
 sc	source\ui\dbgui\imoptdlg.src	0	fixedtext	RID_SCDLG_IMPORTOPT	FT_FIELDSEP			55	ast	Separtador de campos				2002-02-02 02:02:02
 sc	source\ui\dbgui\imoptdlg.src	0	fixedtext	RID_SCDLG_IMPORTOPT	FT_TEXTSEP			55	ast	S~epartador de testu				2002-02-02 02:02:02
 sc	source\ui\dbgui\imoptdlg.src	0	fixedtext	RID_SCDLG_IMPORTOPT	FT_FONT			55	ast	Xuegu de ~carauteres				2002-02-02 02:02:02
@@ -27622,3 +27622,4 @@ svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	7			0	ast	Pesu de fonte	
 svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	43			0	ast	Llingua de la fonte asiática				2002-02-02 02:02:02
 svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	59			0	ast	Alliniación vertical del testu				2002-02-02 02:02:02
 svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	24			0	ast	Alliniamientu				2002-02-02 02:02:02
+helpcontent2	source\text\scalc\00\00000403.xhp	0	help	hd_id3145673	1			0	ast	Menú Ver				2002-02-02 02:02:02
