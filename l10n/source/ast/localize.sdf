@@ -13905,8 +13905,8 @@ sc	source\ui\src\optdlg.src	0	checkbox	RID_SCPAGE_CALC	BTN_CALC			239	ast	Cola ~
 sc	source\ui\src\optdlg.src	0	checkbox	RID_SCPAGE_CALC	BTN_MATCH			239	ast	Los criterios de gueta = y <> aplíquense a caxelles en~teres				2002-02-02 02:02:02
 sc	source\ui\src\optdlg.src	0	checkbox	RID_SCPAGE_CALC	BTN_REGEX			239	ast	Activar les ~espresiones regulares nes fórmules				2002-02-02 02:02:02
 sc	source\ui\src\optdlg.src	0	checkbox	RID_SCPAGE_CALC	BTN_LOOKUP			239	ast	~Atopar automáticamente les etiquetes de columnes y fileres 				2002-02-02 02:02:02
-sc	source\ui\src\optdlg.src	0	checkbox	RID_SCPAGE_CALC	BTN_GENERAL_PREC			136	ast	Llimitar los decimales pal formatu numbéricu xeneral				2002-02-02 02:02:02
-sc	source\ui\src\optdlg.src	0	fixedtext	RID_SCPAGE_CALC	FT_PREC			72	ast	Cifres ~decimales				2002-02-02 02:02:02
+sc	source\ui\src\optdlg.src	0	checkbox	RID_SCPAGE_CALC	BTN_GENERAL_PREC			148	ast	Llimitar los decimales pal formatu numbéricu xeneral				2002-02-02 02:02:02
+sc	source\ui\src\optdlg.src	0	fixedtext	RID_SCPAGE_CALC	FT_PREC			84	ast	Cifres ~decimales				2002-02-02 02:02:02
 sc	source\ui\src\optdlg.src	0	fixedtext	RID_SCPAGE_USERLISTS	FT_LISTS			93	ast	~Llistes				2002-02-02 02:02:02
 sc	source\ui\src\optdlg.src	0	fixedtext	RID_SCPAGE_USERLISTS	FT_ENTRIES			93	ast	Entraes				2002-02-02 02:02:02
 sc	source\ui\src\optdlg.src	0	fixedtext	RID_SCPAGE_USERLISTS	FT_COPYFROM			62	ast	Copiar llista ~de				2002-02-02 02:02:02
@@ -14867,12 +14867,12 @@ sc	source\ui\dbgui\pvfundlg.src	0	fixedtext	RID_SCDLG_DPSUBTOTAL_OPT	FT_HIERARCH
 sc	source\ui\dbgui\pvfundlg.src	0	modaldialog	RID_SCDLG_DPSUBTOTAL_OPT		HID_SC_DPSUBT_OPT		266	ast	Opciones de campu de datos				2002-02-02 02:02:02
 sc	source\ui\dbgui\pvfundlg.src	0	fixedtext	RID_SCDLG_DPSHOWDETAIL	FT_DIMS			132	ast	~Seleicionar el campu que contién el detalle que se quier amosar				2002-02-02 02:02:02
 sc	source\ui\dbgui\pvfundlg.src	0	modaldialog	RID_SCDLG_DPSHOWDETAIL		HID_SC_DPSHOWDETAIL		200	ast	Amosar detalle				2002-02-02 02:02:02
-sc	source\ui\dbgui\textimportoptions.src	0	fixedline	RID_SCDLG_TEXT_IMPORT_OPTIONS	FL_CHOOSE_LANG			125	ast	Esbilla la llingua a usar na importación				2002-02-02 02:02:02
-sc	source\ui\dbgui\textimportoptions.src	0	radiobutton	RID_SCDLG_TEXT_IMPORT_OPTIONS	RB_AUTOMATIC			50	ast	Automáticu				2002-02-02 02:02:02
-sc	source\ui\dbgui\textimportoptions.src	0	radiobutton	RID_SCDLG_TEXT_IMPORT_OPTIONS	RB_CUSTOM			50	ast	Personalizada				2002-02-02 02:02:02
-sc	source\ui\dbgui\textimportoptions.src	0	fixedline	RID_SCDLG_TEXT_IMPORT_OPTIONS	FL_OPTION			125	ast	Opciones				2002-02-02 02:02:02
-sc	source\ui\dbgui\textimportoptions.src	0	checkbox	RID_SCDLG_TEXT_IMPORT_OPTIONS	BTN_CONVERT_DATE			125	ast	Deteutar númberos especiales (talos como dates)				2002-02-02 02:02:02
-sc	source\ui\dbgui\textimportoptions.src	0	modaldialog	RID_SCDLG_TEXT_IMPORT_OPTIONS				190	ast	Opciones d'importación				2002-02-02 02:02:02
+sc	source\ui\dbgui\textimportoptions.src	0	fixedline	RID_SCDLG_TEXT_IMPORT_OPTIONS	FL_CHOOSE_LANG			165	ast	Esbilla la llingua a usar na importación				2002-02-02 02:02:02
+sc	source\ui\dbgui\textimportoptions.src	0	radiobutton	RID_SCDLG_TEXT_IMPORT_OPTIONS	RB_AUTOMATIC			159	ast	Automáticu				2002-02-02 02:02:02
+sc	source\ui\dbgui\textimportoptions.src	0	radiobutton	RID_SCDLG_TEXT_IMPORT_OPTIONS	RB_CUSTOM			159	ast	Personalizada				2002-02-02 02:02:02
+sc	source\ui\dbgui\textimportoptions.src	0	fixedline	RID_SCDLG_TEXT_IMPORT_OPTIONS	FL_OPTION			165	ast	Opciones				2002-02-02 02:02:02
+sc	source\ui\dbgui\textimportoptions.src	0	checkbox	RID_SCDLG_TEXT_IMPORT_OPTIONS	BTN_CONVERT_DATE			159	ast	Deteutar númberos especiales (talos como dates)				2002-02-02 02:02:02
+sc	source\ui\dbgui\textimportoptions.src	0	modaldialog	RID_SCDLG_TEXT_IMPORT_OPTIONS				230	ast	Opciones d'importación				2002-02-02 02:02:02
 sc	source\ui\dbgui\imoptdlg.src	0	fixedtext	RID_SCDLG_IMPORTOPT	FT_FIELDSEP			55	ast	Separtador de campos				2002-02-02 02:02:02
 sc	source\ui\dbgui\imoptdlg.src	0	fixedtext	RID_SCDLG_IMPORTOPT	FT_TEXTSEP			55	ast	S~epartador de testu				2002-02-02 02:02:02
 sc	source\ui\dbgui\imoptdlg.src	0	fixedtext	RID_SCDLG_IMPORTOPT	FT_FONT			55	ast	Xuegu de ~carauteres				2002-02-02 02:02:02
@@ -27193,6 +27193,7 @@ helpcontent2	source\text\scalc\main0203.xhp	0	help	hd_id3145748	3			0	ast	\<link
 helpcontent2	source\text\scalc\main0203.xhp	0	help	hd_id3151073	4			0	ast	\<link href=\"text/shared/01/05200100.xhp\" name=\"Line Width\"\>Anchor de llinia\</link\>				2002-02-02 02:02:02
 helpcontent2	source\text\scalc\main0203.xhp	0	help	hd_id3153417	5			0	ast	\<link href=\"text/shared/01/05200100.xhp\" name=\"Line Color\"\>Color de llinia\</link\>				2002-02-02 02:02:02
 helpcontent2	source\text\scalc\main0203.xhp	0	help	hd_id3147338	6			0	ast	\<link href=\"text/shared/01/05210100.xhp\" name=\"Background Color\"\>Color de fondu\</link\>				2002-02-02 02:02:02
+helpcontent2	source\text\schart\main0202.xhp	0	help	hd_id0810200902300545				0	ast	Tipos de diagrames				2002-02-02 02:02:02
 helpcontent2	source\text\schart\main0000.xhp	0	help	tit				0	ast	Gráficos en $[officename]				2002-02-02 02:02:02
 helpcontent2	source\text\schart\main0000.xhp	0	help	bm_id3148664				0	ast	\<bookmark_value\>Gráficos; Información Xeneral\</bookmark_value\>\<bookmark_value\>Cómo de Gráficos\</bookmark_value\>				2002-02-02 02:02:02
 helpcontent2	source\text\schart\main0000.xhp	0	help	hd_id3148664	1			0	ast	\<variable id=\"chart_main\"\>\<link href=\"text/schart/main0000.xhp\" name=\"Gráficos en $[officename]\"\>Usar gráficos en %PRODUCTNAME\</link\>\</variable\>				2002-02-02 02:02:02
@@ -27212,6 +27213,7 @@ helpcontent2	source\text\schart\main0000.xhp	0	help	par_id2350840				0	ast	valor
 helpcontent2	source\text\schart\main0000.xhp	0	help	par_id3776055				0	ast	tipu de gráficu, exes, títulos, paredes, rexella y otros				2002-02-02 02:02:02
 helpcontent2	source\text\schart\main0000.xhp	0	help	par_id8442335				0	ast	Faiga duble click nun elementu gráficu nel mou d'edición de gráficos:				2002-02-02 02:02:02
 helpcontent2	source\text\schart\main0000.xhp	0	help	par_id4194769				0	ast	Faiga duble click nun elementu gráficu nel mou d'edición de gráficos:				2002-02-02 02:02:02
+helpcontent2	source\text\schart\main0000.xhp	0	help	par_id6574907				0	ast	Pa editar les propiedaes d'un puntu de datos, calque dos vegaes únicamente nel puntu (por exemplu, una barra nuna gráfica) mientres caltién seleicionada una serie de datos.				2002-02-02 02:02:02
 helpcontent2	source\text\schart\main0000.xhp	0	help	par_id7528916				0	ast	Calque dos vegaes en cualesquier otru elementu de la gráfica o calque nel elementu y abra el menú Formatu pa editar les propiedaes.				2002-02-02 02:02:02
 helpcontent2	source\text\schart\main0000.xhp	0	help	par_id8420667				0	ast	Calque fuera de la gráfica pa colar del mou d'edición.				2002-02-02 02:02:02
 helpcontent2	source\text\schart\main0000.xhp	0	help	par_id4923856				0	ast	Pa imprentar una gráfica n'alta calidá, espórtela a PDF ya imprente esi ficheru.				2002-02-02 02:02:02
@@ -27283,6 +27285,8 @@ helpcontent2	source\text\smath\main0107.xhp	0	help	par_id3147339	2			0	ast	Nel m
 helpcontent2	source\text\smath\main0100.xhp	0	help	tit				0	ast	Menús				2002-02-02 02:02:02
 helpcontent2	source\text\smath\main0100.xhp	0	help	hd_id3149021	1			0	ast	\<variable id=\"main0100\"\>\<link href=\"text/smath/main0100.xhp\" name=\"Menús\"\>Menús\</link\>\</variable\>				2002-02-02 02:02:02
 helpcontent2	source\text\smath\main0100.xhp	0	help	par_id3154702	2			0	ast	La barra de menús contién tolos comandos pa trabayar con $[officename] Math. Contién una llista de tolos operadores disponibles amás de los comandos pa editar, ver, allugar, formatiar y imprentar los documentos de fórmula y los oxetos conteníos nellos. Los más de los comandos del menú namái tán disponibles cuando tas creando o editando una fórmula.				2002-02-02 02:02:02
+helpcontent2	source\text\smath\main0000.xhp	0	help	tit				0	ast	Bienllegáu a l'aida de $[officename] Math				2002-02-02 02:02:02
+helpcontent2	source\text\smath\main0000.xhp	0	help	hd_id3148868	1			0	ast	Bienllegáu a l'aida de $[officename] Math				2002-02-02 02:02:02
 helpcontent2	source\text\smath\main0000.xhp	0	help	hd_id3153915	5			0	ast	Cómo trabayar con $[officename] Math				2002-02-02 02:02:02
 helpcontent2	source\text\smath\main0000.xhp	0	help	par_id3143229	6			0	ast	\<link href=\"text/smath/01/03091500.xhp\" name=\"Tables de referencia de fórmules\"\>Tables de referencia de fórmules\</link\>				2002-02-02 02:02:02
 helpcontent2	source\text\smath\main0000.xhp	0	help	hd_id3153808	8			0	ast	Menús, barres de ferramientes y tecles de $[officename] Math				2002-02-02 02:02:02
@@ -27395,6 +27399,7 @@ helpcontent2	source\text\sbasic\guide\control_properties.xhp	0	help	bm_id3145786
 helpcontent2	source\text\sbasic\guide\control_properties.xhp	0	help	hd_id3145786	1			0	ast	\<variable id=\"control_properties\"\>\<link href=\"text/sbasic/guide/control_properties.xhp\" name=\"Changing the Properties of Controls in the Dialog Editor\"\>Cambéu de les propiedaes de los campos de control nel Editor de diálogos\</link\>\</variable\>				2002-02-02 02:02:02
 helpcontent2	source\text\sbasic\guide\control_properties.xhp	0	help	par_id3147317	2			0	ast	Pueden afitase les propiedaes de los campos de control que s'amiesten a un diálogu. Por exemplu, puedes camudar el color, nome y tamañu d'un botón. Cuando se creen o editen diálogos pueden camudase munches propiedaes del campu de control. Sicasí, delles propiedaes namái pueden camudase en tiempu d'execución.				2002-02-02 02:02:02
 helpcontent2	source\text\sbasic\guide\control_properties.xhp	0	help	par_id3145749	3			0	ast	Pa camudar les propiedaes d'un campu de control en tiempu de diseñu, calque col botón drechu nel campu de control y escueyi \<emph\>Propiedaes\</emph\>.				2002-02-02 02:02:02
+helpcontent2	source\text\sbasic\guide\translation.xhp	0	help	tit				0	ast	Creación de campos de control nel Editor de diálogos 				2002-02-02 02:02:02
 helpcontent2	source\text\sbasic\guide\translation.xhp	0	help	bm_id8915372				0	ast	\<bookmark_value\>dialogos;traduciendo\</bookmark_value\>\<bookmark_value\>diálogos de llocalización \</bookmark_value\>\<bookmark_value\>diálogos de traducción\</bookmark_value\>				2002-02-02 02:02:02
 helpcontent2	source\text\sbasic\guide\translation.xhp	0	help	hd_id3574896				0	ast	\<variable id=\"translation\"\>\<link href=\"text/sbasic/guide/translation.xhp\"\>Traducción de controles nel diálogu del editor\</link\>\</variable\>				2002-02-02 02:02:02
 helpcontent2	source\text\sbasic\guide\translation.xhp	0	help	par_id2924283				0	ast	\<ahelp hid=\".\" visibility=\"hidden\"\>Abre un diálogu au puedes amestar una llingua a la llista.\</ahelp\>				2002-02-02 02:02:02
@@ -27409,7 +27414,9 @@ helpcontent2	source\text\sbasic\guide\translation.xhp	0	help	par_id2334665				0	
 helpcontent2	source\text\sbasic\guide\translation.xhp	0	help	par_id2655720				0	ast	Repite toles llingües qu'amestasti.				2002-02-02 02:02:02
 helpcontent2	source\text\sbasic\guide\translation.xhp	0	help	par_id3682058				0	ast	L'usuariu de los tos diálogos va ver les cadenes de llingua d'interfaz d'usuariu na versión del usuariu de %PRODUCTNAME, siempres y cuando tengas provistu la cadena pa esa llingua. 				2002-02-02 02:02:02
 helpcontent2	source\text\sbasic\guide\translation.xhp	0	help	par_id3050325				0	ast	Si l'usuariu tien una versión antigua de %PRODUCTNAME que nun reconoza los recursos de cadenes llocalizables pal diálogu de Basic, l'usuariu va ver les cadenes nel idioma predetermináu.				2002-02-02 02:02:02
+helpcontent2	source\text\sbasic\shared\01\06130000.xhp	0	help	tit				0	ast	Macro				2002-02-02 02:02:02
 helpcontent2	source\text\sbasic\shared\01\06130000.xhp	0	help	bm_id3145786				0	ast	\<bookmark_value\>macros; Basic IDE\</bookmark_value\>\<bookmark_value\>Basic IDE; macros\</bookmark_value\>				2002-02-02 02:02:02
+helpcontent2	source\text\sbasic\shared\01\06130000.xhp	0	help	hd_id3145786	1			0	ast	Macro				2002-02-02 02:02:02
 helpcontent2	source\text\sbasic\shared\01\06130000.xhp	0	help	par_id3152886	2			0	ast	\<variable id=\"makro\"\>\<ahelp hid=\".\"\>Abre'l diálogu \<emph\>Macro\</emph\>, nel que puédense crear, editar, entamar y executar macros de $[officename] Basic.\</ahelp\>\</variable\>				2002-02-02 02:02:02
 helpcontent2	source\text\sbasic\shared\01\06130000.xhp	0	help	hd_id3154145	3			0	ast	Nome de la macro				2002-02-02 02:02:02
 helpcontent2	source\text\sbasic\shared\01\06130000.xhp	0	help	par_id3151116	4			0	ast	\<ahelp hid=\"BASCTL_EDIT_RID_MACROCHOOSER_RID_ED_MACRONAME\"\>Amuesa'l nome de la macro esbillada. Pa crear o camudar el nome d'una macro, escribi un nome equí.\</ahelp\>				2002-02-02 02:02:02
@@ -27431,7 +27438,9 @@ helpcontent2	source\text\sbasic\shared\01\06130000.xhp	0	help	hd_id3166447	29			
 helpcontent2	source\text\sbasic\shared\01\06130000.xhp	0	help	par_id3155959	30			0	ast	\<ahelp hid=\"HID_BASICIDE_MODULES_TREE\"\>Numbera les macros y los diálogos esistentes.\</ahelp\>				2002-02-02 02:02:02
 helpcontent2	source\text\sbasic\shared\01\06130000.xhp	0	help	par_id3149922	31			0	ast	Puedes abasnar un módulu o diálogu ente les biblioteques.				2002-02-02 02:02:02
 helpcontent2	source\text\sbasic\shared\01\06130000.xhp	0	help	par_id3159333	33			0	ast	Si deseya copiar un diálogu o un módulu, caltenga calcada la tecla \<switchinline select=\"sys\"\>\<caseinline select=\"MAC\"\>Comandu\</caseinline\>\<defaultinline\>Control\</defaultinline\>\</switchinline\> mientres abasna y asitia.				2002-02-02 02:02:02
+helpcontent2	source\text\sbasic\shared\01\06130000.xhp	0	help	hd_id3147131	34			0	ast	Editar				2002-02-02 02:02:02
 helpcontent2	source\text\sbasic\shared\01\06130000.xhp	0	help	par_id3149816	35			0	ast	\<ahelp hid=\"BASCTL_PUSHBUTTON_RID_TP_MODULS_RID_PB_EDIT\"\>Abre la macro o'l diálogu esbillaos pa editalos.\</ahelp\>				2002-02-02 02:02:02
+helpcontent2	source\text\sbasic\shared\01\06130000.xhp	0	help	hd_id3151214	36			0	ast	Nuevu				2002-02-02 02:02:02
 helpcontent2	source\text\sbasic\shared\01\06130000.xhp	0	help	par_id3154202	37			0	ast	\<ahelp hid=\"BASCTL_PUSHBUTTON_RID_TP_MODULS_RID_PB_NEWMOD\"\>Crea un módulu nuevu.\</ahelp\>				2002-02-02 02:02:02
 helpcontent2	source\text\sbasic\shared\01\06130000.xhp	0	help	par_id3153269	40			0	ast	\<ahelp hid=\"BASCTL_PUSHBUTTON_RID_TP_MODULS_RID_PB_NEWDLG\"\>Crea un diálogu nuevu.\</ahelp\>				2002-02-02 02:02:02
 helpcontent2	source\text\sbasic\shared\01\06130000.xhp	0	help	hd_id3154587	42			0	ast	Biblioteques de rexistru				2002-02-02 02:02:02
@@ -27440,22 +27449,30 @@ helpcontent2	source\text\sbasic\shared\01\06130000.xhp	0	help	hd_id3145259	44			
 helpcontent2	source\text\sbasic\shared\01\06130000.xhp	0	help	par_id3153234	45			0	ast	\<ahelp hid=\"BASCTL_LISTBOX_RID_TP_LIBS_RID_LB_BASICS\"\>Esbilla'l allugamientu que contién les biblioteques de macros que deseyes organizar.\</ahelp\>				2002-02-02 02:02:02
 helpcontent2	source\text\sbasic\shared\01\06130000.xhp	0	help	hd_id3148460	46			0	ast	Biblioteca				2002-02-02 02:02:02
 helpcontent2	source\text\sbasic\shared\01\06130000.xhp	0	help	par_id3150828	47			0	ast	\<ahelp hid=\"HID_BASICIDE_LIBS_TREE\"\>Numbera les biblioteques de macros de l'aplicación actual.\</ahelp\>				2002-02-02 02:02:02
+helpcontent2	source\text\sbasic\shared\01\06130000.xhp	0	help	hd_id3145134	48			0	ast	Editar				2002-02-02 02:02:02
 helpcontent2	source\text\sbasic\shared\01\06130000.xhp	0	help	par_id3150518	49			0	ast	\<ahelp hid=\"BASCTL_PUSHBUTTON_RID_TP_LIBS_RID_PB_EDIT\"\>Abre l'editor de $[officename] Basic pa poder modificar la biblioteca esbillada.\</ahelp\>				2002-02-02 02:02:02
+helpcontent2	source\text\sbasic\shared\01\06130000.xhp	0	help	hd_id3150371	50			0	ast	Contraseña				2002-02-02 02:02:02
 helpcontent2	source\text\sbasic\shared\01\06130000.xhp	0	help	par_id3166430	51			0	ast	\<ahelp hid=\"BASCTL_PUSHBUTTON_RID_TP_LIBS_RID_PB_PASSWORD\"\>Asigna o edita la \<link href=\"text/sbasic/shared/01/06130100.xhp\" name=\"contraseña\"\>contraseña\</link\> for the selected library. "Standard" libraries cannot have a password.\</ahelp\>				2002-02-02 02:02:02
+helpcontent2	source\text\sbasic\shared\01\06130000.xhp	0	help	hd_id3154372	52			0	ast	Nuevu				2002-02-02 02:02:02
 helpcontent2	source\text\sbasic\shared\01\06130000.xhp	0	help	par_id3145387	53			0	ast	\<ahelp hid=\"BASCTL_PUSHBUTTON_RID_TP_LIBS_RID_PB_NEWLIB\"\>Crea una biblioteca.\</ahelp\>				2002-02-02 02:02:02
 helpcontent2	source\text\sbasic\shared\01\06130000.xhp	0	help	hd_id3154259	56			0	ast	Nome				2002-02-02 02:02:02
 helpcontent2	source\text\sbasic\shared\01\06130000.xhp	0	help	par_id3156169	57			0	ast	\<ahelp hid=\"BASCTL_EDIT_RID_DLG_NEWLIB_RID_ED_LIBNAME\"\>Escribi un nome pa la biblioteca o'l módulu nuevos.\</ahelp\>				2002-02-02 02:02:02
 helpcontent2	source\text\sbasic\shared\01\06130000.xhp	0	help	hd_id3151183	54			0	ast	Axuntar				2002-02-02 02:02:02
 helpcontent2	source\text\sbasic\shared\01\06130000.xhp	0	help	par_id3155126	55			0	ast	\<ahelp hid=\"BASCTL_PUSHBUTTON_RID_TP_LIBS_RID_PB_APPEND\"\>Busque la biblioteca de $[officename] Basic que deseye amestar a la llista y faiga clic n'Abrir.\</ahelp\>				2002-02-02 02:02:02
+helpcontent2	source\text\sbasic\shared\01\06130100.xhp	0	help	tit				0	ast	Camudar contraseña				2002-02-02 02:02:02
+helpcontent2	source\text\sbasic\shared\01\06130100.xhp	0	help	hd_id3159399	1			0	ast	Camudar contraseña				2002-02-02 02:02:02
 helpcontent2	source\text\sbasic\shared\01\06130100.xhp	0	help	par_id3150276	2			0	ast	\<ahelp hid=\"HID_PASSWORD\"\>Protexe la biblioteca esbillada con una contraseña.\</ahelp\> Puedes escribir una nueva contraseña o bien camudar l'actual.				2002-02-02 02:02:02
 helpcontent2	source\text\sbasic\shared\01\06130100.xhp	0	help	hd_id3154285	3			0	ast	Anterior				2002-02-02 02:02:02
+helpcontent2	source\text\sbasic\shared\01\06130100.xhp	0	help	hd_id3153665	4			0	ast	Contraseña				2002-02-02 02:02:02
 helpcontent2	source\text\sbasic\shared\01\06130100.xhp	0	help	par_id3155628	5			0	ast	\<ahelp hid=\"SVX:EDIT:RID_SVXDLG_PASSWORD:ED_OLD_PASSWD\"\>Escribi la contraseña actual pa la biblioteca esbillada.\</ahelp\>				2002-02-02 02:02:02
 helpcontent2	source\text\sbasic\shared\01\06130100.xhp	0	help	hd_id3153126	6			0	ast	Contraseña nueva				2002-02-02 02:02:02
 helpcontent2	source\text\sbasic\shared\01\06130100.xhp	0	help	hd_id3153628	7			0	ast	Contraseña				2002-02-02 02:02:02
 helpcontent2	source\text\sbasic\shared\01\06130100.xhp	0	help	par_id3159413	8			0	ast	\<ahelp hid=\"SVX:EDIT:RID_SVXDLG_PASSWORD:ED_NEW_PASSWD\"\>Escribi una nueva contraseña pa la biblioteca esbillada.\</ahelp\>				2002-02-02 02:02:02
 helpcontent2	source\text\sbasic\shared\01\06130100.xhp	0	help	hd_id3148947	9			0	ast	Confirmar				2002-02-02 02:02:02
 helpcontent2	source\text\sbasic\shared\01\06130100.xhp	0	help	par_id3149457	10			0	ast	\<ahelp hid=\"SVX:EDIT:RID_SVXDLG_PASSWORD:ED_REPEAT_PASSWD\"\>Vuelva escribir la nueva contraseña pa la biblioteca esbillada.\</ahelp\>				2002-02-02 02:02:02
+helpcontent2	source\text\sbasic\shared\01\06130500.xhp	0	help	tit				0	ast	Amestar biblioteques				2002-02-02 02:02:02
 helpcontent2	source\text\sbasic\shared\01\06130500.xhp	0	help	bm_id3150502				0	ast	\<bookmark_value\>biblioteques; amestando\</bookmark_value\>\<bookmark_value\>enxertando ; biblioteques de Basic\</bookmark_value\>				2002-02-02 02:02:02
+helpcontent2	source\text\sbasic\shared\01\06130500.xhp	0	help	hd_id3150502	1			0	ast	Amestar biblioteques				2002-02-02 02:02:02
 helpcontent2	source\text\sbasic\shared\01\06130500.xhp	0	help	par_id3154840	2			0	ast	\<ahelp hid=\".\"\>Llocalice la biblioteca de \<item type=\"productname\"\>%PRODUCTNAME\</item\> Basic que deseye amestar a la llista y faiga clic n'Abrir.\</ahelp\>				2002-02-02 02:02:02
 helpcontent2	source\text\sbasic\shared\01\06130500.xhp	0	help	hd_id3149119	3			0	ast	Nome del ficheru:				2002-02-02 02:02:02
 helpcontent2	source\text\sbasic\shared\01\06130500.xhp	0	help	par_id3147102	4			0	ast	\<ahelp hid=\"HID_BASICIDE_LIBSDLG_TREE\"\>Enter a name or the path to the library that you want to append.\</ahelp\> You can also select a library from the list.				2002-02-02 02:02:02
@@ -27546,3 +27563,63 @@ helpcontent2	source\text\smath\guide\text.xhp	0	help	par_id5988952				0	ast	Camu
 helpcontent2	source\text\smath\guide\text.xhp	0	help	par_id3304544				0	ast	W rSup { size 8{} * {} }				2002-02-02 02:02:02
 helpcontent2	source\text\smath\guide\text.xhp	0	help	par_id4941557				0	ast	Tamién puedes usar W^"*" pa entrar el carauter como testu direutu.				2002-02-02 02:02:02
 helpcontent2	source\text\smath\guide\text.xhp	0	help	par_id9961851				0	ast	Dalgunes fórmulen entamen con un signu =. Usa "=" pa ingresar estos carauteres como testu direutu.				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	54			0	ast	Puntuación saliente				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	22			0	ast	Solliñáu				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	34			0	ast	Espaciáu				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	17			0	ast	Efeutos				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	36			0	ast	Estilu de páxina				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	23			0	ast	Parágrafu				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	57			0	ast	Escalar				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	21			0	ast	Color de caráuter				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	38			0	ast	Parpaguéu				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	52			0	ast	Carauteres d'acentuación				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	44			0	ast	Posición de la fonte asiática				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	39			0	ast	Conformidá rexistru				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	32			0	ast	Indentar				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	19			0	ast	Posición				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	55			0	ast	Carauteres non permitíos				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	40			0	ast	Fondu de caráuter				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	25			0	ast	Espaciáu ente llinies				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	58			0	ast	Relieve				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	49			0	ast	Posición de scripts complexos				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	35			0	ast	Páxina				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	5			0	ast	Fonte				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	46			0	ast	CTL				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	45			0	ast	Pesu de la fonte asiática				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	47			0	ast	Tamañu de scripts complexos				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	8			0	ast	Solombriáu				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	1			0	ast	Escalar				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	51			0	ast	Llinies dubles				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	31			0	ast	Espaciáu				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	12			0	ast	Solliñáu				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	14			0	ast	Tamañu rellativu de fonte				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	20			0	ast	Parpaguéu				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	53			0	ast	Espaciu del testu				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	28			0	ast	Non dixebrar párrafu				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	3			0	ast	Paraes tabulador				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	15			0	ast	Color de fonte				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	29			0	ast	Vilbes				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	37			0	ast	Caltener párrafos xuntos				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	4			0	ast	Carauter				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	56			0	ast	Voltiar				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	26			0	ast	Saltu de páxina				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	9			0	ast	Namái pallabres				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	10			0	ast	Fuera de llinia				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	16			0	ast	Axuste ente carauteres				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	33			0	ast	Indentar				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	27			0	ast	Separtación silábica				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	48			0	ast	Llingua de scripts complexos				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	13			0	ast	Tamañu de fonte				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	18			0	ast	Llingua				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	11			0	ast	Tacháu				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	2			0	ast	Brocha				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	30			0	ast	Güérfanos				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	50			0	ast	Pesu de scripts complexos				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	6			0	ast	Posición de la fonte				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	42			0	ast	Tamañu de la fonte asiática				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	41			0	ast	Fonte asiática				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	7			0	ast	Pesu de fonte				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	43			0	ast	Llingua de la fonte asiática				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	59			0	ast	Alliniación vertical del testu				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	24			0	ast	Alliniamientu				2002-02-02 02:02:02
+helpcontent2	source\text\scalc\00\00000403.xhp	0	help	hd_id3145673	1			0	ast	Menú Ver				2002-02-02 02:02:02
