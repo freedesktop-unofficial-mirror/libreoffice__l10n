@@ -2055,12 +2055,12 @@ cui	source\options\optgdlg.src	0	checkbox	OFA_TP_MISC	CB_TOOLTIP			0	kid	489>3e�
 cui	source\options\optgdlg.src	0	checkbox	OFA_TP_MISC	CB_EXTHELP			0	kid	9=nyfs‖~Extended tips				20100909 15:07:34
 cui	source\options\optgdlg.src	0	checkbox	OFA_TP_MISC	CB_HELPAGENT			0	kid	jo-fmk‖~Help Agent				20100909 15:07:34
 cui	source\options\optgdlg.src	0	pushbutton	OFA_TP_MISC	PB_HELPAGENT_RESET			0	kid	0kh7>z‖~Reset Help Agent				20100909 15:07:34
-cui	source\options\optgdlg.src	0	fixedtext	OFA_TP_MISC	FT_HELPFORMAT			0	kid	4gl4he‖Help ~formatting				20100909 15:07:34
-cui	source\options\optgdlg.src	0	stringlist	OFA_TP_MISC.LB_HELPFORMAT	1			0	kid	9jjz2t‖Default				20100909 15:07:34
-cui	source\options\optgdlg.src	0	stringlist	OFA_TP_MISC.LB_HELPFORMAT	2			0	kid	9ttx=-‖High Contrast #1				20100909 15:07:34
-cui	source\options\optgdlg.src	0	stringlist	OFA_TP_MISC.LB_HELPFORMAT	3			0	kid	9sc19k‖High Contrast #2				20100909 15:07:34
-cui	source\options\optgdlg.src	0	stringlist	OFA_TP_MISC.LB_HELPFORMAT	4			0	kid	affj9m‖High Contrast Black				20100909 15:07:34
-cui	source\options\optgdlg.src	0	stringlist	OFA_TP_MISC.LB_HELPFORMAT	5			0	kid	a7><we‖High Contrast White				20100909 15:07:34
+cui	source\options\optgdlg.src	0	fixedtext	OFA_TP_MISC	FT_HELPFORMAT		ENABLE_HELP_FORMATTING	0	kid	4gl4he‖Help ~formatting				20100909 15:07:34
+cui	source\options\optgdlg.src	0	stringlist	OFA_TP_MISC.LB_HELPFORMAT	1		ENABLE_HELP_FORMATTING	0	kid	9jjz2t‖Default				20100909 15:07:34
+cui	source\options\optgdlg.src	0	stringlist	OFA_TP_MISC.LB_HELPFORMAT	2		ENABLE_HELP_FORMATTING	0	kid	9ttx=-‖High Contrast #1				20100909 15:07:34
+cui	source\options\optgdlg.src	0	stringlist	OFA_TP_MISC.LB_HELPFORMAT	3		ENABLE_HELP_FORMATTING	0	kid	9sc19k‖High Contrast #2				20100909 15:07:34
+cui	source\options\optgdlg.src	0	stringlist	OFA_TP_MISC.LB_HELPFORMAT	4		ENABLE_HELP_FORMATTING	0	kid	affj9m‖High Contrast Black				20100909 15:07:34
+cui	source\options\optgdlg.src	0	stringlist	OFA_TP_MISC.LB_HELPFORMAT	5		ENABLE_HELP_FORMATTING	0	kid	a7><we‖High Contrast White				20100909 15:07:34
 cui	source\options\optgdlg.src	0	fixedline	OFA_TP_MISC	FL_FILEDLG			0	kid	k=wofk‖Open/Save dialogs				20100909 15:07:34
 cui	source\options\optgdlg.src	0	checkbox	OFA_TP_MISC	CB_FILEDLG			0	kid	0bg5>6‖~Use %PRODUCTNAME dialogs				20100909 15:07:34
 cui	source\options\optgdlg.src	0	fixedline	OFA_TP_MISC	FL_DOCSTATUS			0	kid	2qxf9=‖Document status				20100909 15:07:34

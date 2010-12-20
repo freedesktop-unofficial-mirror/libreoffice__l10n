@@ -615,7 +615,7 @@ cui	source\options\optdict.src	0	modaldialog	RID_SFXDLG_NEWDICT		HID_OPTIONS_DIC
 cui	source\options\optdict.src	0	pushbutton	RID_SFXDLG_EDITDICT	PB_NEW_REPLACE			55	xh	~Okutsha				2002-02-02 02:02:02
 cui	source\options\optdict.src	0	querybox	RID_SFXQB_SET_LANGUAGE				270	xh	Ingaba ufuna ukuguqula ulwimi lwesichazi-magama esingu-'%1'?				2002-02-02 02:02:02
 cui	source\options\optdict.src	0	string	RID_SFXDLG_EDITDICT	STR_MODIFY			191	xh	~Susa ngokunye				2002-02-02 02:02:02
-cui	source\options\optgdlg.src	0	stringlist	OFA_TP_MISC.LB_HELPFORMAT	1			0	xh	Osekukho kakade				2002-02-02 02:02:02
+cui	source\options\optgdlg.src	0	stringlist	OFA_TP_MISC.LB_HELPFORMAT	1		ENABLE_HELP_FORMATTING	0	xh	Osekukho kakade				2002-02-02 02:02:02
 cui	source\options\optgenrl.src	0	checkbox	RID_SFXPAGE_GENERAL	CB_USEDATA			236	xh	Sebenzisa iinkcukacha ukwenzela iinkcazo zeempawu zoxwebhu				2002-02-02 02:02:02
 cui	source\options\optgenrl.src	0	fixedline	RID_SFXPAGE_GENERAL	GB_ADDRESS			248	xh	Idilesi 				2002-02-02 02:02:02
 cui	source\options\optgenrl.src	0	fixedtext	RID_SFXPAGE_GENERAL	FT_CITY			0	xh	Isiphaluka/Isixeko				2002-02-02 02:02:02

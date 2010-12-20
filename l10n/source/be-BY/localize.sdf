@@ -14986,12 +14986,12 @@ cui	source\options\optgdlg.src	0	checkbox	OFA_TP_MISC	CB_TOOLTIP			0	be-BY	На�
 cui	source\options\optgdlg.src	0	checkbox	OFA_TP_MISC	CB_EXTHELP			0	be-BY	Дадатковыя наменкі				2002-02-02 02:02:02
 cui	source\options\optgdlg.src	0	checkbox	OFA_TP_MISC	CB_HELPAGENT			0	be-BY	Агент даведкі				2002-02-02 02:02:02
 cui	source\options\optgdlg.src	0	pushbutton	OFA_TP_MISC	PB_HELPAGENT_RESET			0	be-BY	Пачатковы стан Агента Даведкі				2002-02-02 02:02:02
-cui	source\options\optgdlg.src	0	fixedtext	OFA_TP_MISC	FT_HELPFORMAT			0	be-BY	Фарматаванне Даведкі				2002-02-02 02:02:02
-cui	source\options\optgdlg.src	0	stringlist	OFA_TP_MISC.LB_HELPFORMAT	1			0	be-BY	Прадвызначана				2002-02-02 02:02:02
-cui	source\options\optgdlg.src	0	stringlist	OFA_TP_MISC.LB_HELPFORMAT	2			0	be-BY	Моцны кантраст #1				2002-02-02 02:02:02
-cui	source\options\optgdlg.src	0	stringlist	OFA_TP_MISC.LB_HELPFORMAT	3			0	be-BY	Моцны кантраст #2				2002-02-02 02:02:02
-cui	source\options\optgdlg.src	0	stringlist	OFA_TP_MISC.LB_HELPFORMAT	4			0	be-BY	Моцны кантраст чорны				2002-02-02 02:02:02
-cui	source\options\optgdlg.src	0	stringlist	OFA_TP_MISC.LB_HELPFORMAT	5			0	be-BY	Моцны кантраст белы				2002-02-02 02:02:02
+cui	source\options\optgdlg.src	0	fixedtext	OFA_TP_MISC	FT_HELPFORMAT		ENABLE_HELP_FORMATTING	0	be-BY	Фарматаванне Даведкі				2002-02-02 02:02:02
+cui	source\options\optgdlg.src	0	stringlist	OFA_TP_MISC.LB_HELPFORMAT	1		ENABLE_HELP_FORMATTING	0	be-BY	Прадвызначана				2002-02-02 02:02:02
+cui	source\options\optgdlg.src	0	stringlist	OFA_TP_MISC.LB_HELPFORMAT	2		ENABLE_HELP_FORMATTING	0	be-BY	Моцны кантраст #1				2002-02-02 02:02:02
+cui	source\options\optgdlg.src	0	stringlist	OFA_TP_MISC.LB_HELPFORMAT	3		ENABLE_HELP_FORMATTING	0	be-BY	Моцны кантраст #2				2002-02-02 02:02:02
+cui	source\options\optgdlg.src	0	stringlist	OFA_TP_MISC.LB_HELPFORMAT	4		ENABLE_HELP_FORMATTING	0	be-BY	Моцны кантраст чорны				2002-02-02 02:02:02
+cui	source\options\optgdlg.src	0	stringlist	OFA_TP_MISC.LB_HELPFORMAT	5		ENABLE_HELP_FORMATTING	0	be-BY	Моцны кантраст белы				2002-02-02 02:02:02
 cui	source\options\optgdlg.src	0	fixedline	OFA_TP_MISC	FL_FILEDLG			0	be-BY	Дыялогі Адкрыцця і Запісу				2002-02-02 02:02:02
 cui	source\options\optgdlg.src	0	checkbox	OFA_TP_MISC	CB_FILEDLG			0	be-BY	Ужываць дыялогі %PRODUCTNAME				2002-02-02 02:02:02
 cui	source\options\optgdlg.src	0	fixedline	OFA_TP_MISC	FL_DOCSTATUS			0	be-BY	Стан дакумента				2002-02-02 02:02:02

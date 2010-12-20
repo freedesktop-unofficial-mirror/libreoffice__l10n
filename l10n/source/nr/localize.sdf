@@ -613,7 +613,7 @@ cui	source\options\optdict.src	0	modaldialog	RID_SFXDLG_NEWDICT		HID_OPTIONS_DIC
 cui	source\options\optdict.src	0	pushbutton	RID_SFXDLG_EDITDICT	PB_NEW_REPLACE			55	nr	~Etja				2002-02-02 02:02:02
 cui	source\options\optdict.src	0	querybox	RID_SFXQB_SET_LANGUAGE				270	nr	Ingabe ufuna ukutjhugulula '%1' ilimi lesiHlathululi-mezwi?				2002-02-02 02:02:02
 cui	source\options\optdict.src	0	string	RID_SFXDLG_EDITDICT	STR_MODIFY			191	nr	~Jamiselela				2002-02-02 02:02:02
-cui	source\options\optgdlg.src	0	stringlist	OFA_TP_MISC.LB_HELPFORMAT	1			0	nr	Okonakeleko				2002-02-02 02:02:02
+cui	source\options\optgdlg.src	0	stringlist	OFA_TP_MISC.LB_HELPFORMAT	1		ENABLE_HELP_FORMATTING	0	nr	Okonakeleko				2002-02-02 02:02:02
 cui	source\options\optgenrl.src	0	checkbox	RID_SFXPAGE_GENERAL	CB_USEDATA			236	nr	Sebenzisa idatha kudokhumente yamaphrophathi				2002-02-02 02:02:02
 cui	source\options\optgenrl.src	0	fixedline	RID_SFXPAGE_GENERAL	GB_ADDRESS			248	nr	I-adresi 				2002-02-02 02:02:02
 cui	source\options\optgenrl.src	0	fixedtext	RID_SFXPAGE_GENERAL	FT_CITY			0	nr	Ikhowudu Yeposo/Idorobha				2002-02-02 02:02:02
