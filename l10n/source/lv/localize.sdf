@@ -2860,12 +2860,12 @@ cui	source\options\optgdlg.src	0	checkbox	OFA_TP_MISC	CB_TOOLTIP			0	lv	~Padomi	
 cui	source\options\optgdlg.src	0	checkbox	OFA_TP_MISC	CB_EXTHELP			0	lv	P~lašāki padomi				2002-02-02 02:02:02
 cui	source\options\optgdlg.src	0	checkbox	OFA_TP_MISC	CB_HELPAGENT			0	lv	~Palīgs				2002-02-02 02:02:02
 cui	source\options\optgdlg.src	0	pushbutton	OFA_TP_MISC	PB_HELPAGENT_RESET			0	lv	~Atstatīt palīdzības aģentu				2002-02-02 02:02:02
-cui	source\options\optgdlg.src	0	fixedtext	OFA_TP_MISC	FT_HELPFORMAT			0	lv	Palīdzēt ~formatēt				2002-02-02 02:02:02
-cui	source\options\optgdlg.src	0	stringlist	OFA_TP_MISC.LB_HELPFORMAT	1			0	lv	Noklusētais				2002-02-02 02:02:02
-cui	source\options\optgdlg.src	0	stringlist	OFA_TP_MISC.LB_HELPFORMAT	2			0	lv	Augsts kontrasts #1				2002-02-02 02:02:02
-cui	source\options\optgdlg.src	0	stringlist	OFA_TP_MISC.LB_HELPFORMAT	3			0	lv	Augsts kontrasts #2				2002-02-02 02:02:02
-cui	source\options\optgdlg.src	0	stringlist	OFA_TP_MISC.LB_HELPFORMAT	4			0	lv	Augsts kontrasts melns				2002-02-02 02:02:02
-cui	source\options\optgdlg.src	0	stringlist	OFA_TP_MISC.LB_HELPFORMAT	5			0	lv	Augsts kontrasts balts				2002-02-02 02:02:02
+cui	source\options\optgdlg.src	0	fixedtext	OFA_TP_MISC	FT_HELPFORMAT		ENABLE_HELP_FORMATTING	0	lv	Palīdzēt ~formatēt				2002-02-02 02:02:02
+cui	source\options\optgdlg.src	0	stringlist	OFA_TP_MISC.LB_HELPFORMAT	1		ENABLE_HELP_FORMATTING	0	lv	Noklusētais				2002-02-02 02:02:02
+cui	source\options\optgdlg.src	0	stringlist	OFA_TP_MISC.LB_HELPFORMAT	2		ENABLE_HELP_FORMATTING	0	lv	Augsts kontrasts #1				2002-02-02 02:02:02
+cui	source\options\optgdlg.src	0	stringlist	OFA_TP_MISC.LB_HELPFORMAT	3		ENABLE_HELP_FORMATTING	0	lv	Augsts kontrasts #2				2002-02-02 02:02:02
+cui	source\options\optgdlg.src	0	stringlist	OFA_TP_MISC.LB_HELPFORMAT	4		ENABLE_HELP_FORMATTING	0	lv	Augsts kontrasts melns				2002-02-02 02:02:02
+cui	source\options\optgdlg.src	0	stringlist	OFA_TP_MISC.LB_HELPFORMAT	5		ENABLE_HELP_FORMATTING	0	lv	Augsts kontrasts balts				2002-02-02 02:02:02
 cui	source\options\optgdlg.src	0	fixedline	OFA_TP_MISC	FL_FILEDLG			0	lv	Atvērt/saglabāt dialogus				2002-02-02 02:02:02
 cui	source\options\optgdlg.src	0	checkbox	OFA_TP_MISC	CB_FILEDLG			0	lv	~Lietot %PRODUCTNAME dialogus				2002-02-02 02:02:02
 cui	source\options\optgdlg.src	0	fixedline	OFA_TP_MISC	FL_DOCSTATUS			0	lv	Dokumenta statuss				2002-02-02 02:02:02

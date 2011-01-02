@@ -2641,12 +2641,12 @@ cui	source\options\optgdlg.src	0	checkbox	OFA_TP_MISC	CB_TOOLTIP			0	lt	~Paaišk
 cui	source\options\optgdlg.src	0	checkbox	OFA_TP_MISC	CB_EXTHELP			0	lt	~Išplėstiniai paaiškinimai				2002-02-02 02:02:02
 cui	source\options\optgdlg.src	0	checkbox	OFA_TP_MISC	CB_HELPAGENT			0	lt	~Pagelbiklis				2002-02-02 02:02:02
 cui	source\options\optgdlg.src	0	pushbutton	OFA_TP_MISC	PB_HELPAGENT_RESET			0	lt	~Grąžinti pagelbiklio pradinę būseną				2002-02-02 02:02:02
-cui	source\options\optgdlg.src	0	fixedtext	OFA_TP_MISC	FT_HELPFORMAT			0	lt	Žinyno ~formatavimas				2002-02-02 02:02:02
-cui	source\options\optgdlg.src	0	stringlist	OFA_TP_MISC.LB_HELPFORMAT	1			0	lt	Numatyta				2002-02-02 02:02:02
-cui	source\options\optgdlg.src	0	stringlist	OFA_TP_MISC.LB_HELPFORMAT	2			0	lt	Ryškus kontrastas #1				2002-02-02 02:02:02
-cui	source\options\optgdlg.src	0	stringlist	OFA_TP_MISC.LB_HELPFORMAT	3			0	lt	Ryškus kontrastas #2				2002-02-02 02:02:02
-cui	source\options\optgdlg.src	0	stringlist	OFA_TP_MISC.LB_HELPFORMAT	4			0	lt	Ryškus kontrastas (juodas)				2002-02-02 02:02:02
-cui	source\options\optgdlg.src	0	stringlist	OFA_TP_MISC.LB_HELPFORMAT	5			0	lt	Ryškus kontrastas (baltas)				2002-02-02 02:02:02
+cui	source\options\optgdlg.src	0	fixedtext	OFA_TP_MISC	FT_HELPFORMAT		ENABLE_HELP_FORMATTING	0	lt	Žinyno ~formatavimas				2002-02-02 02:02:02
+cui	source\options\optgdlg.src	0	stringlist	OFA_TP_MISC.LB_HELPFORMAT	1		ENABLE_HELP_FORMATTING	0	lt	Numatyta				2002-02-02 02:02:02
+cui	source\options\optgdlg.src	0	stringlist	OFA_TP_MISC.LB_HELPFORMAT	2		ENABLE_HELP_FORMATTING	0	lt	Ryškus kontrastas #1				2002-02-02 02:02:02
+cui	source\options\optgdlg.src	0	stringlist	OFA_TP_MISC.LB_HELPFORMAT	3		ENABLE_HELP_FORMATTING	0	lt	Ryškus kontrastas #2				2002-02-02 02:02:02
+cui	source\options\optgdlg.src	0	stringlist	OFA_TP_MISC.LB_HELPFORMAT	4		ENABLE_HELP_FORMATTING	0	lt	Ryškus kontrastas (juodas)				2002-02-02 02:02:02
+cui	source\options\optgdlg.src	0	stringlist	OFA_TP_MISC.LB_HELPFORMAT	5		ENABLE_HELP_FORMATTING	0	lt	Ryškus kontrastas (baltas)				2002-02-02 02:02:02
 cui	source\options\optgdlg.src	0	fixedline	OFA_TP_MISC	FL_FILEDLG			0	lt	Failų atvėrimo ir įrašymo langai				2002-02-02 02:02:02
 cui	source\options\optgdlg.src	0	checkbox	OFA_TP_MISC	CB_FILEDLG			0	lt	~Naudoti „%PRODUCTNAME“ langus				2002-02-02 02:02:02
 cui	source\options\optgdlg.src	0	fixedline	OFA_TP_MISC	FL_DOCSTATUS			0	lt	Spausdinimo poveikis dokumento būsenai				2002-02-02 02:02:02

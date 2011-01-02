@@ -11888,12 +11888,12 @@ cui	source\options\optgdlg.src	0	checkbox	OFA_TP_MISC	CB_TOOLTIP			0	sh	~Saveti	
 cui	source\options\optgdlg.src	0	checkbox	OFA_TP_MISC	CB_EXTHELP			0	sh	~Produženi saveti				2002-02-02 02:02:02
 cui	source\options\optgdlg.src	0	checkbox	OFA_TP_MISC	CB_HELPAGENT			0	sh	~Agent pomoći				2002-02-02 02:02:02
 cui	source\options\optgdlg.src	0	pushbutton	OFA_TP_MISC	PB_HELPAGENT_RESET			0	sh	~Resetuj agenta pomoći				2002-02-02 02:02:02
-cui	source\options\optgdlg.src	0	fixedtext	OFA_TP_MISC	FT_HELPFORMAT			0	sh	~Formatiranje pomoći				2002-02-02 02:02:02
-cui	source\options\optgdlg.src	0	stringlist	OFA_TP_MISC.LB_HELPFORMAT	1			0	sh	Podrazumevano				2002-02-02 02:02:02
-cui	source\options\optgdlg.src	0	stringlist	OFA_TP_MISC.LB_HELPFORMAT	2			0	sh	Veliki kontrast #1				2002-02-02 02:02:02
-cui	source\options\optgdlg.src	0	stringlist	OFA_TP_MISC.LB_HELPFORMAT	3			0	sh	Veliki kontrast #2				2002-02-02 02:02:02
-cui	source\options\optgdlg.src	0	stringlist	OFA_TP_MISC.LB_HELPFORMAT	4			0	sh	Veliki kontrast - crno				2002-02-02 02:02:02
-cui	source\options\optgdlg.src	0	stringlist	OFA_TP_MISC.LB_HELPFORMAT	5			0	sh	Veliki kontrast - belo				2002-02-02 02:02:02
+cui	source\options\optgdlg.src	0	fixedtext	OFA_TP_MISC	FT_HELPFORMAT		ENABLE_HELP_FORMATTING	0	sh	~Formatiranje pomoći				2002-02-02 02:02:02
+cui	source\options\optgdlg.src	0	stringlist	OFA_TP_MISC.LB_HELPFORMAT	1		ENABLE_HELP_FORMATTING	0	sh	Podrazumevano				2002-02-02 02:02:02
+cui	source\options\optgdlg.src	0	stringlist	OFA_TP_MISC.LB_HELPFORMAT	2		ENABLE_HELP_FORMATTING	0	sh	Veliki kontrast #1				2002-02-02 02:02:02
+cui	source\options\optgdlg.src	0	stringlist	OFA_TP_MISC.LB_HELPFORMAT	3		ENABLE_HELP_FORMATTING	0	sh	Veliki kontrast #2				2002-02-02 02:02:02
+cui	source\options\optgdlg.src	0	stringlist	OFA_TP_MISC.LB_HELPFORMAT	4		ENABLE_HELP_FORMATTING	0	sh	Veliki kontrast - crno				2002-02-02 02:02:02
+cui	source\options\optgdlg.src	0	stringlist	OFA_TP_MISC.LB_HELPFORMAT	5		ENABLE_HELP_FORMATTING	0	sh	Veliki kontrast - belo				2002-02-02 02:02:02
 cui	source\options\optgdlg.src	0	fixedline	OFA_TP_MISC	FL_FILEDLG			0	sh	Prozorčići za otvaranje i čuvanje datoteke				2002-02-02 02:02:02
 cui	source\options\optgdlg.src	0	checkbox	OFA_TP_MISC	CB_FILEDLG			0	sh	~Koristi %PRODUCTNAME prozorčiće				2002-02-02 02:02:02
 cui	source\options\optgdlg.src	0	fixedline	OFA_TP_MISC	FL_DOCSTATUS			0	sh	Stanje dokumenta				2002-02-02 02:02:02
