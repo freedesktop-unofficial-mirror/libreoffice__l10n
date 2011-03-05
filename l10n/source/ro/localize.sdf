@@ -1820,7 +1820,7 @@ sw	source\ui\app\mn.src	0	menuitem	MN_MOUSE_FRAME_BEGIN.MN_WRAP	FN_FRAME_WRAP_ID
 sw	source\ui\app\mn.src	0	menuitem	MN_MOUSE_FRAME_BEGIN.MN_WRAP	FN_FRAME_WRAPTHRU	FN_FRAME_WRAPTHRU		0	ro	~Continuu				2002-02-02 02:02:02
 sw	source\ui\app\mn.src	0	menuitem	MN_MOUSE_FRAME_BEGIN.MN_WRAP	FN_FRAME_WRAPTHRU_TRANSP	FN_FRAME_WRAPTHRU_TRANSP		0	ro	În f~undal				2002-02-02 02:02:02
 sw	source\ui\app\mn.src	0	menuitem	MN_MOUSE_FRAME_BEGIN.MN_WRAP	FN_WRAP_ANCHOR_ONLY	FN_WRAP_ANCHOR_ONLY		0	ro	Primul paragra~f				2002-02-02 02:02:02
-sw	source\ui\app\mn.src	0	menuitem	MN_MOUSE_FRAME_BEGIN	MN_WRAP	MN_WRAP		0	ro	~Î~mpachetează				2002-02-02 02:02:02
+sw	source\ui\app\mn.src	0	menuitem	MN_MOUSE_FRAME_BEGIN	MN_WRAP	MN_WRAP		0	ro	~Împachetează				2002-02-02 02:02:02
 sw	source\ui\app\mn.src	0	string	MN_DRAW_POPUPMENU				0	ro	Grafică				2002-02-02 02:02:02
 sw	source\ui\app\mn.src	0	menuitem	MN_WRAP_DRAW.MN_WRAP	FN_FRAME_NOWRAP	FN_FRAME_NOWRAP		0	ro	~Fără împachetare				2002-02-02 02:02:02
 sw	source\ui\app\mn.src	0	menuitem	MN_WRAP_DRAW.MN_WRAP	FN_FRAME_WRAP	FN_FRAME_WRAP		0	ro	Încadrare în ~pagină				2002-02-02 02:02:02
@@ -2219,7 +2219,7 @@ sw	source\ui\table\tabledlg.src	0	fixedline	TP_TABLE_COLUMN	COL_FL_LAYOUT			0	ro
 sw	source\ui\table\tabledlg.src	0	checkbox	TP_TABLE_TEXTFLOW	CB_PAGEBREAK			0	ro	Întreru~pere				2002-02-02 02:02:02
 sw	source\ui\table\tabledlg.src	0	radiobutton	TP_TABLE_TEXTFLOW	RB_BREAKPAGE			0	ro	~Pagină				2002-02-02 02:02:02
 sw	source\ui\table\tabledlg.src	0	radiobutton	TP_TABLE_TEXTFLOW	RB_BREAKCOLUMN			0	ro	~Coloană				2002-02-02 02:02:02
-sw	source\ui\table\tabledlg.src	0	radiobutton	TP_TABLE_TEXTFLOW	RB_PAGEBREAKBEFORE			0	ro	~Înainte				2002-02-02 02:02:02
+sw	source\ui\table\tabledlg.src	0	radiobutton	TP_TABLE_TEXTFLOW	RB_PAGEBREAKBEFORE			0	ro	Î~nainte				2002-02-02 02:02:02
 sw	source\ui\table\tabledlg.src	0	radiobutton	TP_TABLE_TEXTFLOW	RB_PAGEBREAKAFTER			0	ro	~După				2002-02-02 02:02:02
 sw	source\ui\table\tabledlg.src	0	checkbox	TP_TABLE_TEXTFLOW	CB_PAGECOLL			0	ro	~Cu stilul paginii				2002-02-02 02:02:02
 sw	source\ui\table\tabledlg.src	0	fixedtext	TP_TABLE_TEXTFLOW	FT_PAGENUM			0	ro	~Numărul paginii				2002-02-02 02:02:02
@@ -3162,7 +3162,7 @@ sw	source\ui\misc\docfnote.src	0	fixedtext	FT_ANCHR_CHARFMT				0	ro	Câmp de te~
 sw	source\ui\misc\docfnote.src	0	fixedtext	FT_TEXT_CHARFMT				0	ro	Zona not~elor de final				2002-02-02 02:02:02
 sw	source\ui\misc\docfnote.src	0	fixedline	FL_CONT				0	ro	Notă de continuare				2002-02-02 02:02:02
 sw	source\ui\misc\docfnote.src	0	fixedtext	FT_CONT				0	ro	~Pagina următoare				2002-02-02 02:02:02
-sw	source\ui\misc\docfnote.src	0	fixedtext	FT_CONT_FROM				0	ro	~Început				2002-02-02 02:02:02
+sw	source\ui\misc\docfnote.src	0	fixedtext	FT_CONT_FROM				0	ro	Î~nceput				2002-02-02 02:02:02
 sw	source\ui\misc\num.src	0	fixedline	TP_NUM_POSITION	FL_LEVEL			0	ro	Nivel				2002-02-02 02:02:02
 sw	source\ui\misc\num.src	0	fixedline	TP_NUM_POSITION	FL_POSITION			0	ro	Poziție și spațiere				2002-02-02 02:02:02
 sw	source\ui\misc\num.src	0	fixedtext	TP_NUM_POSITION	FT_BORDERDIST			0	ro	Paragrafare				2002-02-02 02:02:02
@@ -4570,7 +4570,7 @@ sw	source\ui\dialog\regionsw.src	0	checkbox	TP_SECTION_FTNENDNOTES	CB_END_NUM_FM
 sw	source\ui\dialog\regionsw.src	0	fixedtext	TP_SECTION_FTNENDNOTES	FT_END_PREFIX			0	ro	~Înainte de				2002-02-02 02:02:02
 sw	source\ui\dialog\regionsw.src	0	fixedtext	TP_SECTION_FTNENDNOTES	FT_END_SUFFIX			0	ro	~După				2002-02-02 02:02:02
 sw	source\ui\dialog\regionsw.src	0	fixedline	TP_SECTION_INDENTS	FL_INDENT			0	ro	Paragrafare				2002-02-02 02:02:02
-sw	source\ui\dialog\regionsw.src	0	fixedtext	TP_SECTION_INDENTS	FT_BEFORE			0	ro	~Înainte de secțiune				2002-02-02 02:02:02
+sw	source\ui\dialog\regionsw.src	0	fixedtext	TP_SECTION_INDENTS	FT_BEFORE			0	ro	Î~nainte de secțiune				2002-02-02 02:02:02
 sw	source\ui\dialog\regionsw.src	0	fixedtext	TP_SECTION_INDENTS	FT_AFTER			0	ro	~După secțiune				2002-02-02 02:02:02
 sw	source\ui\dialog\dialog.src	0	checkbox	CB_USE_PASSWD				0	ro	~Parolă				2002-02-02 02:02:02
 sw	source\ui\dialog\dialog.src	0	checkbox	CB_READ_ONLY				0	ro	Numai pent~ru citit				2002-02-02 02:02:02
@@ -4865,7 +4865,7 @@ basic	source\app\basmsg.src	0	string	S_ERROR_OUTSIDE_TESTCASE				0	ro	Eroare în
 basic	source\app\basmsg.src	0	string	S_WARNING_PREFIX				0	ro	Avertisment: 				2002-02-02 02:02:02
 basic	source\app\basic.src	0	modaldialog	RID_CALLDLG				0	ro	Legătură dinamică nr.				2002-02-02 02:02:02
 basic	source\app\basic.src	0	fixedtext	IDD_TT_ABOUT_DIALOG	1			0	ro	Unealtă de test VCL				2002-02-02 02:02:02
-basic	source\app\basic.src	0	fixedtext	IDD_TT_ABOUT_DIALOG	4			0	ro	©1995-2005 Sun Microsystems, Inc.				2002-02-02 02:02:02
+basic	source\app\basic.src	0	fixedtext	IDD_TT_ABOUT_DIALOG	4			0	ro	©1995-2010 Oracle				2002-02-02 02:02:02
 basic	source\app\basic.src	0	modaldialog	IDD_TT_ABOUT_DIALOG				0	ro	Despre VCLTestTool				2002-02-02 02:02:02
 basic	source\app\basic.src	0	fixedtext	IDD_FIND_DIALOG	RID_FIXEDTEXT1			0	ro	~Text				2002-02-02 02:02:02
 basic	source\app\basic.src	0	okbutton	IDD_FIND_DIALOG	RID_OK			0	ro	~Caută				2002-02-02 02:02:02
@@ -8005,7 +8005,7 @@ sd	source\ui\app\menuids2_tmpl.src	0	#define	MNSUB_SPELLING	MN_MODIFY			0	ro	~Mo
 sd	source\ui\app\menuids2_tmpl.src	0	menuitem	MN_MOREFRONT	SID_MOREFRONT	SID_MOREFRONT		0	ro	Adu mai în ~față				2002-02-02 02:02:02
 sd	source\ui\app\menuids2_tmpl.src	0	menuitem	MN_MOREBACK	SID_MOREBACK	SID_MOREBACK		0	ro	~Trimite mai în spate				2002-02-02 02:02:02
 sd	source\ui\app\menuids2_tmpl.src	0	menuitem	MN_BEFORE_OBJ	SID_BEFORE_OBJ	SID_BEFORE_OBJ		0	ro	În fața ~obiectului				2002-02-02 02:02:02
-sd	source\ui\app\menuids2_tmpl.src	0	menuitem	MN_BEHIND_OBJ	SID_BEHIND_OBJ	SID_BEHIND_OBJ		0	ro	~În spatele obiectului				2002-02-02 02:02:02
+sd	source\ui\app\menuids2_tmpl.src	0	menuitem	MN_BEHIND_OBJ	SID_BEHIND_OBJ	SID_BEHIND_OBJ		0	ro	În ~spatele obiectului				2002-02-02 02:02:02
 sd	source\ui\app\menuids2_tmpl.src	0	menuitem	MN_REVERSE_ORDER	SID_REVERSE_ORDER	SID_REVERSE_ORDER		0	ro	Inve~rsează				2002-02-02 02:02:02
 sd	source\ui\app\menuids2_tmpl.src	0	menuitem	MN_BMPMASK	SID_BMPMASK	SID_BMPMASK		0	ro	Pip~etă				2002-02-02 02:02:02
 sd	source\ui\app\menuids2_tmpl.src	0	menuitem	MN_GALLERY	SID_GALLERY	SID_GALLERY		0	ro	~Galerie				2002-02-02 02:02:02
@@ -8365,7 +8365,7 @@ sd	source\ui\app\menuids_tmpl.src	0	menuitem	MN_POSITION.SID_POSITION	SID_MOREFR
 sd	source\ui\app\menuids_tmpl.src	0	menuitem	MN_POSITION.SID_POSITION	SID_MOREBACK	SID_MOREBACK		0	ro	~Trimite mai în spate				2002-02-02 02:02:02
 sd	source\ui\app\menuids_tmpl.src	0	menuitem	MN_POSITION.SID_POSITION	SID_FRAME_TO_BOTTOM	SID_FRAME_TO_BOTTOM		0	ro	Trimite în ~spate de tot				2002-02-02 02:02:02
 sd	source\ui\app\menuids_tmpl.src	0	menuitem	MN_POSITION.SID_POSITION	SID_BEFORE_OBJ	SID_BEFORE_OBJ		0	ro	În fața ~obiectului				2002-02-02 02:02:02
-sd	source\ui\app\menuids_tmpl.src	0	menuitem	MN_POSITION.SID_POSITION	SID_BEHIND_OBJ	SID_BEHIND_OBJ		0	ro	~În spatele obiectului				2002-02-02 02:02:02
+sd	source\ui\app\menuids_tmpl.src	0	menuitem	MN_POSITION.SID_POSITION	SID_BEHIND_OBJ	SID_BEHIND_OBJ		0	ro	În ~spatele obiectului				2002-02-02 02:02:02
 sd	source\ui\app\menuids_tmpl.src	0	menuitem	MN_POSITION.SID_POSITION	SID_REVERSE_ORDER	SID_REVERSE_ORDER		0	ro	Inve~rsare				2002-02-02 02:02:02
 sd	source\ui\app\menuids_tmpl.src	0	menuitem	MN_POSITION	SID_POSITION	SID_POSITION		0	ro	Ara~njare				2002-02-02 02:02:02
 sd	source\ui\app\menuids_tmpl.src	0	menuitem	MN_CHAR	SID_CHAR_DLG	SID_CHAR_DLG		0	ro	~Caracter...				2002-02-02 02:02:02
@@ -8401,7 +8401,7 @@ sd	source\ui\app\menuids_tmpl.src	0	menuitem	MN_CLOSE_OBJECT	SID_OBJECT_CLOSE	SI
 sd	source\ui\app\menuids_tmpl.src	0	menuitem	MN_BEZIER	SID_BEZIER_EDIT	SID_BEZIER_EDIT		0	ro	Editare ~puncte				2002-02-02 02:02:02
 sd	source\ui\app\menuids_tmpl.src	0	menuitem	MN_BEZIER	SID_BEZIER_MOVE	SID_BEZIER_MOVE		0	ro	~Mutare puncte				2002-02-02 02:02:02
 sd	source\ui\app\menuids_tmpl.src	0	menuitem	MN_BEZIER	SID_BEZIER_INSERT	SID_BEZIER_INSERT		0	ro	Inserează ~puncte				2002-02-02 02:02:02
-sd	source\ui\app\menuids_tmpl.src	0	menuitem	MN_BEZIER	SID_BEZIER_DELETE	SID_BEZIER_DELETE		0	ro	~Ștergere puncte				2002-02-02 02:02:02
+sd	source\ui\app\menuids_tmpl.src	0	menuitem	MN_BEZIER	SID_BEZIER_DELETE	SID_BEZIER_DELETE		0	ro	Șter~gere puncte				2002-02-02 02:02:02
 sd	source\ui\app\menuids_tmpl.src	0	menuitem	MN_BEZIER	SID_BEZIER_CLOSE	SID_BEZIER_CLOSE		0	ro	Închide ~obiectul				2002-02-02 02:02:02
 sd	source\ui\app\menuids_tmpl.src	0	menuitem	MN_BEZIER	SID_BEZIER_CUTLINE	SID_BEZIER_CUTLINE		0	ro	De~sparte curba				2002-02-02 02:02:02
 sd	source\ui\app\menuids_tmpl.src	0	menuitem	MN_BEZIER	SID_BEZIER_CONVERT	SID_BEZIER_CONVERT		0	ro	Con~vertește în curbă				2002-02-02 02:02:02
@@ -8620,7 +8620,7 @@ sd	source\ui\animations\CustomAnimationPane.src	0	pushbutton	DLG_CUSTOMANIMATION
 sd	source\ui\animations\CustomAnimationPane.src	0	pushbutton	DLG_CUSTOMANIMATIONPANE	PB_CHANGE_EFFECT	HID_SD_CUSTOMANIMATIONPANE_PB_CHANGE_EFFECT		0	ro	Modifi~că...				2002-02-02 02:02:02
 sd	source\ui\animations\CustomAnimationPane.src	0	pushbutton	DLG_CUSTOMANIMATIONPANE	PB_REMOVE_EFFECT	HID_SD_CUSTOMANIMATIONPANE_PB_REMOVE_EFFECT		0	ro	Ște~rge				2002-02-02 02:02:02
 sd	source\ui\animations\CustomAnimationPane.src	0	fixedline	DLG_CUSTOMANIMATIONPANE	FL_MODIFY			0	ro	Modifică efectul				2002-02-02 02:02:02
-sd	source\ui\animations\CustomAnimationPane.src	0	fixedtext	DLG_CUSTOMANIMATIONPANE	FT_START			0	ro	~Început				2002-02-02 02:02:02
+sd	source\ui\animations\CustomAnimationPane.src	0	fixedtext	DLG_CUSTOMANIMATIONPANE	FT_START			0	ro	Î~nceput				2002-02-02 02:02:02
 sd	source\ui\animations\CustomAnimationPane.src	0	stringlist	DLG_CUSTOMANIMATIONPANE.LB_START	1			0	ro	La clic				2002-02-02 02:02:02
 sd	source\ui\animations\CustomAnimationPane.src	0	stringlist	DLG_CUSTOMANIMATIONPANE.LB_START	2			0	ro	Cu precedentul				2002-02-02 02:02:02
 sd	source\ui\animations\CustomAnimationPane.src	0	stringlist	DLG_CUSTOMANIMATIONPANE.LB_START	3			0	ro	După precedentul				2002-02-02 02:02:02
@@ -8766,7 +8766,7 @@ sd	source\ui\dlg\copydlg.src	0	fixedtext	DLG_COPY	FT_HEIGHT			0	ro	Î~nălțime	
 sd	source\ui\dlg\copydlg.src	0	fixedline	DLG_COPY	GRP_MOVEMENT			0	ro	Plasament				2002-02-02 02:02:02
 sd	source\ui\dlg\copydlg.src	0	fixedline	DLG_COPY	GRP_ENLARGEMENT			0	ro	Mărire				2002-02-02 02:02:02
 sd	source\ui\dlg\copydlg.src	0	fixedline	DLG_COPY	GRP_COLOR			0	ro	Culori				2002-02-02 02:02:02
-sd	source\ui\dlg\copydlg.src	0	fixedtext	DLG_COPY	FT_START_COLOR			0	ro	~Început				2002-02-02 02:02:02
+sd	source\ui\dlg\copydlg.src	0	fixedtext	DLG_COPY	FT_START_COLOR			0	ro	Î~nceput				2002-02-02 02:02:02
 sd	source\ui\dlg\copydlg.src	0	fixedtext	DLG_COPY	FT_END_COLOR			0	ro	~Sfârșit				2002-02-02 02:02:02
 sd	source\ui\dlg\copydlg.src	0	modaldialog	DLG_COPY		SID_COPYOBJECTS		0	ro	Duplicat				2002-02-02 02:02:02
 sd	source\ui\dlg\dlgass.src	0	checkbox	DLG_ASS	CB_PREVIEW			0	ro	~Previzualizează				2002-02-02 02:02:02
@@ -8871,7 +8871,7 @@ sd	source\ui\dlg\prntopts.src	0	checkbox	TP_PRINT_OPTIONS	CBX_TIME			0	ro	~Ora		
 sd	source\ui\dlg\prntopts.src	0	checkbox	TP_PRINT_OPTIONS	CBX_HIDDEN_PAGES			0	ro	Pag~ini ascunse				2002-02-02 02:02:02
 sd	source\ui\dlg\prntopts.src	0	fixedline	TP_PRINT_OPTIONS	GRP_PAGE			0	ro	Opțiuni pagină				2002-02-02 02:02:02
 sd	source\ui\dlg\prntopts.src	0	radiobutton	TP_PRINT_OPTIONS	RBT_DEFAULT			0	ro	Implicit				2002-02-02 02:02:02
-sd	source\ui\dlg\prntopts.src	0	radiobutton	TP_PRINT_OPTIONS	RBT_PAGESIZE			0	ro	~Încadrează în pagină				2002-02-02 02:02:02
+sd	source\ui\dlg\prntopts.src	0	radiobutton	TP_PRINT_OPTIONS	RBT_PAGESIZE			0	ro	Încadrează în ~pagină				2002-02-02 02:02:02
 sd	source\ui\dlg\prntopts.src	0	radiobutton	TP_PRINT_OPTIONS	RBT_PAGETILE			0	ro	~Pagini în mozaic				2002-02-02 02:02:02
 sd	source\ui\dlg\prntopts.src	0	radiobutton	TP_PRINT_OPTIONS	RBT_BOOKLET			0	ro	B~roșură				2002-02-02 02:02:02
 sd	source\ui\dlg\prntopts.src	0	checkbox	TP_PRINT_OPTIONS	CBX_FRONT			0	ro	~Față				2002-02-02 02:02:02
@@ -9156,9 +9156,9 @@ fpicker	source\office\OfficeFilePicker.src	0	string	STR_SVT_FILEPICKER_READONLY	
 fpicker	source\office\OfficeFilePicker.src	0	string	STR_SVT_FOLDERPICKER_DEFAULT_TITLE				0	ro	Selectați o cale				2002-02-02 02:02:02
 crashrep	source\all\crashrep.ulf	0	LngText	%WELCOME_CAPTION%				0	ro	Raportare erori în %PRODUCTNAME% %PRODUCTVERSION%				2002-02-02 02:02:02
 crashrep	source\all\crashrep.ulf	0	LngText	%WELCOME_HEADER%				0	ro	Bun venit la raportorul de erori în %PRODUCTNAME% %PRODUCTVERSION%				2002-02-02 02:02:02
-crashrep	source\all\crashrep.ulf	0	LngText	%WELCOME_BODY1%				0	ro	Această unealtă de raportare a erorilor adună informații despre cum funcționează %PRODUCTNAME% și le trimite către Sun Microsystems pentru a ajuta la îmbunătățirea versiunilor viitoare.\n\n				2002-02-02 02:02:02
+crashrep	source\all\crashrep.ulf	0	LngText	%WELCOME_BODY1%				0	ro	Această unealtă de raportare a erorilor adună informații despre cum funcționează %PRODUCTNAME% și le trimite către Oracle pentru a ajuta la îmbunătățirea versiunilor viitoare.\n\n				2002-02-02 02:02:02
 crashrep	source\all\crashrep.ulf	0	LngText	%WELCOME_BODY2%				0	ro	E ușor, nu trebuie decât să trimiteți raportul apăsând butonul „Trimite” din următorul dialog. Înainte de asta puteți să descrieți pe scurt cum a apărut eroarea. Dacă doriți să vedeți conținutul raportului, apăsați butonul „Arată raportul”. Dacă apăsați „Nu trimite” nu se va trimite nicio informație.\n\n				2002-02-02 02:02:02
-crashrep	source\all\crashrep.ulf	0	LngText	%WELCOME_BODY3%				0	ro	Confidențialitatea dumneavoastră\nInformațiile colectate sunt limitate la datele care privesc starea %PRODUCTNAME% %PRODUCTVERSION% în momentul erorii. Orice alte informații referitoare la parole sau conținutul documentelor nu sunt adunate.\n\nInformațiile vor fi folosite pentru a îmbunătăți calitatea %PRODUCTNAME% și nu vor fi împărtășite cu părți terțe.\nPentru mai multe informații despre politica de confidențialitate a Sun Microsystems, vizitați\n				2002-02-02 02:02:02
+crashrep	source\all\crashrep.ulf	0	LngText	%WELCOME_BODY3%				0	ro	Confidențialitatea dumneavoastră\nInformațiile colectate sunt limitate la datele care privesc starea %PRODUCTNAME% %PRODUCTVERSION% în momentul erorii. Orice alte informații referitoare la parole sau conținutul documentelor nu sunt adunate.\n\nInformațiile vor fi folosite pentru a îmbunătăți calitatea %PRODUCTNAME% și nu vor fi împărtășite cu părți terțe.\nPentru mai multe informații despre politica de confidențialitate a Oracle, vizitați\n				2002-02-02 02:02:02
 crashrep	source\all\crashrep.ulf	0	LngText	%PRIVACY_URL%				0	ro	http://ro.sun.com/privacy/				2002-02-02 02:02:02
 crashrep	source\all\crashrep.ulf	0	LngText	%NEXT_BUTTON%				0	ro	Î~nainte >>				2002-02-02 02:02:02
 crashrep	source\all\crashrep.ulf	0	LngText	%CANCEL_BUTTON%				0	ro	Renunță				2002-02-02 02:02:02
@@ -9167,7 +9167,7 @@ crashrep	source\all\crashrep.ulf	0	LngText	%REPORT_CAPTION%				0	ro	Raportare de
 crashrep	source\all\crashrep.ulf	0	LngText	%REPORT_HEADER%				0	ro	A intervenit o eroare în timpul rulării %PRODUCTNAME% %PRODUCTVERSION%				2002-02-02 02:02:02
 crashrep	source\all\crashrep.ulf	0	LngText	%REPORT_BODY%				0	ro	S-a creat un raport de eroare în %PRODUCTNAME% %PRODUCTVERSION% în care s-au colectat informații care ne vor ajuta să îmbunătățim %PRODUCTNAME%.\n Puteți introduce în spațiile de mai jos un titlu pentru raportul dumneavoastră sau puteți descrie acțiunea pe care ați încercat să o efectuați când a intervenit eroarea. Apoi apăsați „Trimite”.\n				2002-02-02 02:02:02
 crashrep	source\all\crashrep.ulf	0	LngText	%ENTER_TITLE%				0	ro	Ce tip de document (de exemplu, o prezentare) foloseați când a apărut eroarea?				2002-02-02 02:02:02
-crashrep	source\all\crashrep.ulf	0	LngText	%ALLOW_CONTACT%				0	ro	Perm~it Sun Microsystems să mă contacteze în legătură cu acest raport.				2002-02-02 02:02:02
+crashrep	source\all\crashrep.ulf	0	LngText	%ALLOW_CONTACT%				0	ro	Perm~it Oracle să mă contacteze în legătură cu acest raport.				2002-02-02 02:02:02
 crashrep	source\all\crashrep.ulf	0	LngText	%ENTER_EMAIL%				0	ro	Vă rugăm să vă introduceți adresa de email.				2002-02-02 02:02:02
 crashrep	source\all\crashrep.ulf	0	LngText	%ENTER_DESCRIPTION%				0	ro	~Cum foloseați %PRODUCTNAME% când a intervenit eroarea?				2002-02-02 02:02:02
 crashrep	source\all\crashrep.ulf	0	LngText	%BACK_BUTTON%				0	ro	<< Îna~poi				2002-02-02 02:02:02
@@ -9193,7 +9193,7 @@ crashrep	source\all\crashrep.ulf	0	LngText	%PROXY_SETTINGS_DESCRIPTION%				0	ro	
 crashrep	source\all\crashrep.ulf	0	LngText	%SENDING_REPORT_HEADER%				0	ro	Se trimite raportul de eroare				2002-02-02 02:02:02
 crashrep	source\all\crashrep.ulf	0	LngText	%SENDING_REPORT_STATUS%				0	ro	Stare: se trimite raportul de eroare				2002-02-02 02:02:02
 crashrep	source\all\crashrep.ulf	0	LngText	%SENDING_REPORT_STATUS_FINISHED%				0	ro	Stare: Raportul de eroare a fost trimis cu succes.				2002-02-02 02:02:02
-crashrep	source\all\crashrep.ulf	0	LngText	%ERROR_MSG_NOEMAILADDRESS%				0	ro	Ați bifat opțiunea „Permit Sun Microsystems să mă contacteze în legătură cu acest raport.”\nIntroduceți vă rugăm și adresa de email pentru a fi contactat.				2002-02-02 02:02:02
+crashrep	source\all\crashrep.ulf	0	LngText	%ERROR_MSG_NOEMAILADDRESS%				0	ro	Ați bifat opțiunea „Permit Oracle să mă contacteze în legătură cu acest raport.”\nIntroduceți vă rugăm și adresa de email pentru a fi contactat.				2002-02-02 02:02:02
 crashrep	source\all\crashrep.ulf	0	LngText	%MSG_CMDLINE_USAGE%				0	ro	Utilizare:				2002-02-02 02:02:02
 crashrep	source\all\crashrep.ulf	0	LngText	%MSG_PARAM_PROCESSID%				0	ro	-p <ID proces>				2002-02-02 02:02:02
 crashrep	source\all\crashrep.ulf	0	LngText	%MSG_PARAM_PROCESSID_DESCRIPTION%				0	ro	Atribuie identificatorul de proces (PID) %PRODUCTNAME% uneltei de raportat erori				2002-02-02 02:02:02
@@ -11025,7 +11025,7 @@ chart2	source\controller\dialogs\tp_AxisLabel.src	0	tristatebox	TP_AXIS_LABEL	PB
 chart2	source\controller\dialogs\tp_AxisLabel.src	0	fixedtext	TP_AXIS_LABEL	FT_AXIS_LABEL_DEGREES			0	ro	Gra~de				2002-02-02 02:02:02
 chart2	source\controller\dialogs\tp_AxisLabel.src	0	fixedline	TP_AXIS_LABEL	FL_AXIS_LABEL_TEXTFLOW			0	ro	Curgere text				2002-02-02 02:02:02
 chart2	source\controller\dialogs\tp_AxisLabel.src	0	checkbox	TP_AXIS_LABEL	CB_AXIS_LABEL_TEXTOVERLAP			0	ro	~Suprapunere				2002-02-02 02:02:02
-chart2	source\controller\dialogs\tp_AxisLabel.src	0	checkbox	TP_AXIS_LABEL	CB_AXIS_LABEL_TEXTBREAK			0	ro	~Întrerupere				2002-02-02 02:02:02
+chart2	source\controller\dialogs\tp_AxisLabel.src	0	checkbox	TP_AXIS_LABEL	CB_AXIS_LABEL_TEXTBREAK			0	ro	Î~ntrerupere				2002-02-02 02:02:02
 chart2	source\controller\dialogs\tp_AxisLabel.src	0	fixedline	TP_AXIS_LABEL	FL_AXIS_LABEL_ORDER			0	ro	Ordine				2002-02-02 02:02:02
 chart2	source\controller\dialogs\tp_AxisLabel.src	0	radiobutton	TP_AXIS_LABEL	RB_AXIS_LABEL_SIDEBYSIDE			0	ro	~Mozaic				2002-02-02 02:02:02
 chart2	source\controller\dialogs\tp_AxisLabel.src	0	radiobutton	TP_AXIS_LABEL	RB_AXIS_LABEL_UPDOWN			0	ro	Eș~alonează numerele impare				2002-02-02 02:02:02
@@ -11147,10 +11147,10 @@ chart2	source\controller\dialogs\res_Titlesx_tmpl.hrc	0	fixedtext	TITLES( xpos, 
 instsetoo_native	inc_ooolangpack\windows\msi_languages\CustomAc.ulf	0	LngText	OOO_CUSTOMACTION_2				0	ro	Această versiune a produsului este deja instalată.				2002-02-02 02:02:02
 instsetoo_native	inc_ooolangpack\windows\msi_languages\CustomAc.ulf	0	LngText	OOO_CUSTOMACTION_4				0	ro	Trebuie să ieșiți din [DEFINEDPRODUCT] [DEFINEDVERSION] și din lansatorul rapid [DEFINEDPRODUCT] [DEFINEDVERSION] pentru a putea continua. Dacă lucrați pe un sistem multi-utilizator, asigurați-vă că nici un alt utilizator nu a deschis [DEFINEDPRODUCT] [DEFINEDVERSION].				2002-02-02 02:02:02
 instsetoo_native	inc_openoffice\windows\msi_languages\Property.ulf	0	LngText	OOO_ARPCONTACTTEMPLATE				0	ro	Departamentul pentru suport tehnic				2002-02-02 02:02:02
-instsetoo_native	inc_openoffice\windows\msi_languages\Property.ulf	0	LngText	OOO_ARPHELPLINKTEMPLATE				0	ro	http://www.documentfoundation.org				2002-02-02 02:02:02
+instsetoo_native	inc_openoffice\windows\msi_languages\Property.ulf	0	LngText	OOO_ARPHELPLINKTEMPLATE				0	ro	http://www.openoffice.org				2002-02-02 02:02:02
 instsetoo_native	inc_openoffice\windows\msi_languages\Property.ulf	0	LngText	OOO_ARPHELPTELEPHONETEMPLATE				0	ro	x-xxx-xxx-xxx				2002-02-02 02:02:02
-instsetoo_native	inc_openoffice\windows\msi_languages\Property.ulf	0	LngText	OOO_ARPURLINFOABOUTTEMPLATE				0	ro	http://www.documentfoundation.org				2002-02-02 02:02:02
-instsetoo_native	inc_openoffice\windows\msi_languages\Property.ulf	0	LngText	OOO_ARPURLUPDATEINFOTEMPLATE				0	ro	http://www.documentfoundation.org				2002-02-02 02:02:02
+instsetoo_native	inc_openoffice\windows\msi_languages\Property.ulf	0	LngText	OOO_ARPURLINFOABOUTTEMPLATE				0	ro	http://www.openoffice.org				2002-02-02 02:02:02
+instsetoo_native	inc_openoffice\windows\msi_languages\Property.ulf	0	LngText	OOO_ARPURLUPDATEINFOTEMPLATE				0	ro	http://www.openoffice.org				2002-02-02 02:02:02
 instsetoo_native	inc_openoffice\windows\msi_languages\Property.ulf	0	LngText	OOO_STR_NEW_DISPLAY_NAME				0	ro	~Creează				2002-02-02 02:02:02
 instsetoo_native	inc_openoffice\windows\msi_languages\Property.ulf	0	LngText	OOO_STR_EDIT				0	ro	~Editare				2002-02-02 02:02:02
 instsetoo_native	inc_openoffice\windows\msi_languages\Property.ulf	0	LngText	OOO_STR_MS_WORD_DOCUMENT				0	ro	Document Microsoft Word				2002-02-02 02:02:02
@@ -16629,7 +16629,7 @@ svx	source\dialog\srchdlg.src	0	string	RID_SVXSTR_SEARCH_STYLES				0	ro	Se inclu
 svx	source\dialog\srchdlg.src	0	string	RID_SVXSTR_SEARCH				0	ro	(Caută)				2002-02-02 02:02:02
 svx	source\dialog\srchdlg.src	0	string	RID_SVXSTR_REPLACE				0	ro	(Înlocuiește)				2002-02-02 02:02:02
 svx	source\dialog\srchdlg.src	0	fixedtext	RID_SVXDLG_SEARCH	FT_SEARCH			0	ro	~Caută după				2002-02-02 02:02:02
-svx	source\dialog\srchdlg.src	0	fixedtext	RID_SVXDLG_SEARCH	FT_REPLACE			0	ro	~Înlocuiește cu				2002-02-02 02:02:02
+svx	source\dialog\srchdlg.src	0	fixedtext	RID_SVXDLG_SEARCH	FT_REPLACE			0	ro	Î~nlocuiește cu				2002-02-02 02:02:02
 svx	source\dialog\srchdlg.src	0	pushbutton	RID_SVXDLG_SEARCH	BTN_SEARCH			0	ro	~Găsește				2002-02-02 02:02:02
 svx	source\dialog\srchdlg.src	0	pushbutton	RID_SVXDLG_SEARCH	BTN_SEARCH_ALL			0	ro	~Găsește tot				2002-02-02 02:02:02
 svx	source\dialog\srchdlg.src	0	pushbutton	RID_SVXDLG_SEARCH	BTN_REPLACE			0	ro	~Înlocuiește				2002-02-02 02:02:02
@@ -19609,7 +19609,7 @@ officecfg	registry\data\org\openoffice\Office\UI\GenericCommands.xcu	0	value	..G
 officecfg	registry\data\org\openoffice\Office\UI\GenericCommands.xcu	0	value	..GenericCommands.UserInterface.Popups..uno:TransliterateMenu	Label			0	ro	S~chimbă literele în				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\GenericCommands.xcu	0	value	..GenericCommands.UserInterface.Popups..uno:GroupMenu	Label			0	ro	~Grupare				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\GenericCommands.xcu	0	value	..GenericCommands.UserInterface.Popups..uno:ArrangeMenu	Label			0	ro	A~ranjare				2002-02-02 02:02:02
-officecfg	registry\data\org\openoffice\Office\UI\GenericCommands.xcu	0	value	..GenericCommands.UserInterface.Popups..uno:FlipMenu	Label			0	ro	~Întoarce				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\UI\GenericCommands.xcu	0	value	..GenericCommands.UserInterface.Popups..uno:FlipMenu	Label			0	ro	Î~ntoarce				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\GenericCommands.xcu	0	value	..GenericCommands.UserInterface.Popups..uno:AnchorMenu	Label			0	ro	A~ncorare				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\GenericCommands.xcu	0	value	..GenericCommands.UserInterface.Popups..uno:AVMediaPlayer	Label			0	ro	~Lector audio-video				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\GenericCommands.xcu	0	value	..GenericCommands.UserInterface.Popups..uno:InsertAVMedia	Label			0	ro	~Film sau sunet				2002-02-02 02:02:02
@@ -19910,12 +19910,12 @@ officecfg	registry\data\org\openoffice\Office\UI\DrawImpressCommands.xcu	0	value
 officecfg	registry\data\org\openoffice\Office\UI\DrawImpressCommands.xcu	0	value	..DrawImpressCommands.UserInterface.Commands..uno:CrookSlant	Label			0	ro	Poziționează pe cerc (înclinat)				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\DrawImpressCommands.xcu	0	value	..DrawImpressCommands.UserInterface.Commands..uno:CrookStretch	Label			0	ro	Poziționează pe cerc (distorsionat)				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\DrawImpressCommands.xcu	0	value	..DrawImpressCommands.UserInterface.Commands..uno:Connect	Label			0	ro	C~onectare				2002-02-02 02:02:02
-officecfg	registry\data\org\openoffice\Office\UI\DrawImpressCommands.xcu	0	value	..DrawImpressCommands.UserInterface.Commands..uno:Break	Label			0	ro	~Întrerupere				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\UI\DrawImpressCommands.xcu	0	value	..DrawImpressCommands.UserInterface.Commands..uno:Break	Label			0	ro	Î~ntrerupere				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\DrawImpressCommands.xcu	0	value	..DrawImpressCommands.UserInterface.Commands..uno:AdvancedMode	Label			0	ro	Efecte				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\DrawImpressCommands.xcu	0	value	..DrawImpressCommands.UserInterface.Commands..uno:InteractiveTransparence	Label			0	ro	Transparență				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\DrawImpressCommands.xcu	0	value	..DrawImpressCommands.UserInterface.Commands..uno:InteractiveGradient	Label			0	ro	Degradeu				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\DrawImpressCommands.xcu	0	value	..DrawImpressCommands.UserInterface.Commands..uno:Shear	Label			0	ro	Distorsionează				2002-02-02 02:02:02
-officecfg	registry\data\org\openoffice\Office\UI\DrawImpressCommands.xcu	0	value	..DrawImpressCommands.UserInterface.Commands..uno:BehindObject	Label			0	ro	~În spatele obiectului				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\UI\DrawImpressCommands.xcu	0	value	..DrawImpressCommands.UserInterface.Commands..uno:BehindObject	Label			0	ro	În ~spatele obiectului				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\DrawImpressCommands.xcu	0	value	..DrawImpressCommands.UserInterface.Commands..uno:ReverseOrder	Label			0	ro	Inve~rsare				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\DrawImpressCommands.xcu	0	value	..DrawImpressCommands.UserInterface.Commands..uno:ConnectorArrowStart	Label			0	ro	Inversare				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\DrawImpressCommands.xcu	0	value	..DrawImpressCommands.UserInterface.Commands..uno:ConnectorArrowEnd	Label			0	ro	Conectorul se termină cu săgeți				2002-02-02 02:02:02
@@ -21086,11 +21086,11 @@ officecfg	registry\data\org\openoffice\Office\UI\CalcCommands.xcu	0	value	..Calc
 officecfg	registry\data\org\openoffice\Office\UI\CalcCommands.xcu	0	value	..CalcCommands.UserInterface.Commands..uno:SetAnchorToCell	ContextLabel			0	ro	La ~celulă				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\CalcCommands.xcu	0	value	..CalcCommands.UserInterface.Commands..uno:SendMailDocAsMS	Label			0	ro	Email în format ~Microsoft Excel...				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\CalcCommands.xcu	0	value	..CalcCommands.UserInterface.Commands..uno:SendMailDocAsOOo	Label			0	ro	Email în format ~OpenDocument Spreadsheet...				2002-02-02 02:02:02
-officecfg	registry\data\org\openoffice\Office\UI\CalcCommands.xcu	0	value	..CalcCommands.UserInterface.Commands..uno:ShareDocument	Label			0	ro	~Împărtășește documentul...				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\UI\CalcCommands.xcu	0	value	..CalcCommands.UserInterface.Commands..uno:ShareDocument	Label			0	ro	Îm~părtășește documentul...				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\CalcCommands.xcu	0	value	..CalcCommands.UserInterface.Popups..uno:AuditMenu	Label			0	ro	~Detectiv				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\CalcCommands.xcu	0	value	..CalcCommands.UserInterface.Popups..uno:InsertBreakMenu	Label			0	ro	Întrerupere ~manuală				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\CalcCommands.xcu	0	value	..CalcCommands.UserInterface.Popups..uno:DataMenu	Label			0	ro	~Date				2002-02-02 02:02:02
-officecfg	registry\data\org\openoffice\Office\UI\CalcCommands.xcu	0	value	..CalcCommands.UserInterface.Popups..uno:DelBreakMenu	Label			0	ro	~Șterge întreruperea manuală				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\UI\CalcCommands.xcu	0	value	..CalcCommands.UserInterface.Popups..uno:DelBreakMenu	Label			0	ro	Șter~ge întreruperea de pagină				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\CalcCommands.xcu	0	value	..CalcCommands.UserInterface.Popups..uno:FillCellsMenu	Label			0	ro	Umplere				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\CalcCommands.xcu	0	value	..CalcCommands.UserInterface.Popups..uno:CellContentsMenu	Label			0	ro	Co~nținutul celulei				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\CalcCommands.xcu	0	value	..CalcCommands.UserInterface.Popups..uno:NamesMenu	Label			0	ro	~Nume				2002-02-02 02:02:02
@@ -21227,7 +21227,7 @@ officecfg	registry\data\org\openoffice\Office\UI\WriterCommands.xcu	0	value	..Wr
 officecfg	registry\data\org\openoffice\Office\UI\WriterCommands.xcu	0	value	..WriterCommands.UserInterface.Commands..uno:InsertAuthorField	Label			0	ro	~Autor				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\WriterCommands.xcu	0	value	..WriterCommands.UserInterface.Commands..uno:InsertFootnote	Label			0	ro	Inserează direct nota de subsol				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\WriterCommands.xcu	0	value	..WriterCommands.UserInterface.Commands..uno:AutoFormatApply	Label			0	ro	~Aplică				2002-02-02 02:02:02
-officecfg	registry\data\org\openoffice\Office\UI\WriterCommands.xcu	0	value	..WriterCommands.UserInterface.Commands..uno:OnlineAutoFormat	Label			0	ro	~În timpul tastării				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\UI\WriterCommands.xcu	0	value	..WriterCommands.UserInterface.Commands..uno:OnlineAutoFormat	Label			0	ro	În ~timpul tastării				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\WriterCommands.xcu	0	value	..WriterCommands.UserInterface.Commands..uno:StatePageNumber	Label			0	ro	Număr pagină				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\WriterCommands.xcu	0	value	..WriterCommands.UserInterface.Commands..uno:Grow	Label			0	ro	Mărește fontul				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\WriterCommands.xcu	0	value	..WriterCommands.UserInterface.Commands..uno:Shrink	Label			0	ro	Micșorează fontul				2002-02-02 02:02:02
@@ -21517,7 +21517,7 @@ officecfg	registry\data\org\openoffice\Office\UI\WriterCommands.xcu	0	value	..Wr
 officecfg	registry\data\org\openoffice\Office\UI\WriterCommands.xcu	0	value	..WriterCommands.UserInterface.Popups..uno:IndexesMenu	Label			0	ro	~Indecși și tabele...				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\WriterCommands.xcu	0	value	..WriterCommands.UserInterface.Popups..uno:WordCountDialog	Label			0	ro	~Contor de cuvinte				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\WriterCommands.xcu	0	value	..WriterCommands.UserInterface.Popups..uno:StylesMenu	Label			0	ro	~Stiluri				2002-02-02 02:02:02
-officecfg	registry\data\org\openoffice\Office\UI\WriterCommands.xcu	0	value	..WriterCommands.UserInterface.Popups..uno:WrapMenu	Label			0	ro	~Încadrează textul în fereastră				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\UI\WriterCommands.xcu	0	value	..WriterCommands.UserInterface.Popups..uno:WrapMenu	Label			0	ro	Î~ncadrează textul în fereastră				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\WriterCommands.xcu	0	value	..WriterCommands.UserInterface.Popups..uno:AutoFormatMenu	Label			0	ro	Cor~ectare automată				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\WriterCommands.xcu	0	value	..WriterCommands.UserInterface.Popups..uno:SelectionModeMenu	Label			0	ro	Mod de selecție				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\WriterCommands.xcu	0	value	..WriterCommands.UserInterface.Popups..uno:SaveGraphic	Label			0	ro	Salvează imaginea...				2002-02-02 02:02:02
@@ -22519,7 +22519,7 @@ wizards	source\formwizard\dbwizres.src	0	string	RID_LETTERWIZARDDIALOG_START + 2
 wizards	source\formwizard\dbwizres.src	0	string	RID_LETTERWIZARDDIALOG_START + 29				0	ro	Design de pagină				2002-02-02 02:02:02
 wizards	source\formwizard\dbwizres.src	0	string	RID_LETTERWIZARDDIALOG_START + 30				0	ro	Design de pagină				2002-02-02 02:02:02
 wizards	source\formwizard\dbwizres.src	0	string	RID_LETTERWIZARDDIALOG_START + 31				0	ro	Acest asistent vă ajută să creați un șablon de scrisoare. Puteți folosi acest șablon pentru a scrie apoi nenumărate scrisori.				2002-02-02 02:02:02
-wizards	source\formwizard\dbwizres.src	0	string	RID_LETTERWIZARDDIALOG_START + 32				0	ro	~Înălțime:				2002-02-02 02:02:02
+wizards	source\formwizard\dbwizres.src	0	string	RID_LETTERWIZARDDIALOG_START + 32				0	ro	Î~nălțime:				2002-02-02 02:02:02
 wizards	source\formwizard\dbwizres.src	0	string	RID_LETTERWIZARDDIALOG_START + 33				0	ro	~Lățime:				2002-02-02 02:02:02
 wizards	source\formwizard\dbwizres.src	0	string	RID_LETTERWIZARDDIALOG_START + 34				0	ro	S~pațiu până la marginea stângă:				2002-02-02 02:02:02
 wizards	source\formwizard\dbwizres.src	0	string	RID_LETTERWIZARDDIALOG_START + 35				0	ro	~Spațiu până la marginea de sus:				2002-02-02 02:02:02
@@ -27004,3 +27004,8 @@ svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	24			0	ro	Aliniere				20
 svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	27			0	ro	Silabisire				2002-02-02 02:02:02
 svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	40			0	ro	Fundal caracter				2002-02-02 02:02:02
 svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	2			0	ro	Pensulă				2002-02-02 02:02:02
+starmath	source\smres.src	0	itemlist	RID_PRINTUIOPTIONS	17			0	ro	Ig~noră ~~ și ` de la sfârșit de linie				20110201 21:28:21
+framework	source\classes\resource.src	0	string	STR_STATUSBAR_LOGOTEXT				0	ro	Un produs %PRODUCTNAME de %OOOVENDOR				20110201 21:28:21
+instsetoo_native	inc_openoffice\windows\msi_languages\Control.ulf	0	LngText	OOO_CONTROL_124				0	ro	Construit în colaborare cu comunitatea de către The Document Foundation. Pentru merite, vedeți: http://www.documentfoundation.org				20110201 21:28:21
+scp2	source\ooo\folderitem_ooo.ulf	0	LngText	STR_FI_TOOLTIP_SOFFICE				0	ro	LibreOffice, suita de unelte de productivitate pentru birou furnizată de The Document Foundation. Vedeți http://www.documentfoundation.org				20110201 21:28:21
+sysui	desktop\share\launcher_comment.ulf	0	LngText	startcenter				0	ro	Suita de productivitate pentru birou compatibilă cu formatul deschis și standardizat ODF. Sprijinită de The Document Foundation.				20110201 21:28:21
