@@ -1885,8 +1885,8 @@ cui	source\options\treeopt.src	0	itemlist	RID_OFADLG_OPTIONS_TREE_PAGES.SID_SC_E
 cui	source\options\treeopt.src	0	itemlist	RID_OFADLG_OPTIONS_TREE_PAGES.SID_SC_EDITOPTIONS	4			0	th	นานาชาติ!!!!				2002-02-02 02:02:02
 cui	source\options\treeopt.src	0	itemlist	RID_OFADLG_OPTIONS_TREE_PAGES.SID_SC_EDITOPTIONS	5			0	th	คำนวณ				2002-02-02 02:02:02
 cui	source\options\treeopt.src	0	itemlist	RID_OFADLG_OPTIONS_TREE_PAGES.SID_SC_EDITOPTIONS	6			0	th	เรียงลำดับรายการ				2002-02-02 02:02:02
-cui	source\options\treeopt.src	0	itemlist	RID_OFADLG_OPTIONS_TREE_PAGES.SID_SC_EDITOPTIONS	7			0	th	การเปลี่ยนแปลง				2002-02-02 02:02:02
-cui	source\options\treeopt.src	0	itemlist	RID_OFADLG_OPTIONS_TREE_PAGES.SID_SC_EDITOPTIONS	8			0	th	เส้นตาราง				2002-02-02 02:02:02
+cui	source\options\treeopt.src	0	itemlist	RID_OFADLG_OPTIONS_TREE_PAGES.SID_SC_EDITOPTIONS	7			0	th	เรียงลำดับรายการ				2002-02-02 02:02:02
+cui	source\options\treeopt.src	0	itemlist	RID_OFADLG_OPTIONS_TREE_PAGES.SID_SC_EDITOPTIONS	8			0	th	การเปลี่ยนแปลง				2002-02-02 02:02:02
 cui	source\options\treeopt.src	0	itemlist	RID_OFADLG_OPTIONS_TREE_PAGES.SID_SC_EDITOPTIONS	9			0	th	พิมพ์				2002-02-02 02:02:02
 cui	source\options\treeopt.src	0	itemlist	RID_OFADLG_OPTIONS_TREE_PAGES.SID_SD_EDITOPTIONS	1			0	th	%PRODUCTNAME Impress!!!!				2002-02-02 02:02:02
 cui	source\options\treeopt.src	0	itemlist	RID_OFADLG_OPTIONS_TREE_PAGES.SID_SD_EDITOPTIONS	2			0	th	ทั่วไป				2002-02-02 02:02:02
@@ -22999,3 +22999,712 @@ svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	15			0	th	สีตั�
 svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	1			0	th	สัดส่วน				2002-02-02 02:02:02
 svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	34			0	th	ระยะห่าง				2002-02-02 02:02:02
 svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	31			0	th	ระยะห่าง				2002-02-02 02:02:02
+sc	source\ui\src\datafdlg.src	0	pushbutton	RID_SCDLG_DATAFORM	BTN_DATAFORM_DELETE			50	th	ลบ				2002-02-02 02:02:02
+sc	source\ui\src\globstr.src	0	string	RID_GLOBSTR	STR_FORM_LABEL			5104	th	ป้ายชื่อ				2002-02-02 02:02:02
+sc	source\ui\src\optdlg.src	0	stringlist	RID_SCPAGE_COMPATIBILITY.LB_KEY_BINDINGS	1			0	th	ค่าปริยาย				2002-02-02 02:02:02
+cui	source\options\treeopt.src	0	itemlist	RID_OFADLG_OPTIONS_TREE_PAGES.SID_SC_EDITOPTIONS	10			0	th	เส้นตาราง				2002-02-02 02:02:02
+cui	source\options\treeopt.src	0	itemlist	RID_OFADLG_OPTIONS_TREE_PAGES.SID_SC_EDITOPTIONS	11			0	th	พิมพ์				2002-02-02 02:02:02
+editeng	source\items\svxitems.src	0	string	RID_SVXITEMS_JUSTMETHOD_AUTO				37872	th	อัตโนมัติ				2002-02-02 02:02:02
+svx	source\gallery2\galtheme.src	0	string	RID_GALLERYSTR_THEME_FLAGS_1				22120	th	แฟล็ก				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_EN_US				0	th	English				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_EN_US				0	th	Installs English support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_DE				0	th	German				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_DE				0	th	Installs German support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_FR				0	th	French				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_FR				0	th	Installs French support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_IT				0	th	Italian				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_IT				0	th	Installs Italian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_ES				0	th	Spanish				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_ES				0	th	Installs Spanish support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_SV				0	th	Swedish				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_SV				0	th	Installs Swedish support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_PT				0	th	Portuguese				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_PT				0	th	Installs Portuguese support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_PT_BR				0	th	Portuguese (Brazil)				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_PT_BR				0	th	Installs Portuguese support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_JA				0	th	Japanese				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_JA				0	th	Installs Japanese support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_KO				0	th	Korean				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_KO				0	th	Installs Korean support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_ZH_CN				0	th	Chinese (simplified)				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_ZH_CN				0	th	Installs Chinese (simplified) support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_ZH_TW				0	th	Chinese (tradional)				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_ZH_TW				0	th	Installs Chinese (traditional) support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_NL				0	th	Dutch				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_NL				0	th	Installs Dutch support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_HU				0	th	Hungarian				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_HU				0	th	Installs Hungarian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_PL				0	th	Polish				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_PL				0	th	Installs Polish support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_RU				0	th	Russian				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_RU				0	th	Installs Russian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_TR				0	th	Turkish				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_TR				0	th	Installs Turkish support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_EL				0	th	Greek				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_EL				0	th	Installs Greek support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_TH				0	th	Thai				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_TH				0	th	Installs Thai support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_CS				0	th	Czech				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_CS				0	th	Installs Czech support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_SK				0	th	Slovak				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_SK				0	th	Installs Slovak support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_HR				0	th	Croatian				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_HR				0	th	Installs Croatian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_ET				0	th	Estonian				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_ET				0	th	Installs Estonian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_VI				0	th	Vietnamese				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_VI				0	th	Installs Vietnamese support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_BG				0	th	Bulgarian				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_BG				0	th	Installs Bulgarian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_KM				0	th	Khmer				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_KM				0	th	Installs Khmer support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_PA_IN				0	th	Punjabi				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_PA_IN				0	th	Installs Punjabi support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_GU_IN				0	th	Gujarati				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_GU_IN				0	th	Installs Gujarati support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_TA				0	th	Tamil				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_TA				0	th	Installs Tamil support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_TA_IN				0	th	Tamil				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_TA_IN				0	th	Installs Tamil support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_HI				0	th	Hindi				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_HI				0	th	Installs Hindi support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_HI_IN				0	th	Hindi				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_HI_IN				0	th	Installs Hindi support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_ST				0	th	Southern Sotho (Sutu)				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_ST				0	th	Installs Southern Sotho (Sutu) support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_TN				0	th	Tswana				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_TN				0	th	Installs Tswana support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_XH				0	th	Xhosa				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_XH				0	th	Installs Xhosa support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_ZU				0	th	Zulu				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_ZU				0	th	Installs Zulu support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_AF				0	th	Afrikaans				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_AF				0	th	Installs Afrikaans support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_SW				0	th	Swahili				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_SW				0	th	Installs Swahili support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_SW_TZ				0	th	Swahili				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_SW_TZ				0	th	Installs Swahili support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_LO				0	th	Lao				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_LO				0	th	Installs Lao support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_NS				0	th	Northern Sotho				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_NS				0	th	Installs Northern Sotho support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_BN				0	th	Bengali				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_BN				0	th	Installs Bengali support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_BN_BD				0	th	Bengali (Bangladesh)				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_BN_BD				0	th	Installs Bengali (Bangladesh) support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_BN_IN				0	th	Bengali (India)				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_BN_IN				0	th	Installs Bengali (India) support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_OR				0	th	Oriya				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_OR				0	th	Installs Oriya support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_OR_IN				0	th	Oriya				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_OR_IN				0	th	Installs Oriya support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_MR				0	th	Marathi				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_MR				0	th	Installs Marathi support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_MR_IN				0	th	Marathi				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_MR_IN				0	th	Installs Marathi support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_NE				0	th	Nepali				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_NE				0	th	Installs Nepali support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_AR				0	th	Arabic				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_AR				0	th	Installs Arabic support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_AR_SA				0	th	Arabic				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_AR_SA				0	th	Installs Arabic support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_CA				0	th	Catalan				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_CA				0	th	Installs Catalan support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_DA				0	th	Danish				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_DA				0	th	Installs Danish support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_FI				0	th	Finnish				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_FI				0	th	Installs Finnish support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_HE				0	th	Hebrew				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_HE				0	th	Installs Hebrew support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_IS				0	th	Icelandic				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_IS				0	th	Installs Icelandic support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_NB				0	th	Norwegian (Bokmal)				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_NB				0	th	Installs Norwegian (Bokmal) support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_NN				0	th	Norwegian (Nynorsk)				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_NN				0	th	Installs Norwegian (Nynorsk) support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_RM				0	th	Raeto-Romance				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_RM				0	th	Installs Raeto-Romance support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_RO				0	th	Romanian				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_RO				0	th	Installs Romanian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_SQ				0	th	Albanian				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_SQ				0	th	Installs Albanian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_UR				0	th	Urdu				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_UR				0	th	Installs Urdu support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_ID				0	th	Indonesian				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_ID				0	th	Installs Indonesian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_UK				0	th	Ukrainian				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_UK				0	th	Installs Ukrainian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_BE_BY				0	th	Installs Bulgarian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_SL				0	th	Installs Slovak support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_LV				0	th	Installs Catalan support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_LT				0	th	Installs Italian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_HY				0	th	Installs Romanian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_EU				0	th	Installs Lao support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_MK				0	th	Installs Estonian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_MT				0	th	Installs Japanese support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_CY				0	th	Installs Polish support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_GL				0	th	Installs Italian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_SH_YU				0	th	Installs Albanian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_SH				0	th	Installs Albanian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_GA				0	th	Installs Turkish support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_SR_CS				0	th	Installs Norwegian (Nynorsk) support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_SR				0	th	Installs Norwegian (Nynorsk) support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_BS				0	th	Installs Romanian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_AS_IN				0	th	Installs Japanese support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_RW				0	th	Installs Hungarian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_SA				0	th	Installs Hungarian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_FA				0	th	Installs Marathi support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_FO				0	th	Installs Japanese support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_SB				0	th	Installs Korean support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_TT				0	th	Installs Thai support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_TS				0	th	Installs Tswana support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_YI				0	th	Installs Swedish support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_BR				0	th	Installs Greek support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_NR				0	th	Installs Northern Sotho support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_SS				0	th	Installs Swahili support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_VE				0	th	Installs Hindi support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_KN				0	th	Installs Hindi support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_MS				0	th	Installs Italian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_TG				0	th	Installs Tamil support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_KU				0	th	Installs Turkish support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_DZ				0	th	Installs Danish support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_KA				0	th	Installs German support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_EO				0	th	Installs German support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_GU				0	th	Gujarati				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_GU				0	th	Installs Gujarati support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_EN_ZA				0	th	Installs English support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_EN_GB				0	th	Installs Bengali (India) support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_UR_IN				0	th	Urdu				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_UR_IN				0	th	Installs Urdu support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_ML_IN				0	th	Installs Catalan support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_TE_IN				0	th	Installs Zulu support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_TI_ER				0	th	Installs Oriya support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_UZ				0	th	Installs Greek support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_samples_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_MN				0	th	Installs Hungarian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_accessories.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_ACCESSORIES				0	th	เครื่องใช้ไม้สอย				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_EN_US				0	th	English				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_EN_US				0	th	Installs English support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_DE				0	th	German				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_DE				0	th	Installs German support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_FR				0	th	French				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_FR				0	th	Installs French support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_IT				0	th	Italian				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_IT				0	th	Installs Italian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_ES				0	th	Spanish				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_ES				0	th	Installs Spanish support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_SV				0	th	Swedish				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_SV				0	th	Installs Swedish support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_PT				0	th	Portuguese				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_PT				0	th	Installs Portuguese support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_PT_BR				0	th	Portuguese (Brazil)				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_PT_BR				0	th	Installs Portuguese support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_JA				0	th	Japanese				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_JA				0	th	Installs Japanese support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_KO				0	th	Korean				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_KO				0	th	Installs Korean support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_ZH_CN				0	th	Chinese (simplified)				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_ZH_CN				0	th	Installs Chinese (simplified) support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_ZH_TW				0	th	Chinese (tradional)				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_ZH_TW				0	th	Installs Chinese (traditional) support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_NL				0	th	Dutch				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_NL				0	th	Installs Dutch support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_HU				0	th	Hungarian				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_HU				0	th	Installs Hungarian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_PL				0	th	Polish				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_PL				0	th	Installs Polish support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_RU				0	th	Russian				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_RU				0	th	Installs Russian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_TR				0	th	Turkish				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_TR				0	th	Installs Turkish support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_EL				0	th	Greek				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_EL				0	th	Installs Greek support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_TH				0	th	Thai				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_TH				0	th	Installs Thai support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_CS				0	th	Czech				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_CS				0	th	Installs Czech support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_SK				0	th	Slovak				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_SK				0	th	Installs Slovak support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_HR				0	th	Croatian				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_HR				0	th	Installs Croatian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_ET				0	th	Estonian				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_ET				0	th	Installs Estonian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_VI				0	th	Vietnamese				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_VI				0	th	Installs Vietnamese support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_BG				0	th	Bulgarian				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_BG				0	th	Installs Bulgarian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_KM				0	th	Khmer				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_KM				0	th	Installs Khmer support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_PA_IN				0	th	Punjabi				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_PA_IN				0	th	Installs Punjabi support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_GU_IN				0	th	Gujarati				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_GU_IN				0	th	Installs Gujarati support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_TA				0	th	Tamil				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_TA				0	th	Installs Tamil support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_TA_IN				0	th	Tamil				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_TA_IN				0	th	Installs Tamil support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_HI				0	th	Hindi				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_HI				0	th	Installs Hindi support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_HI_IN				0	th	Hindi				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_HI_IN				0	th	Installs Hindi support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_ST				0	th	Southern Sotho (Sutu)				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_ST				0	th	Installs Southern Sotho (Sutu) support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_TN				0	th	Tswana				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_TN				0	th	Installs Tswana support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_XH				0	th	Xhosa				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_XH				0	th	Installs Xhosa support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_ZU				0	th	Zulu				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_ZU				0	th	Installs Zulu support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_AF				0	th	Afrikaans				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_AF				0	th	Installs Afrikaans support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_SW				0	th	Swahili				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_SW				0	th	Installs Swahili support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_SW_TZ				0	th	Swahili				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_SW_TZ				0	th	Installs Swahili support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_LO				0	th	Lao				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_LO				0	th	Installs Lao support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_NS				0	th	Northern Sotho				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_NS				0	th	Installs Northern Sotho support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_BN				0	th	Bengali				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_BN				0	th	Installs Bengali support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_BN_BD				0	th	Bengali (Bangladesh)				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_BN_BD				0	th	Installs Bengali (Bangladesh) support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_BN_IN				0	th	Bengali (India)				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_BN_IN				0	th	Installs Bengali (India) support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_OR				0	th	Oriya				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_OR				0	th	Installs Oriya support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_OR_IN				0	th	Oriya				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_OR_IN				0	th	Installs Oriya support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_MR				0	th	Marathi				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_MR				0	th	Installs Marathi support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_MR_IN				0	th	Marathi				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_MR_IN				0	th	Installs Marathi support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_NE				0	th	Nepali				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_NE				0	th	Installs Nepali support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_AR				0	th	Arabic				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_AR				0	th	Installs Arabic support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_AR_SA				0	th	Arabic				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_AR_SA				0	th	Installs Arabic support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_CA				0	th	Catalan				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_CA				0	th	Installs Catalan support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_DA				0	th	Danish				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_DA				0	th	Installs Danish support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_FI				0	th	Finnish				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_FI				0	th	Installs Finnish support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_HE				0	th	Hebrew				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_HE				0	th	Installs Hebrew support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_IS				0	th	Icelandic				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_IS				0	th	Installs Icelandic support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_NB				0	th	Norwegian (Bokmal)				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_NB				0	th	Installs Norwegian (Bokmal) support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_NN				0	th	Norwegian (Nynorsk)				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_NN				0	th	Installs Norwegian (Nynorsk) support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_RM				0	th	Raeto-Romance				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_RM				0	th	Installs Raeto-Romance support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_RO				0	th	Romanian				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_RO				0	th	Installs Romanian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_SQ				0	th	Albanian				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_SQ				0	th	Installs Albanian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_UR				0	th	Urdu				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_UR				0	th	Installs Urdu support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_ID				0	th	Indonesian				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_ID				0	th	Installs Indonesian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_UK				0	th	Ukrainian				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_UK				0	th	Installs Ukrainian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_BE_BY				0	th	Installs Bulgarian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_SL				0	th	Installs Slovak support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_LV				0	th	Installs Catalan support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_LT				0	th	Installs Italian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_HY				0	th	Installs Romanian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_EU				0	th	Installs Lao support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_MK				0	th	Installs Estonian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_MT				0	th	Installs Japanese support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_CY				0	th	Installs Polish support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_GL				0	th	Installs Italian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_SH_YU				0	th	Installs Albanian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_SH				0	th	Installs Albanian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_GA				0	th	Installs Turkish support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_SR_CS				0	th	Installs Norwegian (Nynorsk) support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_SR				0	th	Installs Norwegian (Nynorsk) support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_BS				0	th	Installs Romanian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_AS_IN				0	th	Installs Japanese support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_RW				0	th	Installs Hungarian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_SA				0	th	Installs Hungarian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_FA				0	th	Installs Marathi support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_FO				0	th	Installs Japanese support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_SB				0	th	Installs Korean support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_TT				0	th	Installs Thai support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_TS				0	th	Installs Tswana support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_YI				0	th	Installs Swedish support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_BR				0	th	Installs Greek support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_NR				0	th	Installs Northern Sotho support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_SS				0	th	Installs Swahili support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_VE				0	th	Installs Hindi support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_KN				0	th	Installs Hindi support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_MS				0	th	Installs Italian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_TG				0	th	Installs Tamil support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_KU				0	th	Installs Turkish support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_DZ				0	th	Installs Danish support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_KA				0	th	Installs German support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_EO				0	th	Installs German support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_GU				0	th	Gujarati				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_GU				0	th	Installs Gujarati support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_EN_ZA				0	th	Installs English support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_EN_GB				0	th	Installs Bengali (India) support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_UR_IN				0	th	Urdu				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_UR_IN				0	th	Installs Urdu support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_ML_IN				0	th	Installs Catalan support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_TE_IN				0	th	Installs Zulu support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_TI_ER				0	th	Installs Oriya support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_UZ				0	th	Installs Greek support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_MN				0	th	Installs Hungarian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\accessories\module_font_accessories.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_ACCESSORIES_FONTS				0	th	แบบอักษร				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_EN_US				0	th	English				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_EN_US				0	th	Installs English support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_DE				0	th	German				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_DE				0	th	Installs German support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_FR				0	th	French				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_FR				0	th	Installs French support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_IT				0	th	Italian				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_IT				0	th	Installs Italian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_ES				0	th	Spanish				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_ES				0	th	Installs Spanish support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_SV				0	th	Swedish				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_SV				0	th	Installs Swedish support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_PT				0	th	Portuguese				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_PT				0	th	Installs Portuguese support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_PT_BR				0	th	Portuguese (Brazil)				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_PT_BR				0	th	Installs Portuguese support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_JA				0	th	Japanese				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_JA				0	th	Installs Japanese support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_KO				0	th	Korean				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_KO				0	th	Installs Korean support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_ZH_CN				0	th	Chinese (simplified)				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_ZH_CN				0	th	Installs Chinese (simplified) support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_ZH_TW				0	th	Chinese (tradional)				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_ZH_TW				0	th	Installs Chinese (traditional) support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_NL				0	th	Dutch				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_NL				0	th	Installs Dutch support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_HU				0	th	Hungarian				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_HU				0	th	Installs Hungarian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_PL				0	th	Polish				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_PL				0	th	Installs Polish support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_RU				0	th	Russian				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_RU				0	th	Installs Russian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_TR				0	th	Turkish				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_TR				0	th	Installs Turkish support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_EL				0	th	Greek				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_EL				0	th	Installs Greek support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_TH				0	th	Thai				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_TH				0	th	Installs Thai support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_CS				0	th	Czech				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_CS				0	th	Installs Czech support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_SK				0	th	Slovak				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_SK				0	th	Installs Slovak support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_HR				0	th	Croatian				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_HR				0	th	Installs Croatian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_ET				0	th	Estonian				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_ET				0	th	Installs Estonian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_VI				0	th	Vietnamese				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_VI				0	th	Installs Vietnamese support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_BG				0	th	Bulgarian				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_BG				0	th	Installs Bulgarian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_KM				0	th	Khmer				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_KM				0	th	Installs Khmer support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_PA_IN				0	th	Punjabi				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_PA_IN				0	th	Installs Punjabi support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_GU_IN				0	th	Gujarati				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_GU_IN				0	th	Installs Gujarati support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_TA				0	th	Tamil				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_TA				0	th	Installs Tamil support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_TA_IN				0	th	Tamil				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_TA_IN				0	th	Installs Tamil support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_HI				0	th	Hindi				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_HI				0	th	Installs Hindi support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_HI_IN				0	th	Hindi				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_HI_IN				0	th	Installs Hindi support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_ST				0	th	Southern Sotho (Sutu)				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_ST				0	th	Installs Southern Sotho (Sutu) support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_TN				0	th	Tswana				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_TN				0	th	Installs Tswana support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_XH				0	th	Xhosa				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_XH				0	th	Installs Xhosa support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_ZU				0	th	Zulu				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_ZU				0	th	Installs Zulu support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_AF				0	th	Afrikaans				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_AF				0	th	Installs Afrikaans support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_SW				0	th	Swahili				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_SW				0	th	Installs Swahili support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_SW_TZ				0	th	Swahili				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_SW_TZ				0	th	Installs Swahili support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_LO				0	th	Lao				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_LO				0	th	Installs Lao support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_NS				0	th	Northern Sotho				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_NS				0	th	Installs Northern Sotho support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_BN				0	th	Bengali				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_BN				0	th	Installs Bengali support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_BN_BD				0	th	Bengali (Bangladesh)				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_BN_BD				0	th	Installs Bengali (Bangladesh) support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_BN_IN				0	th	Bengali (India)				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_BN_IN				0	th	Installs Bengali (India) support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_OR				0	th	Oriya				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_OR				0	th	Installs Oriya support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_OR_IN				0	th	Oriya				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_OR_IN				0	th	Installs Oriya support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_MR				0	th	Marathi				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_MR				0	th	Installs Marathi support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_MR_IN				0	th	Marathi				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_MR_IN				0	th	Installs Marathi support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_NE				0	th	Nepali				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_NE				0	th	Installs Nepali support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_AR				0	th	Arabic				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_AR				0	th	Installs Arabic support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_AR_SA				0	th	Arabic				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_AR_SA				0	th	Installs Arabic support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_CA				0	th	Catalan				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_CA				0	th	Installs Catalan support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_DA				0	th	Danish				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_DA				0	th	Installs Danish support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_FI				0	th	Finnish				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_FI				0	th	Installs Finnish support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_HE				0	th	Hebrew				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_HE				0	th	Installs Hebrew support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_IS				0	th	Icelandic				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_IS				0	th	Installs Icelandic support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_NB				0	th	Norwegian (Bokmal)				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_NB				0	th	Installs Norwegian (Bokmal) support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_NN				0	th	Norwegian (Nynorsk)				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_NN				0	th	Installs Norwegian (Nynorsk) support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_RM				0	th	Raeto-Romance				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_RM				0	th	Installs Raeto-Romance support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_RO				0	th	Romanian				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_RO				0	th	Installs Romanian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_SQ				0	th	Albanian				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_SQ				0	th	Installs Albanian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_UR				0	th	Urdu				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_UR				0	th	Installs Urdu support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_ID				0	th	Indonesian				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_ID				0	th	Installs Indonesian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_UK				0	th	Ukrainian				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_UK				0	th	Installs Ukrainian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_BE_BY				0	th	Installs Bulgarian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_SL				0	th	Installs Slovak support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_LV				0	th	Installs Catalan support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_LT				0	th	Installs Italian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_HY				0	th	Installs Romanian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_EU				0	th	Installs Lao support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_MK				0	th	Installs Estonian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_MT				0	th	Installs Japanese support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_CY				0	th	Installs Polish support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_GL				0	th	Installs Italian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_SH_YU				0	th	Installs Albanian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_SH				0	th	Installs Albanian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_GA				0	th	Installs Turkish support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_SR_CS				0	th	Installs Norwegian (Nynorsk) support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_SR				0	th	Installs Norwegian (Nynorsk) support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_BS				0	th	Installs Romanian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_AS_IN				0	th	Installs Japanese support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_RW				0	th	Installs Hungarian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_SA				0	th	Installs Hungarian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_FA				0	th	Installs Marathi support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_FO				0	th	Installs Japanese support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_SB				0	th	Installs Korean support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_TT				0	th	Installs Thai support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_TS				0	th	Installs Tswana support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_YI				0	th	Installs Swedish support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_BR				0	th	Installs Greek support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_NR				0	th	Installs Northern Sotho support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_SS				0	th	Installs Swahili support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_VE				0	th	Installs Hindi support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_KN				0	th	Installs Hindi support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_MS				0	th	Installs Italian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_TG				0	th	Installs Tamil support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_KU				0	th	Installs Turkish support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_DZ				0	th	Installs Danish support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_KA				0	th	Installs German support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_EO				0	th	Installs German support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_GU				0	th	Gujarati				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_GU				0	th	Installs Gujarati support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_EN_ZA				0	th	Installs English support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_EN_GB				0	th	Installs Bengali (India) support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_UR_IN				0	th	Urdu				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_UR_IN				0	th	Installs Urdu support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_ML_IN				0	th	Installs Catalan support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_TE_IN				0	th	Installs Zulu support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_TI_ER				0	th	Installs Oriya support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_UZ				0	th	Installs Greek support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_sun_templates.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_MN				0	th	Installs Hungarian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_EN_US				0	th	English				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_EN_US				0	th	Installs English support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_DE				0	th	German				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_DE				0	th	Installs German support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_FR				0	th	French				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_FR				0	th	Installs French support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_IT				0	th	Italian				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_IT				0	th	Installs Italian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_ES				0	th	Spanish				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_ES				0	th	Installs Spanish support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_SV				0	th	Swedish				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_SV				0	th	Installs Swedish support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_PT				0	th	Portuguese				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_PT				0	th	Installs Portuguese support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_PT_BR				0	th	Portuguese (Brazil)				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_PT_BR				0	th	Installs Portuguese support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_JA				0	th	Japanese				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_JA				0	th	Installs Japanese support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_KO				0	th	Korean				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_KO				0	th	Installs Korean support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_ZH_CN				0	th	Chinese (simplified)				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_ZH_CN				0	th	Installs Chinese (simplified) support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_ZH_TW				0	th	Chinese (tradional)				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_ZH_TW				0	th	Installs Chinese (traditional) support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_NL				0	th	Dutch				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_NL				0	th	Installs Dutch support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_HU				0	th	Hungarian				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_HU				0	th	Installs Hungarian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_PL				0	th	Polish				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_PL				0	th	Installs Polish support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_RU				0	th	Russian				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_RU				0	th	Installs Russian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_TR				0	th	Turkish				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_TR				0	th	Installs Turkish support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_EL				0	th	Greek				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_EL				0	th	Installs Greek support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_TH				0	th	Thai				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_TH				0	th	Installs Thai support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_CS				0	th	Czech				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_CS				0	th	Installs Czech support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_SK				0	th	Slovak				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_SK				0	th	Installs Slovak support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_HR				0	th	Croatian				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_HR				0	th	Installs Croatian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_ET				0	th	Estonian				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_ET				0	th	Installs Estonian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_VI				0	th	Vietnamese				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_VI				0	th	Installs Vietnamese support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_BG				0	th	Bulgarian				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_BG				0	th	Installs Bulgarian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_KM				0	th	Khmer				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_KM				0	th	Installs Khmer support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_PA_IN				0	th	Punjabi				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_PA_IN				0	th	Installs Punjabi support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_GU_IN				0	th	Gujarati				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_GU_IN				0	th	Installs Gujarati support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_TA				0	th	Tamil				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_TA				0	th	Installs Tamil support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_TA_IN				0	th	Tamil				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_TA_IN				0	th	Installs Tamil support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_HI				0	th	Hindi				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_HI				0	th	Installs Hindi support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_HI_IN				0	th	Hindi				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_HI_IN				0	th	Installs Hindi support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_ST				0	th	Southern Sotho (Sutu)				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_ST				0	th	Installs Southern Sotho (Sutu) support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_TN				0	th	Tswana				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_TN				0	th	Installs Tswana support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_XH				0	th	Xhosa				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_XH				0	th	Installs Xhosa support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_ZU				0	th	Zulu				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_ZU				0	th	Installs Zulu support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_AF				0	th	Afrikaans				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_AF				0	th	Installs Afrikaans support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_SW				0	th	Swahili				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_SW				0	th	Installs Swahili support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_SW_TZ				0	th	Swahili				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_SW_TZ				0	th	Installs Swahili support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_LO				0	th	Lao				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_LO				0	th	Installs Lao support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_NS				0	th	Northern Sotho				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_NS				0	th	Installs Northern Sotho support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_BN				0	th	Bengali				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_BN				0	th	Installs Bengali support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_BN_BD				0	th	Bengali (Bangladesh)				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_BN_BD				0	th	Installs Bengali (Bangladesh) support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_BN_IN				0	th	Bengali (India)				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_BN_IN				0	th	Installs Bengali (India) support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_OR				0	th	Oriya				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_OR				0	th	Installs Oriya support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_OR_IN				0	th	Oriya				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_OR_IN				0	th	Installs Oriya support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_MR				0	th	Marathi				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_MR				0	th	Installs Marathi support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_MR_IN				0	th	Marathi				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_MR_IN				0	th	Installs Marathi support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_NE				0	th	Nepali				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_NE				0	th	Installs Nepali support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_AR				0	th	Arabic				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_AR				0	th	Installs Arabic support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_AR_SA				0	th	Arabic				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_AR_SA				0	th	Installs Arabic support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_CA				0	th	Catalan				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_CA				0	th	Installs Catalan support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_DA				0	th	Danish				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_DA				0	th	Installs Danish support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_FI				0	th	Finnish				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_FI				0	th	Installs Finnish support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_HE				0	th	Hebrew				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_HE				0	th	Installs Hebrew support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_IS				0	th	Icelandic				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_IS				0	th	Installs Icelandic support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_NB				0	th	Norwegian (Bokmal)				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_NB				0	th	Installs Norwegian (Bokmal) support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_NN				0	th	Norwegian (Nynorsk)				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_NN				0	th	Installs Norwegian (Nynorsk) support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_RM				0	th	Raeto-Romance				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_RM				0	th	Installs Raeto-Romance support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_RO				0	th	Romanian				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_RO				0	th	Installs Romanian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_SQ				0	th	Albanian				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_SQ				0	th	Installs Albanian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_UR				0	th	Urdu				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_UR				0	th	Installs Urdu support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_ID				0	th	Indonesian				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_ID				0	th	Installs Indonesian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_UK				0	th	Ukrainian				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_UK				0	th	Installs Ukrainian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_BE_BY				0	th	Installs Bulgarian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_SL				0	th	Installs Slovak support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_LV				0	th	Installs Catalan support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_LT				0	th	Installs Italian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_HY				0	th	Installs Romanian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_EU				0	th	Installs Lao support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_MK				0	th	Installs Estonian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_MT				0	th	Installs Japanese support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_CY				0	th	Installs Polish support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_GL				0	th	Installs Italian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_SH_YU				0	th	Installs Albanian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_SH				0	th	Installs Albanian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_GA				0	th	Installs Turkish support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_SR_CS				0	th	Installs Norwegian (Nynorsk) support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_SR				0	th	Installs Norwegian (Nynorsk) support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_BS				0	th	Installs Romanian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_AS_IN				0	th	Installs Japanese support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_RW				0	th	Installs Hungarian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_SA				0	th	Installs Hungarian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_FA				0	th	Installs Marathi support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_FO				0	th	Installs Japanese support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_SB				0	th	Installs Korean support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_TT				0	th	Installs Thai support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_TS				0	th	Installs Tswana support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_YI				0	th	Installs Swedish support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_BR				0	th	Installs Greek support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_NR				0	th	Installs Northern Sotho support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_SS				0	th	Installs Swahili support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_VE				0	th	Installs Hindi support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_KN				0	th	Installs Hindi support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_MS				0	th	Installs Italian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_TG				0	th	Installs Tamil support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_KU				0	th	Installs Turkish support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_DZ				0	th	Installs Danish support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_KA				0	th	Installs German support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_EO				0	th	Installs German support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_GU				0	th	Gujarati				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_GU				0	th	Installs Gujarati support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_EN_ZA				0	th	Installs English support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_EN_GB				0	th	Installs Bengali (India) support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_UR_IN				0	th	Urdu				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_UR_IN				0	th	Installs Urdu support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_ML_IN				0	th	Installs Catalan support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_TE_IN				0	th	Installs Zulu support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_TI_ER				0	th	Installs Oriya support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_UZ				0	th	Installs Greek support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+scp2	source\extensions\module_extensions_lightproof.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_MN				0	th	Installs Hungarian support in %PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02

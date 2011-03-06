@@ -5133,7 +5133,7 @@ officecfg	registry\data\org\openoffice\Office\UI\CalcCommands.xcu	0	value	..Calc
 officecfg	registry\data\org\openoffice\Office\UI\CalcCommands.xcu	0	value	..CalcCommands.UserInterface.Popups..uno:FilterMenu	Label			0	ns	~Filthara				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\CalcCommands.xcu	0	value	..CalcCommands.UserInterface.Popups..uno:GroupOutlineMenu	Label			0	ns	~Hlopha gomme o akaretše				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\CalcCommands.xcu	0	value	..CalcCommands.UserInterface.Popups..uno:InsertBreakMenu	Label			0	ns	~Go Kgaola ka go itirela				2002-02-02 02:02:02
-officecfg	registry\data\org\openoffice\Office\UI\CalcCommands.xcu	0	value	..CalcCommands.UserInterface.Popups..uno:MergeCellsMenu	Label			0	ns	K~opanya disele				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\UI\CalcCommands.xcu	0	value	..CalcCommands.UserInterface.Popups..uno:MergeCellsMenu	Label			0	ns	K~opanya Disele				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\CalcCommands.xcu	0	value	..CalcCommands.UserInterface.Popups..uno:NamesMenu	Label			0	ns	~Maina				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\CalcCommands.xcu	0	value	..CalcCommands.UserInterface.Popups..uno:PrintRangesMenu	Label			0	ns	Ga~tiša mehuta				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\CalcCommands.xcu	0	value	..CalcCommands.UserInterface.Popups..uno:ProtectMenu	Label			0	ns	Ši~reletša tokumente				2002-02-02 02:02:02
@@ -19629,3 +19629,1502 @@ xmlsecurity	source\dialogs\warnings.src	0	fixedtext	RID_XMLSECTP_MACROWARN	FI_DE
 xmlsecurity	source\dialogs\warnings.src	0	modaldialog	RID_XMLSECTP_MACROWARN		HID_XMLSEC_TP_MACROWARN		0	ns	Temošo ya Tšhireletšo				2002-02-02 02:02:02
 xmlsecurity	source\dialogs\warnings.src	0	pushbutton	RID_XMLSECTP_MACROWARN	PB_ENABLE			0	ns	Kgontšha Dimakhro				2002-02-02 02:02:02
 xmlsecurity	source\dialogs\warnings.src	0	pushbutton	RID_XMLSECTP_MACROWARN	PB_VIEWSIGNS			0	ns	Lebelela Mesaeno...				2002-02-02 02:02:02
+sw	source\ui\config\optdlg.src	0	itemlist	STR_PRINTOPTUI	29			0	ns	Matlakala ka moka				2002-02-02 02:02:02
+sw	source\ui\config\optdlg.src	0	itemlist	STR_PRINTOPTUI	33			0	ns	Akaretša				2002-02-02 02:02:02
+sw	source\ui\config\optdlg.src	0	itemlist	STR_PRINTOPTUI	43			0	ns	~Kgetho				2002-02-02 02:02:02
+sw	source\ui\docvw\access.src	0	string	STR_ACCESS_ANNOTATION_AUTHOR_NAME				50512	ns	Mongwadi				2002-02-02 02:02:02
+sw	source\ui\misc\titlepage.src	0	radiobutton	DLG_TITLEPAGE	RB_PAGE_START			30	ns	Letlakala				2002-02-02 02:02:02
+dbaccess	source\ext\macromigration\macromigration.src	0	string	DLG_MACRO_MIGRATION	STR_STATE_CLOSE_SUB_DOCS			58352	ns	Itokišeletše				2002-02-02 02:02:02
+dbaccess	source\ui\app\app.src	0	menuitem	RID_MENU_APP_EDIT	SID_DB_APP_EDIT_SQL_VIEW	SID_DB_APP_EDIT_SQL_VIEW		9200	ns	Lokiša ka tebelelo ya SQL...				2002-02-02 02:02:02
+sc	source\ui\src\scstring.src	0	string	SCSTR_MOREBTN_FEWEROPTIONS				9200	ns	Dikgeth~o tše mmalwa				2002-02-02 02:02:02
+sc	source\ui\src\scstring.src	0	itemlist	SCSTR_PRINT_OPTIONS	7			0	ns	Gatiša dikagare				2002-02-02 02:02:02
+sc	source\ui\src\scstring.src	0	itemlist	SCSTR_PRINT_OPTIONS	12			0	ns	Disele tšeo di kgethilwego				2002-02-02 02:02:02
+sc	source\ui\src\datafdlg.src	0	pushbutton	RID_SCDLG_DATAFORM	BTN_DATAFORM_NEW			50	ns	Mpsha				2002-02-02 02:02:02
+sc	source\ui\src\datafdlg.src	0	pushbutton	RID_SCDLG_DATAFORM	BTN_DATAFORM_RESTORE			50	ns	Tsoša				2002-02-02 02:02:02
+sc	source\ui\src\globstr.src	0	string	RID_GLOBSTR	STR_UNDO_SHOWNOTE			5104	ns	Laetša tshwaotshwao				2002-02-02 02:02:02
+sc	source\ui\src\globstr.src	0	string	RID_GLOBSTR	STR_SHAPE_OVAL			5832	ns	Monopo				2002-02-02 02:02:02
+sc	source\ui\src\globstr.src	0	string	RID_GLOBSTR	STR_FORM_CHECKBOX			5104	ns	Lepokisi la tekolo				2002-02-02 02:02:02
+sc	source\ui\src\optdlg.src	0	fixedtext	RID_SCPAGE_FORMULA	FT_FORMULA_SEP_ARG			60	ns	~Modiro				2002-02-02 02:02:02
+sc	source\ui\dbgui\textimportoptions.src	0	radiobutton	RID_SCDLG_TEXT_IMPORT_OPTIONS	RB_CUSTOM			159	ns	Setlwaedi				2002-02-02 02:02:02
+sfx2	source\dialog\taskpane.src	0	string	STR_SFX_TASKS				50656	ns	Mediro				2002-02-02 02:02:02
+sfx2	source\dialog\dialog.src	0	string	SID_TASKPANE				50160	ns	karolo ya mošongwana				2002-02-02 02:02:02
+sfx2	source\menu\menu.src	0	string	STR_MENU_NO_SYNONYM_FOUND				62448	ns	(ga e gona)				2002-02-02 02:02:02
+sfx2	source\appl\app.src	0	string	RID_SVXSTR_EDITGRFLINK				21488	ns	Lomaganya dikrafiki				2002-02-02 02:02:02
+sfx2	source\appl\app.src	0	string	RID_SVXSTR_GRFILTER_OPENERROR				21488	ns	Faele ya dikrafiki ga e bulege				2002-02-02 02:02:02
+sfx2	source\appl\app.src	0	string	RID_SVXSTR_GRFILTER_IOERROR				21488	ns	Faele ya dikrafiki ga e balege				2002-02-02 02:02:02
+sfx2	source\appl\app.src	0	string	RID_SVXSTR_GRFILTER_FORMATERROR				21488	ns	Fomate ya dikrafiki e sa tsebjwego				2002-02-02 02:02:02
+sfx2	source\appl\app.src	0	string	RID_SVXSTR_GRFILTER_VERSIONERROR				22024	ns	Phetošo ye ya faele ya dikrafiki ga e thekgwe				2002-02-02 02:02:02
+sfx2	source\appl\app.src	0	cancelbutton	DLG_HELP_LICENSING	PB_LICENSING_CLOSE			21488	ns	~Tswalela				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\UI\CalcCommands.xcu	0	value	..CalcCommands.UserInterface.Commands..uno:TableEvents	ContextLabel			0	ns	~Ditiragalo...				2002-02-02 02:02:02
+chart2	source\controller\dialogs\dlg_ShapeFont.src	0	pageitem	DLG_SHAPE_FONT.1	RID_SVXPAGE_CHAR_POSITION			62448	ns	Maemo a Fonto				2002-02-02 02:02:02
+chart2	source\controller\dialogs\dlg_ShapeParagraph.src	0	tabdialog	DLG_SHAPE_PARAGRAPH				289	ns	Temana				2002-02-02 02:02:02
+chart2	source\controller\dialogs\Strings.src	0	string	STR_ROW_LABEL				50160	ns	Mothalo wa %ROWNUMBER				2002-02-02 02:02:02
+vcl	source\src\units.src	0	itemlist	SV_FUNIT_STRINGS	20			0	ns	%				2002-02-02 02:02:02
+vcl	source\src\print.src	0	okbutton	SV_DLG_PRINT	SV_PRINT_OK			50	ns	~Gatiša				2002-02-02 02:02:02
+vcl	source\src\print.src	0	stringlist	SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_PAGES_BOX	1			0	ns	1				2002-02-02 02:02:02
+vcl	source\src\print.src	0	stringlist	SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_PAGES_BOX	2			0	ns	2				2002-02-02 02:02:02
+vcl	source\src\print.src	0	stringlist	SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_PAGES_BOX	3			0	ns	4				2002-02-02 02:02:02
+vcl	source\src\print.src	0	stringlist	SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_PAGES_BOX	4			0	ns	6				2002-02-02 02:02:02
+vcl	source\src\print.src	0	stringlist	SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_PAGES_BOX	5			0	ns	9				2002-02-02 02:02:02
+vcl	source\src\print.src	0	stringlist	SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_PAGES_BOX	7			0	ns	Setlwaedi				2002-02-02 02:02:02
+vcl	source\src\print.src	0	fixedtext	SV_DLG_PRINT.SV_PRINT_TAB_NUP	SV_PRINT_PRT_NUP_TIMES_TXT			40	ns	k~a				2002-02-02 02:02:02
+vcl	source\src\print.src	0	fixedtext	SV_DLG_PRINT.SV_PRINT_TAB_NUP	SV_PRINT_PRT_NUP_MARGINS_PAGES_1_TXT			40	ns	~Bokgole				2002-02-02 02:02:02
+vcl	source\src\print.src	0	fixedtext	SV_DLG_PRINT.SV_PRINT_TAB_NUP	SV_PRINT_PRT_NUP_ORIENTATION_TXT			10	ns	~Sebopego				2002-02-02 02:02:02
+vcl	source\src\print.src	0	stringlist	SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_ORIENTATION_BOX	2			0	ns	Seswantšho				2002-02-02 02:02:02
+vcl	source\src\print.src	0	stringlist	SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_ORIENTATION_BOX	3			0	ns	Ponagalo				2002-02-02 02:02:02
+vcl	source\src\print.src	0	fixedtext	SV_DLG_PRINT.SV_PRINT_TAB_NUP	SV_PRINT_PRT_NUP_ORDER_TXT			10	ns	Tatelano				2002-02-02 02:02:02
+vcl	source\src\print.src	0	checkbox	SV_DLG_PRINT.SV_PRINT_TAB_JOB	SV_PRINT_DETAILS_BTN			5	ns	Dintlha	Show/Hide detailed information of the selected printer.			2002-02-02 02:02:02
+vcl	source\src\print.src	0	fixedtext	SV_DLG_PRINT.SV_PRINT_TAB_JOB	SV_PRINT_STATUS_TXT			100	ns	Maemo:				2002-02-02 02:02:02
+vcl	source\src\print.src	0	fixedtext	SV_DLG_PRINT.SV_PRINT_TAB_JOB	SV_PRINT_LOCATION_TXT			100	ns	Lefelo:				2002-02-02 02:02:02
+vcl	source\src\print.src	0	fixedtext	SV_DLG_PRINT.SV_PRINT_TAB_JOB	SV_PRINT_COMMENT_TXT			100	ns	Tshwaotshwao:				2002-02-02 02:02:02
+vcl	source\src\print.src	0	fixedtext	SV_DLG_PRINT.SV_PRINT_TAB_JOB	SV_PRINT_COPYCOUNT			80	ns	Palo ya dikopi				2002-02-02 02:02:02
+vcl	source\src\print.src	0	tabpage	SV_DLG_PRINT	SV_PRINT_TAB_JOB			46064	ns	Kakaretšo				2002-02-02 02:02:02
+vcl	source\src\print.src	0	checkbox	SV_DLG_PRINT.SV_PRINT_TAB_OPT	SV_PRINT_OPT_TOFILE			200	ns	Gatiša go ya ~faeleng	Check to send output to a file instead of the actual printer.			2002-02-02 02:02:02
+vcl	source\src\print.src	0	errorbox	SV_PRINT_NOPRINTERWARNING				46064	ns	Ga se gwa hwetšwa segatiši sa tirelwa.\nHle kgetha segatiši gomme o leke gape.				2002-02-02 02:02:02
+vcl	source\src\print.src	0	itemlist	SV_PRINT_NATIVE_STRINGS	1			0	ns	Ponelopele				2002-02-02 02:02:02
+vcl	source\src\print.src	0	itemlist	SV_PRINT_NATIVE_STRINGS	2			0	ns	Nomoro ya letlakala				2002-02-02 02:02:02
+framework	source\services\fwk_services.src	0	string	DLG_BACKING	STR_BACKING_FILE			46360	ns	~Bula...				2002-02-02 02:02:02
+starmath	source\smres.src	0	itemlist	RID_PRINTUIOPTIONS	2			0	ns	Dikagare				2002-02-02 02:02:02
+cui	source\dialogs\multipat.src	0	fixedtext	RID_SVXDLG_MULTIPATH	FT_RADIOBUTTON			195	ns	Swaya tsejana ya tirelwa bakeng sa difaele tše mpsha.				2002-02-02 02:02:02
+cui	source\dialogs\multipat.src	0	pushbutton	RID_SVXDLG_MULTIPATH	BTN_DEL_MULTIPATH			50	ns	~Phumola				2002-02-02 02:02:02
+cui	source\dialogs\multipat.src	0	string	RID_SVXDLG_MULTIPATH	STR_HEADER_PATHS			13296	ns	Lenaneo la tsejana				2002-02-02 02:02:02
+cui	source\dialogs\multipat.src	0	modaldialog	RID_SVXDLG_MULTIPATH		HID_MULTIPATH		260	ns	Kgetha ditsejana				2002-02-02 02:02:02
+cui	source\dialogs\multipat.src	0	string	RID_MULTIPATH_DBL_ERR				13504	ns	Tsejana ya %1 e šetše e le gona.				2002-02-02 02:02:02
+cui	source\dialogs\multipat.src	0	string	RID_SVXSTR_FILE_TITLE				13504	ns	Kgetha difaele				2002-02-02 02:02:02
+cui	source\dialogs\multipat.src	0	string	RID_SVXSTR_ARCHIVE_TITLE				13504	ns	Kgetha bolotadigaswa				2002-02-02 02:02:02
+cui	source\dialogs\multipat.src	0	string	RID_SVXSTR_ARCHIVE_HEADLINE				13504	ns	Bolotadigaswa				2002-02-02 02:02:02
+cui	source\dialogs\multipat.src	0	string	RID_SVXSTR_MULTIFILE_DBL_ERR				13928	ns	Faele ya %1 e šetše e le gona.				2002-02-02 02:02:02
+cui	source\dialogs\insrc.src	0	radiobutton	DLG_INS_ROW_COL	CB_POS_BEFORE			56	ns	~Pele				2002-02-02 02:02:02
+cui	source\dialogs\insrc.src	0	fixedline	DLG_INS_ROW_COL	FL_INS			68	ns	Tsenya				2002-02-02 02:02:02
+cui	source\dialogs\insrc.src	0	fixedtext	DLG_INS_ROW_COL	FT_COUNT			30	ns	~Nomoro				2002-02-02 02:02:02
+cui	source\dialogs\insrc.src	0	string	DLG_INS_ROW_COL	STR_ROW			29680	ns	 Methalo				2002-02-02 02:02:02
+cui	source\dialogs\insrc.src	0	modaldialog	DLG_INS_ROW_COL				136	ns	Tsenya				2002-02-02 02:02:02
+cui	source\dialogs\hyperdlg.src	0	fixedline	RID_SVXPAGE_HYPERLINK_INTERNET	GRP_LINKTYPE			248	ns	Mohuta wa lomaganyo-kgolo				2002-02-02 02:02:02
+cui	source\dialogs\hyperdlg.src	0	radiobutton	RID_SVXPAGE_HYPERLINK_INTERNET	RB_LINKTYP_INTERNET			57	ns	~Wepe				2002-02-02 02:02:02
+cui	source\dialogs\hyperdlg.src	0	radiobutton	RID_SVXPAGE_HYPERLINK_INTERNET	RB_LINKTYP_FTP			56	ns	~FTP				2002-02-02 02:02:02
+cui	source\dialogs\hyperdlg.src	0	radiobutton	RID_SVXPAGE_HYPERLINK_INTERNET	RB_LINKTYP_TELNET			56	ns	~Telnet				2002-02-02 02:02:02
+cui	source\dialogs\hyperdlg.src	0	fixedtext	RID_SVXPAGE_HYPERLINK_INTERNET	FT_TARGET_HTML			39	ns	Lebantšwe~go				2002-02-02 02:02:02
+cui	source\dialogs\hyperdlg.src	0	fixedtext	RID_SVXPAGE_HYPERLINK_INTERNET	FT_LOGIN			39	ns	~Leina la go tsena				2002-02-02 02:02:02
+cui	source\dialogs\hyperdlg.src	0	checkbox	RID_SVXPAGE_HYPERLINK_INTERNET	CBX_ANONYMOUS			89	ns	Modiriši ~yo a sa tsebjego				2002-02-02 02:02:02
+cui	source\dialogs\hyperdlg.src	0	imagebutton	RID_SVXPAGE_HYPERLINK_INTERNET	BTN_BROWSE			0	ns	Praosara ya WWW		Praosara ya WWW		2002-02-02 02:02:02
+cui	source\dialogs\hyperdlg.src	0	imagebutton	RID_SVXPAGE_HYPERLINK_INTERNET	BTN_TARGET			0	ns	Se lebantšwego tokumenteng		Se lebantšwego tokumenteng		2002-02-02 02:02:02
+cui	source\dialogs\hyperdlg.src	0	fixedline	RID_SVXPAGE_HYPERLINK_INTERNET	GRP_MORE			248	ns	Dipeakanyo tše dingwe				2002-02-02 02:02:02
+cui	source\dialogs\hyperdlg.src	0	fixedtext	RID_SVXPAGE_HYPERLINK_INTERNET	FT_FRAME			39	ns	Fo~reimi				2002-02-02 02:02:02
+cui	source\dialogs\hyperdlg.src	0	fixedtext	RID_SVXPAGE_HYPERLINK_INTERNET	FT_FORM			33	ns	F~oromo				2002-02-02 02:02:02
+cui	source\dialogs\hyperdlg.src	0	stringlist	RID_SVXPAGE_HYPERLINK_INTERNET.LB_FORM	1			0	ns	Sengwalwa				2002-02-02 02:02:02
+cui	source\dialogs\hyperdlg.src	0	stringlist	RID_SVXPAGE_HYPERLINK_INTERNET.LB_FORM	2			0	ns	Konope				2002-02-02 02:02:02
+cui	source\dialogs\hyperdlg.src	0	fixedtext	RID_SVXPAGE_HYPERLINK_INTERNET	FT_INDICATION			39	ns	Seng~walwa				2002-02-02 02:02:02
+cui	source\dialogs\hyperdlg.src	0	imagebutton	RID_SVXPAGE_HYPERLINK_INTERNET	BTN_SCRIPT			0	ns	Ditiragalo		Ditiragalo		2002-02-02 02:02:02
+cui	source\dialogs\hyperdlg.src	0	fixedline	RID_SVXPAGE_HYPERLINK_MAIL	GRP_MAILNEWS			248	ns	Poso & ditaba				2002-02-02 02:02:02
+cui	source\dialogs\hyperdlg.src	0	radiobutton	RID_SVXPAGE_HYPERLINK_MAIL	RB_LINKTYP_NEWS			56	ns	~Ditaba				2002-02-02 02:02:02
+cui	source\dialogs\hyperdlg.src	0	fixedtext	RID_SVXPAGE_HYPERLINK_MAIL	FT_RECEIVER			39	ns	Moa~mogedi				2002-02-02 02:02:02
+cui	source\dialogs\hyperdlg.src	0	imagebutton	RID_SVXPAGE_HYPERLINK_MAIL	BTN_ADRESSBOOK			0	ns	Methopo ya tsebišo...		Methopo ya tsebišo...		2002-02-02 02:02:02
+cui	source\dialogs\hyperdlg.src	0	fixedline	RID_SVXPAGE_HYPERLINK_MAIL	GRP_MORE			248	ns	Dipeakanyo tše dingwe				2002-02-02 02:02:02
+cui	source\dialogs\hyperdlg.src	0	fixedtext	RID_SVXPAGE_HYPERLINK_MAIL	FT_FRAME			39	ns	Fo~reimi				2002-02-02 02:02:02
+cui	source\dialogs\hyperdlg.src	0	fixedtext	RID_SVXPAGE_HYPERLINK_MAIL	FT_FORM			33	ns	F~oromo				2002-02-02 02:02:02
+cui	source\dialogs\hyperdlg.src	0	stringlist	RID_SVXPAGE_HYPERLINK_MAIL.LB_FORM	1			0	ns	Sengwalwa				2002-02-02 02:02:02
+cui	source\dialogs\hyperdlg.src	0	stringlist	RID_SVXPAGE_HYPERLINK_MAIL.LB_FORM	2			0	ns	Konope				2002-02-02 02:02:02
+cui	source\dialogs\hyperdlg.src	0	fixedtext	RID_SVXPAGE_HYPERLINK_MAIL	FT_INDICATION			39	ns	Seng~walwa				2002-02-02 02:02:02
+cui	source\dialogs\hyperdlg.src	0	imagebutton	RID_SVXPAGE_HYPERLINK_MAIL	BTN_SCRIPT			0	ns	Ditiragalo		Ditiragalo		2002-02-02 02:02:02
+cui	source\dialogs\hyperdlg.src	0	tabpage	RID_SVXPAGE_HYPERLINK_MAIL		HID_HYPERLINK_MAIL		260	ns	Lomaganyo-kgolo				2002-02-02 02:02:02
+cui	source\dialogs\hyperdlg.src	0	fixedline	RID_SVXPAGE_HYPERLINK_DOCUMENT	GRP_DOCUMENT			248	ns	Tokumente				2002-02-02 02:02:02
+cui	source\dialogs\hyperdlg.src	0	imagebutton	RID_SVXPAGE_HYPERLINK_DOCUMENT	BTN_FILEOPEN			0	ns	Bula faele		Bula faele		2002-02-02 02:02:02
+cui	source\dialogs\hyperdlg.src	0	fixedline	RID_SVXPAGE_HYPERLINK_DOCUMENT	GRP_TARGET			248	ns	Se lebantšwego tokumenteng				2002-02-02 02:02:02
+cui	source\dialogs\hyperdlg.src	0	fixedtext	RID_SVXPAGE_HYPERLINK_DOCUMENT	FT_TARGET_DOC			39	ns	Lebantšw~ego				2002-02-02 02:02:02
+cui	source\dialogs\hyperdlg.src	0	fixedtext	RID_SVXPAGE_HYPERLINK_DOCUMENT	FT_FULL_URL			176	ns	Tokumente ya teko				2002-02-02 02:02:02
+cui	source\dialogs\hyperdlg.src	0	imagebutton	RID_SVXPAGE_HYPERLINK_DOCUMENT	BTN_BROWSE			0	ns	Se lebantšwego tokumenteng		Se lebantšwego tokumenteng		2002-02-02 02:02:02
+cui	source\dialogs\hyperdlg.src	0	fixedline	RID_SVXPAGE_HYPERLINK_DOCUMENT	GRP_MORE			248	ns	Dipeakanyo tše dingwe				2002-02-02 02:02:02
+cui	source\dialogs\hyperdlg.src	0	fixedtext	RID_SVXPAGE_HYPERLINK_DOCUMENT	FT_FRAME			39	ns	Fo~reimi				2002-02-02 02:02:02
+cui	source\dialogs\hyperdlg.src	0	fixedtext	RID_SVXPAGE_HYPERLINK_DOCUMENT	FT_FORM			33	ns	F~oromo				2002-02-02 02:02:02
+cui	source\dialogs\hyperdlg.src	0	stringlist	RID_SVXPAGE_HYPERLINK_DOCUMENT.LB_FORM	1			0	ns	Sengwalwa				2002-02-02 02:02:02
+cui	source\dialogs\hyperdlg.src	0	stringlist	RID_SVXPAGE_HYPERLINK_DOCUMENT.LB_FORM	2			0	ns	Konope				2002-02-02 02:02:02
+cui	source\dialogs\hyperdlg.src	0	fixedtext	RID_SVXPAGE_HYPERLINK_DOCUMENT	FT_INDICATION			39	ns	Se~ngwalwa				2002-02-02 02:02:02
+cui	source\dialogs\hyperdlg.src	0	imagebutton	RID_SVXPAGE_HYPERLINK_DOCUMENT	BTN_SCRIPT			0	ns	Ditiragalo		Ditiragalo		2002-02-02 02:02:02
+cui	source\dialogs\hyperdlg.src	0	tabpage	RID_SVXPAGE_HYPERLINK_DOCUMENT		HID_HYPERLINK_DOCUMENT		260	ns	Lomaganyo-kgolo				2002-02-02 02:02:02
+cui	source\dialogs\hyperdlg.src	0	radiobutton	RID_SVXPAGE_HYPERLINK_NEWDOCUMENT	RB_EDITNOW			85	ns	Lokiša go~na bjale				2002-02-02 02:02:02
+cui	source\dialogs\hyperdlg.src	0	radiobutton	RID_SVXPAGE_HYPERLINK_NEWDOCUMENT	RB_EDITLATER			84	ns	Lokiša ~ka moragonyana				2002-02-02 02:02:02
+cui	source\dialogs\hyperdlg.src	0	imagebutton	RID_SVXPAGE_HYPERLINK_NEWDOCUMENT	BTN_CREATE			0	ns	Kgetha tsejana		Kgetha tsejana		2002-02-02 02:02:02
+cui	source\dialogs\hyperdlg.src	0	fixedline	RID_SVXPAGE_HYPERLINK_NEWDOCUMENT	GRP_MORE			248	ns	Dipeakanyo tše dingwe				2002-02-02 02:02:02
+cui	source\dialogs\hyperdlg.src	0	fixedtext	RID_SVXPAGE_HYPERLINK_NEWDOCUMENT	FT_FRAME			39	ns	Fo~reimi				2002-02-02 02:02:02
+cui	source\dialogs\hyperdlg.src	0	fixedtext	RID_SVXPAGE_HYPERLINK_NEWDOCUMENT	FT_FORM			33	ns	F~oromo				2002-02-02 02:02:02
+cui	source\dialogs\hyperdlg.src	0	stringlist	RID_SVXPAGE_HYPERLINK_NEWDOCUMENT.LB_FORM	1			0	ns	Sengwalwa				2002-02-02 02:02:02
+cui	source\dialogs\hyperdlg.src	0	stringlist	RID_SVXPAGE_HYPERLINK_NEWDOCUMENT.LB_FORM	2			0	ns	Konope				2002-02-02 02:02:02
+cui	source\dialogs\hyperdlg.src	0	fixedtext	RID_SVXPAGE_HYPERLINK_NEWDOCUMENT	FT_INDICATION			39	ns	Se~ngwalwa				2002-02-02 02:02:02
+cui	source\dialogs\hyperdlg.src	0	imagebutton	RID_SVXPAGE_HYPERLINK_NEWDOCUMENT	BTN_SCRIPT			0	ns	Ditiragalo		Ditiragalo		2002-02-02 02:02:02
+cui	source\dialogs\hyperdlg.src	0	tabpage	RID_SVXPAGE_HYPERLINK_NEWDOCUMENT		HID_HYPERLINK_NEWDOCUMENT		260	ns	Lomaganyo-kgolo				2002-02-02 02:02:02
+cui	source\dialogs\hyperdlg.src	0	modaldialog	RID_SVXDLG_NEWHYPERLINK		SID_HYPERLINK_DIALOG		325	ns	Lomaganyo-kgolo				2002-02-02 02:02:02
+cui	source\dialogs\hyperdlg.src	0	string	RID_SVXSTR_HYPDLG_APPLYBUT				13296	ns	Diriša				2002-02-02 02:02:02
+cui	source\dialogs\hyperdlg.src	0	string	RID_SVXSTR_HYPDLG_MACROACT1				13632	ns	Mause godimo ga sedirišwa				2002-02-02 02:02:02
+cui	source\dialogs\hyperdlg.src	0	string	RID_SVXSTR_HYPDLG_MACROACT2				13296	ns	Thenkgolla lomaganyo-kgolo				2002-02-02 02:02:02
+cui	source\dialogs\hyperdlg.src	0	string	RID_SVXSTR_HYPDLG_MACROACT3				13296	ns	Mause o tlogela sedirišwa				2002-02-02 02:02:02
+cui	source\dialogs\hyperdlg.src	0	string	RID_SVXSTR_HYPDLG_NOVALIDFILENAME				13528	ns	Hle ngwala leina la faele leo le šomago.				2002-02-02 02:02:02
+cui	source\dialogs\hyperdlg.src	0	string	RID_SVXSTR_HYPERDLG_HLINETTP				13296	ns	Inthanete				2002-02-02 02:02:02
+cui	source\dialogs\hyperdlg.src	0	string	RID_SVXSTR_HYPERDLG_HLINETTP_HELP				13592	ns	Mo ke moo o hlamago lomaganyo-kgolo e yago go letlakala la wepe, seabi sa FTP goba Telnet.				2002-02-02 02:02:02
+cui	source\dialogs\hyperdlg.src	0	string	RID_SVXSTR_HYPERDLG_HLMAILTP				13296	ns	Poso & ditaba				2002-02-02 02:02:02
+cui	source\dialogs\hyperdlg.src	0	string	RID_SVXSTR_HYPERDLG_HLMAILTP_HELP				13576	ns	Mo ke moo o hlamago lomaganyo-kgolo e ago go aterese ya imeile goba sehlopha sa ditaba.				2002-02-02 02:02:02
+cui	source\dialogs\hyperdlg.src	0	string	RID_SVXSTR_HYPERDLG_HLDOCTP				13296	ns	Tokumente				2002-02-02 02:02:02
+cui	source\dialogs\hyperdlg.src	0	string	RID_SVXSTR_HYPERDLG_HLDOCTP_HELP				13592	ns	Mo ke moo o hlamago lomaganyo-kgolo go tokumente yeo e šetšego e le gona goba yeo e lebantšwego ka gare ga tokumente.				2002-02-02 02:02:02
+cui	source\dialogs\hyperdlg.src	0	string	RID_SVXSTR_HYPERDLG_HLDOCNTP				13496	ns	Tokumente e mpsha				2002-02-02 02:02:02
+cui	source\dialogs\hyperdlg.src	0	string	RID_SVXSTR_HYPERDLG_HLDOCNTP_HELP				13568	ns	Mo ke moo o hlamago tokumente e mpsha yeo dilomaganyo tše mpsha di lebilego gona.				2002-02-02 02:02:02
+cui	source\dialogs\hyperdlg.src	0	string	RID_SVXSTR_HYPERDLG_FORM_BUTTON				13296	ns	Konope				2002-02-02 02:02:02
+cui	source\dialogs\hyperdlg.src	0	string	RID_SVXSTR_HYPERDLG_FROM_TEXT				13512	ns	Sengwalwa				2002-02-02 02:02:02
+cui	source\dialogs\srchxtra.src	0	pageitem	RID_SVXDLG_SEARCHFORMAT.1	RID_SVXPAGE_BACKGROUND			9200	ns	Bokamorago				2002-02-02 02:02:02
+cui	source\dialogs\srchxtra.src	0	fixedtext	RID_SVXDLG_SEARCHSIMILARITY	FT_OTHER			70	ns	~Fapantšha ditlhaka				2002-02-02 02:02:02
+cui	source\dialogs\srchxtra.src	0	fixedtext	RID_SVXDLG_SEARCHSIMILARITY	FT_LONGER			70	ns	~Oketša ditlhaka				2002-02-02 02:02:02
+cui	source\dialogs\srchxtra.src	0	fixedtext	RID_SVXDLG_SEARCHSIMILARITY	FT_SHORTER			70	ns	~Tloša ditlhaka				2002-02-02 02:02:02
+cui	source\dialogs\charmap.src	0	pushbutton	RID_SVXDLG_CHARMAP	BTN_DELETE			50	ns	~Phumola				2002-02-02 02:02:02
+cui	source\dialogs\commonlingui.src	0	fixedtext	RID_SVX_WND_COMMON_LINGU	FT_WORD			42	ns	Set~logo				2002-02-02 02:02:02
+cui	source\dialogs\commonlingui.src	0	fixedtext	RID_SVX_WND_COMMON_LINGU	FT_SUGGESTION			42	ns	~Ditšhišinyo				2002-02-02 02:02:02
+cui	source\dialogs\commonlingui.src	0	pushbutton	RID_SVX_WND_COMMON_LINGU	BTN_IGNORE			55	ns	~Hlokomologa				2002-02-02 02:02:02
+cui	source\dialogs\commonlingui.src	0	pushbutton	RID_SVX_WND_COMMON_LINGU	BTN_CHANGE			55	ns	~Tšeela legato				2002-02-02 02:02:02
+cui	source\dialogs\commonlingui.src	0	cancelbutton	RID_SVX_WND_COMMON_LINGU	BTN_SPL_CANCEL			55	ns	~Tswalela				2002-02-02 02:02:02
+cui	source\dialogs\passwdomdlg.src	0	string	RID_DLG_PASSWORD_TO_OPEN_MODIFY	STR_FEWER_OPTIONS			42336	ns	Dikgeth~o tše mmalwa				2002-02-02 02:02:02
+cui	source\dialogs\grfflt.src	0	fixedtext	RID_SVX_GRFFILTER_DLG_MOSAIC	DLG_FILTERMOSAIC_FT_WIDTH			77	ns	~Bophara				2002-02-02 02:02:02
+cui	source\dialogs\grfflt.src	0	fixedtext	RID_SVX_GRFFILTER_DLG_MOSAIC	DLG_FILTERMOSAIC_FT_HEIGHT			77	ns	Boph~agamo				2002-02-02 02:02:02
+cui	source\dialogs\grfflt.src	0	checkbox	RID_SVX_GRFFILTER_DLG_MOSAIC	DLG_FILTERMOSAIC_CBX_EDGES			91	ns	Nolo~fatša dintlha				2002-02-02 02:02:02
+cui	source\dialogs\grfflt.src	0	modaldialog	RID_SVX_GRFFILTER_DLG_MOSAIC		SID_GRFFILTER_MOSAIC		250	ns	Mokgabišo				2002-02-02 02:02:02
+cui	source\dialogs\grfflt.src	0	fixedtext	RID_SVX_GRFFILTER_DLG_SOLARIZE	DLG_FILTERSOLARIZE_FT_THRESHOLD			77	ns	Boleng ~bja mogato				2002-02-02 02:02:02
+cui	source\dialogs\grfflt.src	0	modaldialog	RID_SVX_GRFFILTER_DLG_SOLARIZE		SID_GRFFILTER_SOLARIZE		250	ns	Setšatši				2002-02-02 02:02:02
+cui	source\dialogs\grfflt.src	0	modaldialog	RID_SVX_GRFFILTER_DLG_SEPIA		SID_GRFFILTER_SEPIA		250	ns	Go tšofala				2002-02-02 02:02:02
+cui	source\dialogs\grfflt.src	0	modaldialog	RID_SVX_GRFFILTER_DLG_EMBOSS		SID_GRFFILTER_EMBOSS		250	ns	Kimollo				2002-02-02 02:02:02
+cui	source\dialogs\hangulhanjadlg.src	0	pushbutton	RID_SVX_MDLG_HANGULHANJA	PB_FIND			30	ns	~Hwetša				2002-02-02 02:02:02
+cui	source\dialogs\hangulhanjadlg.src	0	radiobutton	RID_SVX_MDLG_HANGULHANJA	RB_SIMPLE_CONVERSION			60	ns	~Hangul/Hanja				2002-02-02 02:02:02
+cui	source\dialogs\hangulhanjadlg.src	0	radiobutton	RID_SVX_MDLG_HANGULHANJA	RB_HANJA_HANGUL_BRACKETED			60	ns	Hanja (Hang~ul)				2002-02-02 02:02:02
+cui	source\dialogs\hangulhanjadlg.src	0	radiobutton	RID_SVX_MDLG_HANGULHANJA	RB_HANGUL_HANJA_BRACKETED			60	ns	Hang~ul (Hanja)				2002-02-02 02:02:02
+cui	source\dialogs\hangulhanjadlg.src	0	radiobutton	RID_SVX_MDLG_HANGULHANJA	RB_HANGUL_HANJA_ABOVE			60	ns	Hangu~l				2002-02-02 02:02:02
+cui	source\dialogs\hangulhanjadlg.src	0	radiobutton	RID_SVX_MDLG_HANGULHANJA	RB_HANGUL_HANJA_BELOW			60	ns	Hangu~l				2002-02-02 02:02:02
+cui	source\dialogs\hangulhanjadlg.src	0	radiobutton	RID_SVX_MDLG_HANGULHANJA	RB_HANJA_HANGUL_ABOVE			60	ns	Han~ja				2002-02-02 02:02:02
+cui	source\dialogs\hangulhanjadlg.src	0	radiobutton	RID_SVX_MDLG_HANGULHANJA	RB_HANJA_HANGUL_BELOW			60	ns	Ha~nja				2002-02-02 02:02:02
+cui	source\dialogs\hangulhanjadlg.src	0	fixedtext	RID_SVX_MDLG_HANGULHANJA	FT_CONVERSION			42	ns	Phetolelo				2002-02-02 02:02:02
+cui	source\dialogs\hangulhanjadlg.src	0	string	RID_SVX_MDLG_HANGULHANJA	STR_HANGUL			13296	ns	Hangul				2002-02-02 02:02:02
+cui	source\dialogs\hangulhanjadlg.src	0	string	RID_SVX_MDLG_HANGULHANJA	STR_HANJA			13800	ns	Hanja				2002-02-02 02:02:02
+cui	source\dialogs\hangulhanjadlg.src	0	checkbox	RID_SVX_MDLG_HANGULHANJA_OPT	CB_IGNOREPOST			0	ns	Hlokomologa lentšu leo le nago le boemo bjo fetilego				2002-02-02 02:02:02
+cui	source\dialogs\hangulhanjadlg.src	0	checkbox	RID_SVX_MDLG_HANGULHANJA_OPT	CB_SHOWRECENTLYFIRST			0	ns	Bontšha pele ditseno tšeo di dirišitšwego morago bjale				2002-02-02 02:02:02
+cui	source\dialogs\hangulhanjadlg.src	0	pushbutton	RID_SVX_MDLG_HANGULHANJA_OPT	PB_HHO_NEW			0	ns	Mpsha...				2002-02-02 02:02:02
+cui	source\dialogs\hangulhanjadlg.src	0	pushbutton	RID_SVX_MDLG_HANGULHANJA_OPT	PB_HHO_DELETE			0	ns	Phumola				2002-02-02 02:02:02
+cui	source\dialogs\hangulhanjadlg.src	0	modaldialog	RID_SVX_MDLG_HANGULHANJA_OPT		HID_HANGULHANJA_OPT_DLG		0	ns	Dikgetho tša Hangul/Hanja				2002-02-02 02:02:02
+cui	source\dialogs\hangulhanjadlg.src	0	fixedline	RID_SVX_MDLG_HANGULHANJA_NEWDICT	FL_NEWDICT			145	ns	Pukuntšu				2002-02-02 02:02:02
+cui	source\dialogs\hangulhanjadlg.src	0	string	RID_SVX_MDLG_HANGULHANJA_EDIT	STR_EDITHINT			13800	ns	[Tsenya sengwalwa mo]				2002-02-02 02:02:02
+cui	source\dialogs\hangulhanjadlg.src	0	fixedtext	RID_SVX_MDLG_HANGULHANJA_EDIT	FT_BOOK			0	ns	Puku				2002-02-02 02:02:02
+cui	source\dialogs\hangulhanjadlg.src	0	fixedtext	RID_SVX_MDLG_HANGULHANJA_EDIT	FT_SUGGESTIONS			0	ns	Ditšhišinyo (bogolo bja 8)				2002-02-02 02:02:02
+cui	source\dialogs\hangulhanjadlg.src	0	pushbutton	RID_SVX_MDLG_HANGULHANJA_EDIT	PB_HHE_NEW			0	ns	Mpsha				2002-02-02 02:02:02
+cui	source\dialogs\hangulhanjadlg.src	0	pushbutton	RID_SVX_MDLG_HANGULHANJA_EDIT	PB_HHE_DELETE			0	ns	Phumola				2002-02-02 02:02:02
+cui	source\dialogs\hangulhanjadlg.src	0	cancelbutton	RID_SVX_MDLG_HANGULHANJA_EDIT	PB_HHE_CLOSE			0	ns	Tswalela				2002-02-02 02:02:02
+cui	source\dialogs\fmsearch.src	0	fixedline	RID_SVXDLG_SEARCHFORM	FL_SEARCHFOR			232	ns	Nyaka				2002-02-02 02:02:02
+cui	source\dialogs\fmsearch.src	0	radiobutton	RID_SVXDLG_SEARCHFORM	RB_SEARCHFORNULL			207	ns	Dikagare tša lefelo ke ~LEFEELA				2002-02-02 02:02:02
+cui	source\dialogs\fmsearch.src	0	radiobutton	RID_SVXDLG_SEARCHFORM	RB_SEARCHFORNOTNULL			207	ns	Dikagare tša lefelo ga se LEFE~ELA				2002-02-02 02:02:02
+cui	source\dialogs\fmsearch.src	0	fixedline	RID_SVXDLG_SEARCHFORM	FL_WHERE			232	ns	Go nyakwa kae				2002-02-02 02:02:02
+cui	source\dialogs\fmsearch.src	0	radiobutton	RID_SVXDLG_SEARCHFORM	RB_ALLFIELDS	HID_SEARCH_ALLFIELDS		75	ns	Mafelo ka moka				2002-02-02 02:02:02
+cui	source\dialogs\fmsearch.src	0	radiobutton	RID_SVXDLG_SEARCHFORM	RB_SINGLEFIELD			75	ns	Lefelo le tee				2002-02-02 02:02:02
+cui	source\dialogs\fmsearch.src	0	checkbox	RID_SVXDLG_SEARCHFORM	CB_USEFORMATTER	HID_SEARCH_FORMATTER		90	ns	Diriša fomate ya lefelo				2002-02-02 02:02:02
+cui	source\dialogs\fmsearch.src	0	checkbox	RID_SVXDLG_SEARCHFORM	CB_BACKWARD	HID_SEARCH_BACKWARD		85	ns	Nyakela morago				2002-02-02 02:02:02
+cui	source\dialogs\fmsearch.src	0	checkbox	RID_SVXDLG_SEARCHFORM	CB_STARTOVER	HID_SEARCH_STARTOVER		85	ns	Go tloga mathomong				2002-02-02 02:02:02
+cui	source\dialogs\fmsearch.src	0	checkbox	RID_SVXDLG_SEARCHFORM	CB_WILDCARD	HID_SEARCH_WILDCARD		100	ns	Tlhagišo ya wildcard				2002-02-02 02:02:02
+cui	source\dialogs\fmsearch.src	0	checkbox	RID_SVXDLG_SEARCHFORM	CB_REGULAR	HID_SEARCH_REGULAR		100	ns	Polelo e tlwaelegilego				2002-02-02 02:02:02
+cui	source\dialogs\fmsearch.src	0	pushbutton	RID_SVXDLG_SEARCHFORM	PB_APPROXSETTINGS	HID_SEARCH_APPROXSETTINGS		14	ns	...				2002-02-02 02:02:02
+cui	source\dialogs\fmsearch.src	0	checkbox	RID_SVXDLG_SEARCHFORM	CB_HALFFULLFORMS			85	ns	Swantšha bophara bja tlhaka				2002-02-02 02:02:02
+cui	source\dialogs\fmsearch.src	0	checkbox	RID_SVXDLG_SEARCHFORM	CB_SOUNDSLIKECJK			84	ns	E kwagala bjalo ka (Sejapane)				2002-02-02 02:02:02
+cui	source\dialogs\fmsearch.src	0	pushbutton	RID_SVXDLG_SEARCHFORM	PB_SOUNDSLIKESETTINGS			14	ns	...				2002-02-02 02:02:02
+cui	source\dialogs\fmsearch.src	0	fixedtext	RID_SVXDLG_SEARCHFORM	FT_RECORDLABEL			45	ns	Rekhoto :				2002-02-02 02:02:02
+cui	source\dialogs\fmsearch.src	0	pushbutton	RID_SVXDLG_SEARCHFORM	PB_SEARCH	HID_SEARCH_BTN_SEARCH		50	ns	Nyaka				2002-02-02 02:02:02
+cui	source\dialogs\fmsearch.src	0	helpbutton	RID_SVXDLG_SEARCHFORM	1			50	ns	~Thušo				2002-02-02 02:02:02
+cui	source\dialogs\fmsearch.src	0	modaldialog	RID_SVXDLG_SEARCHFORM		HID_FM_DLG_SEARCH		300	ns	Nyaka ya rekhoto				2002-02-02 02:02:02
+cui	source\dialogs\fmsearch.src	0	string	RID_STR_SEARCH_ANYWHERE				41968	ns	kae le kae lefelong				2002-02-02 02:02:02
+cui	source\dialogs\fmsearch.src	0	string	RID_STR_SEARCH_BEGINNING				41968	ns	mathomong a lefelo				2002-02-02 02:02:02
+cui	source\dialogs\fmsearch.src	0	string	RID_STR_SEARCH_END				41968	ns	mafelelong a lefelo				2002-02-02 02:02:02
+cui	source\dialogs\fmsearch.src	0	string	RID_STR_SEARCH_WHOLE				41968	ns	lefelo ka moka				2002-02-02 02:02:02
+cui	source\dialogs\fmsearch.src	0	errorbox	RID_SVXERR_SEARCH_NORECORD				41968	ns	Ga go na direkhoto tše di kwanago le tsebišo ya gago tšeo di hweditšwego.				2002-02-02 02:02:02
+cui	source\dialogs\fmsearch.src	0	errorbox	RID_SVXERR_SEARCH_GENERAL_ERROR				41968	ns	Go diregile phošo ye e sa tsebjego. Nyako e ka se fetšwe.				2002-02-02 02:02:02
+cui	source\dialogs\fmsearch.src	0	string	RID_STR_OVERFLOW_FORWARD				42168	ns	Go tlala, go nyaka go tšwetše pele mathomong				2002-02-02 02:02:02
+cui	source\dialogs\fmsearch.src	0	string	RID_STR_OVERFLOW_BACKWARD				42168	ns	Go tlala, go nyaka go tšwetše pele mafelelong				2002-02-02 02:02:02
+cui	source\dialogs\fmsearch.src	0	string	RID_STR_SEARCH_COUNTING				41968	ns	go balela direkhoto				2002-02-02 02:02:02
+cui	source\dialogs\tbxform.src	0	fixedtext	RID_SVX_DLG_INPUTRECORDNO	1			70	ns	e-ya go rekhoto				2002-02-02 02:02:02
+cui	source\dialogs\tbxform.src	0	modaldialog	RID_SVX_DLG_INPUTRECORDNO				130	ns	Nomoro ya rekhoto				2002-02-02 02:02:02
+cui	source\dialogs\postdlg.src	0	fixedtext	RID_SVXDLG_POSTIT	FT_LASTEDITLABEL			34	ns	Mongwadi				2002-02-02 02:02:02
+cui	source\dialogs\postdlg.src	0	fixedline	RID_SVXDLG_POSTIT	FL_POSTIT			129	ns	Dikagare				2002-02-02 02:02:02
+cui	source\dialogs\postdlg.src	0	pushbutton	RID_SVXDLG_POSTIT	BTN_AUTHOR			60	ns	Mongwadi				2002-02-02 02:02:02
+cui	source\dialogs\gallery.src	0	tabdialog	RID_SVXTABDLG_GALLERY				22040	ns	Diteng tša 				2002-02-02 02:02:02
+cui	source\dialogs\gallery.src	0	tabdialog	RID_SVXTABDLG_GALLERYTHEME				21688	ns	Diteng tša 				2002-02-02 02:02:02
+cui	source\dialogs\gallery.src	0	fixedtext	RID_SVXTABPAGE_GALLERY_GENERAL	FT_MS_CONTENT			51	ns	Dikagare:				2002-02-02 02:02:02
+cui	source\dialogs\gallery.src	0	pushbutton	RID_SVXTABPAGE_GALLERYTHEME_FILES	BTN_SEARCH			70	ns	~Hwetša difaele...				2002-02-02 02:02:02
+cui	source\dialogs\gallery.src	0	pushbutton	RID_SVXTABPAGE_GALLERYTHEME_FILES	BTN_TAKEALL			70	ns	Ok~etša tšohle				2002-02-02 02:02:02
+cui	source\dialogs\gallery.src	0	pushbutton	RID_SVXTABPAGE_GALLERYTHEME_FILES	BTN_MADDIN1			50	ns	Maddin1				2002-02-02 02:02:02
+cui	source\dialogs\gallery.src	0	pushbutton	RID_SVXTABPAGE_GALLERYTHEME_FILES	BTN_MADDIN2			50	ns	Maddin2				2002-02-02 02:02:02
+cui	source\dialogs\gallery.src	0	modaldialog	RID_SVXDLG_GALLERY_TITLE		HID_GALLERY_TITLE		168	ns	Tsenya thaetlele				2002-02-02 02:02:02
+cui	source\dialogs\gallery.src	0	modaldialog	RID_SVXDLG_GALLERY_SEARCH_PROGRESS		HID_GALLERY_SEARCH		124	ns	Hwetša				2002-02-02 02:02:02
+cui	source\dialogs\gallery.src	0	modaldialog	RID_SVXDLG_GALLERY_THEMEID				180	ns	ID ya sehlogo				2002-02-02 02:02:02
+cui	source\dialogs\gallery.src	0	string	RID_SVXSTR_GALLERY_NOFILES				21688	ns	<Ga go difaele>				2002-02-02 02:02:02
+cui	source\dialogs\gallery.src	0	string	RID_SVXSTR_GALLERY_SEARCH				21688	ns	Na o nyaka go mpshafatša lenaneo la faele?				2002-02-02 02:02:02
+cui	source\dialogs\gallery.src	0	string	RID_SVXSTR_GALLERYPROPS_OBJECT				21488	ns	Sedirišwa;Didirišwa				2002-02-02 02:02:02
+cui	source\dialogs\gallery.src	0	string	RID_SVXSTR_GALLERYPROPS_GALTHEME				21488	ns	Sehlogo sa bobolokela-diswantšho				2002-02-02 02:02:02
+cui	source\dialogs\gallery.src	0	string	RID_SVXSTR_GALLERY_READONLY				21488	ns	 (bala feela)				2002-02-02 02:02:02
+cui	source\dialogs\gallery.src	0	string	RID_SVXSTR_GALLERY_ALLFILES				21488	ns	<Difaele tšohle>				2002-02-02 02:02:02
+cui	source\dialogs\gallery.src	0	string	RID_SVXSTR_GALLERY_ID_EXISTS				21872	ns	ID ye e šetše e le gona...				2002-02-02 02:02:02
+cui	source\dialogs\cuiimapdlg.src	0	fixedtext	RID_SVXDLG_IMAPURL	FT_DESCRIPTION			202	ns	~Tlhaloso				2002-02-02 02:02:02
+cui	source\dialogs\sdrcelldlg.src	0	pageitem	RID_SVX_FORMAT_CELLS_DLG.1	RID_SVXPAGE_AREA			25584	ns	Bokamorago				2002-02-02 02:02:02
+cui	source\dialogs\sdrcelldlg.src	0	pushbutton	RID_SVX_FORMAT_CELLS_DLG	1			50	ns	Boela morago				2002-02-02 02:02:02
+cui	source\dialogs\zoom.src	0	radiobutton	RID_SVXDLG_ZOOM	BTN_WHOLE_PAGE			105	ns	~Lekantšha bophara le bophagamo				2002-02-02 02:02:02
+cui	source\dialogs\zoom.src	0	radiobutton	RID_SVXDLG_ZOOM	BTN_PAGE_WIDTH			105	ns	Lekantšha ~bophara				2002-02-02 02:02:02
+cui	source\dialogs\zoom.src	0	fixedline	RID_SVXDLG_ZOOM	FL_VIEWLAYOUT			112	ns	Lebelela tlhamego				2002-02-02 02:02:02
+cui	source\dialogs\zoom.src	0	radiobutton	RID_SVXDLG_ZOOM	BTN_SINGLE			106	ns	Letlakala le ~tee				2002-02-02 02:02:02
+cui	source\dialogs\zoom.src	0	checkbox	RID_SVXDLG_ZOOM	CHK_BOOK			85	ns	~Moutu wa puku				2002-02-02 02:02:02
+cui	source\dialogs\zoom.src	0	modaldialog	RID_SVXDLG_ZOOM		SID_ATTR_ZOOM		242	ns	Kgodišo & tlhamego ya tebelelo				2002-02-02 02:02:02
+cui	source\dialogs\thesdlg.src	0	fixedtext	RID_SVXDLG_THESAURUS	FT_REPL			255	ns	~Tšeela legato ka				2002-02-02 02:02:02
+cui	source\dialogs\hyphen.src	0	string	RID_SVXSTR_HMERR_CHECKINSTALL				25584	ns	ga e hwetšagale bakeng sa go lekola mopeleto\nHle lekola go tsenya ga gago gomme o tsenye leleme leo o le ratago\n				2002-02-02 02:02:02
+cui	source\dialogs\hyphen.src	0	fixedtext	RID_SVXDLG_HYPHENATE	FT_WORD			120	ns	~Lentšu				2002-02-02 02:02:02
+cui	source\dialogs\hyphen.src	0	modaldialog	RID_SVXDLG_HYPHENATE		HID_HYPHENATE		200	ns	Tlemaganyo				2002-02-02 02:02:02
+cui	source\dialogs\dlgname.src	0	fixedtext	RID_SVXDLG_OBJECT_TITLE_DESC	NTD_FT_DESC			168	ns	~Tlhaloso				2002-02-02 02:02:02
+cui	source\dialogs\svuidlg.src	0	fixedtext	MD_PASTE_OBJECT	FT_SOURCE			30	ns	Mothopo:				2002-02-02 02:02:02
+cui	source\dialogs\svuidlg.src	0	string	MD_PASTE_OBJECT	S_OBJECT			17912	ns	Sedirišwa				2002-02-02 02:02:02
+cui	source\dialogs\svuidlg.src	0	fixedtext	MD_UPDATE_BASELINKS	FT_FILES			74	ns	Faele ya mothopo				2002-02-02 02:02:02
+cui	source\dialogs\svuidlg.src	0	fixedtext	MD_UPDATE_BASELINKS	FT_LINKS			63	ns	Elemente:				2002-02-02 02:02:02
+cui	source\dialogs\svuidlg.src	0	cancelbutton	MD_UPDATE_BASELINKS	1			60	ns	~Tswalela				2002-02-02 02:02:02
+cui	source\dialogs\svuidlg.src	0	fixedtext	MD_UPDATE_BASELINKS	FT_FILES2			61	ns	Faele ya mothopo				2002-02-02 02:02:02
+cui	source\dialogs\svuidlg.src	0	fixedtext	MD_UPDATE_BASELINKS	FT_SOURCE2			61	ns	Elemente:				2002-02-02 02:02:02
+cui	source\dialogs\svuidlg.src	0	string	MD_UPDATE_BASELINKS	STR_BROKENLINK			17592	ns	Ga e gona				2002-02-02 02:02:02
+cui	source\dialogs\svuidlg.src	0	string	MD_UPDATE_BASELINKS	STR_BUTTONCLOSE			17392	ns	~Tswalela				2002-02-02 02:02:02
+cui	source\dialogs\svuidlg.src	0	string	MD_UPDATE_BASELINKS	STR_CLOSELINKMSG			17592	ns	Na o kgonthišegile gore o nyaka go tloša lomaganyo yeo e kgethilwego?				2002-02-02 02:02:02
+cui	source\dialogs\svuidlg.src	0	string	MD_UPDATE_BASELINKS	STR_CLOSELINKMSG_MULTI			17896	ns	Na o kgonthišegile gore o nyaka go tloša lomaganyo yeo e kgethilwego?				2002-02-02 02:02:02
+cui	source\dialogs\svuidlg.src	0	fixedtext	MD_LINKEDIT	2			75	ns	Ananya mothopo:				2002-02-02 02:02:02
+cui	source\dialogs\svuidlg.src	0	edit	MD_LINKEDIT	ED_FULL_SOURCE_NAME			155	ns	Lokiša				2002-02-02 02:02:02
+cui	source\dialogs\svuidlg.src	0	radiobutton	MD_INSERT_OLEOBJECT	RB_OBJECT_FROMFILE			81	ns	Bopa go tšwa ~faeleng				2002-02-02 02:02:02
+cui	source\dialogs\svuidlg.src	0	pushbutton	MD_INSERT_OLEOBJECT	BTN_FILEPATH			50	ns	~Nyaka...				2002-02-02 02:02:02
+cui	source\dialogs\svuidlg.src	0	fixedline	MD_INSERT_OLEOBJECT	GB_OBJECT			216	ns	Mohuta wa sedirišwa				2002-02-02 02:02:02
+cui	source\dialogs\svuidlg.src	0	fixedline	MD_INSERT_OBJECT_PLUGIN	GB_FILEURL			216	ns	Faele / URL				2002-02-02 02:02:02
+cui	source\dialogs\svuidlg.src	0	pushbutton	MD_INSERT_OBJECT_APPLET	BTN_CLASS			50	ns	~Nyaka...				2002-02-02 02:02:02
+cui	source\dialogs\svuidlg.src	0	fixedtext	MD_INSERT_OBJECT_IFRAME	FT_URL			36	ns	~Dikagare				2002-02-02 02:02:02
+cui	source\dialogs\svuidlg.src	0	fixedtext	MD_INSERT_OBJECT_IFRAME	FT_MARGINWIDTH			28	ns	~Bophara				2002-02-02 02:02:02
+cui	source\dialogs\svuidlg.src	0	fixedtext	MD_INSERT_OBJECT_IFRAME	FT_MARGINHEIGHT			28	ns	Boph~agamo				2002-02-02 02:02:02
+cui	source\dialogs\hlmarkwn.src	0	pushbutton	RID_SVXFLOAT_HYPERLINK_MARKWND	BT_APPLY	HID_HYPERLINK_MARKWND_APPLY		50	ns	Diriša				2002-02-02 02:02:02
+cui	source\dialogs\hlmarkwn.src	0	pushbutton	RID_SVXFLOAT_HYPERLINK_MARKWND	BT_CLOSE	HID_HYPERLINK_MARKWND_CLOSE		50	ns	Tswalela				2002-02-02 02:02:02
+cui	source\dialogs\splitcelldlg.src	0	fixedtext	RID_SVX_SPLITCELLDLG	FT_COUNT			67	ns	~Arola sele ka				2002-02-02 02:02:02
+cui	source\dialogs\splitcelldlg.src	0	checkbox	RID_SVX_SPLITCELLDLG	CB_PROP			91	ns	Ka ~dikarolo tša go lekana				2002-02-02 02:02:02
+cui	source\dialogs\scriptdlg.src	0	string	RID_DLG_SCRIPTORGANIZER.SF_CTRL_SCRIPTSBOX	STR_MYMACROS			46856	ns	Dimakhro Tšaka				2002-02-02 02:02:02
+cui	source\dialogs\scriptdlg.src	0	string	RID_DLG_SCRIPTORGANIZER.SF_CTRL_SCRIPTSBOX	STR_PRODMACROS			46856	ns	Dimakhro tša %PRODUCTNAME				2002-02-02 02:02:02
+cui	source\dialogs\scriptdlg.src	0	cancelbutton	RID_DLG_SCRIPTORGANIZER	SF_PB_CLOSE			60	ns	Tswalela				2002-02-02 02:02:02
+cui	source\dialogs\scriptdlg.src	0	pushbutton	RID_DLG_SCRIPTORGANIZER	SF_PB_CREATE			60	ns	~Hlama...				2002-02-02 02:02:02
+cui	source\dialogs\scriptdlg.src	0	modaldialog	RID_DLG_SCRIPTORGANIZER		HID_SCRIPTORG_DIALOG		210	ns	Dimakhro tša %MACROLANG				2002-02-02 02:02:02
+cui	source\dialogs\scriptdlg.src	0	fixedtext	RID_DLG_NEWLIB	FT_NEWLIB			100	ns	Tsenya leina bakeng sa bokgobapuku bjo boswa.				2002-02-02 02:02:02
+cui	source\dialogs\scriptdlg.src	0	string	RID_DLG_NEWLIB	STR_NEWLIB			46560	ns	Hlama bokgobapuku				2002-02-02 02:02:02
+cui	source\dialogs\scriptdlg.src	0	string	RID_DLG_NEWLIB	STR_FT_NEWMACRO			46280	ns	Tsenya leina bakeng sa makhro e mpsha.				2002-02-02 02:02:02
+cui	source\dialogs\scriptdlg.src	0	modaldialog	RID_DLG_NEWLIB				160	ns	Hlama bokgobapuku				2002-02-02 02:02:02
+cui	source\dialogs\scriptdlg.src	0	string	RID_SVXSTR_DELQUERY				46064	ns	Na o nyaka go phumola sedirišwa se latelago?				2002-02-02 02:02:02
+cui	source\dialogs\scriptdlg.src	0	string	RID_SVXSTR_DELFAILED				46064	ns	Sedirišwa se kgethilwego se ka se phumolwe.				2002-02-02 02:02:02
+cui	source\dialogs\scriptdlg.src	0	string	RID_SVXSTR_DELFAILEDPERM				46064	ns	 Ga o na tumelelo ya go phumola sedirišwa se.				2002-02-02 02:02:02
+cui	source\dialogs\scriptdlg.src	0	string	RID_SVXSTR_CREATEFAILEDDUP				46832	ns	 Sedirišwa seo se nago le leina le swanago se šetše se le gona.				2002-02-02 02:02:02
+cui	source\dialogs\scriptdlg.src	0	string	RID_SVXSTR_CREATEFAILEDPERM				46816	ns	 Ga o na tumelelo ya go hlama sedirišwa se.				2002-02-02 02:02:02
+cui	source\dialogs\scriptdlg.src	0	string	RID_SVXSTR_RENAMEFAILEDPERM				46064	ns	 Ga o na tumelelo ya go thea sedirišwa se ka leswa.				2002-02-02 02:02:02
+cui	source\dialogs\scriptdlg.src	0	string	RID_SVXSTR_ERROR_TITLE				46064	ns	Phošo ya %PRODUCTNAME				2002-02-02 02:02:02
+cui	source\dialogs\scriptdlg.src	0	string	RID_SVXSTR_ERROR_MESSAGE_LABEL				46536	ns	Molaetša:				2002-02-02 02:02:02
+cui	source\dialogs\SpellDialog.src	0	fixedtext	RID_SVXDLG_SPELLCHECK	FT_LANGUAGE			100	ns	L~eleme la sengwalwa				2002-02-02 02:02:02
+cui	source\dialogs\SpellDialog.src	0	fixedtext	RID_SVXDLG_SPELLCHECK	FT_NOTINDICT			120	ns	~Ga e gona pukuntšung				2002-02-02 02:02:02
+cui	source\dialogs\SpellDialog.src	0	fixedtext	RID_SVXDLG_SPELLCHECK	FT_SUGGESTION			120	ns	~Ditšhišinyo				2002-02-02 02:02:02
+cui	source\dialogs\SpellDialog.src	0	checkbox	RID_SVXDLG_SPELLCHECK	CB_CHECK_GRAMMAR			100	ns	Lekola ~popopolelo				2002-02-02 02:02:02
+cui	source\dialogs\SpellDialog.src	0	pushbutton	RID_SVXDLG_SPELLCHECK	PB_IGNORERULE			55	ns	H~lokolomoga molawana				2002-02-02 02:02:02
+cui	source\dialogs\SpellDialog.src	0	pushbutton	RID_SVXDLG_SPELLCHECK	PB_EXPLAIN			55	ns	~Hlalosa...				2002-02-02 02:02:02
+cui	source\dialogs\SpellDialog.src	0	pushbutton	RID_SVXDLG_SPELLCHECK	PB_UNDO			55	ns	~Dirolla				2002-02-02 02:02:02
+cui	source\dialogs\SpellDialog.src	0	pushbutton	RID_SVXDLG_SPELLCHECK	PB_CLOSE			55	ns	Ts~walela				2002-02-02 02:02:02
+cui	source\dialogs\SpellDialog.src	0	string	RID_SVXDLG_SPELLCHECK	ST_NOSUGGESTIONS			25584	ns	(ga go na ditšhišinyo)				2002-02-02 02:02:02
+cui	source\dialogs\SpellDialog.src	0	string	RID_SVXDLG_SPELLCHECK	ST_SPELLING			25584	ns	Mopeleto: $LANGUAGE ($LOCATION)				2002-02-02 02:02:02
+cui	source\dialogs\SpellDialog.src	0	string	RID_SVXDLG_SPELLCHECK	ST_SPELLING_AND_GRAMMAR			25784	ns	Mopeleto le popopolelo: $LANGUAGE ($LOCATION)				2002-02-02 02:02:02
+cui	source\dialogs\SpellDialog.src	0	string	RID_SVXDLG_SPELLCHECK	ST_SPELLING_AND_GRAMMAR_VENDORNAME			25968	ns	Mopeleto le popopolelo: $LANGUAGE ($LOCATION) [$VendorName]				2002-02-02 02:02:02
+cui	source\dialogs\SpellDialog.src	0	modelessdialog	RID_SVXDLG_SPELLCHECK		HID_SPELLCHECK		270	ns	Lekola mopeleto: 				2002-02-02 02:02:02
+cui	source\dialogs\showcols.src	0	fixedtext	RID_SVX_DLG_SHOWGRIDCOLUMNS	1			188	ns	Dikholomo tše di latelago ga bjale di fihlilwe. Hle swaya mafelo ao o nyakago go a bontšha gomme o kgethe Go lokile.				2002-02-02 02:02:02
+cui	source\dialogs\showcols.src	0	modaldialog	RID_SVX_DLG_SHOWGRIDCOLUMNS				200	ns	Laetša dikholomo				2002-02-02 02:02:02
+cui	source\dialogs\newtabledlg.src	0	fixedtext	RID_SVX_NEWTABLE_DLG	FT_COLUMNS			60	ns	Palo ya dikholomo:				2002-02-02 02:02:02
+cui	source\dialogs\newtabledlg.src	0	fixedtext	RID_SVX_NEWTABLE_DLG	FT_ROWS			60	ns	Palo ya methalo:				2002-02-02 02:02:02
+cui	source\customize\cfg.src	0	pageitem	RID_SVXDLG_CUSTOMIZE.1	RID_SVXPAGE_MENUS			34544	ns	Mananeo a dikagare				2002-02-02 02:02:02
+cui	source\customize\cfg.src	0	pageitem	RID_SVXDLG_CUSTOMIZE.1	RID_SVXPAGE_EVENTS			34432	ns	Ditiragalo				2002-02-02 02:02:02
+cui	source\customize\cfg.src	0	tabdialog	RID_SVXDLG_CUSTOMIZE				0	ns	Tlwaelanya				2002-02-02 02:02:02
+cui	source\customize\cfg.src	0	#define	TEXT_MENU				33984	ns	Lenaneo la dikagare				2002-02-02 02:02:02
+cui	source\customize\cfg.src	0	#define	TEXT_DELETE				33984	ns	Phumola...				2002-02-02 02:02:02
+cui	source\customize\cfg.src	0	#define	TEXT_MOVE				33984	ns	Šuthiša...				2002-02-02 02:02:02
+cui	source\customize\cfg.src	0	#define	TEXT_TEXT_ONLY				34432	ns	Sengwalwa feela				2002-02-02 02:02:02
+cui	source\customize\cfg.src	0	#define	TEXT_SAVE_IN				34432	ns	Boloka go				2002-02-02 02:02:02
+cui	source\customize\cfg.src	0	fixedline	RID_SVXPAGE_MENUS	GRP_MENUS			261	ns	Mananeo a dikagare a %PRODUCTNAME %MODULENAME				2002-02-02 02:02:02
+cui	source\customize\cfg.src	0	pushbutton	RID_SVXPAGE_MENUS	BTN_NEW			75	ns	Mpsha...				2002-02-02 02:02:02
+cui	source\customize\cfg.src	0	fixedline	RID_SVXPAGE_MENUS	GRP_MENU_SEPARATOR			261	ns	Dikagare tša Lenaneo la dikagare				2002-02-02 02:02:02
+cui	source\customize\cfg.src	0	fixedtext	RID_SVXPAGE_MENUS	GRP_MENU_ENTRIES			55	ns	Ditsenyo				2002-02-02 02:02:02
+cui	source\customize\cfg.src	0	pushbutton	RID_SVXPAGE_MENUS	BTN_ADD_COMMANDS			75	ns	Oketša...				2002-02-02 02:02:02
+cui	source\customize\cfg.src	0	fixedtext	RID_SVXPAGE_MENUS	FT_DESCRIPTION			261	ns	Tlhaloso				2002-02-02 02:02:02
+cui	source\customize\cfg.src	0	menuitem	MODIFY_ENTRY	ID_ADD_SUBMENU			34344	ns	Oketša lenaneo le lenyenyane la dikagare...				2002-02-02 02:02:02
+cui	source\customize\cfg.src	0	string	RID_SVXSTR_ADD_SUBMENU				33976	ns	Oketša lenaneo le lenyenyane la dikagare				2002-02-02 02:02:02
+cui	source\customize\cfg.src	0	string	RID_SVXSTR_SUBMENU_NAME				33776	ns	Leina la lenaneo le lenyenyane la dikagare				2002-02-02 02:02:02
+cui	source\customize\cfg.src	0	fixedtext	MD_MENU_ORGANISER	TXT_MENU_NAME			93	ns	Leina la lenaneo la dikagare				2002-02-02 02:02:02
+cui	source\customize\cfg.src	0	fixedtext	MD_MENU_ORGANISER	TXT_MENU			93	ns	Boemo bja lenaneo la dikagare				2002-02-02 02:02:02
+cui	source\customize\cfg.src	0	modaldialog	MD_NEW_TOOLBAR				165	ns	Leina				2002-02-02 02:02:02
+cui	source\customize\cfg.src	0	fixedtext	MD_ICONSELECTOR	FT_SYMBOLS			172	ns	Diaekhone				2002-02-02 02:02:02
+cui	source\customize\cfg.src	0	pushbutton	MD_ICONSELECTOR	BTN_IMPORT			50	ns	Amogela...				2002-02-02 02:02:02
+cui	source\customize\cfg.src	0	pushbutton	MD_ICONSELECTOR	BTN_DELETE			50	ns	Phumola...				2002-02-02 02:02:02
+cui	source\customize\cfg.src	0	fixedtext	MD_ICONSELECTOR	FT_NOTE			200	ns	Ela hloko:\nBogolo bja aekhone bo swanetše go ba diphiksele tše 16x16 gore e fihlelele khwaliti e kaone. Diaekhone tšeo di nago le bogolo bjo bo fapanego di tla kalwa ka boitirišo.				2002-02-02 02:02:02
+cui	source\customize\cfg.src	0	fixedtext	MD_ICONCHANGE	FTCHGE_DESCRIPTION			200	ns	Difaele tšeo di lokeleditšwego ka mo tlase di ka se amogelwe.\nFomate ya faele ga e kwešišwe.				2002-02-02 02:02:02
+cui	source\customize\cfg.src	0	modaldialog	MD_ICONCHANGE				200	ns	%PRODUCTNAME %PRODUCTVERSION				2002-02-02 02:02:02
+cui	source\customize\cfg.src	0	string	RID_SVXSTR_IMPORT_ICON_ERROR				33776	ns	Difaele tšeo di lokeleditšwego ka mo tlase di ka se amogelwe. Fomate ya faele ga e kwešišwe.				2002-02-02 02:02:02
+cui	source\customize\cfg.src	0	string	RID_SVXSTR_DELETE_ICON_CONFIRM				33776	ns	Na o kgonthišegile gore o nyaka go phumola seswantšho?				2002-02-02 02:02:02
+cui	source\customize\cfg.src	0	string	RID_SVXSTR_REPLACE_ICON_WARNING				33776	ns	Aekhone ya %ICONNAME e šetše e le lelokelelong la diswantšho.\nNa o ka rata go tšeela aekhone yeo e šetšego e le gona legato?				2002-02-02 02:02:02
+cui	source\customize\cfg.src	0	string	RID_SVXSTR_REPLACE_ICON_CONFIRM				34416	ns	Netefatša go tšeelwa legato ga aekhone				2002-02-02 02:02:02
+cui	source\customize\cfg.src	0	string	RID_SVXSTR_COMMANDS				34416	ns	Ditaelo				2002-02-02 02:02:02
+cui	source\customize\cfg.src	0	string	RID_SVXSTR_COMMAND				34416	ns	Taelo				2002-02-02 02:02:02
+cui	source\customize\cfg.src	0	querybox	QBX_CONFIRM_DELETE_MENU				34440	ns	Na o kgonthišegile gore o nyaka go phumola lenaneo la dikagare la '%MENUNAME'?				2002-02-02 02:02:02
+cui	source\customize\cfg.src	0	querybox	QBX_CONFIRM_RESET				33776	ns	Peakanyo ya lenaneo la dikagare bakeng sa %SAVE IN SELECTION% e tla beakanywa gape go ya go dipeakanyo tša fektoring. Na o nyaka go tšwela pele?				2002-02-02 02:02:02
+cui	source\customize\cfg.src	0	string	RID_SVXSTR_CONFIRM_MENU_RESET				34280	ns	Peakanyo ya lenaneo la dikagare bakeng sa %SAVE IN SELECTION% e tla beakanywa gape go ya go dipeakanyo tša fektoring. Na o nyaka go tšwela pele?				2002-02-02 02:02:02
+cui	source\customize\cfg.src	0	infobox	IBX_MNUCFG_ALREADY_INCLUDED				34040	ns	Tirišo e šetše e akareditšwe mo go serunyi se.				2002-02-02 02:02:02
+cui	source\customize\cfg.src	0	string	RID_SVXSTR_LABEL_NEW_NAME				33776	ns	Leina le ~lefsa				2002-02-02 02:02:02
+cui	source\customize\cfg.src	0	string	RID_SVXSTR_RENAME_MENU				34280	ns	Thea lenaneo la dikagare ka leswa				2002-02-02 02:02:02
+cui	source\customize\cfg.src	0	string	RID_SVXSTR_RENAME_TOOLBAR				33776	ns	Thea thulupaa ka leswa				2002-02-02 02:02:02
+cui	source\customize\acccfg.src	0	#define	PUSHBUTTON_TEXT_SAVE				5576	ns	~Boloka...				2002-02-02 02:02:02
+cui	source\customize\acccfg.src	0	#define	PUSHBUTTON_TEXT_RESET				5680	ns	B~eakanya ka leswa				2002-02-02 02:02:02
+cui	source\customize\acccfg.src	0	#define	PUSHBUTTON_TEXT_NEW				5664	ns	~Mpsha				2002-02-02 02:02:02
+cui	source\customize\acccfg.src	0	#define	FIXEDTEXT_TEXT_GROUP				5664	ns	~Legoro				2002-02-02 02:02:02
+cui	source\customize\acccfg.src	0	fixedtext	RID_SVXPAGE_KEYBOARD	TXT_ACC_KEY			80	ns	~Dikhii				2002-02-02 02:02:02
+cui	source\customize\acccfg.src	0	string	RID_SVXPAGE_CONFIGGROUPBOX	STR_MYMACROS			5344	ns	Dimakhro tša ka				2002-02-02 02:02:02
+cui	source\customize\acccfg.src	0	string	RID_SVXPAGE_CONFIGGROUPBOX	STR_PRODMACROS			5104	ns	Dimakhro tša %PRODUCTNAME				2002-02-02 02:02:02
+cui	source\customize\acccfg.src	0	string	RID_SVXPAGE_CONFIGGROUPBOX	STR_BASICMACROS			5104	ns	Dimakhro tša BASIC				2002-02-02 02:02:02
+cui	source\customize\acccfg.src	0	string	RID_SVXPAGE_CONFIGGROUPBOX	STR_DLG_MACROS			5104	ns	Dimakhro tša %PRODUCTNAME				2002-02-02 02:02:02
+cui	source\customize\acccfg.src	0	string	RID_SVXPAGE_CONFIGGROUPBOX	STR_GROUP_STYLES			5104	ns	Ditaele				2002-02-02 02:02:02
+cui	source\customize\eventdlg.src	0	string	RID_SVXPAGE_EVENTS	STR_EVENT			62448	ns	Tiragalo				2002-02-02 02:02:02
+cui	source\customize\eventdlg.src	0	string	RID_SVXPAGE_EVENTS	STR_ASSMACRO			63168	ns	Tiro e abetšwego				2002-02-02 02:02:02
+cui	source\customize\eventdlg.src	0	fixedtext	RID_SVXPAGE_EVENTS	TXT_SAVEIN			55	ns	Boloka go				2002-02-02 02:02:02
+cui	source\customize\eventdlg.src	0	fixedtext	RID_SVXPAGE_EVENTS	FT_ASSIGN			0	ns	Abela:				2002-02-02 02:02:02
+cui	source\customize\eventdlg.src	0	pushbutton	RID_SVXPAGE_EVENTS	PB_ASSIGN			50	ns	M~akhro...				2002-02-02 02:02:02
+cui	source\customize\eventdlg.src	0	pushbutton	RID_SVXPAGE_EVENTS	PB_DELETE			50	ns	~Tloša				2002-02-02 02:02:02
+cui	source\customize\selector.src	0	#define	FIXEDTEXT_DIALOG_DESCRIPTION				50992	ns	Kgetha bokgobapuku bjo bo nago le makhro yeo o e nyakago. Ke moka o kgethe makhro ka tlase ga 'Leina la makhro'.				2002-02-02 02:02:02
+cui	source\customize\selector.src	0	string	STR_SELECTOR_MACROS				50656	ns	Dimakhro tša %PRODUCTNAME				2002-02-02 02:02:02
+cui	source\customize\selector.src	0	string	STR_SELECTOR_CATEGORIES				50160	ns	~Legoro				2002-02-02 02:02:02
+cui	source\customize\selector.src	0	string	STR_SELECTOR_COMMANDS				50160	ns	Ditaelo				2002-02-02 02:02:02
+cui	source\customize\selector.src	0	string	STR_SELECTOR_ADD				50160	ns	Oketša				2002-02-02 02:02:02
+cui	source\customize\selector.src	0	string	STR_SELECTOR_CLOSE				50160	ns	Tswalela				2002-02-02 02:02:02
+cui	source\customize\selector.src	0	string	STR_SELECTOR_ADD_COMMANDS_DESCRIPTION				50696	ns	Go oketša taelo go thulupaa, kgetha legoro ke moka taelo. Ke moka o goge taelo go ya go lelokelelo la ditaelo la letlakala la thepo ya dithulupaa poledišanong ya go tlwaelanya.				2002-02-02 02:02:02
+cui	source\customize\selector.src	0	string	STR_BASICMACROS				50360	ns	Dimakhro tša BASIC				2002-02-02 02:02:02
+cui	source\customize\selector.src	0	fixedtext	RID_DLG_SCRIPTSELECTOR	TXT_SELECTOR_CATEGORIES			83	ns	Bokgobapuku				2002-02-02 02:02:02
+cui	source\customize\selector.src	0	string	RID_DLG_SCRIPTSELECTOR.BOX_SELECTOR_CATEGORIES	STR_MYMACROS			50160	ns	Dimakhro tša ka				2002-02-02 02:02:02
+cui	source\customize\selector.src	0	string	RID_DLG_SCRIPTSELECTOR.BOX_SELECTOR_CATEGORIES	STR_PRODMACROS			50160	ns	Dimakhro tša %PRODUCTNAME				2002-02-02 02:02:02
+cui	source\customize\selector.src	0	fixedtext	RID_DLG_SCRIPTSELECTOR	TXT_SELECTOR_COMMANDS			93	ns	Leina la makhro				2002-02-02 02:02:02
+cui	source\customize\selector.src	0	fixedline	RID_DLG_SCRIPTSELECTOR	GRP_SELECTOR_DESCRIPTION			224	ns	Tlhaloso				2002-02-02 02:02:02
+cui	source\customize\macropg.src	0	string	RID_SVXPAGE_MACROASSIGN	STR_EVENT			54256	ns	Tiragalo				2002-02-02 02:02:02
+cui	source\customize\macropg.src	0	string	RID_SVXPAGE_MACROASSIGN	STR_ASSMACRO			54960	ns	Tiro e abetšwego				2002-02-02 02:02:02
+cui	source\customize\macropg.src	0	fixedtext	RID_SVXPAGE_MACROASSIGN	FT_ASSIGN			0	ns	Abela:				2002-02-02 02:02:02
+cui	source\customize\macropg.src	0	pushbutton	RID_SVXPAGE_MACROASSIGN	PB_ASSIGN			0	ns	M~akhro...				2002-02-02 02:02:02
+cui	source\customize\macropg.src	0	pushbutton	RID_SVXPAGE_MACROASSIGN	PB_ASSIGN_COMPONENT			0	ns	Karo~lwana...				2002-02-02 02:02:02
+cui	source\customize\macropg.src	0	pushbutton	RID_SVXPAGE_MACROASSIGN	PB_DELETE			0	ns	~Tloša				2002-02-02 02:02:02
+cui	source\customize\macropg.src	0	tabpage	RID_SVXPAGE_MACROASSIGN				0	ns	Abela tiro				2002-02-02 02:02:02
+cui	source\customize\macropg.src	0	fixedtext	RID_SVXDLG_ASSIGNCOMPONENT	FT_METHOD			0	ns	Leina la mokgwa wa karolwana				2002-02-02 02:02:02
+cui	source\customize\macropg.src	0	modaldialog	RID_SVXDLG_ASSIGNCOMPONENT				0	ns	Abela karolwana				2002-02-02 02:02:02
+cui	source\customize\macropg.src	0	string	RID_SVXSTR_EVENT_NEWDOC				54256	ns	Tokumente e mpsha				2002-02-02 02:02:02
+cui	source\customize\macropg.src	0	string	RID_SVXSTR_EVENT_CLOSEDOC				54256	ns	Tokumente e tswaletšwe				2002-02-02 02:02:02
+cui	source\customize\macropg.src	0	string	RID_SVXSTR_EVENT_PREPARECLOSEDOC				54456	ns	Tokumente e tlile go tswalelwa				2002-02-02 02:02:02
+cui	source\customize\macropg.src	0	string	RID_SVXSTR_EVENT_MODIFYCHANGED				54456	ns	Boemo bjo 'Fetotšwego' bo fetotšwe				2002-02-02 02:02:02
+cui	source\customize\macropg.src	0	string	RID_SVXSTR_EVENT_MAILMERGE				54640	ns	Go gatišwa ga mangwalo a foromo go thomile				2002-02-02 02:02:02
+cui	source\customize\macropg.src	0	string	RID_SVXSTR_EVENT_MAILMERGE_END				54456	ns	Go gatišwa ga mangwalo a foromo go feditše				2002-02-02 02:02:02
+cui	source\customize\macropg.src	0	string	RID_SVXSTR_EVENT_FIELDMERGE				54456	ns	Go kopanywa ga mafelo a foromo go thomile				2002-02-02 02:02:02
+cui	source\customize\macropg.src	0	string	RID_SVXSTR_EVENT_FIELDMERGE_FINISHED				54600	ns	Go kopanywa ga mafelo a foromo go feditše				2002-02-02 02:02:02
+cui	source\customize\macropg.src	0	string	RID_SVXSTR_EVENT_SUBCOMPONENT_OPENED				54256	ns	Hlahletše karolwana e nyenyane				2002-02-02 02:02:02
+cui	source\customize\macropg.src	0	string	RID_SVXSTR_EVENT_SUBCOMPONENT_CLOSED				54256	ns	Tswaletše karolwana e nyenyane				2002-02-02 02:02:02
+cui	source\customize\macropg.src	0	string	RID_SVXSTR_EVENT_ACTIONPERFORMED				54256	ns	Phethagatša tiro				2002-02-02 02:02:02
+cui	source\customize\macropg.src	0	string	RID_SVXSTR_EVENT_AFTERUPDATE				54256	ns	Ka morago ga go mpshafatša				2002-02-02 02:02:02
+cui	source\customize\macropg.src	0	string	RID_SVXSTR_EVENT_ERROROCCURED				54256	ns	Bothata bjo bo diregilego				2002-02-02 02:02:02
+cui	source\customize\macropg.src	0	string	RID_SVXSTR_EVENT_ADJUSTMENTVALUECHANGED				54256	ns	Ge go beakanywa				2002-02-02 02:02:02
+cui	source\customize\macropg.src	0	string	RID_SVXSTR_EVENT_FOCUSGAINED				54256	ns	Ge o hwetša nepo				2002-02-02 02:02:02
+cui	source\customize\macropg.src	0	string	RID_SVXSTR_EVENT_ITEMSTATECHANGED				54256	ns	Maemo a dilo a fetogile				2002-02-02 02:02:02
+cui	source\customize\macropg.src	0	string	RID_SVXSTR_EVENT_LOADED				54472	ns	Ge o hlahlela				2002-02-02 02:02:02
+cui	source\customize\macropg.src	0	string	RID_SVXSTR_EVENT_RELOADING				54256	ns	Pele o hlahlela				2002-02-02 02:02:02
+cui	source\customize\macropg.src	0	string	RID_SVXSTR_EVENT_RELOADED				54256	ns	Ge o hlahlela gape				2002-02-02 02:02:02
+cui	source\customize\macropg.src	0	string	RID_SVXSTR_EVENT_APPROVEACTIONPERFORMED				54256	ns	Dumelela tiro				2002-02-02 02:02:02
+cui	source\customize\macropg.src	0	string	RID_SVXSTR_EVENT_CREATEDOC				54472	ns	Tokumente e hlamilwe				2002-02-02 02:02:02
+cui	source\customize\macropg.src	0	string	RID_SVXSTR_EVENT_LOADDOCFINISHED				54472	ns	Go hlahlela tokumente go feditšwe				2002-02-02 02:02:02
+cui	source\customize\macropg.src	0	string	RID_SVXSTR_EVENT_SAVEDOCFAILED				54256	ns	Go boloka tokumente go padile				2002-02-02 02:02:02
+cui	source\customize\macropg.src	0	string	RID_SVXSTR_EVENT_SAVEASDOCFAILED				54664	ns	'Boloka e le' e padile				2002-02-02 02:02:02
+cui	source\customize\macropg.src	0	string	RID_SVXSTR_EVENT_COPYTODOC				54504	ns	Go boloka goba go romela kopi ya tokumente				2002-02-02 02:02:02
+cui	source\customize\macropg.src	0	string	RID_SVXSTR_EVENT_COPYTODOCDONE				54456	ns	Kopi ya tokumente e hlamilwe				2002-02-02 02:02:02
+cui	source\customize\macropg.src	0	string	RID_SVXSTR_EVENT_COPYTODOCFAILED				54472	ns	Go hlama kopi ya tokumente go padile				2002-02-02 02:02:02
+cui	source\customize\macropg.src	0	string	RID_SVXSTR_EVENT_VIEWCREATED				54256	ns	Tebelelo e hlamilwe				2002-02-02 02:02:02
+cui	source\customize\macropg.src	0	string	RID_SVXSTR_EVENT_PREPARECLOSEVIEW				54456	ns	Tebelelo e tlile go tswalelwa				2002-02-02 02:02:02
+cui	source\customize\macropg.src	0	string	RID_SVXSTR_EVENT_CLOSEVIEW				54256	ns	Tebelelo e tswaletšwe				2002-02-02 02:02:02
+cui	source\customize\macropg.src	0	string	RID_SVXSTR_EVENT_TITLECHANGED				54256	ns	Thaetlele ya tokumente e fetogile				2002-02-02 02:02:02
+cui	source\customize\macropg.src	0	string	RID_SVXSTR_EVENT_MODECHANGED				54472	ns	Moutu wa tokumente o fetogile				2002-02-02 02:02:02
+cui	source\customize\macropg.src	0	string	RID_SVXSTR_EVENT_VISAREACHANGED				54472	ns	Lefelo le bonagalago le fetogile				2002-02-02 02:02:02
+cui	source\customize\macropg.src	0	string	RID_SVXSTR_EVENT_STORAGECHANGED				54472	ns	Tokumente e na le polokelo e mpsha				2002-02-02 02:02:02
+cui	source\customize\macropg.src	0	string	RID_SVXSTR_EVENT_LAYOUT_FINISHED				54256	ns	Tlhamego ya tokumente e feditšwe				2002-02-02 02:02:02
+cui	source\options\optfltr.src	0	fixedline	RID_OFAPAGE_MSFILTEROPT	GB_WORD			248	ns	Microsoft Word 97/2000/XP				2002-02-02 02:02:02
+cui	source\options\optfltr.src	0	checkbox	RID_OFAPAGE_MSFILTEROPT	CB_WBAS_CODE			236	ns	Hlahlela ~khoutu ya motheo				2002-02-02 02:02:02
+cui	source\options\optfltr.src	0	checkbox	RID_OFAPAGE_MSFILTEROPT	CB_WBAS_STG			236	ns	Boloka khoutu ya motheo ya setl~ogo				2002-02-02 02:02:02
+cui	source\options\optfltr.src	0	fixedline	RID_OFAPAGE_MSFILTEROPT	GB_EXCEL			248	ns	Microsoft Excel 97/2000/XP				2002-02-02 02:02:02
+cui	source\options\optfltr.src	0	checkbox	RID_OFAPAGE_MSFILTEROPT	CB_EBAS_CODE			236	ns	Hlahlel~a khoutu ya motheo				2002-02-02 02:02:02
+cui	source\options\optfltr.src	0	checkbox	RID_OFAPAGE_MSFILTEROPT	CB_EBAS_STG			236	ns	Bolo~ka khoutu ya motheo ya setlogo				2002-02-02 02:02:02
+cui	source\options\optfltr.src	0	fixedline	RID_OFAPAGE_MSFILTEROPT	GB_PPOINT			248	ns	Microsoft PowerPoint 97/2000/XP				2002-02-02 02:02:02
+cui	source\options\optfltr.src	0	checkbox	RID_OFAPAGE_MSFILTEROPT	CB_PBAS_CODE			236	ns	Hlahlela khoutu ya mo~theo				2002-02-02 02:02:02
+cui	source\options\optfltr.src	0	checkbox	RID_OFAPAGE_MSFILTEROPT	CB_PBAS_STG			236	ns	Bolok~a khoutu ya motheo ya setlogo				2002-02-02 02:02:02
+cui	source\options\optfltr.src	0	string	RID_OFAPAGE_MSFILTEROPT2	ST_HEADER1			58352	ns	[L]				2002-02-02 02:02:02
+cui	source\options\optfltr.src	0	string	RID_OFAPAGE_MSFILTEROPT2	ST_HEADER2			58352	ns	[S]				2002-02-02 02:02:02
+cui	source\options\internationaloptions.src	0	checkbox	RID_OFA_TP_INTERNATIONAL	CB_SHTVW_CURRENTDOCONLY			0	ns	~Tokumente ya gona bjale feela				2002-02-02 02:02:02
+cui	source\options\optjava.src	0	fixedline	RID_SVXPAGE_OPTIONS_JAVA	FL_JAVA			248	ns	Dikgetho tša Java				2002-02-02 02:02:02
+cui	source\options\optjava.src	0	checkbox	RID_SVXPAGE_OPTIONS_JAVA	CB_JAVA_ENABLE			242	ns	~Diriša tikologo ya nako ya go šoma ga Java				2002-02-02 02:02:02
+cui	source\options\optjava.src	0	fixedtext	RID_SVXPAGE_OPTIONS_JAVA	FT_JAVA_FOUND			233	ns	~Ditokologo tša nako ya go šoma ga Java (JRE) di šetše di tsentšhitšwe:				2002-02-02 02:02:02
+cui	source\options\optjava.src	0	pushbutton	RID_SVXPAGE_OPTIONS_JAVA	PB_PARAMETER			50	ns	~Dipharamethara...				2002-02-02 02:02:02
+cui	source\options\optjava.src	0	string	RID_SVXPAGE_OPTIONS_JAVA	STR_INSTALLED_IN			58352	ns	Lefelo: 				2002-02-02 02:02:02
+cui	source\options\optjava.src	0	string	RID_SVXPAGE_OPTIONS_JAVA	STR_ACCESSIBILITY			58648	ns	ka thekgo ya go tsenega				2002-02-02 02:02:02
+cui	source\options\optjava.src	0	string	RID_SVXPAGE_OPTIONS_JAVA	STR_HEADER_VENDOR			58352	ns	Morekiši				2002-02-02 02:02:02
+cui	source\options\optjava.src	0	string	RID_SVXPAGE_OPTIONS_JAVA	STR_HEADER_VERSION			58352	ns	Tokollo				2002-02-02 02:02:02
+cui	source\options\optjava.src	0	string	RID_SVXPAGE_OPTIONS_JAVA	STR_HEADER_FEATURES			58352	ns	Dibopego				2002-02-02 02:02:02
+cui	source\options\optjava.src	0	fixedtext	RID_SVXDLG_JAVA_PARAMETER	FT_PARAMETER			202	ns	Pharamethara ya go thoma ~Java				2002-02-02 02:02:02
+cui	source\options\optjava.src	0	pushbutton	RID_SVXDLG_JAVA_PARAMETER	PB_ASSIGN			50	ns	~Abela				2002-02-02 02:02:02
+cui	source\options\optjava.src	0	fixedtext	RID_SVXDLG_JAVA_PARAMETER	FT_ASSIGNED			202	ns	Diphara~methara tša go thoma tše abetšwego				2002-02-02 02:02:02
+cui	source\options\optjava.src	0	fixedtext	RID_SVXDLG_JAVA_PARAMETER	FT_EXAMPLE			202	ns	Ka mohlala: -Dmyprop=c:\difaele tša lenaneo\java				2002-02-02 02:02:02
+cui	source\options\optjava.src	0	pushbutton	RID_SVXDLG_JAVA_PARAMETER	PB_REMOVE			50	ns	~Tloša				2002-02-02 02:02:02
+cui	source\options\optjava.src	0	pushbutton	RID_SVXDLG_JAVA_CLASSPATH	PB_REMOVE_PATH			50	ns	~Tloša				2002-02-02 02:02:02
+cui	source\options\optjava.src	0	errorbox	RID_SVXERR_JRE_NOT_RECOGNIZED				58352	ns	Foltara yeo o e kgethilego ga e na tikologo ya nako ya go šoma ga Java.\nHle kgetha foltara e fapanego.				2002-02-02 02:02:02
+cui	source\options\optjava.src	0	errorbox	RID_SVXERR_JRE_FAILED_VERSION				58352	ns	Tikologo ya nako ya go šoma ga Java yeo o e kgethilego ga se tokollo yeo e nyakegago.\nHle kgetha foltara e fapanego.				2002-02-02 02:02:02
+cui	source\options\optjava.src	0	warningbox	RID_SVX_MSGBOX_JAVA_RESTART				58352	ns	Gore tikologo ya go šoma ga Java yeo e kgethilwego e šome ka tshwanelo, %PRODUCTNAME e swanetše go thongwa ka leswa.\nHle thoma %PRODUCTNAME ka leswa gona bjale.				2002-02-02 02:02:02
+cui	source\options\optjava.src	0	warningbox	RID_SVX_MSGBOX_JAVA_RESTART2				58352	ns	O swanetše go thoma %PRODUCTNAME ka leswa gore boleng bjo boswa goba bjo bo fetotšwego bo ka šoma.\nHle thoma %PRODUCTNAME ka leswa.				2002-02-02 02:02:02
+cui	source\options\securityoptions.src	0	fixedline	RID_SVXDLG_SECURITY_OPTIONS	FL_WARNINGS			0	ns	Temošo ya tšhireletšego				2002-02-02 02:02:02
+cui	source\options\securityoptions.src	0	checkbox	RID_SVXDLG_SECURITY_OPTIONS	CB_CTRLHYPERLINK			0	ns	Ctrl-kgotla e a nyakega go latelela dilomaganyo-kgolo				2002-02-02 02:02:02
+cui	source\options\opthtml.src	0	fixedtext	RID_OFAPAGE_HTMLOPT	FT_SIZE1			30	ns	Bogolo ~1				2002-02-02 02:02:02
+cui	source\options\opthtml.src	0	fixedtext	RID_OFAPAGE_HTMLOPT	FT_SIZE2			30	ns	Bogolo ~2				2002-02-02 02:02:02
+cui	source\options\opthtml.src	0	fixedtext	RID_OFAPAGE_HTMLOPT	FT_SIZE3			30	ns	Bogolo ~3				2002-02-02 02:02:02
+cui	source\options\opthtml.src	0	fixedtext	RID_OFAPAGE_HTMLOPT	FT_SIZE4			30	ns	Bogolo ~4				2002-02-02 02:02:02
+cui	source\options\opthtml.src	0	fixedtext	RID_OFAPAGE_HTMLOPT	FT_SIZE5			30	ns	Bogolo ~5				2002-02-02 02:02:02
+cui	source\options\opthtml.src	0	fixedtext	RID_OFAPAGE_HTMLOPT	FT_SIZE6			30	ns	Bogolo ~6				2002-02-02 02:02:02
+cui	source\options\opthtml.src	0	fixedtext	RID_OFAPAGE_HTMLOPT	FT_SIZE7			30	ns	Boglo ~7				2002-02-02 02:02:02
+cui	source\options\opthtml.src	0	checkbox	RID_OFAPAGE_HTMLOPT	CB_NUMBERS_ENGLISH_US			161	ns	~Diriša '%ENGLISHUSLOCALE' ya mo lapeng bakeng sa dinomoro				2002-02-02 02:02:02
+cui	source\options\opthtml.src	0	fixedline	RID_OFAPAGE_HTMLOPT	GB_EXPORT			167	ns	Romela				2002-02-02 02:02:02
+cui	source\options\opthtml.src	0	checkbox	CB_STARBASIC_WARNING				149	ns	Bontšha ~temošo				2002-02-02 02:02:02
+cui	source\options\optgdlg.src	0	fixedtext	OFA_TP_MISC	FT_HELPFORMAT		ENABLE_HELP_FORMATTING	0	ns	Thuša ~go fometa				2002-02-02 02:02:02
+cui	source\options\optgdlg.src	0	checkbox	OFA_TP_MISC	CB_FILEDLG			0	ns	~Diriša dipoledišano tša %PRODUCTNAME				2002-02-02 02:02:02
+cui	source\options\optgdlg.src	0	fixedline	OFA_TP_MISC	FL_PRINTDLG			0	ns	Gatiša dipoledišano				2002-02-02 02:02:02
+cui	source\options\optgdlg.src	0	checkbox	OFA_TP_MISC	CB_PRINTDLG			0	ns	Diriša ~dipoledišano tša %PRODUCTNAME				2002-02-02 02:02:02
+cui	source\options\optgdlg.src	0	fixedline	OFA_TP_MISC	FL_DOCSTATUS			0	ns	Boemo bja tokumente				2002-02-02 02:02:02
+cui	source\options\optgdlg.src	0	fixedline	OFA_TP_MISC	FL_TWOFIGURE			0	ns	Ngwaga (dinomoro tše pedi)				2002-02-02 02:02:02
+cui	source\options\optgdlg.src	0	fixedtext	OFA_TP_MISC	FT_TOYEAR			0	ns	le 				2002-02-02 02:02:02
+cui	source\options\optgdlg.src	0	fixedtext	OFA_TP_VIEW	FT_ICONSIZESTYLE			114	ns	Bogolo le setaele sa aekhone				2002-02-02 02:02:02
+cui	source\options\optgdlg.src	0	stringlist	OFA_TP_VIEW.LB_ICONSIZE	2			0	ns	Nyenyane				2002-02-02 02:02:02
+cui	source\options\optgdlg.src	0	stringlist	OFA_TP_VIEW.LB_ICONSIZE	3			0	ns	Kgolo				2002-02-02 02:02:02
+cui	source\options\optgdlg.src	0	stringlist	OFA_TP_VIEW.LB_ICONSTYLE	2			0	ns	Molalatladi (tirelwa)				2002-02-02 02:02:02
+cui	source\options\optgdlg.src	0	stringlist	OFA_TP_VIEW.LB_ICONSTYLE	3			0	ns	Phapano e phagamego				2002-02-02 02:02:02
+cui	source\options\optgdlg.src	0	stringlist	OFA_TP_VIEW.LB_ICONSTYLE	4			0	ns	Intaseteri				2002-02-02 02:02:02
+cui	source\options\optgdlg.src	0	stringlist	OFA_TP_VIEW.LB_ICONSTYLE	5			0	ns	Legakabje				2002-02-02 02:02:02
+cui	source\options\optgdlg.src	0	stringlist	OFA_TP_VIEW.LB_ICONSTYLE	6			0	ns	Thenko				2002-02-02 02:02:02
+cui	source\options\optgdlg.src	0	stringlist	OFA_TP_VIEW.LB_ICONSTYLE	8			0	ns	Klasiki				2002-02-02 02:02:02
+cui	source\options\optgdlg.src	0	fixedtext	OFA_TP_VIEW	FT_POINTLIMIT_LABEL			20	ns	go tšwa go				2002-02-02 02:02:02
+cui	source\options\optgdlg.src	0	fixedline	OFA_TP_VIEW	FL_MENU			120	ns	Lenaneo la dikagare				2002-02-02 02:02:02
+cui	source\options\optgdlg.src	0	fixedtext	OFA_TP_VIEW	FT_MENU_ICONS			114	ns	Diaekhone mananeong a dikagare				2002-02-02 02:02:02
+cui	source\options\optgdlg.src	0	stringlist	OFA_TP_VIEW.LB_MENU_ICONS	3			0	ns	Bontšha				2002-02-02 02:02:02
+cui	source\options\optgdlg.src	0	checkbox	OFA_TP_VIEW	CB_FONT_SHOW			118	ns	Bontšha p~onelopele ya difonte				2002-02-02 02:02:02
+cui	source\options\optgdlg.src	0	checkbox	OFA_TP_VIEW	CB_FONT_HISTORY			118	ns	Bontšha h~istori ya fonte				2002-02-02 02:02:02
+cui	source\options\optgdlg.src	0	checkbox	OFA_TP_VIEW	CB_USE_HARDACCELL			118	ns	Diriša kgatelelo ya lenaneo la khomphuthara				2002-02-02 02:02:02
+cui	source\options\optgdlg.src	0	checkbox	OFA_TP_VIEW	CB_USE_ANTIALIASE			118	ns	Diriša twantšho ya tsela e nngwe				2002-02-02 02:02:02
+cui	source\options\optgdlg.src	0	stringlist	OFA_TP_VIEW.LB_MOUSEPOS	2			0	ns	Lefelo la poledišano				2002-02-02 02:02:02
+cui	source\options\optgdlg.src	0	fixedtext	OFA_TP_VIEW	FT_MOUSEMIDDLE			120	ns	Konopi ya gare ya mouse				2002-02-02 02:02:02
+cui	source\options\optgdlg.src	0	stringlist	OFA_TP_VIEW.LB_MOUSEMIDDLE	1			0	ns	Ga go na modiro				2002-02-02 02:02:02
+cui	source\options\optgdlg.src	0	stringlist	OFA_TP_VIEW.LB_MOUSEMIDDLE	2			0	ns	Go dira sekorolo mo go itiragalelago				2002-02-02 02:02:02
+cui	source\options\optgdlg.src	0	fixedline	OFA_TP_VIEW	FL_SELECTION			120	ns	Kgetho				2002-02-02 02:02:02
+cui	source\options\optgdlg.src	0	metricfield	OFA_TP_VIEW	MF_SELECTION			31	ns	%				2002-02-02 02:02:02
+cui	source\options\optgdlg.src	0	fixedline	OFA_TP_LANGUAGES	FL_UI_LANG			248	ns	Leleme la				2002-02-02 02:02:02
+cui	source\options\optgdlg.src	0	checkbox	OFA_TP_LANGUAGES	CB_DECIMALSEPARATOR			125	ns	~Go swana le peakanyo ya lapeng ya ( %1 )				2002-02-02 02:02:02
+cui	source\options\optgdlg.src	0	fixedtext	OFA_TP_LANGUAGES	FT_COMPLEX_LANG			108	ns	C~TL				2002-02-02 02:02:02
+cui	source\options\optgdlg.src	0	checkbox	OFA_TP_LANGUAGES	CB_CURRENT_DOC			125	ns	Bakeng sa tokumente ya gona bjale feela				2002-02-02 02:02:02
+cui	source\options\optgdlg.src	0	fixedline	OFA_TP_LANGUAGES	FL_ENHANCED			248	ns	Thekgo ya leleme e okeditšwego				2002-02-02 02:02:02
+cui	source\options\optgdlg.src	0	checkbox	OFA_TP_LANGUAGES	CB_ASIANSUPPORT			236	ns	K~gontšhitšwe bakeng sa maleme a Asia				2002-02-02 02:02:02
+cui	source\options\webconninfo.src	0	fixedtext	RID_SVXDLG_WEBCONNECTION_INFO	FI_NEVERSHOWN			0	ns	Tshedimošo ya go tsena wepeng (mantšuphetišo ga a bontšhwe le gatee)				2002-02-02 02:02:02
+cui	source\options\webconninfo.src	0	pushbutton	RID_SVXDLG_WEBCONNECTION_INFO	PB_REMOVE			0	ns	Tloša				2002-02-02 02:02:02
+cui	source\options\webconninfo.src	0	pushbutton	RID_SVXDLG_WEBCONNECTION_INFO	PB_REMOVEALL			0	ns	Tloša tšohle				2002-02-02 02:02:02
+cui	source\options\webconninfo.src	0	pushbutton	RID_SVXDLG_WEBCONNECTION_INFO	PB_CHANGE			0	ns	Fetoša lentšuphetišo...				2002-02-02 02:02:02
+cui	source\options\webconninfo.src	0	string	RID_SVXDLG_WEBCONNECTION_INFO	STR_WEBSITE			5104	ns	Wepesaete				2002-02-02 02:02:02
+cui	source\options\webconninfo.src	0	string	RID_SVXDLG_WEBCONNECTION_INFO	STR_USERNAME			5304	ns	Leina la modiriši				2002-02-02 02:02:02
+cui	source\options\webconninfo.src	0	modaldialog	RID_SVXDLG_WEBCONNECTION_INFO		HID_DLG_WEBCONNECTION_INFO		0	ns	Tshedimošo ya kgokaganyo ya wepe yeo e bolokilwego				2002-02-02 02:02:02
+cui	source\options\fontsubs.src	0	fixedtext	RID_SVX_FONT_SUBSTITUTION	FT_FONT2			100	ns	Tše~ela legato ka				2002-02-02 02:02:02
+cui	source\options\fontsubs.src	0	toolboxitem	RID_SVX_FONT_SUBSTITUTION.TBX_SUBSTNEWDEL	BT_SUBSTAPPLY	HID_OFA_SUBST_APPLY		54840	ns	Diriša				2002-02-02 02:02:02
+cui	source\options\fontsubs.src	0	fixedline	RID_SVX_FONT_SUBSTITUTION	FL_SOURCEVIEW			248	ns	Dipeakanyo tša fonte bakeng sa methopo ya HTML, Basic le SQL				2002-02-02 02:02:02
+cui	source\options\fontsubs.src	0	fixedtext	RID_SVX_FONT_SUBSTITUTION	FT_FONTNAME			57	ns	Difonte				2002-02-02 02:02:02
+cui	source\options\fontsubs.src	0	fixedtext	RID_SVX_FONT_SUBSTITUTION	FT_FONTHEIGHT			57	ns	~Bogolo				2002-02-02 02:02:02
+cui	source\options\fontsubs.src	0	string	RID_SVX_FONT_SUBSTITUTION	STR_HEADER2			54256	ns	Sekirini feela				2002-02-02 02:02:02
+cui	source\options\connpooloptions.src	0	fixedline	RID_OFAPAGE_CONNPOOLOPTIONS	FL_POOLING			0	ns	Bodiba bja kgokagano				2002-02-02 02:02:02
+cui	source\options\connpooloptions.src	0	checkbox	RID_OFAPAGE_CONNPOOLOPTIONS	CB_POOL_CONNS			0	ns	Kgokagano ya bodiba e kgontšhitšwe				2002-02-02 02:02:02
+cui	source\options\connpooloptions.src	0	fixedtext	RID_OFAPAGE_CONNPOOLOPTIONS	FT_DRIVERS			0	ns	Baotledi bao ba tsebjwago go %PRODUCTNAME				2002-02-02 02:02:02
+cui	source\options\connpooloptions.src	0	fixedtext	RID_OFAPAGE_CONNPOOLOPTIONS	FT_DRIVERLABEL			70	ns	Mootledi wa gona bjale:				2002-02-02 02:02:02
+cui	source\options\connpooloptions.src	0	fixedtext	RID_OFAPAGE_CONNPOOLOPTIONS	FT_TIMEOUT			100	ns	Nako e fedile (metsotswana)				2002-02-02 02:02:02
+cui	source\options\connpooloptions.src	0	string	RID_OFAPAGE_CONNPOOLOPTIONS	STR_DRIVER_NAME			21712	ns	Leina la mootledi				2002-02-02 02:02:02
+cui	source\options\connpooloptions.src	0	string	RID_OFAPAGE_CONNPOOLOPTIONS	STR_POOLED_FLAG			21488	ns	Bodiba				2002-02-02 02:02:02
+cui	source\options\connpooloptions.src	0	string	RID_OFAPAGE_CONNPOOLOPTIONS	STR_POOL_TIMEOUT			21488	ns	Nako e fedile				2002-02-02 02:02:02
+cui	source\options\connpooloptions.src	0	string	RID_OFAPAGE_CONNPOOLOPTIONS	STR_YES			21488	ns	Ee				2002-02-02 02:02:02
+cui	source\options\connpooloptions.src	0	string	RID_OFAPAGE_CONNPOOLOPTIONS	STR_NO			21488	ns	Aowa				2002-02-02 02:02:02
+cui	source\options\doclinkdialog.src	0	string	STR_LINKEDDOC_DOESNOTEXIST				50160	ns	Faele ya\n$file$\nga e gona.				2002-02-02 02:02:02
+cui	source\options\doclinkdialog.src	0	string	STR_LINKEDDOC_NO_SYSTEM_FILE				50552	ns	Faele ya\n$file$\nga e gona go tshepedišo ya faele ya mo lapeng.				2002-02-02 02:02:02
+cui	source\options\doclinkdialog.src	0	string	STR_NAME_CONFLICT				50160	ns	Leina la '$file$' le šetše le dirišetšwa dathapeisi e nngwe.\nHle kgetha leina le fapanego.				2002-02-02 02:02:02
+cui	source\options\optmemory.src	0	fixedline	OFA_TP_MEMORY	GB_UNDO			0	ns	Dirolla				2002-02-02 02:02:02
+cui	source\options\optmemory.src	0	fixedtext	OFA_TP_MEMORY	FT_GRAPHICCACHE			0	ns	Diriša bakeng sa %PRODUCTNAME				2002-02-02 02:02:02
+cui	source\options\optmemory.src	0	fixedtext	OFA_TP_MEMORY	FT_GRAPHICCACHE_UNIT			0	ns	MB				2002-02-02 02:02:02
+cui	source\options\optmemory.src	0	fixedtext	OFA_TP_MEMORY	FT_GRAPHICOBJECTCACHE			0	ns	Kgopolo go ya ka sedirišwa				2002-02-02 02:02:02
+cui	source\options\optmemory.src	0	fixedtext	OFA_TP_MEMORY	FT_GRAPHICOBJECTCACHE_UNIT			0	ns	MB				2002-02-02 02:02:02
+cui	source\options\optmemory.src	0	fixedtext	OFA_TP_MEMORY	FT_GRAPHICOBJECTTIME_UNIT			0	ns	hh:mm				2002-02-02 02:02:02
+cui	source\options\optmemory.src	0	fixedtext	OFA_TP_MEMORY	FT_OLECACHE			0	ns	Palo ya didirišwa				2002-02-02 02:02:02
+cui	source\options\optmemory.src	0	string	OFA_TP_MEMORY	STR_QUICKLAUNCH_UNX			5528	ns	Kgontšha sethomiši sa kapejana sa systray				2002-02-02 02:02:02
+cui	source\options\treeopt.src	0	itemlist	RID_OFADLG_OPTIONS_TREE.STR_HELPTEXTS	2			0	ns	Mo ke moo o dirago dipeakanyo mabapi le leleme le dithušo tša go ngwala bakeng sa mošomo wa gago le %PRODUCTNAME.				2002-02-02 02:02:02
+cui	source\options\treeopt.src	0	itemlist	RID_OFADLG_OPTIONS_TREE.STR_HELPTEXTS	11			0	ns	Moo ke mo o hlalosago dipeakanyo tša kakaretšo bakeng sa go tsena methopong ya ka ntle ya tsebišo.				2002-02-02 02:02:02
+cui	source\options\treeopt.src	0	itemlist	RID_OFADLG_OPTIONS_TREE_PAGES.SID_GENERAL_OPTIONS	1			0	ns	%PRODUCTNAME				2002-02-02 02:02:02
+cui	source\options\treeopt.src	0	itemlist	RID_OFADLG_OPTIONS_TREE_PAGES.SID_GENERAL_OPTIONS	4			0	ns	Kgopolo				2002-02-02 02:02:02
+cui	source\options\treeopt.src	0	itemlist	RID_OFADLG_OPTIONS_TREE_PAGES.SID_GENERAL_OPTIONS	5			0	ns	Tebelelo				2002-02-02 02:02:02
+cui	source\options\treeopt.src	0	itemlist	RID_OFADLG_OPTIONS_TREE_PAGES.SID_GENERAL_OPTIONS	8			0	ns	Mebala				2002-02-02 02:02:02
+cui	source\options\treeopt.src	0	itemlist	RID_OFADLG_OPTIONS_TREE_PAGES.SID_GENERAL_OPTIONS	9			0	ns	Difonte				2002-02-02 02:02:02
+cui	source\options\treeopt.src	0	itemlist	RID_OFADLG_OPTIONS_TREE_PAGES.SID_GENERAL_OPTIONS	11			0	ns	Ponagalo				2002-02-02 02:02:02
+cui	source\options\treeopt.src	0	itemlist	RID_OFADLG_OPTIONS_TREE_PAGES.SID_GENERAL_OPTIONS	12			0	ns	Go tsena				2002-02-02 02:02:02
+cui	source\options\treeopt.src	0	itemlist	RID_OFADLG_OPTIONS_TREE_PAGES.SID_GENERAL_OPTIONS	15			0	ns	Mpshafatšo ya inthaneteng				2002-02-02 02:02:02
+cui	source\options\treeopt.src	0	itemlist	RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_EDITOPTIONS	3			0	ns	Tebelelo				2002-02-02 02:02:02
+cui	source\options\treeopt.src	0	itemlist	RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_EDITOPTIONS	4			0	ns	Dithušo tša go fometa				2002-02-02 02:02:02
+cui	source\options\treeopt.src	0	itemlist	RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_EDITOPTIONS	10			0	ns	Lenaneo				2002-02-02 02:02:02
+cui	source\options\treeopt.src	0	itemlist	RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_EDITOPTIONS	11			0	ns	Diphetošo				2002-02-02 02:02:02
+cui	source\options\treeopt.src	0	itemlist	RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_ONLINEOPTIONS	2			0	ns	Tebelelo				2002-02-02 02:02:02
+cui	source\options\treeopt.src	0	itemlist	RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_ONLINEOPTIONS	3			0	ns	Dithušo tša go fometa				2002-02-02 02:02:02
+cui	source\options\treeopt.src	0	itemlist	RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_ONLINEOPTIONS	6			0	ns	Lenaneo				2002-02-02 02:02:02
+cui	source\options\treeopt.src	0	itemlist	RID_OFADLG_OPTIONS_TREE_PAGES.SID_SC_EDITOPTIONS	3			0	ns	Tebelelo				2002-02-02 02:02:02
+cui	source\options\treeopt.src	0	itemlist	RID_OFADLG_OPTIONS_TREE_PAGES.SID_SC_EDITOPTIONS	4			0	ns	Boditšhaba-tšhaba				2002-02-02 02:02:02
+cui	source\options\treeopt.src	0	itemlist	RID_OFADLG_OPTIONS_TREE_PAGES.SID_SD_EDITOPTIONS	3			0	ns	Tebelelo				2002-02-02 02:02:02
+cui	source\options\treeopt.src	0	itemlist	RID_OFADLG_OPTIONS_TREE_PAGES.SID_SD_GRAPHIC_OPTIONS	3			0	ns	Tebelelo				2002-02-02 02:02:02
+cui	source\options\treeopt.src	0	itemlist	RID_OFADLG_OPTIONS_TREE_PAGES.SID_SCH_EDITOPTIONS	1			0	ns	Ditšhate				2002-02-02 02:02:02
+cui	source\options\treeopt.src	0	itemlist	RID_OFADLG_OPTIONS_TREE_PAGES.SID_FILTER_DLG	4			0	ns	Microsoft Office				2002-02-02 02:02:02
+cui	source\options\dbregister.src	0	fixedtext	RID_SFXPAGE_DBREGISTER	FT_TYPE			40	ns	Leina le ngwadišitšwego				2002-02-02 02:02:02
+cui	source\options\dbregister.src	0	fixedline	RID_SFXPAGE_DBREGISTER	GB_STD			248	ns	Didathapeisi tše ngwadišitšwego				2002-02-02 02:02:02
+cui	source\options\dbregister.src	0	tabpage	RID_SFXPAGE_DBREGISTER				260	ns	Didathapeisi tše ngwadišitšwego				2002-02-02 02:02:02
+cui	source\options\optupdt.src	0	fixedline	RID_SVXPAGE_ONLINEUPDATE	FL_OPTIONS			248	ns	Dikgetho tša mpshafatšo tša inthaneteng				2002-02-02 02:02:02
+cui	source\options\optupdt.src	0	checkbox	RID_SVXPAGE_ONLINEUPDATE	CB_AUTOCHECK			210	ns	~Lekola dimpshafatšo ka boitirišo				2002-02-02 02:02:02
+cui	source\options\optupdt.src	0	radiobutton	RID_SVXPAGE_ONLINEUPDATE	RB_EVERYDAY			160	ns	Letšatši le letšatš~i				2002-02-02 02:02:02
+cui	source\options\optupdt.src	0	radiobutton	RID_SVXPAGE_ONLINEUPDATE	RB_EVERYWEEK			160	ns	~Beke le beke				2002-02-02 02:02:02
+cui	source\options\optupdt.src	0	radiobutton	RID_SVXPAGE_ONLINEUPDATE	RB_EVERYMONTH			160	ns	~Kgwedi le kgwedi				2002-02-02 02:02:02
+cui	source\options\optupdt.src	0	fixedtext	RID_SVXPAGE_ONLINEUPDATE	FT_LASTCHECKED			160	ns	Lekotšwe la mafelelo: %DATE%, %TIME%				2002-02-02 02:02:02
+cui	source\options\optupdt.src	0	pushbutton	RID_SVXPAGE_ONLINEUPDATE	PB_CHECKNOW			50	ns	Lekola go~na bjale				2002-02-02 02:02:02
+cui	source\options\optupdt.src	0	checkbox	RID_SVXPAGE_ONLINEUPDATE	CB_AUTODOWNLOAD			160	ns	~Laolla dimpshafatšo ka boitirišo				2002-02-02 02:02:02
+cui	source\options\optupdt.src	0	fixedtext	RID_SVXPAGE_ONLINEUPDATE	FT_DESTPATHLABEL			150	ns	Boyo bja taollo:				2002-02-02 02:02:02
+cui	source\options\optupdt.src	0	pushbutton	RID_SVXPAGE_ONLINEUPDATE	PB_CHANGEPATH			50	ns	Fetoš~a...				2002-02-02 02:02:02
+cui	source\options\optupdt.src	0	string	RID_SVXPAGE_ONLINEUPDATE	STR_NEVERCHECKED			34288	ns	Lekotšwe la mafelelo: Ga go sešo gwa dirwa				2002-02-02 02:02:02
+cui	source\options\optupdt.src	0	tabpage	RID_SVXPAGE_ONLINEUPDATE		HID_SVX_OPTIONS_ONLINEUPDATE		260	ns	Mpshafatšo ya inthaneteng				2002-02-02 02:02:02
+cui	source\tabpages\bbdlg.src	0	pageitem	RID_SVXDLG_BBDLG.1	RID_SVXPAGE_BORDER			50416	ns	Mellwane				2002-02-02 02:02:02
+cui	source\tabpages\bbdlg.src	0	pageitem	RID_SVXDLG_BBDLG.1	RID_SVXPAGE_BACKGROUND			50536	ns	Bokamorago				2002-02-02 02:02:02
+cui	source\tabpages\tabstpge.src	0	fixedline	RID_SVXPAGE_TABULATOR	FL_TABPOS			48	ns	Maemo				2002-02-02 02:02:02
+cui	source\tabpages\tabstpge.src	0	fixedline	RID_SVXPAGE_TABULATOR	FL_TABTYPE			138	ns	Mohuta				2002-02-02 02:02:02
+cui	source\tabpages\tabstpge.src	0	radiobutton	RID_SVXPAGE_TABULATOR	BTN_TABTYPE_LEFT			89	ns	~La nngele				2002-02-02 02:02:02
+cui	source\tabpages\tabstpge.src	0	radiobutton	RID_SVXPAGE_TABULATOR	BTN_TABTYPE_RIGHT			89	ns	La go j~a				2002-02-02 02:02:02
+cui	source\tabpages\tabstpge.src	0	fixedtext	RID_SVXPAGE_TABULATOR	FT_TABTYPE_DECCHAR			79	ns	~Tlhaka				2002-02-02 02:02:02
+cui	source\tabpages\tabstpge.src	0	radiobutton	RID_SVXPAGE_TABULATOR	BTN_FILLCHAR_NO			89	ns	Ga e g~ona				2002-02-02 02:02:02
+cui	source\tabpages\tabstpge.src	0	radiobutton	RID_SVXPAGE_TABULATOR	BTN_FILLCHAR_OTHER			89	ns	Tlhaka				2002-02-02 02:02:02
+cui	source\tabpages\tabstpge.src	0	pushbutton	RID_SVXPAGE_TABULATOR	BTN_NEW			50	ns	~Mpsha				2002-02-02 02:02:02
+cui	source\tabpages\tabstpge.src	0	pushbutton	RID_SVXPAGE_TABULATOR	BTN_DEL			50	ns	~Phumola				2002-02-02 02:02:02
+cui	source\tabpages\tabstpge.src	0	string	RID_SVXPAGE_TABULATOR	ST_LEFTTAB_ASIAN			25584	ns	~La nngele/godimo				2002-02-02 02:02:02
+cui	source\tabpages\tabstpge.src	0	string	RID_SVXPAGE_TABULATOR	ST_RIGHTTAB_ASIAN			25968	ns	La go j~a/tlase				2002-02-02 02:02:02
+cui	source\tabpages\transfrm.src	0	fixedline	RID_SVXPAGE_POSITION_SIZE	FL_POSITION			248	ns	Maemo				2002-02-02 02:02:02
+cui	source\tabpages\transfrm.src	0	fixedtext	RID_SVXPAGE_POSITION_SIZE	FT_POS_X			40	ns	Boemo bja ~X				2002-02-02 02:02:02
+cui	source\tabpages\transfrm.src	0	fixedtext	RID_SVXPAGE_POSITION_SIZE	FT_POS_Y			40	ns	Boemo bja ~Y				2002-02-02 02:02:02
+cui	source\tabpages\transfrm.src	0	fixedtext	RID_SVXPAGE_POSITION_SIZE	FT_POSREFERENCE			70	ns	Ntlha ya motheo				2002-02-02 02:02:02
+cui	source\tabpages\transfrm.src	0	control	RID_SVXPAGE_POSITION_SIZE	CTL_POSRECT	HID_TPPOSITION_CTRL		48	ns	-		Ntlha ya motheo		2002-02-02 02:02:02
+cui	source\tabpages\transfrm.src	0	fixedline	RID_SVXPAGE_POSITION_SIZE	FL_SIZE			248	ns	Bogolo				2002-02-02 02:02:02
+cui	source\tabpages\transfrm.src	0	fixedtext	RID_SVXPAGE_POSITION_SIZE	FT_WIDTH			40	ns	Bo~phara				2002-02-02 02:02:02
+cui	source\tabpages\transfrm.src	0	fixedtext	RID_SVXPAGE_POSITION_SIZE	FT_HEIGHT			40	ns	Boph~agamo				2002-02-02 02:02:02
+cui	source\tabpages\transfrm.src	0	fixedtext	RID_SVXPAGE_POSITION_SIZE	FT_SIZEREFERENCE			70	ns	Ntlha ya motheo				2002-02-02 02:02:02
+cui	source\tabpages\transfrm.src	0	control	RID_SVXPAGE_POSITION_SIZE	CTL_SIZERECT	HID_TPSIZE_CTRL		48	ns	-		Ntlha ya motheo		2002-02-02 02:02:02
+cui	source\tabpages\transfrm.src	0	checkbox	RID_SVXPAGE_POSITION_SIZE	CBX_SCALE			162	ns	~Boloka tekanyo				2002-02-02 02:02:02
+cui	source\tabpages\transfrm.src	0	fixedline	RID_SVXPAGE_POSITION_SIZE	FL_PROTECT			119	ns	Šireletša				2002-02-02 02:02:02
+cui	source\tabpages\transfrm.src	0	tristatebox	RID_SVXPAGE_POSITION_SIZE	TSB_POSPROTECT			113	ns	Maemo				2002-02-02 02:02:02
+cui	source\tabpages\transfrm.src	0	tristatebox	RID_SVXPAGE_POSITION_SIZE	TSB_SIZEPROTECT			113	ns	~Bogolo				2002-02-02 02:02:02
+cui	source\tabpages\transfrm.src	0	fixedline	RID_SVXPAGE_POSITION_SIZE	FL_ADJUST			119	ns	Amantšha				2002-02-02 02:02:02
+cui	source\tabpages\transfrm.src	0	tristatebox	RID_SVXPAGE_POSITION_SIZE	TSB_AUTOGROW_WIDTH			113	ns	~Lekantšha bophara le sengwalwa				2002-02-02 02:02:02
+cui	source\tabpages\transfrm.src	0	fixedline	RID_SVXPAGE_POSITION_SIZE	FL_ANCHOR			119	ns	Ankora				2002-02-02 02:02:02
+cui	source\tabpages\transfrm.src	0	stringlist	RID_SVXPAGE_POSITION_SIZE.LB_ANCHOR	1			0	ns	Go temana				2002-02-02 02:02:02
+cui	source\tabpages\transfrm.src	0	stringlist	RID_SVXPAGE_POSITION_SIZE.LB_ANCHOR	2			0	ns	Bjalo ka tlhaka				2002-02-02 02:02:02
+cui	source\tabpages\transfrm.src	0	stringlist	RID_SVXPAGE_POSITION_SIZE.LB_ANCHOR	3			0	ns	Go letlakala				2002-02-02 02:02:02
+cui	source\tabpages\transfrm.src	0	stringlist	RID_SVXPAGE_POSITION_SIZE.LB_ANCHOR	4			0	ns	Go foreimi				2002-02-02 02:02:02
+cui	source\tabpages\transfrm.src	0	stringlist	RID_SVXPAGE_POSITION_SIZE.LB_ORIENT	1			0	ns	Go tloga godimo				2002-02-02 02:02:02
+cui	source\tabpages\transfrm.src	0	stringlist	RID_SVXPAGE_POSITION_SIZE.LB_ORIENT	2			0	ns	Godimo				2002-02-02 02:02:02
+cui	source\tabpages\transfrm.src	0	stringlist	RID_SVXPAGE_POSITION_SIZE.LB_ORIENT	3			0	ns	Beilwe gare				2002-02-02 02:02:02
+cui	source\tabpages\transfrm.src	0	stringlist	RID_SVXPAGE_POSITION_SIZE.LB_ORIENT	4			0	ns	Tlase				2002-02-02 02:02:02
+cui	source\tabpages\transfrm.src	0	stringlist	RID_SVXPAGE_POSITION_SIZE.LB_ORIENT	5			0	ns	Godimo ga tlhaka				2002-02-02 02:02:02
+cui	source\tabpages\transfrm.src	0	stringlist	RID_SVXPAGE_POSITION_SIZE.LB_ORIENT	6			0	ns	Bogareng bja tlhaka				2002-02-02 02:02:02
+cui	source\tabpages\transfrm.src	0	stringlist	RID_SVXPAGE_POSITION_SIZE.LB_ORIENT	7			0	ns	Tlase ga tlhaka				2002-02-02 02:02:02
+cui	source\tabpages\transfrm.src	0	stringlist	RID_SVXPAGE_POSITION_SIZE.LB_ORIENT	8			0	ns	Godimo ga mothaladi				2002-02-02 02:02:02
+cui	source\tabpages\transfrm.src	0	stringlist	RID_SVXPAGE_POSITION_SIZE.LB_ORIENT	9			0	ns	Bogareng bja mothaladi				2002-02-02 02:02:02
+cui	source\tabpages\transfrm.src	0	stringlist	RID_SVXPAGE_POSITION_SIZE.LB_ORIENT	10			0	ns	Tlase ga mothaladi				2002-02-02 02:02:02
+cui	source\tabpages\transfrm.src	0	tabpage	RID_SVXPAGE_POSITION_SIZE		HID_TRANS_POSITION_SIZE		260	ns	Boemo le bogolo				2002-02-02 02:02:02
+cui	source\tabpages\transfrm.src	0	fixedline	RID_SVXPAGE_ANGLE	FL_POSITION			248	ns	Ntlha ya go dikološa				2002-02-02 02:02:02
+cui	source\tabpages\transfrm.src	0	fixedtext	RID_SVXPAGE_ANGLE	FT_POS_X			40	ns	Boemo bja ~X				2002-02-02 02:02:02
+cui	source\tabpages\transfrm.src	0	fixedtext	RID_SVXPAGE_ANGLE	FT_POS_Y			40	ns	Boemo bja ~Y				2002-02-02 02:02:02
+cui	source\tabpages\transfrm.src	0	fixedtext	RID_SVXPAGE_ANGLE	FT_POSPRESETS			70	ns	Dipeakanyo tša tirelwa				2002-02-02 02:02:02
+cui	source\tabpages\transfrm.src	0	control	RID_SVXPAGE_ANGLE	CTL_RECT	HID_TPROTATION_CTRL1		70	ns	-		Ntlha ya go dikologa		2002-02-02 02:02:02
+cui	source\tabpages\transfrm.src	0	fixedtext	RID_SVXPAGE_ANGLE	FT_ANGLE			40	ns	~Khutlo				2002-02-02 02:02:02
+cui	source\tabpages\transfrm.src	0	metricfield	RID_SVXPAGE_ANGLE	MTR_FLD_ANGLE			54	ns	 ditikrii				2002-02-02 02:02:02
+cui	source\tabpages\transfrm.src	0	fixedtext	RID_SVXPAGE_ANGLE	FT_ANGLEPRESETS			70	ns	Dipeakanyo tša tirelwa				2002-02-02 02:02:02
+cui	source\tabpages\transfrm.src	0	control	RID_SVXPAGE_ANGLE	CTL_ANGLE	HID_TPROTATION_CTRL2		70	ns	-		Rotation Angle		2002-02-02 02:02:02
+cui	source\tabpages\transfrm.src	0	fixedline	RID_SVXPAGE_SLANT	FL_SLANT			248	ns	Sekamiša				2002-02-02 02:02:02
+cui	source\tabpages\transfrm.src	0	fixedtext	RID_SVXPAGE_SLANT	FT_ANGLE			40	ns	~Khutlo				2002-02-02 02:02:02
+cui	source\tabpages\transfrm.src	0	metricfield	RID_SVXPAGE_SLANT	MTR_FLD_ANGLE			54	ns	 ditikrii				2002-02-02 02:02:02
+cui	source\tabpages\transfrm.src	0	tabpage	RID_SVXPAGE_SLANT		HID_TRANS_SLANT		260	ns	Sekamiša & sedikiši sa sekhutlwana				2002-02-02 02:02:02
+cui	source\tabpages\transfrm.src	0	#define	_POS_SIZE_TEXT				62648	ns	Boemo le bogolo				2002-02-02 02:02:02
+cui	source\tabpages\transfrm.src	0	pageitem	RID_SVXDLG_TRANSFORM.TAB_CONTROL	RID_SVXPAGE_SLANT			62448	ns	Sekamiša & sedikiši sa sekhutlwana				2002-02-02 02:02:02
+cui	source\tabpages\transfrm.src	0	tabdialog	RID_SVXDLG_TRANSFORM				289	ns	Boemo le bogolo				2002-02-02 02:02:02
+cui	source\tabpages\dstribut.src	0	fixedline	RID_SVXPAGE_DISTRIBUTE	FL_HORIZONTAL			248	ns	Rapamego				2002-02-02 02:02:02
+cui	source\tabpages\dstribut.src	0	radiobutton	RID_SVXPAGE_DISTRIBUTE	BTN_HOR_LEFT			45	ns	~La nngele				2002-02-02 02:02:02
+cui	source\tabpages\dstribut.src	0	radiobutton	RID_SVXPAGE_DISTRIBUTE	BTN_HOR_CENTER			45	ns	~Bogareng				2002-02-02 02:02:02
+cui	source\tabpages\dstribut.src	0	radiobutton	RID_SVXPAGE_DISTRIBUTE	BTN_HOR_DISTANCE			45	ns	~Katoganyo				2002-02-02 02:02:02
+cui	source\tabpages\dstribut.src	0	radiobutton	RID_SVXPAGE_DISTRIBUTE	BTN_HOR_RIGHT			45	ns	~La go ja				2002-02-02 02:02:02
+cui	source\tabpages\dstribut.src	0	fixedline	RID_SVXPAGE_DISTRIBUTE	FL_VERTICAL			248	ns	Tsepamego				2002-02-02 02:02:02
+cui	source\tabpages\dstribut.src	0	radiobutton	RID_SVXPAGE_DISTRIBUTE	BTN_VER_NONE			46	ns	Ga e g~ona				2002-02-02 02:02:02
+cui	source\tabpages\dstribut.src	0	radiobutton	RID_SVXPAGE_DISTRIBUTE	BTN_VER_TOP			45	ns	~Godimo				2002-02-02 02:02:02
+cui	source\tabpages\dstribut.src	0	radiobutton	RID_SVXPAGE_DISTRIBUTE	BTN_VER_CENTER			45	ns	Bogar~eng				2002-02-02 02:02:02
+cui	source\tabpages\dstribut.src	0	radiobutton	RID_SVXPAGE_DISTRIBUTE	BTN_VER_BOTTOM			45	ns	~Tlase				2002-02-02 02:02:02
+cui	source\tabpages\connect.src	0	fixedtext	RID_SVXPAGE_CONNECTION	FT_TYPE			25	ns	~Mohuta				2002-02-02 02:02:02
+cui	source\tabpages\connect.src	0	fixedline	RID_SVXPAGE_CONNECTION	FL_DISTANCE			120	ns	Katoganyo ya methaladi				2002-02-02 02:02:02
+cui	source\tabpages\connect.src	0	control	RID_SVXPAGE_CONNECTION	CTL_PREVIEW	HID_PAGE_CONNECTION_CTL_PREVIEW		118	ns	-		Ponelopele		2002-02-02 02:02:02
+cui	source\tabpages\border.src	0	fixedtext	RID_SVXPAGE_BORDER	FT_DEFAULT			64	ns	~Tirelwa				2002-02-02 02:02:02
+cui	source\tabpages\border.src	0	fixedline	RID_SVXPAGE_BORDER	FL_LINE			83	ns	Mothaladi				2002-02-02 02:02:02
+cui	source\tabpages\border.src	0	fixedtext	RID_SVXPAGE_BORDER	FT_STYLE			77	ns	Se~taele				2002-02-02 02:02:02
+cui	source\tabpages\border.src	0	fixedtext	RID_SVXPAGE_BORDER	FT_COLOR			77	ns	~Mmala				2002-02-02 02:02:02
+cui	source\tabpages\border.src	0	fixedtext	RID_SVXPAGE_BORDER	FT_LEFT			34	ns	~La nngele				2002-02-02 02:02:02
+cui	source\tabpages\border.src	0	fixedtext	RID_SVXPAGE_BORDER	FT_RIGHT			34	ns	La go ja				2002-02-02 02:02:02
+cui	source\tabpages\border.src	0	fixedtext	RID_SVXPAGE_BORDER	FT_TOP			34	ns	~Godimo				2002-02-02 02:02:02
+cui	source\tabpages\border.src	0	fixedtext	RID_SVXPAGE_BORDER	FT_BOTTOM			34	ns	~Tlase				2002-02-02 02:02:02
+cui	source\tabpages\border.src	0	checkbox	RID_SVXPAGE_BORDER	CB_SYNC			74	ns	Kwantšha				2002-02-02 02:02:02
+cui	source\tabpages\border.src	0	fixedtext	RID_SVXPAGE_BORDER	FT_SHADOWPOS			74	ns	~Maemo				2002-02-02 02:02:02
+cui	source\tabpages\border.src	0	fixedtext	RID_SVXPAGE_BORDER	FT_SHADOWCOLOR			60	ns	M~mala				2002-02-02 02:02:02
+cui	source\tabpages\border.src	0	fixedline	RID_SVXPAGE_BORDER	FL_PROPERTIES			248	ns	Diteng				2002-02-02 02:02:02
+cui	source\tabpages\border.src	0	checkbox	RID_SVXPAGE_BORDER	CB_MERGEWITHNEXT			242	ns	~Kopanya le serapa se latelago				2002-02-02 02:02:02
+cui	source\tabpages\border.src	0	checkbox	RID_SVXPAGE_BORDER	CB_MERGEADJACENTBORDERS			242	ns	~Kopanya ditaele tša mothaladi e bapilego				2002-02-02 02:02:02
+cui	source\tabpages\border.src	0	tabpage	RID_SVXPAGE_BORDER		HID_BORDER		260	ns	Mellwane				2002-02-02 02:02:02
+cui	source\tabpages\border.src	0	string	RID_SVXSTR_SHADOW_STYLE_NONE				25584	ns	Ga go na moriti				2002-02-02 02:02:02
+cui	source\tabpages\swpossizetabpage.src	0	fixedline	RID_SVXPAGE_SWPOSSIZE	FL_SIZE			104	ns	Bogolo				2002-02-02 02:02:02
+cui	source\tabpages\swpossizetabpage.src	0	fixedtext	RID_SVXPAGE_SWPOSSIZE	FT_WIDTH			43	ns	~Bophara				2002-02-02 02:02:02
+cui	source\tabpages\swpossizetabpage.src	0	fixedtext	RID_SVXPAGE_SWPOSSIZE	FT_HEIGHT			43	ns	Boph~agamo				2002-02-02 02:02:02
+cui	source\tabpages\swpossizetabpage.src	0	checkbox	RID_SVXPAGE_SWPOSSIZE	CB_KEEPRATIO			95	ns	~Boloka tekanyo				2002-02-02 02:02:02
+cui	source\tabpages\swpossizetabpage.src	0	fixedline	RID_SVXPAGE_SWPOSSIZE	FL_ANCHOR			80	ns	Ankora				2002-02-02 02:02:02
+cui	source\tabpages\swpossizetabpage.src	0	radiobutton	RID_SVXPAGE_SWPOSSIZE	RB_TOPAGE			70	ns	Go ~letlakala				2002-02-02 02:02:02
+cui	source\tabpages\swpossizetabpage.src	0	radiobutton	RID_SVXPAGE_SWPOSSIZE	RB_TOPARA			70	ns	Go tema~na				2002-02-02 02:02:02
+cui	source\tabpages\swpossizetabpage.src	0	radiobutton	RID_SVXPAGE_SWPOSSIZE	RB_TOCHAR			70	ns	Go tlha~ka				2002-02-02 02:02:02
+cui	source\tabpages\swpossizetabpage.src	0	fixedline	RID_SVXPAGE_SWPOSSIZE	FL_PROTECTION			248	ns	Šireletša				2002-02-02 02:02:02
+cui	source\tabpages\swpossizetabpage.src	0	tristatebox	RID_SVXPAGE_SWPOSSIZE	CB_POSITION			113	ns	Maemo				2002-02-02 02:02:02
+cui	source\tabpages\swpossizetabpage.src	0	tristatebox	RID_SVXPAGE_SWPOSSIZE	CB_SIZE			113	ns	~Bogolo				2002-02-02 02:02:02
+cui	source\tabpages\swpossizetabpage.src	0	fixedline	RID_SVXPAGE_SWPOSSIZE	FL_POSITION			248	ns	Maemo				2002-02-02 02:02:02
+cui	source\tabpages\swpossizetabpage.src	0	fixedtext	RID_SVXPAGE_SWPOSSIZE	FT_HORI			35	ns	Rapa~mego				2002-02-02 02:02:02
+cui	source\tabpages\swpossizetabpage.src	0	fixedtext	RID_SVXPAGE_SWPOSSIZE	FT_HORIBY			20	ns	k~a				2002-02-02 02:02:02
+cui	source\tabpages\swpossizetabpage.src	0	fixedtext	RID_SVXPAGE_SWPOSSIZE	FT_VERT			35	ns	~Tsepamego				2002-02-02 02:02:02
+cui	source\tabpages\swpossizetabpage.src	0	fixedtext	RID_SVXPAGE_SWPOSSIZE	FT_VERTBY			20	ns	ka				2002-02-02 02:02:02
+cui	source\tabpages\swpossizetabpage.src	0	tabpage	RID_SVXPAGE_SWPOSSIZE		HID_SVXPAGE_SWPOSSIZE		260	ns	Boemo le bogolo				2002-02-02 02:02:02
+cui	source\tabpages\align.src	0	fixedtext	RID_SVXPAGE_ALIGNMENT	FT_HORALIGN			100	ns	Rapa~mego				2002-02-02 02:02:02
+cui	source\tabpages\align.src	0	stringlist	RID_SVXPAGE_ALIGNMENT.LB_HORALIGN	1			0	ns	Tirelwa				2002-02-02 02:02:02
+cui	source\tabpages\align.src	0	stringlist	RID_SVXPAGE_ALIGNMENT.LB_HORALIGN	2			0	ns	La nngele				2002-02-02 02:02:02
+cui	source\tabpages\align.src	0	stringlist	RID_SVXPAGE_ALIGNMENT.LB_HORALIGN	4			0	ns	La go ja				2002-02-02 02:02:02
+cui	source\tabpages\align.src	0	stringlist	RID_SVXPAGE_ALIGNMENT.LB_HORALIGN	5			0	ns	Lokafaditšwe				2002-02-02 02:02:02
+cui	source\tabpages\align.src	0	stringlist	RID_SVXPAGE_ALIGNMENT.LB_HORALIGN	6			0	ns	Tladitšwe				2002-02-02 02:02:02
+cui	source\tabpages\align.src	0	fixedtext	RID_SVXPAGE_ALIGNMENT	FT_VERALIGN			88	ns	~Tsepamego				2002-02-02 02:02:02
+cui	source\tabpages\align.src	0	stringlist	RID_SVXPAGE_ALIGNMENT.LB_VERALIGN	1			0	ns	Tirelwa				2002-02-02 02:02:02
+cui	source\tabpages\align.src	0	stringlist	RID_SVXPAGE_ALIGNMENT.LB_VERALIGN	2			0	ns	Godimo				2002-02-02 02:02:02
+cui	source\tabpages\align.src	0	stringlist	RID_SVXPAGE_ALIGNMENT.LB_VERALIGN	3			0	ns	Magareng				2002-02-02 02:02:02
+cui	source\tabpages\align.src	0	stringlist	RID_SVXPAGE_ALIGNMENT.LB_VERALIGN	4			0	ns	Tlase				2002-02-02 02:02:02
+cui	source\tabpages\align.src	0	fixedline	RID_SVXPAGE_ALIGNMENT	FL_ORIENTATION			248	ns	Thulaganyo ya sengwalwa				2002-02-02 02:02:02
+cui	source\tabpages\align.src	0	fixedtext	RID_SVXPAGE_ALIGNMENT	FT_BORDER_LOCK			70	ns	Ntlha ya tšhu~petšo				2002-02-02 02:02:02
+cui	source\tabpages\align.src	0	fixedline	RID_SVXPAGE_ALIGNMENT	FL_WRAP			248	ns	Diteng				2002-02-02 02:02:02
+cui	source\tabpages\align.src	0	tabpage	RID_SVXPAGE_ALIGNMENT		HID_ALIGNMENT		260	ns	Tsepanyo				2002-02-02 02:02:02
+cui	source\tabpages\tabline.src	0	fixedtext	RID_SVXPAGE_LINE	FT_LINE_STYLE			100	ns	~Setaele				2002-02-02 02:02:02
+cui	source\tabpages\tabline.src	0	fixedtext	RID_SVXPAGE_LINE	FT_COLOR			100	ns	Mma~la				2002-02-02 02:02:02
+cui	source\tabpages\tabline.src	0	fixedtext	RID_SVXPAGE_LINE	FT_LINE_WIDTH			100	ns	~Bophara				2002-02-02 02:02:02
+cui	source\tabpages\tabline.src	0	fixedtext	RID_SVXPAGE_LINE	FT_TRANSPARENT			100	ns	~Ponagatšo				2002-02-02 02:02:02
+cui	source\tabpages\tabline.src	0	fixedline	RID_SVXPAGE_LINE	FL_LINE_ENDS			130	ns	Ditaele tša mosebe				2002-02-02 02:02:02
+cui	source\tabpages\tabline.src	0	fixedtext	RID_SVXPAGE_LINE	FT_LINE_ENDS_STYLE			118	ns	Se~taele				2002-02-02 02:02:02
+cui	source\tabpages\tabline.src	0	fixedtext	RID_SVXPAGE_LINE	FT_LINE_ENDS_WIDTH			118	ns	Bo~phara				2002-02-02 02:02:02
+cui	source\tabpages\tabline.src	0	tristatebox	RID_SVXPAGE_LINE	TSB_CENTER_END			57	ns	Bogar~eng				2002-02-02 02:02:02
+cui	source\tabpages\tabline.src	0	checkbox	RID_SVXPAGE_LINE	CBX_SYNCHRONIZE			118	ns	~Kwantšha mafelelo				2002-02-02 02:02:02
+cui	source\tabpages\tabline.src	0	fixedline	RID_SVXPAGE_LINE	FL_EDGE_STYLE			130	ns	Setaele sa sekhutlwana				2002-02-02 02:02:02
+cui	source\tabpages\tabline.src	0	fixedtext	RID_SVXPAGE_LINE	FT_EDGE_STYLE			118	ns	Setae~le				2002-02-02 02:02:02
+cui	source\tabpages\tabline.src	0	stringlist	RID_SVXPAGE_LINE.LB_EDGE_STYLE	1			0	ns	Dikologilwego				2002-02-02 02:02:02
+cui	source\tabpages\tabline.src	0	stringlist	RID_SVXPAGE_LINE.LB_EDGE_STYLE	3			0	ns	Swantšhitšwe				2002-02-02 02:02:02
+cui	source\tabpages\tabline.src	0	stringlist	RID_SVXPAGE_LINE.LB_EDGE_STYLE	4			0	ns	Kobilwego				2002-02-02 02:02:02
+cui	source\tabpages\tabline.src	0	fixedline	RID_SVXPAGE_LINE	FL_SYMBOL_FORMAT			130	ns	Aekhone				2002-02-02 02:02:02
+cui	source\tabpages\tabline.src	0	menuitem	RID_SVXPAGE_LINE.MB_SYMBOL_BITMAP	MN_SYMBOLS_AUTO			5304	ns	Boitirišo				2002-02-02 02:02:02
+cui	source\tabpages\tabline.src	0	menuitem	RID_SVXPAGE_LINE.MB_SYMBOL_BITMAP	MN_GRAPHIC_DLG			5104	ns	Go tšwa faeleng...				2002-02-02 02:02:02
+cui	source\tabpages\tabline.src	0	menuitem	RID_SVXPAGE_LINE.MB_SYMBOL_BITMAP	MN_GALLERY			5104	ns	Bobolokela-diswantšho				2002-02-02 02:02:02
+cui	source\tabpages\tabline.src	0	menuitem	RID_SVXPAGE_LINE.MB_SYMBOL_BITMAP	MN_SYMBOLS			5304	ns	Maswao				2002-02-02 02:02:02
+cui	source\tabpages\tabline.src	0	menubutton	RID_SVXPAGE_LINE	MB_SYMBOL_BITMAP			50	ns	Kgetha...				2002-02-02 02:02:02
+cui	source\tabpages\tabline.src	0	fixedtext	RID_SVXPAGE_LINE	FT_SYMBOL_WIDTH			57	ns	Bophara				2002-02-02 02:02:02
+cui	source\tabpages\tabline.src	0	fixedtext	RID_SVXPAGE_LINE	FT_SYMBOL_HEIGHT			57	ns	Bophagamo				2002-02-02 02:02:02
+cui	source\tabpages\tabline.src	0	checkbox	RID_SVXPAGE_LINE	CB_SYMBOL_RATIO			118	ns	Boloka tekanyo				2002-02-02 02:02:02
+cui	source\tabpages\tabline.src	0	tabpage	RID_SVXPAGE_LINE		HID_LINE_LINE		260	ns	Methaladi				2002-02-02 02:02:02
+cui	source\tabpages\tabline.src	0	fixedline	RID_SVXPAGE_LINE_DEF	FL_DEFINITION			248	ns	Diteng				2002-02-02 02:02:02
+cui	source\tabpages\tabline.src	0	fixedtext	RID_SVXPAGE_LINE_DEF	FT_TYPE			52	ns	Mohu~ta				2002-02-02 02:02:02
+cui	source\tabpages\tabline.src	0	stringlist	RID_SVXPAGE_LINE_DEF.LB_TYPE_1	1			0	ns	Khutlo				2002-02-02 02:02:02
+cui	source\tabpages\tabline.src	0	stringlist	RID_SVXPAGE_LINE_DEF.LB_TYPE_1	2			0	ns	Mothalwana				2002-02-02 02:02:02
+cui	source\tabpages\tabline.src	0	stringlist	RID_SVXPAGE_LINE_DEF.LB_TYPE_2	1			0	ns	Khutlo				2002-02-02 02:02:02
+cui	source\tabpages\tabline.src	0	stringlist	RID_SVXPAGE_LINE_DEF.LB_TYPE_2	2			0	ns	Mothalwana				2002-02-02 02:02:02
+cui	source\tabpages\tabline.src	0	fixedtext	RID_SVXPAGE_LINE_DEF	FT_NUMBER			52	ns	~Nomoro				2002-02-02 02:02:02
+cui	source\tabpages\tabline.src	0	fixedtext	RID_SVXPAGE_LINE_DEF	FT_LENGTH			52	ns	~Botelele				2002-02-02 02:02:02
+cui	source\tabpages\tabline.src	0	fixedtext	RID_SVXPAGE_LINE_DEF	FT_DISTANCE			52	ns	~Katoganyo				2002-02-02 02:02:02
+cui	source\tabpages\tabline.src	0	fixedtext	RID_SVXPAGE_LINE_DEF	FT_LINESTYLE			52	ns	Setaele sa mothaladi				2002-02-02 02:02:02
+cui	source\tabpages\tabline.src	0	pushbutton	RID_SVXPAGE_LINE_DEF	BTN_ADD			50	ns	~Oketša...				2002-02-02 02:02:02
+cui	source\tabpages\tabline.src	0	pushbutton	RID_SVXPAGE_LINE_DEF	BTN_MODIFY			50	ns	~Fetoša...				2002-02-02 02:02:02
+cui	source\tabpages\tabline.src	0	pushbutton	RID_SVXPAGE_LINE_DEF	BTN_DELETE			50	ns	~Phumola...				2002-02-02 02:02:02
+cui	source\tabpages\tabline.src	0	imagebutton	RID_SVXPAGE_LINE_DEF	BTN_LOAD			16	ns	-		Load Line Styles		2002-02-02 02:02:02
+cui	source\tabpages\tabline.src	0	imagebutton	RID_SVXPAGE_LINE_DEF	BTN_SAVE			16	ns	-		Save Line Styles		2002-02-02 02:02:02
+cui	source\tabpages\tabline.src	0	fixedline	RID_SVXPAGE_LINEEND_DEF	FL_TIP			248	ns	Beakanya ditaele tša mosebe				2002-02-02 02:02:02
+cui	source\tabpages\tabline.src	0	fixedtext	RID_SVXPAGE_LINEEND_DEF	FT_LINE_END_STYLE			84	ns	Setaele sa mosebe				2002-02-02 02:02:02
+cui	source\tabpages\tabline.src	0	pushbutton	RID_SVXPAGE_LINEEND_DEF	BTN_ADD			50	ns	~Oketša...				2002-02-02 02:02:02
+cui	source\tabpages\tabline.src	0	pushbutton	RID_SVXPAGE_LINEEND_DEF	BTN_MODIFY			50	ns	~Fetoša...				2002-02-02 02:02:02
+cui	source\tabpages\tabline.src	0	pushbutton	RID_SVXPAGE_LINEEND_DEF	BTN_DELETE			50	ns	~Phumola...				2002-02-02 02:02:02
+cui	source\tabpages\tabline.src	0	imagebutton	RID_SVXPAGE_LINEEND_DEF	BTN_LOAD			16	ns	-		Load Arrow Styles		2002-02-02 02:02:02
+cui	source\tabpages\tabline.src	0	imagebutton	RID_SVXPAGE_LINEEND_DEF	BTN_SAVE			16	ns	-		Save Arrow Styles		2002-02-02 02:02:02
+cui	source\tabpages\tabline.src	0	tabpage	RID_SVXPAGE_LINEEND_DEF		HID_LINE_ENDDEF		260	ns	Dihlogo tša mosebe				2002-02-02 02:02:02
+cui	source\tabpages\tabline.src	0	pageitem	RID_SVXDLG_LINE.TAB_CONTROL	RID_SVXPAGE_LINE			5544	ns	Mothaladi				2002-02-02 02:02:02
+cui	source\tabpages\tabline.src	0	pageitem	RID_SVXDLG_LINE.TAB_CONTROL	RID_SVXPAGE_SHADOW			5104	ns	Moriti				2002-02-02 02:02:02
+cui	source\tabpages\tabline.src	0	tabdialog	RID_SVXDLG_LINE				289	ns	Mothaladi				2002-02-02 02:02:02
+cui	source\tabpages\textattr.src	0	fixedline	RID_SVXPAGE_TEXTATTR	FL_TEXT			248	ns	Sengwalwa				2002-02-02 02:02:02
+cui	source\tabpages\textattr.src	0	tristatebox	RID_SVXPAGE_TEXTATTR	TSB_WORDWRAP_TEXT			127	ns	~Lentšu le phuthela sengwalwa ka sebopego				2002-02-02 02:02:02
+cui	source\tabpages\textattr.src	0	tristatebox	RID_SVXPAGE_TEXTATTR	TSB_AUTOGROW_SIZE			127	ns	~Dira bogolo bja sebopego gape gore go lekane le sengwalwa				2002-02-02 02:02:02
+cui	source\tabpages\textattr.src	0	fixedline	RID_SVXPAGE_TEXTATTR	FL_DISTANCE			114	ns	Sekgoba go mellwane				2002-02-02 02:02:02
+cui	source\tabpages\textattr.src	0	fixedtext	RID_SVXPAGE_TEXTATTR	FT_LEFT			50	ns	~La nngele				2002-02-02 02:02:02
+cui	source\tabpages\textattr.src	0	fixedtext	RID_SVXPAGE_TEXTATTR	FT_RIGHT			50	ns	~La go ja				2002-02-02 02:02:02
+cui	source\tabpages\textattr.src	0	fixedtext	RID_SVXPAGE_TEXTATTR	FT_TOP			50	ns	~Godimo				2002-02-02 02:02:02
+cui	source\tabpages\textattr.src	0	fixedtext	RID_SVXPAGE_TEXTATTR	FT_BOTTOM			50	ns	~Tlase				2002-02-02 02:02:02
+cui	source\tabpages\textattr.src	0	tabpage	RID_SVXPAGE_TEXTATTR		HID_PAGE_TEXTATTR		260	ns	Sengwalwa				2002-02-02 02:02:02
+cui	source\tabpages\macroass.src	0	string	RID_SVXPAGE_EVENTASSIGN	STR_EVENT			21488	ns	Tiragalo				2002-02-02 02:02:02
+cui	source\tabpages\macroass.src	0	string	RID_SVXPAGE_EVENTASSIGN	STR_ASSMACRO			21712	ns	Makhro e abetšwego				2002-02-02 02:02:02
+cui	source\tabpages\macroass.src	0	fixedtext	RID_SVXPAGE_EVENTASSIGN	FT_LABEL4LB_MACROS			0	ns	~Dimakhro tšeo di šetšego di le gona go:\n				2002-02-02 02:02:02
+cui	source\tabpages\macroass.src	0	pushbutton	RID_SVXPAGE_EVENTASSIGN	PB_ASSIGN			0	ns	~Abela				2002-02-02 02:02:02
+cui	source\tabpages\macroass.src	0	pushbutton	RID_SVXPAGE_EVENTASSIGN	PB_DELETE			0	ns	~Tloša				2002-02-02 02:02:02
+cui	source\tabpages\numpages.src	0	fixedline	RID_SVXPAGE_PICK_BULLET	FL_VALUES			248	ns	Kgetho				2002-02-02 02:02:02
+cui	source\tabpages\numpages.src	0	fixedline	RID_SVXPAGE_PICK_SINGLE_NUM	FL_VALUES			248	ns	Kgetho				2002-02-02 02:02:02
+cui	source\tabpages\numpages.src	0	fixedline	RID_SVXPAGE_PICK_NUM	FL_VALUES			248	ns	Kgetho				2002-02-02 02:02:02
+cui	source\tabpages\numpages.src	0	fixedline	RID_SVXPAGE_PICK_BMP	FL_VALUES			248	ns	Kgetho				2002-02-02 02:02:02
+cui	source\tabpages\numpages.src	0	fixedtext	RID_SVXPAGE_NUM_OPTIONS	FT_LEVEL			50	ns	Mogato				2002-02-02 02:02:02
+cui	source\tabpages\numpages.src	0	stringlist	RID_SVXPAGE_NUM_OPTIONS.LB_FMT	1			0	ns	1, 2, 3, ... 				2002-02-02 02:02:02
+cui	source\tabpages\numpages.src	0	stringlist	RID_SVXPAGE_NUM_OPTIONS.LB_FMT	2			0	ns	A, B, C, ... 				2002-02-02 02:02:02
+cui	source\tabpages\numpages.src	0	stringlist	RID_SVXPAGE_NUM_OPTIONS.LB_FMT	3			0	ns	a, b, c, ...				2002-02-02 02:02:02
+cui	source\tabpages\numpages.src	0	stringlist	RID_SVXPAGE_NUM_OPTIONS.LB_FMT	4			0	ns	I, II, III, ... 				2002-02-02 02:02:02
+cui	source\tabpages\numpages.src	0	stringlist	RID_SVXPAGE_NUM_OPTIONS.LB_FMT	5			0	ns	i, ii, iii, ... 				2002-02-02 02:02:02
+cui	source\tabpages\numpages.src	0	stringlist	RID_SVXPAGE_NUM_OPTIONS.LB_FMT	6			0	ns	A, .., AA, .., AAA, ... 				2002-02-02 02:02:02
+cui	source\tabpages\numpages.src	0	stringlist	RID_SVXPAGE_NUM_OPTIONS.LB_FMT	9			0	ns	Dikrafiki				2002-02-02 02:02:02
+cui	source\tabpages\numpages.src	0	stringlist	RID_SVXPAGE_NUM_OPTIONS.LB_FMT	11			0	ns	Ga di gona				2002-02-02 02:02:02
+cui	source\tabpages\numpages.src	0	stringlist	RID_SVXPAGE_NUM_OPTIONS.LB_FMT	12			0	ns	Nomorofatšo ya tlholego				2002-02-02 02:02:02
+cui	source\tabpages\numpages.src	0	stringlist	RID_SVXPAGE_NUM_OPTIONS.LB_FMT	13			0	ns	А, Б, .., Аа, Аб, ... (Se-Bulgaria)				2002-02-02 02:02:02
+cui	source\tabpages\numpages.src	0	stringlist	RID_SVXPAGE_NUM_OPTIONS.LB_FMT	14			0	ns	а, б, .., аа, аб, ... (Se-Bulgaria)				2002-02-02 02:02:02
+cui	source\tabpages\numpages.src	0	stringlist	RID_SVXPAGE_NUM_OPTIONS.LB_FMT	15			0	ns	А, Б, .., Аа, Бб, ... (Se-Bulgaria)				2002-02-02 02:02:02
+cui	source\tabpages\numpages.src	0	stringlist	RID_SVXPAGE_NUM_OPTIONS.LB_FMT	16			0	ns	а, б, .., аа, бб, ... (Se-Bulgaria)				2002-02-02 02:02:02
+cui	source\tabpages\numpages.src	0	stringlist	RID_SVXPAGE_NUM_OPTIONS.LB_FMT	17			0	ns	А, Б, .., Аа, Аб, ... (Se-Russia)				2002-02-02 02:02:02
+cui	source\tabpages\numpages.src	0	stringlist	RID_SVXPAGE_NUM_OPTIONS.LB_FMT	18			0	ns	а, б, .., аа, аб, ... (Se-Russia)				2002-02-02 02:02:02
+cui	source\tabpages\numpages.src	0	stringlist	RID_SVXPAGE_NUM_OPTIONS.LB_FMT	19			0	ns	А, Б, .., Аа, Бб, ... (Se-Russia)				2002-02-02 02:02:02
+cui	source\tabpages\numpages.src	0	stringlist	RID_SVXPAGE_NUM_OPTIONS.LB_FMT	20			0	ns	а, б, .., аа, бб, ... (Se-Russia)				2002-02-02 02:02:02
+cui	source\tabpages\numpages.src	0	stringlist	RID_SVXPAGE_NUM_OPTIONS.LB_FMT	21			0	ns	А, Б, .., Аа, Аб, ... (Se-Serbia)				2002-02-02 02:02:02
+cui	source\tabpages\numpages.src	0	stringlist	RID_SVXPAGE_NUM_OPTIONS.LB_FMT	22			0	ns	а, б, .., аа, аб, ... (Se-Serbia)				2002-02-02 02:02:02
+cui	source\tabpages\numpages.src	0	stringlist	RID_SVXPAGE_NUM_OPTIONS.LB_FMT	23			0	ns	А, Б, .., Аа, Бб, ... (Se-Serbia)				2002-02-02 02:02:02
+cui	source\tabpages\numpages.src	0	stringlist	RID_SVXPAGE_NUM_OPTIONS.LB_FMT	24			0	ns	а, б, .., аа, бб, ... (Se-Serbia)				2002-02-02 02:02:02
+cui	source\tabpages\numpages.src	0	fixedtext	RID_SVXPAGE_NUM_OPTIONS	FT_PREFIX			50	ns	Pele				2002-02-02 02:02:02
+cui	source\tabpages\numpages.src	0	fixedtext	RID_SVXPAGE_NUM_OPTIONS	FT_SUFFIX			50	ns	Ka morago				2002-02-02 02:02:02
+cui	source\tabpages\numpages.src	0	fixedtext	RID_SVXPAGE_NUM_OPTIONS	FT_BUL_COLOR			50	ns	Mmala				2002-02-02 02:02:02
+cui	source\tabpages\numpages.src	0	fixedtext	RID_SVXPAGE_NUM_OPTIONS	FT_ALIGN			50	ns	Tsep~anyo				2002-02-02 02:02:02
+cui	source\tabpages\numpages.src	0	stringlist	RID_SVXPAGE_NUM_OPTIONS.LB_ALIGN	1			0	ns	La nngele				2002-02-02 02:02:02
+cui	source\tabpages\numpages.src	0	stringlist	RID_SVXPAGE_NUM_OPTIONS.LB_ALIGN	2			0	ns	Beilwe gare				2002-02-02 02:02:02
+cui	source\tabpages\numpages.src	0	stringlist	RID_SVXPAGE_NUM_OPTIONS.LB_ALIGN	3			0	ns	La go ja				2002-02-02 02:02:02
+cui	source\tabpages\numpages.src	0	string	RID_SVXPAGE_NUM_OPTIONS	STR_BULLET			54256	ns	Tlhaka				2002-02-02 02:02:02
+cui	source\tabpages\numpages.src	0	fixedtext	RID_SVXPAGE_NUM_OPTIONS	FT_BITMAP			50	ns	Dikrafiki				2002-02-02 02:02:02
+cui	source\tabpages\numpages.src	0	menuitem	RID_SVXPAGE_NUM_OPTIONS.MB_BITMAP	MN_GRAPHIC_DLG			54496	ns	Go tšwa faeleng...				2002-02-02 02:02:02
+cui	source\tabpages\numpages.src	0	menuitem	RID_SVXPAGE_NUM_OPTIONS.MB_BITMAP	MN_GALLERY			54256	ns	Bobolokela-diswantšho				2002-02-02 02:02:02
+cui	source\tabpages\numpages.src	0	menubutton	RID_SVXPAGE_NUM_OPTIONS	MB_BITMAP			50	ns	Kgetha...				2002-02-02 02:02:02
+cui	source\tabpages\numpages.src	0	fixedtext	RID_SVXPAGE_NUM_OPTIONS	FT_SIZE			50	ns	Bophara				2002-02-02 02:02:02
+cui	source\tabpages\numpages.src	0	fixedtext	RID_SVXPAGE_NUM_OPTIONS	FT_MULT			50	ns	Bophagamo				2002-02-02 02:02:02
+cui	source\tabpages\numpages.src	0	checkbox	RID_SVXPAGE_NUM_OPTIONS	CB_RATIO			100	ns	Boloka tekanyo				2002-02-02 02:02:02
+cui	source\tabpages\numpages.src	0	fixedtext	RID_SVXPAGE_NUM_OPTIONS	FT_ORIENT			50	ns	Tsepanyo				2002-02-02 02:02:02
+cui	source\tabpages\numpages.src	0	stringlist	RID_SVXPAGE_NUM_OPTIONS.LB_ORIENT	4			0	ns	Godimo ga tlhaka				2002-02-02 02:02:02
+cui	source\tabpages\numpages.src	0	stringlist	RID_SVXPAGE_NUM_OPTIONS.LB_ORIENT	5			0	ns	Bogareng bja tlhaka				2002-02-02 02:02:02
+cui	source\tabpages\numpages.src	0	stringlist	RID_SVXPAGE_NUM_OPTIONS.LB_ORIENT	6			0	ns	Tlase ga tlhaka				2002-02-02 02:02:02
+cui	source\tabpages\numpages.src	0	stringlist	RID_SVXPAGE_NUM_OPTIONS.LB_ORIENT	7			0	ns	Godimo ga mothaladi				2002-02-02 02:02:02
+cui	source\tabpages\numpages.src	0	stringlist	RID_SVXPAGE_NUM_OPTIONS.LB_ORIENT	8			0	ns	Bogareng bja mothaladi				2002-02-02 02:02:02
+cui	source\tabpages\numpages.src	0	stringlist	RID_SVXPAGE_NUM_OPTIONS.LB_ORIENT	9			0	ns	Tlase ga mothaladi				2002-02-02 02:02:02
+cui	source\tabpages\numpages.src	0	fixedline	RID_SVXPAGE_NUM_OPTIONS	FL_SAME_LEVEL			126	ns	Dikgato ka moka				2002-02-02 02:02:02
+cui	source\tabpages\numpages.src	0	fixedtext	RID_SVXPAGE_NUM_POSITION	FT_LEVEL			50	ns	Mogato				2002-02-02 02:02:02
+cui	source\tabpages\numpages.src	0	fixedtext	RID_SVXPAGE_NUM_POSITION	FT_BORDERDIST			105	ns	Go kubega				2002-02-02 02:02:02
+cui	source\tabpages\numpages.src	0	checkbox	RID_SVXPAGE_NUM_POSITION	CB_RELATIVE			52	ns	Leama~nyi				2002-02-02 02:02:02
+cui	source\tabpages\numpages.src	0	fixedtext	RID_SVXPAGE_NUM_POSITION	FT_INDENT			105	ns	Bophara bja nomorofatšo				2002-02-02 02:02:02
+cui	source\tabpages\numpages.src	0	stringlist	RID_SVXPAGE_NUM_POSITION.LB_ALIGN	1			0	ns	La nngele				2002-02-02 02:02:02
+cui	source\tabpages\numpages.src	0	stringlist	RID_SVXPAGE_NUM_POSITION.LB_ALIGN	2			0	ns	Beilwe gare				2002-02-02 02:02:02
+cui	source\tabpages\numpages.src	0	stringlist	RID_SVXPAGE_NUM_POSITION.LB_ALIGN	3			0	ns	La go ja				2002-02-02 02:02:02
+cui	source\tabpages\numpages.src	0	fixedtext	RID_SVXPAGE_NUM_POSITION	FT_LABEL_FOLLOWED_BY			105	ns	Nomorofatšo e latelwa ke				2002-02-02 02:02:02
+cui	source\tabpages\numpages.src	0	stringlist	RID_SVXPAGE_NUM_POSITION.LB_LABEL_FOLLOWED_BY	1			0	ns	Go emiša ga thepo				2002-02-02 02:02:02
+cui	source\tabpages\numpages.src	0	stringlist	RID_SVXPAGE_NUM_POSITION.LB_LABEL_FOLLOWED_BY	2			0	ns	Sekgoba				2002-02-02 02:02:02
+cui	source\tabpages\numpages.src	0	stringlist	RID_SVXPAGE_NUM_POSITION.LB_LABEL_FOLLOWED_BY	3			0	ns	E sego selo				2002-02-02 02:02:02
+cui	source\tabpages\numpages.src	0	fixedtext	RID_SVXPAGE_NUM_POSITION	FT_LISTTAB			143	ns	go				2002-02-02 02:02:02
+cui	source\tabpages\numpages.src	0	fixedtext	RID_SVXPAGE_NUM_POSITION	FT_ALIGNED_AT			105	ns	Tsepantšwe go				2002-02-02 02:02:02
+cui	source\tabpages\numpages.src	0	fixedtext	RID_SVXPAGE_NUM_POSITION	FT_INDENT_AT			105	ns	Go kubega go				2002-02-02 02:02:02
+cui	source\tabpages\numpages.src	0	pushbutton	RID_SVXPAGE_NUM_POSITION	PB_STANDARD			50	ns	Tirelwa				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	fixedtext	RID_SVXPAGE_PAGE	FT_PAPER_WIDTH			35	ns	~Bophara				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	fixedtext	RID_SVXPAGE_PAGE	FT_ORIENTATION			35	ns	Sebopego				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	radiobutton	RID_SVXPAGE_PAGE	RB_PORTRAIT			53	ns	~Seswantšho				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	fixedtext	RID_SVXPAGE_PAGE	FT_LEFT_MARGIN			40	ns	~La nngele				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	fixedtext	RID_SVXPAGE_PAGE	FT_RIGHT_MARGIN			40	ns	~La go ja				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	fixedtext	RID_SVXPAGE_PAGE	FT_TOP_MARGIN			40	ns	~Godimo				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	fixedtext	RID_SVXPAGE_PAGE	FT_BOTTOM_MARGIN			40	ns	~Tlase				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	stringlist	RID_SVXPAGE_PAGE.LB_LAYOUT	1			0	ns	La go ja le la nngele				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	stringlist	RID_SVXPAGE_PAGE.LB_LAYOUT	2			0	ns	E na le seipone				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	stringlist	RID_SVXPAGE_PAGE.LB_NUMBER_FORMAT	1			0	ns	A, B, C, ...				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	stringlist	RID_SVXPAGE_PAGE.LB_NUMBER_FORMAT	2			0	ns	a, b, c, ...				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	stringlist	RID_SVXPAGE_PAGE.LB_NUMBER_FORMAT	3			0	ns	I, II, III, ...				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	stringlist	RID_SVXPAGE_PAGE.LB_NUMBER_FORMAT	4			0	ns	i, ii, iii, ...				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	stringlist	RID_SVXPAGE_PAGE.LB_NUMBER_FORMAT	5			0	ns	1, 2, 3, ...				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	stringlist	RID_SVXPAGE_PAGE.LB_NUMBER_FORMAT	6			0	ns	Ga di gona				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	checkbox	RID_SVXPAGE_PAGE	CB_HORZ			73	ns	Rapa~mego				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	checkbox	RID_SVXPAGE_PAGE	CB_VERT			73	ns	~Tsepamego				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	checkbox	RID_SVXPAGE_PAGE	CB_REGISTER			135	ns	Rejistara ya nnete				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	string	RID_SVXPAGE_PAGE	STR_QUERY_PRINTRANGE			50792	ns	Dipeakanyo tša morumo di feletšwe ke mehuta ya go gatiša.\n\nNa o sa dutše o nyaka go diriša dipeakanyo tše?				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	itemlist	RID_SVXSTRARY_PAPERSIZE_STD	1			0	ns	A5				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	itemlist	RID_SVXSTRARY_PAPERSIZE_STD	2			0	ns	A4				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	itemlist	RID_SVXSTRARY_PAPERSIZE_STD	3			0	ns	A3				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	itemlist	RID_SVXSTRARY_PAPERSIZE_STD	4			0	ns	B6 (ISO)				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	itemlist	RID_SVXSTRARY_PAPERSIZE_STD	5			0	ns	B5 (ISO)				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	itemlist	RID_SVXSTRARY_PAPERSIZE_STD	6			0	ns	B4 (ISO)				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	itemlist	RID_SVXSTRARY_PAPERSIZE_STD	7			0	ns	Lengwalo				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	itemlist	RID_SVXSTRARY_PAPERSIZE_STD	8			0	ns	Molaong				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	itemlist	RID_SVXSTRARY_PAPERSIZE_STD	9			0	ns	Long Bond				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	itemlist	RID_SVXSTRARY_PAPERSIZE_STD	10			0	ns	Tabloid				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	itemlist	RID_SVXSTRARY_PAPERSIZE_STD	11			0	ns	B6 (JIS)				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	itemlist	RID_SVXSTRARY_PAPERSIZE_STD	12			0	ns	B5 (JIS)				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	itemlist	RID_SVXSTRARY_PAPERSIZE_STD	13			0	ns	B4 (JIS)				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	itemlist	RID_SVXSTRARY_PAPERSIZE_STD	14			0	ns	16 Kai				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	itemlist	RID_SVXSTRARY_PAPERSIZE_STD	15			0	ns	32 kai				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	itemlist	RID_SVXSTRARY_PAPERSIZE_STD	16			0	ns	32 Kai e kgolo				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	itemlist	RID_SVXSTRARY_PAPERSIZE_STD	17			0	ns	Modiriši				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	itemlist	RID_SVXSTRARY_PAPERSIZE_STD	18			0	ns	Enfelopo ya DL				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	itemlist	RID_SVXSTRARY_PAPERSIZE_STD	19			0	ns	Enfelopo ya C6				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	itemlist	RID_SVXSTRARY_PAPERSIZE_STD	20			0	ns	Enfelopo ya C6/5				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	itemlist	RID_SVXSTRARY_PAPERSIZE_STD	21			0	ns	Enfelopo ya C5				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	itemlist	RID_SVXSTRARY_PAPERSIZE_STD	22			0	ns	Enfelopo ya C4				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	itemlist	RID_SVXSTRARY_PAPERSIZE_STD	23			0	ns	Enfelopo ya #6 3/4 (Botho)				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	itemlist	RID_SVXSTRARY_PAPERSIZE_STD	24			0	ns	Enfelopo ya #8 (Monarch)				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	itemlist	RID_SVXSTRARY_PAPERSIZE_STD	25			0	ns	Enfelopo ya #9				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	itemlist	RID_SVXSTRARY_PAPERSIZE_STD	26			0	ns	Enfelopo ya #10				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	itemlist	RID_SVXSTRARY_PAPERSIZE_STD	27			0	ns	Enfelopo ya #11				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	itemlist	RID_SVXSTRARY_PAPERSIZE_STD	28			0	ns	Enfelopo ya #12				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	itemlist	RID_SVXSTRARY_PAPERSIZE_DRAW	1			0	ns	A5				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	itemlist	RID_SVXSTRARY_PAPERSIZE_DRAW	2			0	ns	A4				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	itemlist	RID_SVXSTRARY_PAPERSIZE_DRAW	3			0	ns	A3				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	itemlist	RID_SVXSTRARY_PAPERSIZE_DRAW	4			0	ns	A2				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	itemlist	RID_SVXSTRARY_PAPERSIZE_DRAW	5			0	ns	A1				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	itemlist	RID_SVXSTRARY_PAPERSIZE_DRAW	6			0	ns	A0				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	itemlist	RID_SVXSTRARY_PAPERSIZE_DRAW	7			0	ns	B6 (ISO)				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	itemlist	RID_SVXSTRARY_PAPERSIZE_DRAW	8			0	ns	B5 (ISO)				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	itemlist	RID_SVXSTRARY_PAPERSIZE_DRAW	9			0	ns	B4 (ISO)				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	itemlist	RID_SVXSTRARY_PAPERSIZE_DRAW	10			0	ns	Lengwalo				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	itemlist	RID_SVXSTRARY_PAPERSIZE_DRAW	11			0	ns	Molaong				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	itemlist	RID_SVXSTRARY_PAPERSIZE_DRAW	12			0	ns	Long Bond				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	itemlist	RID_SVXSTRARY_PAPERSIZE_DRAW	13			0	ns	Tabloid				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	itemlist	RID_SVXSTRARY_PAPERSIZE_DRAW	14			0	ns	B6 (JIS)				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	itemlist	RID_SVXSTRARY_PAPERSIZE_DRAW	15			0	ns	B5 (JIS)				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	itemlist	RID_SVXSTRARY_PAPERSIZE_DRAW	16			0	ns	B4 (JIS)				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	itemlist	RID_SVXSTRARY_PAPERSIZE_DRAW	17			0	ns	16 kai				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	itemlist	RID_SVXSTRARY_PAPERSIZE_DRAW	18			0	ns	32 kai				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	itemlist	RID_SVXSTRARY_PAPERSIZE_DRAW	19			0	ns	32 Kai e kgolo				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	itemlist	RID_SVXSTRARY_PAPERSIZE_DRAW	20			0	ns	Modiriši				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	itemlist	RID_SVXSTRARY_PAPERSIZE_DRAW	21			0	ns	Enfelopo ya DL				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	itemlist	RID_SVXSTRARY_PAPERSIZE_DRAW	22			0	ns	Enfelopo ya C6				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	itemlist	RID_SVXSTRARY_PAPERSIZE_DRAW	23			0	ns	Enfelopo ya C6/5				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	itemlist	RID_SVXSTRARY_PAPERSIZE_DRAW	24			0	ns	Enfelopo ya C5				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	itemlist	RID_SVXSTRARY_PAPERSIZE_DRAW	25			0	ns	Enfelopo ya C4				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	itemlist	RID_SVXSTRARY_PAPERSIZE_DRAW	26			0	ns	Selaete sa dia				2002-02-02 02:02:02
+cui	source\tabpages\page.src	0	itemlist	RID_SVXSTRARY_PAPERSIZE_DRAW	27			0	ns	Lebato la galase				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	fixedtext	RID_SVXPAGE_CHAR_NAME	FT_WEST_NAME			80	ns	Fonte				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	fixedtext	RID_SVXPAGE_CHAR_NAME	FT_WEST_STYLE			40	ns	~Setaele sa tlhaka				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	fixedtext	RID_SVXPAGE_CHAR_NAME	FT_WEST_STYLE_NOCJK			72	ns	~Setaele sa tlhaka				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_NAME.LB_WEST_STYLE	1			0	ns	Tlwaelegilego				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_NAME.LB_WEST_STYLE	2			0	ns	Moseka				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_NAME.LB_WEST_STYLE	3			0	ns	Mokoto				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_NAME.LB_WEST_STYLE	4			0	ns	Moseka o mokoto				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_NAME.LB_WEST_STYLE_NOCJK	1			0	ns	Tlwaelegilego				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_NAME.LB_WEST_STYLE_NOCJK	2			0	ns	Moseka				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_NAME.LB_WEST_STYLE_NOCJK	3			0	ns	Mokoto				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_NAME.LB_WEST_STYLE_NOCJK	4			0	ns	Moseka o mokoto				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	fixedtext	RID_SVXPAGE_CHAR_NAME	FT_WEST_SIZE			38	ns	Bogolo				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	fixedtext	RID_SVXPAGE_CHAR_NAME	FT_WEST_SIZE_NOCJK			40	ns	Bogolo				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	fixedtext	RID_SVXPAGE_CHAR_NAME	FT_WEST_LANG			66	ns	Leleme				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	fixedtext	RID_SVXPAGE_CHAR_NAME	FT_WEST_LANG_NOCJK			72	ns	Po~lelo				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	fixedtext	RID_SVXPAGE_CHAR_NAME	FT_EAST_NAME			80	ns	Fonte				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_NAME.LB_EAST_STYLE	1			0	ns	Tlwaelegilego				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_NAME.LB_EAST_STYLE	2			0	ns	Moseka				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_NAME.LB_EAST_STYLE	3			0	ns	Mokoto				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_NAME.LB_EAST_STYLE	4			0	ns	Moseka o mokoto				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	fixedtext	RID_SVXPAGE_CHAR_NAME	FT_EAST_SIZE			38	ns	Bogolo				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	fixedtext	RID_SVXPAGE_CHAR_NAME	FT_EAST_LANG			66	ns	Leleme				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	fixedtext	RID_SVXPAGE_CHAR_NAME	FT_CTL_NAME			80	ns	Fonte				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_NAME.LB_CTL_STYLE	1			0	ns	Tlwaelegilego				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_NAME.LB_CTL_STYLE	2			0	ns	Moseka				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_NAME.LB_CTL_STYLE	3			0	ns	Mokoto				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_NAME.LB_CTL_STYLE	4			0	ns	Moseka o mokoto				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	fixedtext	RID_SVXPAGE_CHAR_NAME	FT_CTL_SIZE			38	ns	Bogolo				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	fixedtext	RID_SVXPAGE_CHAR_NAME	FT_CTL_LANG			66	ns	Leleme				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	window	RID_SVXPAGE_CHAR_NAME	WIN_CHAR_PREVIEW			248	ns	Mohlala				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	fixedline	RID_SVXPAGE_CHAR_NAME	FL_COLOR2			248	ns	Mmala				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	fixedtext	RID_SVXPAGE_CHAR_NAME	FT_COLOR2			58	ns	~Mmala wa fonte				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	string	RID_SVXPAGE_CHAR_NAME	STR_CHARNAME_NOSTYLE			30328	ns	Ga go %1				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	string	RID_SVXPAGE_CHAR_NAME	STR_CHARNAME_TRANSPARENT			30408	ns	Bonagatšago				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	fixedtext	RID_SVXPAGE_CHAR_EFFECTS	FT_FONTCOLOR			82	ns	~Mmala wa fonte				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	fixedtext	RID_SVXPAGE_CHAR_EFFECTS	FT_EFFECTS			82	ns	~Ditlamorago				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_EFFECTS.LB_EFFECTS2	1			0	ns	(Ka ntle le)				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_EFFECTS.LB_EFFECTS2	2			0	ns	Ditlhaka-kgolo				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_EFFECTS.LB_EFFECTS2	3			0	ns	Tlhakanyane				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_EFFECTS.LB_EFFECTS2	4			0	ns	Thaetlele				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_EFFECTS.LB_EFFECTS2	5			0	ns	Ditlhakakgolo tše nnyane				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_EFFECTS.LB_RELIEF	1			0	ns	(Ka ntle le)				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_EFFECTS.LB_RELIEF	2			0	ns	Kokobatšo				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_EFFECTS.LB_RELIEF	3			0	ns	Setilwe				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	tristatebox	RID_SVXPAGE_CHAR_EFFECTS	CB_SHADOW			82	ns	Mor~iti				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	fixedtext	RID_SVXPAGE_CHAR_EFFECTS	FT_OVERLINE			68	ns	~Go thalela				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE	1			0	ns	(Ka ntle le)				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE	2			0	ns	O tee				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE	3			0	ns	Gabedi				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE	4			0	ns	Mokoto				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE	5			0	ns	Go dirilwe dikhutlo				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE	6			0	ns	Go dirilwe dikhutlo (Mokoto)				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE	7			0	ns	Mothalwana				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE	8			0	ns	Mothalwana (Mokoto)				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE	9			0	ns	Mothalwana o motelele				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE	10			0	ns	Mothalwana o motelele (Mokoto)				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE	11			0	ns	Mothalwana wa dikhutlo				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE	12			0	ns	Mothalwana wa dikhutlo (Mokoto)				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE	13			0	ns	Mothalwana wa dikhutlo-khutlo				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE	14			0	ns	Mothalwana wa dikhutlo-khutlo (Mokoto)				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE	15			0	ns	Lephoto				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE	16			0	ns	Lephoto (Mokoto)				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE	17			0	ns	Lephoto la gabedi				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	fixedtext	RID_SVXPAGE_CHAR_EFFECTS	FT_OVERLINE_COLOR			68	ns	Mmala wa kakaretš~o				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	fixedtext	RID_SVXPAGE_CHAR_EFFECTS	FT_STRIKEOUT			68	ns	~Kgabaganya				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_EFFECTS.LB_STRIKEOUT	1			0	ns	(Ka ntle le)				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_EFFECTS.LB_STRIKEOUT	2			0	ns	O tee				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_EFFECTS.LB_STRIKEOUT	3			0	ns	Gabedi				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_EFFECTS.LB_STRIKEOUT	4			0	ns	Mokoto				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_EFFECTS.LB_STRIKEOUT	5			0	ns	Ka /				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_EFFECTS.LB_STRIKEOUT	6			0	ns	Ka X				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	fixedtext	RID_SVXPAGE_CHAR_EFFECTS	FT_UNDERLINE			68	ns	~Go thalela				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE	1			0	ns	(Ka ntle le)				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE	2			0	ns	O tee				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE	3			0	ns	Gabedi				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE	4			0	ns	Mokoto				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE	5			0	ns	Go dirilwe dikhutlo				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE	6			0	ns	Go dirilwe dikhutlo (Mokoto)				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE	7			0	ns	Mothalwana				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE	8			0	ns	Mothalwana (Mokoto)				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE	9			0	ns	Mothalwana o motelele				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE	10			0	ns	Mothalwana o motelele (Mokoto)				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE	11			0	ns	Mothalwana wa dikhutlo				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE	12			0	ns	Mothalwana wa dikhutlo (Mokoto)				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE	13			0	ns	Mothalwana wa dikhutlo-khutlo				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE	14			0	ns	Mothalwana wa dikhutlo-khutlo (Mokoto)				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE	15			0	ns	Lephoto				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE	16			0	ns	Lephoto (Mokoto)				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE	17			0	ns	Lephoto la gabedi				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	fixedtext	RID_SVXPAGE_CHAR_EFFECTS	FT_UNDERLINE_COLOR			68	ns	Mmala wa kakaretš~o				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	checkbox	RID_SVXPAGE_CHAR_EFFECTS	CB_INDIVIDUALWORDS			68	ns	Mantšu ~ka noši				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_EFFECTS.LB_EMPHASIS	1			0	ns	(Ka ntle le)				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_EFFECTS.LB_EMPHASIS	2			0	ns	Khutlo				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_EFFECTS.LB_EMPHASIS	5			0	ns	Namelela				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	fixedtext	RID_SVXPAGE_CHAR_EFFECTS	FT_POSITION			68	ns	~Maemo				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	window	RID_SVXPAGE_CHAR_EFFECTS	WIN_EFFECTS_PREVIEW			248	ns	Mohlala				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	string	RID_SVXPAGE_CHAR_EFFECTS	STR_EFFECTS_CAPITALS			29680	ns	Ditlhaka-kgolo				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	string	RID_SVXPAGE_CHAR_EFFECTS	STR_EFFECTS_LOWERCASE			29680	ns	Tlhakanyane				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	string	RID_SVXPAGE_CHAR_EFFECTS	STR_EFFECTS_TITLE			29680	ns	Thaetlele				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	string	RID_SVXPAGE_CHAR_EFFECTS	STR_EFFECTS_OUTLINE			29680	ns	Kakaretšo				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	string	RID_SVXPAGE_CHAR_EFFECTS	STR_EFFECTS_SHADOW			29680	ns	Moriti				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	string	RID_SVXPAGE_CHAR_EFFECTS	STR_EFFECTS_BLINKING			29680	ns	Ponya-ponya				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	string	RID_SVXPAGE_CHAR_EFFECTS	STR_CHARNAME_TRANSPARENT			29680	ns	Bonagatšago				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	fixedline	RID_SVXPAGE_CHAR_POSITION	FL_POSITION			248	ns	Maemo				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	radiobutton	RID_SVXPAGE_CHAR_POSITION	RB_NORMALPOS			58	ns	Tlwaelegilego				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	checkbox	RID_SVXPAGE_CHAR_POSITION	CB_HIGHLOW			76	ns	Bo~itirišo				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	fixedline	RID_SVXPAGE_CHAR_POSITION	FL_SCALING			248	ns	Go kala				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	checkbox	RID_SVXPAGE_CHAR_POSITION	CB_FIT_TO_LINE			86	ns	Lekantšha mothalading				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	fixedline	RID_SVXPAGE_CHAR_POSITION	FL_KERNING2			248	ns	Katoganyo				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_POSITION.LB_KERNING2	1			0	ns	Tirelwa				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	fixedtext	RID_SVXPAGE_CHAR_POSITION	FT_KERNING2			24	ns	k~a				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	window	RID_SVXPAGE_CHAR_POSITION	WIN_POS_PREVIEW			248	ns	Mohlala				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	fixedline	RID_SVXPAGE_CHAR_TWOLINES	FL_SWITCHON			248	ns	Methaladi yeo e lego gabedi				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	fixedline	RID_SVXPAGE_CHAR_TWOLINES	FL_ENCLOSE			248	ns	Tswalela tlhaka				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_TWOLINES.ED_STARTBRACKET	1			0	ns	(Ga go na selo)				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_TWOLINES.ED_STARTBRACKET	2			0	ns	(				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_TWOLINES.ED_STARTBRACKET	3			0	ns	[				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_TWOLINES.ED_STARTBRACKET	4			0	ns	<				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_TWOLINES.ED_STARTBRACKET	5			0	ns	{				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_TWOLINES.ED_STARTBRACKET	6			0	ns	Ditlhaka tše dingwe...				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	fixedtext	RID_SVXPAGE_CHAR_TWOLINES	FT_ENDBRACKET			90	ns	Tlha~ka ya mafelelo				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_TWOLINES.ED_ENDBRACKET	1			0	ns	(Ga go na selo)				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_TWOLINES.ED_ENDBRACKET	2			0	ns	)				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_TWOLINES.ED_ENDBRACKET	3			0	ns	]				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_TWOLINES.ED_ENDBRACKET	4			0	ns	>				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_TWOLINES.ED_ENDBRACKET	5			0	ns	}				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	stringlist	RID_SVXPAGE_CHAR_TWOLINES.ED_ENDBRACKET	6			0	ns	Ditlhaka tše dingwe...				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	window	RID_SVXPAGE_CHAR_TWOLINES	WIN_TWOLINES_PREVIEW			248	ns	Mohlala				2002-02-02 02:02:02
+cui	source\tabpages\numfmt.src	0	stringlist	RID_SVXPAGE_NUMBERFORMAT.LB_CATEGORY	3			0	ns	Nomoro				2002-02-02 02:02:02
+cui	source\tabpages\numfmt.src	0	stringlist	RID_SVXPAGE_NUMBERFORMAT.LB_CATEGORY	4			0	ns	Phesente				2002-02-02 02:02:02
+cui	source\tabpages\numfmt.src	0	stringlist	RID_SVXPAGE_NUMBERFORMAT.LB_CATEGORY	5			0	ns	Kharensi				2002-02-02 02:02:02
+cui	source\tabpages\numfmt.src	0	stringlist	RID_SVXPAGE_NUMBERFORMAT.LB_CATEGORY	7			0	ns	Nako				2002-02-02 02:02:02
+cui	source\tabpages\numfmt.src	0	stringlist	RID_SVXPAGE_NUMBERFORMAT.LB_CATEGORY	9			0	ns	Palophatlo				2002-02-02 02:02:02
+cui	source\tabpages\numfmt.src	0	stringlist	RID_SVXPAGE_NUMBERFORMAT.LB_CATEGORY	10			0	ns	Boleng bja Boolean				2002-02-02 02:02:02
+cui	source\tabpages\numfmt.src	0	stringlist	RID_SVXPAGE_NUMBERFORMAT.LB_CATEGORY	11			0	ns	Sengwalwa				2002-02-02 02:02:02
+cui	source\tabpages\numfmt.src	0	checkbox	RID_SVXPAGE_NUMBERFORMAT	BTN_NEGRED			100	ns	~Dinomoro tša kganetšo tše khubedu				2002-02-02 02:02:02
+cui	source\tabpages\numfmt.src	0	fixedline	RID_SVXPAGE_NUMBERFORMAT	FL_OPTIONS			248	ns	Dikgetho				2002-02-02 02:02:02
+cui	source\tabpages\numfmt.src	0	fixedtext	RID_SVXPAGE_NUMBERFORMAT	FT_LANGUAGE			76	ns	~Leleme				2002-02-02 02:02:02
+cui	source\tabpages\numfmt.src	0	imagebutton	RID_SVXPAGE_NUMBERFORMAT	IB_ADD	HID_NUMBERFORMAT_TBI_ADD		14	ns	-		Oketša		2002-02-02 02:02:02
+cui	source\tabpages\numfmt.src	0	imagebutton	RID_SVXPAGE_NUMBERFORMAT	IB_REMOVE	HID_NUMBERFORMAT_TBI_REMOVE		14	ns	-		Tloša		2002-02-02 02:02:02
+cui	source\tabpages\numfmt.src	0	imagebutton	RID_SVXPAGE_NUMBERFORMAT	IB_INFO	HID_NUMBERFORMAT_TBI_INFO		14	ns	-		Edit Comment		2002-02-02 02:02:02
+cui	source\tabpages\numfmt.src	0	string	RID_SVXPAGE_NUMBERFORMAT	STR_AUTO_ENTRY			54816	ns	Boitirišo				2002-02-02 02:02:02
+cui	source\tabpages\grfpage.src	0	fixedtext	RID_SVXPAGE_GRFCROP	FT_LEFT			28	ns	~La nngele				2002-02-02 02:02:02
+cui	source\tabpages\grfpage.src	0	fixedtext	RID_SVXPAGE_GRFCROP	FT_RIGHT			28	ns	~La go ja				2002-02-02 02:02:02
+cui	source\tabpages\grfpage.src	0	fixedtext	RID_SVXPAGE_GRFCROP	FT_TOP			28	ns	~Godimo				2002-02-02 02:02:02
+cui	source\tabpages\grfpage.src	0	fixedtext	RID_SVXPAGE_GRFCROP	FT_BOTTOM			28	ns	~Tlase				2002-02-02 02:02:02
+cui	source\tabpages\grfpage.src	0	fixedtext	RID_SVXPAGE_GRFCROP	FT_WIDTHZOOM			28	ns	~Bophara				2002-02-02 02:02:02
+cui	source\tabpages\grfpage.src	0	fixedtext	RID_SVXPAGE_GRFCROP	FT_HEIGHTZOOM			28	ns	Boph~agamo				2002-02-02 02:02:02
+cui	source\tabpages\grfpage.src	0	fixedtext	RID_SVXPAGE_GRFCROP	FT_WIDTH			28	ns	~Bophara				2002-02-02 02:02:02
+cui	source\tabpages\grfpage.src	0	fixedtext	RID_SVXPAGE_GRFCROP	FT_HEIGHT			28	ns	Boph~agamo				2002-02-02 02:02:02
+cui	source\tabpages\autocdlg.src	0	pageitem	RID_OFA_AUTOCORR_DLG.1	RID_OFAPAGE_AUTOCORR_EXCEPT			42168	ns	Go fapana				2002-02-02 02:02:02
+cui	source\tabpages\autocdlg.src	0	pageitem	RID_OFA_AUTOCORR_DLG.1	RID_OFAPAGE_AUTOCORR_OPTIONS			41968	ns	Dikgetho				2002-02-02 02:02:02
+cui	source\tabpages\autocdlg.src	0	pageitem	RID_OFA_AUTOCORR_DLG.1	RID_OFAPAGE_AUTOFMT_APPLY			41968	ns	Dikgetho				2002-02-02 02:02:02
+cui	source\tabpages\autocdlg.src	0	pageitem	RID_OFA_AUTOCORR_DLG.1	RID_OFAPAGE_AUTOCOMPLETE_OPTIONS			41968	ns	Phetho ya lentšu				2002-02-02 02:02:02
+cui	source\tabpages\autocdlg.src	0	pageitem	RID_OFA_AUTOCORR_DLG.1	RID_OFAPAGE_SMARTTAG_OPTIONS			41968	ns	Ditšhupo tše semate				2002-02-02 02:02:02
+cui	source\tabpages\autocdlg.src	0	fixedtext	RID_OFA_AUTOCORR_DLG	FT_LANG			140	ns	Go bea legatong le go fapana bakeng sa leleme:				2002-02-02 02:02:02
+cui	source\tabpages\autocdlg.src	0	string	COMMON_CLB_ENTRIES	STR_NO_DBL_SPACES			41968	ns	Hlokomologa dikgoba tše pedi				2002-02-02 02:02:02
+cui	source\tabpages\autocdlg.src	0	tabpage	RID_OFAPAGE_AUTOCORR_OPTIONS		HID_OFAPAGE_AUTOCORR_OPTIONS		260	ns	Dipeakanyo				2002-02-02 02:02:02
+cui	source\tabpages\autocdlg.src	0	pushbutton	RID_OFAPAGE_AUTOFMT_APPLY	PB_EDIT			50	ns	~Lokiša...				2002-02-02 02:02:02
+cui	source\tabpages\autocdlg.src	0	string	RID_OFAPAGE_AUTOFMT_APPLY	ST_DEL_EMPTY_PARA			41968	ns	Tloša dirapa tšeo di se nago selo				2002-02-02 02:02:02
+cui	source\tabpages\autocdlg.src	0	string	RID_OFAPAGE_AUTOFMT_APPLY	ST_RIGHT_MARGIN			42192	ns	Kopanya dirapa tšeo di nago le mothaladi o tee ge e ba botelele bo feta				2002-02-02 02:02:02
+cui	source\tabpages\autocdlg.src	0	string	RID_OFAPAGE_AUTOFMT_APPLY	STR_BORDER			41968	ns	Diriša mollwane				2002-02-02 02:02:02
+cui	source\tabpages\autocdlg.src	0	fixedline	RID_OFADLG_PRCNT_SET	FL_PRCNT			87	ns	Bogolo bjo bonyenyane				2002-02-02 02:02:02
+cui	source\tabpages\autocdlg.src	0	fixedtext	RID_OFAPAGE_AUTOCORR_REPLACE	FT_SHORT			60	ns	Tšeela lega~to				2002-02-02 02:02:02
+cui	source\tabpages\autocdlg.src	0	checkbox	RID_OFAPAGE_AUTOCORR_REPLACE	CB_TEXT_ONLY			108	ns	~Sengwalwa feela				2002-02-02 02:02:02
+cui	source\tabpages\autocdlg.src	0	pushbutton	RID_OFAPAGE_AUTOCORR_REPLACE	PB_NEW_REPLACE			50	ns	~Mpsha				2002-02-02 02:02:02
+cui	source\tabpages\autocdlg.src	0	pushbutton	RID_OFAPAGE_AUTOCORR_REPLACE	PB_DELETE_REPLACE			50	ns	~Phumola				2002-02-02 02:02:02
+cui	source\tabpages\autocdlg.src	0	string	RID_OFAPAGE_AUTOCORR_REPLACE	STR_MODIFY			41968	ns	~Tšeela legato				2002-02-02 02:02:02
+cui	source\tabpages\autocdlg.src	0	fixedline	RID_OFAPAGE_AUTOCORR_EXCEPT	FL_ABBREV			252	ns	Dikhutšofatšo (ga go na ditlhakakgolo tše latelanago)				2002-02-02 02:02:02
+cui	source\tabpages\autocdlg.src	0	pushbutton	RID_OFAPAGE_AUTOCORR_EXCEPT	PB_NEWABBREV			50	ns	~Mpsha				2002-02-02 02:02:02
+cui	source\tabpages\autocdlg.src	0	pushbutton	RID_OFAPAGE_AUTOCORR_EXCEPT	PB_DELABBREV			50	ns	~Phumola				2002-02-02 02:02:02
+cui	source\tabpages\autocdlg.src	0	fixedline	RID_OFAPAGE_AUTOCORR_EXCEPT	FL_DOUBLECAPS			252	ns	Mantšu ao a nago le DItlhaka KGolo TŠe PEdi TŠa MAthomo				2002-02-02 02:02:02
+cui	source\tabpages\autocdlg.src	0	pushbutton	RID_OFAPAGE_AUTOCORR_EXCEPT	PB_NEWDOUBLECAPS			50	ns	Mp~sha				2002-02-02 02:02:02
+cui	source\tabpages\autocdlg.src	0	checkbox	RID_OFAPAGE_AUTOCORR_QUOTE	CB_SGL_TYPO			86	ns	Tšeela lega~to				2002-02-02 02:02:02
+cui	source\tabpages\autocdlg.src	0	fixedtext	RID_OFAPAGE_AUTOCORR_QUOTE	FT_SGL_STARTQUOTE			86	ns	~Thoma setsopolwa:				2002-02-02 02:02:02
+cui	source\tabpages\autocdlg.src	0	fixedtext	RID_OFAPAGE_AUTOCORR_QUOTE	FT_SGL_ENDQUOTE			86	ns	~Fetša setsopolwa:				2002-02-02 02:02:02
+cui	source\tabpages\autocdlg.src	0	pushbutton	RID_OFAPAGE_AUTOCORR_QUOTE	PB_SGL_STD			50	ns	~Tirelwa				2002-02-02 02:02:02
+cui	source\tabpages\autocdlg.src	0	fixedtext	RID_OFAPAGE_AUTOCORR_QUOTE	FT_STARTQUOTE			86	ns	Thoma s~etsopolwa:				2002-02-02 02:02:02
+cui	source\tabpages\autocdlg.src	0	fixedtext	RID_OFAPAGE_AUTOCORR_QUOTE	FT_ENDQUOTE			86	ns	F~etša setsopolwa:				2002-02-02 02:02:02
+cui	source\tabpages\autocdlg.src	0	string	RID_OFAPAGE_AUTOCORR_QUOTE	STR_CHANGE_START			41968	ns	Thoma setsopolwa				2002-02-02 02:02:02
+cui	source\tabpages\autocdlg.src	0	string	RID_OFAPAGE_AUTOCORR_QUOTE	STR_CHANGE_END			41968	ns	Fetša setsopolwa				2002-02-02 02:02:02
+cui	source\tabpages\autocdlg.src	0	string	RID_OFAPAGE_AUTOCORR_QUOTE	ST_STANDARD			41968	ns	Tirelwa				2002-02-02 02:02:02
+cui	source\tabpages\autocdlg.src	0	checkbox	RID_OFAPAGE_AUTOCOMPLETE_OPTIONS	CB_APPEND_SPACE			110	ns	~Kgomaganya sekgoba				2002-02-02 02:02:02
+cui	source\tabpages\autocdlg.src	0	checkbox	RID_OFAPAGE_AUTOCOMPLETE_OPTIONS	CB_REMOVE_LIST			110	ns	~Ge o tswalela tokumente, tloša mantšu ao a kgobokeditšwego go yona go tšwa lelokelelong				2002-02-02 02:02:02
+cui	source\tabpages\autocdlg.src	0	fixedtext	RID_OFAPAGE_AUTOCOMPLETE_OPTIONS	FT_MIN_WORDLEN			116	ns	Bo~nyenyane bja botelele bja lentšu				2002-02-02 02:02:02
+cui	source\tabpages\autocdlg.src	0	tabpage	RID_OFAPAGE_AUTOCOMPLETE_OPTIONS		HID_OFAPAGE_AUTOCOMPLETE_OPTIONS		260	ns	Phetho ya lentšu				2002-02-02 02:02:02
+cui	source\tabpages\autocdlg.src	0	checkbox	RID_OFAPAGE_SMARTTAG_OPTIONS	CB_SMARTTAGS			116	ns	Swaya sengwalwa ka ditšhupo tše semate				2002-02-02 02:02:02
+cui	source\tabpages\autocdlg.src	0	fixedtext	RID_OFAPAGE_SMARTTAG_OPTIONS	FT_SMARTTAGS			116	ns	Ditšhupo tše semate tšeo di tsentšhitšwego gabjale				2002-02-02 02:02:02
+cui	source\tabpages\autocdlg.src	0	tabpage	RID_OFAPAGE_SMARTTAG_OPTIONS		HID_OFAPAGE_SMARTTAG_OPTIONS		260	ns	Ditšhupo tše semate				2002-02-02 02:02:02
+cui	source\tabpages\paragrph.src	0	checkbox	RID_SVXPAGE_STD_PARAGRAPH	CB_AUTO			120	ns	~Boitirišo				2002-02-02 02:02:02
+cui	source\tabpages\paragrph.src	0	fixedline	RID_SVXPAGE_STD_PARAGRAPH	FL_INDENT			173	ns	Go kubega				2002-02-02 02:02:02
+cui	source\tabpages\paragrph.src	0	fixedline	RID_SVXPAGE_STD_PARAGRAPH	FL_DIST			173	ns	Katoganyo				2002-02-02 02:02:02
+cui	source\tabpages\paragrph.src	0	stringlist	RID_SVXPAGE_STD_PARAGRAPH.LB_LINEDIST	1			0	ns	O tee				2002-02-02 02:02:02
+cui	source\tabpages\paragrph.src	0	stringlist	RID_SVXPAGE_STD_PARAGRAPH.LB_LINEDIST	2			0	ns	Methaladi ya 1.5				2002-02-02 02:02:02
+cui	source\tabpages\paragrph.src	0	stringlist	RID_SVXPAGE_STD_PARAGRAPH.LB_LINEDIST	3			0	ns	Gabedi				2002-02-02 02:02:02
+cui	source\tabpages\paragrph.src	0	stringlist	RID_SVXPAGE_STD_PARAGRAPH.LB_LINEDIST	4			0	ns	Ka go lekana				2002-02-02 02:02:02
+cui	source\tabpages\paragrph.src	0	stringlist	RID_SVXPAGE_STD_PARAGRAPH.LB_LINEDIST	6			0	ns	Etile pele				2002-02-02 02:02:02
+cui	source\tabpages\paragrph.src	0	fixedtext	RID_SVXPAGE_STD_PARAGRAPH	FT_LINEDIST			60	ns	ya				2002-02-02 02:02:02
+cui	source\tabpages\paragrph.src	0	fixedline	RID_SVXPAGE_STD_PARAGRAPH	FL_LINEDIST			173	ns	Katoganyo ya methaladi				2002-02-02 02:02:02
+cui	source\tabpages\paragrph.src	0	checkbox	RID_SVXPAGE_STD_PARAGRAPH	CB_REGISTER			120	ns	Tho~miša				2002-02-02 02:02:02
+cui	source\tabpages\paragrph.src	0	fixedline	RID_SVXPAGE_STD_PARAGRAPH	FL_REGISTER			173	ns	Rejistara ya nnete				2002-02-02 02:02:02
+cui	source\tabpages\paragrph.src	0	fixedline	RID_SVXPAGE_ALIGN_PARAGRAPH	FL_ALIGN			173	ns	Dikgetho				2002-02-02 02:02:02
+cui	source\tabpages\paragrph.src	0	radiobutton	RID_SVXPAGE_ALIGN_PARAGRAPH	BTN_LEFTALIGN			161	ns	~La nngele				2002-02-02 02:02:02
+cui	source\tabpages\paragrph.src	0	radiobutton	RID_SVXPAGE_ALIGN_PARAGRAPH	BTN_RIGHTALIGN			161	ns	La go j~a				2002-02-02 02:02:02
+cui	source\tabpages\paragrph.src	0	radiobutton	RID_SVXPAGE_ALIGN_PARAGRAPH	BTN_CENTERALIGN			161	ns	~Bogareng				2002-02-02 02:02:02
+cui	source\tabpages\paragrph.src	0	radiobutton	RID_SVXPAGE_ALIGN_PARAGRAPH	BTN_JUSTIFYALIGN			161	ns	Lokafaditšwe				2002-02-02 02:02:02
+cui	source\tabpages\paragrph.src	0	string	RID_SVXPAGE_ALIGN_PARAGRAPH	ST_LEFTALIGN_ASIAN			21488	ns	~La nngele/godimo				2002-02-02 02:02:02
+cui	source\tabpages\paragrph.src	0	string	RID_SVXPAGE_ALIGN_PARAGRAPH	ST_RIGHTALIGN_ASIAN			21488	ns	La go j~a/tlase				2002-02-02 02:02:02
+cui	source\tabpages\paragrph.src	0	stringlist	RID_SVXPAGE_ALIGN_PARAGRAPH.LB_LASTLINE	1			0	ns	Tirelwa				2002-02-02 02:02:02
+cui	source\tabpages\paragrph.src	0	stringlist	RID_SVXPAGE_ALIGN_PARAGRAPH.LB_LASTLINE	2			0	ns	La nngele				2002-02-02 02:02:02
+cui	source\tabpages\paragrph.src	0	stringlist	RID_SVXPAGE_ALIGN_PARAGRAPH.LB_LASTLINE	3			0	ns	Beilwe gare				2002-02-02 02:02:02
+cui	source\tabpages\paragrph.src	0	stringlist	RID_SVXPAGE_ALIGN_PARAGRAPH.LB_LASTLINE	4			0	ns	Lokafaditšwe				2002-02-02 02:02:02
+cui	source\tabpages\paragrph.src	0	fixedtext	RID_SVXPAGE_ALIGN_PARAGRAPH	FT_VERTALIGN			90	ns	Tsep~anyo				2002-02-02 02:02:02
+cui	source\tabpages\paragrph.src	0	stringlist	RID_SVXPAGE_ALIGN_PARAGRAPH.LB_VERTALIGN	1			0	ns	Boitirišo				2002-02-02 02:02:02
+cui	source\tabpages\paragrph.src	0	stringlist	RID_SVXPAGE_ALIGN_PARAGRAPH.LB_VERTALIGN	2			0	ns	Mothaladi wa motheo				2002-02-02 02:02:02
+cui	source\tabpages\paragrph.src	0	stringlist	RID_SVXPAGE_ALIGN_PARAGRAPH.LB_VERTALIGN	3			0	ns	Godimo				2002-02-02 02:02:02
+cui	source\tabpages\paragrph.src	0	stringlist	RID_SVXPAGE_ALIGN_PARAGRAPH.LB_VERTALIGN	4			0	ns	Magareng				2002-02-02 02:02:02
+cui	source\tabpages\paragrph.src	0	stringlist	RID_SVXPAGE_ALIGN_PARAGRAPH.LB_VERTALIGN	5			0	ns	Tlase				2002-02-02 02:02:02
+cui	source\tabpages\paragrph.src	0	fixedline	RID_SVXPAGE_ALIGN_PARAGRAPH	FL_PROPERTIES			248	ns	Diteng				2002-02-02 02:02:02
+cui	source\tabpages\paragrph.src	0	tabpage	RID_SVXPAGE_ALIGN_PARAGRAPH		HID_FORMAT_PARAGRAPH_ALIGN		260	ns	Tsepanyo				2002-02-02 02:02:02
+cui	source\tabpages\paragrph.src	0	fixedline	RID_SVXPAGE_EXT_PARAGRAPH	FL_HYPHEN			248	ns	Tlemaganyo				2002-02-02 02:02:02
+cui	source\tabpages\paragrph.src	0	fixedline	RID_SVXPAGE_EXT_PARAGRAPH	FL_OPTIONS			248	ns	Dikgetho				2002-02-02 02:02:02
+cui	source\tabpages\paragrph.src	0	tristatebox	RID_SVXPAGE_EXT_PARAGRAPH	BTN_PAGEBREAK			61	ns	Tsenya				2002-02-02 02:02:02
+cui	source\tabpages\paragrph.src	0	fixedtext	RID_SVXPAGE_EXT_PARAGRAPH	FT_BREAKTYPE			21	ns	Mohu~ta				2002-02-02 02:02:02
+cui	source\tabpages\paragrph.src	0	stringlist	RID_SVXPAGE_EXT_PARAGRAPH.LB_BREAKTYPE	1			0	ns	Letlakala				2002-02-02 02:02:02
+cui	source\tabpages\paragrph.src	0	stringlist	RID_SVXPAGE_EXT_PARAGRAPH.LB_BREAKTYPE	2			0	ns	Kholomo				2002-02-02 02:02:02
+cui	source\tabpages\paragrph.src	0	fixedtext	RID_SVXPAGE_EXT_PARAGRAPH	FT_BREAKPOSITION			45	ns	Maemo				2002-02-02 02:02:02
+cui	source\tabpages\paragrph.src	0	stringlist	RID_SVXPAGE_EXT_PARAGRAPH.LB_BREAKPOSITION	1			0	ns	Pele				2002-02-02 02:02:02
+cui	source\tabpages\paragrph.src	0	stringlist	RID_SVXPAGE_EXT_PARAGRAPH.LB_BREAKPOSITION	2			0	ns	Ka morago				2002-02-02 02:02:02
+cui	source\tabpages\paragrph.src	0	tristatebox	RID_SVXPAGE_EXT_PARAGRAPH	BTN_ORPHANS			120	ns	~Taolo ya tšhuana				2002-02-02 02:02:02
+cui	source\tabpages\paragrph.src	0	fixedtext	RID_SVXPAGE_EXT_PARAGRAPH	FT_ORPHANS			86	ns	Methaladi				2002-02-02 02:02:02
+cui	source\tabpages\paragrph.src	0	fixedtext	RID_SVXPAGE_EXT_PARAGRAPH	FT_WIDOWS			86	ns	Methaladi				2002-02-02 02:02:02
+cui	source\tabpages\paragrph.src	0	tristatebox	RID_SVXPAGE_PARA_ASIAN	CB_AS_HANG_PUNC			242	ns	Dumelela maswaodikga a go lekelela				2002-02-02 02:02:02
+cui	source\tabpages\strings.src	0	string	RID_SVXSTR_DESC_GRADIENT				25584	ns	Hle tsenya leina la mosekamo:				2002-02-02 02:02:02
+cui	source\tabpages\strings.src	0	string	RID_SVXSTR_ASK_CHANGE_GRADIENT				25584	ns	Mosekamo o fetošitšwe ka ntle le go bolokwa. \nFetoša mosekamo o kgethilwego goba oketša mosekamo o moswa.				2002-02-02 02:02:02
+cui	source\tabpages\strings.src	0	string	RID_SVXSTR_DESC_NEW_BITMAP				25584	ns	Hle tsenya leina la faeletsebišo:				2002-02-02 02:02:02
+cui	source\tabpages\strings.src	0	string	RID_SVXSTR_DESC_EXT_BITMAP				25584	ns	Hle tsenya leina la faeletsebišo ya ka ntle:				2002-02-02 02:02:02
+cui	source\tabpages\strings.src	0	string	RID_SVXSTR_ASK_DEL_BITMAP				25584	ns	Na o kgonthišegile gore o nyaka go phumola faeletsebišo?				2002-02-02 02:02:02
+cui	source\tabpages\strings.src	0	string	RID_SVXSTR_ASK_CHANGE_BITMAP				25584	ns	Faeletsebišo e fetošitšwe ka ntle le go bolokwa. \nFetoša faeletsebišo e kgethilwego goba o oketše faeletsebišo e mpsha.				2002-02-02 02:02:02
+cui	source\tabpages\strings.src	0	string	RID_SVXSTR_DESC_LINESTYLE				25584	ns	Hle tsenya leina la setaele sa mothaladi:				2002-02-02 02:02:02
+cui	source\tabpages\strings.src	0	string	RID_SVXSTR_ASK_CHANGE_LINESTYLE				25584	ns	Setaele sa mothaladi se fetošitšwe ka ntle le go bolokwa. \nFetoša setaele se kgethilwego sa mothaladi goba oketša setaele se seswa sa mothaladi.				2002-02-02 02:02:02
+cui	source\tabpages\strings.src	0	string	RID_SVXSTR_DESC_HATCH				25584	ns	Hle tsenya leina la phaphašo:				2002-02-02 02:02:02
+cui	source\tabpages\strings.src	0	string	RID_SVXSTR_ASK_DEL_HATCH				25584	ns	Na o nyaka go phumola phaphašo?				2002-02-02 02:02:02
+cui	source\tabpages\strings.src	0	string	RID_SVXSTR_ASK_CHANGE_HATCH				25584	ns	Mohuta wa go phaphaša o fetošitšwe eupša ga wa bolokwa. \nFetoša mohuta o kgethilwego wa go phaphaša goba oketša mohuta o moswa wa go phaphaša.				2002-02-02 02:02:02
+cui	source\tabpages\strings.src	0	string	RID_SVXSTR_DESC_COLOR				25584	ns	Hle tsenya leina la mmala o moswa:				2002-02-02 02:02:02
+cui	source\tabpages\strings.src	0	string	RID_SVXSTR_ASK_DEL_COLOR				25584	ns	Na o nyaka go phumola mmala?				2002-02-02 02:02:02
+cui	source\tabpages\strings.src	0	string	RID_SVXSTR_ASK_CHANGE_COLOR				25584	ns	Mmala o fetošitšwe ka ntle le go bolokwa.\nFetoša mmala o kgethilwego goba oketša mmala o moswa.				2002-02-02 02:02:02
+cui	source\tabpages\strings.src	0	string	RID_SVXSTR_READ_DATA_ERROR				26096	ns	Faele e ka se hlahlelwe!				2002-02-02 02:02:02
+cui	source\tabpages\strings.src	0	string	RID_SVXSTR_WARN_TABLE_OVERWRITE				25840	ns	Lenaneo le fetošitšwe ka ntle le go bolokwa. Na o ka rata go boloka lenaneo gona bjale?				2002-02-02 02:02:02
+cui	source\tabpages\strings.src	0	string	RID_SVXSTR_WARN_NAME_DUPLICATE				26120	ns	Leina leo o le tsentšhitšego le šetše le le gona. \nHle kgetha leina le lengwe.				2002-02-02 02:02:02
+cui	source\tabpages\strings.src	0	string	RID_SVXSTR_DESC_LINEEND				25584	ns	Hle tsenya leina bakeng sa hlogo e mpsha ya mosebe:				2002-02-02 02:02:02
+cui	source\tabpages\strings.src	0	string	RID_SVXSTR_ASK_DEL_LINEEND				25584	ns	Na o nyaka go phumola hlogo ya mosebe?				2002-02-02 02:02:02
+cui	source\tabpages\strings.src	0	string	RID_SVXSTR_ASK_CHANGE_LINEEND				25584	ns	Hlogo ya mosebe e fetošitšwe ka ntle le go bolokwa.\nNa o ka rata go boloka hlogo ya mosebe gona bjale?				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	radiobutton	RID_SVXPAGE_TRANSPARENCE	RBT_TRANS_OFF			110	ns	~Ga go na ponagatšo				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	radiobutton	RID_SVXPAGE_TRANSPARENCE	RBT_TRANS_LINEAR			60	ns	~Ponagatšo				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	radiobutton	RID_SVXPAGE_TRANSPARENCE	RBT_TRANS_GRADIENT			110	ns	Mosekamo				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	fixedtext	RID_SVXPAGE_TRANSPARENCE	FT_TRGR_TYPE			41	ns	Moh~uta				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	stringlist	RID_SVXPAGE_TRANSPARENCE.LB_TRGR_GRADIENT_TYPES	1			0	ns	Otlologilego				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	stringlist	RID_SVXPAGE_TRANSPARENCE.LB_TRGR_GRADIENT_TYPES	2			0	ns	Mothalo				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	stringlist	RID_SVXPAGE_TRANSPARENCE.LB_TRGR_GRADIENT_TYPES	3			0	ns	Radiyale				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	stringlist	RID_SVXPAGE_TRANSPARENCE.LB_TRGR_GRADIENT_TYPES	4			0	ns	Elipisoite				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	stringlist	RID_SVXPAGE_TRANSPARENCE.LB_TRGR_GRADIENT_TYPES	5			0	ns	Khwateratiki				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	stringlist	RID_SVXPAGE_TRANSPARENCE.LB_TRGR_GRADIENT_TYPES	6			0	ns	Sekwere				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	fixedtext	RID_SVXPAGE_TRANSPARENCE	FT_TRGR_CENTER_X			41	ns	Bogareng bja ~X				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	fixedtext	RID_SVXPAGE_TRANSPARENCE	FT_TRGR_CENTER_Y			41	ns	Bogareng bja~Y				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	fixedtext	RID_SVXPAGE_TRANSPARENCE	FT_TRGR_ANGLE			41	ns	~Khutlo				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	metricfield	RID_SVXPAGE_TRANSPARENCE	MTR_TRGR_ANGLE			40	ns	 ditikrii				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	fixedtext	RID_SVXPAGE_TRANSPARENCE	FT_TRGR_BORDER			41	ns	~Mollwane				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	tabpage	RID_SVXPAGE_TRANSPARENCE		HID_AREA_TRANSPARENCE		260	ns	Ponagatšo				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	fixedline	RID_SVXPAGE_AREA	FL_PROP			120	ns	Tlatša				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	stringlist	RID_SVXPAGE_AREA.LB_AREA_TYPE	1			0	ns	Ga di gona				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	stringlist	RID_SVXPAGE_AREA.LB_AREA_TYPE	2			0	ns	Mmala				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	stringlist	RID_SVXPAGE_AREA.LB_AREA_TYPE	3			0	ns	Mosekamo				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	stringlist	RID_SVXPAGE_AREA.LB_AREA_TYPE	4			0	ns	Phaphaša				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	stringlist	RID_SVXPAGE_AREA.LB_AREA_TYPE	5			0	ns	Faeletsebišo				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	tristatebox	RID_SVXPAGE_AREA	TSB_STEPCOUNT			68	ns	Bo~itirišo				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	checkbox	RID_SVXPAGE_AREA	CB_HATCHBCKGRD			122	ns	~Mmala wa bokamorago				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	fixedline	RID_SVXPAGE_AREA	FL_SIZE			122	ns	Bogolo				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	fixedtext	RID_SVXPAGE_AREA	FT_X_SIZE			24	ns	Bo~phara				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	fixedtext	RID_SVXPAGE_AREA	FT_Y_SIZE			24	ns	Boph~agamo				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	fixedline	RID_SVXPAGE_AREA	FL_POSITION			122	ns	Maemo				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	fixedtext	RID_SVXPAGE_AREA	FT_X_OFFSET			39	ns	~Teka-tekanyo ya X				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	fixedtext	RID_SVXPAGE_AREA	FT_Y_OFFSET			78	ns	~Teka-tekanyo ya Y				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	tristatebox	RID_SVXPAGE_AREA	TSB_TILE			54	ns	~Thaele				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	radiobutton	RID_SVXPAGE_AREA	RBT_COLUMN			75	ns	Kholo~mo				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	tabpage	RID_SVXPAGE_AREA		HID_AREA_AREA		260	ns	Lefelo				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	fixedline	RID_SVXPAGE_SHADOW	FL_PROP			248	ns	Diteng				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	fixedtext	RID_SVXPAGE_SHADOW	FT_POSITION			50	ns	~Maemo				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	fixedtext	RID_SVXPAGE_SHADOW	FT_DISTANCE			50	ns	~Bokgole				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	fixedtext	RID_SVXPAGE_SHADOW	FT_SHADOW_COLOR			50	ns	~Mmala				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	fixedtext	RID_SVXPAGE_SHADOW	FT_TRANSPARENT			50	ns	~Ponagatšo				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	tabpage	RID_SVXPAGE_SHADOW		HID_AREA_SHADOW		260	ns	Moriti				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	fixedline	RID_SVXPAGE_HATCH	FL_PROP			248	ns	Diteng				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	fixedtext	RID_SVXPAGE_HATCH	FT_LINE_DISTANCE			78	ns	~Katoganyo				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	fixedtext	RID_SVXPAGE_HATCH	FT_LINE_ANGLE			78	ns	K~hutlo				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	metricfield	RID_SVXPAGE_HATCH	MTR_FLD_ANGLE			50	ns	 ditikrii				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	stringlist	RID_SVXPAGE_HATCH.LB_LINE_TYPE	1			0	ns	O tee				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	stringlist	RID_SVXPAGE_HATCH.LB_LINE_TYPE	2			0	ns	Putlile				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	stringlist	RID_SVXPAGE_HATCH.LB_LINE_TYPE	3			0	ns	Gararo				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	pushbutton	RID_SVXPAGE_HATCH	BTN_ADD			50	ns	~Oketša...				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	pushbutton	RID_SVXPAGE_HATCH	BTN_MODIFY			50	ns	~Fetoša...				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	pushbutton	RID_SVXPAGE_HATCH	BTN_DELETE			50	ns	~Phumola...				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	imagebutton	RID_SVXPAGE_HATCH	BTN_LOAD			16	ns	-		Load Hatches List		2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	imagebutton	RID_SVXPAGE_HATCH	BTN_SAVE			16	ns	-		Save Hatches List		2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	tabpage	RID_SVXPAGE_HATCH		HID_AREA_HATCH		260	ns	Phaphaša				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	fixedline	RID_SVXPAGE_BITMAP	FL_PROP			248	ns	Diteng				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	fixedtext	RID_SVXPAGE_BITMAP	FT_COLOR			85	ns	~Mmala wa pele				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	fixedtext	RID_SVXPAGE_BITMAP	FT_BACKGROUND_COLOR			85	ns	~Mmala wa bokamorago				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	fixedtext	RID_SVXPAGE_BITMAP	FT_BITMAPS_HIDDEN			29880	ns	Faeletsebišo				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	pushbutton	RID_SVXPAGE_BITMAP	BTN_ADD			50	ns	~Oketša...				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	pushbutton	RID_SVXPAGE_BITMAP	BTN_MODIFY			50	ns	~Fetoša...				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	pushbutton	RID_SVXPAGE_BITMAP	BTN_DELETE			50	ns	~Phumola...				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	imagebutton	RID_SVXPAGE_BITMAP	BTN_LOAD			16	ns	-		Load Bitmap List		2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	imagebutton	RID_SVXPAGE_BITMAP	BTN_SAVE			16	ns	-		Save Bitmap List		2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	fixedline	RID_SVXPAGE_GRADIENT	FL_PROP			248	ns	Diteng				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	fixedtext	RID_SVXPAGE_GRADIENT	FT_TYPE			26	ns	Moh~uta				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	stringlist	RID_SVXPAGE_GRADIENT.LB_GRADIENT_TYPES	1			0	ns	Otlologilego				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	stringlist	RID_SVXPAGE_GRADIENT.LB_GRADIENT_TYPES	2			0	ns	Mothalo				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	stringlist	RID_SVXPAGE_GRADIENT.LB_GRADIENT_TYPES	3			0	ns	Radiyale				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	stringlist	RID_SVXPAGE_GRADIENT.LB_GRADIENT_TYPES	4			0	ns	Elipisoite				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	stringlist	RID_SVXPAGE_GRADIENT.LB_GRADIENT_TYPES	5			0	ns	Sekwere				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	fixedtext	RID_SVXPAGE_GRADIENT	FT_CENTER_X			37	ns	Bogareng bja ~X				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	fixedtext	RID_SVXPAGE_GRADIENT	FT_CENTER_Y			37	ns	Bogareng bja ~Y				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	fixedtext	RID_SVXPAGE_GRADIENT	FT_ANGLE			37	ns	K~hutlo				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	metricfield	RID_SVXPAGE_GRADIENT	MTR_ANGLE			40	ns	 ditikrii				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	fixedtext	RID_SVXPAGE_GRADIENT	FT_BORDER			32	ns	~Mollwane				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	fixedtext	RID_SVXPAGE_GRADIENT	FT_COLOR_FROM			32	ns	~Go tšwa go				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	fixedtext	RID_SVXPAGE_GRADIENT	FT_COLOR_TO			32	ns	~Go ya go				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	pushbutton	RID_SVXPAGE_GRADIENT	BTN_ADD			50	ns	~Oketša...				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	pushbutton	RID_SVXPAGE_GRADIENT	BTN_MODIFY			50	ns	~Fetoša...				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	pushbutton	RID_SVXPAGE_GRADIENT	BTN_DELETE			50	ns	~Phumola...				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	imagebutton	RID_SVXPAGE_GRADIENT	BTN_LOAD			16	ns	-		Load Gradients List		2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	imagebutton	RID_SVXPAGE_GRADIENT	BTN_SAVE			16	ns	-		Save Gradients List		2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	tabpage	RID_SVXPAGE_GRADIENT		HID_AREA_GRADIENT		260	ns	Mesekamo				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	fixedline	RID_SVXPAGE_COLOR	FL_PROP			248	ns	Diteng				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	fixedtext	RID_SVXPAGE_COLOR	FT_COLOR			28	ns	M~mala				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	stringlist	RID_SVXPAGE_COLOR.LB_COLORMODEL	1			0	ns	RGB				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	stringlist	RID_SVXPAGE_COLOR.LB_COLORMODEL	2			0	ns	CMYK				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	pushbutton	RID_SVXPAGE_COLOR	BTN_WORK_ON			50	ns	~Lokiša...				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	pushbutton	RID_SVXPAGE_COLOR	BTN_DELETE			50	ns	~Phumola...				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	imagebutton	RID_SVXPAGE_COLOR	BTN_LOAD			16	ns	-		Load Color List		2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	imagebutton	RID_SVXPAGE_COLOR	BTN_SAVE			16	ns	-		Save Color List		2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	tabpage	RID_SVXPAGE_COLOR		HID_OPTIONS_COLOR		260	ns	Mebala				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	pageitem	RID_SVXDLG_AREA.1	RID_SVXPAGE_AREA			30064	ns	Lefelo				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	pageitem	RID_SVXDLG_AREA.1	RID_SVXPAGE_SHADOW			29680	ns	Moriti				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	pageitem	RID_SVXDLG_AREA.1	RID_SVXPAGE_TRANSPARENCE			29680	ns	Ponagatšo				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	pageitem	RID_SVXDLG_AREA.1	RID_SVXPAGE_COLOR			29680	ns	Mebala				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	pageitem	RID_SVXDLG_AREA.1	RID_SVXPAGE_GRADIENT			29680	ns	Mesekamo				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	pageitem	RID_SVXDLG_AREA.1	RID_SVXPAGE_HATCH			29680	ns	Phaphaša				2002-02-02 02:02:02
+cui	source\tabpages\tabarea.src	0	tabdialog	RID_SVXDLG_AREA				289	ns	Lefelo				2002-02-02 02:02:02
+cui	source\tabpages\measure.src	0	fixedline	RID_SVXPAGE_MEASURE	FL_LINE			120	ns	Mothaladi				2002-02-02 02:02:02
+cui	source\tabpages\measure.src	0	fixedline	RID_SVXPAGE_MEASURE	FL_LABEL			122	ns	Nonwane				2002-02-02 02:02:02
+cui	source\tabpages\measure.src	0	tristatebox	RID_SVXPAGE_MEASURE	TSB_SHOW_UNIT			64	ns	Laetša ~diyuniti tša go lekanya				2002-02-02 02:02:02
+cui	source\tabpages\measure.src	0	string	RID_SVXPAGE_MEASURE	STR_MEASURE_AUTOMATIC			38072	ns	Boitirišo				2002-02-02 02:02:02
+cui	source\tabpages\measure.src	0	tabpage	RID_SVXPAGE_MEASURE		HID_PAGE_MEASURE		260	ns	Go lekanya				2002-02-02 02:02:02
+cui	source\tabpages\backgrnd.src	0	stringlist	RID_SVXPAGE_BACKGROUND.LB_SELECTOR	1			0	ns	Mmala				2002-02-02 02:02:02
+cui	source\tabpages\backgrnd.src	0	stringlist	RID_SVXPAGE_BACKGROUND.LB_TBL_BOX	1			0	ns	Sele				2002-02-02 02:02:02
+cui	source\tabpages\backgrnd.src	0	stringlist	RID_SVXPAGE_BACKGROUND.LB_TBL_BOX	2			0	ns	Mothalo				2002-02-02 02:02:02
+cui	source\tabpages\backgrnd.src	0	stringlist	RID_SVXPAGE_BACKGROUND.LB_TBL_BOX	3			0	ns	Lenaneo				2002-02-02 02:02:02
+cui	source\tabpages\backgrnd.src	0	stringlist	RID_SVXPAGE_BACKGROUND.LB_PARA_BOX	1			0	ns	Temana				2002-02-02 02:02:02
+cui	source\tabpages\backgrnd.src	0	stringlist	RID_SVXPAGE_BACKGROUND.LB_PARA_BOX	2			0	ns	Tlhaka				2002-02-02 02:02:02
+cui	source\tabpages\backgrnd.src	0	fixedline	RID_SVXPAGE_BACKGROUND	GB_BGDCOLOR			248	ns	Mmala wa bokamorago				2002-02-02 02:02:02
+cui	source\tabpages\backgrnd.src	0	fixedtext	RID_SVXPAGE_BACKGROUND	FT_COL_TRANS			50	ns	~Ponagatšo				2002-02-02 02:02:02
+cui	source\tabpages\backgrnd.src	0	fixedline	RID_SVXPAGE_BACKGROUND	GB_FILE			153	ns	Faele				2002-02-02 02:02:02
+cui	source\tabpages\backgrnd.src	0	fixedline	RID_SVXPAGE_BACKGROUND	GB_POSITION			153	ns	Mohuta				2002-02-02 02:02:02
+cui	source\tabpages\backgrnd.src	0	radiobutton	RID_SVXPAGE_BACKGROUND	BTN_POSITION			49	ns	~Maemo				2002-02-02 02:02:02
+cui	source\tabpages\backgrnd.src	0	radiobutton	RID_SVXPAGE_BACKGROUND	BTN_TILE			49	ns	~Thaele				2002-02-02 02:02:02
+cui	source\tabpages\backgrnd.src	0	fixedline	RID_SVXPAGE_BACKGROUND	FL_GRAPH_TRANS			153	ns	Ponagatšo				2002-02-02 02:02:02
+cui	source\tabpages\backgrnd.src	0	checkbox	RID_SVXPAGE_BACKGROUND	BTN_PREVIEW			141	ns	Pone~lopele				2002-02-02 02:02:02
+cui	source\tabpages\backgrnd.src	0	tabpage	RID_SVXPAGE_BACKGROUND		HID_BACKGROUND		260	ns	Bokamorago				2002-02-02 02:02:02
+cui	source\tabpages\textanim.src	0	imagebutton	RID_SVXPAGE_TEXTANIMATION	BTN_UP			46408	ns	-		To Top		2002-02-02 02:02:02
+cui	source\tabpages\textanim.src	0	imagebutton	RID_SVXPAGE_TEXTANIMATION	BTN_LEFT			46600	ns	-		To Left		2002-02-02 02:02:02
+cui	source\tabpages\textanim.src	0	imagebutton	RID_SVXPAGE_TEXTANIMATION	BTN_RIGHT			46600	ns	-		To Right		2002-02-02 02:02:02
+cui	source\tabpages\textanim.src	0	imagebutton	RID_SVXPAGE_TEXTANIMATION	BTN_DOWN			46600	ns	-		To Bottom		2002-02-02 02:02:02
+cui	source\tabpages\textanim.src	0	fixedline	RID_SVXPAGE_TEXTANIMATION	FL_PROPERTIES			0	ns	Diteng				2002-02-02 02:02:02
+cui	source\tabpages\textanim.src	0	fixedtext	RID_SVXPAGE_TEXTANIMATION	FT_AMOUNT			46568	ns	Koketšo				2002-02-02 02:02:02
+cui	source\tabpages\textanim.src	0	tristatebox	RID_SVXPAGE_TEXTANIMATION	TSB_AUTO			71	ns	~Boitirišo				2002-02-02 02:02:02
+cui	source\tabpages\textanim.src	0	pageitem	RID_SVXDLG_TEXT.1	RID_SVXPAGE_TEXTATTR			46792	ns	Sengwalwa				2002-02-02 02:02:02
+cui	source\tabpages\textanim.src	0	tabdialog	RID_SVXDLG_TEXT				289	ns	Sengwalwa				2002-02-02 02:02:02
+cui	source\tabpages\frmdirlbox.src	0	string	RID_SVXSTR_FRAMEDIR_LTR				22312	ns	La nngele go ya go la go ja				2002-02-02 02:02:02
+cui	source\tabpages\frmdirlbox.src	0	string	RID_SVXSTR_FRAMEDIR_RTL				21488	ns	La go ja go ya go la nngele				2002-02-02 02:02:02
+cui	source\tabpages\frmdirlbox.src	0	string	RID_SVXSTR_PAGEDIR_LTR_HORI				21992	ns	La nngele go ya go la go ja (rapamego)				2002-02-02 02:02:02
+cui	source\tabpages\frmdirlbox.src	0	string	RID_SVXSTR_PAGEDIR_RTL_HORI				21488	ns	La go ja go ya go la nngele (rapamego)				2002-02-02 02:02:02
+cui	source\tabpages\frmdirlbox.src	0	string	RID_SVXSTR_PAGEDIR_LTR_VERT				21488	ns	La nngele go ya go la go ja (tsepama)				2002-02-02 02:02:02
+cui	source\tabpages\labdlg.src	0	fixedtext	RID_SVXPAGE_CAPTION	FT_ABSTAND			42	ns	~Katoganyo				2002-02-02 02:02:02
+cui	source\tabpages\labdlg.src	0	fixedtext	RID_SVXPAGE_CAPTION	FT_WINKEL			35	ns	~Khutlo				2002-02-02 02:02:02
+cui	source\tabpages\labdlg.src	0	stringlist	RID_SVXPAGE_CAPTION.LB_WINKEL	1			0	ns	Lokologilego				2002-02-02 02:02:02
+cui	source\tabpages\labdlg.src	0	fixedtext	RID_SVXPAGE_CAPTION	FT_ANSATZ			42	ns	~Koketšo				2002-02-02 02:02:02
+cui	source\tabpages\labdlg.src	0	stringlist	RID_SVXPAGE_CAPTION.LB_ANSATZ	2			0	ns	Go tloga godimo				2002-02-02 02:02:02
+cui	source\tabpages\labdlg.src	0	stringlist	RID_SVXPAGE_CAPTION.LB_ANSATZ	4			0	ns	Rapamego				2002-02-02 02:02:02
+cui	source\tabpages\labdlg.src	0	stringlist	RID_SVXPAGE_CAPTION.LB_ANSATZ	5			0	ns	Tsepamego				2002-02-02 02:02:02
+cui	source\tabpages\labdlg.src	0	fixedtext	RID_SVXPAGE_CAPTION	FT_UM			35	ns	~Ka				2002-02-02 02:02:02
+cui	source\tabpages\labdlg.src	0	fixedtext	RID_SVXPAGE_CAPTION	FT_ANSATZ_REL			35	ns	~Maemo				2002-02-02 02:02:02
+cui	source\tabpages\labdlg.src	0	fixedtext	RID_SVXPAGE_CAPTION	FT_LAENGE			42	ns	~Botelele				2002-02-02 02:02:02
+cui	source\tabpages\labdlg.src	0	tabpage	RID_SVXPAGE_CAPTION		HID_CAPTION		260	ns	Dipitšo				2002-02-02 02:02:02
+cui	source\tabpages\labdlg.src	0	#define	_POS_SIZE_TEXT				1464	ns	Boemo le bogolo				2002-02-02 02:02:02
+cui	source\tabpages\labdlg.src	0	tabdialog	RID_SVXDLG_CAPTION				237	ns	Dipitšo				2002-02-02 02:02:02
+sd	source\ui\view\DocumentRenderer.src	0	string	_STR_IMPRESS_PRINT_UI_OPTIONS	_STR_IMPRESS_PRINT_UI_PRINT_CONTENT			34432	ns	Gatiša dikagare				2002-02-02 02:02:02
+sd	source\ui\view\DocumentRenderer.src	0	string	_STR_IMPRESS_PRINT_UI_OPTIONS	_STR_IMPRESS_PRINT_UI_CONTENT			33776	ns	Tokumente				2002-02-02 02:02:02
+sd	source\ui\view\DocumentRenderer.src	0	itemlist	_STR_IMPRESS_PRINT_UI_OPTIONS._STR_IMPRESS_PRINT_UI_CONTENT_CHOICES	1			0	ns	Diselaete				2002-02-02 02:02:02
+sd	source\ui\view\DocumentRenderer.src	0	itemlist	_STR_IMPRESS_PRINT_UI_OPTIONS._STR_IMPRESS_PRINT_UI_CONTENT_CHOICES	2			0	ns	Difiwa				2002-02-02 02:02:02
+sd	source\ui\view\DocumentRenderer.src	0	itemlist	_STR_IMPRESS_PRINT_UI_OPTIONS._STR_IMPRESS_PRINT_UI_CONTENT_CHOICES	4			0	ns	Kakaretšo				2002-02-02 02:02:02
+sd	source\ui\view\DocumentRenderer.src	0	string	_STR_IMPRESS_PRINT_UI_OPTIONS	_STR_IMPRESS_PRINT_UI_SLIDESPERPAGE			34088	ns	Diselaete go ya ka letlakala				2002-02-02 02:02:02
+sd	source\ui\view\DocumentRenderer.src	0	itemlist	_STR_IMPRESS_PRINT_UI_OPTIONS._STR_IMPRESS_PRINT_UI_SLIDESPERPAGE_CHOICES	2			0	ns	1				2002-02-02 02:02:02
+sd	source\ui\view\DocumentRenderer.src	0	itemlist	_STR_IMPRESS_PRINT_UI_OPTIONS._STR_IMPRESS_PRINT_UI_SLIDESPERPAGE_CHOICES	3			0	ns	2				2002-02-02 02:02:02
+sd	source\ui\view\DocumentRenderer.src	0	itemlist	_STR_IMPRESS_PRINT_UI_OPTIONS._STR_IMPRESS_PRINT_UI_SLIDESPERPAGE_CHOICES	4			0	ns	3				2002-02-02 02:02:02
+sd	source\ui\view\DocumentRenderer.src	0	itemlist	_STR_IMPRESS_PRINT_UI_OPTIONS._STR_IMPRESS_PRINT_UI_SLIDESPERPAGE_CHOICES	5			0	ns	4				2002-02-02 02:02:02
+sd	source\ui\view\DocumentRenderer.src	0	itemlist	_STR_IMPRESS_PRINT_UI_OPTIONS._STR_IMPRESS_PRINT_UI_SLIDESPERPAGE_CHOICES	6			0	ns	6				2002-02-02 02:02:02
+sd	source\ui\view\DocumentRenderer.src	0	itemlist	_STR_IMPRESS_PRINT_UI_OPTIONS._STR_IMPRESS_PRINT_UI_SLIDESPERPAGE_CHOICES	7			0	ns	9				2002-02-02 02:02:02
+sd	source\ui\view\DocumentRenderer.src	0	string	_STR_IMPRESS_PRINT_UI_OPTIONS	_STR_IMPRESS_PRINT_UI_ORDER			33992	ns	Tatelano				2002-02-02 02:02:02
+sd	source\ui\view\DocumentRenderer.src	0	string	_STR_IMPRESS_PRINT_UI_OPTIONS	_STR_IMPRESS_PRINT_UI_IS_PRINT_DATE			34104	ns	~Letšatšikgwedi le nako				2002-02-02 02:02:02
+sd	source\ui\view\DocumentRenderer.src	0	string	_STR_IMPRESS_PRINT_UI_OPTIONS	_STR_IMPRESS_PRINT_UI_QUALITY			34344	ns	Mmala				2002-02-02 02:02:02
+sd	source\ui\view\DocumentRenderer.src	0	itemlist	_STR_IMPRESS_PRINT_UI_OPTIONS._STR_IMPRESS_PRINT_UI_QUALITY_CHOICES	2			0	ns	Kreisekheile				2002-02-02 02:02:02
+sd	source\ui\view\DocumentRenderer.src	0	string	_STR_IMPRESS_PRINT_UI_OPTIONS	_STR_IMPRESS_PRINT_UI_PAGE_OPTIONS			33984	ns	~Bogolo				2002-02-02 02:02:02
+sd	source\ui\view\DocumentRenderer.src	0	string	_STR_IMPRESS_PRINT_UI_OPTIONS	_STR_IMPRESS_PRINT_UI_BROCHURE_INCLUDE			34336	ns	Akaretša				2002-02-02 02:02:02
+sd	source\ui\view\DocumentRenderer.src	0	itemlist	_STR_IMPRESS_PRINT_UI_OPTIONS._STR_IMPRESS_PRINT_UI_BROCHURE_INCLUDE_LIST	1			0	ns	Matlakala ka moka				2002-02-02 02:02:02
+basctl	source\basicide\basidesh.src	0	string	RID_STR_USERFORMS				5304	ns	Diforomo				2002-02-02 02:02:02
+xmlsecurity	source\dialogs\digitalsignaturesdialog.src	0	okbutton	RID_XMLSECDLG_DIGSIG	BTN_OK			50	ns	Tswalela				2002-02-02 02:02:02
+sdext	source\presenter\help\en-US\com.sun.PresenterScreen\presenter.xhp	0	help	par_id0921200901104277				0	ns	Mafelelo				2002-02-02 02:02:02
+javainstaller2	src\Localization\setupstrings.ulf	0	LngText	STRING_PROLOGUE1				0	ns	O a amogelwa				2002-02-02 02:02:02
+editeng	source\items\svxitems.src	0	string	RID_SVXITEMS_ADJUST_LEFT				37872	ns	Tsepanya ka go la nngele				2002-02-02 02:02:02
+editeng	source\items\svxitems.src	0	string	RID_SVXITEMS_ADJUST_RIGHT				37872	ns	Tsepanya ka go la go ja				2002-02-02 02:02:02
+editeng	source\items\svxitems.src	0	string	RID_SVXITEMS_HORJUST_STANDARD				38376	ns	Tirelwa ya tsepanyo e rapamego				2002-02-02 02:02:02
+editeng	source\items\svxitems.src	0	string	RID_SVXITEMS_HORJUST_LEFT				37872	ns	Tsepanya ka go la nngele				2002-02-02 02:02:02
+editeng	source\items\svxitems.src	0	string	RID_SVXITEMS_HORJUST_CENTER				38128	ns	Beilwe gare ka go rapama				2002-02-02 02:02:02
+editeng	source\items\svxitems.src	0	string	RID_SVXITEMS_HORJUST_RIGHT				37872	ns	Tsepanya ka go la go ja				2002-02-02 02:02:02
+editeng	source\items\svxitems.src	0	string	RID_SVXITEMS_HORJUST_BLOCK				37872	ns	Lokafatša				2002-02-02 02:02:02
+editeng	source\items\svxitems.src	0	string	RID_SVXITEMS_HORJUST_REPEAT				38088	ns	Boeletša tsepanyo				2002-02-02 02:02:02
+editeng	source\items\svxitems.src	0	string	RID_SVXITEMS_VERJUST_STANDARD				38072	ns	Tirelwa ya tsepanyo e tsepamego				2002-02-02 02:02:02
+editeng	source\items\svxitems.src	0	string	RID_SVXITEMS_VERJUST_TOP				37872	ns	Lekanya go ya godimo				2002-02-02 02:02:02
+editeng	source\items\svxitems.src	0	string	RID_SVXITEMS_VERJUST_CENTER				37872	ns	Beilwe gare ka go tsepama				2002-02-02 02:02:02
+editeng	source\items\svxitems.src	0	string	RID_SVXITEMS_VERJUST_BOTTOM				37872	ns	Lekanya go ya fase				2002-02-02 02:02:02
+editeng	source\items\page.src	0	string	RID_SVXSTR_PAPER_SCREEN				58352	ns	Lebato la galase				2002-02-02 02:02:02
+editeng	source\items\page.src	0	string	RID_SVXSTR_PAPERBIN_SETTINGS				58856	ns	[Go tšwa go dipeakanyo tša segatiši]				2002-02-02 02:02:02
+editeng	source\misc\lingu.src	0	querybox	RID_SVXQB_CONTINUE				1576	ns	Tšwelapele go lekola go tloga mathomong a tokumente?				2002-02-02 02:02:02
+editeng	source\misc\lingu.src	0	querybox	RID_SVXQB_BW_CONTINUE				1296	ns	Tšwelapele go lekola go tloga mafelelong a tokumente?				2002-02-02 02:02:02
+editeng	source\misc\lingu.src	0	string	RID_SVXSTR_HMERR_THESAURUS				1008	ns	Polokelo ya mantšu ga e hwetšagale bakeng sa leleme leo le kgethilwego.\nHle lekola go tsenya ga gago gomme o tsenye leleme le o le ratago\n				2002-02-02 02:02:02
+editeng	source\misc\lingu.src	0	string	RID_SVXSTR_DIC_ERR_UNKNOWN				1208	ns	Lentšu le ka se oketšwe pukuntšung\nka baka la lebaka le sa tsebjwego.				2002-02-02 02:02:02
+editeng	source\misc\lingu.src	0	string	RID_SVXSTR_DIC_ERR_FULL				1208	ns	Pukuntšu e šetše e tletše.				2002-02-02 02:02:02
+editeng	source\misc\lingu.src	0	string	RID_SVXSTR_DIC_ERR_READONLY				1008	ns	Pukuntšu e balwa feela.				2002-02-02 02:02:02
+extensions	source\propctrlr\formres.src	0	string	RID_STR_EVT_ACTIONPERFORMED				62448	ns	Phethagatša tiro				2002-02-02 02:02:02
+extensions	source\propctrlr\formres.src	0	string	RID_STR_EVT_APPROVEACTIONPERFORMED				62448	ns	Dumelela tiro				2002-02-02 02:02:02
+extensions	source\propctrlr\formres.src	0	string	RID_STR_FONTSTYLE_REGULAR				62856	ns	Tlwaelegilego				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_CHECKING				0	ns	Go lekola...				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_RELOAD_CONTINUE				50160	ns	Tšwela pele				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_APP_OCTSTREAM				46672	ns	Faele ya paenari				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_APP_PDF				46064	ns	Faele ya PDF				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_APP_RTF				46528	ns	Faele ya RTF				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_APP_STARCALC				46064	ns	Letlakala-kalo la %PRODUCTNAME				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_APP_STARIMAGE				46064	ns	Seswantšho sa %PRODUCTNAME				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_APP_STARMATH				46064	ns	Fomula ya %PRODUCTNAME				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_APP_STARWRITER				46064	ns	Sengwalwa sa %PRODUCTNAME				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_APP_ZIP				46064	ns	Faele ya ZIP				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_APP_JAR				46600	ns	Faele ya JAR				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_AUDIO_AIFF				46624	ns	Faele ya odiyo				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_AUDIO_BASIC				46624	ns	Faele ya odiyo				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_AUDIO_MIDI				46624	ns	Faele ya odiyo				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_AUDIO_WAV				46624	ns	Faele ya odiyo				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_TEXT_VCARD				46624	ns	Faele ya karata ya bidio				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_VIDEO_VDO				46624	ns	Faele ya bidio				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_VIDEO_MSVIDEO				46608	ns	Faele ya bidio				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_X_STARMAIL				46600	ns	Molaetša				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_X_VRML				46064	ns	Fale ya VRML				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_APP_STARIMPRESS				46536	ns	Tlhagišo ya %PRODUCTNAME				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_APP_IMPRESSPACKED				46384	ns	Tlhagišo ya %PRODUCTNAME (pakilwego)				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_APP_STARHELP				46280	ns	Thušo ya %PRODUCTNAME				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_CNT_MSG				46568	ns	Molaetša				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_CNT_DOCUMENT				46584	ns	Tokumente				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_CNT_POP3BOX				46064	ns	Akhaonto ya POP3				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_CNT_IMAPBOX				46064	ns	Akhaonto ya IMAP				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_CNT_VIMBOX				46064	ns	Akhaonto ya VIM				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_CNT_BBBOX				46064	ns	Dihlopha tša ditaba				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_CNT_VIM_BB				46064	ns	Sehlopha sa ditaba				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_CNT_NEWSBOX				46064	ns	Ditaba				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_CNT_NEWSGRP				46296	ns	Sehlopha				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_CNT_OUTBOX				46064	ns	Tše tšwago				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_CNT_FTPBOX				46296	ns	Akhaonto ya FTP				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_CNT_FTPFLD				46280	ns	Foltara ya FTP				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_CNT_FTPFILE				46064	ns	Faele ya FTP				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_CNT_FTPLINK				46304	ns	Lomaganyo ya FTP				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_CNT_HTTPBOX				46064	ns	HTTP				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_CNT_FSYSBOX				46064	ns	Lefelo la mošomo				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_CNT_PUBLBOX				46544	ns	Projeke				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_CNT_SRCHBOX				46064	ns	Hwetša				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_CNT_SUBSCRBOX				46064	ns	Dingwadišo				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_CNT_BOOKMARK				46400	ns	Ngwadišo ya pukutshwayo				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_CNT_CDF				46536	ns	Ngwadišo ya kanale				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_CNT_CDFSUB				46064	ns	Ngwadišo ya kanale				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_CNT_CDFITEM				46064	ns	Ngwadišo ya kanale				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_CNT_STARCHANNEL				46064	ns	StarChannel				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_CNT_TRASHBOX				46064	ns	Motomo wa go diriša gape				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_CNT_TRASH				46280	ns	Sedirišwa seo se phumotšwego				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_CNT_RAM_VOL				46296	ns	Disk ya RAM				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_CNT_DISK_35				46304	ns	Tisiki ya 3.5''				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_CNT_DISK_525				46064	ns	Tisiki ya 5.25''				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_CNT_TAPEDRIVE				46064	ns	Traebe ya theipi				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_APP_GAL_THEME				46064	ns	Sehlogo sa bobolokela-diswantšho				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_APP_SDM				46528	ns	Molaetša				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_APP_SMD				46576	ns	Molaetša				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_SCHEDULE				46504	ns	Mešongwana le ditiragalo				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_SCHEDULE_EVT				46456	ns	Tebelelo ya ditiragalo ya %PRODUCTNAME				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_SCHEDULE_TASK				46064	ns	Tebelelo ya mošongwana ya %PRODUCTNAME				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_SCHEDULE_FEVT				46064	ns	Tiragalo ya %PRODUCTNAME				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_SCHEDULE_FTASK				46064	ns	Mošongwana wa %PRODUCTNAME				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_FRAMESET				46064	ns	Tokumente ya go beakanya foreimi				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_MACRO				46064	ns	Faele ya makhro				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_CNT_SFSYSFILE				46280	ns	Sedirišwa sa tshepedišo				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_APP_TEMPLATE				46432	ns	Thempoleiti ya %PRODUCTNAME				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_TEXT_VCALENDAR				46520	ns	Faele ya khalendara ya bidio				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_TEXT_ICALENDAR				46064	ns	Faele ya khalendara ya i				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_TEXT_XMLICALENDAR				46400	ns	Faele ya khalendara ya i ya XML				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_TEXT_CDE_CALENDAR_APP				46392	ns	Faele ya khalendara ya CDE				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_INET_MSG_RFC822				46280	ns	molaetša/rfc822				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_INET_MULTI_ALTERNATIVE				46064	ns	karolo yeo e lego gantši/šielanago				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_INET_MULTI_DIGEST				46064	ns	karolo yeo e lego gantši/kakaretšo				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_INET_MULTI_PARALLEL				46064	ns	karolo yeo e lego gantši/bapelanego				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_INET_MULTI_RELATED				46064	ns	karolo yeo e lego gantši/tswalanego				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_INET_MULTI_MIXED				46280	ns	karolo yeo e lego gantši/tswakilwego				2002-02-02 02:02:02
+svx	source\dialog\svxbmpnumvalueset.src	0	string	RID_SVXSTR_BULLET_DESCRIPTION_0				0	ns	Dipulete tša kgokolo tše dinyenyane tšeo di tiilego				2002-02-02 02:02:02
+svx	source\dialog\svxbmpnumvalueset.src	0	string	RID_SVXSTR_BULLET_DESCRIPTION_1				58704	ns	Dipulete tša kgokolo tše dikgolo tšeo di tiilego				2002-02-02 02:02:02
+svx	source\dialog\svxbmpnumvalueset.src	0	string	RID_SVXSTR_BULLET_DESCRIPTION_2				58352	ns	Dipulete tša taamane tšeo di tiilego				2002-02-02 02:02:02
+svx	source\dialog\svxbmpnumvalueset.src	0	string	RID_SVXSTR_BULLET_DESCRIPTION_3				58352	ns	Dipulete tša sekwere tše dikgolo tšeo di tiilego				2002-02-02 02:02:02
+svx	source\dialog\svxbmpnumvalueset.src	0	string	RID_SVXSTR_BULLET_DESCRIPTION_4				58872	ns	Dipulete tša mosebe tšeo di lebilego go la go ja tšeo di tladitšwego				2002-02-02 02:02:02
+svx	source\dialog\svxbmpnumvalueset.src	0	string	RID_SVXSTR_BULLET_DESCRIPTION_5				58888	ns	Dipulete tša mosebe tšeo di lebilego go la go ja				2002-02-02 02:02:02
+svx	source\dialog\svxbmpnumvalueset.src	0	string	RID_SVXSTR_BULLET_DESCRIPTION_6				58888	ns	Lekola dipulete tša go swaya				2002-02-02 02:02:02
+svx	source\dialog\svxbmpnumvalueset.src	0	string	RID_SVXSTR_BULLET_DESCRIPTION_7				58888	ns	Swaya dipulete tša go swaya				2002-02-02 02:02:02
+svx	source\dialog\svxbmpnumvalueset.src	0	string	RID_SVXSTR_SINGLENUM_DESCRIPTION_0				58352	ns	Nomoro 1) 2) 3)				2002-02-02 02:02:02
+svx	source\dialog\svxbmpnumvalueset.src	0	string	RID_SVXSTR_SINGLENUM_DESCRIPTION_1				58888	ns	Nomoro 1. 2. 3.				2002-02-02 02:02:02
+svx	source\dialog\svxbmpnumvalueset.src	0	string	RID_SVXSTR_SINGLENUM_DESCRIPTION_2				58888	ns	Nomoro (1) (2) (3)				2002-02-02 02:02:02
+svx	source\dialog\svxbmpnumvalueset.src	0	string	RID_SVXSTR_SINGLENUM_DESCRIPTION_3				58904	ns	Nomoro ya se-Roma ya tlhakakgolo I. II. III.				2002-02-02 02:02:02
+svx	source\dialog\svxbmpnumvalueset.src	0	string	RID_SVXSTR_SINGLENUM_DESCRIPTION_4				58904	ns	Leletere la tlhakakgolo A) B) C)				2002-02-02 02:02:02
+svx	source\dialog\svxbmpnumvalueset.src	0	string	RID_SVXSTR_SINGLENUM_DESCRIPTION_5				58904	ns	Leletere la tlhaka e nyenyane a) b) c)				2002-02-02 02:02:02
+svx	source\dialog\svxbmpnumvalueset.src	0	string	RID_SVXSTR_SINGLENUM_DESCRIPTION_6				58904	ns	Leletere la tlhaka e nyenyane (a) (b) (c)				2002-02-02 02:02:02
+svx	source\dialog\svxbmpnumvalueset.src	0	string	RID_SVXSTR_SINGLENUM_DESCRIPTION_7				58864	ns	Nomoro ya se-Roma ya tlhaka e nyenyane i. ii. iii.				2002-02-02 02:02:02
+svx	source\dialog\svxbmpnumvalueset.src	0	string	RID_SVXSTR_OUTLINENUM_DESCRIPTION_0				58864	ns	Nomorofatšo, nomorofatšo, maletere a tlhaka e nyenyane, pulete ya kgokolo e nyenyane e tiilego				2002-02-02 02:02:02
+svx	source\dialog\svxbmpnumvalueset.src	0	string	RID_SVXSTR_OUTLINENUM_DESCRIPTION_1				58864	ns	Nomorofatšo, maletere a tlhaka e nyenyane, pulete ya kgokolo e nyenyane e tiilego				2002-02-02 02:02:02
+svx	source\dialog\svxbmpnumvalueset.src	0	string	RID_SVXSTR_OUTLINENUM_DESCRIPTION_2				58872	ns	Nomorofatšo, maletere a tlhaka e nyenyane, se-Roma sa tlhaka e nyenyane, maletere a tlhakakgolo, pulete ya kgokolo e nyenyane e tiilego				2002-02-02 02:02:02
+svx	source\dialog\svxbmpnumvalueset.src	0	string	RID_SVXSTR_OUTLINENUM_DESCRIPTION_4				58872	ns	Se-Roma sa tlhakakgolo, maletere a tlhakakgolo, se-Roma sa tlhaka e nyenyane, maletere a tlhaka e nyenyane, pulete ya kgokolo e nyenyane e tiilego				2002-02-02 02:02:02
+svx	source\dialog\svxbmpnumvalueset.src	0	string	RID_SVXSTR_OUTLINENUM_DESCRIPTION_5				58872	ns	Maletere a tlhakakgolo, se-Roma sa tlhakakgolo, maletere a tlhaka e nyenyane, se-Roma sa tlhaka e nyenyane, pulete ya kgokolo e nyenyane e tiilego				2002-02-02 02:02:02
+svx	source\dialog\svxbmpnumvalueset.src	0	string	RID_SVXSTR_OUTLINENUM_DESCRIPTION_6				58872	ns	Nomorofatšo yeo e nago le dikgato tšohle tše nyenyane				2002-02-02 02:02:02
+svx	source\dialog\svxbmpnumvalueset.src	0	string	RID_SVXSTR_OUTLINENUM_DESCRIPTION_7				58352	ns	Pulete yeo e lebilego go la go ja, pulete ya mosebe wo o lebilego go la go ja, pulete ya taamane yeo e tiilego, pulete ya kgokolo e nyenyane yeo e tiilego				2002-02-02 02:02:02
+svx	source\dialog\optgrid.src	0	checkbox	RID_SVXPAGE_GRID	CBX_USE_GRIDSNAP			204	ns	Kg~aola go ya go kriti				2002-02-02 02:02:02
+svx	source\dialog\optgrid.src	0	checkbox	RID_SVXPAGE_GRID	CBX_GRID_VISIBLE			204	ns	Kr~iti e bonagalago				2002-02-02 02:02:02
+svx	source\dialog\optgrid.src	0	fixedline	RID_SVXPAGE_GRID	FL_DIVISION			124	ns	Karolwana				2002-02-02 02:02:02
+svx	source\dialog\optgrid.src	0	fixedtext	RID_SVXPAGE_GRID	FT_HORZ_POINTS			29	ns	dintlha				2002-02-02 02:02:02
+svx	source\dialog\optgrid.src	0	checkbox	RID_SVXPAGE_GRID	CBX_SYNCHRONIZE			127	ns	Kwantšha dia~se				2002-02-02 02:02:02
+svx	source\dialog\optgrid.src	0	fixedline	RID_SVXPAGE_GRID	GRP_SNAP			120	ns	Kgaola				2002-02-02 02:02:02
+svx	source\dialog\optgrid.src	0	checkbox	RID_SVXPAGE_GRID	CBX_SNAP_HELPLINES			106	ns	Go kgaola methaladi				2002-02-02 02:02:02
+svx	source\dialog\optgrid.src	0	checkbox	RID_SVXPAGE_GRID	CBX_SNAP_BORDER			106	ns	Go mellwane ya ~letlakala				2002-02-02 02:02:02
+svx	source\dialog\optgrid.src	0	checkbox	RID_SVXPAGE_GRID	CBX_SNAP_FRAME			106	ns	Go ~foreimi ya sedirišwa				2002-02-02 02:02:02
+svx	source\dialog\optgrid.src	0	checkbox	RID_SVXPAGE_GRID	CBX_SNAP_POINTS			106	ns	Go dintlha ~tša sedirišwa				2002-02-02 02:02:02
+svx	source\dialog\optgrid.src	0	fixedtext	RID_SVXPAGE_GRID	FT_SNAP_AREA			69	ns	Mehuta ya go ~kgaola				2002-02-02 02:02:02
+svx	source\dialog\optgrid.src	0	fixedline	RID_SVXPAGE_GRID	GRP_ORTHO			124	ns	Maemo a go kgaola				2002-02-02 02:02:02
+svx	source\dialog\optgrid.src	0	checkbox	RID_SVXPAGE_GRID	CBX_ORTHO			112	ns	~Ge o hlama goba o šuthiša didirišwa				2002-02-02 02:02:02
+svx	source\dialog\optgrid.src	0	checkbox	RID_SVXPAGE_GRID	CBX_BIGORTHO			112	ns	Dintlha tše di ok~editšwego				2002-02-02 02:02:02
+svx	source\dialog\optgrid.src	0	checkbox	RID_SVXPAGE_GRID	CBX_ROTATE			55	ns	Ge e di~kologa				2002-02-02 02:02:02
+svx	source\dialog\optgrid.src	0	fixedtext	RID_SVXPAGE_GRID	FT_BEZ_ANGLE			55	ns	Ph~okotšo ya ntlha				2002-02-02 02:02:02
+svx	source\gallery2\galtheme.src	0	string	RID_GALLERYSTR_THEME_FLOWCHARTS_1				21488	ns	Ditšhate tša go elela				2002-02-02 02:02:02
+svx	source\gallery2\galtheme.src	0	string	RID_GALLERYSTR_THEME_NUMBERS				22024	ns	Dinomoro				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	2			0	ns	Poratšhe				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	3			0	ns	Dikemišo tša thepo				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	4			0	ns	Tlhaka				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	5			0	ns	Fonte				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	6			0	ns	Popego ya fonte				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	7			0	ns	Boima bja fonte				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	10			0	ns	Kakaretšo				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	11			0	ns	Putla				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	12			0	ns	Thalela				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	13			0	ns	Bogolo bja fonte				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	16			0	ns	Kerning				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	17			0	ns	Ditla-morago				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	18			0	ns	Leleme				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	19			0	ns	Maemo				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	21			0	ns	Mmala wa peakanyo ya tlhaka				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	23			0	ns	Temana				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	24			0	ns	Tsepanyo				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	25			0	ns	Katoganyo ya methaladi				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	26			0	ns	Kgaotšo ya letlakala				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	27			0	ns	Tlemaganyo				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	28			0	ns	O se ke wa arola temana				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	29			0	ns	Ditšhuana				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	30			0	ns	Bahlolo				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	35			0	ns	Letlakala				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	39			0	ns	Rejistara ya nnete				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	41			0	ns	Fonte ya Asia				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	42			0	ns	Bogolo bja fonte ya Asia				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	46			0	ns	CTL				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	47			0	ns	Bogolo bja dikripte tše di raraganego				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	48			0	ns	Leleme la dikripte tše di raraganego				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	49			0	ns	Popego ya dikripte tše di raraganego				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	50			0	ns	Boima bja dikripte tše di raraganego				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	51			0	ns	Methaladi yeo e lego gabedi				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	52			0	ns	Leswao la go gatelela				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	53			0	ns	Katoganyo ya sengwalwa				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	54			0	ns	Maswaodikga ao a lekelelago				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	55			0	ns	Ditlhaka tše ileditšwego				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	56			0	ns	Go dikologa				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	58			0	ns	Kimollo				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	itemlist	RID_ATTR_NAMES	59			0	ns	Tsepanyo ya sengwalwa ya go tsepama				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	string	RID_SVXITEMS_EXTRAS_CHARCOLOR				29680	ns	Mmala wa fonte				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	string	RID_SVXITEMS_SEARCHSTYL_PAGE				29680	ns	Setaele sa letlakala				2002-02-02 02:02:02
+svx	source\items\svxitems.src	0	string	RID_SVXITEMS_BRUSH_CHAR				30120	ns	Bokamorago bja tlhaka				2002-02-02 02:02:02
+svx	source\tbxctrls\tbunosearchcontrollers.src	0	string	RID_SVXSTR_FINDBAR_FIND				0	ns	Hwetša				2002-02-02 02:02:02
+filter	source\pdf\impdialog.src	0	radiobutton	RID_PDF_TAB_OPNFTR	RB_MAGNF_WIDTH			158	ns	Lekantšha ~bophara				2002-02-02 02:02:02
+scp2	source\accessories\module_templates_accessories.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_ACCESSORIES_TEMPLATES				0	ns	Dithempoleiti				2002-02-02 02:02:02
+scp2	source\ooo\module_ooo.ulf	0	LngText	STR_NAME_MODULE_DICTIONARIES				0	ns	Dipukuntšu				2002-02-02 02:02:02
+scp2	source\ooo\module_ooo.ulf	0	LngText	STR_NAME_MODULE_EXTENSION_DICTIONARY_KU_TR				0	ns	Se-Kurdish (Turkey)				2002-02-02 02:02:02
+scp2	source\onlineupdate\module_onlineupdate.ulf	0	LngText	STR_NAME_MODULE_OPT_ONLINEUPDATE				0	ns	Mpshafatšo ya inthaneteng				2002-02-02 02:02:02

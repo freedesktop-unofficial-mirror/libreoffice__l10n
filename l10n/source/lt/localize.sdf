@@ -4397,7 +4397,7 @@ desktop	source\deployment\gui\dp_gui_updatedialog.src	0	fixedtext	RID_DLG_UPDATE
 desktop	source\deployment\gui\dp_gui_updatedialog.src	0	pushbutton	RID_DLG_UPDATE	RID_DLG_UPDATE_OK			0	lt	Į~diegti				2002-02-02 02:02:02
 desktop	source\deployment\gui\dp_gui_updatedialog.src	0	string	RID_DLG_UPDATE	RID_DLG_UPDATE_ERROR			0	lt	Klaida				2002-02-02 02:02:02
 desktop	source\deployment\gui\dp_gui_updatedialog.src	0	string	RID_DLG_UPDATE	RID_DLG_UPDATE_NONE			0	lt	Naujinimų nėra.				2002-02-02 02:02:02
-desktop	source\deployment\gui\dp_gui_updatedialog.src	0	string	RID_DLG_UPDATE	RID_DLG_UPDATE_NOINSTALLABLE			0	lt	Nėra diegtinų atnaujinimų. Jei norite peržiūrėti visus atnaujinimus, pažymėkite langelį „Rodyti visus atnaujinimus“.				2002-02-02 02:02:02
+desktop	source\deployment\gui\dp_gui_updatedialog.src	0	string	RID_DLG_UPDATE	RID_DLG_UPDATE_NOINSTALLABLE			0	lt	Nėra diegtinų naujinimų. Jei norite peržiūrėti visus naujinimus, pažymėkite langelį „Rodyti visus naujinimus“.				2002-02-02 02:02:02
 desktop	source\deployment\gui\dp_gui_updatedialog.src	0	string	RID_DLG_UPDATE	RID_DLG_UPDATE_FAILURE			0	lt	Įvyko klaida:				2002-02-02 02:02:02
 desktop	source\deployment\gui\dp_gui_updatedialog.src	0	string	RID_DLG_UPDATE	RID_DLG_UPDATE_UNKNOWNERROR			0	lt	Nežinoma klaida.				2002-02-02 02:02:02
 desktop	source\deployment\gui\dp_gui_updatedialog.src	0	string	RID_DLG_UPDATE	RID_DLG_UPDATE_NODESCRIPTION			0	lt	Šis plėtinys neturi aprašo.				2002-02-02 02:02:02
@@ -5025,7 +5025,7 @@ extensions	source\propctrlr\formres.src	0	string	RID_RSC_ENUM_WRITING_MODE	1			0
 extensions	source\propctrlr\formres.src	0	string	RID_RSC_ENUM_WRITING_MODE	2			0	lt	Iš dešinės į kairę				2002-02-02 02:02:02
 extensions	source\propctrlr\formres.src	0	string	RID_RSC_ENUM_WRITING_MODE	3			0	lt	Naudoti ankstesnio objekto nuostatas				2002-02-02 02:02:02
 extensions	source\propctrlr\formres.src	0	string	RID_RSC_ENUM_TEXT_ANCHOR_TYPE	2			0	lt	Rašmenys				2002-02-02 02:02:02
-extensions	source\propctrlr\formres.src	0	string	RID_RSC_ENUM_TEXT_ANCHOR_TYPE	5			0	lt	Rašmenys				2002-02-02 02:02:02
+extensions	source\propctrlr\formres.src	0	string	RID_RSC_ENUM_TEXT_ANCHOR_TYPE	5			0	lt	Prie rašmens				2002-02-02 02:02:02
 extensions	source\propctrlr\formres.src	0	string	RID_STR_FONT_DEFAULT				0	lt	Numatyta				2002-02-02 02:02:02
 extensions	source\propctrlr\selectlabeldialog.src	0	fixedtext	RID_DLG_SELECTLABELCONTROL	1			188	lt	Čia išvardyti valdikliai, kuriuos galima parinkti valdiklio „$control_class$“ (vardas: „$control_name$“) žymės lauku.				2002-02-02 02:02:02
 extensions	source\propctrlr\selectlabeldialog.src	0	checkbox	RID_DLG_SELECTLABELCONTROL	1			188	lt	~Nepriskirti žymės				2002-02-02 02:02:02
@@ -5168,7 +5168,7 @@ filter	source\pdf\impdialog.src	0	checkbox	CB_TAGGEDPDF				158	lt	PDF su ~gairė
 filter	source\pdf\impdialog.src	0	checkbox	CB_EXPORTFORMFIELDS				158	lt	Sukurti ~PDF formą				2002-02-02 02:02:02
 filter	source\pdf\impdialog.src	0	fixedtext	FT_FORMSFORMAT				93	lt	Pateikimo ~formatas				2002-02-02 02:02:02
 filter	source\pdf\impdialog.src	0	checkbox	CB_EXPORTBOOKMARKS				158	lt	~Eksportuoti žymeles				2002-02-02 02:02:02
-filter	source\pdf\impdialog.src	0	checkbox	CB_EXPORTEMPTYPAGES				158	lt	E~ksportuoti automatiškai įterptus tuščius puslapius				2002-02-02 02:02:02
+filter	source\pdf\impdialog.src	0	checkbox	CB_EXPORTEMPTYPAGES				158	lt	Eksp~ortuoti automatiškai įterptus tuščius puslapius				2002-02-02 02:02:02
 filter	source\pdf\impdialog.src	0	checkbox	CB_ADDSTREAM				158	lt	Sukurti ~mišrų failą				2002-02-02 02:02:02
 filter	source\pdf\impdialog.src	0	fixedline	RID_PDF_TAB_OPNFTR	FL_INITVIEW			164	lt	Polangiai				2002-02-02 02:02:02
 filter	source\pdf\impdialog.src	0	radiobutton	RID_PDF_TAB_OPNFTR	RB_OPNMODE_PAGEONLY			158	lt	~Tik puslapis				2002-02-02 02:02:02
@@ -7822,8 +7822,8 @@ officecfg	registry\data\org\openoffice\Office\UI\CalcCommands.xcu	0	value	..Calc
 officecfg	registry\data\org\openoffice\Office\UI\CalcCommands.xcu	0	value	..CalcCommands.UserInterface.Commands..uno:ShowChanges	ContextLabel			0	lt	~Rodyti...				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\CalcCommands.xcu	0	value	..CalcCommands.UserInterface.Commands..uno:DefineLabelRange	Label			0	lt	Api~brėžti antraštes...				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\CalcCommands.xcu	0	value	..CalcCommands.UserInterface.Commands..uno:DefineLabelRange	ContextLabel			0	lt	~Žymės...				2002-02-02 02:02:02
-officecfg	registry\data\org\openoffice\Office\UI\CalcCommands.xcu	0	value	..CalcCommands.UserInterface.Commands..uno:InsertAnnotation	Label			0	lt	Turinys				2002-02-02 02:02:02
-officecfg	registry\data\org\openoffice\Office\UI\CalcCommands.xcu	0	value	..CalcCommands.UserInterface.Commands..uno:DeleteNote	Label			0	lt	Šalinti turinį				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\UI\CalcCommands.xcu	0	value	..CalcCommands.UserInterface.Commands..uno:InsertAnnotation	Label			0	lt	Kom~entaras				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\UI\CalcCommands.xcu	0	value	..CalcCommands.UserInterface.Commands..uno:DeleteNote	Label			0	lt	Šalinti komentarą				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\CalcCommands.xcu	0	value	..CalcCommands.UserInterface.Commands..uno:InputLineVisible	Label			0	lt	~Formulių juosta				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\CalcCommands.xcu	0	value	..CalcCommands.UserInterface.Commands..uno:ViewRowColumnHeaders	Label			0	lt	S~tulpelių ir eilučių antraštės				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\CalcCommands.xcu	0	value	..CalcCommands.UserInterface.Commands..uno:Scale	Label			0	lt	Ekrano vaizdo mastelis				2002-02-02 02:02:02
@@ -7839,7 +7839,7 @@ officecfg	registry\data\org\openoffice\Office\UI\CalcCommands.xcu	0	value	..Calc
 officecfg	registry\data\org\openoffice\Office\UI\CalcCommands.xcu	0	value	..CalcCommands.UserInterface.Commands..uno:AcceptChanges	Label			0	lt	~Priimti arba atmesti taisymus...				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\CalcCommands.xcu	0	value	..CalcCommands.UserInterface.Commands..uno:AcceptChanges	ContextLabel			0	lt	~Priimti arba atmesti...				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\CalcCommands.xcu	0	value	..CalcCommands.UserInterface.Commands..uno:UnderlineDouble	Label			0	lt	Dvigubas pabraukimas				2002-02-02 02:02:02
-officecfg	registry\data\org\openoffice\Office\UI\CalcCommands.xcu	0	value	..CalcCommands.UserInterface.Commands..uno:CommentChange	Label			0	lt	~Komentarai...				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\UI\CalcCommands.xcu	0	value	..CalcCommands.UserInterface.Commands..uno:CommentChange	Label			0	lt	~Komentarai…				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\CalcCommands.xcu	0	value	..CalcCommands.UserInterface.Commands..uno:UnderlineDotted	Label			0	lt	Taškinis pabraukimas				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\CalcCommands.xcu	0	value	..CalcCommands.UserInterface.Commands..uno:DeleteAllBreaks	Label			0	lt	Atsisakyti puslapių lūžių				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\CalcCommands.xcu	0	value	..CalcCommands.UserInterface.Commands..uno:InsertRowBreak	Label			0	lt	Įterpti ~eilutės lūžį				2002-02-02 02:02:02
@@ -8199,7 +8199,7 @@ officecfg	registry\data\org\openoffice\Office\UI\DrawWindowState.xcu	0	value	..D
 officecfg	registry\data\org\openoffice\Office\UI\DrawWindowState.xcu	0	value	..DrawWindowState.UIElements.States.private:resource/toolbar/viewerbar	UIName			0	lt	Standartinė juosta (peržiūros veiksena)				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\DrawWindowState.xcu	0	value	..DrawWindowState.UIElements.States.private:resource/toolbar/mediaobjectbar	UIName			0	lt	Medijos grotuvas				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\DrawWindowState.xcu	0	value	..DrawWindowState.UIElements.States.private:resource/toolbar/colorbar	UIName			0	lt	Spalva				2002-02-02 02:02:02
-officecfg	registry\data\org\openoffice\Office\UI\DrawWindowState.xcu	0	value	..DrawWindowState.UIElements.States.private:resource/toolbar/commentsbar	UIName			0	lt	Turinys				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\UI\DrawWindowState.xcu	0	value	..DrawWindowState.UIElements.States.private:resource/toolbar/commentsbar	UIName			0	lt	Komentarai				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\DrawWindowState.xcu	0	value	..DrawWindowState.UIElements.States.private:resource/toolbar/masterviewtoolbar	UIName			0	lt	Pagrindas				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\DrawWindowState.xcu	0	value	..DrawWindowState.UIElements.States.private:resource/toolbar/optimizetablebar	UIName			0	lt	Daryti optimalų				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\ImpressWindowState.xcu	0	value	..ImpressWindowState.UIElements.States.private:resource/toolbar/extrusionobjectbar	UIName			0	lt	Trimačio vaizdo nuostatos				2002-02-02 02:02:02
@@ -8596,7 +8596,7 @@ officecfg	registry\data\org\openoffice\Office\UI\WriterCommands.xcu	0	value	..Wr
 officecfg	registry\data\org\openoffice\Office\UI\WriterCommands.xcu	0	value	..WriterCommands.UserInterface.Commands..uno:InsertFooter	Label			0	lt	Įterpti puslapinę poraštę				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\WriterCommands.xcu	0	value	..WriterCommands.UserInterface.Commands..uno:ExpandGlossary	Label			0	lt	Autoteksto įrašo vykdymas				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\WriterCommands.xcu	0	value	..WriterCommands.UserInterface.Commands..uno:ShowHiddenParagraphs	Label			0	lt	~Paslėptos pastraipos				2002-02-02 02:02:02
-officecfg	registry\data\org\openoffice\Office\UI\WriterCommands.xcu	0	value	..WriterCommands.UserInterface.Commands..uno:ShowAnnotations	Label			0	lt	Turinys				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\UI\WriterCommands.xcu	0	value	..WriterCommands.UserInterface.Commands..uno:ShowAnnotations	Label			0	lt	Komentarai				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\WriterCommands.xcu	0	value	..WriterCommands.UserInterface.Commands..uno:InsertScript	Label			0	lt	~Skriptas...				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\WriterCommands.xcu	0	value	..WriterCommands.UserInterface.Commands..uno:InsertGraphicRuler	Label			0	lt	Hori~zontalė...				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\WriterCommands.xcu	0	value	..WriterCommands.UserInterface.Commands..uno:SetAnchorAtChar	Label			0	lt	Pririšti prie rašmens				2002-02-02 02:02:02
@@ -8640,13 +8640,13 @@ officecfg	registry\data\org\openoffice\Office\UI\WriterCommands.xcu	0	value	..Wr
 officecfg	registry\data\org\openoffice\Office\UI\WriterCommands.xcu	0	value	..WriterCommands.UserInterface.Commands..uno:InsertField	Label			0	lt	~Kita...				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\WriterCommands.xcu	0	value	..WriterCommands.UserInterface.Commands..uno:ChangeDatabaseField	Label			0	lt	Keisti d~uomenų bazę...				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\WriterCommands.xcu	0	value	..WriterCommands.UserInterface.Commands..uno:InsertCaptionDialog	Label			0	lt	Pavadinimas...				2002-02-02 02:02:02
-officecfg	registry\data\org\openoffice\Office\UI\WriterCommands.xcu	0	value	..WriterCommands.UserInterface.Commands..uno:InsertFootnoteDialog	Label			0	lt	I~šnaša...				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\UI\WriterCommands.xcu	0	value	..WriterCommands.UserInterface.Commands..uno:InsertFootnoteDialog	Label			0	lt	I~šnaša…				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\WriterCommands.xcu	0	value	..WriterCommands.UserInterface.Commands..uno:InsertReferenceField	Label			0	lt	Vietinė nuoroda...				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\WriterCommands.xcu	0	value	..WriterCommands.UserInterface.Commands..uno:InsertHyperlinkDlg	Label			0	lt	Įterpti hipersaitą				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\WriterCommands.xcu	0	value	..WriterCommands.UserInterface.Commands..uno:InsertLinebreak	Label			0	lt	Įterpti eilutės lūžį rankiniu būdu				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\WriterCommands.xcu	0	value	..WriterCommands.UserInterface.Commands..uno:InsertObjectDialog	Label			0	lt	Įterpti kitus objektus				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\WriterCommands.xcu	0	value	..WriterCommands.UserInterface.Commands..uno:InsertPagebreak	Label			0	lt	Įterpti puslapio lūžį rankiniu būdu				2002-02-02 02:02:02
-officecfg	registry\data\org\openoffice\Office\UI\WriterCommands.xcu	0	value	..WriterCommands.UserInterface.Commands..uno:InsertAnnotation	Label			0	lt	Turinys				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\UI\WriterCommands.xcu	0	value	..WriterCommands.UserInterface.Commands..uno:InsertAnnotation	Label			0	lt	Kome~ntaras				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\WriterCommands.xcu	0	value	..WriterCommands.UserInterface.Commands..uno:InsertTable	Label			0	lt	~Lentelė...				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\WriterCommands.xcu	0	value	..WriterCommands.UserInterface.Commands..uno:InsertFrameInteract	Label			0	lt	Kadras				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\WriterCommands.xcu	0	value	..WriterCommands.UserInterface.Commands..uno:InsertFrame	Label			0	lt	Ka~dras...				2002-02-02 02:02:02
@@ -8737,7 +8737,7 @@ officecfg	registry\data\org\openoffice\Office\UI\WriterCommands.xcu	0	value	..Wr
 officecfg	registry\data\org\openoffice\Office\UI\WriterCommands.xcu	0	value	..WriterCommands.UserInterface.Commands..uno:GraphicDialog	Label			0	lt	Paveikslas...				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\WriterCommands.xcu	0	value	..WriterCommands.UserInterface.Commands..uno:GraphicDialog	ContextLabel			0	lt	Pa~veikslas...				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\WriterCommands.xcu	0	value	..WriterCommands.UserInterface.Commands..uno:TableDialog	Label			0	lt	L~entelės savybės...				2002-02-02 02:02:02
-officecfg	registry\data\org\openoffice\Office\UI\WriterCommands.xcu	0	value	..WriterCommands.UserInterface.Commands..uno:FootnoteDialog	Label			0	lt	~Išnašos...				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\UI\WriterCommands.xcu	0	value	..WriterCommands.UserInterface.Commands..uno:FootnoteDialog	Label			0	lt	~Išnašos…				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\WriterCommands.xcu	0	value	..WriterCommands.UserInterface.Commands..uno:ResetAttributes	Label			0	lt	~Numatytasis formatavimas				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\WriterCommands.xcu	0	value	..WriterCommands.UserInterface.Commands..uno:WrapOff	Label			0	lt	Teksto laužymas išjungtas				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\WriterCommands.xcu	0	value	..WriterCommands.UserInterface.Commands..uno:WrapOn	Label			0	lt	Visiškasis ~apgaubimas tekstu				2002-02-02 02:02:02
@@ -8845,7 +8845,7 @@ officecfg	registry\data\org\openoffice\Office\UI\WriterCommands.xcu	0	value	..Wr
 officecfg	registry\data\org\openoffice\Office\UI\WriterCommands.xcu	0	value	..WriterCommands.UserInterface.Commands..uno:SetMultiSelection	Label			0	lt	Sudėtinė atranka				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\WriterCommands.xcu	0	value	..WriterCommands.UserInterface.Commands..uno:Repaginate	Label			0	lt	Atnaujinti puslapio formatavimą				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\WriterCommands.xcu	0	value	..WriterCommands.UserInterface.Commands..uno:SetExtSelection	Label			0	lt	Išplėstinė atranka				2002-02-02 02:02:02
-officecfg	registry\data\org\openoffice\Office\UI\WriterCommands.xcu	0	value	..WriterCommands.UserInterface.Commands..uno:EditFootnote	Label			0	lt	I~šnaša...				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\UI\WriterCommands.xcu	0	value	..WriterCommands.UserInterface.Commands..uno:EditFootnote	Label			0	lt	I~šnaša…				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\WriterCommands.xcu	0	value	..WriterCommands.UserInterface.Commands..uno:Escape	Label			0	lt	Atsisakyti				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\WriterCommands.xcu	0	value	..WriterCommands.UserInterface.Commands..uno:ShiftBackspace	Label			0	lt	Grįžimas				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\WriterCommands.xcu	0	value	..WriterCommands.UserInterface.Commands..uno:SelectWord	Label			0	lt	Pažymėti žodį				2002-02-02 02:02:02
@@ -9243,9 +9243,9 @@ officecfg	registry\data\org\openoffice\Office\UI\DrawImpressCommands.xcu	0	value
 officecfg	registry\data\org\openoffice\Office\UI\DrawImpressCommands.xcu	0	value	..DrawImpressCommands.UserInterface.Popups..uno:InsertTable	Label			0	lt	~Lentelė...				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\DrawImpressCommands.xcu	0	value	..DrawImpressCommands.UserInterface.Popups..uno:Grow	Label			0	lt	Padidinti šriftą				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\DrawImpressCommands.xcu	0	value	..DrawImpressCommands.UserInterface.Popups..uno:Shrink	Label			0	lt	Sumažinti šriftą				2002-02-02 02:02:02
-officecfg	registry\data\org\openoffice\Office\UI\DrawImpressCommands.xcu	0	value	..DrawImpressCommands.UserInterface.Popups..uno:InsertAnnotation	Label			0	lt	Turinys				2002-02-02 02:02:02
-officecfg	registry\data\org\openoffice\Office\UI\DrawImpressCommands.xcu	0	value	..DrawImpressCommands.UserInterface.Popups..uno:ShowAnnotations	Label			0	lt	Turinys				2002-02-02 02:02:02
-officecfg	registry\data\org\openoffice\Office\UI\DrawImpressCommands.xcu	0	value	..DrawImpressCommands.UserInterface.Popups..uno:DeleteAnnotation	Label			0	lt	Šalinti turinį				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\UI\DrawImpressCommands.xcu	0	value	..DrawImpressCommands.UserInterface.Popups..uno:InsertAnnotation	Label			0	lt	Kome~ntaras				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\UI\DrawImpressCommands.xcu	0	value	..DrawImpressCommands.UserInterface.Popups..uno:ShowAnnotations	Label			0	lt	Kome~ntarai				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\UI\DrawImpressCommands.xcu	0	value	..DrawImpressCommands.UserInterface.Popups..uno:DeleteAnnotation	Label			0	lt	~Šalinti komentarą				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\StartModuleWindowState.xcu	0	value	..StartModuleWindowState.UIElements.States.private:resource/toolbar/standardbar	UIName			0	lt	Standartinė juosta				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\DbBrowserWindowState.xcu	0	value	..DbBrowserWindowState.UIElements.States.private:resource/toolbar/toolbar	UIName			0	lt	Lentelės duomenys				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\CalcWindowState.xcu	0	value	..CalcWindowState.UIElements.States.private:resource/toolbar/graffilterbar	UIName			0	lt	Grafikos filtras				2002-02-02 02:02:02
@@ -9592,7 +9592,7 @@ officecfg	registry\data\org\openoffice\Office\UI\GenericCommands.xcu	0	value	..G
 officecfg	registry\data\org\openoffice\Office\UI\GenericCommands.xcu	0	value	..GenericCommands.UserInterface.Commands..uno:PrintDefault	Label			0	lt	Spausdinti				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\GenericCommands.xcu	0	value	..GenericCommands.UserInterface.Commands..uno:BezierSmooth	Label			0	lt	Glotnus perėjimas				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\GenericCommands.xcu	0	value	..GenericCommands.UserInterface.Commands..uno:ToggleObjectBezierMode	Label			0	lt	Ta~škai				2002-02-02 02:02:02
-officecfg	registry\data\org\openoffice\Office\UI\GenericCommands.xcu	0	value	..GenericCommands.UserInterface.Commands..uno:InsertAnnotation	Label			0	lt	Turinys				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\UI\GenericCommands.xcu	0	value	..GenericCommands.UserInterface.Commands..uno:InsertAnnotation	Label			0	lt	Kome~ntaras				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\GenericCommands.xcu	0	value	..GenericCommands.UserInterface.Commands..uno:BezierCutLine	Label			0	lt	Padalinti kreivę				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\GenericCommands.xcu	0	value	..GenericCommands.UserInterface.Commands..uno:SelectObject	Label			0	lt	Atranka				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\GenericCommands.xcu	0	value	..GenericCommands.UserInterface.Commands..uno:ToggleObjectRotateMode	Label			0	lt	~Pasukti				2002-02-02 02:02:02
@@ -10055,7 +10055,7 @@ officecfg	registry\data\org\openoffice\Office\UI\GenericCommands.xcu	0	value	..G
 officecfg	registry\data\org\openoffice\Office\UI\GenericCommands.xcu	0	value	..GenericCommands.UserInterface.Popups..uno:PolyFormen	Label			0	lt	~Figūros				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\GenericCommands.xcu	0	value	..GenericCommands.UserInterface.Popups..uno:Scan	Label			0	lt	Skaityti				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\GenericCommands.xcu	0	value	..GenericCommands.UserInterface.Popups..uno:FormatMenu	Label			0	lt	F~ormatas				2002-02-02 02:02:02
-officecfg	registry\data\org\openoffice\Office\UI\GenericCommands.xcu	0	value	..GenericCommands.UserInterface.Popups..uno:ObjectMenu	Label			0	lt	~Tema				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\UI\GenericCommands.xcu	0	value	..GenericCommands.UserInterface.Popups..uno:ObjectMenu	Label			0	lt	~Objektas				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\GenericCommands.xcu	0	value	..GenericCommands.UserInterface.Popups..uno:EditMenu	Label			0	lt	~Taisa				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\GenericCommands.xcu	0	value	..GenericCommands.UserInterface.Popups..uno:InsertMenu	Label			0	lt	Į~terpimas				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\GenericCommands.xcu	0	value	..GenericCommands.UserInterface.Popups..uno:SendToMenu	Label			0	lt	~Siųsti				2002-02-02 02:02:02
@@ -10384,7 +10384,7 @@ readlicense_oo	docs\readme\readme.xrm	0	readmeitem	sdfsdfgf42r	sdfsdfgf42r			0	l
 readlicense_oo	docs\readme\readme.xrm	0	readmeitem	macxiOSX	macxiOSX			0	lt	MacOSX 10.4 (Tiger) ar vėlesnė versija				2002-02-02 02:02:02
 readlicense_oo	docs\readme\readme.xrm	0	readmeitem	macxiRAM	macxiRAM			0	lt	512 MB pagrindinė atmintinė (RAM)				2002-02-02 02:02:02
 readlicense_oo	docs\readme\readme.xrm	0	readmeitem	macxivideo	macxivideo			0	lt	1024 x 768 skiriamosios gebos grafinis įrenginys, gebantis atvaizduoti 256 spalvas (rekomenduojama didesnė skiriamoji geba)				2002-02-02 02:02:02
-readlicense_oo	docs\readme\readme.xrm	0	readmeitem	s2s3sdf2	s2s3sdf2			0	lt	Microsoft Windows 2000 (su SP4 arba vėlesniu pataisų paketų), XP arba Vista				2002-02-02 02:02:02
+readlicense_oo	docs\readme\readme.xrm	0	readmeitem	s2s3sdf2	s2s3sdf2			0	lt	„Microsoft Windows 2000“ (su SP4 arba vėlesniu pataisų paketų), XP, „Vista“ arba „Windows 7“ operacinė sistema				2002-02-02 02:02:02
 readlicense_oo	docs\readme\readme.xrm	0	readmeitem	utzu6	utzu6			0	lt	„Pentium“ tipo kompiuteris (rekomenduojamas „Pentium III“ arba „Athlon“)				2002-02-02 02:02:02
 readlicense_oo	docs\readme\readme.xrm	0	readmeitem	ghuj67	ghuj67			0	lt	256 MB pagrindinė atmintinė (RAM) (rekomenduojama 512 MB)				2002-02-02 02:02:02
 readlicense_oo	docs\readme\readme.xrm	0	readmeitem	jtzu56	jtzu56			0	lt	1024x768 skiriamosios gebos grafinis įrenginys, gebantis atvaizduoti bent 256 spalvas (rekomenduojama didesnė skiriamoji geba)				2002-02-02 02:02:02
@@ -11067,7 +11067,7 @@ sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_WE
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_WEEK	5			0	lt	Nusakoma pirmoji savaitės diena (1 = sekmadienis, kitas skaičius = pirmadienis)				2002-02-02 02:02:02
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_EASTERSUNDAY	1			0	lt	Apskaičiuoja duotųjų metų Šv. Velykų datą				2002-02-02 02:02:02
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_EASTERSUNDAY	2			0	lt	metai				2002-02-02 02:02:02
-sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_EASTERSUNDAY	3			0	lt	Sveikasis skaičius tarp 1583 ir 9956 (0 ir 99 arba 19xx ir 20xx, priklausomai nuo pasirinkto formato).				2002-02-02 02:02:02
+sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_EASTERSUNDAY	3			0	lt	Sveikasis skaičius tarp 1583 ir 9956 arba 0 ir 99 (19xx ar 20xx, priklausomai nuo pasirinkto formato).				2002-02-02 02:02:02
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_BW	1			0	lt	Dabartinė reikšmė. Nustato pradinę investicijų sumą				2002-02-02 02:02:02
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_BW	2			0	lt	norma				2002-02-02 02:02:02
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_BW	3			0	lt	Duoto laikotarpio palūkanų norma.				2002-02-02 02:02:02
@@ -11779,7 +11779,7 @@ sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_PO
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_NORM_DIST	1			0	lt	Normaliojo skirstinio reikšmės				2002-02-02 02:02:02
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_NORM_DIST	2			0	lt	Skaičius				2002-02-02 02:02:02
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_NORM_DIST	3			0	lt	Reikšmė, kuriai skaičiuojamas normalusis skirstinys.				2002-02-02 02:02:02
-sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_NORM_DIST	4			0	lt	vidurkis				2002-02-02 02:02:02
+sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_NORM_DIST	4			0	lt	Vidurkis				2002-02-02 02:02:02
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_NORM_DIST	5			0	lt	Normaliojo skirstinio vidurkis.				2002-02-02 02:02:02
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_NORM_DIST	6			0	lt	STDEV				2002-02-02 02:02:02
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_NORM_DIST	7			0	lt	Normaliojo skirstinio standartinis nuokrypis.				2002-02-02 02:02:02
@@ -12316,7 +12316,7 @@ sc	source\ui\src\autofmt.src	0	checkbox	RID_SCDLG_AUTOFORMAT	BTN_ADJUST			75	lt	
 sc	source\ui\src\autofmt.src	0	checkbox	RID_SCDLG_AUTOFORMAT	BTN_BORDER			75	lt	~Kraštinės				2002-02-02 02:02:02
 sc	source\ui\src\autofmt.src	0	checkbox	RID_SCDLG_AUTOFORMAT	BTN_FONT			73	lt	Šri~ftas				2002-02-02 02:02:02
 sc	source\ui\src\autofmt.src	0	checkbox	RID_SCDLG_AUTOFORMAT	BTN_PATTERN			73	lt	~Raštai				2002-02-02 02:02:02
-sc	source\ui\src\autofmt.src	0	checkbox	RID_SCDLG_AUTOFORMAT	BTN_ALIGNMENT			75	lt	~Padėtis 				2002-02-02 02:02:02
+sc	source\ui\src\autofmt.src	0	checkbox	RID_SCDLG_AUTOFORMAT	BTN_ALIGNMENT			75	lt	~Lygiuotė				2002-02-02 02:02:02
 sc	source\ui\src\autofmt.src	0	checkbox	RID_SCDLG_AUTOFORMAT	BTN_NUMFORMAT			75	lt	~Skaičiaus formatas				2002-02-02 02:02:02
 sc	source\ui\src\autofmt.src	0	fixedline	RID_SCDLG_AUTOFORMAT	FL_FORMATTING			244	lt	Keičiami formatai				2002-02-02 02:02:02
 sc	source\ui\src\autofmt.src	0	pushbutton	RID_SCDLG_AUTOFORMAT	BTN_ADD			50	lt	~Pridėti...				2002-02-02 02:02:02
@@ -12622,7 +12622,7 @@ sc	source\ui\src\globstr.src	0	string	RID_GLOBSTR	STR_REQUIRED			0	lt	(būtinas)
 sc	source\ui\src\globstr.src	0	string	RID_GLOBSTR	STR_INVALID			0	lt	neteisingas				2002-02-02 02:02:02
 sc	source\ui\src\globstr.src	0	string	RID_GLOBSTR	STR_EDITFUNCTION			0	lt	Taisyti funkciją				2002-02-02 02:02:02
 sc	source\ui\src\globstr.src	0	string	RID_GLOBSTR	STR_NOTES			0	lt	Komentarai				2002-02-02 02:02:02
-sc	source\ui\src\globstr.src	0	string	RID_GLOBSTR	STR_QUERY_DELTAB			0	lt	Ar tikrai norite pašalinti pažymėtą scenarijų?				2002-02-02 02:02:02
+sc	source\ui\src\globstr.src	0	string	RID_GLOBSTR	STR_QUERY_DELTAB			0	lt	Ar tikrai norite pašalinti pažymėtą lakštą(-us)?				2002-02-02 02:02:02
 sc	source\ui\src\globstr.src	0	string	RID_GLOBSTR	STR_QUERY_DELSCENARIO			0	lt	Ar tikrai norite pašalinti pažymėtą scenarijų?				2002-02-02 02:02:02
 sc	source\ui\src\globstr.src	0	string	RID_GLOBSTR	STR_EXPORT_ASCII_WARNING			0	lt	Tezauro nėra				2002-02-02 02:02:02
 sc	source\ui\src\globstr.src	0	string	RID_GLOBSTR	STR_IMPORT_ERROR			0	lt	Rašybos tikrinimo modulio nėra				2002-02-02 02:02:02
@@ -12989,23 +12989,23 @@ sc	source\ui\src\miscdlgs.src	0	radiobutton	RID_SCDLG_INSCELL	BTN_CELLSDOWN			11
 sc	source\ui\src\miscdlgs.src	0	fixedline	RID_SCDLG_INSCELL	FL_FRAME			123	lt	Atranka				2002-02-02 02:02:02
 sc	source\ui\src\miscdlgs.src	0	modaldialog	RID_SCDLG_INSCELL		FID_INS_CELL		191	lt	Įterpti langelius				2002-02-02 02:02:02
 sc	source\ui\src\miscdlgs.src	0	checkbox	RID_SCDLG_DELCONT	BTN_DELALL			83	lt	~Viską				2002-02-02 02:02:02
-sc	source\ui\src\miscdlgs.src	0	checkbox	RID_SCDLG_DELCONT	BTN_DELSTRINGS			83	lt	~Tekstas				2002-02-02 02:02:02
+sc	source\ui\src\miscdlgs.src	0	checkbox	RID_SCDLG_DELCONT	BTN_DELSTRINGS			83	lt	~Tekstą				2002-02-02 02:02:02
 sc	source\ui\src\miscdlgs.src	0	checkbox	RID_SCDLG_DELCONT	BTN_DELNUMBERS			83	lt	~Skaičius				2002-02-02 02:02:02
 sc	source\ui\src\miscdlgs.src	0	checkbox	RID_SCDLG_DELCONT	BTN_DELDATETIME			83	lt	Datą ir laiką				2002-02-02 02:02:02
 sc	source\ui\src\miscdlgs.src	0	checkbox	RID_SCDLG_DELCONT	BTN_DELFORMULAS			83	lt	~Formules				2002-02-02 02:02:02
 sc	source\ui\src\miscdlgs.src	0	checkbox	RID_SCDLG_DELCONT	BTN_DELATTRS			83	lt	~Formatus				2002-02-02 02:02:02
-sc	source\ui\src\miscdlgs.src	0	checkbox	RID_SCDLG_DELCONT	BTN_DELNOTES			83	lt	Komentarai				2002-02-02 02:02:02
+sc	source\ui\src\miscdlgs.src	0	checkbox	RID_SCDLG_DELCONT	BTN_DELNOTES			83	lt	Kome~ntarus				2002-02-02 02:02:02
 sc	source\ui\src\miscdlgs.src	0	checkbox	RID_SCDLG_DELCONT	BTN_DELOBJECTS			83	lt	~Objektus				2002-02-02 02:02:02
 sc	source\ui\src\miscdlgs.src	0	fixedline	RID_SCDLG_DELCONT	FL_FRAME			93	lt	Atranka				2002-02-02 02:02:02
 sc	source\ui\src\miscdlgs.src	0	modaldialog	RID_SCDLG_DELCONT		SID_DELETE		161	lt	Turinio šalinimas				2002-02-02 02:02:02
 sc	source\ui\src\miscdlgs.src	0	checkbox	RID_SCDLG_INSCONT	BTN_INSALL			84	lt	~Viską				2002-02-02 02:02:02
-sc	source\ui\src\miscdlgs.src	0	checkbox	RID_SCDLG_INSCONT	BTN_INSSTRINGS			84	lt	Te~kstas				2002-02-02 02:02:02
+sc	source\ui\src\miscdlgs.src	0	checkbox	RID_SCDLG_INSCONT	BTN_INSSTRINGS			84	lt	Te~kstą				2002-02-02 02:02:02
 sc	source\ui\src\miscdlgs.src	0	checkbox	RID_SCDLG_INSCONT	BTN_INSNUMBERS			84	lt	~Skaičius				2002-02-02 02:02:02
 sc	source\ui\src\miscdlgs.src	0	checkbox	RID_SCDLG_INSCONT	BTN_INSDATETIME			84	lt	Datą ir laiką				2002-02-02 02:02:02
 sc	source\ui\src\miscdlgs.src	0	checkbox	RID_SCDLG_INSCONT	BTN_INSFORMULAS			84	lt	~Formules				2002-02-02 02:02:02
 sc	source\ui\src\miscdlgs.src	0	checkbox	RID_SCDLG_INSCONT	BTN_INSATTRS			84	lt	~Formatus				2002-02-02 02:02:02
 sc	source\ui\src\miscdlgs.src	0	checkbox	RID_SCDLG_INSCONT	BTN_INSOBJECTS			84	lt	~Objektus				2002-02-02 02:02:02
-sc	source\ui\src\miscdlgs.src	0	checkbox	RID_SCDLG_INSCONT	BTN_INSNOTES			84	lt	Komentarai				2002-02-02 02:02:02
+sc	source\ui\src\miscdlgs.src	0	checkbox	RID_SCDLG_INSCONT	BTN_INSNOTES			84	lt	Kome~ntarus				2002-02-02 02:02:02
 sc	source\ui\src\miscdlgs.src	0	fixedline	RID_SCDLG_INSCONT	FL_FRAME			93	lt	Atranka				2002-02-02 02:02:02
 sc	source\ui\src\miscdlgs.src	0	radiobutton	RID_SCDLG_INSCONT	BTN_OP_NOOP			83	lt	Nie~ko				2002-02-02 02:02:02
 sc	source\ui\src\miscdlgs.src	0	radiobutton	RID_SCDLG_INSCONT	BTN_OP_ADD			83	lt	~Pridėti				2002-02-02 02:02:02
@@ -13166,7 +13166,7 @@ sc	source\ui\src\scstring.src	0	string	SCSTR_NAME				0	lt	Pavadinimas				2002-02
 sc	source\ui\src\scstring.src	0	string	SCSTR_INSTABLE				0	lt	Įterpti lakštą				2002-02-02 02:02:02
 sc	source\ui\src\scstring.src	0	string	SCSTR_APDTABLE				0	lt	Pridėti lakštą				2002-02-02 02:02:02
 sc	source\ui\src\scstring.src	0	string	SCSTR_RENAMETAB				0	lt	Pervadinti lakštą				2002-02-02 02:02:02
-sc	source\ui\src\scstring.src	0	string	SCSTR_NO_TAB_BG_COLOR				0	lt	Numatytasis				2002-02-02 02:02:02
+sc	source\ui\src\scstring.src	0	string	SCSTR_NO_TAB_BG_COLOR				0	lt	Numatytoji				2002-02-02 02:02:02
 sc	source\ui\src\scstring.src	0	string	SCSTR_RENAMEOBJECT				0	lt	Pavadinti objektą				2002-02-02 02:02:02
 sc	source\ui\src\scstring.src	0	string	STR_INSERTGRAPHIC				0	lt	Įterpti paveikslą				2002-02-02 02:02:02
 sc	source\ui\src\scstring.src	0	string	SCSTR_HOR_JUSTIFY_LEFT				0	lt	Kairinė lygiuotė				2002-02-02 02:02:02
@@ -13251,17 +13251,17 @@ sc	source\ui\src\scstring.src	0	itemlist	SCSTR_PRINT_OPTIONS	1			0	lt	Puslapiai	
 sc	source\ui\src\scstring.src	0	itemlist	SCSTR_PRINT_OPTIONS	4			0	lt	Lakštai				2002-02-02 02:02:02
 sc	source\ui\src\scstring.src	0	itemlist	SCSTR_PRINT_OPTIONS	5			0	lt	~Spausdinti tik pasirinktus lakštus				2002-02-02 02:02:02
 sc	source\ui\src\scstring.src	0	itemlist	SCSTR_PRINT_OPTIONS	10			0	lt	~Pasirinkti lakštai				2002-02-02 02:02:02
-sc	source\ui\src\scstring.src	0	itemlist	SCSTR_PRINT_OPTIONS	17			0	lt	Puslapiai				2002-02-02 02:02:02
-sc	source\ui\src\scstring.src	0	itemlist	SCSTR_PRINT_OPTIONS	19			0	lt	„%PRODUCTNAME“ skaičiuoklė				2002-02-02 02:02:02
+sc	source\ui\src\scstring.src	0	itemlist	SCSTR_PRINT_OPTIONS	17			0	lt	Pus~lapiai				2002-02-02 02:02:02
+sc	source\ui\src\scstring.src	0	itemlist	SCSTR_PRINT_OPTIONS	19			0	lt	„%PRODUCTNAME“ %s				2002-02-02 02:02:02
 sc	source\ui\src\popup.src	0	string	RID_POPUP_CELLS				0	lt	Langelio išskleidžiamas meniu				2002-02-02 02:02:02
 sc	source\ui\src\popup.src	0	menuitem	RID_POPUP_CELLS	SID_CELL_FORMAT_RESET	SID_CELL_FORMAT_RESET		0	lt	~Numatytasis formatavimas				2002-02-02 02:02:02
 sc	source\ui\src\popup.src	0	menuitem	RID_POPUP_CELLS	FID_CELL_FORMAT	FID_CELL_FORMAT		0	lt	Langelių ~formatas...				2002-02-02 02:02:02
 sc	source\ui\src\popup.src	0	menuitem	RID_POPUP_CELLS	FID_INS_CELL	FID_INS_CELL		0	lt	~Įterpti...				2002-02-02 02:02:02
 sc	source\ui\src\popup.src	0	menuitem	RID_POPUP_CELLS	FID_DELETE_CELL	FID_DELETE_CELL		0	lt	~Šalinti...				2002-02-02 02:02:02
 sc	source\ui\src\popup.src	0	menuitem	RID_POPUP_CELLS	SID_DELETE	SID_DELETE		0	lt	Šalinti ~turinį...				2002-02-02 02:02:02
-sc	source\ui\src\popup.src	0	menuitem	RID_POPUP_CELLS	SID_INSERT_POSTIT	SID_INSERT_POSTIT		0	lt	Įterpti komentarą				2002-02-02 02:02:02
-sc	source\ui\src\popup.src	0	menuitem	RID_POPUP_CELLS	SID_DELETE_NOTE	SID_DELETE_NOTE		0	lt	Turinio šalinimas				2002-02-02 02:02:02
-sc	source\ui\src\popup.src	0	menuitem	RID_POPUP_CELLS	FID_NOTE_VISIBLE	FID_NOTE_VISIBLE		0	lt	Rodyti komentarą				2002-02-02 02:02:02
+sc	source\ui\src\popup.src	0	menuitem	RID_POPUP_CELLS	SID_INSERT_POSTIT	SID_INSERT_POSTIT		0	lt	Įterpti ko~mentarą				2002-02-02 02:02:02
+sc	source\ui\src\popup.src	0	menuitem	RID_POPUP_CELLS	SID_DELETE_NOTE	SID_DELETE_NOTE		0	lt	Šalinti kom~entarą				2002-02-02 02:02:02
+sc	source\ui\src\popup.src	0	menuitem	RID_POPUP_CELLS	FID_NOTE_VISIBLE	FID_NOTE_VISIBLE		0	lt	Rod~yti komentarą				2002-02-02 02:02:02
 sc	source\ui\src\popup.src	0	menuitem	RID_POPUP_CELLS	SID_CUT	SID_CUT		0	lt	~Iškirpti				2002-02-02 02:02:02
 sc	source\ui\src\popup.src	0	menuitem	RID_POPUP_CELLS	SID_COPY	SID_COPY		0	lt	~Kopijuoti				2002-02-02 02:02:02
 sc	source\ui\src\popup.src	0	menuitem	RID_POPUP_CELLS	SID_PASTE	SID_PASTE		0	lt	Į~dėti				2002-02-02 02:02:02
@@ -13273,7 +13273,7 @@ sc	source\ui\src\popup.src	0	menuitem	RID_POPUP_TAB	FID_DELETE_TABLE	FID_DELETE_
 sc	source\ui\src\popup.src	0	menuitem	RID_POPUP_TAB	FID_TAB_MENU_RENAME	FID_TAB_MENU_RENAME		0	lt	~Pervadinti...				2002-02-02 02:02:02
 sc	source\ui\src\popup.src	0	menuitem	RID_POPUP_TAB	FID_TAB_MOVE	FID_TAB_MOVE		0	lt	Perke~lti arba kopijuoti...				2002-02-02 02:02:02
 sc	source\ui\src\popup.src	0	menuitem	RID_POPUP_TAB	FID_TAB_SELECTALL	FID_TAB_SELECTALL		0	lt	Pa~žymėti visus lakštus				2002-02-02 02:02:02
-sc	source\ui\src\popup.src	0	menuitem	RID_POPUP_TAB	FID_TAB_DESELECTALL	FID_TAB_DESELECTALL		0	lt	Pa~žymėti visus lakštus				2002-02-02 02:02:02
+sc	source\ui\src\popup.src	0	menuitem	RID_POPUP_TAB	FID_TAB_DESELECTALL	FID_TAB_DESELECTALL		0	lt	Pa~naikinti visų lakštų žymėjimą				2002-02-02 02:02:02
 sc	source\ui\src\popup.src	0	menuitem	RID_POPUP_TAB	FID_TAB_RTL	FID_TAB_RTL		0	lt	La~kštas iš dešinės į kairę				2002-02-02 02:02:02
 sc	source\ui\src\popup.src	0	string	RID_POPUP_PIVOT				0	lt	Apibendrinančios lentelės išskleidžiamas meniu				2002-02-02 02:02:02
 sc	source\ui\src\popup.src	0	menuitem	RID_POPUP_PIVOT	SID_OPENDLG_PIVOTTABLE	SID_OPENDLG_PIVOTTABLE		0	lt	~Pradėti...				2002-02-02 02:02:02
@@ -13310,7 +13310,7 @@ sc	source\ui\src\popup.src	0	menuitem	RID_POPUP_PAGEBREAK	SID_DEFINE_PRINTAREA	S
 sc	source\ui\src\popup.src	0	menuitem	RID_POPUP_PAGEBREAK	SID_ADD_PRINTAREA	SID_ADD_PRINTAREA		0	lt	Pridėti spausdinamus puslapius				2002-02-02 02:02:02
 sc	source\ui\src\popup.src	0	menuitem	RID_POPUP_PAGEBREAK	SID_DELETE_PRINTAREA	SID_DELETE_PRINTAREA		0	lt	Atšaukti spausdinimo rėžius				2002-02-02 02:02:02
 sc	source\ui\src\popup.src	0	menuitem	RID_POPUP_PAGEBREAK	SID_FORMATPAGE	SID_FORMATPAGE		0	lt	Puslapio formatas...				2002-02-02 02:02:02
-sc	source\ui\src\popup.src	0	menuitem	RID_POPUP_PAGEBREAK	FID_NOTE_VISIBLE	FID_NOTE_VISIBLE		0	lt	Rodyti komentarą				2002-02-02 02:02:02
+sc	source\ui\src\popup.src	0	menuitem	RID_POPUP_PAGEBREAK	FID_NOTE_VISIBLE	FID_NOTE_VISIBLE		0	lt	Ro~dyti komentarą				2002-02-02 02:02:02
 sc	source\ui\src\condfrmt.src	0	checkbox	RID_SCDLG_CONDFORMAT	CBX_COND1			248	lt	~1 sąlyga				2002-02-02 02:02:02
 sc	source\ui\src\condfrmt.src	0	stringlist	RID_SCDLG_CONDFORMAT.LB_COND1_1	1			0	lt	Langelio reikšmė				2002-02-02 02:02:02
 sc	source\ui\src\condfrmt.src	0	stringlist	RID_SCDLG_CONDFORMAT.LB_COND1_1	2			0	lt	Formulė				2002-02-02 02:02:02
@@ -13355,7 +13355,7 @@ sc	source\ui\src\condfrmt.src	0	stringlist	RID_SCDLG_CONDFORMAT.LB_COND3_2	8			0
 sc	source\ui\src\condfrmt.src	0	imagebutton	RID_SCDLG_CONDFORMAT	RB_COND3_1			13	lt	-		Sutraukti		2002-02-02 02:02:02
 sc	source\ui\src\condfrmt.src	0	fixedtext	RID_SCDLG_CONDFORMAT	FT_COND3_AND			16	lt	ir				2002-02-02 02:02:02
 sc	source\ui\src\condfrmt.src	0	imagebutton	RID_SCDLG_CONDFORMAT	RB_COND3_2			13	lt	-		Sutraukti		2002-02-02 02:02:02
-sc	source\ui\src\condfrmt.src	0	fixedtext	RID_SCDLG_CONDFORMAT	FT_COND3_TEMPLATE			46	lt	Na~rvelio stilius				2002-02-02 02:02:02
+sc	source\ui\src\condfrmt.src	0	fixedtext	RID_SCDLG_CONDFORMAT	FT_COND3_TEMPLATE			46	lt	~Langelio stilius				2002-02-02 02:02:02
 sc	source\ui\src\condfrmt.src	0	modelessdialog	RID_SCDLG_CONDFORMAT		HID_SCDLG_CONDFORMAT		316	lt	Sąlyginis formatavimas				2002-02-02 02:02:02
 sc	source\ui\src\solveroptions.src	0	fixedtext	RID_SCDLG_SOLVEROPTIONS	FT_ENGINE			59	lt	Sprendiklio varytuvė				2002-02-02 02:02:02
 sc	source\ui\src\solveroptions.src	0	fixedtext	RID_SCDLG_SOLVEROPTIONS	FT_SETTINGS			156	lt	Nuostatos:				2002-02-02 02:02:02
@@ -13455,7 +13455,7 @@ sc	source\ui\navipi\navipi.src	0	string	SCSTR_CONTENT_RANGENAME				0	lt	Sričių
 sc	source\ui\navipi\navipi.src	0	string	SCSTR_CONTENT_DBAREA				0	lt	Duomenų sritys				2002-02-02 02:02:02
 sc	source\ui\navipi\navipi.src	0	string	SCSTR_CONTENT_GRAPHIC				0	lt	Paveikslai				2002-02-02 02:02:02
 sc	source\ui\navipi\navipi.src	0	string	SCSTR_CONTENT_OLEOBJECT				0	lt	OLE objektai				2002-02-02 02:02:02
-sc	source\ui\navipi\navipi.src	0	string	SCSTR_CONTENT_NOTE				0	lt	Komentaras				2002-02-02 02:02:02
+sc	source\ui\navipi\navipi.src	0	string	SCSTR_CONTENT_NOTE				0	lt	Komentarai				2002-02-02 02:02:02
 sc	source\ui\navipi\navipi.src	0	string	SCSTR_CONTENT_AREALINK				0	lt	Susietos sritys				2002-02-02 02:02:02
 sc	source\ui\navipi\navipi.src	0	string	SCSTR_CONTENT_DRAWING				0	lt	Grafikos objektai				2002-02-02 02:02:02
 sc	source\ui\navipi\navipi.src	0	menuitem	RID_POPUP_DROPMODE	RID_DROPMODE_URL	HID_SC_DROPMODE_URL		0	lt	Įterpti hipersaitu				2002-02-02 02:02:02
@@ -13705,7 +13705,7 @@ sc	source\ui\dbgui\validate.src	0	checkbox	TP_VALIDATION_VALUES	TSB_ALLOW_BLANKS
 sc	source\ui\dbgui\validate.src	0	checkbox	TP_VALIDATION_VALUES	CB_SHOWLIST			174	lt	~Rodyti pasirinkimo sąrašą				2002-02-02 02:02:02
 sc	source\ui\dbgui\validate.src	0	checkbox	TP_VALIDATION_VALUES	CB_SORTLIST			164	lt	Rikiuoti įrašus ~didėjančiai				2002-02-02 02:02:02
 sc	source\ui\dbgui\validate.src	0	fixedtext	TP_VALIDATION_VALUES	FT_SOURCEHINT			174	lt	Leistinas šaltinis gali būti sudarytas tik iš ištisinės eilučių ir stulpelių atrankos arba iš formulės, kurios rezultatas yra sritis arba masyvas.				2002-02-02 02:02:02
-sc	source\ui\dbgui\validate.src	0	imagebutton	TP_VALIDATION_VALUES	RB_VALIDITY_REF			13	lt	-		Sutraukti		2002-02-02 02:02:02
+sc	source\ui\dbgui\validate.src	0	imagebutton	TP_VALIDATION_VALUES	RB_VALIDITY_REF			13	lt	-		Shrink		2002-02-02 02:02:02
 sc	source\ui\dbgui\validate.src	0	tabpage	TP_VALIDATION_VALUES				260	lt	Reikšmės				2002-02-02 02:02:02
 sc	source\ui\dbgui\validate.src	0	tristatebox	TP_VALIDATION_INPUTHELP	TSB_HELP			248	lt	~Pažymėjus langelį rodyti įvesties informaciją				2002-02-02 02:02:02
 sc	source\ui\dbgui\validate.src	0	fixedline	TP_VALIDATION_INPUTHELP	FL_CONTENT			248	lt	Turinys				2002-02-02 02:02:02
@@ -14731,9 +14731,9 @@ sccomp	source\solver\solver.src	0	string	RID_ERROR_INFEASIBLE				0	lt	Modelis ne
 sccomp	source\solver\solver.src	0	string	RID_ERROR_UNBOUNDED				0	lt	Modelis neapribotas				2002-02-02 02:02:02
 sccomp	source\solver\solver.src	0	string	RID_ERROR_TIMEOUT				0	lt	Išnaudotas laiko limitas.				2002-02-02 02:02:02
 scp2	source\writer\registryitem_writer.ulf	0	LngText	STR_REG_VAL_NEW				0	lt	&Naujas				2002-02-02 02:02:02
-scp2	source\writer\registryitem_writer.ulf	0	LngText	STR_REG_VAL_SO60_TEXT				0	lt	„%PRODUCTNAME %SXWFORMATVERSION“ teksto dokumentas				2002-02-02 02:02:02
-scp2	source\writer\registryitem_writer.ulf	0	LngText	STR_REG_VAL_SO60_MASTERDOC				0	lt	„%PRODUCTNAME %SXWFORMATVERSION“ pagrindinis dokumentas				2002-02-02 02:02:02
-scp2	source\writer\registryitem_writer.ulf	0	LngText	STR_REG_VAL_SO60_WRITER_TEMPLATE				0	lt	„%PRODUCTNAME %SXWFORMATVERSION“ teksto šablonas				2002-02-02 02:02:02
+scp2	source\writer\registryitem_writer.ulf	0	LngText	STR_REG_VAL_SO60_TEXT				0	lt	„%SXWFORMATNAME %SXWFORMATVERSION“ teksto dokumentas				2002-02-02 02:02:02
+scp2	source\writer\registryitem_writer.ulf	0	LngText	STR_REG_VAL_SO60_MASTERDOC				0	lt	„%SXWFORMATNAME %SXWFORMATVERSION“ pagrindinis dokumentas				2002-02-02 02:02:02
+scp2	source\writer\registryitem_writer.ulf	0	LngText	STR_REG_VAL_SO60_WRITER_TEMPLATE				0	lt	„%SXWFORMATNAME %SXWFORMATVERSION“ teksto šablonas				2002-02-02 02:02:02
 scp2	source\writer\registryitem_writer.ulf	0	LngText	STR_REG_VAL_OO_WRITER				0	lt	„OpenDocument“ teksto dokumentas				2002-02-02 02:02:02
 scp2	source\writer\registryitem_writer.ulf	0	LngText	STR_REG_VAL_OO_WRITER_TEMPLATE				0	lt	„OpenDocument“ teksto šablonas				2002-02-02 02:02:02
 scp2	source\writer\registryitem_writer.ulf	0	LngText	STR_REG_VAL_OO_MASTERDOC				0	lt	„OpenDocument“ pagrindinis dokumentas				2002-02-02 02:02:02
@@ -14755,8 +14755,8 @@ scp2	source\writer\module_writer.ulf	0	LngText	STR_DESC_MODULE_PRG_WRT_HELP				0
 scp2	source\writer\module_writer.ulf	0	LngText	STR_NAME_MODULE_PRG_WRT_WRITER2LATEX				0	lt	„LaTeX“ eksportas				2002-02-02 02:02:02
 scp2	source\writer\module_writer.ulf	0	LngText	STR_DESC_MODULE_PRG_WRT_WRITER2LATEX				0	lt	„LaTeX“ eksporto filtras „Writer“ teksto dokumentams.				2002-02-02 02:02:02
 scp2	source\calc\registryitem_calc.ulf	0	LngText	STR_REG_VAL_NEW				0	lt	&Naujas				2002-02-02 02:02:02
-scp2	source\calc\registryitem_calc.ulf	0	LngText	STR_REG_VAL_SO60_SPREADSHEET				0	lt	„%PRODUCTNAME %SXWFORMATVERSION“ skaičiuoklės dokumentas				2002-02-02 02:02:02
-scp2	source\calc\registryitem_calc.ulf	0	LngText	STR_REG_VAL_SO60_CALC_TEMPLATE				0	lt	„%PRODUCTNAME %SXWFORMATVERSION“ skaičiuoklės šablonas				2002-02-02 02:02:02
+scp2	source\calc\registryitem_calc.ulf	0	LngText	STR_REG_VAL_SO60_SPREADSHEET				0	lt	„%SXWFORMATNAME %SXWFORMATVERSION“ skaičiuoklės dokumentas				2002-02-02 02:02:02
+scp2	source\calc\registryitem_calc.ulf	0	LngText	STR_REG_VAL_SO60_CALC_TEMPLATE				0	lt	„%SXWFORMATNAME %SXWFORMATVERSION“ skaičiuoklės šablonas				2002-02-02 02:02:02
 scp2	source\calc\registryitem_calc.ulf	0	LngText	STR_REG_VAL_OO_CALC				0	lt	„OpenDocument“ skaičiuoklės dokumentas				2002-02-02 02:02:02
 scp2	source\calc\registryitem_calc.ulf	0	LngText	STR_REG_VAL_OO_CALC_TEMPLATE				0	lt	„OpenDocument“ skaičiuoklės šablonas				2002-02-02 02:02:02
 scp2	source\calc\registryitem_calc.ulf	0	LngText	STR_REG_VAL_MS_EXCEL_WORKSHEET_OLD				0	lt	„Microsoft Excel 97-2003“ skaičiuoklės lakštas				2002-02-02 02:02:02
@@ -14821,8 +14821,8 @@ scp2	source\draw\module_draw.ulf	0	LngText	STR_DESC_MODULE_PRG_DRAW_HELP				0	lt
 scp2	source\draw\folderitem_draw.ulf	0	LngText	STR_FI_NAME_ZEICHNUNG				0	lt	Grafikos dokumentas				2002-02-02 02:02:02
 scp2	source\draw\folderitem_draw.ulf	0	LngText	STR_FI_TOOLTIP_DRAW				0	lt	Grafikos rengykle galima braižyti brėžinius, blokines schemas, kurti logotipus.				2002-02-02 02:02:02
 scp2	source\draw\registryitem_draw.ulf	0	LngText	STR_REG_VAL_NEW				0	lt	&Naujas				2002-02-02 02:02:02
-scp2	source\draw\registryitem_draw.ulf	0	LngText	STR_REG_VAL_SO60_DRAWING				0	lt	„%PRODUCTNAME %SXWFORMATVERSION“ grafikos dokumentas				2002-02-02 02:02:02
-scp2	source\draw\registryitem_draw.ulf	0	LngText	STR_REG_VAL_SO60_DRAW_TEMPLATE				0	lt	„%PRODUCTNAME %SXWFORMATVERSION“ grafikos šablonas				2002-02-02 02:02:02
+scp2	source\draw\registryitem_draw.ulf	0	LngText	STR_REG_VAL_SO60_DRAWING				0	lt	„%SXWFORMATNAME %SXWFORMATVERSION“ grafikos dokumentas				2002-02-02 02:02:02
+scp2	source\draw\registryitem_draw.ulf	0	LngText	STR_REG_VAL_SO60_DRAW_TEMPLATE				0	lt	„%SXWFORMATNAME %SXWFORMATVERSION“ grafikos šablonas				2002-02-02 02:02:02
 scp2	source\draw\registryitem_draw.ulf	0	LngText	STR_REG_VAL_OO_DRAW				0	lt	„OpenDocument“ grafikos dokumentas				2002-02-02 02:02:02
 scp2	source\draw\registryitem_draw.ulf	0	LngText	STR_REG_VAL_OO_DRAW_TEMPLATE				0	lt	„OpenDocument“ grafikos šablonas				2002-02-02 02:02:02
 scp2	source\base\folderitem_base.ulf	0	LngText	STR_FI_TOOLTIP_BASE				0	lt	Duomenų bazių tvarkymui, užklausų ir ataskaitų rašymui skirta programa Base.				2002-02-02 02:02:02
@@ -14838,7 +14838,7 @@ scp2	source\quickstart\module_quickstart.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_
 scp2	source\winexplorerext\module_winexplorerext.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_WINDOWS_EXPLORER_EXTENSIONS				0	lt	„Windows Explorer“ plėtinys				2002-02-02 02:02:02
 scp2	source\winexplorerext\module_winexplorerext.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_WINDOWS_EXPLORER_EXTENSIONS				0	lt	Įdiegiama galimybė „Microsoft Windows Explorer“ failų tvarkytuvėje matyti informaciją apie „%PRODUCTNAME“ dokumentus, dokumentų miniatiūras.				2002-02-02 02:02:02
 scp2	source\math\registryitem_math.ulf	0	LngText	STR_REG_VAL_NEW				0	lt	&Naujas				2002-02-02 02:02:02
-scp2	source\math\registryitem_math.ulf	0	LngText	STR_REG_VAL_SO60_FORMULA				0	lt	„%PRODUCTNAME %SXWFORMATVERSION“ matematinis dokumentas				2002-02-02 02:02:02
+scp2	source\math\registryitem_math.ulf	0	LngText	STR_REG_VAL_SO60_FORMULA				0	lt	„%SXWFORMATNAME %SXWFORMATVERSION“ matematinis dokumentas				2002-02-02 02:02:02
 scp2	source\math\registryitem_math.ulf	0	LngText	STR_REG_VAL_OO_FORMULA				0	lt	„OpenDocument“ matematinis dokumentas				2002-02-02 02:02:02
 scp2	source\math\module_math.ulf	0	LngText	STR_NAME_MODULE_PRG_MATH				0	lt	„%PRODUCTNAME“ matematinė rengyklė				2002-02-02 02:02:02
 scp2	source\math\module_math.ulf	0	LngText	STR_DESC_MODULE_PRG_MATH				0	lt	„%PRODUCTNAME“ matematinė rengyklė skirta formulėms ir lygtims rašyti.				2002-02-02 02:02:02
@@ -14857,8 +14857,8 @@ scp2	source\impress\module_impress.ulf	0	LngText	STR_NAME_MODULE_PRG_IMPRESS_HEL
 scp2	source\impress\module_impress.ulf	0	LngText	STR_DESC_MODULE_PRG_IMPRESS_HELP				0	lt	„%PRODUCTNAME“ pateikčių rengyklės žinynas.				2002-02-02 02:02:02
 scp2	source\impress\registryitem_impress.ulf	0	LngText	STR_REG_VAL_NEW				0	lt	&Naujas				2002-02-02 02:02:02
 scp2	source\impress\registryitem_impress.ulf	0	LngText	STR_REG_VAL_SO60_SHOW				0	lt	Rodyti				2002-02-02 02:02:02
-scp2	source\impress\registryitem_impress.ulf	0	LngText	STR_REG_VAL_SO60_PRESENT				0	lt	„%PRODUCTNAME %SXWFORMATVERSION“ pateiktis				2002-02-02 02:02:02
-scp2	source\impress\registryitem_impress.ulf	0	LngText	STR_REG_VAL_SO60_IMPRESS_TEMPLATE				0	lt	„%PRODUCTNAME %SXWFORMATVERSION“ pateikties šablonas				2002-02-02 02:02:02
+scp2	source\impress\registryitem_impress.ulf	0	LngText	STR_REG_VAL_SO60_PRESENT				0	lt	„%SXWFORMATNAME %SXWFORMATVERSION“ pateiktis				2002-02-02 02:02:02
+scp2	source\impress\registryitem_impress.ulf	0	LngText	STR_REG_VAL_SO60_IMPRESS_TEMPLATE				0	lt	„%SXWFORMATNAME %SXWFORMATVERSION“ pateikties šablonas				2002-02-02 02:02:02
 scp2	source\impress\registryitem_impress.ulf	0	LngText	STR_REG_VAL_OO_PRESENT				0	lt	„OpenDocument“ pateiktis				2002-02-02 02:02:02
 scp2	source\impress\registryitem_impress.ulf	0	LngText	STR_REG_VAL_OO_PRESENT_TEMPLATE				0	lt	„OpenDocument“ pateikties šablonas				2002-02-02 02:02:02
 scp2	source\impress\registryitem_impress.ulf	0	LngText	STR_REG_VAL_MS_POWERPOINT_PRESENTATION_OLD				0	lt	„Microsoft PowerPoint 97-2003“ pateiktis				2002-02-02 02:02:02
@@ -14932,7 +14932,7 @@ scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_JA				0	l
 scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_JA				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama japonų kalba				2002-02-02 02:02:02
 scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_KO				0	lt	Korėjiečių				2002-02-02 02:02:02
 scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_KO				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama korėjiečių kalba				2002-02-02 02:02:02
-scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_ZH_CN				0	lt	Kinų (supaprastinta)				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_ZH_CN				0	lt	Kinų (supaprastintoji)				2002-02-02 02:02:02
 scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_ZH_CN				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama supaprastinta kinų kalba				2002-02-02 02:02:02
 scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_ZH_TW				0	lt	Kinų (tradicinė)				2002-02-02 02:02:02
 scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_ZH_TW				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama tradicinė kinų kalba				2002-02-02 02:02:02
@@ -14976,23 +14976,23 @@ scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_HI				0	l
 scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_HI				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama hindi kalba				2002-02-02 02:02:02
 scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_HI_IN				0	lt	Hindi				2002-02-02 02:02:02
 scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_HI_IN				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama hindi kalba				2002-02-02 02:02:02
-scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_ST				0	lt	Pietų sotų (Sutu)				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_ST				0	lt	Pietų sothų (sutu)				2002-02-02 02:02:02
 scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_ST				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama Pietų sotų (sutu) kalba				2002-02-02 02:02:02
 scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_TN				0	lt	Tsvanų				2002-02-02 02:02:02
 scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_TN				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama tsvanų kalba				2002-02-02 02:02:02
 scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_XH				0	lt	Kosų				2002-02-02 02:02:02
 scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_XH				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama kosų kalba				2002-02-02 02:02:02
-scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_ZU				0	lt	Zulų				2002-02-02 02:02:02
-scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_ZU				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama zulų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_ZU				0	lt	Zulų (zulusų)				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_ZU				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama zulusų kalba				2002-02-02 02:02:02
 scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_AF				0	lt	Afrikanų				2002-02-02 02:02:02
 scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_AF				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama afrikanų kalba				2002-02-02 02:02:02
-scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_SW				0	lt	Svahilių				2002-02-02 02:02:02
-scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_SW				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama svahilių kalba				2002-02-02 02:02:02
-scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_SW_TZ				0	lt	Svahilių				2002-02-02 02:02:02
-scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_SW_TZ				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama svahilių kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_SW				0	lt	Suahilių				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_SW				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama suahilių kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_SW_TZ				0	lt	Suahilių				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_SW_TZ				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama suahilių kalba				2002-02-02 02:02:02
 scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_LO				0	lt	Laosiečių				2002-02-02 02:02:02
 scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_LO				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama laosiečių kalba				2002-02-02 02:02:02
-scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_NS				0	lt	Šiaurės sotų				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_NS				0	lt	Šiaurės sothų				2002-02-02 02:02:02
 scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_NS				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama Šiaurės sotų kalba				2002-02-02 02:02:02
 scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_BN				0	lt	Bengalų				2002-02-02 02:02:02
 scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_BN				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama bengalų kalba				2002-02-02 02:02:02
@@ -15024,10 +15024,10 @@ scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_HE				0	l
 scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_HE				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama hebrajų kalba				2002-02-02 02:02:02
 scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_IS				0	lt	Islandų				2002-02-02 02:02:02
 scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_IS				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama islandų kalba				2002-02-02 02:02:02
-scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_NB				0	lt	Norvegų (Bokmal)				2002-02-02 02:02:02
-scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_NB				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama norvegų (Bokmal) kalba				2002-02-02 02:02:02
-scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_NN				0	lt	Norvegų (Nynorsk)				2002-02-02 02:02:02
-scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_NN				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama norvegų (Nynorsk) kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_NB				0	lt	Norvegų (bokmål)				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_NB				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama norvegų (bokmål) kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_NN				0	lt	Norvegų (nynorsk)				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_NN				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama norvegų (nynorsk) kalba				2002-02-02 02:02:02
 scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_RM				0	lt	Retoromanų				2002-02-02 02:02:02
 scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_RM				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama retoromanų kalba				2002-02-02 02:02:02
 scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_RO				0	lt	Rumunų				2002-02-02 02:02:02
@@ -15058,7 +15058,7 @@ scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_MT				0	l
 scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_MT				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama maltiečių kalba				2002-02-02 02:02:02
 scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_CY				0	lt	Valų				2002-02-02 02:02:02
 scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_CY				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama valų kalba				2002-02-02 02:02:02
-scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_GL				0	lt	Galų				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_GL				0	lt	Galisų				2002-02-02 02:02:02
 scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_GL				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama galų kalba				2002-02-02 02:02:02
 scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_SH_YU				0	lt	Serbų (lotynų)				2002-02-02 02:02:02
 scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_SH_YU				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama serbų (lotynų) kalba				2002-02-02 02:02:02
@@ -15072,11 +15072,11 @@ scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_SR				0	l
 scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_SR				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama serbų (kirilica) kalba				2002-02-02 02:02:02
 scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_BS				0	lt	Bosnių				2002-02-02 02:02:02
 scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_BS				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama bosnių kalba				2002-02-02 02:02:02
-scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_AS_IN				0	lt	Asamių				2002-02-02 02:02:02
-scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_AS_IN				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama asamių kalba				2002-02-02 02:02:02
-scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_RW				0	lt	Kinyarwanda				2002-02-02 02:02:02
-scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_RW				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama Kinyarwanda kalba				2002-02-02 02:02:02
-scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_SA				0	lt	Sanskrito				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_AS_IN				0	lt	Asamų				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_AS_IN				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama asamų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_RW				0	lt	Kinjaruanda				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_RW				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama kinjaruanda kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_SA				0	lt	Sanskritas				2002-02-02 02:02:02
 scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_SA				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama sanskrito kalba				2002-02-02 02:02:02
 scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_FA				0	lt	Persų				2002-02-02 02:02:02
 scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_FA				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama persų kalba				2002-02-02 02:02:02
@@ -15086,28 +15086,28 @@ scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_SB				0	l
 scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_SB				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama sorbių kalba				2002-02-02 02:02:02
 scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_TT				0	lt	Totorių				2002-02-02 02:02:02
 scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_TT				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama totorių kalba				2002-02-02 02:02:02
-scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_TS				0	lt	Tsonga				2002-02-02 02:02:02
-scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_TS				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama tsonga kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_TS				0	lt	Tsongų				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_TS				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama tsongų kalba				2002-02-02 02:02:02
 scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_YI				0	lt	Jidiš				2002-02-02 02:02:02
 scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_YI				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama jidiš kalba				2002-02-02 02:02:02
-scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_BR				0	lt	Breton				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_BR				0	lt	Bretonų				2002-02-02 02:02:02
 scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_BR				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama Breton kalba				2002-02-02 02:02:02
-scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_NR				0	lt	Ndebele				2002-02-02 02:02:02
-scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_NR				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama Ndebele kalba				2002-02-02 02:02:02
-scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_SS				0	lt	Svazi				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_NR				0	lt	Ndebelų (pietų)				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_NR				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama pietų ndebelų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_SS				0	lt	Svazių				2002-02-02 02:02:02
 scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_SS				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama svazi kalba				2002-02-02 02:02:02
 scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_VE				0	lt	Venda				2002-02-02 02:02:02
 scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_VE				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama Venda kalba				2002-02-02 02:02:02
-scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_KN				0	lt	Kannada				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_KN				0	lt	Kanadų				2002-02-02 02:02:02
 scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_KN				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama Kannada kalba				2002-02-02 02:02:02
 scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_MS				0	lt	Malajų (Malaizija)				2002-02-02 02:02:02
-scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_MS				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama malajų (Malaizija) kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_MS				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama Malaizijos malajų kalba				2002-02-02 02:02:02
 scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_TG				0	lt	Tadžikų				2002-02-02 02:02:02
 scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_TG				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama tadžikų kalba				2002-02-02 02:02:02
 scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_KU				0	lt	Kurdų				2002-02-02 02:02:02
 scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_KU				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama kurdų kalba				2002-02-02 02:02:02
-scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_DZ				0	lt	Džonka				2002-02-02 02:02:02
-scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_DZ				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama Džonka kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_DZ				0	lt	Botijų				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_DZ				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama botijų kalba				2002-02-02 02:02:02
 scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_KA				0	lt	Gruzinų				2002-02-02 02:02:02
 scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_KA				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama gruzinų kalba				2002-02-02 02:02:02
 scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_EO				0	lt	Esperanto				2002-02-02 02:02:02
@@ -15120,18 +15120,18 @@ scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_EN_GB				
 scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_EN_GB				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama anglų (Jungtinės Karalystės) kalba				2002-02-02 02:02:02
 scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_UR_IN				0	lt	Urdu				2002-02-02 02:02:02
 scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_UR_IN				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama urdu kalba				2002-02-02 02:02:02
-scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_ML_IN				0	lt	Malayalam				2002-02-02 02:02:02
-scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_ML_IN				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama Malayalam kalba				2002-02-02 02:02:02
-scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_TE_IN				0	lt	Telugu				2002-02-02 02:02:02
-scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_TE_IN				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama Telugu kalba				2002-02-02 02:02:02
-scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_TI_ER				0	lt	Tigrinya				2002-02-02 02:02:02
-scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_TI_ER				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama Tigrinya kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_ML_IN				0	lt	Malajalių				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_ML_IN				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama malajalių kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_TE_IN				0	lt	Telugų				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_TE_IN				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama telugų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_TI_ER				0	lt	Tigrajų				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_TI_ER				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama tigrajų kalba				2002-02-02 02:02:02
 scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_UZ				0	lt	Uzbekų				2002-02-02 02:02:02
 scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_UZ				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama uzbekų kalba				2002-02-02 02:02:02
 scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_MN				0	lt	Mongolų				2002-02-02 02:02:02
 scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_MN				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama mongolų kalba				2002-02-02 02:02:02
-scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_MY				0	lt	Bamarų				2002-02-02 02:02:02
-scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_MY				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama bamarų (Mianmaras) kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_MY				0	lt	Mjanmų				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_MY				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama mjanmų kalba				2002-02-02 02:02:02
 scp2	source\ooo\module_ooo.ulf	0	LngText	STR_NAME_MODULE_ROOT_OSL				0	lt	„%PRODUCTNAME %PRODUCTVERSION“				2002-02-02 02:02:02
 scp2	source\ooo\module_ooo.ulf	0	LngText	STR_DESC_MODULE_ROOT_OSL				0	lt	„%PRODUCTNAME %PRODUCTVERSION“				2002-02-02 02:02:02
 scp2	source\ooo\module_ooo.ulf	0	LngText	STR_NAME_MODULE_PRG				0	lt	„%PRODUCTNAME“ programos moduliai				2002-02-02 02:02:02
@@ -15146,7 +15146,7 @@ scp2	source\ooo\module_ooo.ulf	0	LngText	STR_NAME_MODULE_EXTENSION_DICTIONARY_EN
 scp2	source\ooo\module_ooo.ulf	0	LngText	STR_NAME_MODULE_EXTENSION_DICTIONARY_ES				0	lt	Ispanų				2002-02-02 02:02:02
 scp2	source\ooo\module_ooo.ulf	0	LngText	STR_NAME_MODULE_EXTENSION_DICTIONARY_ET				0	lt	Estų				2002-02-02 02:02:02
 scp2	source\ooo\module_ooo.ulf	0	LngText	STR_NAME_MODULE_EXTENSION_DICTIONARY_FR				0	lt	Prancūzų				2002-02-02 02:02:02
-scp2	source\ooo\module_ooo.ulf	0	LngText	STR_NAME_MODULE_EXTENSION_DICTIONARY_GL				0	lt	Galų				2002-02-02 02:02:02
+scp2	source\ooo\module_ooo.ulf	0	LngText	STR_NAME_MODULE_EXTENSION_DICTIONARY_GL				0	lt	Galisų				2002-02-02 02:02:02
 scp2	source\ooo\module_ooo.ulf	0	LngText	STR_NAME_MODULE_EXTENSION_DICTIONARY_HE				0	lt	Hebrajų				2002-02-02 02:02:02
 scp2	source\ooo\module_ooo.ulf	0	LngText	STR_NAME_MODULE_EXTENSION_DICTIONARY_HU				0	lt	Vengrų				2002-02-02 02:02:02
 scp2	source\ooo\module_ooo.ulf	0	LngText	STR_NAME_MODULE_EXTENSION_DICTIONARY_IT				0	lt	Italų				2002-02-02 02:02:02
@@ -15158,12 +15158,12 @@ scp2	source\ooo\module_ooo.ulf	0	LngText	STR_NAME_MODULE_EXTENSION_DICTIONARY_RO
 scp2	source\ooo\module_ooo.ulf	0	LngText	STR_NAME_MODULE_EXTENSION_DICTIONARY_RU				0	lt	Rusų				2002-02-02 02:02:02
 scp2	source\ooo\module_ooo.ulf	0	LngText	STR_NAME_MODULE_EXTENSION_DICTIONARY_SK				0	lt	Slovakų				2002-02-02 02:02:02
 scp2	source\ooo\module_ooo.ulf	0	LngText	STR_NAME_MODULE_EXTENSION_DICTIONARY_SL				0	lt	Slovėnų				2002-02-02 02:02:02
-scp2	source\ooo\module_ooo.ulf	0	LngText	STR_NAME_MODULE_EXTENSION_DICTIONARY_SR				0	lt	Sorbių				2002-02-02 02:02:02
+scp2	source\ooo\module_ooo.ulf	0	LngText	STR_NAME_MODULE_EXTENSION_DICTIONARY_SR				0	lt	Serbų				2002-02-02 02:02:02
 scp2	source\ooo\module_ooo.ulf	0	LngText	STR_NAME_MODULE_EXTENSION_DICTIONARY_SV				0	lt	Švedų				2002-02-02 02:02:02
-scp2	source\ooo\module_ooo.ulf	0	LngText	STR_NAME_MODULE_EXTENSION_DICTIONARY_SW				0	lt	Svahilių				2002-02-02 02:02:02
+scp2	source\ooo\module_ooo.ulf	0	LngText	STR_NAME_MODULE_EXTENSION_DICTIONARY_SW				0	lt	Suahilių				2002-02-02 02:02:02
 scp2	source\ooo\module_ooo.ulf	0	LngText	STR_NAME_MODULE_EXTENSION_DICTIONARY_TH				0	lt	Tajų				2002-02-02 02:02:02
 scp2	source\ooo\module_ooo.ulf	0	LngText	STR_NAME_MODULE_EXTENSION_DICTIONARY_VI				0	lt	Vietnamiečių				2002-02-02 02:02:02
-scp2	source\ooo\module_ooo.ulf	0	LngText	STR_NAME_MODULE_EXTENSION_DICTIONARY_ZU				0	lt	Zulų				2002-02-02 02:02:02
+scp2	source\ooo\module_ooo.ulf	0	LngText	STR_NAME_MODULE_EXTENSION_DICTIONARY_ZU				0	lt	Zulų (zulusų)				2002-02-02 02:02:02
 scp2	source\ooo\directory_ooo.ulf	0	LngText	STR_DIR_INFO				0	lt	Informacija				2002-02-02 02:02:02
 scp2	source\ooo\directory_ooo.ulf	0	LngText	STR_DIR_INTERNET				0	lt	Internetas				2002-02-02 02:02:02
 scp2	source\ooo\directory_ooo.ulf	0	LngText	STR_DIR_JAVA				0	lt	Java				2002-02-02 02:02:02
@@ -15178,7 +15178,7 @@ scp2	source\ooo\module_systemint.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_SYSTEMIN
 scp2	source\ooo\module_systemint.ulf	0	LngText	STR_DESC_MODULE_OPTIONAL_SYSTEMINTEGRATION				0	lt	„%PRODUCTNAME %PRODUCTVERSION“ integravimas į darbalaukį.				2002-02-02 02:02:02
 scp2	source\ooo\registryitem_ooo.ulf	0	LngText	STR_REG_VAL_NEW				0	lt	&Naujas				2002-02-02 02:02:02
 scp2	source\ooo\registryitem_ooo.ulf	0	LngText	STR_REG_VAL_INSTALL				0	lt	&Įdiegti				2002-02-02 02:02:02
-scp2	source\ooo\registryitem_ooo.ulf	0	LngText	STR_REG_VAL_SO60_CONFIGFILE				0	lt	„%PRODUCTNAME %SXWFORMATVERSION“ sąrankos failas				2002-02-02 02:02:02
+scp2	source\ooo\registryitem_ooo.ulf	0	LngText	STR_REG_VAL_SO60_CONFIGFILE				0	lt	„%SXWFORMATNAME %SXWFORMATVERSION“ sąrankos failas				2002-02-02 02:02:02
 scp2	source\ooo\registryitem_ooo.ulf	0	LngText	STR_REG_VAL_SO50_TEMPLATE_OOO				0	lt	„StarOffice 5.0“ šablonas				2002-02-02 02:02:02
 scp2	source\ooo\registryitem_ooo.ulf	0	LngText	STR_REG_VAL_APPCAPABILITY_DESCRIPTION_OOO				0	lt	LibreOffice				2002-02-02 02:02:02
 scp2	source\onlineupdate\module_onlineupdate.ulf	0	LngText	STR_NAME_MODULE_OPT_ONLINEUPDATE				0	lt	Atnaujinimas internetu				2002-02-02 02:02:02
@@ -16342,7 +16342,7 @@ sd	source\ui\animations\CustomAnimationDialog.src	0	checkbox	RID_TP_CUSTOMANIMAT
 sd	source\ui\animations\CustomAnimationDialog.src	0	checkbox	RID_TP_CUSTOMANIMATION_TEXT	CBX_REVERSE			0	lt	Atvirkščia tvarka				2002-02-02 02:02:02
 sd	source\ui\animations\CustomAnimationDialog.src	0	tabpage	RID_TP_CUSTOMANIMATION_TEXT				0	lt	Teksto animacija				2002-02-02 02:02:02
 sd	source\ui\animations\SlideTransitionPane.src	0	fixedline	DLG_SLIDE_TRANSITION_PANE	FL_APPLY_TRANSITION			1	lt	Taikyti pažymėtoms skaidrėms				2002-02-02 02:02:02
-sd	source\ui\animations\SlideTransitionPane.src	0	fixedline	DLG_SLIDE_TRANSITION_PANE	FL_MODIFY_TRANSITION			1	lt	Keisti perėjimą				2002-02-02 02:02:02
+sd	source\ui\animations\SlideTransitionPane.src	0	fixedline	DLG_SLIDE_TRANSITION_PANE	FL_MODIFY_TRANSITION			1	lt	Vykdyti perėjimą				2002-02-02 02:02:02
 sd	source\ui\animations\SlideTransitionPane.src	0	fixedtext	DLG_SLIDE_TRANSITION_PANE	FT_SPEED			1	lt	Sparta				2002-02-02 02:02:02
 sd	source\ui\animations\SlideTransitionPane.src	0	stringlist	DLG_SLIDE_TRANSITION_PANE.LB_SPEED	1			0	lt	Lėtai				2002-02-02 02:02:02
 sd	source\ui\animations\SlideTransitionPane.src	0	stringlist	DLG_SLIDE_TRANSITION_PANE.LB_SPEED	2			0	lt	Vidutiniškai				2002-02-02 02:02:02
@@ -16350,7 +16350,7 @@ sd	source\ui\animations\SlideTransitionPane.src	0	stringlist	DLG_SLIDE_TRANSITIO
 sd	source\ui\animations\SlideTransitionPane.src	0	fixedtext	DLG_SLIDE_TRANSITION_PANE	FT_SOUND			1	lt	Garsas				2002-02-02 02:02:02
 sd	source\ui\animations\SlideTransitionPane.src	0	stringlist	DLG_SLIDE_TRANSITION_PANE.LB_SOUND	1			0	lt	<Be garso>				2002-02-02 02:02:02
 sd	source\ui\animations\SlideTransitionPane.src	0	stringlist	DLG_SLIDE_TRANSITION_PANE.LB_SOUND	2			0	lt	<Stabdyti ankstesnį garsą>				2002-02-02 02:02:02
-sd	source\ui\animations\SlideTransitionPane.src	0	stringlist	DLG_SLIDE_TRANSITION_PANE.LB_SOUND	3			0	lt	Kitas garsas...				2002-02-02 02:02:02
+sd	source\ui\animations\SlideTransitionPane.src	0	stringlist	DLG_SLIDE_TRANSITION_PANE.LB_SOUND	3			0	lt	Kitas garsas…				2002-02-02 02:02:02
 sd	source\ui\animations\SlideTransitionPane.src	0	checkbox	DLG_SLIDE_TRANSITION_PANE	CB_LOOP_SOUND	HID_SD_SLIDETRANSITIONPANE_CB_LOOP_SOUND		1	lt	Kartoti iki kito garso				2002-02-02 02:02:02
 sd	source\ui\animations\SlideTransitionPane.src	0	fixedline	DLG_SLIDE_TRANSITION_PANE	FL_ADVANCE_SLIDE			1	lt	Keisti skaidrę				2002-02-02 02:02:02
 sd	source\ui\animations\SlideTransitionPane.src	0	radiobutton	DLG_SLIDE_TRANSITION_PANE	RB_ADVANCE_ON_MOUSE	HID_SD_SLIDETRANSITIONPANE_RB_ADVANCE_ON_MOUSE		1	lt	Spustelėjus				2002-02-02 02:02:02
@@ -16358,7 +16358,7 @@ sd	source\ui\animations\SlideTransitionPane.src	0	radiobutton	DLG_SLIDE_TRANSITI
 sd	source\ui\animations\SlideTransitionPane.src	0	metricfield	DLG_SLIDE_TRANSITION_PANE	MF_ADVANCE_AUTO_AFTER	HID_SD_SLIDETRANSITIONPANE_MF_ADVANCE_AUTO_AFTER		1	lt	 sek.				2002-02-02 02:02:02
 sd	source\ui\animations\SlideTransitionPane.src	0	pushbutton	DLG_SLIDE_TRANSITION_PANE	PB_APPLY_TO_ALL	HID_SD_SLIDETRANSITIONPANE_PB_APPLY_TO_ALL		1	lt	Taikyti visoms skaidrėms				2002-02-02 02:02:02
 sd	source\ui\animations\SlideTransitionPane.src	0	pushbutton	DLG_SLIDE_TRANSITION_PANE	PB_PLAY	HID_SD_SLIDETRANSITIONPANE_PB_PLAY		1	lt	Vykdyti				2002-02-02 02:02:02
-sd	source\ui\animations\SlideTransitionPane.src	0	pushbutton	DLG_SLIDE_TRANSITION_PANE	PB_SLIDE_SHOW	HID_SD_SLIDETRANSITIONPANE_PB_SLIDE_SHOW		1	lt	Pateikties demonstravimas				2002-02-02 02:02:02
+sd	source\ui\animations\SlideTransitionPane.src	0	pushbutton	DLG_SLIDE_TRANSITION_PANE	PB_SLIDE_SHOW	HID_SD_SLIDETRANSITIONPANE_PB_SLIDE_SHOW		1	lt	Demonstruoti pateiktį				2002-02-02 02:02:02
 sd	source\ui\animations\SlideTransitionPane.src	0	checkbox	DLG_SLIDE_TRANSITION_PANE	CB_AUTO_PREVIEW	HID_SD_SLIDETRANSITIONPANE_CB_AUTO_PREVIEW		1	lt	Automatinė peržiūra				2002-02-02 02:02:02
 sd	source\ui\animations\SlideTransitionPane.src	0	string	DLG_SLIDE_TRANSITION_PANE	STR_NO_TRANSITION			1	lt	Jokio efekto				2002-02-02 02:02:02
 sd	source\ui\animations\SlideTransitionPane.src	0	control	DLG_SLIDE_TRANSITION_PANE				1	lt	Skaidrių keitimas				2002-02-02 02:02:02
@@ -20501,7 +20501,7 @@ svx	source\gallery2\gallery.src	0	string	RID_SVXSTR_GALLERY_NEWTHEME				0	lt	Nau
 svx	source\gallery2\gallery.src	0	string	RID_SVXSTR_GALLERY_BROWSER				0	lt	~Tvarkytuvė...				2002-02-02 02:02:02
 svx	source\gallery2\gallery.src	0	string	RID_SVXSTR_GALLERY_THEMEERR				0	lt	Toks temos pavadinimas jau yra.\nParinkite kitą pavadinimą.				2002-02-02 02:02:02
 svx	source\gallery2\gallery.src	0	string	RID_SVXSTR_GALLERY_IMPORTTHEME				0	lt	I~mportas...				2002-02-02 02:02:02
-svx	source\gallery2\gallery.src	0	string	RID_SVXSTR_GALLERY_CREATETHEME				0	lt	Nauja tema...				2002-02-02 02:02:02
+svx	source\gallery2\gallery.src	0	string	RID_SVXSTR_GALLERY_CREATETHEME				0	lt	Nauja tema…				2002-02-02 02:02:02
 svx	source\gallery2\gallery.src	0	string	RID_SVXSTR_GALLERY_DIALOGID				0	lt	Priskirti identifikatorių				2002-02-02 02:02:02
 svx	source\gallery2\gallery.src	0	string	RID_SVXSTR_GALLERY_TITLE				0	lt	Pavadinimas				2002-02-02 02:02:02
 svx	source\gallery2\gallery.src	0	string	RID_SVXSTR_GALLERY_PATH				0	lt	Kelias				2002-02-02 02:02:02
@@ -20711,7 +20711,7 @@ svx	source\unodialogs\textconversiondlgs\chinese_dictionarydialog.src	0	pushbutt
 svx	source\unodialogs\textconversiondlgs\chinese_dictionarydialog.src	0	pushbutton	DLG_CHINESEDICTIONARY	PB_MODIFY			0	lt	~Keisti				2002-02-02 02:02:02
 svx	source\unodialogs\textconversiondlgs\chinese_dictionarydialog.src	0	pushbutton	DLG_CHINESEDICTIONARY	PB_DELETE			0	lt	~Šalinti				2002-02-02 02:02:02
 svx	source\unodialogs\textconversiondlgs\chinese_dictionarydialog.src	0	modaldialog	DLG_CHINESEDICTIONARY				0	lt	Taisyti žodyną				2002-02-02 02:02:02
-svx	source\unodialogs\textconversiondlgs\chinese_translationdialog.src	0	checkbox	DLG_CHINESETRANSLATION	CB_USE_VARIANTS			0	lt	~Naudoti Taivano, Honkongo ir Makau rašmenų variantus				2002-02-02 02:02:02
+svx	source\unodialogs\textconversiondlgs\chinese_translationdialog.src	0	checkbox	DLG_CHINESETRANSLATION	CB_USE_VARIANTS			0	lt	~Naudoti Taivano, Honkongo ir Makao rašmenų variantus				2002-02-02 02:02:02
 svx	source\unodialogs\textconversiondlgs\chinese_translationdialog.src	0	fixedline	DLG_CHINESETRANSLATION	FL_COMMONTERMS			0	lt	Dažni terminai				2002-02-02 02:02:02
 svx	source\unodialogs\textconversiondlgs\chinese_translationdialog.src	0	checkbox	DLG_CHINESETRANSLATION	CB_TRANSLATE_COMMONTERMS			0	lt	Versti ~dažnus terminus				2002-02-02 02:02:02
 svx	source\unodialogs\textconversiondlgs\chinese_translationdialog.src	0	pushbutton	DLG_CHINESETRANSLATION	PB_EDITTERMS			0	lt	~Taisyti terminus...				2002-02-02 02:02:02
@@ -21746,7 +21746,7 @@ sw	source\ui\config\optdlg.src	0	itemlist	STR_PRINTOPTUI	13			0	lt	Spalva				200
 sw	source\ui\config\optdlg.src	0	itemlist	STR_PRINTOPTUI	16			0	lt	Puslapiai				2002-02-02 02:02:02
 sw	source\ui\config\optdlg.src	0	itemlist	STR_PRINTOPTUI	17			0	lt	Spausdinti au~tomatiškai įterptus tuščius puslapius				2002-02-02 02:02:02
 sw	source\ui\config\optdlg.src	0	itemlist	STR_PRINTOPTUI	21			0	lt	Komentarų spausdinimas				2002-02-02 02:02:02
-sw	source\ui\config\optdlg.src	0	itemlist	STR_PRINTOPTUI	27			0	lt	Turinys				2002-02-02 02:02:02
+sw	source\ui\config\optdlg.src	0	itemlist	STR_PRINTOPTUI	27			0	lt	~Komentarai				2002-02-02 02:02:02
 sw	source\ui\config\optdlg.src	0	itemlist	STR_PRINTOPTUI	34			0	lt	B~rošiūra				2002-02-02 02:02:02
 sw	source\ui\config\optdlg.src	0	itemlist	STR_PRINTOPTUI	41			0	lt	P~uslapiai				2002-02-02 02:02:02
 sw	source\ui\config\optcomp.src	0	fixedline	TP_OPTCOMPATIBILITY_PAGE	FL_MAIN			248	lt	„%DOCNAME“ suderinamumo parinktys				2002-02-02 02:02:02
@@ -22940,7 +22940,7 @@ sw	source\ui\utlui\utlui.src	0	string	STR_CONTENT_TYPE_SINGLE_REGION				0	lt	Sek
 sw	source\ui\utlui\utlui.src	0	string	STR_CONTENT_TYPE_SINGLE_URLFIELD				0	lt	Hipersaitas				2002-02-02 02:02:02
 sw	source\ui\utlui\utlui.src	0	string	STR_CONTENT_TYPE_SINGLE_REFERENCE				0	lt	Nuoroda				2002-02-02 02:02:02
 sw	source\ui\utlui\utlui.src	0	string	STR_CONTENT_TYPE_SINGLE_INDEX				0	lt	Rodyklė				2002-02-02 02:02:02
-sw	source\ui\utlui\utlui.src	0	string	STR_CONTENT_TYPE_SINGLE_POSTIT				0	lt	Komentarai				2002-02-02 02:02:02
+sw	source\ui\utlui\utlui.src	0	string	STR_CONTENT_TYPE_SINGLE_POSTIT				0	lt	Komentaras				2002-02-02 02:02:02
 sw	source\ui\utlui\utlui.src	0	string	STR_CONTENT_TYPE_SINGLE_DRAWOBJECT				0	lt	Grafikos objektas				2002-02-02 02:02:02
 sw	source\ui\utlui\utlui.src	0	string	STR_DEFINE_NUMBERFORMAT				0	lt	Papildomi formatai...				2002-02-02 02:02:02
 sw	source\ui\utlui\utlui.src	0	string	RID_STR_SYSTEM				0	lt	[Sistema]				2002-02-02 02:02:02
@@ -23718,7 +23718,7 @@ sw	source\core\undo\undo.src	0	string	STR_INC_LEFTMARGIN				0	lt	Padidinti įtra
 sw	source\core\undo\undo.src	0	string	STR_DEC_LEFTMARGIN				0	lt	Sumažinti įtrauką				2002-02-02 02:02:02
 sw	source\core\undo\undo.src	0	string	STR_INSERTLABEL				0	lt	Įterpti pavadinimą: $1				2002-02-02 02:02:02
 sw	source\core\undo\undo.src	0	string	STR_SETNUMRULESTART				0	lt	Numeruoti iš naujo				2002-02-02 02:02:02
-sw	source\core\undo\undo.src	0	string	STR_CHANGEFTN				0	lt	Keisti poraštę				2002-02-02 02:02:02
+sw	source\core\undo\undo.src	0	string	STR_CHANGEFTN				0	lt	Keisti išnašą				2002-02-02 02:02:02
 sw	source\core\undo\undo.src	0	string	STR_ACCEPT_REDLINE				0	lt	Taikyti pakeitimą: $1				2002-02-02 02:02:02
 sw	source\core\undo\undo.src	0	string	STR_REJECT_REDLINE				0	lt	Atmesti pakeitimą: $1				2002-02-02 02:02:02
 sw	source\core\undo\undo.src	0	string	STR_SPLIT_TABLE				0	lt	Skaidyti lentelę				2002-02-02 02:02:02
@@ -24152,7 +24152,7 @@ wizards	source\formwizard\dbwizres.src	0	string	RID_DB_COMMON_START + 35				0	lt
 wizards	source\formwizard\dbwizres.src	0	string	RID_DB_COMMON_START + 36				0	lt	Įvestas neleistinas failo adresas.				2002-02-02 02:02:02
 wizards	source\formwizard\dbwizres.src	0	string	RID_DB_COMMON_START + 37				0	lt	Pasirinkite duomenų šaltinį				2002-02-02 02:02:02
 wizards	source\formwizard\dbwizres.src	0	string	RID_DB_COMMON_START + 38				0	lt	Pasirinkite lentelę arba užklausą				2002-02-02 02:02:02
-wizards	source\formwizard\dbwizres.src	0	string	RID_DB_COMMON_START + 39				0	lt	Įterpti lauką...				2002-02-02 02:02:02
+wizards	source\formwizard\dbwizres.src	0	string	RID_DB_COMMON_START + 39				0	lt	Pridėti lauką				2002-02-02 02:02:02
 wizards	source\formwizard\dbwizres.src	0	string	RID_DB_COMMON_START + 40				0	lt	Pašalinti lauką				2002-02-02 02:02:02
 wizards	source\formwizard\dbwizres.src	0	string	RID_DB_COMMON_START + 41				0	lt	Pridėti visus laukus				2002-02-02 02:02:02
 wizards	source\formwizard\dbwizres.src	0	string	RID_DB_COMMON_START + 42				0	lt	Pašalinti visus laukus				2002-02-02 02:02:02
@@ -24362,11 +24362,11 @@ wizards	source\formwizard\dbwizres.src	0	string	RID_DB_REPORT_WIZARD_START + 75	
 wizards	source\formwizard\dbwizres.src	0	string	RID_DB_REPORT_WIZARD_START + 76				0	lt	Ataskaita „%REPORTNAME“ jau yra duomenų bazėje. Parinkite kitą pavadinimą.				2002-02-02 02:02:02
 wizards	source\formwizard\dbwizres.src	0	string	RID_DB_REPORT_WIZARD_START + 78				0	lt	Kokius veiksmus atlikti sukūrus ataskaitą?				2002-02-02 02:02:02
 wizards	source\formwizard\dbwizres.src	0	string	RID_DB_REPORT_WIZARD_START + 79				0	lt	Kokią ataskaitą norite kurti?				2002-02-02 02:02:02
-wizards	source\formwizard\dbwizres.src	0	string	RID_DB_REPORT_WIZARD_START + 84				0	lt	Blokai - etiketės kairėje				2002-02-02 02:02:02
-wizards	source\formwizard\dbwizres.src	0	string	RID_DB_REPORT_WIZARD_START + 85				0	lt	Blokai - etiketės viršuje				2002-02-02 02:02:02
+wizards	source\formwizard\dbwizres.src	0	string	RID_DB_REPORT_WIZARD_START + 84				0	lt	Blokinę, etiketės kairėje				2002-02-02 02:02:02
+wizards	source\formwizard\dbwizres.src	0	string	RID_DB_REPORT_WIZARD_START + 85				0	lt	Blokinę, etiketės viršuje				2002-02-02 02:02:02
 wizards	source\formwizard\dbwizres.src	0	string	RID_DB_REPORT_WIZARD_START + 86				0	lt	Antraštė:				2002-02-02 02:02:02
-wizards	source\formwizard\dbwizres.src	0	string	RID_DB_REPORT_WIZARD_START + 87				0	lt	Au~torius:				2002-02-02 02:02:02
-wizards	source\formwizard\dbwizres.src	0	string	RID_DB_REPORT_WIZARD_START + 88				0	lt	Data: 				2002-02-02 02:02:02
+wizards	source\formwizard\dbwizres.src	0	string	RID_DB_REPORT_WIZARD_START + 87				0	lt	Autorius:				2002-02-02 02:02:02
+wizards	source\formwizard\dbwizres.src	0	string	RID_DB_REPORT_WIZARD_START + 88				0	lt	Data:				2002-02-02 02:02:02
 wizards	source\formwizard\dbwizres.src	0	string	RID_DB_TABLE_WIZARD_START + 1				0	lt	Lentelės vediklis				2002-02-02 02:02:02
 wizards	source\formwizard\dbwizres.src	0	string	RID_DB_TABLE_WIZARD_START + 2				0	lt	Laukų parinkimas				2002-02-02 02:02:02
 wizards	source\formwizard\dbwizres.src	0	string	RID_DB_TABLE_WIZARD_START + 3				0	lt	Tipų ir formatų nustatymas				2002-02-02 02:02:02
@@ -26551,3 +26551,506 @@ scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_SC				0	l
 scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_SD				0	lt	Sindų				2002-02-02 02:02:02
 scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_TE				0	lt	Telugų				2002-02-02 02:02:02
 scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_TI				0	lt	Tigrajų				2002-02-02 02:02:02
+sw	source\ui\config\optdlg.src	0	itemlist	STR_PRINTOPTUI	11			0	lt	Formos ~valdikliai				2002-02-02 02:02:02
+sw	source\ui\config\optdlg.src	0	itemlist	STR_PRINTOPTUI	14			0	lt	Te~kstą spausdinti juodai				2002-02-02 02:02:02
+sc	source\ui\pagedlg\pagedlg.src	0	checkbox	RID_SCPAGE_TABLE	BTN_NOTES			142	lt	~Komentarai				2002-02-02 02:02:02
+sc	source\ui\src\scstring.src	0	string	SCSTR_SET_TAB_BG_COLOR				9200	lt	Ąselės spalva				2002-02-02 02:02:02
+sc	source\ui\src\scstring.src	0	string	SCSTR_MOREBTN_MOREOPTIONS				9400	lt	Daugiau pa~rinkčių				2002-02-02 02:02:02
+sc	source\ui\src\scstring.src	0	string	SCSTR_MOREBTN_FEWEROPTIONS				9200	lt	Mažiau pa~rinkčių				2002-02-02 02:02:02
+sc	source\ui\src\scstring.src	0	itemlist	SCSTR_PRINT_OPTIONS	2			0	lt	~Spausdinti tuščius puslapius				2002-02-02 02:02:02
+sc	source\ui\src\scstring.src	0	itemlist	SCSTR_PRINT_OPTIONS	3			0	lt	Jei pažymėta, tušti puslapiai, kuriuose nėra langelių turinio ar grafikos objektų, yra nespausdinami.				2002-02-02 02:02:02
+sc	source\ui\src\scstring.src	0	itemlist	SCSTR_PRINT_OPTIONS	7			0	lt	Spaudinio turinys				2002-02-02 02:02:02
+sc	source\ui\src\scstring.src	0	itemlist	SCSTR_PRINT_OPTIONS	8			0	lt	~Visi lakštai				2002-02-02 02:02:02
+sc	source\ui\src\scstring.src	0	itemlist	SCSTR_PRINT_OPTIONS	12			0	lt	Pažymėti langeliai				2002-02-02 02:02:02
+sc	source\ui\src\scstring.src	0	itemlist	SCSTR_PRINT_OPTIONS	14			0	lt	Iš to spausdinti				2002-02-02 02:02:02
+sc	source\ui\src\scstring.src	0	itemlist	SCSTR_PRINT_OPTIONS	15			0	lt	Visi p~uslapiai				2002-02-02 02:02:02
+sc	source\ui\src\scstring.src	0	itemlist	SCSTR_PRINT_OPTIONS	16			0	lt	Spausdinti visus spausdinamo dokumento puslapius.				2002-02-02 02:02:02
+sc	source\ui\src\scstring.src	0	itemlist	SCSTR_PRINT_OPTIONS	18			0	lt	Spausdinti tik kai kuriuos spausdinamo dokumento puslapius.				2002-02-02 02:02:02
+sc	source\ui\src\filter.src	0	stringlist	RID_SCDLG_FILTER.LB_COND1	11			0	lt	Turi				2002-02-02 02:02:02
+sc	source\ui\src\filter.src	0	stringlist	RID_SCDLG_FILTER.LB_COND1	12			0	lt	Neturi				2002-02-02 02:02:02
+sc	source\ui\src\filter.src	0	stringlist	RID_SCDLG_FILTER.LB_COND1	13			0	lt	Prasideda				2002-02-02 02:02:02
+sc	source\ui\src\filter.src	0	stringlist	RID_SCDLG_FILTER.LB_COND1	14			0	lt	Neprasideda				2002-02-02 02:02:02
+sc	source\ui\src\filter.src	0	stringlist	RID_SCDLG_FILTER.LB_COND1	15			0	lt	Baigiasi				2002-02-02 02:02:02
+sc	source\ui\src\filter.src	0	stringlist	RID_SCDLG_FILTER.LB_COND1	16			0	lt	Nesibaigia				2002-02-02 02:02:02
+sc	source\ui\src\filter.src	0	stringlist	RID_SCDLG_FILTER.LB_COND2	11			0	lt	Turi				2002-02-02 02:02:02
+sc	source\ui\src\filter.src	0	stringlist	RID_SCDLG_FILTER.LB_COND2	12			0	lt	Neturi				2002-02-02 02:02:02
+sc	source\ui\src\filter.src	0	stringlist	RID_SCDLG_FILTER.LB_COND2	13			0	lt	Prasideda				2002-02-02 02:02:02
+sc	source\ui\src\filter.src	0	stringlist	RID_SCDLG_FILTER.LB_COND2	14			0	lt	Neprasideda				2002-02-02 02:02:02
+sc	source\ui\src\filter.src	0	stringlist	RID_SCDLG_FILTER.LB_COND2	15			0	lt	Baigiasi				2002-02-02 02:02:02
+sc	source\ui\src\filter.src	0	stringlist	RID_SCDLG_FILTER.LB_COND2	16			0	lt	Nesibaigia				2002-02-02 02:02:02
+sc	source\ui\src\filter.src	0	stringlist	RID_SCDLG_FILTER.LB_COND3	11			0	lt	Turi				2002-02-02 02:02:02
+sc	source\ui\src\filter.src	0	stringlist	RID_SCDLG_FILTER.LB_COND3	12			0	lt	Neturi				2002-02-02 02:02:02
+sc	source\ui\src\filter.src	0	stringlist	RID_SCDLG_FILTER.LB_COND3	13			0	lt	Prasideda				2002-02-02 02:02:02
+sc	source\ui\src\filter.src	0	stringlist	RID_SCDLG_FILTER.LB_COND3	14			0	lt	Neprasideda				2002-02-02 02:02:02
+sc	source\ui\src\filter.src	0	stringlist	RID_SCDLG_FILTER.LB_COND3	15			0	lt	Baigiasi				2002-02-02 02:02:02
+sc	source\ui\src\filter.src	0	stringlist	RID_SCDLG_FILTER.LB_COND3	16			0	lt	Nesibaigia				2002-02-02 02:02:02
+sc	source\ui\src\filter.src	0	stringlist	RID_SCDLG_FILTER.LB_COND4	1			0	lt	=				2002-02-02 02:02:02
+sc	source\ui\src\filter.src	0	stringlist	RID_SCDLG_FILTER.LB_COND4	2			0	lt	<				2002-02-02 02:02:02
+sc	source\ui\src\filter.src	0	stringlist	RID_SCDLG_FILTER.LB_COND4	3			0	lt	>				2002-02-02 02:02:02
+sc	source\ui\src\filter.src	0	stringlist	RID_SCDLG_FILTER.LB_COND4	11			0	lt	Turi				2002-02-02 02:02:02
+sc	source\ui\src\filter.src	0	stringlist	RID_SCDLG_FILTER.LB_COND4	12			0	lt	Neturi				2002-02-02 02:02:02
+sc	source\ui\src\filter.src	0	stringlist	RID_SCDLG_FILTER.LB_COND4	13			0	lt	Prasideda				2002-02-02 02:02:02
+sc	source\ui\src\filter.src	0	stringlist	RID_SCDLG_FILTER.LB_COND4	14			0	lt	Neprasideda				2002-02-02 02:02:02
+sc	source\ui\src\filter.src	0	stringlist	RID_SCDLG_FILTER.LB_COND4	15			0	lt	Baigiasi				2002-02-02 02:02:02
+sc	source\ui\src\filter.src	0	stringlist	RID_SCDLG_FILTER.LB_COND4	16			0	lt	Nesibaigia				2002-02-02 02:02:02
+sc	source\ui\src\condfrmt.src	0	pushbutton	RID_SCDLG_CONDFORMAT	BTN_COND1_NEW			50	lt	~Naujas stilius…				2002-02-02 02:02:02
+sc	source\ui\src\condfrmt.src	0	pushbutton	RID_SCDLG_CONDFORMAT	BTN_COND2_NEW			50	lt	Nau~jas stilius…				2002-02-02 02:02:02
+sc	source\ui\src\condfrmt.src	0	pushbutton	RID_SCDLG_CONDFORMAT	BTN_COND3_NEW			50	lt	Naujas ~stilius…				2002-02-02 02:02:02
+sc	source\ui\src\globstr.src	0	string	RID_GLOBSTR	STR_UNDO_SET_TAB_BG_COLOR			5104	lt	Spalvinti ąselę				2002-02-02 02:02:02
+sc	source\ui\src\globstr.src	0	string	RID_GLOBSTR	STR_UNDO_SET_MULTI_TAB_BG_COLOR			5304	lt	Spalvinti ąseles				2002-02-02 02:02:02
+sc	source\ui\src\globstr.src	0	string	RID_GLOBSTR	STR_UNDO_CHINESE_TRANSLATION			5320	lt	Kinų kalbos konvertavimas				2002-02-02 02:02:02
+sc	source\ui\src\globstr.src	0	string	RID_GLOBSTR	STR_ERR_DATAPILOTSOURCE			5344	lt	Apibendrinančios lentelės šaltinio duomenys neteisingi.				2002-02-02 02:02:02
+sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_POWER	4			38664	lt	Eksponentė				2002-02-02 02:02:02
+sc	source\ui\src\popup.src	0	menuitem	RID_POPUP_TAB	FID_TAB_EVENTS	FID_TAB_EVENTS		62448	lt	Lakšto į~vykiai…				2002-02-02 02:02:02
+sc	source\ui\src\popup.src	0	menuitem	RID_POPUP_TAB	FID_TAB_MENU_SET_TAB_BG_COLOR	FID_TAB_MENU_SET_TAB_BG_COLOR		62448	lt	Ą~selės spalva…				2002-02-02 02:02:02
+sc	source\ui\src\sortdlg.src	0	pushbutton	RID_SCDLG_SORT_WARNING	BTN_EXTSORT			60	lt	Išplėsti atranką				2002-02-02 02:02:02
+sc	source\ui\src\sortdlg.src	0	pushbutton	RID_SCDLG_SORT_WARNING	BTN_CURSORT			60	lt	Pažymėta sritis				2002-02-02 02:02:02
+sc	source\ui\src\sortdlg.src	0	modaldialog	RID_SCDLG_SORT_WARNING				180	lt	Rikiavimo sritis				2002-02-02 02:02:02
+sc	source\ui\dbgui\textimportoptions.src	0	modaldialog	RID_SCDLG_TEXT_IMPORT_OPTIONS				230	lt	Importo parinktys				2002-02-02 02:02:02
+sc	source\ui\dbgui\asciiopt.src	0	fixedtext	RID_SCDLG_ASCII	FT_CUSTOMLANG			60	lt	Kalba				2002-02-02 02:02:02
+sc	source\ui\dbgui\asciiopt.src	0	fixedline	RID_SCDLG_ASCII	FL_OTHER_OPTIONS			252	lt	Kitos parinktys				2002-02-02 02:02:02
+sc	source\ui\dbgui\asciiopt.src	0	checkbox	RID_SCDLG_ASCII	CB_DETECT_SPECIAL_NUMBER			130	lt	Aptikti specialius skaičius				2002-02-02 02:02:02
+sc	source\ui\cctrl\dpcontrol.src	0	string	RID_POPUP_FILTER	STR_MENU_SORT_ASC			54256	lt	Rikiuoti didėjančiai				2002-02-02 02:02:02
+sc	source\ui\cctrl\dpcontrol.src	0	string	RID_POPUP_FILTER	STR_MENU_SORT_DESC			54768	lt	Rikiuoti mažėjančiai				2002-02-02 02:02:02
+sc	source\ui\cctrl\dpcontrol.src	0	string	RID_POPUP_FILTER	STR_BTN_SELECT_CURRENT			54256	lt	Rodyti tik dabartinį elementą.				2002-02-02 02:02:02
+sfx2	source\appl\app.src	0	okbutton	DLG_HELP_LICENSING	PB_LICENSING_SHOW			22000	lt	~Rodyti licenciją				2002-02-02 02:02:02
+sfx2	source\appl\app.src	0	cancelbutton	DLG_HELP_LICENSING	PB_LICENSING_CLOSE			21488	lt	~Užverti				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\UI\CalcCommands.xcu	0	value	..CalcCommands.UserInterface.Commands..uno:NoteVisible	Label			0	lt	Rodyti komentarą				2002-02-02 02:02:02
+vcl	source\src\stdtext.src	0	string	SV_MAC_SCREENNNAME				1208	lt	Ekranas %d				2002-02-02 02:02:02
+vcl	source\src\stdtext.src	0	string	SV_STDTEXT_ALLFILETYPES				1008	lt	Bet koks tipas				2002-02-02 02:02:02
+vcl	source\src\print.src	0	okbutton	SV_DLG_PRINT	SV_PRINT_OK			50	lt	~Spausdinti				2002-02-02 02:02:02
+vcl	source\src\print.src	0	numericfield	SV_DLG_PRINT	SV_PRINT_PAGE_EDIT			30	lt	-	Pasirinkite puslapį, kurį rodyti peržiūroje.			2002-02-02 02:02:02
+vcl	source\src\print.src	0	fixedtext	SV_DLG_PRINT	SV_PRINT_PAGE_TXT			30	lt	/ %n				2002-02-02 02:02:02
+vcl	source\src\print.src	0	pushbutton	SV_DLG_PRINT	SV_PRINT_PAGE_FORWARD			15	lt	-	Scroll one page forward.			2002-02-02 02:02:02
+vcl	source\src\print.src	0	pushbutton	SV_DLG_PRINT	SV_PRINT_PAGE_BACKWARD			15	lt	-	Scroll one page backward.			2002-02-02 02:02:02
+vcl	source\src\print.src	0	string	SV_DLG_PRINT	SV_PRINT_NOPAGES			46064	lt	Nėra puslapių				2002-02-02 02:02:02
+vcl	source\src\print.src	0	string	SV_DLG_PRINT	SV_PRINT_TOFILE_TXT			46064	lt	Spausdinti į failą…				2002-02-02 02:02:02
+vcl	source\src\print.src	0	string	SV_DLG_PRINT	SV_PRINT_DEFPRT_TXT			46064	lt	Numatytasis spausdintuvas				2002-02-02 02:02:02
+vcl	source\src\print.src	0	string	SV_DLG_PRINT	SV_PRINT_PRINTPREVIEW_TXT			46336	lt	Spaudinio peržiūra				2002-02-02 02:02:02
+vcl	source\src\print.src	0	fixedline	SV_DLG_PRINT.SV_PRINT_TAB_NUP	SV_PRINT_PRT_NUP_LAYOUT_FL			150	lt	Išdėstymas				2002-02-02 02:02:02
+vcl	source\src\print.src	0	radiobutton	SV_DLG_PRINT.SV_PRINT_TAB_NUP	SV_PRINT_PRT_NUP_DEFAULT_BTN			10	lt	~Numatytasis	Spausdinti vieną puslapį popieriaus lape.			2002-02-02 02:02:02
+vcl	source\src\print.src	0	radiobutton	SV_DLG_PRINT.SV_PRINT_TAB_NUP	SV_PRINT_PRT_NUP_PAGES_BTN			10	lt	Puslapių ~lape	Spausdinti keletą puslapių popieriaus lape.			2002-02-02 02:02:02
+vcl	source\src\print.src	0	listbox	SV_DLG_PRINT.SV_PRINT_TAB_NUP	SV_PRINT_PRT_NUP_PAGES_BOX			10	lt	-	Pasirinkite kiek puslapių spausdinti popieriaus lape.			2002-02-02 02:02:02
+vcl	source\src\print.src	0	stringlist	SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_PAGES_BOX	1			0	lt	1				2002-02-02 02:02:02
+vcl	source\src\print.src	0	stringlist	SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_PAGES_BOX	2			0	lt	2				2002-02-02 02:02:02
+vcl	source\src\print.src	0	stringlist	SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_PAGES_BOX	3			0	lt	4				2002-02-02 02:02:02
+vcl	source\src\print.src	0	stringlist	SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_PAGES_BOX	4			0	lt	6				2002-02-02 02:02:02
+vcl	source\src\print.src	0	stringlist	SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_PAGES_BOX	5			0	lt	9				2002-02-02 02:02:02
+vcl	source\src\print.src	0	stringlist	SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_PAGES_BOX	6			0	lt	16				2002-02-02 02:02:02
+vcl	source\src\print.src	0	stringlist	SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_PAGES_BOX	7			0	lt	Kitas sk.				2002-02-02 02:02:02
+vcl	source\src\print.src	0	fixedtext	SV_DLG_PRINT.SV_PRINT_TAB_NUP	SV_PRINT_PRT_NUP_NUM_PAGES_TXT			10	lt	P~uslapiai				2002-02-02 02:02:02
+vcl	source\src\print.src	0	numericfield	SV_DLG_PRINT.SV_PRINT_TAB_NUP	SV_PRINT_PRT_NUP_COLS_EDT			40	lt	-	Pasirinkite stulpelių skaičių.			2002-02-02 02:02:02
+vcl	source\src\print.src	0	fixedtext	SV_DLG_PRINT.SV_PRINT_TAB_NUP	SV_PRINT_PRT_NUP_TIMES_TXT			40	lt	~x				2002-02-02 02:02:02
+vcl	source\src\print.src	0	numericfield	SV_DLG_PRINT.SV_PRINT_TAB_NUP	SV_PRINT_PRT_NUP_ROWS_EDT			40	lt	-	Pasirinkite eilučių skaičių.			2002-02-02 02:02:02
+vcl	source\src\print.src	0	fixedtext	SV_DLG_PRINT.SV_PRINT_TAB_NUP	SV_PRINT_PRT_NUP_MARGINS_PAGES_1_TXT			40	lt	~Tarpas				2002-02-02 02:02:02
+vcl	source\src\print.src	0	metricfield	SV_DLG_PRINT.SV_PRINT_TAB_NUP	SV_PRINT_PRT_NUP_MARGINS_PAGES_EDT			40	lt	-	Nustatykite tarpą tarp atskirų puslapių popieriaus lape.			2002-02-02 02:02:02
+vcl	source\src\print.src	0	fixedtext	SV_DLG_PRINT.SV_PRINT_TAB_NUP	SV_PRINT_PRT_NUP_MARGINS_PAGES_2_TXT			40	lt	tarp puslapių				2002-02-02 02:02:02
+vcl	source\src\print.src	0	fixedtext	SV_DLG_PRINT.SV_PRINT_TAB_NUP	SV_PRINT_PRT_NUP_MARGINS_SHEET_1_TXT			40	lt	Pa~raštė				2002-02-02 02:02:02
+vcl	source\src\print.src	0	metricfield	SV_DLG_PRINT.SV_PRINT_TAB_NUP	SV_PRINT_PRT_NUP_MARGINS_SHEET_EDT			40	lt	-	Nustatykite paraštę tarp spausdinamų puslapių ir lapo krašto.			2002-02-02 02:02:02
+vcl	source\src\print.src	0	fixedtext	SV_DLG_PRINT.SV_PRINT_TAB_NUP	SV_PRINT_PRT_NUP_MARGINS_SHEET_2_TXT			40	lt	iki lapo krašto				2002-02-02 02:02:02
+vcl	source\src\print.src	0	fixedtext	SV_DLG_PRINT.SV_PRINT_TAB_NUP	SV_PRINT_PRT_NUP_ORIENTATION_TXT			10	lt	Pad~ėtis				2002-02-02 02:02:02
+vcl	source\src\print.src	0	listbox	SV_DLG_PRINT.SV_PRINT_TAB_NUP	SV_PRINT_PRT_NUP_ORIENTATION_BOX			10	lt	-	Pasirinkite popieriaus lapo padėtį.			2002-02-02 02:02:02
+vcl	source\src\print.src	0	stringlist	SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_ORIENTATION_BOX	1			0	lt	Automatinė				2002-02-02 02:02:02
+vcl	source\src\print.src	0	stringlist	SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_ORIENTATION_BOX	2			0	lt	Stačiai				2002-02-02 02:02:02
+vcl	source\src\print.src	0	stringlist	SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_ORIENTATION_BOX	3			0	lt	Gulsčiai				2002-02-02 02:02:02
+vcl	source\src\print.src	0	fixedtext	SV_DLG_PRINT.SV_PRINT_TAB_NUP	SV_PRINT_PRT_NUP_ORDER_TXT			10	lt	Tvarka				2002-02-02 02:02:02
+vcl	source\src\print.src	0	listbox	SV_DLG_PRINT.SV_PRINT_TAB_NUP	SV_PRINT_PRT_NUP_ORDER_BOX			10	lt	-	Pasirinkite tvarką, kuria bus spausdinami puslapiai.			2002-02-02 02:02:02
+vcl	source\src\print.src	0	stringlist	SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_ORDER_BOX	1			0	lt	iš kairės į dešinę ir žemyn				2002-02-02 02:02:02
+vcl	source\src\print.src	0	stringlist	SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_ORDER_BOX	2			0	lt	iš viršaus žemyn ir dešinėn				2002-02-02 02:02:02
+vcl	source\src\print.src	0	checkbox	SV_DLG_PRINT.SV_PRINT_TAB_NUP	SV_PRINT_PRT_NUP_BORDER_CB			150	lt	Kiekvieną puslapį apvesti rėmeliu	Pažymėjus šį langelį apie kiekvieną puslapį bus nubrėžtas rėmelis.			2002-02-02 02:02:02
+vcl	source\src\print.src	0	tabpage	SV_DLG_PRINT	SV_PRINT_TAB_NUP			46064	lt	Puslapių išdėstymas				2002-02-02 02:02:02
+vcl	source\src\print.src	0	fixedline	SV_DLG_PRINT.SV_PRINT_TAB_JOB	SV_PRINT_PRINTERS_FL			100	lt	~Spausdintuvas				2002-02-02 02:02:02
+vcl	source\src\print.src	0	listbox	SV_DLG_PRINT.SV_PRINT_TAB_JOB	SV_PRINT_PRINTERS			100	lt	-	Pasirinkite spausdintuvą spausdinimui.			2002-02-02 02:02:02
+vcl	source\src\print.src	0	checkbox	SV_DLG_PRINT.SV_PRINT_TAB_JOB	SV_PRINT_DETAILS_BTN			5	lt	Išsamiau	Rodyti arba slėpti išsamią informaciją apie pasirinktą spausdintuvą.			2002-02-02 02:02:02
+vcl	source\src\print.src	0	fixedtext	SV_DLG_PRINT.SV_PRINT_TAB_JOB	SV_PRINT_STATUS_TXT			100	lt	Būsena:				2002-02-02 02:02:02
+vcl	source\src\print.src	0	fixedtext	SV_DLG_PRINT.SV_PRINT_TAB_JOB	SV_PRINT_LOCATION_TXT			100	lt	Vieta:				2002-02-02 02:02:02
+vcl	source\src\print.src	0	fixedtext	SV_DLG_PRINT.SV_PRINT_TAB_JOB	SV_PRINT_COMMENT_TXT			100	lt	Komentaras:				2002-02-02 02:02:02
+vcl	source\src\print.src	0	pushbutton	SV_DLG_PRINT.SV_PRINT_TAB_JOB	SV_PRINT_PRT_SETUP			50	lt	Savybės…	Atverti pasirinkto spausdintuvo sąrankos langą.			2002-02-02 02:02:02
+wizards	source\euro\euro.src	0	string	CURRENCIES + 13				5104	lt	Kipro svaras				2002-02-02 02:02:02
+wizards	source\euro\euro.src	0	string	CURRENCIES + 14				5104	lt	Maltos lira				2002-02-02 02:02:02
+wizards	source\euro\euro.src	0	string	CURRENCIES + 15				5648	lt	Slovakijos krona				2002-02-02 02:02:02
+wizards	source\formwizard\dbwizres.src	0	string	RID_DB_QUERY_WIZARD_START + 34				50160	lt	neturi reikšmės				2002-02-02 02:02:02
+wizards	source\formwizard\dbwizres.src	0	string	RID_DB_QUERY_WIZARD_START + 35				50160	lt	turi reikšmę				2002-02-02 02:02:02
+wizards	source\formwizard\dbwizres.src	0	string	RID_DB_REPORT_WIZARD_START + 80				50160	lt	Lentelinę				2002-02-02 02:02:02
+wizards	source\formwizard\dbwizres.src	0	string	RID_DB_REPORT_WIZARD_START + 81				50160	lt	Skiltinę, vienos skilties				2002-02-02 02:02:02
+wizards	source\formwizard\dbwizres.src	0	string	RID_DB_REPORT_WIZARD_START + 82				50680	lt	Skiltinę, dviejų skilčių				2002-02-02 02:02:02
+wizards	source\formwizard\dbwizres.src	0	string	RID_DB_REPORT_WIZARD_START + 83				50160	lt	Skiltinę, trijų skilčių				2002-02-02 02:02:02
+wizards	source\formwizard\dbwizres.src	0	string	RID_DB_REPORT_WIZARD_START + 89				50160	lt	#page# puslapis iš #count#				2002-02-02 02:02:02
+wizards	source\formwizard\dbwizres.src	0	string	RID_DB_REPORT_WIZARD_START + 90				50160	lt	Puslapio numeris:				2002-02-02 02:02:02
+wizards	source\formwizard\dbwizres.src	0	string	RID_DB_REPORT_WIZARD_START + 91				50160	lt	Puslapių skaičius:				2002-02-02 02:02:02
+wizards	source\formwizard\dbwizres.src	0	string	RID_DB_REPORT_WIZARD_START + 92				50600	lt	Nerastas tinkamas ataskaitos šablonas.				2002-02-02 02:02:02
+editeng	source\items\svxitems.src	0	string	RID_SVXITEMS_ADJUST_LEFT				37872	lt	Kairinė lygiuotė				2002-02-02 02:02:02
+editeng	source\items\svxitems.src	0	string	RID_SVXITEMS_ADJUST_RIGHT				37872	lt	Dešininė lygiuotė				2002-02-02 02:02:02
+editeng	source\items\svxitems.src	0	string	RID_SVXITEMS_HORJUST_LEFT				37872	lt	Kairinė lygiuotė				2002-02-02 02:02:02
+editeng	source\items\svxitems.src	0	string	RID_SVXITEMS_HORJUST_RIGHT				37872	lt	Dešininė lygiuotė				2002-02-02 02:02:02
+editeng	source\items\svxitems.src	0	string	RID_SVXITEMS_HORJUST_BLOCK				37872	lt	Abipusė lygiuotė				2002-02-02 02:02:02
+extensions	source\propctrlr\formres.src	0	string	RID_STR_ENABLE_VISIBLE				62448	lt	Matomas				2002-02-02 02:02:02
+extensions	source\propctrlr\formres.src	0	string	RID_STR_PRINTABLE				62800	lt	Spausdinamas				2002-02-02 02:02:02
+extensions	source\propctrlr\formres.src	0	string	RID_STR_EVT_ACTIONPERFORMED				62448	lt	Atlikti veiksmą				2002-02-02 02:02:02
+extensions	source\propctrlr\formres.src	0	string	RID_STR_EVT_APPROVEACTIONPERFORMED				62448	lt	Patvirtinti veiksmą				2002-02-02 02:02:02
+extensions	source\propctrlr\formres.src	0	string	RID_RSC_ENUM_WHEEL_BEHAVIOR	1			62672	lt	Niekada				2002-02-02 02:02:02
+extensions	source\propctrlr\formres.src	0	string	RID_RSC_ENUM_WHEEL_BEHAVIOR	2			62448	lt	Kai židinyje				2002-02-02 02:02:02
+extensions	source\propctrlr\formres.src	0	string	RID_RSC_ENUM_WHEEL_BEHAVIOR	3			62448	lt	Visada				2002-02-02 02:02:02
+extensions	source\propctrlr\formres.src	0	string	RID_STR_ANCHOR_TYPE				62648	lt	Prieraišas				2002-02-02 02:02:02
+extensions	source\propctrlr\formres.src	0	string	RID_RSC_ENUM_TEXT_ANCHOR_TYPE	1			62744	lt	Prie pastraipos				2002-02-02 02:02:02
+extensions	source\propctrlr\formres.src	0	string	RID_RSC_ENUM_TEXT_ANCHOR_TYPE	3			62448	lt	Prie puslapio				2002-02-02 02:02:02
+extensions	source\propctrlr\formres.src	0	string	RID_RSC_ENUM_TEXT_ANCHOR_TYPE	4			62448	lt	Prie kadro				2002-02-02 02:02:02
+extensions	source\propctrlr\formres.src	0	string	RID_RSC_ENUM_SHEET_ANCHOR_TYPE	1			62648	lt	Prie puslapio				2002-02-02 02:02:02
+extensions	source\propctrlr\formres.src	0	string	RID_RSC_ENUM_SHEET_ANCHOR_TYPE	2			62448	lt	Prie langelio				2002-02-02 02:02:02
+extensions	source\propctrlr\formres.src	0	string	RID_STR_FONTSTYLE_REGULAR				62856	lt	Normalus				2002-02-02 02:02:02
+extensions	source\propctrlr\formres.src	0	string	RID_STR_FONTSTYLE_BOLD_ITALIC				62664	lt	Pusjuodis kursyvas				2002-02-02 02:02:02
+extensions	source\propctrlr\formres.src	0	string	RID_STR_FONTSTYLE_ITALIC				62952	lt	Kursyvas				2002-02-02 02:02:02
+extensions	source\propctrlr\formres.src	0	string	RID_STR_FONTSTYLE_BOLD				62448	lt	Pusjuodis				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_RELOAD_WARNING				50528	lt	Failas vardu „%FILENAME“ jau yra „%DOWNLOAD_PATH“! Ar norite tęsti atsiuntimą, ar pašalinti ir įkelti failą iš naujo?				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_RELOAD_RELOAD				50376	lt	Įkelti failą iš naujo				2002-02-02 02:02:02
+extensions	source\update\check\updatehdl.src	0	string	RID_UPDATE_STR_RELOAD_CONTINUE				50160	lt	Tęsti				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_AUDIO_VORBIS				46624	lt	Garso failas				2002-02-02 02:02:02
+svl	source\misc\mediatyp.src	0	string	STR_SVT_MIMETYPE_VIDEO_THEORA				46624	lt	Vaizdo failas				2002-02-02 02:02:02
+svx	source\gallery2\galtheme.src	0	string	RID_GALLERYSTR_THEME_PEOPLE_1				22008	lt	Žmonės				2002-02-02 02:02:02
+svx	source\gallery2\galtheme.src	0	string	RID_GALLERYSTR_THEME_ARROWS_1				22136	lt	Rodyklės				2002-02-02 02:02:02
+svx	source\gallery2\galtheme.src	0	string	RID_GALLERYSTR_THEME_FLAGS_1				22120	lt	Vėliavos				2002-02-02 02:02:02
+readlicense_oo	docs\readme\readme.xrm	0	readmeitem	jzjtzu6	jzjtzu6			0	lt	Iki 1,5 GB laisvos vietos diske				2002-02-02 02:02:02
+readlicense_oo	docs\readme\readme.xrm	0	readmeitem	sdfsdfgf42s	sdfsdfgf42s			0	lt	„${PRODUCTNAME}“ diegimas į „Debian“/„Ubuntu“ pagrindu sukurtas „Linux“ sistemas				2002-02-02 02:02:02
+readlicense_oo	docs\readme\readme.xrm	0	readmeitem	debianinstall3	debianinstall3			0	lt	Šis aplankas turi poaplankį pavadinimu „DEBS“. Pereikite į poaplankį „DEBS“.				2002-02-02 02:02:02
+readlicense_oo	docs\readme\readme.xrm	0	readmeitem	rpminstall3	rpminstall3			0	lt	Šis aplankas turi poaplankį pavadinimu „RPMS“. Pereikite į poaplankį „RPMS“.				2002-02-02 02:02:02
+readlicense_oo	docs\readme\readme.xrm	0	readmeitem	rpminstallA	rpminstallA			0	lt	Vėl įvykdykite įdiegimo komandą:				2002-02-02 02:02:02
+readlicense_oo	docs\readme\readme.xrm	0	readmeitem	gfh6w0	gfh6w0			0	lt	Vaizdo posistemės našumas				2002-02-02 02:02:02
+readlicense_oo	docs\readme\readme.xrm	0	readmeitem	faq	faq			0	lt	Taipogi paskaitykite atsakymus į dažnai užduodamus klausimus: <a href="http://www.libreoffice.org/faq/">http://www.libreoffice.org/faq/.</a>				2002-02-02 02:02:02
+desktop	source\deployment\misc\dp_misc.src	0	string	RID_DEPLYOMENT_DEPENDENCIES_MIN				25936	lt	Plėtiniui reikalinga ne senesnė „OpenOffice.org“ versija nei %VERSION				2002-02-02 02:02:02
+filter	source\pdf\impdialog.src	0	checkbox	CB_ALLOWDUPLICATEFIELDNAMES				128	lt	~Leisti vienodus laukų vardus				2002-02-02 02:02:02
+filter	source\pdf\impdialog.src	0	checkbox	CB_EXPORTNOTES				158	lt	Eksportuoti k~omentarus				2002-02-02 02:02:02
+filter	source\pdf\impdialog.src	0	checkbox	CB_EXPORTNOTESPAGES				158	lt	Eksportuoti pa~stabų puslapius				2002-02-02 02:02:02
+filter	source\pdf\impdialog.src	0	checkbox	CB_EMBEDSTANDARDFONTS				158	lt	Įt~erpti standartinius šriftus				2002-02-02 02:02:02
+filter	source\graphicfilter\epgm\dlgepgm.src	0	fixedline	DLG_EXPORT_EPGM	GRP_FORMAT			60	lt	Failo formatas				2002-02-02 02:02:02
+filter	source\graphicfilter\epgm\dlgepgm.src	0	radiobutton	DLG_EXPORT_EPGM	RB_RAW			45	lt	~Dvejetainis				2002-02-02 02:02:02
+filter	source\graphicfilter\epgm\dlgepgm.src	0	radiobutton	DLG_EXPORT_EPGM	RB_ASCII			45	lt	~Tekstinis				2002-02-02 02:02:02
+filter	source\graphicfilter\epgm\dlgepgm.src	0	modaldialog	DLG_EXPORT_EPGM				133	lt	PGM parinktys				2002-02-02 02:02:02
+filter	source\graphicfilter\eos2met\dlgeos2.src	0	fixedline	DLG_EXPORT_EMET	GRP_SIZE			110	lt	Dydis				2002-02-02 02:02:02
+filter	source\graphicfilter\eos2met\dlgeos2.src	0	fixedtext	DLG_EXPORT_EMET	FT_SIZEX			45	lt	Plotis				2002-02-02 02:02:02
+filter	source\graphicfilter\eos2met\dlgeos2.src	0	fixedtext	DLG_EXPORT_EMET	FT_SIZEY			45	lt	Aukštis				2002-02-02 02:02:02
+filter	source\graphicfilter\eos2met\dlgeos2.src	0	radiobutton	DLG_EXPORT_EMET	RB_ORIGINAL			98	lt	P~radinis				2002-02-02 02:02:02
+filter	source\graphicfilter\eos2met\dlgeos2.src	0	radiobutton	DLG_EXPORT_EMET	RB_SIZE			98	lt	~Dydis				2002-02-02 02:02:02
+filter	source\graphicfilter\eos2met\dlgeos2.src	0	fixedline	DLG_EXPORT_EMET	GRP_MODE			110	lt	Veiksena				2002-02-02 02:02:02
+filter	source\graphicfilter\eos2met\dlgeos2.src	0	modaldialog	DLG_EXPORT_EMET				178	lt	MET parinktys				2002-02-02 02:02:02
+filter	source\graphicfilter\egif\dlgegif.src	0	fixedline	DLG_EXPORT_GIF	GRP_MODE			100	lt	Veiksena				2002-02-02 02:02:02
+filter	source\graphicfilter\egif\dlgegif.src	0	checkbox	DLG_EXPORT_GIF	CBX_INTERLACED			86	lt	~Progresinis kodavimas				2002-02-02 02:02:02
+filter	source\graphicfilter\egif\dlgegif.src	0	fixedline	DLG_EXPORT_GIF	GRP_DRAW			100	lt	Grafikos objektai				2002-02-02 02:02:02
+filter	source\graphicfilter\egif\dlgegif.src	0	checkbox	DLG_EXPORT_GIF	CBX_TRANSLUCENT			86	lt	Įrašyti ~skaidrumą				2002-02-02 02:02:02
+filter	source\graphicfilter\egif\dlgegif.src	0	modaldialog	DLG_EXPORT_GIF				169	lt	GIF parinktys				2002-02-02 02:02:02
+filter	source\graphicfilter\eps\dlgeps.src	0	radiobutton	DLG_EXPORT_EPS	RB_LEVEL1			150	lt	~1 lygis				2002-02-02 02:02:02
+filter	source\graphicfilter\eps\dlgeps.src	0	radiobutton	DLG_EXPORT_EPS	RB_LEVEL2			150	lt	~2 lygis				2002-02-02 02:02:02
+filter	source\graphicfilter\eps\dlgeps.src	0	fixedline	DLG_EXPORT_EPS	GRP_COLOR			162	lt	Spalvos formatas				2002-02-02 02:02:02
+filter	source\graphicfilter\eps\dlgeps.src	0	radiobutton	DLG_EXPORT_EPS	RB_COLOR			150	lt	~Spalva				2002-02-02 02:02:02
+filter	source\graphicfilter\eps\dlgeps.src	0	radiobutton	DLG_EXPORT_EPS	RB_GRAYSCALE			150	lt	~Pilkos spalvos atspalviai				2002-02-02 02:02:02
+filter	source\graphicfilter\eps\dlgeps.src	0	fixedline	DLG_EXPORT_EPS	GRP_COMPRESSION			162	lt	Glaudinimas				2002-02-02 02:02:02
+filter	source\graphicfilter\eps\dlgeps.src	0	radiobutton	DLG_EXPORT_EPS	RB_COMPRESSION_LZW			150	lt	LZW kodavimas				2002-02-02 02:02:02
+filter	source\graphicfilter\eps\dlgeps.src	0	radiobutton	DLG_EXPORT_EPS	RB_COMPRESSION_NONE			150	lt	Jokio				2002-02-02 02:02:02
+filter	source\graphicfilter\eps\dlgeps.src	0	modaldialog	DLG_EXPORT_EPS				230	lt	EPS eksporto parinktys				2002-02-02 02:02:02
+filter	source\graphicfilter\eps\epsstr.src	0	string	KEY_VERSION_CHECK				0	lt	Dėmesio: kai kurie importuoti EPS paveikslai yra aukštesnio lygio,\ntodėl jų negalima įrašyti pirmu lygiu!				2002-02-02 02:02:02
+filter	source\graphicfilter\epbm\dlgepbm.src	0	fixedline	DLG_EXPORT_EPBM	GRP_FORMAT			60	lt	Failo formatas				2002-02-02 02:02:02
+filter	source\graphicfilter\epbm\dlgepbm.src	0	radiobutton	DLG_EXPORT_EPBM	RB_RAW			45	lt	~Dvejetainis				2002-02-02 02:02:02
+filter	source\graphicfilter\epbm\dlgepbm.src	0	radiobutton	DLG_EXPORT_EPBM	RB_ASCII			45	lt	~Tekstinis				2002-02-02 02:02:02
+filter	source\graphicfilter\epbm\dlgepbm.src	0	modaldialog	DLG_EXPORT_EPBM				133	lt	PBM parinktys				2002-02-02 02:02:02
+filter	source\graphicfilter\epict\dlgepct.src	0	radiobutton	DLG_EXPORT_EPCT	RB_SIZE			98	lt	~Dydis				2002-02-02 02:02:02
+filter	source\graphicfilter\epict\dlgepct.src	0	fixedline	DLG_EXPORT_EPCT	GRP_MODE			110	lt	Veiksena				2002-02-02 02:02:02
+filter	source\graphicfilter\epict\dlgepct.src	0	modaldialog	DLG_EXPORT_EPCT				178	lt	PICT parinktys				2002-02-02 02:02:02
+filter	source\config\fragments\internalgraphicfilters\emf_Export.xcu	0	value	emf_Export	UIName			0	lt	EMF - patobulintas metafailas				2002-02-02 02:02:02
+filter	source\config\fragments\internalgraphicfilters\pcd_Import_Base.xcu	0	value	pcd_Import_Base	UIName			0	lt	PCD - Kodak foto CD (768x512)				2002-02-02 02:02:02
+filter	source\config\fragments\internalgraphicfilters\eps_Export.xcu	0	value	eps_Export	UIName			0	lt	EPS - uždarasis PostScript				2002-02-02 02:02:02
+filter	source\config\fragments\internalgraphicfilters\eps_Import.xcu	0	value	eps_Import	UIName			0	lt	EPS - uždarasis PostScript				2002-02-02 02:02:02
+filter	source\config\fragments\internalgraphicfilters\sgv_Import.xcu	0	value	sgv_Import	UIName			0	lt	SGV - „StarDraw“ 2.0				2002-02-02 02:02:02
+filter	source\config\fragments\internalgraphicfilters\pcd_Import_Base16.xcu	0	value	pcd_Import_Base16	UIName			0	lt	PCD - Kodak foto CD (192x128)				2002-02-02 02:02:02
+filter	source\config\fragments\internalgraphicfilters\emf_Import.xcu	0	value	emf_Import	UIName			0	lt	EMF - patobulintas metafailas				2002-02-02 02:02:02
+scp2	source\impress\module_ogltrans.ulf	0	LngText	STR_NAME_MODULE_OPTIONAL_OGLTRANS				0	lt	OpenGL skaidrių keitimai „%PRODUCTNAME“ pateikčių rengyklei				2002-02-02 02:02:02
+scp2	source\impress\module_ogltrans.ulf	0	LngText	STR_DESC_MODULE_MODULE_OPTIONAL_OGLTRANS				0	lt	OpenGL skaidrių keitimai „%PRODUCTNAME“ pateikčių rengyklei.				2002-02-02 02:02:02
+scp2	source\ooo\module_ooo.ulf	0	LngText	STR_NAME_MODULE_DICTIONARIES				0	lt	Žodynai				2002-02-02 02:02:02
+scp2	source\ooo\module_ooo.ulf	0	LngText	STR_DESC_MODULE_DICTIONARIES				0	lt	Rašybos tikrinimo, skiemenavimo ir tezauro žodynai				2002-02-02 02:02:02
+scp2	source\ooo\module_ooo.ulf	0	LngText	STR_DESC_MODULE_EXTENSION_DICTIONARY_AF				0	lt	Afrikanų kalbos rašybos tikrinimo žodynas				2002-02-02 02:02:02
+scp2	source\ooo\module_ooo.ulf	0	LngText	STR_DESC_MODULE_EXTENSION_DICTIONARY_CA				0	lt	Bendrinės katalonų kalbos rašybos tikrinimo, skiemenavimo ir tezauro žodynai				2002-02-02 02:02:02
+scp2	source\ooo\module_ooo.ulf	0	LngText	STR_DESC_MODULE_EXTENSION_DICTIONARY_CS				0	lt	Čekų kalbos tezauro žodynas				2002-02-02 02:02:02
+scp2	source\ooo\module_ooo.ulf	0	LngText	STR_DESC_MODULE_EXTENSION_DICTIONARY_DA				0	lt	Danų kalbos rašybos tikrinimo ir skiemenavimo žodynai				2002-02-02 02:02:02
+scp2	source\ooo\module_ooo.ulf	0	LngText	STR_NAME_MODULE_EXTENSION_DICTIONARY_DE_AT				0	lt	Vokiečių (Austrija)				2002-02-02 02:02:02
+scp2	source\ooo\module_ooo.ulf	0	LngText	STR_DESC_MODULE_EXTENSION_DICTIONARY_DE_AT				0	lt	Vokiečių (AT-frami) kalbos rašybos tikrinimo, skiemenavimo ir tezauro žodynai				2002-02-02 02:02:02
+scp2	source\ooo\module_ooo.ulf	0	LngText	STR_NAME_MODULE_EXTENSION_DICTIONARY_DE_CH				0	lt	Vokiečių (Šveicarija)				2002-02-02 02:02:02
+scp2	source\ooo\module_ooo.ulf	0	LngText	STR_DESC_MODULE_EXTENSION_DICTIONARY_DE_CH				0	lt	Vokiečių (CH-frami) kalbos rašybos tikrinimo, skiemenavimo ir tezauro žodynai				2002-02-02 02:02:02
+scp2	source\ooo\module_ooo.ulf	0	LngText	STR_NAME_MODULE_EXTENSION_DICTIONARY_DE_DE				0	lt	Vokiečių (Vokietija)				2002-02-02 02:02:02
+scp2	source\ooo\module_ooo.ulf	0	LngText	STR_DESC_MODULE_EXTENSION_DICTIONARY_DE_DE				0	lt	Vokiečių (DE-frami) kalbos rašybos tikrinimo, skiemenavimo ir tezauro žodynai				2002-02-02 02:02:02
+scp2	source\ooo\module_ooo.ulf	0	LngText	STR_DESC_MODULE_EXTENSION_DICTIONARY_EN				0	lt	Anglų kalbos rašybos tikrinimo, skiemenavimo ir tezauro žodynai				2002-02-02 02:02:02
+scp2	source\ooo\module_ooo.ulf	0	LngText	STR_DESC_MODULE_EXTENSION_DICTIONARY_ES				0	lt	Ispanų kalbos rašybos tikrinimo žodynas				2002-02-02 02:02:02
+scp2	source\ooo\module_ooo.ulf	0	LngText	STR_DESC_MODULE_EXTENSION_DICTIONARY_ET				0	lt	Estų kalbos rašybos tikrinimo ir skiemenavimo žodynai				2002-02-02 02:02:02
+scp2	source\ooo\module_ooo.ulf	0	LngText	STR_DESC_MODULE_EXTENSION_DICTIONARY_FR				0	lt	Prancūzų (klasikinės ir 1990 m. reformuotos) kalbos rašybos tikrinimo, skiemenavimo ir tezauro žodynai				2002-02-02 02:02:02
+scp2	source\ooo\module_ooo.ulf	0	LngText	STR_DESC_MODULE_EXTENSION_DICTIONARY_HE				0	lt	Hebrajų kalbos rašybos tikrinimo žodynas				2002-02-02 02:02:02
+scp2	source\ooo\module_ooo.ulf	0	LngText	STR_DESC_MODULE_EXTENSION_DICTIONARY_HU				0	lt	Vengrų kalbos rašybos tikrinimo, skiemenavimo ir tezauro žodynai				2002-02-02 02:02:02
+scp2	source\ooo\module_ooo.ulf	0	LngText	STR_DESC_MODULE_EXTENSION_DICTIONARY_IT				0	lt	Italų kalbos rašybos tikrinimo, skiemenavimo ir tezauro žodynai				2002-02-02 02:02:02
+scp2	source\ooo\module_ooo.ulf	0	LngText	STR_NAME_MODULE_EXTENSION_DICTIONARY_KU_TR				0	lt	Kurdų (Turkija)				2002-02-02 02:02:02
+scp2	source\ooo\module_ooo.ulf	0	LngText	STR_DESC_MODULE_EXTENSION_DICTIONARY_KU_TR				0	lt	Kurdų (Turkija) kalbos rašybos tikrinimo žodynas				2002-02-02 02:02:02
+scp2	source\ooo\module_ooo.ulf	0	LngText	STR_DESC_MODULE_EXTENSION_DICTIONARY_LT				0	lt	Lietuvių kalbos rašybos tikrinimo ir skiemenavimo žodynai				2002-02-02 02:02:02
+scp2	source\ooo\module_ooo.ulf	0	LngText	STR_DESC_MODULE_EXTENSION_DICTIONARY_NE				0	lt	Nepalų kalbos rašybos tikrinimo ir tezauro žodynai				2002-02-02 02:02:02
+scp2	source\ooo\module_ooo.ulf	0	LngText	STR_DESC_MODULE_EXTENSION_DICTIONARY_NL				0	lt	Olandų kalbos rašybos tikrinimo ir skiemenavimo žodynai				2002-02-02 02:02:02
+scp2	source\ooo\module_ooo.ulf	0	LngText	STR_NAME_MODULE_EXTENSION_DICTIONARY_NO				0	lt	Norvegų				2002-02-02 02:02:02
+scp2	source\ooo\module_ooo.ulf	0	LngText	STR_DESC_MODULE_EXTENSION_DICTIONARY_NO				0	lt	Norvegų kalbų (Nynorsk ir Bokmal) žodynai				2002-02-02 02:02:02
+scp2	source\ooo\module_ooo.ulf	0	LngText	STR_NAME_MODULE_EXTENSION_DICTIONARY_OC				0	lt	Očitarų				2002-02-02 02:02:02
+scp2	source\ooo\module_ooo.ulf	0	LngText	STR_DESC_MODULE_EXTENSION_DICTIONARY_OC				0	lt	Očitarų kalbos rašybos tikrinimo žodynas				2002-02-02 02:02:02
+scp2	source\ooo\module_ooo.ulf	0	LngText	STR_DESC_MODULE_EXTENSION_DICTIONARY_PL				0	lt	Lenkų kalbos rašybos tikrinimo, skiemenavimo ir tezauro žodynai				2002-02-02 02:02:02
+scp2	source\ooo\module_ooo.ulf	0	LngText	STR_NAME_MODULE_EXTENSION_DICTIONARY_PT				0	lt	Portugalų (Brazilija)				2002-02-02 02:02:02
+scp2	source\ooo\module_ooo.ulf	0	LngText	STR_DESC_MODULE_EXTENSION_DICTIONARY_PT				0	lt	Brazilijos portugalų kalbos rašybos tikrinimo žodynas (1990 m. patvirtinta rašyba)				2002-02-02 02:02:02
+scp2	source\ooo\module_ooo.ulf	0	LngText	STR_DESC_MODULE_EXTENSION_DICTIONARY_RO				0	lt	Rumunų kalbos žodynai				2002-02-02 02:02:02
+scp2	source\ooo\module_ooo.ulf	0	LngText	STR_DESC_MODULE_EXTENSION_DICTIONARY_RU				0	lt	Rusų kalbos rašybos tikrinimo, skiemenavimo ir tezauro žodynai				2002-02-02 02:02:02
+scp2	source\ooo\module_ooo.ulf	0	LngText	STR_DESC_MODULE_EXTENSION_DICTIONARY_SK				0	lt	Slovakų kalbos rašybos tikrinimo, skiemenavimo ir tezauro žodynai				2002-02-02 02:02:02
+scp2	source\ooo\module_ooo.ulf	0	LngText	STR_DESC_MODULE_EXTENSION_DICTIONARY_SL				0	lt	Slovėnų kalbos žodynų rinkinys				2002-02-02 02:02:02
+scp2	source\ooo\module_ooo.ulf	0	LngText	STR_DESC_MODULE_EXTENSION_DICTIONARY_SR				0	lt	Serbų kalbos rašybos tikrinimo ir skiemenavimo žodynai				2002-02-02 02:02:02
+scp2	source\ooo\module_ooo.ulf	0	LngText	STR_DESC_MODULE_EXTENSION_DICTIONARY_SV				0	lt	Švedų kalbos žodynas				2002-02-02 02:02:02
+scp2	source\ooo\module_ooo.ulf	0	LngText	STR_DESC_MODULE_EXTENSION_DICTIONARY_SW				0	lt	Suahilių kalbos rašybos tikrinimo žodynas				2002-02-02 02:02:02
+scp2	source\ooo\module_ooo.ulf	0	LngText	STR_DESC_MODULE_EXTENSION_DICTIONARY_TH				0	lt	Tajų kalbos rašybos tikrinimo žodynas				2002-02-02 02:02:02
+scp2	source\ooo\module_ooo.ulf	0	LngText	STR_NAME_MODULE_EXTENSION_DICTIONARY_UK				0	lt	Ukrainiečių				2002-02-02 02:02:02
+scp2	source\ooo\module_ooo.ulf	0	LngText	STR_DESC_MODULE_EXTENSION_DICTIONARY_UK				0	lt	Ukrainiečių kalbos rašybos tikrinimo, skiemenavimo ir tezauro žodynai				2002-02-02 02:02:02
+scp2	source\ooo\module_ooo.ulf	0	LngText	STR_DESC_MODULE_EXTENSION_DICTIONARY_VI				0	lt	Vietnamiečių kalbos rašybos tikrinimo žodynas				2002-02-02 02:02:02
+scp2	source\ooo\module_ooo.ulf	0	LngText	STR_DESC_MODULE_EXTENSION_DICTIONARY_ZU				0	lt	Zulusų kalbos rašybos tikrinimo žodynas				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_CA_XV				0	lt	Katalonų (Valensija)				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_CA_XV				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama katalonų (Valensijos) kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_AST				0	lt	Asturų				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_AST				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama asturų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_BO				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama tibetiečių kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_OC				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama očitarų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_OM				0	lt	Oromų				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_OM				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama oromų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_SI				0	lt	Sinhalų				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_SI				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama sinhalų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_UG				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama uigūrų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_AS				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama asamų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_BRX				0	lt	Bodo				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_BRX				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama bodo kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_DGO				0	lt	Dogri				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_DGO				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama dogri kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_GD				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama škotų gėlų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_KK				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama kazachų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_KOK				0	lt	Konkani				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_KOK				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama konkani kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_KS				0	lt	Kašmyrų				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_KS				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama kašmyrų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_KY				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama kirgizų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_MAI				0	lt	Maitilių				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_MAI				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama maitilių kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_ML				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama malajalių kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_MNI				0	lt	Manipuri				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_MNI				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama manipuri kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_PAP				0	lt	Papiemento				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_PAP				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama papiemento kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_PS				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama puštūnų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_SA_IN				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama sanskrito kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_SAT				0	lt	Santali				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_SAT				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama santali kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_SC				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama sardiniečių kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_SD				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama sindų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_NAME_MODULE_LANGPACK_TE				0	lt	Telugų				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_TE				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama telugų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_langpack.ulf	0	LngText	STR_DESC_MODULE_LANGPACK_TI				0	lt	Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama tigrajų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_ROOT_HELPPACK				0	lt	Papildomi žinyno paketai				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_ROOT_HELPPACK				0	lt	Papildomi žinyno paketai				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_EN_US				0	lt	Anglų				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_DE				0	lt	Vokiečių				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_FR				0	lt	Prancūzų				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_FR				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas prancūzų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_IT				0	lt	Italų				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_IT				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas italų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_ES				0	lt	Ispanų				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_ES				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas ispanų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_SV				0	lt	Švedų				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_SV				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas švedų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_PT				0	lt	Portugalų				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_PT				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas portugalų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_PT_BR				0	lt	Portugalų (Brazilija)				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_PT_BR				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas Brazilijos portugalų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_JA				0	lt	Japonų				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_JA				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas japonų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_KO				0	lt	Korėjiečių				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_KO				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas korėjiečių kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_ZH_CN				0	lt	Kinų (supaprastintoji)				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_ZH_CN				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas supaprastintąja kinų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_ZH_TW				0	lt	Kinų (tradicinė)				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_ZH_TW				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas tradicine kinų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_NL				0	lt	Olandų				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_NL				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas olandų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_HU				0	lt	Vengrų				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_HU				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas vengrų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_PL				0	lt	Lenkų				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_PL				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas lenkų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_RU				0	lt	Rusų				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_RU				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas rusų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_TR				0	lt	Turkų				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_TR				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas turkų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_EL				0	lt	Graikų				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_TH				0	lt	Tajų				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_TH				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas tajų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_CS				0	lt	Čekų				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_SK				0	lt	Slovakų				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_SK				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas slovakų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_HR				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas kroatų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_ET				0	lt	Estų				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_ET				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas estų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_VI				0	lt	Vietnamiečių				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_VI				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas vietnamiečių kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_BG				0	lt	Bulgarų				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_KM				0	lt	Khmerų				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_KM				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas khmerų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_PA_IN				0	lt	Pendžabų				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_PA_IN				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas pendžabų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_GU_IN				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas gudžaratų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_TA				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas tamilų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_TA_IN				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas tamilų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_HI				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas hindi kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_HI_IN				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas hindi kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_ST				0	lt	Pietų sothų (sutu)				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_ST				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas pietų sothų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_TN				0	lt	Tsvanų				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_TN				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas tsvanų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_XH				0	lt	Kosų				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_XH				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas kosų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_ZU				0	lt	Zulų (zulusų)				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_ZU				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas zulų (zulusų) kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_AF				0	lt	Afrikanų				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_SW				0	lt	Suahilių				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_SW				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas suahilių kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_SW_TZ				0	lt	Suahilių				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_SW_TZ				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas suahilių kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_LO				0	lt	Laosiečių				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_LO				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas laosiečių kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_NS				0	lt	Šiaurės sothų				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_NS				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas Šiaurės sothų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_BN				0	lt	Bengalų				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_BN_BD				0	lt	Bengalų (Bangladešas)				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_BN_IN				0	lt	Bengalų (Indija)				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_OR				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas orijų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_OR_IN				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas orijų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_MR				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas marathų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_MR_IN				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas marathų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_NE				0	lt	Nepalų				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_NE				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas nepalų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_CA				0	lt	Katalonų				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_CA_XV				0	lt	Katalonų (Valensija)				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_CA_XV				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas Valensijos katalonų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_DA				0	lt	Danų				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_FI				0	lt	Suomių				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_FI				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas suomių kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_HE				0	lt	Hebrajų				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_HE				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas hebrajų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_IS				0	lt	Islandų				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_IS				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas islandų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_NB				0	lt	Norvegų bokmål				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_NB				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas norvegų bokmål kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_NN				0	lt	Norvegų nynorsk				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_NN				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas norvegų nynorsk kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_RM				0	lt	Retoromanų				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_RM				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas retoromanų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_RO				0	lt	Rumunų				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_RO				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas rumunų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_SQ				0	lt	Albanų				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_SQ				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas albanų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_UR				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas urdu kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_ID				0	lt	Indoneziečių				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_ID				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas indoneziečių kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_UK				0	lt	Ukrainiečių				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_UK				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas ukrainiečių kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_BE_BY				0	lt	Baltarusių				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_SL				0	lt	Slovėnų				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_SL				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas slovėnų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_LV				0	lt	Latvių				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_LV				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas latvių kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_LT				0	lt	Lietuvių				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_LT				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas lietuvių kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_HY				0	lt	Armėnų				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_HY				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas armėnų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_EU				0	lt	Baskų				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_EU				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas baskų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_MK				0	lt	Makedonų				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_MK				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas makedonų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_MT				0	lt	Maltiečių				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_MT				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas maltiečių kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_CY				0	lt	Valų				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_GL				0	lt	Galisų				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_GL				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas galisų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_SH_YU				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas serbų kalba (lotyniškais rašmenimis)				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_SH				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas serbų kalba (lotyniškais rašmenimis)				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_GA				0	lt	Airių				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_GA				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas airių kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_SR_CS				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas serbų kalba (kirilica)				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_SR				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas serbų kalba (kirilica)				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_BS				0	lt	Bosnių				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_AST				0	lt	Asturų				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_AST				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas asturų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_RW				0	lt	Kinjaruanda				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_RW				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas kinjaruanda kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_SA				0	lt	Sanskritas				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_SA				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas sanskrito kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_FA				0	lt	Persų				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_FA				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas persų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_FO				0	lt	Farerų				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_FO				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas farerų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_SB				0	lt	Sorbų				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_SB				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas sorbų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_TT				0	lt	Totorių				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_TT				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas totorių kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_TS				0	lt	Tsongų				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_TS				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas tsongų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_YI				0	lt	Jidiš				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_YI				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas jidiš kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_BR				0	lt	Bretonų				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_NR				0	lt	Pietų ndebelų				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_NR				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas pietų ndebelų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_SS				0	lt	Svazių				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_SS				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas svazių kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_VE				0	lt	Venda				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_VE				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas venda kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_KN				0	lt	Kanadų				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_KN				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas kanadų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_MS				0	lt	Malajų				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_MS				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas malajų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_TG				0	lt	Tadžikų				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_TG				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas tadžikų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_KU				0	lt	Kurdų				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_KU				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas kurdų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_DZ				0	lt	Botijų				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_KA				0	lt	Gruzinų				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_KA				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas gruzinų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_EO				0	lt	Esperanto				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_EO				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas esperanto kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_GU				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas gudžaratų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_EN_ZA				0	lt	Anglų (Pietų Afrika)				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_EN_ZA				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas Pietų Afrikos anglų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_EN_GB				0	lt	Anglų (Jungtinė Karalystė)				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_UR_IN				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas urdu kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_ML_IN				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas malajalių kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_TE_IN				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas telugų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_TI_ER				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas tigrajų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_UZ				0	lt	Uzbekų				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_UZ				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas uzbekų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_MN				0	lt	Mongolų				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_MN				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas mongolų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_MY				0	lt	Birmiečių				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_MY				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas birmiečių kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_OC				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas očitarų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_OM				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas oromų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_SI				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas sinhalų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_UG				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas uigūrų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_BRX				0	lt	Bodo				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_DGO				0	lt	Dogri				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_GD				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas škotų gėlų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_KK				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas kazachų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_KOK				0	lt	Konkani				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_KOK				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas konkani kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_KS				0	lt	Kašmyrų				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_KS				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas kašmyrų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_KY				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas kirgizų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_MAI				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas maitilių kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_ML				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas malajalių kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_MNI				0	lt	Manipuri				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_MNI				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas manipuri kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_PAP				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas papiemento kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_PS				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas puštūnų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_SA_IN				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas sanskrito kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_NAME_MODULE_HELPPACK_SAT				0	lt	Santali				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_SAT				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas santali kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_SC				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas sardiniečių kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_SD				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas sindų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_TE				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas telugų kalba				2002-02-02 02:02:02
+scp2	source\ooo\module_helppack.ulf	0	LngText	STR_DESC_MODULE_HELPPACK_TI				0	lt	Įdiegiamas „%PRODUCTNAME %PRODUCTVERSION“ žinynas tigrajų kalba				2002-02-02 02:02:02
