@@ -485,18 +485,18 @@ basic	source\app\svtmsg.src	0	string	S_MENU_NOT_CLOSING				0	lt	Meniu neužveria
 basic	source\app\ttmsg.src	0	string	S_NAME_NOT_THERE				0	lt	Name doesn't exist: #($Arg1)				2002-02-02 02:02:02
 basic	source\app\ttmsg.src	0	string	S_DOUBLE_NAME				0	lt	Name double: ($Arg1)				2002-02-02 02:02:02
 basic	source\app\ttmsg.src	0	string	S_READING_FILE				0	lt	Reading the files				2002-02-02 02:02:02
-basic	source\app\ttmsg.src	0	string	S_CANNOT_OPEN_FILE				0	lt	File cannot be opened: ($Arg1)				2002-02-02 02:02:02
+basic	source\app\ttmsg.src	0	string	S_CANNOT_OPEN_FILE				0	lt	Nepavyko atverti failo: ($Arg1)				2002-02-02 02:02:02
 basic	source\app\ttmsg.src	0	string	S_INVALID_LINE				0	lt	Line "($Arg1)" is invalid.				2002-02-02 02:02:02
 basic	source\app\ttmsg.src	0	string	S_SHORTNAME_UNKNOWN				0	lt	Short-name unknown during copying: ($Arg1)				2002-02-02 02:02:02
 basic	source\app\ttmsg.src	0	string	S_LONGNAME_UNKNOWN				0	lt	Long-name unknown: ($Arg1)				2002-02-02 02:02:02
 basic	source\app\ttmsg.src	0	string	S_FIRST_SHORTNAME_REQ_ASTRX				0	lt	First short-name must start with * . Ignoring.				2002-02-02 02:02:02
 basic	source\app\ttmsg.src	0	string	S_TIMOUT_WAITING				0	lt	Server Timeout while waiting for answer. Sequence No: ($Arg1)				2002-02-02 02:02:02
 basic	source\app\ttmsg.src	0	string	S_APPLICATION_RESTARTED				0	lt	Application has been restarted.				2002-02-02 02:02:02
-basic	source\app\ttmsg.src	0	string	S_APPLICATION_START_FAILED				0	lt	Application "($Arg1)" cannot be started. 				2002-02-02 02:02:02
+basic	source\app\ttmsg.src	0	string	S_APPLICATION_START_FAILED				0	lt	Nepavyko paleisti programos: ($Arg1).				2002-02-02 02:02:02
 basic	source\app\ttmsg.src	0	string	S_TIMOUT_SENDING				0	lt	Server Timeout while sending. Sequence No: ($Arg1)				2002-02-02 02:02:02
 basic	source\app\ttmsg.src	0	string	S_NO_CONNECTION				0	lt	No connection. Sequence No: ($Arg1)				2002-02-02 02:02:02
 basic	source\app\ttmsg.src	0	string	S_NO_FILES_FOUND				0	lt	Nerasta „($Arg1)“ failų				2002-02-02 02:02:02
-basic	source\app\ttmsg.src	0	string	S_ERRORS_DETECTED				0	lt	** Rasta ($Arg1) klaidos(-ų)				2002-02-02 02:02:02
+basic	source\app\ttmsg.src	0	string	S_ERRORS_DETECTED				0	lt	** Įvyko klaidų: ($Arg1)				2002-02-02 02:02:02
 basic	source\app\ttmsg.src	0	string	S_NO_ERRORS_DETECTED				0	lt	** Klaidų nėra				2002-02-02 02:02:02
 basic	source\app\ttmsg.src	0	string	S_WARNINGS_DETECTED				0	lt	** Rasta ($Arg1) įspėjimai(-ų)				2002-02-02 02:02:02
 basic	source\app\ttmsg.src	0	string	S_NO_WARNINGS_DETECTED				0	lt	** Įspėjimų nėra				2002-02-02 02:02:02
@@ -887,10 +887,10 @@ chart2	source\controller\dialogs\Strings.src	0	string	STR_TEXT_DIRECTION_LTR				
 chart2	source\controller\dialogs\Strings.src	0	string	STR_TEXT_DIRECTION_RTL				0	lt	Iš dešinės į kairę				2002-02-02 02:02:02
 chart2	source\controller\dialogs\Strings.src	0	string	STR_TEXT_DIRECTION_SUPER				0	lt	Naudoti ankstesnio objekto nuostatas				2002-02-02 02:02:02
 chart2	source\controller\dialogs\tp_Scale.src	0	fixedline	TP_SCALE	FL_SCALE			248	lt	Mastelis				2002-02-02 02:02:02
-chart2	source\controller\dialogs\tp_Scale.src	0	fixedtext	TP_SCALE	TXT_MIN			0	lt	~Mažiausia:				2002-02-02 02:02:02
+chart2	source\controller\dialogs\tp_Scale.src	0	fixedtext	TP_SCALE	TXT_MIN			0	lt	~Mažiausiai:				2002-02-02 02:02:02
 chart2	source\controller\dialogs\tp_Scale.src	0	checkbox	TP_SCALE	CBX_AUTO_MIN			0	lt	~Automatiškai				2002-02-02 02:02:02
-chart2	source\controller\dialogs\tp_Scale.src	0	fixedtext	TP_SCALE	TXT_MAX			0	lt	~Didžiausia:				2002-02-02 02:02:02
-chart2	source\controller\dialogs\tp_Scale.src	0	checkbox	TP_SCALE	CBX_AUTO_MAX			0	lt	A~utomatinė				2002-02-02 02:02:02
+chart2	source\controller\dialogs\tp_Scale.src	0	fixedtext	TP_SCALE	TXT_MAX			0	lt	~Daugiausiai:				2002-02-02 02:02:02
+chart2	source\controller\dialogs\tp_Scale.src	0	checkbox	TP_SCALE	CBX_AUTO_MAX			0	lt	A~utomatiškai				2002-02-02 02:02:02
 chart2	source\controller\dialogs\tp_Scale.src	0	fixedtext	TP_SCALE	TXT_STEP_MAIN			0	lt	Pagrindinis ~intervalas:				2002-02-02 02:02:02
 chart2	source\controller\dialogs\tp_Scale.src	0	checkbox	TP_SCALE	CBX_AUTO_STEP_MAIN			0	lt	A~utomatiškai				2002-02-02 02:02:02
 chart2	source\controller\dialogs\tp_Scale.src	0	fixedtext	TP_SCALE	TXT_STEP_HELP			0	lt	Ma~žojo intervalo žingsnis:				2002-02-02 02:02:02
@@ -1315,7 +1315,7 @@ cui	source\tabpages\chardlg.src	0	fixedtext	RID_SVXPAGE_CHAR_NAME	FT_CTL_LANG			
 cui	source\tabpages\chardlg.src	0	window	RID_SVXPAGE_CHAR_NAME	WIN_CHAR_PREVIEW			248	lt	Pavyzdys				2002-02-02 02:02:02
 cui	source\tabpages\chardlg.src	0	fixedline	RID_SVXPAGE_CHAR_NAME	FL_COLOR2			248	lt	Spalva				2002-02-02 02:02:02
 cui	source\tabpages\chardlg.src	0	fixedtext	RID_SVXPAGE_CHAR_NAME	FT_COLOR2			58	lt	Teksto spalva				2002-02-02 02:02:02
-cui	source\tabpages\chardlg.src	0	string	RID_SVXPAGE_CHAR_NAME	STR_CHARNAME_NOSTYLE			58	lt	Ne %s				2002-02-02 02:02:02
+cui	source\tabpages\chardlg.src	0	string	RID_SVXPAGE_CHAR_NAME	STR_CHARNAME_NOSTYLE			58	lt	Ne %1				2002-02-02 02:02:02
 cui	source\tabpages\chardlg.src	0	string	RID_SVXPAGE_CHAR_NAME	STR_CHARNAME_TRANSPARENT			58	lt	Skaidrus				2002-02-02 02:02:02
 cui	source\tabpages\chardlg.src	0	fixedtext	RID_SVXPAGE_CHAR_EFFECTS	FT_FONTCOLOR			82	lt	Teksto spalva				2002-02-02 02:02:02
 cui	source\tabpages\chardlg.src	0	fixedtext	RID_SVXPAGE_CHAR_EFFECTS	FT_EFFECTS			82	lt	~Efektai				2002-02-02 02:02:02
@@ -8096,7 +8096,7 @@ officecfg	registry\data\org\openoffice\Office\UI\ChartCommands.xcu	0	value	..Cha
 officecfg	registry\data\org\openoffice\Office\UI\ChartCommands.xcu	0	value	..ChartCommands.UserInterface.Commands..uno:DiagramType	Label			0	lt	Diagramos ~tipas...				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\ChartCommands.xcu	0	value	..ChartCommands.UserInterface.Commands..uno:DataRanges	Label			0	lt	~Duomenų sritys...				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\ChartCommands.xcu	0	value	..ChartCommands.UserInterface.Commands..uno:DiagramData	Label			0	lt	Pavaizduoti duomenis ~diagrama...				2002-02-02 02:02:02
-officecfg	registry\data\org\openoffice\Office\UI\ChartCommands.xcu	0	value	..ChartCommands.UserInterface.Commands..uno:View3D	Label			0	lt	Trimatis ~vaizdas...				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\UI\ChartCommands.xcu	0	value	..ChartCommands.UserInterface.Commands..uno:View3D	Label			0	lt	Trimatis ~vaizdas…				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\ChartCommands.xcu	0	value	..ChartCommands.UserInterface.Commands..uno:Forward	Label			0	lt	Perkelti ~priekio link				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\ChartCommands.xcu	0	value	..ChartCommands.UserInterface.Commands..uno:Backward	Label			0	lt	Perkelti p~agrindo link				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\ChartCommands.xcu	0	value	..ChartCommands.UserInterface.Commands..uno:MainTitle	Label			0	lt	~Pagrindinis pavadinimas...				2002-02-02 02:02:02
@@ -8125,9 +8125,9 @@ officecfg	registry\data\org\openoffice\Office\UI\ChartCommands.xcu	0	value	..Cha
 officecfg	registry\data\org\openoffice\Office\UI\ChartCommands.xcu	0	value	..ChartCommands.UserInterface.Commands..uno:InsertTrendline	Label			0	lt	Įt~erpti tendencijos liniją...				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\ChartCommands.xcu	0	value	..ChartCommands.UserInterface.Commands..uno:DeleteTrendline	Label			0	lt	Šalinti t~endencijos liniją				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\ChartCommands.xcu	0	value	..ChartCommands.UserInterface.Commands..uno:InsertTrendlineEquation	Label			0	lt	Įte~rpti tendencijos linijos lygtį				2002-02-02 02:02:02
-officecfg	registry\data\org\openoffice\Office\UI\ChartCommands.xcu	0	value	..ChartCommands.UserInterface.Commands..uno:InsertTrendlineEquationAndR2	Label			0	lt	Įte~rpti tendencijos linijos lygtį				2002-02-02 02:02:02
-officecfg	registry\data\org\openoffice\Office\UI\ChartCommands.xcu	0	value	..ChartCommands.UserInterface.Commands..uno:InsertR2Value	Label			0	lt	Įterpti eilutę				2002-02-02 02:02:02
-officecfg	registry\data\org\openoffice\Office\UI\ChartCommands.xcu	0	value	..ChartCommands.UserInterface.Commands..uno:DeleteR2Value	Label			0	lt	Šalinti eilutę				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\UI\ChartCommands.xcu	0	value	..ChartCommands.UserInterface.Commands..uno:InsertTrendlineEquationAndR2	Label			0	lt	Įterpti R² ir tendencijos linijos lygtį				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\UI\ChartCommands.xcu	0	value	..ChartCommands.UserInterface.Commands..uno:InsertR2Value	Label			0	lt	Įterpti R²				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\UI\ChartCommands.xcu	0	value	..ChartCommands.UserInterface.Commands..uno:DeleteR2Value	Label			0	lt	Šalinti R²				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\ChartCommands.xcu	0	value	..ChartCommands.UserInterface.Commands..uno:DeleteTrendlineEquation	Label			0	lt	Įte~rpti tendencijos linijos lygtį				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\ChartCommands.xcu	0	value	..ChartCommands.UserInterface.Commands..uno:InsertMeanValue	Label			0	lt	Įterpti ~vidurkio liniją				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\ChartCommands.xcu	0	value	..ChartCommands.UserInterface.Commands..uno:DeleteMeanValue	Label			0	lt	Šalinti ~vidurkio liniją				2002-02-02 02:02:02
@@ -8944,7 +8944,7 @@ officecfg	registry\data\org\openoffice\Office\UI\WriterCommands.xcu	0	value	..Wr
 officecfg	registry\data\org\openoffice\Office\UI\WriterCommands.xcu	0	value	..WriterCommands.UserInterface.Commands..uno:VScroll	Label			0	lt	Vertikalioji slankjuostė				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\WriterCommands.xcu	0	value	..WriterCommands.UserInterface.Commands..uno:AddAllUnknownWords	Label			0	lt	Pridėti nežinomus žodžius				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\WriterCommands.xcu	0	value	..WriterCommands.UserInterface.Commands..uno:HScroll	Label			0	lt	Horizontalioji slankjuostė				2002-02-02 02:02:02
-officecfg	registry\data\org\openoffice\Office\UI\WriterCommands.xcu	0	value	..WriterCommands.UserInterface.Commands..uno:ChapterNumberingDialog	Label			0	lt	~Antraščių numeravimas...				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\UI\WriterCommands.xcu	0	value	..WriterCommands.UserInterface.Commands..uno:ChapterNumberingDialog	Label			0	lt	~Antraščių numeravimas…				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\WriterCommands.xcu	0	value	..WriterCommands.UserInterface.Commands..uno:ControlCodes	Label			0	lt	~Nespausdinami simboliai				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\WriterCommands.xcu	0	value	..WriterCommands.UserInterface.Commands..uno:SortDialog	Label			0	lt	~Rikiuoti...				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\WriterCommands.xcu	0	value	..WriterCommands.UserInterface.Commands..uno:Marks	Label			0	lt	L~auko fonas 				2002-02-02 02:02:02
@@ -9204,7 +9204,7 @@ officecfg	registry\data\org\openoffice\Office\UI\DrawImpressCommands.xcu	0	value
 officecfg	registry\data\org\openoffice\Office\UI\DrawImpressCommands.xcu	0	value	..DrawImpressCommands.UserInterface.Popups..uno:SnapLinesMenu	Label			0	lt	~Orientyrai				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\DrawImpressCommands.xcu	0	value	..DrawImpressCommands.UserInterface.Popups..uno:MasterPageMenu	Label			0	lt	Pa~grindas				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\DrawImpressCommands.xcu	0	value	..DrawImpressCommands.UserInterface.Popups..uno:MasterLayoutsMenu	Label			0	lt	~Pagrindo maketai				2002-02-02 02:02:02
-officecfg	registry\data\org\openoffice\Office\UI\DrawImpressCommands.xcu	0	value	..DrawImpressCommands.UserInterface.Popups..uno:MasterLayouts	Label			0	lt	Pagrindo ~elementai...				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\UI\DrawImpressCommands.xcu	0	value	..DrawImpressCommands.UserInterface.Popups..uno:MasterLayouts	Label			0	lt	Pagrindo ~elementai…				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\DrawImpressCommands.xcu	0	value	..DrawImpressCommands.UserInterface.Popups..uno:MasterLayoutsNotes	Label			0	lt	Pastabų pagrindo maketas...				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\DrawImpressCommands.xcu	0	value	..DrawImpressCommands.UserInterface.Popups..uno:MasterLayoutsHandouts	Label			0	lt	Dalijamosios medžiagos pagrindo maketas...				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\DrawImpressCommands.xcu	0	value	..DrawImpressCommands.UserInterface.Popups..uno:HeaderAndFooter	Label			0	lt	~Puslapinė antraštė ir poraštė...				2002-02-02 02:02:02
@@ -9885,7 +9885,7 @@ officecfg	registry\data\org\openoffice\Office\UI\GenericCommands.xcu	0	value	..G
 officecfg	registry\data\org\openoffice\Office\UI\GenericCommands.xcu	0	value	..GenericCommands.UserInterface.Commands..uno:HideSpellMark	Label			0	lt	Nežymėti klaidų				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\GenericCommands.xcu	0	value	..GenericCommands.UserInterface.Commands..uno:AddressBookSource	Label			0	lt	~Adresų knygelė...				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\GenericCommands.xcu	0	value	..GenericCommands.UserInterface.Commands..uno:RubyDialog	Label			0	lt	A~zijos fonetikos vadovas...				2002-02-02 02:02:02
-officecfg	registry\data\org\openoffice\Office\UI\GenericCommands.xcu	0	value	..GenericCommands.UserInterface.Commands..uno:InsertSymbol	Label			0	lt	Specialieji ~rašmenys...				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\UI\GenericCommands.xcu	0	value	..GenericCommands.UserInterface.Commands..uno:InsertSymbol	Label			0	lt	Specialieji ~rašmenys…				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\GenericCommands.xcu	0	value	..GenericCommands.UserInterface.Commands..uno:ViewDataSourceBrowser	Label			0	lt	~Duomenų šaltiniai				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\GenericCommands.xcu	0	value	..GenericCommands.UserInterface.Commands..uno:MenuBarVisible	Label			0	lt	Meniu				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\GenericCommands.xcu	0	value	..GenericCommands.UserInterface.Commands..uno:MacroRecorder	Label			0	lt	Įrašyti makrokomandą				2002-02-02 02:02:02
@@ -10410,7 +10410,7 @@ readlicense_oo	docs\readme\readme.xrm	0	readmeitem	abcdef	abcdef			0	lt	„${PRO
 readlicense_oo	docs\readme\readme.xrm	0	readmeitem	naso	naso			0	lt	Nešiojamųjų kompiuterių su „ALPS/Synaptics“ jutikliniais kilimėliais ir „Windows“ OS naudotojams				2002-02-02 02:02:02
 readlicense_oo	docs\readme\readme.xrm	0	readmeitem	naso2	naso2			0	lt	Dėl klaidos „Windows“ OS skirtoje tvarkyklėje „${PRODUCTNAME}“ dokumento negalima slinkti braukiant pirštu per „ALPS/Synaptics“ jutiklinį kilimėlį.				2002-02-02 02:02:02
 readlicense_oo	docs\readme\readme.xrm	0	readmeitem	naso6	naso6			0	lt	Jei norite naudotis jutikliniu kilimėliu dokumentui slinkti, įrašykite šias eilutes į „C:\Program Files\Synaptics\SynTP\SynTPEnh.ini“ sąrankos failą ir iš naujo paleiskite kompiuterį:				2002-02-02 02:02:02
-readlicense_oo	docs\readme\readme.xrm	0	readmeitem	naso8	naso8			0	lt	Pastaba: Sąrankos failo vieta gali skirtis priklausomai nuo naudojamos „Windows“ OS versijos.				2002-02-02 02:02:02
+readlicense_oo	docs\readme\readme.xrm	0	readmeitem	naso8	naso8			0	lt	Sąrankos failo vieta gali skirtis priklausomai nuo naudojamos „Windows“ OS versijos.				2002-02-02 02:02:02
 readlicense_oo	docs\readme\readme.xrm	0	readmeitem	sdfsd32asrc	sdfsd32asrc			0	lt	„Mozilla“ adresų knygelės tvarkyklė				2002-02-02 02:02:02
 readlicense_oo	docs\readme\readme.xrm	0	readmeitem	sdcc32asrc	sdcc32asrc			0	lt	Norint naudotis „Mozilla“ adresų knygelės tvarkykle reikia turėti „SUNWzlib“ paketą. Pastarasis neįdiegiamas minimalaus operacinės sistemos „Soliaris“ diegimo metu. Jei norite naudotis „Mozilla“ adresų knygele, komanda „pkgadd“ įdiekite šį paketą į operacinę sistemą „Solaris“ iš kompaktinės plokštelės.				2002-02-02 02:02:02
 readlicense_oo	docs\readme\readme.xrm	0	readmeitem	awe1	awe1			0	lt	Spartieji klavišai				2002-02-02 02:02:02
@@ -11203,7 +11203,7 @@ sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_GD
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_GDA	8			0	lt	laikotarpis				2002-02-02 02:02:02
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_GDA	9			0	lt	Turto nusidėvėjimo laikotarpis toks pat, kap ir naudojimo laikotarpis				2002-02-02 02:02:02
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_GDA	10			0	lt	koeficientas				2002-02-02 02:02:02
-sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_GDA	11			0	lt	Balansinės vertės mažėjimo norma. Norma lygi dviem reiškia turto vertė sumažėjo du kartus				2002-02-02 02:02:02
+sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_GDA	11			0	lt	Balansinės vertės mažėjimo norma. Norma lygi dviem reiškia, kad turto vertė sumažėjo du kartus				2002-02-02 02:02:02
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_GDA_2	1			0	lt	Apskaičiuoja turto nusidėvėjimą per duotą laikotarpį naudojant pastovaus nusidėvėjimo metodą				2002-02-02 02:02:02
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_GDA_2	2			0	lt	vertė				2002-02-02 02:02:02
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_GDA_2	3			0	lt	Pradinė turto vertė.				2002-02-02 02:02:02
@@ -11227,7 +11227,7 @@ sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_VB
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_VBD	10			0	lt	paskutinis laikotarpis				2002-02-02 02:02:02
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_VBD	11			0	lt	Paskutinis nusidėvėjimo laikotarpis tokiais pačiais vienetais, kaip ir naudojimo laikotarpis				2002-02-02 02:02:02
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_VBD	12			0	lt	koeficientas				2002-02-02 02:02:02
-sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_VBD	13			0	lt	Balansinės vertės mažėjimo norma. Norma lygi dviem reiškia turto vertė sumažėjo du kartus.				2002-02-02 02:02:02
+sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_VBD	13			0	lt	Balansinės vertės mažėjimo norma. Norma lygi dviem reiškia, kad turto vertė sumažėjo du kartus.				2002-02-02 02:02:02
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_VBD	14			0	lt	Tipas				2002-02-02 02:02:02
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_VBD	15			0	lt	Loginė reikšmė, kuri lygi 1, kai perjungiama į tiesinį nusidėvėjimą, ir lygi 0, kai neperjungiama				2002-02-02 02:02:02
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_EFFEKTIV	1			0	lt	Apskaičiuoja faktinių metų procentus nominaliai palūkanų normai				2002-02-02 02:02:02
@@ -11244,7 +11244,7 @@ sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_NB
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_NBW	2			0	lt	norma				2002-02-02 02:02:02
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_NBW	3			0	lt	Vieno laikotarpio apskaitos norma.				2002-02-02 02:02:02
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_NBW	4			0	lt	reikšmė 				2002-02-02 02:02:02
-sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_NBW	5			0	lt	Reikšmė 1, reikšmė 2,... reikšmė 30 - dydžiai nusakantys išmokas ir įmokas.				2002-02-02 02:02:02
+sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_NBW	5			0	lt	Reikšmė 1, reikšmė 2,... reikšmė 30 - dydžiai, nusakantys išmokas ir įmokas.				2002-02-02 02:02:02
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_IKV	1			0	lt	Apskaičiuoja indėlio apyvartos statistinę normą				2002-02-02 02:02:02
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_IKV	2			0	lt	reikšmės				2002-02-02 02:02:02
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_IKV	3			0	lt	Masyvas arba nuoroda į langelius, kurių turinys atitinka išmokas. 				2002-02-02 02:02:02
@@ -11357,10 +11357,10 @@ sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_SU
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_SUM	3			0	lt	Skaičius 1, skaičius 2, ... skaičius 30 - argumentai, kuriu suma skaičiuojama.				2002-02-02 02:02:02
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_SUM_SQ	1			0	lt	Rezultatas yra argumentų kvadratų suma				2002-02-02 02:02:02
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_SUM_SQ	2			0	lt	skaičius 				2002-02-02 02:02:02
-sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_SUM_SQ	3			0	lt	Skaičius 1, skaičius 2, ... skaičius 30 - argumentai, kuriu kvadratu suma skaičiuojama.				2002-02-02 02:02:02
+sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_SUM_SQ	3			0	lt	Skaičius 1, skaičius 2, ... skaičius 30 - argumentai, kurių kvadratų suma skaičiuojama.				2002-02-02 02:02:02
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_PRODUCT	1			0	lt	Argumentų daugyba				2002-02-02 02:02:02
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_PRODUCT	2			0	lt	skaičius 				2002-02-02 02:02:02
-sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_PRODUCT	3			0	lt	Skaičius 1, skaičius 2, ... skaičius 30 - argumentai, kuriu sandauga skaičiuojama.				2002-02-02 02:02:02
+sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_PRODUCT	3			0	lt	Skaičius 1, skaičius 2, ... skaičius 30 - argumentai, kurių sandauga skaičiuojama.				2002-02-02 02:02:02
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_SUM_IF	1			0	lt	Argumentų, tenkinančių sąlygas, skaičius				2002-02-02 02:02:02
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_SUM_IF	2			0	lt	sritis				2002-02-02 02:02:02
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_SUM_IF	3			0	lt	Langelių sritis, tenkinanti duotą kriterijų.				2002-02-02 02:02:02
@@ -11609,19 +11609,19 @@ sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_GR
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_GROWTH	9			0	lt	Jei reikšmė lygi 0, tai apskaičiuojama funkcija y=m^x, kitais atvejais – funkcija y=b*m^x.				2002-02-02 02:02:02
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_COUNT	1			0	lt	Suskaičiuoja, kiek skaičių yra elementų sąraše				2002-02-02 02:02:02
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_COUNT	2			0	lt	reikšmė 				2002-02-02 02:02:02
-sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_COUNT	3			0	lt	Reikšmė 1, reikšmė 2,..., reikšmė 30 - elementai apimantys skirtingus duomenų tipus, kuriuos norima suskaičiuoti. 				2002-02-02 02:02:02
+sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_COUNT	3			0	lt	Reikšmė 1, reikšmė 2,..., reikšmė 30 - elementai, apimantys skirtingus duomenų tipus, kuriuos norima suskaičiuoti.				2002-02-02 02:02:02
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_COUNT_2	1			0	lt	Suskaičiuoja, kiek reikšmių yra elementų sąraše				2002-02-02 02:02:02
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_COUNT_2	2			0	lt	reikšmė 				2002-02-02 02:02:02
-sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_COUNT_2	3			0	lt	Reikšmė 1, reikšmė 2,..., reikšmė 30 - elementai nusakantys reikšmes, kuriuos norima suskaičiuoti. 				2002-02-02 02:02:02
+sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_COUNT_2	3			0	lt	Reikšmė 1, reikšmė 2,..., reikšmė 30 - elementai nusakantys reikšmes, kurias norima suskaičiuoti.				2002-02-02 02:02:02
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_MAX	1			0	lt	Rezultatas yra didžiausia elementų sąrašo reikšmė 				2002-02-02 02:02:02
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_MAX	2			0	lt	skaičius 				2002-02-02 02:02:02
-sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_MAX	3			0	lt	Skaičius 1, skaičius 2, ..., skaičius 30 - skaitmeniniai elementai, iš kurių išrenkamas didžiausias. 				2002-02-02 02:02:02
+sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_MAX	3			0	lt	Skaičius 1, skaičius 2, ..., skaičius 30 - skaitmeniniai elementai, iš kurių išrenkamas didžiausias.				2002-02-02 02:02:02
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_MAX_A	1			0	lt	Rezultatas yra didžiausia elementų sąrašo reikšmė. Tekstas prilyginamas nuliui. 				2002-02-02 02:02:02
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_MAX_A	2			0	lt	reikšmė 				2002-02-02 02:02:02
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_MAX_A	3			0	lt	Reikšmė 1, reikšmė 2, ..., reikšmė 30 - elementai, iš kurių išrenkama didžiausia reikšmė. 				2002-02-02 02:02:02
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_MIN	1			0	lt	Rezultatas yra mažiausia elementų sąrašo reikšmė				2002-02-02 02:02:02
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_MIN	2			0	lt	skaičius 				2002-02-02 02:02:02
-sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_MIN	3			0	lt	Skaičius 1, skaičius 2, ..., skaičius 30 - skaitmeniniai elementai, iš kurių išrenkamas mažiausias.  				2002-02-02 02:02:02
+sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_MIN	3			0	lt	Skaičius 1, skaičius 2, ..., skaičius 30 - skaitiniai elementai, iš kurių išrenkamas mažiausias.  				2002-02-02 02:02:02
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_MIN_A	1			0	lt	Rezultatas yra mažiausia elementų sąrašo reikšmė. Tekstas prilyginamas nuliui.  				2002-02-02 02:02:02
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_MIN_A	2			0	lt	reikšmė 				2002-02-02 02:02:02
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_MIN_A	3			0	lt	Reikšmė 1, reikšmė 2, ..., reikšmė 30 - elementai, iš kurių išrenkama mažiausia reikšmė.				2002-02-02 02:02:02
@@ -11633,10 +11633,10 @@ sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_VA
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_VAR_A	3			0	lt	Reikšmė 1; reikšmė 2; ...; reikšmė 30 - elementai, nusakantys visos pagrindinės populiacijos imtį.				2002-02-02 02:02:02
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_VAR_P	1			0	lt	Apskaičiuoja dispersiją visos populiacijos pagrindu				2002-02-02 02:02:02
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_VAR_P	2			0	lt	skaičius 				2002-02-02 02:02:02
-sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_VAR_P	3			0	lt	Skaičius 1, skaičius 2, ..., skaičius 30 - skaitiniai elementai nusakantys populiaciją. 				2002-02-02 02:02:02
+sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_VAR_P	3			0	lt	Skaičius 1, skaičius 2, ..., skaičius 30 - skaitiniai elementai, nusakantys populiaciją. 				2002-02-02 02:02:02
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_VAR_P_A	1			0	lt	Rezultatas yra dispersija visos populiacijos pagrindu. Tekstas prilyginamas nuliui.  				2002-02-02 02:02:02
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_VAR_P_A	2			0	lt	reikšmė 				2002-02-02 02:02:02
-sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_VAR_P_A	3			0	lt	Reikšmė 1; reikšmė 2; ...; reikšmė 30 - elementai nusakantys populiaciją. 				2002-02-02 02:02:02
+sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_VAR_P_A	3			0	lt	Reikšmė 1; reikšmė 2; ...; reikšmė 30 - elementai, nusakantys populiaciją. 				2002-02-02 02:02:02
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_ST_DEV	1			0	lt	Apskaičiuoja standartinį imties nuokrypį				2002-02-02 02:02:02
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_ST_DEV	2			0	lt	skaičius 				2002-02-02 02:02:02
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_ST_DEV	3			0	lt	Skaičius 1, skaičius 2, ..., skaičius 30 - skaitiniai elementai, nusakantys populiacijos imtį.				2002-02-02 02:02:02
@@ -11648,10 +11648,10 @@ sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_ST
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_ST_DEV_P	3			0	lt	Skaičius 1, skaičius 2, ..., skaičius 30 - skaitiniai elementai, nusakantys populiacijos imtį.				2002-02-02 02:02:02
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_ST_DEV_P_A	1			0	lt	Rezultatas yra standartinis nuokrypis visos populiacijos pagrindu. Tekstas prilyginamas nuliui. 				2002-02-02 02:02:02
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_ST_DEV_P_A	2			0	lt	reikšmė 				2002-02-02 02:02:02
-sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_ST_DEV_P_A	3			0	lt	Reikšmė 1; reikšmė 2;...; reikšmė 30 - elementai priklausantys populiacijai. 				2002-02-02 02:02:02
+sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_ST_DEV_P_A	3			0	lt	Reikšmė 1; reikšmė 2;...; reikšmė 30 - elementai, priklausantys populiacijai. 				2002-02-02 02:02:02
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_AVERAGE	1			0	lt	Rezultatas yra imties vidurkis				2002-02-02 02:02:02
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_AVERAGE	2			0	lt	skaičius 				2002-02-02 02:02:02
-sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_AVERAGE	3			0	lt	Skaičius 1, skaičius 2, ..., skaičius 30 - skaitiniai elementai nusakantys populiacijos imtį. 				2002-02-02 02:02:02
+sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_AVERAGE	3			0	lt	Skaičius 1, skaičius 2, ..., skaičius 30 - skaitiniai elementai, nusakantys populiacijos imtį.				2002-02-02 02:02:02
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_AVERAGE_A	1			0	lt	Rezultatas yra imties vidurkio reikšmė. Tekstas prilyginamas nuliui.  				2002-02-02 02:02:02
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_AVERAGE_A	2			0	lt	reikšmė 				2002-02-02 02:02:02
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_AVERAGE_A	3			0	lt	Reikšmė 1; reikšmė 2; ...; reikšmė 30 - elementai, nusakantys visos pagrindinės populiacijos imtį.				2002-02-02 02:02:02
@@ -11663,10 +11663,10 @@ sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_AV
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_AVE_DEV	3			0	lt	Skaičius 1, skaičius 2, ..., skaičius 30 - skaitiniai elementai nusakantys imtį. 				2002-02-02 02:02:02
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_SCHIEFE	1			0	lt	Rezultatas yra pasiskirstymo pražulnumas				2002-02-02 02:02:02
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_SCHIEFE	2			0	lt	skaičius 				2002-02-02 02:02:02
-sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_SCHIEFE	3			0	lt	Skaičius 1, skaičius 2, ..., skaičius 30 - skaitiniai elementai nusakantys pasiskirstymo imtį.				2002-02-02 02:02:02
+sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_SCHIEFE	3			0	lt	Skaičius 1, skaičius 2, ..., skaičius 30 - skaitiniai elementai, nusakantys pasiskirstymo imtį.				2002-02-02 02:02:02
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_KURT	1			0	lt	Rezultatas yra pasiskirstymo ekscesas				2002-02-02 02:02:02
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_KURT	2			0	lt	skaičius 				2002-02-02 02:02:02
-sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_KURT	3			0	lt	Skaičius 1, skaičius 2, ..., skaičius 30 - skaitiniai elementai, nusakantys pasiskirstymo imtį. 				2002-02-02 02:02:02
+sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_KURT	3			0	lt	Skaičius 1, skaičius 2, ..., skaičius 30 - skaitiniai elementai, nusakantys pasiskirstymo imtį.				2002-02-02 02:02:02
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_GEO_MEAN	1			0	lt	Rezultatas yra geometrinis imties vidurkis				2002-02-02 02:02:02
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_GEO_MEAN	2			0	lt	skaičius 				2002-02-02 02:02:02
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_GEO_MEAN	3			0	lt	Skaičius 1, skaičius 2, ..., skaičius 30 - skaitiniai elementai, nusakantys imtį.				2002-02-02 02:02:02
@@ -11948,7 +11948,7 @@ sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_VA
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_VARIATIONEN_2	3			0	lt	Visų elementų skaičius.				2002-02-02 02:02:02
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_VARIATIONEN_2	4			0	lt	skaičius_2				2002-02-02 02:02:02
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_VARIATIONEN_2	5			0	lt	Kiekvieno perstatymo elementų skaičius.				2002-02-02 02:02:02
-sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_CONFIDENCE	1			0	lt	Rezultatas yra tikėtinas intervalas normaliajam pasiskirstymui				2002-02-02 02:02:02
+sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_CONFIDENCE	1			0	lt	Rezultatas yra tikėtinas intervalas normaliajam pasiskirstymui.				2002-02-02 02:02:02
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_CONFIDENCE	2			0	lt	alfa				2002-02-02 02:02:02
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_CONFIDENCE	3			0	lt	Reikšmingumo lygis naudojamas tikėtinumo laipsniui apskaičiuoti.				2002-02-02 02:02:02
 sc	source\ui\src\scfuncs.src	0	string	RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_CONFIDENCE	4			0	lt	STDEV				2002-02-02 02:02:02
@@ -15371,7 +15371,7 @@ sd	source\ui\app\menuids_tmpl.src	0	menuitem	MN_LINESPACING_ATTR.DUMMY+1	SID_ATT
 sd	source\ui\app\menuids_tmpl.src	0	menuitem	MN_LINESPACING_ATTR.DUMMY+1	SID_ATTR_PARA_LINESPACE_15	SID_ATTR_PARA_LINESPACE_15		0	lt	1,5 eilutės				2002-02-02 02:02:02
 sd	source\ui\app\menuids_tmpl.src	0	menuitem	MN_LINESPACING_ATTR.DUMMY+1	SID_ATTR_PARA_LINESPACE_20	SID_ATTR_PARA_LINESPACE_20		0	lt	~Dvigubas				2002-02-02 02:02:02
 sd	source\ui\app\menuids_tmpl.src	0	menuitem	MN_LINESPACING_ATTR	DUMMY+1			0	lt	~Eilučių intervalas				2002-02-02 02:02:02
-sd	source\ui\app\menuids_tmpl.src	0	menuitem	MN_BULLET	SID_CHARMAP	SID_CHARMAP		0	lt	~Specialieji rašmenys...				2002-02-02 02:02:02
+sd	source\ui\app\menuids_tmpl.src	0	menuitem	MN_BULLET	SID_CHARMAP	SID_CHARMAP		0	lt	~Specialieji rašmenys…				2002-02-02 02:02:02
 sd	source\ui\app\menuids_tmpl.src	0	menuitem	MN_TEXT_ALIGN.DUMMY+2	SID_ATTR_PARA_ADJUST_LEFT	SID_ATTR_PARA_ADJUST_LEFT		0	lt	~Kairinė				2002-02-02 02:02:02
 sd	source\ui\app\menuids_tmpl.src	0	menuitem	MN_TEXT_ALIGN.DUMMY+2	SID_ATTR_PARA_ADJUST_RIGHT	SID_ATTR_PARA_ADJUST_RIGHT		0	lt	~Dešininė				2002-02-02 02:02:02
 sd	source\ui\app\menuids_tmpl.src	0	menuitem	MN_TEXT_ALIGN.DUMMY+2	SID_ATTR_PARA_ADJUST_CENTER	SID_ATTR_PARA_ADJUST_CENTER		0	lt	~Centrinė				2002-02-02 02:02:02
@@ -17537,7 +17537,7 @@ starmath	source\smres.src	0	toolboxitem	RID_TOOLBOXWINDOW.10	RID_ATTRIBUTES_CAT	
 starmath	source\smres.src	0	toolboxitem	RID_TOOLBOXWINDOW.10	RID_MISC_CAT	HID_SMA_MISC_CAT		0	lt	Simboliai				2002-02-02 02:02:02
 starmath	source\smres.src	0	toolboxitem	RID_TOOLBOXWINDOW.10	RID_BRACKETS_CAT	HID_SMA_BRACKETS_CAT		0	lt	Skliaustai				2002-02-02 02:02:02
 starmath	source\smres.src	0	toolboxitem	RID_TOOLBOXWINDOW.10	RID_FORMAT_CAT	HID_SMA_FORMAT_CAT		0	lt	Simbolio padėtys				2002-02-02 02:02:02
-starmath	source\smres.src	0	floatingwindow	RID_TOOLBOXWINDOW		HID_SMA_OPERATOR_WIN		0	lt	priklauso				2002-02-02 02:02:02
+starmath	source\smres.src	0	floatingwindow	RID_TOOLBOXWINDOW		HID_SMA_OPERATOR_WIN		0	lt	Ženklai				2002-02-02 02:02:02
 starmath	source\smres.src	0	#define	CMDBOXWINDOW_TEXT				0	lt	Komandos				2002-02-02 02:02:02
 starmath	source\smres.src	0	string	RID_DOCUMENTSTR				0	lt	Formulė				2002-02-02 02:02:02
 starmath	source\smres.src	0	string	STR_STATSTR_READING				0	lt	Įkeliamas dokumentas...				2002-02-02 02:02:02
@@ -19085,7 +19085,7 @@ svx	source\svdraw\svdstr.src	0	string	STR_EditShear				0	lt	%O: iškraipyti (nuo
 svx	source\svdraw\svdstr.src	0	string	STR_EditCrook				0	lt	%O: išdėstyti apskritime				2002-02-02 02:02:02
 svx	source\svdraw\svdstr.src	0	string	STR_EditCrookContortion				0	lt	%O: išvingiuoti apskritime				2002-02-02 02:02:02
 svx	source\svdraw\svdstr.src	0	string	STR_EditDistort				0	lt	%O: iškraipyti				2002-02-02 02:02:02
-svx	source\svdraw\svdstr.src	0	string	STR_EditRipUp				0	lt	Atšaukti: %O				2002-02-02 02:02:02
+svx	source\svdraw\svdstr.src	0	string	STR_EditRipUp				0	lt	Atšaukti: %1				2002-02-02 02:02:02
 svx	source\svdraw\svdstr.src	0	string	STR_EditSetPointsSmooth				0	lt	%O: pakeisti Bezjė savybes				2002-02-02 02:02:02
 svx	source\svdraw\svdstr.src	0	string	STR_EditSetSegmentsKind				0	lt	%O: pakeisti Bezjė savybes				2002-02-02 02:02:02
 svx	source\svdraw\svdstr.src	0	string	STR_EditShut				0	lt	%O: užverti				2002-02-02 02:02:02
@@ -22172,19 +22172,19 @@ sw	source\ui\frmdlg\frmui.src	0	infobox	MSG_COLUMN_ERR_BOUNDWIDTH				0	lt	Interv
 sw	source\ui\inc\toolbox_tmpl.hrc	0	toolboxitem	MN_TEXT_BACKGROUND	Paragraph Background		!defined _TOOLBOX_HRC	0	lt	Pastraipos fonas				2002-02-02 02:02:02
 sw	source\ui\inc\toolbox_tmpl.hrc	0	toolboxitem	MN_ATTRIBUTES_GRAFIK	FN_FORMAT_FRAME_DLG	FN_FORMAT_GRAFIC_DLG	!defined _TOOLBOX_HRC	0	lt	Paveikslo savybės				2002-02-02 02:02:02
 sw	source\ui\inc\toolbox_tmpl.hrc	0	toolboxitem	MN_ATTRIBUTES_OLE	FN_FORMAT_FRAME_DLG	FN_FORMAT_FRAME_DLG	!defined _TOOLBOX_HRC	0	lt	Objekto savybės				2002-02-02 02:02:02
-sw	source\ui\inc\swmn_tmpl.hrc	0	menuitem	MN_TXT	FN_FORMAT_PAGE_DLG	FN_FORMAT_PAGE_DLG	!defined _SWMN_HRC	0	lt	P~uslapis...				2002-02-02 02:02:02
+sw	source\ui\inc\swmn_tmpl.hrc	0	menuitem	MN_TXT	FN_FORMAT_PAGE_DLG	FN_FORMAT_PAGE_DLG	!defined _SWMN_HRC	0	lt	~Puslapis…				2002-02-02 02:02:02
 sw	source\ui\inc\swmn_tmpl.hrc	0	menuitem	MN_TEXT_ATTR.MN_FORMAT_STYLE	FN_SET_SUPER_SCRIPT	FN_SET_SUPER_SCRIPT	!defined _SWMN_HRC	0	lt	Viršutinis indeksas				2002-02-02 02:02:02
 sw	source\ui\inc\swmn_tmpl.hrc	0	menuitem	MN_TEXT_ATTR.MN_FORMAT_STYLE	FN_SET_SUB_SCRIPT	FN_SET_SUB_SCRIPT	!defined _SWMN_HRC	0	lt	Apatinis indeksas				2002-02-02 02:02:02
-sw	source\ui\inc\swmn_tmpl.hrc	0	menuitem	MN_TEXT_ATTR	MN_FORMAT_STYLE	MN_FORMAT_STYLE	!defined _SWMN_HRC	0	lt	St~ilius				2002-02-02 02:02:02
+sw	source\ui\inc\swmn_tmpl.hrc	0	menuitem	MN_TEXT_ATTR	MN_FORMAT_STYLE	MN_FORMAT_STYLE	!defined _SWMN_HRC	0	lt	S~tilius				2002-02-02 02:02:02
 sw	source\ui\inc\swmn_tmpl.hrc	0	menuitem	MN_TEXT_ATTR.MN_FORMAT_ALGN	SID_ATTR_PARA_ADJUST_BLOCK	SID_ATTR_PARA_ADJUST_BLOCK	!defined _SWMN_HRC	0	lt	Abipusė				2002-02-02 02:02:02
 sw	source\ui\inc\swmn_tmpl.hrc	0	menuitem	MN_TEXT_ATTR	MN_FORMAT_ALGN	MN_FORMAT_ALGN	!defined _SWMN_HRC	0	lt	~Lygiuotė				2002-02-02 02:02:02
 sw	source\ui\inc\swmn_tmpl.hrc	0	menuitem	MN_TEXT_ATTR	MN_FORMAT_LINESPACE	MN_FORMAT_LINESPACE	!defined _SWMN_HRC	0	lt	Eilučių intervalas				2002-02-02 02:02:02
-sw	source\ui\inc\swmn_tmpl.hrc	0	menuitem	_MN_EDIT_FIELD	FN_EDIT_FIELD	FN_EDIT_FIELD	!defined _SWMN_HRC	0	lt	Laukai...				2002-02-02 02:02:02
-sw	source\ui\inc\swmn_tmpl.hrc	0	menuitem	_MN_EDIT_FIELD._MN_EDIT_FOOTNOTE	FN_EDIT_IDX_ENTRY_DLG	FN_EDIT_IDX_ENTRY_DLG	!defined _SWMN_HRC	0	lt	~Rodyklės įrašas...				2002-02-02 02:02:02
-sw	source\ui\inc\swmn_tmpl.hrc	0	menuitem	_MN_EDIT_REDLINE._MN_EDIT_BIB_ENTRY_DLG	FN_EDIT_AUTH_ENTRY_DLG	FN_EDIT_AUTH_ENTRY_DLG	!defined _SWMN_HRC	0	lt	~Bibliografijos įrašas...				2002-02-02 02:02:02
-sw	source\ui\inc\swmn_tmpl.hrc	0	menuitem	MN_RESET	FN_FORMAT_RESET	FN_FORMAT_RESET	!defined _SWMN_HRC	0	lt	~Numatytasis formatavimas				2002-02-02 02:02:02
+sw	source\ui\inc\swmn_tmpl.hrc	0	menuitem	_MN_EDIT_FIELD	FN_EDIT_FIELD	FN_EDIT_FIELD	!defined _SWMN_HRC	0	lt	Laukai…				2002-02-02 02:02:02
+sw	source\ui\inc\swmn_tmpl.hrc	0	menuitem	_MN_EDIT_FIELD._MN_EDIT_FOOTNOTE	FN_EDIT_IDX_ENTRY_DLG	FN_EDIT_IDX_ENTRY_DLG	!defined _SWMN_HRC	0	lt	~Rodyklės įrašas…				2002-02-02 02:02:02
+sw	source\ui\inc\swmn_tmpl.hrc	0	menuitem	_MN_EDIT_REDLINE._MN_EDIT_BIB_ENTRY_DLG	FN_EDIT_AUTH_ENTRY_DLG	FN_EDIT_AUTH_ENTRY_DLG	!defined _SWMN_HRC	0	lt	~Bibliografijos įrašas…				2002-02-02 02:02:02
+sw	source\ui\inc\swmn_tmpl.hrc	0	menuitem	MN_RESET	FN_FORMAT_RESET	FN_FORMAT_RESET	!defined _SWMN_HRC	0	lt	~Numatytasis formatas				2002-02-02 02:02:02
 sw	source\ui\inc\swmn_tmpl.hrc	0	menuitem	_NUMBERING_RELATED_MENU	FN_NUMBER_NEWSTART	FN_NUMBER_NEWSTART	!defined _SWMN_HRC	0	lt	Numeruoti iš naujo				2002-02-02 02:02:02
-sw	source\ui\inc\swmn_tmpl.hrc	0	menuitem	_NUMBERING_RELATED_MENU	FN_NUM_CONTINUE	FN_NUM_CONTINUE	!defined _SWMN_HRC	0	lt	Tęsti ankstesnį numeravimą				2002-02-02 02:02:02
+sw	source\ui\inc\swmn_tmpl.hrc	0	menuitem	_NUMBERING_RELATED_MENU	FN_NUM_CONTINUE	FN_NUM_CONTINUE	!defined _SWMN_HRC	0	lt	Tęsti ankstesnę numeravimo seką				2002-02-02 02:02:02
 sw	source\ui\inc\swmn_tmpl.hrc	0	menuitem	_NUMBERING_RELATED_MENU	FN_NUM_BULLET_UP	FN_NUM_BULLET_UP	!defined _SWMN_HRC	0	lt	Vienu lygiu aukštyn				2002-02-02 02:02:02
 sw	source\ui\inc\swmn_tmpl.hrc	0	menuitem	_NUMBERING_RELATED_MENU	FN_NUM_BULLET_DOWN	FN_NUM_BULLET_DOWN	!defined _SWMN_HRC	0	lt	Vienu lygiu žemyn				2002-02-02 02:02:02
 sw	source\ui\inc\swmn_tmpl.hrc	0	menuitem	BASE_TEXT_POPUPMENU_NOWEB	FN_UPDATE_CUR_TOX	FN_UPDATE_CUR_TOX	!defined _SWMN_HRC	0	lt	~Atnaujinti rodyklę arba turinį				2002-02-02 02:02:02
@@ -23096,8 +23096,8 @@ sw	source\ui\utlui\poolfmt.src	0	string	STR_POOLCOLL_TOX_TABLESH				0	lt	Lenteli
 sw	source\ui\utlui\poolfmt.src	0	string	STR_POOLCOLL_TOX_TABLES1				0	lt	Lentelių rodyklė 1				2002-02-02 02:02:02
 sw	source\ui\utlui\poolfmt.src	0	string	STR_POOLCOLL_TOX_AUTHORITIESH				0	lt	Bibliografijos antraštė				2002-02-02 02:02:02
 sw	source\ui\utlui\poolfmt.src	0	string	STR_POOLCOLL_TOX_AUTHORITIES1				0	lt	Bibliografija 1				2002-02-02 02:02:02
-sw	source\ui\utlui\poolfmt.src	0	string	STR_POOLCOLL_DOC_TITEL				0	lt	Antraštė				2002-02-02 02:02:02
-sw	source\ui\utlui\poolfmt.src	0	string	STR_POOLCOLL_DOC_SUBTITEL				0	lt	Paantraštė				2002-02-02 02:02:02
+sw	source\ui\utlui\poolfmt.src	0	string	STR_POOLCOLL_DOC_TITEL				0	lt	Dokumento antraštė				2002-02-02 02:02:02
+sw	source\ui\utlui\poolfmt.src	0	string	STR_POOLCOLL_DOC_SUBTITEL				0	lt	Dokumento paantraštė				2002-02-02 02:02:02
 sw	source\ui\utlui\poolfmt.src	0	string	STR_POOLCOLL_HTML_BLOCKQUOTE				0	lt	Citatos				2002-02-02 02:02:02
 sw	source\ui\utlui\poolfmt.src	0	string	STR_POOLCOLL_HTML_PRE				0	lt	Nurodyto formato tekstas				2002-02-02 02:02:02
 sw	source\ui\utlui\poolfmt.src	0	string	STR_POOLCOLL_HTML_HR				0	lt	Horizontali linija				2002-02-02 02:02:02
@@ -23128,7 +23128,7 @@ sw	source\ui\utlui\initui.src	0	string	RID_SW_SHELLRES	STR_POSTIT_PAGE			0	lt	Pu
 sw	source\ui\utlui\initui.src	0	string	RID_SW_SHELLRES	STR_POSTIT_LINE			0	lt	Eilutė				2002-02-02 02:02:02
 sw	source\ui\utlui\initui.src	0	string	RID_SW_SHELLRES	STR_POSTIT_AUTHOR			0	lt	Autorius				2002-02-02 02:02:02
 sw	source\ui\utlui\initui.src	0	string	RID_SW_SHELLRES	STR_CALC_SYNTAX			0	lt	** Sintaksės klaida **				2002-02-02 02:02:02
-sw	source\ui\utlui\initui.src	0	string	RID_SW_SHELLRES	STR_CALC_ZERODIV			0	lt	** Dalyba iš nulio  **				2002-02-02 02:02:02
+sw	source\ui\utlui\initui.src	0	string	RID_SW_SHELLRES	STR_CALC_ZERODIV			0	lt	** Dalyba iš nulio **				2002-02-02 02:02:02
 sw	source\ui\utlui\initui.src	0	string	RID_SW_SHELLRES	STR_CALC_BRACK			0	lt	** Neteisingas skliaustų naudojimas**				2002-02-02 02:02:02
 sw	source\ui\utlui\initui.src	0	string	RID_SW_SHELLRES	STR_CALC_POW			0	lt	** Kvadratinės funkcijos perpildymas **				2002-02-02 02:02:02
 sw	source\ui\utlui\initui.src	0	string	RID_SW_SHELLRES	STR_CALC_VARNFND			0	lt	** Kintamojo nerasta **				2002-02-02 02:02:02
@@ -24062,7 +24062,7 @@ vcl	source\src\helptext.src	0	string	SV_HELPTEXT_SPLITFIXED				0	lt	Įtvirtintas
 vcl	source\src\helptext.src	0	string	SV_SHORTCUT_HELP				0	lt	Žinynas				2002-02-02 02:02:02
 vcl	source\src\helptext.src	0	string	SV_SHORTCUT_CONTEXTHELP				0	lt	Kontekstinis žinynas				2002-02-02 02:02:02
 vcl	source\src\helptext.src	0	string	SV_SHORTCUT_ACTIVEHELP				0	lt	Išplėstiniai paaiškinimai				2002-02-02 02:02:02
-vcl	source\src\helptext.src	0	string	SV_SHORTCUT_DOCKUNDOCK				0	lt	Pritvirtinti (nepritvirtinti) langus				2002-02-02 02:02:02
+vcl	source\src\helptext.src	0	string	SV_SHORTCUT_DOCKUNDOCK				0	lt	Pritvirtinti (atlaisvinti) langus				2002-02-02 02:02:02
 vcl	source\src\helptext.src	0	string	SV_SHORTCUT_NEXTSUBWINDOW				0	lt	Į kitą priemonių juostą (langą)				2002-02-02 02:02:02
 vcl	source\src\helptext.src	0	string	SV_SHORTCUT_PREVSUBWINDOW				0	lt	Į ankstesniąją priemonių juostą (langą)				2002-02-02 02:02:02
 vcl	source\src\helptext.src	0	string	SV_SHORTCUT_TODOCUMENT				0	lt	Į dokumentą				2002-02-02 02:02:02
@@ -24788,7 +24788,7 @@ wizards	source\euro\euro.src	0	string	STEP_AUTOPILOT + 10				0	lt	Konvertuoti la
 wizards	source\euro\euro.src	0	string	STATUSLINE				0	lt	Konvertavimo būsena: 				2002-02-02 02:02:02
 wizards	source\euro\euro.src	0	string	STATUSLINE + 1				0	lt	Langelių šablonų konvertavimo būsena:				2002-02-02 02:02:02
 wizards	source\euro\euro.src	0	string	STATUSLINE + 2				0	lt	Tinkamų rėžių registracija: lakštas %1Number%1 iš %2TotPageCount%2				2002-02-02 02:02:02
-wizards	source\euro\euro.src	0	string	STATUSLINE + 3				0	lt	Konvertuojamų rėžių elementai...				2002-02-02 02:02:02
+wizards	source\euro\euro.src	0	string	STATUSLINE + 3				0	lt	Konvertuojamų rėžių elementai…				2002-02-02 02:02:02
 wizards	source\euro\euro.src	0	string	STATUSLINE + 4				0	lt	Kiekvieno lakšto apsauga bus atkurta...				2002-02-02 02:02:02
 wizards	source\euro\euro.src	0	string	STATUSLINE + 5				0	lt	Valiutos vienetų konvertavimas langelių šablonuose...				2002-02-02 02:02:02
 wizards	source\euro\euro.src	0	string	MESSAGES				0	lt	~Baigti				2002-02-02 02:02:02
@@ -25288,7 +25288,7 @@ sc	source\ui\src\sortdlg.src	0	checkbox	RID_SCPAGE_SORT_OPTIONS	BTN_NATURALSORT	
 officecfg	registry\data\org\openoffice\Office\UI\ImpressWindowState.xcu	0	value	..ImpressWindowState.UIElements.States.private:resource/toolpanel/DrawingFramework/MasterPages	UIName			0	lt	Pagrindai				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\ImpressWindowState.xcu	0	value	..ImpressWindowState.UIElements.States.private:resource/toolbar/findbar	UIName			0	lt	Paieška				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\WriterCommands.xcu	0	value	..WriterCommands.UserInterface.Commands..uno:TitlePageDialog	Label			0	lt	Antraštinis puslapis…				2002-02-02 02:02:02
-officecfg	registry\data\org\openoffice\Office\UI\MathCommands.xcu	0	value	..MathCommands.UserInterface.Commands..uno:ToolBox	Label			0	lt	Elementai				2002-02-02 02:02:02
+officecfg	registry\data\org\openoffice\Office\UI\MathCommands.xcu	0	value	..MathCommands.UserInterface.Commands..uno:ToolBox	Label			0	lt	Ženklai				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\CalcCommands.xcu	0	value	..CalcCommands.UserInterface.Commands..uno:DataForm	Label			0	lt	F~orma…				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\CalcCommands.xcu	0	value	..CalcCommands.UserInterface.Commands..uno:SetTabBgColor	Label			0	lt	Ą~selės spalva…				2002-02-02 02:02:02
 officecfg	registry\data\org\openoffice\Office\UI\CalcCommands.xcu	0	value	..CalcCommands.UserInterface.Commands..uno:SetTabBgColor	ContextLabel			0	lt	Ą~selės spalva…				2002-02-02 02:02:02
@@ -27090,3 +27090,26 @@ filter	source\graphicfilter\eppm\dlgeppm.src	0	fixedline	DLG_EXPORT_EPPM	GRP_FOR
 filter	source\graphicfilter\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_RAW			45	lt	~Dvejetainis				2002-02-02 02:02:02
 filter	source\graphicfilter\eppm\dlgeppm.src	0	radiobutton	DLG_EXPORT_EPPM	RB_ASCII			45	lt	~Tekstinis				2002-02-02 02:02:02
 filter	source\graphicfilter\eppm\dlgeppm.src	0	modaldialog	DLG_EXPORT_EPPM				133	lt	PPM parinktys				2002-02-02 02:02:02
+sw	source\ui\inc\swmn_tmpl.hrc	0	menuitem	MN_TXT	FN_FORMAT_TITLEPAGE_DLG	FN_FORMAT_TITLEPAGE_DLG	!defined _SWMN_HRC	33776	lt	A~ntraštinis puslapis…				2002-02-02 02:02:02
+sw	source\ui\inc\swmn_tmpl.hrc	0	menuitem	_MN_EDIT_OPEN_HYPERLINK	FN_EDIT_HYPERLINK	FN_EDIT_HYPERLINK	!defined _SWMN_HRC	34160	lt	Taisyti hipersaitą…				2002-02-02 02:02:02
+sw	source\ui\inc\swmn_tmpl.hrc	0	menuitem	_MN_EDIT_OPEN_HYPERLINK	FN_COPY_HYPERLINK_LOCATION	FN_COPY_HYPERLINK_LOCATION	!defined _SWMN_HRC	34056	lt	Kopijuoti ~hipersaito adresą				2002-02-02 02:02:02
+sw	source\ui\inc\swmn_tmpl.hrc	0	menuitem	_MN_EDIT_OPEN_HYPERLINK	FN_REMOVE_HYPERLINK	FN_REMOVE_HYPERLINK	!defined _SWMN_HRC	34576	lt	~Šalinti hipersaitą				2002-02-02 02:02:02
+sw	source\ui\inc\swmn_tmpl.hrc	0	menuitem	_MN_EDIT__HYPERLINK	FN_EDIT_HYPERLINK	FN_EDIT_HYPERLINK	!defined _SWMN_HRC	34000	lt	~Taisyti hipersaitą				2002-02-02 02:02:02
+sw	source\ui\fmtui\tmpdlg.src	0	pageitem	DLG_TEMPLATE_2.1	TP_NUMPARA			13776	lt	Antraštės ir numeravimas				2002-02-02 02:02:02
+sw	source\ui\fldui\fldtdlg.src	0	pageitem	DLG_FLD_INSERT.1	TP_FLD_REF			37872	lt	Kryžminės nuorodos				2002-02-02 02:02:02
+sw	source\ui\fldui\fldref.src	0	string	TP_FLD_REF	STR_REFHEADING			29680	lt	Antraštės				2002-02-02 02:02:02
+sw	source\ui\fldui\fldref.src	0	string	TP_FLD_REF	STR_REFNUMITEM			29680	lt	Numeruotos pastraipos				2002-02-02 02:02:02
+sw	source\ui\fldui\fldref.src	0	tabpage	TP_FLD_REF		HID_FLD_REF		260	lt	Kryžminės nuorodos				2002-02-02 02:02:02
+sw	source\ui\fldui\fldui.src	0	string	FMT_REF_NUMBER				22024	lt	Skaičius				2002-02-02 02:02:02
+sw	source\ui\fldui\fldui.src	0	string	FMT_REF_NUMBER_NO_CONTEXT				21936	lt	Skaičius (be konteksto)				2002-02-02 02:02:02
+sw	source\ui\fldui\fldui.src	0	string	FMT_REF_NUMBER_FULL_CONTEXT				21768	lt	Skaičius (visas kontekstas)				2002-02-02 02:02:02
+sw	source\ui\docvw\access.src	0	string	STR_ACCESS_ANNOTATION_BUTTON_DESC				50496	lt	Šiuo mygtuku atveriamas veiksmų, kuriuos galima atlikti su šiuo bei kitais komentarais, sąrašas				2002-02-02 02:02:02
+sw	source\ui\docvw\annotation.src	0	string	STR_POSTIT_TODAY				0	lt	Šiandien,				2002-02-02 02:02:02
+sw	source\ui\docvw\annotation.src	0	string	STR_POSTIT_YESTERDAY				38224	lt	Vakar,				2002-02-02 02:02:02
+sw	source\ui\docvw\annotation.src	0	string	STR_DELETE_ALL_NOTES				37872	lt	Visi komentarai				2002-02-02 02:02:02
+sw	source\ui\docvw\annotation.src	0	string	STR_DELETE_AUTHOR_NOTES				37872	lt	Vieno autoriaus komentarai: 				2002-02-02 02:02:02
+sw	source\ui\docvw\annotation.src	0	string	STR_NODATE				37872	lt	(be datos)				2002-02-02 02:02:02
+sw	source\ui\docvw\annotation.src	0	string	STR_NOAUTHOR				37872	lt	(be autoriaus)				2002-02-02 02:02:02
+sw	source\ui\docvw\annotation.src	0	string	STR_REPLY				37872	lt	Atsakyti: $1				2002-02-02 02:02:02
+sfx2	source\dialog\taskpane.src	0	string	STR_SFX_UNDOCK				50512	lt	Atlaisvinti				2002-02-02 02:02:02
+filter	source\config\fragments\internalgraphicfilters\pcd_Import_Base4.xcu	0	value	pcd_Import_Base4	UIName			0	lt	PCD - Kodak Photo CD (384x256)				2002-02-02 02:02:02
