@@ -21114,7 +21114,7 @@ sw	source\ui\misc\outline.src	0	fixedline	TP_OUTLINE_NUM	FL_NUMBER			210	lt	Nume
 sw	source\ui\misc\outline.src	0	string	TP_OUTLINE_NUM	ST_NO_COLL			72	lt	(nėra)				2002-02-02 02:02:02
 sw	source\ui\misc\insrule.src	0	fixedline	DLG_INSERT_RULER	FL_SEL			174	lt	Linijos parinkimas				2002-02-02 02:02:02
 sw	source\ui\misc\insrule.src	0	string	DLG_INSERT_RULER	ST_SIMPLE			0	lt	Įprasta				2002-02-02 02:02:02
-sw	source\ui\misc\insrule.src	0	modaldialog	DLG_INSERT_RULER		HID_RULER_DIALOG		242	lt	Horizontalės įterpimas				2002-02-02 02:02:02
+sw	source\ui\misc\insrule.src	0	modaldialog	DLG_INSERT_RULER		HID_RULER_DIALOG		242	lt	Įterpti horizontalę				2002-02-02 02:02:02
 sw	source\ui\misc\glosbib.src	0	pushbutton	DLG_BIB_BASE	PB_NEW			50	lt	~Naujas				2002-02-02 02:02:02
 sw	source\ui\misc\glosbib.src	0	pushbutton	DLG_BIB_BASE	PB_DELETE			50	lt	~Šalinti				2002-02-02 02:02:02
 sw	source\ui\misc\glosbib.src	0	pushbutton	DLG_BIB_BASE	PB_RENAME			50	lt	~Pervadinti				2002-02-02 02:02:02
@@ -22185,8 +22185,8 @@ sw	source\ui\inc\swmn_tmpl.hrc	0	menuitem	_MN_EDIT_REDLINE._MN_EDIT_BIB_ENTRY_DL
 sw	source\ui\inc\swmn_tmpl.hrc	0	menuitem	MN_RESET	FN_FORMAT_RESET	FN_FORMAT_RESET	!defined _SWMN_HRC	0	lt	~Numatytasis formatas				2002-02-02 02:02:02
 sw	source\ui\inc\swmn_tmpl.hrc	0	menuitem	_NUMBERING_RELATED_MENU	FN_NUMBER_NEWSTART	FN_NUMBER_NEWSTART	!defined _SWMN_HRC	0	lt	Numeruoti iš naujo				2002-02-02 02:02:02
 sw	source\ui\inc\swmn_tmpl.hrc	0	menuitem	_NUMBERING_RELATED_MENU	FN_NUM_CONTINUE	FN_NUM_CONTINUE	!defined _SWMN_HRC	0	lt	Tęsti ankstesnę numeravimo seką				2002-02-02 02:02:02
-sw	source\ui\inc\swmn_tmpl.hrc	0	menuitem	_NUMBERING_RELATED_MENU	FN_NUM_BULLET_UP	FN_NUM_BULLET_UP	!defined _SWMN_HRC	0	lt	Vienu lygiu aukštyn				2002-02-02 02:02:02
-sw	source\ui\inc\swmn_tmpl.hrc	0	menuitem	_NUMBERING_RELATED_MENU	FN_NUM_BULLET_DOWN	FN_NUM_BULLET_DOWN	!defined _SWMN_HRC	0	lt	Vienu lygiu žemyn				2002-02-02 02:02:02
+sw	source\ui\inc\swmn_tmpl.hrc	0	menuitem	_NUMBERING_RELATED_MENU	FN_NUM_BULLET_UP	FN_NUM_BULLET_UP	!defined _SWMN_HRC	0	lt	Aukštyn vienu lygiu				2002-02-02 02:02:02
+sw	source\ui\inc\swmn_tmpl.hrc	0	menuitem	_NUMBERING_RELATED_MENU	FN_NUM_BULLET_DOWN	FN_NUM_BULLET_DOWN	!defined _SWMN_HRC	0	lt	Žemyn vienu lygiu				2002-02-02 02:02:02
 sw	source\ui\inc\swmn_tmpl.hrc	0	menuitem	BASE_TEXT_POPUPMENU_NOWEB	FN_UPDATE_CUR_TOX	FN_UPDATE_CUR_TOX	!defined _SWMN_HRC	0	lt	~Atnaujinti rodyklę arba turinį				2002-02-02 02:02:02
 sw	source\ui\inc\swmn_tmpl.hrc	0	menuitem	BASE_TEXT_POPUPMENU_NOWEB	FN_EDIT_CURRENT_TOX	FN_EDIT_CURRENT_TOX	!defined _SWMN_HRC	0	lt	~Taisyti rodyklę arba turinį				2002-02-02 02:02:02
 sw	source\ui\inc\swmn_tmpl.hrc	0	menuitem	BASE_TEXT_POPUPMENU_NOWEB	FN_REMOVE_CUR_TOX	FN_REMOVE_CUR_TOX	!defined _SWMN_HRC	0	lt	Šalinti rodyklę arba turinį				2002-02-02 02:02:02
@@ -27113,3 +27113,19 @@ sw	source\ui\docvw\annotation.src	0	string	STR_NOAUTHOR				37872	lt	(be autoriau
 sw	source\ui\docvw\annotation.src	0	string	STR_REPLY				37872	lt	Atsakyti: $1				2002-02-02 02:02:02
 sfx2	source\dialog\taskpane.src	0	string	STR_SFX_UNDOCK				50512	lt	Atlaisvinti				2002-02-02 02:02:02
 filter	source\config\fragments\internalgraphicfilters\pcd_Import_Base4.xcu	0	value	pcd_Import_Base4	UIName			0	lt	PCD - Kodak Photo CD (384x256)				2002-02-02 02:02:02
+sw	source\ui\inc\swmn_tmpl.hrc	0	menuitem	_MN_EDIT_REDLINE	FN_REDLINE_ACCEPT_DIRECT	FN_REDLINE_ACCEPT_DIRECT	!defined _SWMN_HRC	34248	lt	Priimti taisymą				2002-02-02 02:02:02
+sw	source\ui\inc\swmn_tmpl.hrc	0	menuitem	_MN_EDIT_REDLINE	FN_REDLINE_REJECT_DIRECT	FN_REDLINE_REJECT_DIRECT	!defined _SWMN_HRC	34576	lt	Atmesti taisymą				2002-02-02 02:02:02
+sw	source\ui\lingu\olmenu.src	0	string	STR_RESET_TO_DEFAULT_LANGUAGE				1008	lt	Atstatyti numatytąją kalbą				2002-02-02 02:02:02
+sw	source\ui\lingu\olmenu.src	0	string	STR_IGNORE_SELECTION				1008	lt	Nepaisyti				2002-02-02 02:02:02
+sw	source\ui\index\cnttab.src	0	stringlist	TP_TOX_ENTRY.LB_ENTRY_NO	1			0	lt	Skaičius				2002-02-02 02:02:02
+sw	source\ui\index\cnttab.src	0	stringlist	TP_TOX_ENTRY.LB_ENTRY_NO	2			0	lt	Skaičius be skirtuko				2002-02-02 02:02:02
+sw	source\ui\misc\pggrid.src	0	checkbox	TP_TEXTGRID_PAGE	CB_SNAPTOCHARS			158	lt	~Pritraukti prie rašmenų				2002-02-02 02:02:02
+sw	source\ui\misc\pggrid.src	0	fixedtext	TP_TEXTGRID_PAGE	FT_CHARWIDTH			80	lt	Ra~šmens plotis				2002-02-02 02:02:02
+sw	source\ui\misc\num.src	0	fixedtext	TP_NUM_POSITION	FT_INDENT			105	lt	Numeravimo plotis				2002-02-02 02:02:02
+sw	source\ui\misc\num.src	0	fixedtext	TP_NUM_POSITION	FT_LABEL_FOLLOWED_BY			105	lt	Po skaičiaus įterpiama				2002-02-02 02:02:02
+sw	source\ui\misc\num.src	0	stringlist	TP_NUM_POSITION.LB_LABEL_FOLLOWED_BY	1			0	lt	Tab. pozicija				2002-02-02 02:02:02
+sw	source\ui\misc\num.src	0	stringlist	TP_NUM_POSITION.LB_LABEL_FOLLOWED_BY	2			0	lt	Tarpas				2002-02-02 02:02:02
+sw	source\ui\misc\num.src	0	stringlist	TP_NUM_POSITION.LB_LABEL_FOLLOWED_BY	3			0	lt	Nieko				2002-02-02 02:02:02
+sw	source\ui\misc\num.src	0	fixedtext	TP_NUM_POSITION	FT_LISTTAB			143	lt	ties				2002-02-02 02:02:02
+sw	source\ui\misc\num.src	0	fixedtext	TP_NUM_POSITION	FT_ALIGNED_AT			105	lt	Lygiuoti ties				2002-02-02 02:02:02
+sw	source\ui\misc\num.src	0	fixedtext	TP_NUM_POSITION	FT_INDENT_AT			105	lt	Įtrauka				2002-02-02 02:02:02
